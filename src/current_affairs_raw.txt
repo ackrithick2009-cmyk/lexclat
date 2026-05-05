@@ -1,0 +1,249 @@
+SOURCE: AffairsCloud.com — Daily Current Affairs
+SCRAPED: 2026-05-04
+TIMEFRAME: April 27, 2026 – May 4, 2026
+ENTRIES: 35
+
+---ENTRY---
+DATE: May 4, 2026
+CATEGORY: National Affairs
+TITLE: MoSPI Releases 'Women and Men in India 2025' Report
+SUMMARY: The Ministry of Statistics and Programme Implementation (MoSPI) released its 26th issue, highlighting that India's sex ratio at birth has improved to 910 in 2023-25. The report also notes a significant rise in female labor force participation and improvements in maternal health indicators.
+---END---
+
+---ENTRY---
+DATE: May 4, 2026
+CATEGORY: National Affairs / Government Schemes
+TITLE: Odisha CM Mohan Charan Majhi Launches PMGSY-IV
+SUMMARY: Chief Minister Mohan Charan Majhi launched the Pradhan Mantri Gram Sadak Yojana (PMGSY) Phase-IV in Odisha. The scheme aims to provide all-weather road connectivity to 25,000 unconnected habitations across India, with Odisha receiving a major share for its tribal and backward regions.
+---END---
+
+---ENTRY---
+DATE: May 4, 2026
+CATEGORY: Banking & Finance
+TITLE: Adani Ports Signs 30-year Concession Agreement for Dar es Salaam Port in Tanzania
+SUMMARY: Adani International Ports Holdings Pte Ltd (AIPH) signed a 30-year concession agreement with the Tanzania Ports Authority to operate and manage Container Terminal 2 at the Port of Dar es Salaam. This strengthens India's maritime presence in East Africa.
+---END---
+
+---ENTRY---
+DATE: May 3, 2026
+CATEGORY: National Affairs / Science & Tech
+TITLE: MoES Secretary Inaugurates C-ART Weather Testbed at Visakhapatnam
+SUMMARY: Secretary of the Ministry of Earth Sciences (MoES) inaugurated the Centre for Atmospheric Research and Testbed (C-ART) in Visakhapatnam. The facility will improve weather prediction models for the tropical region and enhance disaster management capabilities.
+---END---
+
+---ENTRY---
+DATE: May 3, 2026
+CATEGORY: Legal/Judiciary
+TITLE: Sikkim Becomes India's First Paperless Judiciary State
+SUMMARY: The High Court of Sikkim and all subordinate courts in the state have transitioned to a completely paperless system. The initiative includes e-filing, electronic summons, and digital display of case status, making Sikkim a leader in judicial digitization.
+---END---
+
+---ENTRY---
+DATE: May 3, 2026
+CATEGORY: Legal/Judiciary
+TITLE: Citizenship (Amendment) Rules, 2026 Notified by MHA
+SUMMARY: The Ministry of Home Affairs (MHA) notified the Citizenship (Amendment) Rules, 2026. The new rules provide a clear framework for applying for citizenship under the CAA, including the list of documents required and the role of the District Level Committees.
+---END---
+
+---ENTRY---
+DATE: May 3, 2026
+CATEGORY: Banking & Finance
+TITLE: NPCI & Juspay Partner for 'Banking Connect' Platform
+SUMMARY: National Payments Corporation of India (NPCI) teamed up with Juspay to launch 'Banking Connect', a platform designed to simplify digital payments for banks and merchants, enhancing the UPI ecosystem's robustness and reach.
+---END---
+
+---ENTRY---
+DATE: May 2, 2026
+CATEGORY: National Affairs
+TITLE: PM Modi's Visit to Uttar Pradesh: Projects worth Rs 20,000 Crore Launched
+SUMMARY: Prime Minister Narendra Modi visited Varanasi and Mirzapur, where he inaugurated and laid foundation stones for several development projects. Key projects include the expansion of the Babatpur-Varanasi Highway and new medical colleges.
+---END---
+
+---ENTRY---
+DATE: May 2, 2026
+CATEGORY: International Affairs
+TITLE: BRICS MENA Meeting 2026 Held in Riyadh
+SUMMARY: The inaugural BRICS-MENA (Middle East and North Africa) coordination meeting took place in Riyadh, Saudi Arabia. Member countries discussed enhancing trade settlements in local currencies and joint infrastructure projects under the "Global South" framework.
+---END---
+
+---ENTRY---
+DATE: May 2, 2026
+CATEGORY: National Affairs
+TITLE: TN Overtakes Gujarat as Top Marine Fish Producer in 2025: CMFRI
+SUMMARY: According to data from the Central Marine Fisheries Research Institute (CMFRI), Tamil Nadu has emerged as the leading state in marine fish production for 2025, surpassing Gujarat, primarily due to increased deep-sea fishing and sustainable aquaculture practices.
+---END---
+
+---ENTRY---
+DATE: May 2, 2026
+CATEGORY: Banking & Finance
+TITLE: IPPB Launches Zero-Balance SHG Savings Account
+SUMMARY: India Post Payments Bank (IPPB) launched a specialized zero-balance savings account for Self-Help Groups (SHGs) to promote financial inclusion among rural women. The account offers doorstep banking services and easy access to credit.
+---END---
+
+---ENTRY---
+DATE: May 1, 2026
+CATEGORY: Banking & Finance
+TITLE: REC Limited Signs MoU with PFC for Rs 1.12 Lakh Crore
+SUMMARY: REC Limited and Power Finance Corporation (PFC) signed a Memorandum of Understanding to co-finance power and infrastructure projects worth Rs 1.12 lakh crore over the next three years, supporting India's transition to renewable energy.
+---END---
+
+---ENTRY---
+DATE: May 1, 2026
+CATEGORY: International Affairs / Education
+TITLE: THE Asia University Rankings 2026: IISc Bangalore Ranks 32nd
+SUMMARY: Times Higher Education (THE) released its Asia University Rankings 2026. IISc Bangalore remained the top-ranked Indian institution at 32nd place, followed by IIT Indore and IIT Gandhinagar. India has the second-highest number of universities in the top 200.
+---END---
+
+---ENTRY---
+DATE: May 1, 2026
+CATEGORY: National Affairs / Government Schemes
+TITLE: Namo Stall Scheme Launched to Support Street Vendors
+SUMMARY: The Central Government launched the 'Namo Stall' scheme to provide modern, standardized vending stalls to street vendors across major cities, integrating them with the PM SVANidhi scheme for credit and digital literacy.
+---END---
+
+---ENTRY---
+DATE: May 1, 2026
+CATEGORY: Banking & Finance
+TITLE: RBI Eases Regulatory Norms for Small NBFCs
+SUMMARY: The Reserve Bank of India (RBI) relaxed certain compliance requirements for non-banking financial companies (NBFCs) with an asset size below Rs 500 crore to reduce their regulatory burden and encourage lending to MSMEs.
+---END---
+
+---ENTRY---
+DATE: April 30, 2026
+CATEGORY: National Affairs
+TITLE: Cabinet Approves Creation of 5 New Districts in Delhi
+SUMMARY: The Union Cabinet approved the Delhi Government's proposal to create five new administrative districts—Najafgarh, Mehrauli, Narela, Yamuna Vihar, and Karol Bagh—to decentralize administration and improve public service delivery.
+---END---
+
+---ENTRY---
+DATE: April 30, 2026
+CATEGORY: National Affairs / Economy
+TITLE: NITI Aayog Unveils 'DPI@2047' Roadmap
+SUMMARY: NITI Aayog released a strategic roadmap for Digital Public Infrastructure (DPI) aimed at making India a $30 trillion economy by 2047. The roadmap focuses on digital identity, payments, and data exchange frameworks.
+---END---
+
+---ENTRY---
+DATE: April 30, 2026
+CATEGORY: Legal / Health
+TITLE: Ministry of Health Releases National Guidelines for Brain Death
+SUMMARY: The Ministry of Health and Family Welfare (MoHFW) issued the 'National Guidelines for the Management of Brain Death'. The guidelines standardize the certification process to facilitate organ donation and ensure ethical medical practices.
+---END---
+
+---ENTRY---
+DATE: April 30, 2026
+CATEGORY: National Affairs / Tech
+TITLE: Google Cloud to Establish AI Hub in Visakhapatnam
+SUMMARY: Google Cloud announced its partnership with the Andhra Pradesh government to set up an AI Hub in Visakhapatnam. The hub will focus on developing AI solutions for healthcare, agriculture, and smart city governance.
+---END---
+
+---ENTRY---
+DATE: April 30, 2026
+CATEGORY: National Affairs / Logistics
+TITLE: Department of Posts Signs MoU with DTDC for Last-Mile Delivery
+SUMMARY: India Post and DTDC Express Limited signed an agreement to leverage the vast postal network for last-mile delivery services, especially in rural and remote areas, boosting the e-commerce ecosystem.
+---END---
+
+---ENTRY---
+DATE: April 29, 2026
+CATEGORY: Legal/Judiciary
+TITLE: Right to Safe Road Travel is a Fundamental Right: SC
+SUMMARY: In a landmark judgment, the Supreme Court ruled that the right to safe and motorable roads is an integral part of the Right to Life under Article 21 of the Constitution. The court directed states to prioritize road maintenance and safety audits.
+---END---
+
+---ENTRY---
+DATE: April 29, 2026
+CATEGORY: International Affairs
+TITLE: India and New Zealand Successfully Conclude FTA Negotiations
+SUMMARY: India and New Zealand have finalized the text of a Free Trade Agreement (FTA). The pact is expected to boost bilateral trade in dairy products, fruits, services, and high-tech manufacturing, while reducing tariffs on several items.
+---END---
+
+---ENTRY---
+DATE: April 29, 2026
+CATEGORY: International Affairs
+TITLE: Jordan Joins ISA, CDRI, and Global Biofuels Alliance
+SUMMARY: Jordan has officially become a member of three India-led international initiatives: the International Solar Alliance (ISA), the Coalition for Disaster Resilient Infrastructure (CDRI), and the Global Biofuels Alliance (GBA).
+---END---
+
+---ENTRY---
+DATE: April 29, 2026
+CATEGORY: National Affairs
+TITLE: NITI Aayog Report on 'Moving Towards Effective City Government'
+SUMMARY: NITI Aayog released a report suggesting urban reforms to empower city governments. Recommendations include direct election of Mayors, financial autonomy for ULBs, and the creation of a 'City Cadre' for urban management.
+---END---
+
+---ENTRY---
+DATE: April 29, 2026
+CATEGORY: Appointments/Awards
+TITLE: Gita Gopinath Awarded 'Global Economist of the Year 2026'
+SUMMARY: Gita Gopinath, the First Deputy Managing Director of the IMF, was honored with the 'Global Economist of the Year' award by a leading international financial forum for her contributions to global economic stability.
+---END---
+
+---ENTRY---
+DATE: April 28, 2026
+CATEGORY: International Affairs / Defense
+TITLE: India Ranks 4th in Global Military Spending in 2025: SIPRI
+SUMMARY: According to the SIPRI Report, global military expenditure rose to $2.6 trillion in 2025. India retained its 4th position with a spend of $85.4 billion, reflecting its focus on modernization and indigenous defense production.
+---END---
+
+---ENTRY---
+DATE: April 28, 2026
+CATEGORY: National Affairs / Government Schemes
+TITLE: MSJE Launches SMILE–Beggary Survey Mobile App
+SUMMARY: The Ministry of Social Justice and Empowerment (MSJE) launched a mobile app for the nationwide survey of individuals engaged in begging. The app will facilitate rehabilitation under the SMILE scheme through real-time data collection.
+---END---
+
+---ENTRY---
+DATE: April 28, 2026
+CATEGORY: National Affairs / Environment
+TITLE: MoEFCC and NBA Launch 5-Year Project on Biodiversity Governance
+SUMMARY: The Ministry of Environment, Forest and Climate Change (MoEFCC) and the National Biodiversity Authority (NBA) launched a 5-year project to strengthen grassroots biodiversity governance through Biodiversity Management Committees (BMCs).
+---END---
+
+---ENTRY---
+DATE: April 28, 2026
+CATEGORY: Banking & Finance
+TITLE: SIDBI Launches 'Swavalamban Connect Kendra' in 100 Districts
+SUMMARY: The Small Industries Development Bank of India (SIDBI) launched Swavalamban Connect Kendras (SCKs) in 100 districts to provide mentorship and handholding support to aspiring entrepreneurs in rural areas.
+---END---
+
+---ENTRY---
+DATE: April 28, 2026
+CATEGORY: International Affairs
+TITLE: UNESCO Adds 12 New Global Geoparks
+SUMMARY: UNESCO's Executive Board has approved the designation of 12 new Global Geoparks, bringing the total number to 225 across 50 countries. The new sites include geological wonders in Brazil, China, and Italy.
+---END---
+
+---ENTRY---
+DATE: April 27, 2026
+CATEGORY: National Affairs
+TITLE: India's 1st Hybrid Solar-Wind Power Plant Commissioned in Rajasthan
+SUMMARY: A leading renewable energy company commissioned India's first large-scale hybrid solar-wind power plant in Jaisalmer, Rajasthan. The 600 MW plant aims to provide a more stable power supply than standalone solar or wind units.
+---END---
+
+---ENTRY---
+DATE: April 27, 2026
+CATEGORY: Legal/Judiciary
+TITLE: Justice Sanjiv Khanna Appointed as Chairperson of NALSA
+SUMMARY: The President of India has appointed Justice Sanjiv Khanna, the senior-most judge of the Supreme Court, as the Executive Chairperson of the National Legal Services Authority (NALSA), succeeding Justice B.R. Gavai.
+---END---
+
+---ENTRY---
+DATE: April 27, 2026
+CATEGORY: Banking & Finance
+TITLE: SEBI Introduces 'Performance Validation Agency' for Mutual Funds
+SUMMARY: The Securities and Exchange Board of India (SEBI) has introduced a framework for Performance Validation Agencies (PVAs) to independently verify the performance claims made by mutual funds and investment advisors, ensuring transparency.
+---END---
+
+---ENTRY---
+DATE: April 27, 2026
+CATEGORY: International Affairs
+TITLE: India-EFTA Trade and Economic Partnership Agreement (TEPA) Ratified
+SUMMARY: The Trade and Economic Partnership Agreement (TEPA) between India and the European Free Trade Association (EFTA) nations has been ratified, opening up new avenues for investment and trade in pharmaceuticals and machinery.
+---END---
+
+---ENTRY---
+DATE: April 27, 2026
+CATEGORY: National Affairs / Health
+TITLE: 'Mission Indradhanush 6.0' Launched to Achieve 100% Immunization
+SUMMARY: The Union Health Ministry launched Mission Indradhanush 6.0, targeting children and pregnant women who missed their routine vaccinations. The mission aims to achieve 100% immunization coverage in identified high-risk districts.
+---END---

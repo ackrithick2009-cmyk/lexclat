@@ -1,0 +1,184 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "Student profile data for the dynamic study engine.",
+      "type": "object",
+      "properties": {
+        "email": { "type": "string", "format": "email" },
+        "displayName": { "type": "string" },
+        "isPremium": { "type": "boolean" },
+        "targetNlu": { "type": "string" },
+        "targetYear": { "type": "number" },
+        "targetRank": { "type": "number" },
+        "studentStatus": { "type": "string", "enum": ["dropper", "school"] },
+        "hoursWeekdays": { "type": "number" },
+        "hoursWeekends": { "type": "number" },
+        "diagnosticScores": {
+          "type": "object",
+          "properties": {
+            "english": { "type": "number" },
+            "gk": { "type": "number" },
+            "legal": { "type": "number" },
+            "logical": { "type": "number" },
+            "quant": { "type": "number" }
+          }
+        },
+        "behavior": {
+          "type": "object",
+          "properties": {
+            "consistency": { "type": "number" },
+            "completionRate": { "type": "number" },
+            "completedMaterials": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["email", "diagnosticScores", "createdAt", "updatedAt"]
+    },
+    "Chat": {
+      "title": "Chat Message",
+      "description": "Messages exchanged between the user and Lexie AI.",
+      "type": "object",
+      "properties": {
+        "role": { "type": "string", "enum": ["user", "assistant"] },
+        "content": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["role", "content", "createdAt"]
+    },
+    "MockAttempt": {
+      "title": "Mock Test Attempt",
+      "description": "Records of test performance.",
+      "type": "object",
+      "properties": {
+        "testType": { "type": "string", "enum": ["practice", "weekly", "monthly"] },
+        "scores": {
+          "type": "object",
+          "properties": {
+            "english": { "type": "number" },
+            "current": { "type": "number" },
+            "legal": { "type": "number" },
+            "logical": { "type": "number" },
+            "quant": { "type": "number" }
+          }
+        },
+        "timeSpent": { "type": "number" },
+        "totalScore": { "type": "number" },
+        "accuracy": { "type": "number" },
+        "completedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["testType", "scores", "totalScore", "completedAt"]
+    },
+    "StudyPlan": {
+      "title": "Personalized Study Plan",
+      "description": "Strategic roadmap based on user strengths and targets.",
+      "type": "object",
+      "properties": {
+        "targetScore": { "type": "number" },
+        "dailyHours": { "type": "number" },
+        "strengths": { "type": "array" },
+        "weaknesses": { "type": "array" },
+        "schedule": { "type": "object" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["targetScore", "dailyHours", "schedule"]
+    },
+    "Doctrine": {
+      "title": "Legal Doctrine",
+      "description": "A legal concept or precedent.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "category": { "type": "string" },
+        "summary": { "type": "string" },
+        "landmarkCase": { "type": "string" },
+        "important": { "type": "boolean" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["title", "category", "summary", "important"]
+    },
+    "Material": {
+      "title": "Study Material",
+      "description": "A document or reading module.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "subject": { "type": "string" },
+        "type": { "type": "string" },
+        "description": { "type": "string" },
+        "content": { "type": "array", "items": { "type": "string" } },
+        "readTime": { "type": "string" },
+        "date": { "type": "string" },
+        "month": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["title", "subject", "type", "description"]
+    },
+    "Roadmap": {
+      "title": "AI Strategic Roadmap",
+      "description": "Markdown content of a personalized study roadmap.",
+      "type": "object",
+      "properties": {
+        "content": { "type": "string" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["content", "updatedAt"]
+    },
+    "Mock": {
+      "title": "Mock Test Template",
+      "description": "Structure for a mock test including passages and questions for all sections.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "year": { "type": "string" },
+        "difficulty": { "type": "string" },
+        "description": { "type": "string" },
+        "sections": { "type": "array", "items": { "type": "string" } },
+        "transcripts": { "type": "object" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["title", "transcripts"]
+    }
+  },
+  "firestore": {
+    "/currentAffairs/{updateId}": {
+      "schema": "currentAffairs",
+      "description": "Global knowledge base for competitive updates."
+    },
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "Root user profile document."
+    },
+    "/users/{userId}/chats/{chatId}": {
+      "schema": "Chat",
+      "description": "Subcollection of chat messages for a specific user."
+    },
+    "/users/{userId}/mocks/{mockId}": {
+      "schema": "MockAttempt",
+      "description": "History of full-length simulations."
+    },
+    "/users/{userId}/studyPlan/current": {
+      "schema": "StudyPlan",
+      "description": "The active study roadmap for the user."
+    },
+    "/users/{userId}/roadmap/current": {
+      "schema": "Roadmap",
+      "description": "The AI generated strategic roadmap."
+    },
+    "/doctrines/{doctrineId}": {
+      "schema": "Doctrine",
+      "description": "Global repository of legal concepts and precedents."
+    },
+    "/materials/{materialId}": {
+      "schema": "Material",
+      "description": "Educational source documents and high-yield notes."
+    },
+    "/mocks/{mockId}": {
+      "schema": "Mock",
+      "description": "Repository of full-length mock examinations."
+    }
+  }
+}

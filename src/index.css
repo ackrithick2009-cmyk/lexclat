@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+  
+  --color-primary: #C2A35D;
+  --color-background: #0A0C10;
+  --color-surface: #0F1218;
+  --color-accent: #1A1D24;
+  --color-border: #2A2E37;
+  
+  /* shadcn mapping */
+  --color-foreground: #E0E0E0;
+  --color-card: #0F1218;
+  --color-card-foreground: #E0E0E0;
+  --color-popover: #0F1218;
+  --color-popover-foreground: #E0E0E0;
+  --color-primary-foreground: #000000;
+  --color-secondary: #2A2E37; /* Increased contrast from 1A1D24 */
+  --color-secondary-foreground: #FFFFFF; /* High contrast */
+  --color-muted: #1A1D24;
+  --color-muted-foreground: #A1A5AC; /* Increased brightness from 8E9299 */
+  --color-accent-foreground: #C2A35D;
+  --color-destructive: #991b1b;
+  --color-destructive-foreground: #fee2e2;
+}
+
+@layer base {
+  html {
+    /* Safe for iOS Safari */
+    height: 100%;
+    /* Remove smooth scroll from html tag as it can cause issues in iframes on iOS */
+    scroll-behavior: auto;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased font-[400];
+    -webkit-tap-highlight-color: transparent;
+    /* Proper height for iOS */
+    min-height: 100%;
+    min-height: -webkit-fill-available;
+    overflow-x: hidden;
+  }
+
+  /* Apply smooth scroll to body or wrapper instead if needed, or handle via JS */
+  .smooth-scroll {
+    scroll-behavior: smooth;
+  }
+
+  /* Safe Area Utilities */
+  .safe-top {
+    padding-top: env(safe-area-inset-top);
+  }
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .safe-left {
+    padding-left: env(safe-area-inset-left);
+  }
+  .safe-right {
+    padding-right: env(safe-area-inset-right);
+  }
+  
+  /* Smooth momentum scrolling for iOS */
+  .scroll-ios {
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Smooth transitions for all interactive elements */
+  a, button, input, select, textarea {
+    @apply transition-all duration-200 ease-out;
+  }
+
+  /* Custom Scrollbar for a premium feel */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-background;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-border hover:bg-primary/50 transition-colors;
+  }
+}
+
+@layer utilities {
+  .text-shadow-gold {
+    text-shadow: 0 0 20px rgba(194, 163, 93, 0.2);
+  }
+  .glass {
+    @apply bg-surface/80 backdrop-blur-xl border border-border/50;
+  }
+  .grid-bg {
+    background-image: radial-gradient(circle at 2px 2px, rgba(194, 163, 93, 0.05) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+  .hover-invert {
+    @apply hover:bg-foreground hover:text-background transition-all duration-300;
+  }
+}
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+    --radius: 0px; 
+}

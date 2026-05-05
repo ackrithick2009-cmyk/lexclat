@@ -1,0 +1,157 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 0. Global Safety Net
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // --- Helpers ---
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isEmailVerified() {
+      return isSignedIn() && request.auth.token.email_verified == true;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid)) ||
+        (request.auth.token.email == "mahesdurai8@gmail.com" && isEmailVerified())
+      );
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // --- Entity Validations ---
+    function isValidUser(data) {
+      return data.email is string && data.email.size() <= 256
+        && data.get('displayName', 'Aspirant') is string && data.get('displayName', 'Aspirant').size() <= 100
+        && (data.get('studentStatus', 'school') in ['dropper', 'school'])
+        && (!data.keys().hasAll(['diagnosticScores']) || (
+             data.diagnosticScores is map
+          && data.diagnosticScores.get('english', 0) is number
+          && data.diagnosticScores.get('gk', 0) is number
+          && data.diagnosticScores.get('legal', 0) is number
+          && data.diagnosticScores.get('logical', 0) is number
+          && data.diagnosticScores.get('quant', 0) is number
+        ))
+        && data.get('createdAt', request.time) is timestamp
+        && data.get('updatedAt', request.time) is timestamp;
+    }
+
+    function isValidChat(data) {
+      return data.role in ['user', 'assistant']
+        && data.content is string && data.content.size() <= 10000
+        && data.createdAt is timestamp;
+    }
+
+    function isValidMock(data) {
+      return data.scores is map
+        && data.totalScore is number
+        && data.accuracy is number
+        && data.completedAt is timestamp;
+    }
+
+    function isValidStudyPlan(data) {
+      return data.schedule is map
+        && data.updatedAt is timestamp;
+    }
+
+    function isValidRoadmap(data) {
+      return data.content is string && data.content.size() <= 100000
+        && data.updatedAt is timestamp;
+    }
+
+    // --- User Collection Rules ---
+    match /users/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      
+      allow create: if isOwner(userId) 
+        && isValidId(userId)
+        && isValidUser(incoming())
+        && incoming().get('email', '') == request.auth.token.email
+        && incoming().createdAt == request.time
+        && incoming().updatedAt == request.time;
+
+      allow update: if (isOwner(userId) || isAdmin())
+        && isValidUser(incoming())
+        && (
+          isAdmin() || (
+            incoming().updatedAt == request.time
+            && incoming().createdAt == existing().createdAt
+            && incoming().email == existing().email
+            && (existing().get('isPremium', false) == incoming().get('isPremium', false) || isAdmin())
+          )
+        );
+
+      // --- Subcollections ---
+      
+      match /chats/{chatId} {
+        allow list, get: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(chatId)
+          && isValidChat(incoming())
+          && incoming().createdAt == request.time;
+        allow update: if isAdmin();
+      }
+
+      match /mocks/{mockId} {
+        allow list, get: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(mockId)
+          && isValidMock(incoming())
+          && incoming().completedAt == request.time;
+        allow update: if isAdmin();
+      }
+
+      match /studyPlan/{planId} {
+        allow get: if isOwner(userId);
+        allow create, update: if isOwner(userId) && isValidId(planId)
+          && isValidStudyPlan(incoming())
+          && incoming().updatedAt == request.time;
+      }
+
+      match /roadmap/{roadmapId} {
+        allow get: if isOwner(userId);
+        allow create, update: if isOwner(userId) && isValidId(roadmapId)
+          && isValidRoadmap(incoming())
+          && incoming().updatedAt == request.time;
+      }
+    }
+
+    // --- Global Content ---
+    match /currentAffairs/{updateId} {
+      allow read: if isSignedIn();
+      allow write: if isAdmin(); 
+    }
+
+    match /doctrines/{doctrineId} {
+      allow read: if isSignedIn();
+      allow write: if isAdmin();
+    }
+
+    match /materials/{materialId} {
+      allow read: if isSignedIn();
+      allow write: if isAdmin();
+    }
+
+    match /mocks/{mockId} {
+      allow read: if isSignedIn();
+      allow write: if isAdmin();
+    }
+  }
+}
