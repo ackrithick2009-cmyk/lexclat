@@ -181,16 +181,16 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
   }, []);
 
   return (
-    <nav id="nav" className={`fixed top-0 w-full z-50 transition-all duration-500 safe-top ${isScrolled ? 'bg-surface/90 backdrop-blur-xl border-b border-white/5 py-4' : 'bg-transparent py-8'}`}>
+    <nav id="nav" className={`fixed top-0 w-full z-50 transition-all duration-500 safe-top ${isScrolled ? 'bg-white/90 backdrop-blur-xl border-b border-gray-200 py-4' : 'bg-transparent py-8'}`}>
       <div className="container mx-auto px-4 lg:px-8 flex items-center justify-between">
         <div className="flex items-center gap-4 cursor-pointer group" onClick={() => setView('LANDING')}>
           <div className="relative">
-            <div className="w-10 h-10 bg-primary rounded-none rotate-45 flex items-center justify-center transition-all group-hover:rotate-0 shadow-[0_0_20px_rgba(194,163,93,0.3)]">
-              <span className="-rotate-45 group-hover:rotate-0 transition-transform text-black font-black text-sm font-serif">L</span>
+            <div className="w-10 h-10 bg-primary rounded-none rotate-45 flex items-center justify-center transition-all group-hover:rotate-0 shadow-lg">
+              <span className="-rotate-45 group-hover:rotate-0 transition-transform text-white font-black text-sm font-serif">L</span>
             </div>
           </div>
           <div className="flex flex-col -gap-1">
-            <span className="text-2xl font-serif font-black tracking-tighter text-white group-hover:text-primary transition-colors">LEXCLAT</span>
+            <span className="text-2xl font-serif font-black tracking-tighter text-foreground group-hover:text-primary transition-colors">LEXCLAT</span>
             <span className="text-[7px] font-black uppercase tracking-[0.4em] text-primary/60">Juris Elite Portal</span>
           </div>
         </div>
@@ -229,16 +229,16 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
           })}
           
           {user ? (
-            <div className="flex items-center gap-8 border-l border-white/10 pl-10">
+            <div className="flex items-center gap-8 border-l border-gray-200 pl-10">
               <div className="flex items-center gap-4 group cursor-pointer" onClick={() => setView('DASHBOARD')}>
-                <Avatar className="h-10 w-10 rounded-none border border-white/10 ring-4 ring-primary/5 transition-all group-hover:ring-primary/20">
+                <Avatar className="h-10 w-10 rounded-none border border-gray-200 ring-4 ring-primary/5 transition-all group-hover:ring-primary/20">
                   <AvatarImage src={user.photoURL || ''} />
-                  <AvatarFallback className="bg-accent text-primary rounded-none uppercase text-xs font-black">
+                  <AvatarFallback className="bg-primary/10 text-primary rounded-none uppercase text-xs font-black">
                     {profile?.displayName?.[0] || user.email?.[0]}
                   </AvatarFallback>
                 </Avatar>
                 <div className="flex flex-col">
-                  <span className="text-[10px] font-black text-white tracking-widest leading-none group-hover:text-primary transition-colors">{profile?.displayName?.toUpperCase() || 'ASPIRANT'}</span>
+                  <span className="text-[10px] font-black text-foreground tracking-widest leading-none group-hover:text-primary transition-colors">{profile?.displayName?.toUpperCase() || 'ASPIRANT'}</span>
                   <div className="flex items-center gap-3 mt-1.5">
                      <div className="flex items-center gap-1">
                         <Zap size={10} className="fill-orange-500 text-orange-500" />
@@ -249,13 +249,13 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
                   </div>
                 </div>
               </div>
-              <button className="text-gray-600 hover:text-red-500 transition-all hover:scale-110 active:scale-90" onClick={logout}>
+              <button className="text-gray-400 hover:text-red-500 transition-all hover:scale-110 active:scale-90" onClick={logout}>
                 <LogOut size={18} />
               </button>
             </div>
           ) : (
             <button 
-              className="bg-primary text-black px-8 py-3.5 text-[10px] font-black tracking-[0.2em] hover:bg-white transition-all shadow-[0_0_20px_rgba(194,163,93,0.2)]"
+              className="bg-primary text-white px-8 py-3.5 text-[10px] font-black tracking-[0.2em] hover:bg-primary/90 transition-all shadow-md"
               onClick={loginWithGoogle}
             >
               AUTHENTICATE
@@ -277,10 +277,16 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
             className="absolute top-full left-0 w-full bg-surface border-b border-border shadow-2xl p-8 flex flex-col gap-6 lg:hidden font-sans uppercase tracking-widest text-xs font-bold"
           >
             <button 
+              onClick={() => { setView('LEARN'); setMobileMenuOpen(false); }} 
+              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'LEARN' ? 'text-primary font-black' : ''}`}
+            >
+              🚀 Learning Hub <ChevronRight size={14} />
+            </button>
+            <button 
               onClick={() => { setView('WIKI'); setMobileMenuOpen(false); }} 
               className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'WIKI' ? 'text-primary font-black' : ''}`}
             >
-              Study Material (Wiki) <ChevronRight size={14} />
+              Master Wiki <ChevronRight size={14} />
             </button>
             <button 
               onClick={() => { setView('MATERIALS'); setMobileMenuOpen(false); }} 
@@ -345,7 +351,7 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
   );
 };
 
-const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onCheckout: () => void }) => {
+const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null; onCheckout: () => void; setView: (v: View) => void }) => {
   return (
     <div className="space-y-0">
       {/* Hero Section */}
@@ -362,11 +368,11 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
                 <span className="text-[10px] text-primary/80 font-black tracking-[0.4em] uppercase">Daily CLAT Preparation</span>
               </div>
               
-              <h1 className="text-4xl sm:text-6xl lg:text-8xl font-serif font-medium leading-[1.1] lg:leading-[0.9] mb-10 text-white tracking-tighter">
+              <h1 className="text-4xl sm:text-6xl lg:text-8xl font-serif font-medium leading-[1.1] lg:leading-[0.9] mb-10 text-foreground tracking-tighter">
                 The Definitive <br /> 
                 <span className="italic text-primary">Authority on Law.</span>
               </h1>
-              <p className="text-gray-400 text-lg sm:text-xl leading-relaxed max-w-xl mx-auto lg:mx-0 mb-8 font-sans font-light">
+              <p className="text-muted-foreground text-lg sm:text-xl leading-relaxed max-w-xl mx-auto lg:mx-0 mb-8 font-sans font-light">
                 LexCLAT is a structural transformation for your cognitive readiness. Current affairs, mocks, legal reasoning, and AI-powered study plans engineered to propel you into the top 1%.
               </p>
 
@@ -375,7 +381,7 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
                   <div className="text-[8px] font-black text-gray-500 uppercase tracking-[0.4em]">Time to CLAT 2026</div>
                   <Countdown />
                 </div>
-                <div className="hidden lg:block w-px h-12 bg-white/10" />
+                <div className="hidden lg:block w-px h-12 bg-border" />
                 <div className="space-y-2">
                   <div className="flex items-center gap-2">
                     <div className="flex -space-x-2">
@@ -394,39 +400,42 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
                          />
                        ))}
                     </div>
-                    <span className="text-[10px] font-bold text-white uppercase tracking-widest">1,200+ Aspirants Active Now</span>
+                    <span className="text-[10px] font-bold text-foreground uppercase tracking-widest">1,200+ Aspirants Active Now</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-                    <span className="text-[8px] text-gray-500 font-black uppercase tracking-widest">Repository Updated 14m ago</span>
+                    <span className="text-[8px] text-muted-foreground font-black uppercase tracking-widest">Repository Updated 14m ago</span>
                   </div>
                 </div>
               </div>
 
               <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-6">
                 <button 
-                  className="bg-primary text-black px-12 h-16 font-black uppercase tracking-[0.2em] text-[11px] hover:bg-white hover:scale-105 active:scale-95 transition-all shadow-2xl shadow-primary/40 border-none"
-                  onClick={() => (window.dispatchEvent(new CustomEvent('change-view', { detail: 'MOCKS' })))}
+                  className="bg-primary text-white px-12 h-16 font-black uppercase tracking-[0.2em] text-[11px] hover:bg-primary/90 hover:scale-105 active:scale-95 transition-all shadow-xl shadow-primary/20 border-none"
+                  onClick={() => setView('LEARN')}
                 >
-                  START FREE MOCK
+                  🚀 START LEARNING
                 </button>
                 <button 
-                  className="px-10 h-16 border border-white/20 bg-transparent font-black uppercase tracking-[0.2em] text-[11px] text-white hover:border-primary hover:text-primary hover:bg-white/5 transition-all"
-                  onClick={() => document.getElementById('free-section')?.scrollIntoView({ behavior: 'smooth' })}
+                  className="px-10 h-16 border border-gray-200 bg-white font-black uppercase tracking-[0.2em] text-[11px] text-foreground hover:border-primary hover:text-primary transition-all"
+                  onClick={() => {
+                    const el = document.getElementById('free-section');
+                    if (el) el.scrollIntoView({ behavior: 'smooth' });
+                  }}
                 >
                   EXPLORE FREE HUB
                 </button>
               </div>
               
-              <div className="mt-20 flex flex-wrap justify-center lg:justify-start gap-12 font-serif text-white">
+              <div className="mt-20 flex flex-wrap justify-center lg:justify-start gap-12 font-serif text-foreground">
                 {[
                   { val: '50k+', label: 'Aspirants' },
                   { val: '140+', label: 'Simulations' },
                   { val: 'AIR 01', label: 'Legacy Rank' }
                 ].map((stat, i) => (
-                  <div key={i} className="flex flex-col gap-1 pl-6 border-l border-white/5">
+                  <div key={i} className="flex flex-col gap-1 pl-6 border-l border-gray-200">
                     <span className="text-4xl font-medium">{stat.val}</span>
-                    <span className="text-[10px] uppercase font-black text-gray-500 tracking-[0.2em] leading-none font-sans">{stat.label}</span>
+                    <span className="text-[10px] uppercase font-black text-muted-foreground tracking-[0.2em] leading-none font-sans">{stat.label}</span>
                   </div>
                 ))}
               </div>
@@ -466,35 +475,33 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col lg:flex-row items-end justify-between gap-12 mb-20 animate-in fade-in slide-in-from-bottom-10 duration-1000">
             <div className="max-w-2xl space-y-6">
-              <Badge className="bg-primary/20 text-primary border-primary/30 uppercase tracking-[0.3em] font-black rounded-none h-7">Aspirant's Gateway</Badge>
-              <h2 className="text-5xl lg:text-7xl font-serif text-white italic tracking-tighter leading-none">The Free <br /> Intelligence Hub.</h2>
-              <p className="text-gray-400 text-lg font-light leading-relaxed">No subscription required. Start sharp with daily essentials curated by AI for serious CLAT aspirants.</p>
+              <Badge className="bg-primary/10 text-primary border-primary/20 uppercase tracking-[0.3em] font-black rounded-none h-7">Aspirant's Gateway</Badge>
+              <h2 className="text-5xl lg:text-7xl font-serif text-foreground italic tracking-tighter leading-none">The Free <br /> Intelligence Hub.</h2>
+              <p className="text-muted-foreground text-lg font-light leading-relaxed">No subscription required. Start sharp with daily essentials curated by AI for serious CLAT aspirants.</p>
             </div>
             <div className="flex gap-4">
               <Button 
-                onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'MATERIALS' }))}
-                className="border border-border text-gray-500 hover:text-white rounded-none h-14 px-8 uppercase tracking-widest text-[10px] font-black transition-all hover:border-primary"
+                onClick={() => setView('MATERIALS')}
+                className="border border-gray-200 text-muted-foreground hover:text-foreground bg-white rounded-none h-14 px-8 uppercase tracking-widest text-[10px] font-black transition-all hover:border-primary"
               >
                 Explore Full Library
               </Button>
             </div>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                   <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Daily CA */}
             <div 
-              onClick={() => (window.dispatchEvent(new CustomEvent('change-view', { detail: 'DAILY' })))}
-              className="bg-accent p-10 space-y-8 group hover:bg-surface transition-all cursor-pointer relative overflow-hidden"
+              onClick={() => setView('DAILY')}
+              className="bg-white p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-gray-100"
             >
               <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <Newspaper size={80} />
               </div>
-              <div className="w-12 h-12 bg-background flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-black transition-colors rotate-45 relative z-10">
+              <div className="w-12 h-12 bg-gray-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors rotate-45 relative z-10">
                 <Newspaper size={20} className="-rotate-45" />
               </div>
               <div className="relative z-10">
-                <h4 className="text-xl font-serif text-white italic mb-2">Daily Currents</h4>
-                <p className="text-gray-500 text-[10px] uppercase tracking-widest leading-relaxed font-bold">AI-distilled 60-second news cards with CLAT-specific MCQ angles.</p>
+                <h4 className="text-xl font-serif text-foreground italic mb-2">Daily Currents</h4>
+                <p className="text-muted-foreground text-[10px] uppercase tracking-widest leading-relaxed font-bold">AI-distilled 60-second news cards with CLAT-specific MCQ angles.</p>
               </div>
               <div className="flex items-center justify-between relative z-10">
                  <span className="text-[10px] text-primary font-black uppercase tracking-widest">Access Now</span>
@@ -504,18 +511,18 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
 
             {/* Mini Quizzes */}
             <div 
-              onClick={() => (window.dispatchEvent(new CustomEvent('change-view', { detail: 'PRACTICE' })))}
-              className="bg-accent p-10 space-y-8 group hover:bg-surface transition-all cursor-pointer relative overflow-hidden"
+              onClick={() => setView('PRACTICE')}
+              className="bg-white p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-gray-100"
             >
                <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <Zap size={80} />
               </div>
-              <div className="w-12 h-12 bg-background flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-black transition-colors rotate-45 relative z-10">
+              <div className="w-12 h-12 bg-gray-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors rotate-45 relative z-10">
                 <Zap size={20} className="-rotate-45" />
               </div>
               <div className="relative z-10">
-                <h4 className="text-xl font-serif text-white italic mb-2">Mini-Quizzes</h4>
-                <p className="text-gray-500 text-[10px] uppercase tracking-widest leading-relaxed font-bold">10-minute micro-drills to fix your logic gaps on the go.</p>
+                <h4 className="text-xl font-serif text-foreground italic mb-2">Mini-Quizzes</h4>
+                <p className="text-muted-foreground text-[10px] uppercase tracking-widest leading-relaxed font-bold">10-minute micro-drills to fix your logic gaps on the go.</p>
               </div>
               <div className="flex items-center justify-between relative z-10">
                  <span className="text-[10px] text-primary font-black uppercase tracking-widest">Start Drill</span>
@@ -525,18 +532,18 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
 
             {/* Rank Predictor */}
             <div 
-              onClick={() => (window.dispatchEvent(new CustomEvent('change-view', { detail: 'DASHBOARD' })))}
-              className="bg-accent p-10 space-y-8 group hover:bg-surface transition-all cursor-pointer relative overflow-hidden"
+              onClick={() => setView('DASHBOARD')}
+              className="bg-white p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-gray-100"
             >
                <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <Target size={80} />
               </div>
-              <div className="w-12 h-12 bg-background flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-black transition-colors rotate-45 relative z-10">
+              <div className="w-12 h-12 bg-gray-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors rotate-45 relative z-10">
                 <Target size={20} className="-rotate-45" />
               </div>
               <div className="relative z-10">
-                <h4 className="text-xl font-serif text-white italic mb-2">Rank Predictor</h4>
-                <p className="text-gray-500 text-[10px] uppercase tracking-widest leading-relaxed font-bold">Simulate your NLU admission probability based on past data.</p>
+                <h4 className="text-xl font-serif text-foreground italic mb-2">Rank Predictor</h4>
+                <p className="text-muted-foreground text-[10px] uppercase tracking-widest leading-relaxed font-bold">Simulate your NLU admission probability based on past data.</p>
               </div>
               <div className="flex items-center justify-between relative z-10">
                  <span className="text-[10px] text-primary font-black uppercase tracking-widest">Check Rank</span>
@@ -546,34 +553,34 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
 
             {/* Legal Word */}
             <div 
-              onClick={() => (window.dispatchEvent(new CustomEvent('change-view', { detail: 'ARCHIVE' })))}
-              className="bg-primary p-10 space-y-8 group hover:bg-white transition-all cursor-pointer relative overflow-hidden"
+              onClick={() => setView('ARCHIVE')}
+              className="bg-primary p-10 space-y-8 group hover:bg-primary/90 transition-all cursor-pointer relative overflow-hidden"
             >
                <div className="absolute top-0 right-0 p-4 opacity-10 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <BookOpen size={80} />
               </div>
-              <div className="w-12 h-12 bg-black flex items-center justify-center text-primary rotate-45 relative z-10 animate-pulse">
+              <div className="w-12 h-12 bg-white flex items-center justify-center text-primary rotate-45 relative z-10 animate-pulse">
                 <BookOpen size={20} className="-rotate-45" />
               </div>
               <div className="relative z-10">
-                <h4 className="text-xl font-serif text-black italic mb-2">Legal Lexicon</h4>
-                <p className="text-black/60 text-[10px] font-black uppercase tracking-widest mb-4 leading-none">Word of the Day</p>
+                <h4 className="text-xl font-serif text-white italic mb-2">Legal Lexicon</h4>
+                <p className="text-white/60 text-[10px] font-black uppercase tracking-widest mb-4 leading-none">Word of the Day</p>
                 <div className="space-y-1">
-                  <span className="text-2xl font-serif text-black uppercase tracking-widest block">Res Judicata</span>
-                  <span className="text-[10px] text-black/40 italic block uppercase tracking-widest font-black">A matter judged.</span>
+                  <span className="text-2xl font-serif text-white uppercase tracking-widest block">Res Judicata</span>
+                  <span className="text-[10px] text-white/40 italic block uppercase tracking-widest font-black">A matter judged.</span>
                 </div>
               </div>
               <div className="flex items-center justify-between relative z-10">
-                 <span className="text-[10px] text-black font-black uppercase tracking-widest">Learn More</span>
-                 <ArrowRight size={20} className="text-black group-hover:translate-x-4 transition-all" />
+                 <span className="text-[10px] text-white font-black uppercase tracking-widest">Learn More</span>
+                 <ArrowRight size={20} className="text-white group-hover:translate-x-4 transition-all" />
               </div>
             </div>
-          </div>
+          </div>   </div>
         </div>
       </section>
 
       {/* Strategic Features Grid */}
-      <section id="features" className="py-32 bg-background relative border-t border-white/5">
+      <section id="features" className="py-32 bg-background relative border-t border-gray-100">
         <div className="container mx-auto px-8">
           <div className="grid lg:grid-cols-3 gap-8">
             {[
@@ -593,12 +600,12 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
                 icon: <BookOpen className="text-primary" size={24} />
               }
             ].map((f, i) => (
-              <div key={i} className="bg-surface/50 p-12 space-y-6 group hover:bg-surface transition-colors cursor-default border border-white/5">
+              <div key={i} className="bg-white p-12 space-y-6 group hover:shadow-xl transition-all cursor-default border border-gray-100">
                 <div className="w-12 h-12 bg-primary/5 flex items-center justify-center border border-primary/10 group-hover:border-primary transition-colors">
                   {f.icon}
                 </div>
-                <h3 className="text-2xl font-serif text-white italic">{f.title}</h3>
-                <p className="text-gray-500 text-sm leading-relaxed font-light uppercase tracking-widest">{f.desc}</p>
+                <h3 className="text-2xl font-serif text-foreground italic">{f.title}</h3>
+                <p className="text-muted-foreground text-sm leading-relaxed font-light uppercase tracking-widest">{f.desc}</p>
               </div>
             ))}
           </div>
@@ -606,12 +613,12 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
       </section>
 
       {/* Methodology Section */}
-      <section id="methodology" className="py-32 bg-surface grid-bg border-b border-border">
+      <section id="methodology" className="py-32 bg-white grid-bg border-b border-gray-100">
         <div className="container mx-auto px-8 flex flex-col lg:flex-row gap-20 items-center">
           <div className="flex-1 space-y-12">
             <div className="space-y-4">
               <span className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">Our Methodology</span>
-              <h2 className="text-3xl sm:text-5xl lg:text-6xl font-serif text-white italic tracking-tighter leading-tight">
+              <h2 className="text-3xl sm:text-5xl lg:text-6xl font-serif text-foreground italic tracking-tighter leading-tight">
                 Beyond Rote Learning. <br />
                 <span className="not-italic text-primary">Logical Synthesis.</span>
               </h2>
@@ -625,8 +632,8 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
                 <div key={i} className="flex gap-8 group">
                   <span className="text-4xl font-serif text-primary italic opacity-30 group-hover:opacity-100 transition-opacity">{m.step}</span>
                   <div className="space-y-2">
-                    <h4 className="text-xl font-serif text-white italic">{m.title}</h4>
-                    <p className="text-gray-500 text-sm font-light leading-relaxed max-w-md">{m.desc}</p>
+                    <h4 className="text-xl font-serif text-foreground italic">{m.title}</h4>
+                    <p className="text-muted-foreground text-sm font-light leading-relaxed max-w-md">{m.desc}</p>
                   </div>
                 </div>
               ))}
@@ -651,13 +658,13 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
       </section>
 
       {/* Trust & Results Section */}
-      <section className="py-32 bg-background border-b border-border overflow-hidden">
+      <section className="py-32 bg-background border-b border-gray-100 overflow-hidden">
         <div className="container mx-auto px-8">
            <div className="grid lg:grid-cols-2 gap-24 items-center">
               <div className="space-y-12">
                  <div className="space-y-4">
                     <span className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">The LexCLAT Advantage</span>
-                    <h2 className="text-5xl lg:text-7xl font-serif text-white italic tracking-tighter leading-none">Why Top Rankers <br /> Choose Us.</h2>
+                    <h2 className="text-5xl lg:text-7xl font-serif text-foreground italic tracking-tighter leading-none">Why Top Rankers <br /> Choose Us.</h2>
                  </div>
                  
                  <div className="grid sm:grid-cols-2 gap-12">
@@ -669,37 +676,37 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
                     ].map((item, i) => (
                       <div key={i} className="space-y-4">
                          <div className="w-8 h-8 rounded-full border border-primary/40 flex items-center justify-center text-primary text-xs font-serif italic">{i + 1}</div>
-                         <h4 className="text-xl font-serif text-white italic">{item.title}</h4>
-                         <p className="text-gray-500 text-xs leading-relaxed uppercase tracking-widest font-bold">{item.desc}</p>
+                         <h4 className="text-xl font-serif text-foreground italic">{item.title}</h4>
+                         <p className="text-muted-foreground text-[10px] leading-relaxed uppercase tracking-widest font-bold">{item.desc}</p>
                       </div>
                     ))}
                  </div>
 
-                 <div className="flex items-center gap-8 pt-8 border-t border-border">
+                 <div className="flex items-center gap-8 pt-8 border-t border-gray-100">
                     <div className="flex -space-x-4">
                        {[
                          'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&h=100&fit=crop',
                          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop',
                          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop'
                        ].map((url, i) => (
-                         <img key={i} src={url} className="w-12 h-12 rounded-full border-2 border-background object-cover grayscale" alt="user" referrerPolicy="no-referrer" />
+                         <img key={i} src={url} className="w-12 h-12 rounded-full border-2 border-white object-cover" alt="user" referrerPolicy="no-referrer" />
                        ))}
-                       <div className="w-12 h-12 rounded-full border-2 border-background bg-accent flex items-center justify-center text-[10px] font-black text-primary">50k+</div>
+                       <div className="w-12 h-12 rounded-full border-2 border-white bg-primary-light flex items-center justify-center text-[10px] font-black text-primary">50k+</div>
                     </div>
-                    <p className="text-gray-400 text-[10px] font-bold uppercase tracking-[0.2em]">Join the largest legal brain-trust in the country.</p>
+                    <p className="text-muted-foreground text-[10px] font-bold uppercase tracking-[0.2em]">Join the largest legal brain-trust in the country.</p>
                  </div>
               </div>
               
               <div className="relative">
-                 <div className="aspect-[4/5] bg-surface border border-border relative overflow-hidden">
+                 <div className="aspect-[4/5] bg-white border border-gray-100 relative overflow-hidden shadow-2xl">
                     <img 
                       src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&q=80&w=1200"
-                      className="w-full h-full object-cover grayscale"
+                      className="w-full h-full object-cover"
                       alt="Law School"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent" />
                     <div className="absolute bottom-0 left-0 p-12 space-y-4">
-                       <div className="text-5xl text-white font-serif italic tracking-tighter">"The difference between AIR 10 and AIR 1000 is logical precision."</div>
+                       <div className="text-5xl text-foreground font-serif italic tracking-tighter">"The difference between AIR 10 and AIR 1000 is logical precision."</div>
                        <p className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">— Adv. Rohan Mehta, NLS Alumni</p>
                     </div>
                  </div>
@@ -805,23 +812,23 @@ const LandingPage = ({ user, onCheckout }: { user: FirebaseUser | null; onChecko
   );
 };
 
-const Footer = () => (
-  <footer className="bg-surface text-gray-400 py-32 border-t border-border font-sans safe-bottom">
+const Footer = ({ setView }: { setView: (v: View) => void }) => (
+  <footer className="bg-white text-muted-foreground py-32 border-t border-gray-100 font-sans safe-bottom">
     <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-20 mb-24">
         <div className="lg:col-span-1">
           <div className="flex items-center gap-3 mb-10 group cursor-pointer">
             <div className="w-10 h-10 bg-primary rounded-sm rotate-45 flex items-center justify-center transition-transform group-hover:rotate-0">
-              <span className="-rotate-45 group-hover:rotate-0 transition-transform text-black font-bold text-lg font-serif">L</span>
+              <span className="-rotate-45 group-hover:rotate-0 transition-transform text-white font-bold text-lg font-serif">L</span>
             </div>
-            <span className="text-2xl font-serif font-bold text-white tracking-tighter">LEXCLAT</span>
+            <span className="text-2xl font-serif font-bold text-foreground tracking-tighter">LEXCLAT</span>
           </div>
-          <p className="max-w-xs mb-10 leading-relaxed text-[11px] uppercase tracking-[0.2em] font-medium text-gray-500">
+          <p className="max-w-xs mb-10 leading-relaxed text-[11px] uppercase tracking-[0.2em] font-medium text-muted-foreground">
             The definitive path to national law schools. Cultivating the elite legal minds of India through algorithmic mentorship and strategic analysis.
           </p>
           <div className="flex gap-2">
              {['01', '02', '03', '04'].map(i => (
-               <div key={i} className="w-10 h-10 bg-accent border border-border flex items-center justify-center hover:bg-primary/20 hover:border-primary transition-all cursor-pointer text-[10px] text-gray-400 hover:text-primary font-bold">
+               <div key={i} className="w-10 h-10 bg-gray-50 border border-gray-100 flex items-center justify-center hover:bg-primary/10 hover:border-primary transition-all cursor-pointer text-[10px] text-muted-foreground hover:text-primary font-bold">
                  {i}
                </div>
              ))}
@@ -830,46 +837,46 @@ const Footer = () => (
 
         <div className="space-y-10">
           <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px] border-l-2 border-primary pl-4">Academic Suite</h4>
-          <ul className="space-y-6 text-[11px] font-bold uppercase tracking-widest text-gray-500">
-            <li><button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'DASHBOARD' }))} className="hover:text-white transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Dashboard</button></li>
-            <li><button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'DAILY' }))} className="hover:text-white transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Current Affairs & GK</button></li>
-            <li><button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'MOCKS' }))} className="hover:text-white transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Mock Arena</button></li>
-            <li><button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'ARCHIVE' }))} className="hover:text-white transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Legal Reasoning</button></li>
-            <li><button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'PLANNER' }))} className="hover:text-white transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> AI Study Plan</button></li>
-            <li><button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'ANALYSIS' }))} className="hover:text-white transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Performance Analytics</button></li>
+          <ul className="space-y-6 text-[11px] font-bold uppercase tracking-widest text-muted-foreground">
+            <li><button onClick={() => setView('DASHBOARD')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Dashboard</button></li>
+            <li><button onClick={() => setView('DAILY')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Current Affairs & GK</button></li>
+            <li><button onClick={() => setView('MOCKS')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Mock Arena</button></li>
+            <li><button onClick={() => setView('ARCHIVE')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Legal Reasoning</button></li>
+            <li><button onClick={() => setView('PLANNER')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> AI Study Plan</button></li>
+            <li><button onClick={() => setView('ANALYSIS')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Performance Analytics</button></li>
           </ul>
         </div>
 
         <div className="space-y-10">
           <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px] border-l-2 border-primary pl-4">Governance</h4>
-          <ul className="space-y-6 text-[11px] font-bold uppercase tracking-widest text-gray-500">
-            <li><a href="#" className="hover:text-white transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Terms of Use</a></li>
-            <li><a href="#" className="hover:text-white transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Privacy Policy</a></li>
-            <li><a href="#" className="hover:text-white transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Portal Integrity</a></li>
-            <li><a href="#" className="hover:text-white transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Support Desk</a></li>
+          <ul className="space-y-6 text-[11px] font-bold uppercase tracking-widest text-muted-foreground">
+            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Terms of Use</a></li>
+            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Privacy Policy</a></li>
+            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Portal Integrity</a></li>
+            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Support Desk</a></li>
           </ul>
         </div>
 
-        <div className="space-y-10 bg-accent/30 p-6 lg:p-10 border border-border">
+        <div className="space-y-10 bg-gray-50 p-6 lg:p-10 border border-gray-100">
            <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px]">Portal Status</h4>
            <div className="space-y-6">
               <div className="flex items-center gap-4">
                  <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse shadow-[0_0_10px_#22c55e]" />
-                 <span className="text-[10px] font-bold uppercase tracking-widest text-white">All Systems Operational</span>
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-foreground">All Systems Operational</span>
               </div>
               <div className="space-y-2">
-                 <div className="text-[9px] text-gray-600 uppercase font-black">Latency</div>
-                 <div className="text-xl font-serif italic text-white">42ms</div>
+                 <div className="text-[9px] text-muted-foreground uppercase font-black">Latency</div>
+                 <div className="text-xl font-serif italic text-foreground">42ms</div>
               </div>
-              <Button variant="outline" className="w-full border-primary/20 text-primary uppercase text-[9px] tracking-widest hover:bg-primary hover:text-black rounded-none h-10">System Log</Button>
+              <Button variant="outline" className="w-full border-primary/20 text-primary uppercase text-[9px] tracking-widest hover:bg-primary hover:text-white rounded-none h-10">System Log</Button>
            </div>
         </div>
       </div>
 
-      <div className="pt-16 border-t border-border/50 flex flex-col lg:flex-row items-center justify-between text-[9px] font-bold tracking-[0.4em] gap-8 uppercase text-gray-600">
+      <div className="pt-16 border-t border-gray-100 flex flex-col lg:flex-row items-center justify-between text-[9px] font-bold tracking-[0.4em] gap-8 uppercase text-muted-foreground">
         <div className="flex flex-col lg:flex-row items-center gap-8">
           <p>© 2026 Juris Elite Academy • Strictly Academic Integrity</p>
-          <div className="hidden lg:block w-px h-4 bg-border" />
+          <div className="hidden lg:block w-px h-4 bg-gray-200" />
           <p>UGC ACCREDIT: AE/402/2026</p>
         </div>
         <p className="text-primary/60">Premium Academic Experience v4.2.1</p>
@@ -946,7 +953,7 @@ export default function App() {
       if (!u) {
         setProfile(null);
         setLoading(false);
-        if (view !== 'LANDING' && !['MATERIALS', 'DAILY', 'AFFAIRS', 'ARCHIVE', 'DASHBOARD', 'TUTOR', 'WIKI'].includes(view)) setView('LANDING');
+        if (view !== 'LANDING' && !['MATERIALS', 'DAILY', 'AFFAIRS', 'ARCHIVE', 'DASHBOARD', 'TUTOR', 'WIKI', 'LEARN'].includes(view)) setView('LANDING');
       } else {
         // Listen to user profile
         if (unsubProfile) unsubProfile();
@@ -1282,12 +1289,12 @@ export default function App() {
       case 'INGESTOR': return <div className="pt-32 px-4 md:px-6"><DataIngestor /></div>;
       case 'WIKI': return <div className="pt-0"><WikiMaster initialRoute={window.location.pathname.split('/')[2] || 'index'} onClose={() => { setView('DASHBOARD'); window.history.pushState(null, '', '/'); }} /></div>;
       case 'LEARN': return <div className="pt-16"><LearningHub /></div>;
-      default: return <LandingPage user={user} onCheckout={handleCheckout} />;
+      default: return <LandingPage user={user} onCheckout={handleCheckout} setView={setView} />;
     }
   };
 
   return (
-    <div className="min-h-screen bg-background selection:bg-primary selection:text-black text-[#E0E0E0] font-sans scroll-ios">
+    <div className="min-h-screen bg-background selection:bg-primary selection:text-white text-foreground font-sans scroll-ios">
       <Navbar user={user} profile={profile} hasPremiumAccess={hasPremiumAccess} setView={setView} currentView={view} streak={streak} />
       <main className="relative overflow-hidden">
         <AnimatePresence mode="wait">
@@ -1309,7 +1316,8 @@ export default function App() {
           </motion.div>
         </AnimatePresence>
       </main>
-
+      <Footer setView={setView} />
+      
       {/* Lexie Coach Resident Avatar - Fixed Bottom Right */}
       <div className="fixed bottom-8 right-8 z-[100] flex flex-col items-end pointer-events-none safe-bottom safe-right">
         <AnimatePresence>
@@ -1320,18 +1328,18 @@ export default function App() {
               exit={{ opacity: 0, scale: 0.8, y: 20 }}
               className="mb-4 pointer-events-auto"
             >
-              <div className="bg-black/90 backdrop-blur-xl border border-white/10 p-4 rounded-2xl shadow-2xl max-w-[240px] relative">
+              <div className="bg-white border border-gray-200 p-4 rounded-2xl shadow-2xl max-w-[240px] relative">
                 <div className="flex items-center gap-3 mb-2">
                   <div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center">
-                    <Star size={14} className="text-black fill-black" />
+                    <Star size={14} className="text-white fill-white" />
                   </div>
                   <span className="text-[10px] font-black uppercase tracking-widest text-primary">Lexie Mentor</span>
                 </div>
-                <p className="text-[11px] text-gray-300 font-serif italic leading-relaxed">
+                <p className="text-[11px] text-foreground font-serif italic leading-relaxed">
                   "I've identified a logic gap in your Torts performance. Let's fix it in the Masterclass before your next mock."
                 </p>
                 {/* Speech bubble tail */}
-                <div className="absolute -bottom-2 right-6 w-4 h-4 bg-black/90 border-r border-b border-white/10 rotate-45" />
+                <div className="absolute -bottom-2 right-6 w-4 h-4 bg-white border-r border-b border-gray-200 rotate-45" />
               </div>
             </motion.div>
           )}

@@ -10,7 +10,9 @@
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "eslint . && tsc --noEmit",
-    "fetch-gk": "tsx scripts/fetch_gk_today.ts"
+    "fetch-gk": "tsx scripts/fetch_gk_today.ts",
+    "fetch-affairscloud": "tsx scripts/fetch_affairscloud.ts",
+    "import-historical": "tsx scripts/import_historical.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.93.0",
@@ -32,6 +34,8 @@
     "express": "^4.21.2",
     "firebase": "^12.12.1",
     "firebase-admin": "^13.8.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
     "next-themes": "^0.4.6",

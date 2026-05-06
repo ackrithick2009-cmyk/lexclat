@@ -1371,42 +1371,47 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
 
   if (results) {
     return (
-      <div className="max-w-4xl mx-auto space-y-12 pb-20">
+      <div className="max-w-4xl mx-auto space-y-12 pb-20 mt-10">
         <div className="text-center">
-          <h2 className="text-4xl font-serif text-white italic mb-4">Post-Examination Audit</h2>
-          <p className="text-xs text-primary font-bold tracking-[0.4em] uppercase">Juris Elite Scorecard • {testType?.toUpperCase()} TEST</p>
+          <h2 className="text-4xl font-serif text-foreground italic mb-4">Post-Examination Audit</h2>
+          <p className="text-[10px] text-primary font-black tracking-[0.4em] uppercase">Juris Elite Scorecard • {testType?.toUpperCase()} TEST</p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
-          <Card className="bg-surface border-border p-8 text-center flex flex-col justify-center items-center gap-2">
-            <span className="text-gray-500 text-[10px] uppercase font-black tracking-widest">Composite Score</span>
-            <span className="text-5xl font-serif text-primary italic">{results.totalScore}</span>
-            <span className="text-gray-600 text-xs">Top 2%ile</span>
+          <Card className="bg-white border-gray-100 shadow-xl p-8 text-center flex flex-col justify-center items-center gap-2 rounded-sm">
+            <span className="text-muted-foreground text-[10px] uppercase font-black tracking-widest">Composite Score</span>
+            <span className="text-5xl font-serif text-primary italic font-black">{results.totalScore}</span>
+            <span className="text-muted-foreground text-[10px] font-bold uppercase tracking-widest">Top 2%ile</span>
           </Card>
-          <Card className="bg-surface border-border p-8 text-center flex flex-col justify-center items-center gap-2">
-             <span className="text-gray-500 text-[10px] uppercase font-black tracking-widest">Accuracy Matrix</span>
-             <span className="text-4xl font-serif text-white">{results.accuracy}%</span>
-             <span className="text-gray-600 text-xs">Precision Standard</span>
+          <Card className="bg-white border-gray-100 shadow-xl p-8 text-center flex flex-col justify-center items-center gap-2 rounded-sm">
+             <span className="text-muted-foreground text-[10px] uppercase font-black tracking-widest">Accuracy Matrix</span>
+             <span className="text-4xl font-serif text-foreground italic font-black">{results.accuracy}%</span>
+             <span className="text-muted-foreground text-[10px] font-bold uppercase tracking-widest">Precision Standard</span>
           </Card>
-          <Card className="bg-surface border-border p-8 text-center flex flex-col justify-center items-center gap-2">
-             <span className="text-gray-500 text-[10px] uppercase font-black tracking-widest">Time Efficiency</span>
-             <span className="text-4xl font-serif text-white">{Math.floor(results.timeSpent / 60)}m</span>
-             <span className="text-gray-600 text-xs">Tactical Speed</span>
+          <Card className="bg-white border-gray-100 shadow-xl p-8 text-center flex flex-col justify-center items-center gap-2 rounded-sm">
+             <span className="text-muted-foreground text-[10px] uppercase font-black tracking-widest">Time Efficiency</span>
+             <span className="text-4xl font-serif text-foreground italic font-black">{Math.floor(results.timeSpent / 60)}m</span>
+             <span className="text-muted-foreground text-[10px] font-bold uppercase tracking-widest">Tactical Speed</span>
           </Card>
         </div>
 
-        <div className="space-y-4">
-          <h3 className="text-xl font-serif text-white border-b border-border pb-4">Sectional Performance Breakdown</h3>
+        <div className="space-y-6">
+          <h3 className="text-xl font-serif text-foreground italic border-b border-gray-100 pb-4">Sectional Performance Breakdown</h3>
           <div className="grid gap-4">
             {SECTIONS.map(s => (
-              <div key={s.id} className="bg-accent/30 border border-border p-6 flex items-center justify-between">
+              <div key={s.id} className="bg-white border border-gray-100 shadow-sm p-6 flex items-center justify-between rounded-sm">
                 <div>
-                  <div className="text-white font-serif text-lg">{s.label}</div>
-                  <div className="text-[10px] text-gray-500 font-bold uppercase tracking-widest mt-1">Difficulty Variance: Moderate</div>
+                  <div className="text-foreground font-serif text-xl italic">{s.label}</div>
+                  <div className="text-[10px] text-muted-foreground font-bold uppercase tracking-widest mt-1">Difficulty Variance: Moderate</div>
                 </div>
                 <div className="text-right">
-                  <div className="text-primary font-serif text-xl">{results.scores[s.id]} / {s.questions}</div>
-                  <Progress value={(results.scores[s.id] / s.questions) * 100} className="h-1 w-32 mt-2 bg-black" />
+                  <div className="text-primary font-serif text-2xl font-black italic">{results.scores[s.id]} / {s.questions}</div>
+                  <div className="h-1.5 w-40 bg-gray-100 rounded-full overflow-hidden mt-3">
+                    <div 
+                      className="h-full bg-primary transition-all duration-1000" 
+                      style={{ width: `${(results.scores[s.id] / s.questions) * 100}%` }}
+                    />
+                  </div>
                 </div>
               </div>
             ))}
@@ -1414,7 +1419,7 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
         </div>
 
         <Button 
-          className="w-full h-16 bg-primary text-black font-black uppercase tracking-widest text-xs rounded-none hover:bg-white transition-all"
+          className="w-full h-16 bg-primary text-white font-black uppercase tracking-widest text-xs rounded-sm hover:opacity-90 transition-all shadow-xl"
           onClick={() => { setResults(null); setTestType(null); }}
         >
           Return to Arena
@@ -1425,26 +1430,26 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
 
   if (!isActive) {
     return (
-      <div className="max-w-5xl mx-auto py-10 space-y-16">
+      <div className="max-w-6xl mx-auto py-10 space-y-16">
         <div className="text-center space-y-4">
-          <h2 className="text-5xl font-serif text-white italic">Mock Examination Arena</h2>
-          <p className="text-gray-500 uppercase tracking-widest text-[10px] font-bold">Select your training schedule to begin the simulation</p>
+          <h2 className="text-5xl font-serif text-foreground italic tracking-tight">Mock Examination Arena</h2>
+          <p className="text-muted-foreground uppercase tracking-[0.3em] text-[10px] font-black">Select your training schedule to begin the simulation</p>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-1">
+        <div className="grid md:grid-cols-3 gap-6">
           {/* Practice */}
-          <Card className="bg-accent border border-border p-10 flex flex-col gap-8 group hover:bg-surface transition-all">
-            <div className="w-12 h-12 bg-background border border-primary/20 flex items-center justify-center rotate-45 group-hover:border-primary transition-colors">
-              <Clock size={20} className="-rotate-45 text-primary" />
+          <Card className="bg-white border-gray-100 p-10 flex flex-col gap-8 group hover:shadow-2xl transition-all rounded-sm shadow-lg">
+            <div className="w-14 h-14 bg-primary-light border border-primary/10 flex items-center justify-center rotate-45 group-hover:scale-110 transition-transform">
+              <Clock size={24} className="-rotate-45 text-primary" />
             </div>
             <div>
-              <h3 className="text-2xl font-serif text-white mb-2">Standard Practice</h3>
-              <p className="text-gray-500 text-xs leading-relaxed uppercase tracking-widest font-light">Rapid drills, sectional focus, and unrestricted timing. Best for module mastery.</p>
+              <h3 className="text-2xl font-serif text-foreground mb-3 italic">Standard Practice</h3>
+              <p className="text-muted-foreground text-sm leading-relaxed font-light">Rapid drills, sectional focus, and unrestricted timing. Best for module mastery.</p>
             </div>
-            <div className="mt-auto pt-8 border-t border-border/50">
+            <div className="mt-auto pt-8 border-t border-gray-50">
                <button 
                 onClick={() => startTest('practice')}
-                className="w-full py-4 border border-primary/30 text-primary text-[10px] font-black uppercase tracking-widest hover:bg-primary hover:text-black transition-all"
+                className="w-full py-4 border-2 border-primary text-primary text-[10px] font-black uppercase tracking-widest hover:bg-primary hover:text-white transition-all rounded-sm"
                >
                  Initialize Drill
                </button>
@@ -1452,19 +1457,19 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
           </Card>
 
           {/* Weekly */}
-          <Card className="bg-accent border border-border p-10 flex flex-col gap-8 group hover:bg-surface transition-all relative overflow-hidden">
-            <div className="absolute top-0 right-0 bg-primary text-black px-4 py-1 text-[8px] font-black uppercase tracking-widest">Live Now</div>
-            <div className="w-12 h-12 bg-background border border-primary/20 flex items-center justify-center rotate-45 group-hover:border-primary transition-colors">
-              <Calendar size={20} className="-rotate-45 text-primary" />
+          <Card className="bg-primary p-10 flex flex-col gap-8 group hover:shadow-2xl transition-all relative overflow-hidden rounded-sm shadow-xl">
+            <div className="absolute top-0 right-0 bg-white text-primary px-4 py-1.5 text-[8px] font-black uppercase tracking-widest">Live Now</div>
+            <div className="w-14 h-14 bg-white/10 border border-white/20 flex items-center justify-center rotate-45 group-hover:scale-110 transition-transform">
+              <Calendar size={24} className="-rotate-45 text-white" />
             </div>
-            <div>
-              <h3 className="text-2xl font-serif text-white mb-2">Weekly Challenge</h3>
-              <p className="text-gray-500 text-xs leading-relaxed uppercase tracking-widest font-light">High-difficulty passage selection based on the current week's legal transitions.</p>
+            <div className="relative z-10">
+              <h3 className="text-2xl font-serif text-white mb-3 italic">Weekly Challenge</h3>
+              <p className="text-white/70 text-sm leading-relaxed font-light">High-difficulty passage selection based on the current week's legal transitions.</p>
             </div>
-            <div className="mt-auto pt-8 border-t border-border/50">
+            <div className="mt-auto pt-8 border-t border-white/10 relative z-10">
                <button 
                 onClick={() => startTest('weekly')}
-                className="w-full py-4 bg-primary text-black text-[10px] font-black uppercase tracking-widest hover:bg-white transition-all shadow-xl shadow-primary/10"
+                className="w-full py-4 bg-white text-primary text-[10px] font-black uppercase tracking-widest hover:bg-opacity-90 transition-all shadow-2xl rounded-sm"
                >
                  Start Weekly Mock
                </button>
@@ -1472,18 +1477,18 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
           </Card>
 
           {/* Monthly */}
-          <Card className="bg-accent border border-border p-10 flex flex-col gap-8 group hover:bg-surface transition-all">
-            <div className="w-12 h-12 bg-background border border-primary/20 flex items-center justify-center rotate-45 group-hover:border-primary transition-colors">
-              <Trophy size={20} className="-rotate-45 text-primary" />
+          <Card className="bg-white border-gray-100 p-10 flex flex-col gap-8 group hover:shadow-2xl transition-all rounded-sm shadow-lg">
+            <div className="w-14 h-14 bg-primary-light border border-primary/10 flex items-center justify-center rotate-45 group-hover:scale-110 transition-transform">
+              <Trophy size={24} className="-rotate-45 text-primary" />
             </div>
             <div>
-              <h3 className="text-2xl font-serif text-white mb-2">Monthly Grand Mock</h3>
-              <p className="text-gray-500 text-xs leading-relaxed uppercase tracking-widest font-light">Full-length simulation for national ranking estimation. Comprehensive analytics guaranteed.</p>
+              <h3 className="text-2xl font-serif text-foreground mb-3 italic">Monthly Grand Mock</h3>
+              <p className="text-muted-foreground text-sm leading-relaxed font-light">Full-length simulation for national ranking estimation. Comprehensive analytics guaranteed.</p>
             </div>
-            <div className="mt-auto pt-8 border-t border-border/50">
+            <div className="mt-auto pt-8 border-t border-gray-50">
                <button 
                 onClick={() => startTest('monthly')}
-                className="w-full py-4 border border-border text-gray-400 text-[10px] font-black uppercase tracking-widest hover:border-primary hover:text-primary transition-all"
+                className="w-full py-4 border-2 border-gray-200 text-muted-foreground text-[10px] font-black uppercase tracking-widest hover:border-primary hover:text-primary transition-all rounded-sm"
                >
                  Enter Tournament
                </button>
@@ -1491,18 +1496,18 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
           </Card>
         </div>
 
-        <div className="bg-surface p-8 border border-border flex items-center justify-between">
-           <div className="flex items-center gap-6">
-              <div className="p-4 bg-accent border border-primary/10 text-primary"><BarChart3 size={24} /></div>
+        <div className="bg-white p-10 border border-gray-100 flex items-center justify-between rounded-sm shadow-xl">
+           <div className="flex items-center gap-8">
+              <div className="p-5 bg-primary-light text-primary rounded-sm shadow-inner"><BarChart3 size={28} /></div>
               <div>
-                <h4 className="text-xl font-serif text-white">Academic Integrity Standard</h4>
-                <p className="text-gray-500 text-[10px] uppercase font-bold tracking-widest">Protocol v4.2 Enforced • Real-time Proctoring</p>
+                <h4 className="text-2xl font-serif text-foreground italic">Academic Integrity Standard</h4>
+                <p className="text-muted-foreground text-[10px] uppercase font-black tracking-widest mt-1">Protocol v4.2 Enforced • Real-time Proctoring</p>
               </div>
            </div>
-           <div className="flex gap-4">
+           <div className="flex gap-8 border-l border-gray-100 pl-8">
               <div className="text-right">
-                <span className="block text-2xl font-serif text-white">840+</span>
-                <span className="text-[9px] text-gray-600 uppercase font-black tracking-widest leading-none">Aspirants Live</span>
+                <span className="block text-3xl font-serif text-primary italic font-black">840+</span>
+                <span className="text-[10px] text-muted-foreground uppercase font-black tracking-widest">Aspirants Live</span>
               </div>
            </div>
         </div>
@@ -1511,29 +1516,34 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
   }
 
   return (
-    <div className="min-h-screen bg-background text-white font-sans p-4 sm:p-6 pt-20">
+    <div className="min-h-screen bg-background text-foreground font-sans p-4 sm:p-6 pt-24">
       <div className="max-w-[1400px] mx-auto flex flex-col lg:flex-row gap-8">
         {/* Exam Dashboard */}
         <div className="w-full lg:w-80 flex flex-col gap-6">
-          <Card className="bg-surface border-border p-6 rounded-none space-y-4">
-            <div className="flex items-center justify-between text-gray-500 font-bold uppercase tracking-widest text-[10px]">
+          <Card className="bg-white border-gray-100 p-8 rounded-sm shadow-xl space-y-6">
+            <div className="flex items-center justify-between text-muted-foreground font-black uppercase tracking-widest text-[10px]">
               <span>Session Duration</span>
               <Timer size={14} className="text-primary" />
             </div>
-            <div className={`text-4xl font-serif text-center py-2 ${timeLeft < 300 ? 'text-red-500 animate-pulse' : 'text-primary'}`}>
+            <div className={`text-5xl font-serif text-center py-4 italic font-black ${timeLeft < 300 ? 'text-red-500 animate-pulse' : 'text-primary'}`}>
               {formatTime(timeLeft)}
             </div>
-            <Progress value={(timeLeft / (120 * 60)) * 100} className="h-1 bg-black" />
+            <div className="h-1.5 w-full bg-gray-100 rounded-full overflow-hidden">
+               <div 
+                 className={`h-full transition-all ${timeLeft < 300 ? 'bg-red-500' : 'bg-primary'}`}
+                 style={{ width: `${(timeLeft / (120 * 60)) * 100}%` }}
+               />
+            </div>
           </Card>
 
-          <Card className="bg-surface border-border flex-1 p-6 rounded-none flex flex-col min-h-[300px] lg:min-h-0 overflow-hidden">
-             <div className="text-[10px] text-gray-500 font-bold uppercase tracking-widest mb-4">Navigational Map</div>
-             <ScrollArea className="h-64 lg:h-auto flex-1">
-               <div className="grid grid-cols-4 gap-2">
+          <Card className="bg-white border-gray-100 flex-1 p-8 rounded-sm shadow-xl flex flex-col min-h-[400px] lg:min-h-0">
+             <div className="text-[10px] text-muted-foreground font-black uppercase tracking-widest mb-6">Navigational Map</div>
+             <ScrollArea className="flex-1 pr-2">
+               <div className="grid grid-cols-4 gap-2.5">
                  {Array.from({ length: 60 }).map((_, i) => (
                    <button 
                      key={i} 
-                     className={`aspect-square text-[10px] font-bold border ${answers[`${currentSection}-${i}`] !== undefined ? 'bg-primary text-black border-primary' : 'border-border text-gray-500 hover:border-primary/50'}`}
+                     className={`aspect-square text-[10px] font-black border transition-all rounded-sm ${answers[`${currentSection}-${i}`] !== undefined ? 'bg-primary text-white border-primary shadow-lg shadow-primary/20' : 'border-gray-100 text-muted-foreground hover:border-primary/50'}`}
                    >
                      {i + 1}
                    </button>
@@ -1542,7 +1552,7 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
              </ScrollArea>
              <Button 
                variant="destructive" 
-               className="mt-6 rounded-none uppercase font-black tracking-widest text-xs h-12"
+               className="mt-8 rounded-sm uppercase font-black tracking-widest text-[10px] h-14 shadow-lg shadow-red-100"
                disabled={isSaving}
                onClick={finishTest}
              >
@@ -1552,14 +1562,14 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
         </div>
 
         {/* Question Panel */}
-        <div className="flex-1 flex flex-col gap-6 overflow-hidden">
+        <div className="flex-1 flex flex-col gap-6">
           <Tabs value={currentSection} onValueChange={setCurrentSection} className="w-full">
-            <TabsList className="bg-surface border border-border p-1 rounded-none w-full justify-start h-14">
+            <TabsList className="bg-white border border-gray-100 p-1.5 rounded-sm w-full justify-start h-16 shadow-lg">
               {SECTIONS.map(s => (
                 <TabsTrigger 
                   key={s.id} 
                   value={s.id}
-                  className="rounded-none data-[state=active]:bg-primary data-[state=active]:text-black uppercase text-[10px] font-bold tracking-widest h-full px-6"
+                  className="rounded-sm data-[state=active]:bg-primary data-[state=active]:text-white uppercase text-[10px] font-black tracking-widest h-full px-8 transition-all"
                 >
                   {s.label}
                 </TabsTrigger>
@@ -1567,18 +1577,20 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
             </TabsList>
           </Tabs>
 
-          <Card className="flex-1 bg-surface border-border rounded-none p-6 lg:p-10 overflow-hidden flex flex-col">
-            <ScrollArea className="min-h-[400px] lg:h-auto pr-4">
-              <div className="space-y-10">
-                <div className="space-y-4">
-                  <div className="text-[10px] text-primary font-bold tracking-[0.2em] uppercase">Contextual Passage 01.A • {currentSection.toUpperCase()}</div>
-                  <p className="text-gray-400 text-lg leading-relaxed font-serif italic border-l-2 border-primary/20 pl-8">
-                    {activeContent?.passage || 'The principle of vicarious liability in tort law establishes that an employer is responsible for the wrongful acts of an employee committed in the course of employment. This doctrine, often summarized as "respondeat superior," ensures that victims can seek damages from the party with more substantial resources. However, defining "course of employment" remains a significant legal challenge, often requiring analysis of whether the act was a "frolic of his own" or a deviation from duty.'}
-                  </p>
+          <Card className="flex-1 bg-white border-gray-100 rounded-sm p-8 lg:p-14 shadow-2xl flex flex-col min-h-[600px]">
+            <ScrollArea className="flex-1 pr-4">
+              <div className="space-y-12">
+                <div className="space-y-6">
+                  <div className="text-[10px] text-primary font-black tracking-[0.3em] uppercase">Contextual Passage 01.A • {currentSection.toUpperCase()}</div>
+                  <div className="bg-primary-light/30 border-l-4 border-primary p-10 rounded-r-lg">
+                    <p className="text-[#111827] text-xl leading-[1.8] font-serif font-light">
+                      {activeContent?.passage || 'The principle of vicarious liability in tort law establishes that an employer is responsible for the wrongful acts of an employee committed in the course of employment. This doctrine, often summarized as "respondeat superior," ensures that victims can seek damages from the party with more substantial resources.'}
+                    </p>
+                  </div>
                 </div>
 
                 <div className="space-y-8">
-                  <h3 className="text-2xl text-white font-serif">Question 01: {activeContent?.question || 'Based on the passage, which of the following scenarios best demonstrates vicarious liability?'}</h3>
+                  <h3 className="text-2xl text-foreground font-serif italic border-b border-gray-50 pb-6">Question 01: {activeContent?.question || 'Based on the passage, which of the following scenarios best demonstrates vicarious liability?'}</h3>
                   <div className="grid gap-4">
                     {(activeContent?.options || [
                       "A driver delivers a package and hits a pedestrian on the standard route.",
@@ -1588,26 +1600,26 @@ const MockSimulator = ({ preloadedMockId }: { preloadedMockId: string | null }) 
                     ]).map((opt: string, i: number) => (
                       <button 
                         key={i} 
-                        className={`text-left p-6 border ${answers[`${currentSection}-${0}`] === i ? 'bg-primary/10 border-primary text-primary' : 'border-border bg-accent/20 hover:border-primary/30'} transition-all flex items-center justify-between group`}
+                        className={`text-left p-6 border-2 transition-all flex items-center justify-between group rounded-sm ${answers[`${currentSection}-${0}`] === i ? 'bg-primary border-primary text-white shadow-xl shadow-primary/20' : 'border-gray-50 bg-[#F9FAFB] hover:border-primary/30 text-foreground'}`}
                         onClick={() => setAnswers({...answers, [`${currentSection}-${0}`]: i})}
                       >
-                        <span className="text-sm font-sans flex items-center gap-4">
-                          <span className="w-8 h-8 rounded-full border border-current flex items-center justify-center text-[10px] font-bold">0{i+1}</span>
-                          {opt}
+                        <span className="text-sm font-sans flex items-center gap-6">
+                          <span className={`w-10 h-10 rounded-sm border flex items-center justify-center text-[11px] font-black transition-all ${answers[`${currentSection}-${0}`] === i ? 'bg-white text-primary border-white' : 'bg-white border-gray-100 text-primary shadow-sm'}`}>0{i+1}</span>
+                          <span className={answers[`${currentSection}-${0}`] === i ? 'font-bold' : 'font-medium'}>{opt}</span>
                         </span>
-                        {answers[`${currentSection}-${0}`] === i && <CheckCircle2 size={20} />}
+                        {answers[`${currentSection}-${0}`] === i && <CheckCircle2 size={24} />}
                       </button>
                     ))}
                   </div>
                 </div>
               </div>
             </ScrollArea>
-            <div className="pt-8 flex justify-between border-t border-border mt-auto">
-               <button className="flex items-center gap-2 text-gray-500 uppercase tracking-widest text-[10px] font-bold hover:text-white transition-colors">
-                 <ChevronLeft size={16} /> Previous Document
+            <div className="pt-10 flex justify-between border-t border-gray-50 mt-10">
+               <button className="flex items-center gap-3 text-muted-foreground uppercase tracking-widest text-[10px] font-black hover:text-primary transition-all">
+                 <ChevronLeft size={18} /> Previous Document
                </button>
-               <button className="flex items-center gap-2 text-primary uppercase tracking-widest text-[10px] font-bold hover:opacity-80 transition-opacity">
-                 Next Module <ChevronRight size={16} />
+               <button className="flex items-center gap-3 text-primary uppercase tracking-widest text-[10px] font-black hover:translate-x-1 transition-all">
+                 Next Module <ChevronRight size={18} />
                </button>
             </div>
           </Card>

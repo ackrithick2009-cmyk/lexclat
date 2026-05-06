@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { BookMarked, Scale, BookOpen, FileText, BrainCircuit, BarChart, Menu, ArrowLeft, X } from 'lucide-react';
+import CurrentAffairs from './CurrentAffairs';
 
 // Import all markdown files in the /wiki directory as raw strings at build time
 // @ts-ignore
@@ -26,7 +27,6 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
 
   useEffect(() => {
     window.history.pushState(null, '', `/wiki/${activeModule}`);
-    // Scroll content to top when switching module
     if (contentRef.current) contentRef.current.scrollTop = 0;
 
     const loadContent = async () => {
@@ -53,36 +53,21 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
   const activeTitle = WIKI_MODULES.find(m => m.path === activeModule)?.title || 'Module';
 
   return (
-    <div
-      style={{ position: 'fixed', inset: 0, top: '64px', display: 'flex', zIndex: 50 }}
-      className="bg-background text-white font-sans"
-    >
+    <div className="fixed inset-0 top-16 flex z-50 bg-background text-foreground font-sans">
       {/* ── Sidebar ── */}
       <aside
-        style={{
-          width: sidebarOpen ? '280px' : '0',
-          minWidth: sidebarOpen ? '280px' : '0',
-          overflowY: 'auto',
-          overflowX: 'hidden',
-          transition: 'width 0.3s, min-width 0.3s',
-          borderRight: '1px solid rgba(255,255,255,0.08)',
-          display: 'flex',
-          flexDirection: 'column',
-          background: 'rgba(255,255,255,0.02)',
-        }}
+        className={`${sidebarOpen ? 'w-72' : 'w-0'} flex flex-col bg-white border-r border-gray-200 transition-all duration-300 overflow-hidden shadow-sm`}
       >
         {/* Sidebar header */}
-        <div style={{ padding: '20px 16px', borderBottom: '1px solid rgba(255,255,255,0.08)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+        <div className="p-5 flex items-center justify-between border-b border-gray-100">
           <div>
-            <div style={{ fontSize: '9px', color: '#C2A35D', fontWeight: 900, letterSpacing: '0.25em', textTransform: 'uppercase' }}>LexCLAT</div>
-            <div style={{ fontSize: '18px', fontFamily: 'Georgia, serif', fontStyle: 'italic', color: 'white', marginTop: '2px' }}>Master Wiki</div>
+            <div className="text-[9px] text-primary font-black tracking-[0.25em] uppercase">LexCLAT</div>
+            <div className="text-lg font-serif italic text-foreground mt-0.5">Master Wiki</div>
           </div>
           {onClose && (
             <button
               onClick={onClose}
-              style={{ padding: '6px', color: '#666', cursor: 'pointer', background: 'none', border: 'none' }}
-              onMouseOver={e => (e.currentTarget.style.color = 'white')}
-              onMouseOut={e => (e.currentTarget.style.color = '#666')}
+              className="p-1.5 text-muted-foreground hover:text-primary transition-colors"
             >
               <ArrowLeft size={16} />
             </button>
@@ -90,36 +75,21 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
         </div>
 
         {/* Module list */}
-        <nav style={{ padding: '8px', flex: 1 }}>
+        <nav className="p-2 flex-1 overflow-y-auto">
           {WIKI_MODULES.map(mod => {
             const isActive = activeModule === mod.path;
             return (
               <button
                 key={mod.path}
                 onClick={() => setActiveModule(mod.path)}
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '10px',
-                  padding: '12px 14px',
-                  width: '100%',
-                  textAlign: 'left',
-                  cursor: 'pointer',
-                  border: 'none',
-                  background: isActive ? '#C2A35D' : 'transparent',
-                  color: isActive ? '#000' : '#9ca3af',
-                  fontWeight: isActive ? '700' : '500',
-                  borderRadius: '2px',
-                  marginBottom: '2px',
-                  transition: 'all 0.15s',
-                  whiteSpace: 'nowrap',
-                  overflow: 'hidden',
-                }}
-                onMouseOver={e => { if (!isActive) { e.currentTarget.style.background = 'rgba(255,255,255,0.05)'; e.currentTarget.style.color = 'white'; }}}
-                onMouseOut={e => { if (!isActive) { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.color = '#9ca3af'; }}}
+                className={`flex items-center gap-3 p-3.5 w-full text-left transition-all rounded-sm mb-1 ${
+                  isActive 
+                    ? 'bg-primary text-white shadow-md shadow-primary/20' 
+                    : 'text-muted-foreground hover:bg-primary-light hover:text-primary'
+                }`}
               >
-                <span style={{ color: isActive ? '#000' : '#C2A35D', flexShrink: 0 }}>{mod.icon}</span>
-                <span style={{ fontSize: '13px', fontFamily: 'Georgia, serif' }}>{mod.title}</span>
+                <span className={isActive ? 'text-white' : 'text-primary'}>{mod.icon}</span>
+                <span className="text-[13px] font-medium">{mod.title}</span>
               </button>
             );
           })}
@@ -127,59 +97,45 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
       </aside>
 
       {/* ── Main Content ── */}
-      <div style={{ flex: 1, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+      <div className="flex-1 flex flex-col overflow-hidden">
         {/* Top bar */}
-        <div style={{
-          height: '52px',
-          borderBottom: '1px solid rgba(255,255,255,0.08)',
-          display: 'flex',
-          alignItems: 'center',
-          padding: '0 20px',
-          background: 'rgba(0,0,0,0.4)',
-          backdropFilter: 'blur(10px)',
-          flexShrink: 0,
-          gap: '12px',
-        }}>
+        <div className="h-14 border-b border-gray-200 flex items-center px-5 bg-white/80 backdrop-blur-md flex-shrink-0 gap-4">
           <button
             onClick={() => setSidebarOpen(!sidebarOpen)}
-            style={{ color: '#C2A35D', cursor: 'pointer', background: 'none', border: 'none', padding: '4px' }}
+            className="text-primary p-1 hover:bg-gray-100 rounded-sm transition-colors"
           >
             {sidebarOpen ? <X size={18} /> : <Menu size={18} />}
           </button>
-          <span style={{ fontSize: '10px', textTransform: 'uppercase', fontWeight: 900, letterSpacing: '0.2em', color: '#6b7280' }}>
+          <span className="text-[10px] uppercase font-black tracking-widest text-muted-foreground">
             {activeTitle}
           </span>
         </div>
 
-        {/* Scrollable content — native overflow-y: auto */}
+        {/* Scrollable content */}
         <div
           ref={contentRef}
-          style={{
-            flex: 1,
-            overflowY: 'auto',
-            overflowX: 'hidden',
-            padding: '40px 32px 80px',
-            WebkitOverflowScrolling: 'touch',
-          }}
+          className="flex-1 overflow-y-auto bg-background scroll-smooth"
         >
-          <div style={{ maxWidth: '820px', margin: '0 auto' }}>
-            {loading ? (
-              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '200px', gap: '12px', opacity: 0.5 }}>
-                <div style={{ width: '28px', height: '28px', border: '2px solid #C2A35D', borderTopColor: 'transparent', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
-                <span style={{ fontSize: '10px', color: '#C2A35D', fontWeight: 900, letterSpacing: '0.2em', textTransform: 'uppercase' }}>Loading Module...</span>
+          {activeModule === 'current-affairs' ? (
+            <CurrentAffairs />
+          ) : (
+            <div className="p-8 md:p-12">
+              <div className="max-w-4xl mx-auto bg-white p-10 md:p-16 shadow-xl border border-gray-100 rounded-sm min-h-full">
+                {loading ? (
+                  <div className="flex flex-col items-center justify-center py-20 gap-4 opacity-50">
+                    <div className="w-8 h-8 border-2 border-primary border-t-transparent rounded-full animate-spin" />
+                    <span className="text-[10px] text-primary font-black tracking-widest uppercase">Analyzing Archive...</span>
+                  </div>
+                ) : (
+                  <div className="prose prose-blue max-w-none prose-p:text-foreground prose-p:leading-[1.8] prose-p:font-sans prose-headings:font-serif prose-headings:text-foreground prose-headings:font-bold prose-a:text-primary prose-a:font-bold prose-strong:text-foreground prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:bg-primary-light prose-blockquote:text-primary prose-blockquote:px-8 prose-blockquote:py-4 prose-blockquote:not-italic prose-table:border prose-th:bg-gray-50 prose-th:text-foreground prose-td:text-foreground prose-img:rounded-sm">
+                    <ReactMarkdown>{content}</ReactMarkdown>
+                  </div>
+                )}
               </div>
-            ) : (
-              <div className="prose prose-invert prose-p:text-gray-400 prose-headings:font-serif prose-headings:italic prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-white prose-blockquote:border-l-primary prose-blockquote:bg-primary/5 prose-blockquote:text-gray-300 prose-blockquote:px-6 prose-blockquote:py-2 prose-blockquote:not-italic prose-th:bg-surface prose-th:text-white prose-td:text-gray-400 prose-tr:border-white/5 max-w-none">
-                <ReactMarkdown>{content}</ReactMarkdown>
-              </div>
-            )}
-          </div>
+            </div>
+          )}
         </div>
       </div>
-
-      <style>{`
-        @keyframes spin { to { transform: rotate(360deg); } }
-      `}</style>
     </div>
   );
 }

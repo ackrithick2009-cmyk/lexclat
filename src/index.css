@@ -6,24 +6,26 @@
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-serif: "Playfair Display", ui-serif, Georgia, serif;
   
-  --color-primary: #C2A35D;
-  --color-background: #0A0C10;
-  --color-surface: #0F1218;
-  --color-accent: #1A1D24;
-  --color-border: #2A2E37;
+  --color-primary: #1E3A8A;
+  --color-primary-light: #DBEAFE;
+  --color-gold: #D4AF37;
+  --color-background: #F9FAFB;
+  --color-surface: #FFFFFF;
+  --color-accent: #DBEAFE;
+  --color-border: #E5E7EB;
   
   /* shadcn mapping */
-  --color-foreground: #E0E0E0;
-  --color-card: #0F1218;
-  --color-card-foreground: #E0E0E0;
-  --color-popover: #0F1218;
-  --color-popover-foreground: #E0E0E0;
-  --color-primary-foreground: #000000;
-  --color-secondary: #2A2E37; /* Increased contrast from 1A1D24 */
-  --color-secondary-foreground: #FFFFFF; /* High contrast */
-  --color-muted: #1A1D24;
-  --color-muted-foreground: #A1A5AC; /* Increased brightness from 8E9299 */
-  --color-accent-foreground: #C2A35D;
+  --color-foreground: #111827;
+  --color-card: #FFFFFF;
+  --color-card-foreground: #111827;
+  --color-popover: #FFFFFF;
+  --color-popover-foreground: #111827;
+  --color-primary-foreground: #FFFFFF;
+  --color-secondary: #F3F4F6;
+  --color-secondary-foreground: #111827;
+  --color-muted: #F3F4F6;
+  --color-muted-foreground: #6B7280;
+  --color-accent-foreground: #1E3A8A;
   --color-destructive: #991b1b;
   --color-destructive-foreground: #fee2e2;
 }
