@@ -1356,8 +1356,6 @@ export default function App() {
         </motion.button>
       </div>
 
-      <Footer />
-
       {/* Manual UPI Payment Modal */}
       <AnimatePresence>
         {showUpiModal && (

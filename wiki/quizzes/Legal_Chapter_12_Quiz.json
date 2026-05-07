@@ -1,0 +1,31 @@
+{
+  "chapterId": "legal_12",
+  "title": "Chapter 12: Previous Year Questions Quiz",
+  "subject": "Legal Reasoning",
+  "quizzes": [
+    {
+      "id": "q1",
+      "question": "Under what circumstances can children between the ages of 16 and 18 be tried as adults under the Juvenile Justice Act, 2015?",
+      "options": [
+        "They can always be tried as adults for any crime.",
+        "After a preliminary assessment by the Juvenile Justice Board for heinous crimes.",
+        "When they have committed any offense, regardless of severity.",
+        "When they reach the age of 18 during the trial."
+      ],
+      "answer": "After a preliminary assessment by the Juvenile Justice Board for heinous crimes.",
+      "explanation": "According to the Act, children in the 16-18 age group can be tried as adults only after a specific assessment by the JJB regarding the nature of the crime."
+    },
+    {
+      "id": "q2",
+      "question": "In an online defamation case, what must the plaintiff prove about the defamatory statement to succeed?",
+      "options": [
+        "That it was a form of political activism protected by law.",
+        "That it was made with good intentions but was factually incorrect.",
+        "That it was true and intended to inform the public.",
+        "That it was false, damaging to their reputation, and made with a degree of fault."
+      ],
+      "answer": "That it was false, damaging to their reputation, and made with a degree of fault.",
+      "explanation": "The legal standard for defamation requires proving falsehood, damage, and fault (negligence or malice)."
+    }
+  ]
+}

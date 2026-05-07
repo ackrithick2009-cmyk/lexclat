@@ -134,6 +134,14 @@ Three elements that must ALL be present:
 - **Ayodhya Title Dispute follow-up orders** — mosque construction and trust updates
 - **LGBTQ+ Marriage Recognition**: SC referred to Parliament — status remains *sub judice*
 
+## 6. Detailed Chapter Vault
+
+The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
+
+- [Chapter 12: Previous Year Questions (Legal Reasoning)](./legal_vault/Legal_Chapter_12.md)
+- [Chapter 14: Constitution & Political System](./legal_vault/Legal_Chapter_14.md)
+- [Chapter 20: Commissions & Committees](./legal_vault/Legal_Chapter_20.md)
+
 ---
 
 *Last Updated: May 2026 | Source: CLAT Papers 2020–2025, Supreme Court Orders*

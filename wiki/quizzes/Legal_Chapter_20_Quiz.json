@@ -1,0 +1,43 @@
+{
+  "chapterId": "legal_20",
+  "title": "Chapter 20: Commissions & Committees Quiz",
+  "subject": "Legal Reasoning",
+  "quizzes": [
+    {
+      "id": "q1",
+      "question": "The Sarkaria Commission is primarily known for its recommendations on:",
+      "options": [
+        "Reservation for backward classes",
+        "Center-State relations",
+        "Police reforms",
+        "Financial inclusion"
+      ],
+      "answer": "Center-State relations",
+      "explanation": "The Sarkaria Commission (1983) examined the relationship between the Union and the States."
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following bodies is NOT a constitutional body?",
+      "options": [
+        "Election Commission of India",
+        "Finance Commission",
+        "NITI Aayog",
+        "UPSC"
+      ],
+      "answer": "NITI Aayog",
+      "explanation": "NITI Aayog is an executive body created by a Cabinet resolution; the others are mentioned in the Constitution."
+    },
+    {
+      "id": "q3",
+      "question": "The Verma Committee (2013) was established to recommend changes in which area of law?",
+      "options": [
+        "Tax Law",
+        "Criminal Law (specifically relating to sexual offenses)",
+        "Corporate Law",
+        "Environmental Law"
+      ],
+      "answer": "Criminal Law (specifically relating to sexual offenses)",
+      "explanation": "The Justice Verma Committee was formed after the Nirbhaya case to propose stricter laws against sexual assault."
+    }
+  ]
+}

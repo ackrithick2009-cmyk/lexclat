@@ -1,0 +1,43 @@
+{
+  "chapterId": "gk_54",
+  "title": "Chapter 54: Arts & Literature Quiz",
+  "subject": "General Awareness",
+  "quizzes": [
+    {
+      "id": "q1",
+      "question": "Which of the following books was NOT written by Salman Rushdie?",
+      "options": [
+        "Midnight's Children",
+        "The Ground Beneath Her Feet",
+        "Crime and Punishment",
+        "The Satanic Verses"
+      ],
+      "answer": "Crime and Punishment",
+      "explanation": "Crime and Punishment is a classic novel by the Russian author Fyodor Dostoevsky."
+    },
+    {
+      "id": "q2",
+      "question": "The literary masterpiece 'Gulliver's Travels' was written by which author?",
+      "options": [
+        "Jonathan Swift",
+        "Charles Dickens",
+        "George Orwell",
+        "Leo Tolstoy"
+      ],
+      "answer": "Jonathan Swift",
+      "explanation": "Jonathan Swift published Gulliver's Travels in 1726; it is a classic of English literature and satire."
+    },
+    {
+      "id": "q3",
+      "question": "The Nobel Prize in Literature is primarily awarded for:",
+      "options": [
+        "The best-selling book of the year.",
+        "An author's entire body of work in an ideal direction.",
+        "A specific scientific publication.",
+        "The best poem written in a calendar year."
+      ],
+      "answer": "An author's entire body of work in an ideal direction.",
+      "explanation": "The Nobel Prize in Literature recognizes the cumulative achievement and impact of an author's career."
+    }
+  ]
+}

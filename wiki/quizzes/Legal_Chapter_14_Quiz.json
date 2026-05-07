@@ -1,0 +1,55 @@
+{
+  "chapterId": "legal_14",
+  "title": "Chapter 14: Constitution & Political System Quiz",
+  "subject": "Legal Reasoning",
+  "quizzes": [
+    {
+      "id": "q1",
+      "question": "Which Article of the Indian Constitution states that the President shall act according to the advice of the Council of Ministers headed by the Prime Minister?",
+      "options": [
+        "Article 78",
+        "Article 74",
+        "Article 70",
+        "Article 68"
+      ],
+      "answer": "Article 74",
+      "explanation": "Article 74(1) provides for a Council of Ministers with the PM at the head to aid and advise the President."
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following does NOT take part in the election of the President of India?",
+      "options": [
+        "Elected Members of Rajya Sabha",
+        "Elected Members of Lok Sabha",
+        "Elected Members of Legislative Councils (MLCs)",
+        "Elected Members of Legislative Assemblies (MLAs)"
+      ],
+      "answer": "Elected Members of Legislative Councils (MLCs)",
+      "explanation": "The electoral college for the President includes elected members of both houses of Parliament and State Assemblies, but NOT the Legislative Councils (Vidhan Parishad)."
+    },
+    {
+      "id": "q3",
+      "question": "The principle of 'Collective Responsibility' implies that:",
+      "options": [
+        "Each Minister is individually responsible for their own department only.",
+        "The Council of Ministers is responsible as a body for the general conduct of the government.",
+        "The Prime Minister is solely responsible for all cabinet decisions.",
+        "The President can dismiss any Minister without the PM's advice."
+      ],
+      "answer": "The Council of Ministers is responsible as a body for the general conduct of the government.",
+      "explanation": "Collective responsibility means the entire cabinet stands or falls together; a defeat for one is a defeat for all."
+    },
+    {
+      "id": "q4",
+      "question": "Which writ is considered the 'bulwark of personal freedom'?",
+      "options": [
+        "Certiorari",
+        "Habeas Corpus",
+        "Mandamus",
+        "Quo Warranto"
+      ],
+      "answer": "Habeas Corpus",
+      "explanation": "Habeas Corpus is the most important writ for protecting individual liberty against illegal detention."
+    }
+  ]
+}
