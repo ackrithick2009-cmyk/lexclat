@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { BookMarked, Scale, BookOpen, FileText, BrainCircuit, BarChart, Menu, ArrowLeft, X } from 'lucide-react';
 import CurrentAffairs from './CurrentAffairs';
 
@@ -129,7 +130,7 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
                   </div>
                 ) : (
                   <div className="prose prose-blue max-w-none prose-p:text-foreground prose-p:leading-[1.8] prose-p:font-sans prose-headings:font-serif prose-headings:text-foreground prose-headings:font-bold prose-a:text-primary prose-a:font-bold prose-strong:text-foreground prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:bg-primary-light prose-blockquote:text-primary prose-blockquote:px-8 prose-blockquote:py-4 prose-blockquote:not-italic prose-table:border prose-th:bg-gray-50 prose-th:text-foreground prose-td:text-foreground prose-img:rounded-sm">
-                    <ReactMarkdown>{content}</ReactMarkdown>
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
                   </div>
                 )}
               </div>
