@@ -34,8 +34,13 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
 
     const loadContent = async () => {
       setLoading(true);
-      const mod = WIKI_MODULES.find(m => m.path === activeModule) || WIKI_MODULES[0];
-      const filePath = `../../wiki/${mod.id}.md`;
+      
+      // Determine the file ID from activeModule
+      // If it's in WIKI_MODULES, use its .id, otherwise use activeModule itself
+      const mod = WIKI_MODULES.find(m => m.path === activeModule);
+      const fileId = mod ? mod.id : activeModule;
+      
+      const filePath = `../../wiki/${fileId}.md`;
       try {
         if (wikiFiles[filePath]) {
           const rawContent = await wikiFiles[filePath]();

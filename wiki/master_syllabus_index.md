@@ -8,11 +8,11 @@
 
 | # | Subject | File | Section Weight | Key Focus |
 |---|---------|------|---------------|-----------|
-| 1 | ⚖️ Legal Reasoning | [legal_reasoning_vault.md](./legal_reasoning_vault.md) | ~25 marks | Cases, Torts, Contracts, BNS |
-| 2 | 🌍 Current Affairs & GK | [current_affairs_gk_hub.md](./current_affairs_gk_hub.md) | ~25 marks | Events, Economy, Constitution |
-| 3 | 📖 English Language | [english_comprehension.md](./english_comprehension.md) | ~22 marks | Passages, Vocabulary, Inference |
-| 4 | 🧠 Logical Reasoning | [logical_reasoning_logic.md](./logical_reasoning_logic.md) | ~22 marks | Arguments, Assumptions, Analogies |
-| 5 | 📊 Quantitative Techniques | [quantitative_techniques.md](./quantitative_techniques.md) | ~8 marks | Data Interpretation, Percentages |
+| 1 | ⚖️ Legal Reasoning | [legal_vault.md](./legal_vault.md) | ~25 marks | Cases, Torts, Contracts, BNS |
+| 2 | 🌍 Current Affairs & GK | [gk_vault.md](./gk_vault.md) | ~25 marks | Events, Economy, Constitution |
+| 3 | 📖 English Language | [english_vault.md](./english_vault.md) | ~22 marks | Passages, Vocabulary, Inference |
+| 4 | 🧠 Logical Reasoning | [logical_vault.md](./logical_vault.md) | ~22 marks | Arguments, Assumptions, Analogies |
+| 5 | 📊 Quantitative Techniques | [quant_vault.md](./quant_vault.md) | ~8 marks | Data Interpretation, Percentages |
 | 6 | 🏛️ **Detailed Study Vault** | [Chapter Index](#detailed-study-vaults) | High-Yield | Extracted Modules & Quizzes |
 
 **Total: 120 marks | Duration: 2 Hours**
@@ -28,8 +28,8 @@ The following chapters have been extracted from bulk materials and formatted for
 - [Chapter 20: Commissions & Committees](./legal_vault/Legal_Chapter_20.md)
 
 ### 🌍 General Awareness
-- [Chapter 42: Geography](./current_affairs_gk_hub/GK_Chapter_42.md)
-- [Chapter 54: Arts & Literature](./current_affairs_gk_hub/GK_Chapter_54.md)
+- [Chapter 42: Geography](./gk_vault/GK_Chapter_42.md)
+- [Chapter 54: Arts & Literature](./gk_vault/GK_Chapter_54.md)
 
 ### 🧠 Logical Reasoning
 - [Chapter 92: Logical Reasoning (Foundation)](./logical_vault/Logic_Chapter_92.md)
@@ -62,7 +62,7 @@ The following chapters have been extracted from bulk materials and formatted for
 | Month | Focus | Targets |
 |-------|-------|---------|
 | **December** | Previous Year Papers | 2022, 2023 CLAT papers with timed practice |
-| **January** | Current Affairs Consolidation | Union Budget release; update current_affairs_gk_hub.md |
+| **January** | Current Affairs Consolidation | Union Budget release; update gk_vault.md |
 | **February** | Speed + Accuracy Drills | 2024, 2025 CLAT papers; target 90+ score |
 
 ### Phase 4 — Revision & Final Push (March–May)
@@ -110,7 +110,7 @@ This wiki is structured as the **ground truth corpus** for the LexCLAT RAG-power
 
 1. **Index these files** into a vector store using the Gemini Embeddings API
 2. **Retrieve relevant passages** when a user asks a question (e.g., "Explain the Basic Structure Doctrine")
-3. **Generate MCQs** using the `current_affairs_gk_hub.md` and `legal_reasoning_vault.md` as source material
+3. **Generate MCQs** using the `gk_vault.md` and `legal_vault.md` as source material
 4. **Update content** automatically when new CLAT papers are added to `/assets/clat_papers/`
 
 ### Archive Files
@@ -131,11 +131,11 @@ Once integrated with the React frontend, these wiki modules map to:
 | Route | Component | Source File |
 |-------|-----------|------------|
 | `/wiki` | Master Index | `master_syllabus_index.md` |
-| `/wiki/legal` | Legal Vault | `legal_reasoning_vault.md` |
-| `/wiki/current-affairs` | CA & GK Hub | `current_affairs_gk_hub.md` |
-| `/wiki/english` | English Module | `english_comprehension.md` |
-| `/wiki/logic` | Logic Module | `logical_reasoning_logic.md` |
-| `/wiki/quant` | Quant Module | `quantitative_techniques.md` |
+| `/wiki/legal` | Legal Vault | `legal_vault.md` |
+| `/wiki/current-affairs` | CA & GK Hub | `gk_vault.md` |
+| `/wiki/english` | English Module | `english_vault.md` |
+| `/wiki/logic` | Logic Module | `logical_vault.md` |
+| `/wiki/quant` | Quant Module | `quant_vault.md` |
 
 ---
 
