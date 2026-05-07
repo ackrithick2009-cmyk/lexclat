@@ -167,4 +167,12 @@ CLAT's English section is **passage-based only** — no standalone grammar quest
 
 ---
 
-*Last Updated: May 2026 | Passages curated from The Hindu, Indian Express, and Official CLAT Question Papers*
+## 7. Detailed Chapter Vault
+
+The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
+
+- [Chapter 74: English Comprehension (Legal & Social focus)](./english_vault/English_Chapter_74.md)
+
+---
+
+*Last Updated: May 2026 | Based on Official CLAT Question Papers and Bulk Study Material*

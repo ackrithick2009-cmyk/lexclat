@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "If a student scores 60 out of 80 in a mock test, what is their percentage score?",
+    "options": ["60%", "70%", "75%", "80%"],
+    "answer": "75%",
+    "explanation": "(60/80) * 100 = 3/4 * 100 = 75%."
+  },
+  {
+    "id": 2,
+    "question": "What is the Cost Price (CP) if an item is sold for Rs 110 with a 10% profit?",
+    "options": ["Rs 90", "Rs 100", "Rs 105", "Rs 110"],
+    "answer": "Rs 100",
+    "explanation": "CP = (100 / (100 + Gain%)) * SP. CP = (100/110) * 110 = Rs 100."
+  },
+  {
+    "id": 3,
+    "question": "If the ratio a:b is 2:3 and b:c is 6:5, what is the ratio a:c?",
+    "options": ["1:1", "4:5", "5:4", "2:5"],
+    "answer": "4:5",
+    "explanation": "(a/b) * (b/c) = (2/3) * (6/5) = 12/15 = 4/5."
+  },
+  {
+    "id": 4,
+    "question": "Express the fraction 2/5 as a percentage.",
+    "options": ["20%", "25%", "40%", "50%"],
+    "answer": "40%",
+    "explanation": "(2/5) * 100 = 0.4 * 100 = 40%."
+  },
+  {
+    "id": 5,
+    "question": "If an item is sold for Rs 80 at a 20% loss, what was the original Cost Price?",
+    "options": ["Rs 60", "Rs 100", "Rs 120", "Rs 90"],
+    "answer": "Rs 100",
+    "explanation": "CP = (100 / (100 - Loss%)) * SP. CP = (100/80) * 80 = Rs 100."
+  },
+  {
+    "id": 6,
+    "question": "Profit percentage is always calculated based on which value?",
+    "options": ["Selling Price", "Cost Price", "Market Price", "Discount Price"],
+    "answer": "Cost Price",
+    "explanation": "Unless otherwise stated, profit and loss percentages are always calculated on the Cost Price (CP)."
+  },
+  {
+    "id": 7,
+    "question": "If a:b = 1:2, then 2a:b is equal to:",
+    "options": ["1:1", "2:1", "1:2", "4:1"],
+    "answer": "1:1",
+    "explanation": "If a=1 and b=2, then 2a = 2(1)=2. So 2a:b = 2:2 = 1:1."
+  },
+  {
+    "id": 8,
+    "question": "What is 25% of 80?",
+    "options": ["15", "20", "25", "30"],
+    "answer": "20",
+    "explanation": "(25/100) * 80 = 1/4 * 80 = 20."
+  },
+  {
+    "id": 9,
+    "question": "If SP is double the CP, what is the profit percentage?",
+    "options": ["50%", "100%", "200%", "0%"],
+    "answer": "100%",
+    "explanation": "Profit = SP - CP = 2CP - CP = CP. Profit % = (CP/CP) * 100 = 100%."
+  },
+  {
+    "id": 10,
+    "question": "In a class, the ratio of boys to girls is 3:2. If there are 30 boys, how many girls are there?",
+    "options": ["15", "20", "25", "45"],
+    "answer": "20",
+    "explanation": "If 3 units = 30, then 1 unit = 10. So 2 units (girls) = 2 * 10 = 20."
+  }
+]

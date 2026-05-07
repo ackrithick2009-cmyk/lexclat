@@ -262,4 +262,12 @@ CI = P × (1 + R/100)^T - P
 
 ---
 
-*Last Updated: May 2026 | Data sourced from Union Budget 2025-26, NCRB Annual Report 2024, and Official CLAT Question Papers*
+## 10. Detailed Chapter Vault
+
+The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
+
+- [Chapter 89: Elementary Mathematics (Foundation)](./quant_vault/Quant_Chapter_89.md)
+
+---
+
+*Last Updated: May 2026 | Based on Official CLAT Question Papers and Bulk Study Material*

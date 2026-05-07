@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "In the 'Crisis of Justice' passage, what does the term 'docket-excluded' most likely mean?",
+    "options": [
+      "People who are currently in jail",
+      "Citizens who cannot access or afford the legal system",
+      "Lawyers who have been barred from practice",
+      "Judges who have retired from the bench"
+    ],
+    "answer": "Citizens who cannot access or afford the legal system",
+    "explanation": "The passage uses this term to describe those who are shut out of judicial processes."
+  },
+  {
+    "id": 2,
+    "question": "According to the passage on 'Cruelty', the legal standard is:",
+    "options": [
+      "Objective (based on a reasonable person)",
+      "Subjective (based on the individual victim)",
+      "Fixed by specific legislative lists",
+      "Determined by the police"
+    ],
+    "answer": "Subjective (based on the individual victim)",
+    "explanation": "The text explicitly states that cruelty is determined by the effect on the particular person complaining."
+  },
+  {
+    "id": 3,
+    "question": "What was the primary reason King Edward VIII gave for his abdication?",
+    "options": [
+      "Political disagreements with Parliament",
+      "Poor health",
+      "Inability to fulfill duties without the woman he loved",
+      "The start of a war"
+    ],
+    "answer": "Inability to fulfill duties without the woman he loved",
+    "explanation": "His speech centered on the 'heavy burden' being impossible to carry without personal support."
+  },
+  {
+    "id": 4,
+    "question": "The author of the 'Justice' passage compares India's middle class to:",
+    "options": ["Developing nations", "OECD countries", "BRICS nations", "African nations"],
+    "answer": "OECD countries",
+    "explanation": "The author notes that whereas OECD middle classes have access, India's does not."
+  },
+  {
+    "id": 5,
+    "question": "In the context of the 'Cruelty' passage, why is a 'reasonable person' test NOT used?",
+    "options": [
+      "Because everyone has the same sensitivity",
+      "Because family law is too complex for reasonable people",
+      "Because the effect on the specific spouse is what matters legally",
+      "Because the law ignores the victim's feelings"
+    ],
+    "answer": "Because the effect on the specific spouse is what matters legally",
+    "explanation": "The passage emphasizes that the subjective experience of the aggrieved spouse is the primary determinant."
+  },
+  {
+    "id": 6,
+    "question": "Which word best describes the tone of the 'Crisis of Justice' passage?",
+    "options": ["Celebratory", "Apathetic", "Critical/Urgent", "Humorous"],
+    "answer": "Critical/Urgent",
+    "explanation": "The author highlights a 'crisis' and calls for 'judicial reform'."
+  },
+  {
+    "id": 7,
+    "question": "What is the 'central thesis' of the English Comprehension section in CLAT?",
+    "options": [
+      "Memorizing long lists of words",
+      "Understanding the author's argument and logical inferences",
+      "Speed reading without understanding",
+      "Learning to write poems"
+    ],
+    "answer": "Understanding the author's argument and logical inferences",
+    "explanation": "CLAT focuses on comprehension, tone, and logical deduction from the text."
+  },
+  {
+    "id": 8,
+    "question": "If an inference is described as 'possible' but not 'certain', how should a student treat it?",
+    "options": [
+      "Always mark it as correct",
+      "Treat it as incorrect in formal logic unless specified",
+      "Flip a coin",
+      "Ignore the question"
+    ],
+    "answer": "Treat it as incorrect in formal logic unless specified",
+    "explanation": "Valid inferences must be certain consequences of the premises."
+  },
+  {
+    "id": 9,
+    "question": "In the abdication speech, the King refers to a 'heavy burden'. What does this metaphorically represent?",
+    "options": [
+      "The literal weight of the crown",
+      "The responsibility of kingship",
+      "Financial debt",
+      "The weight of his jewelry"
+    ],
+    "answer": "The responsibility of kingship",
+    "explanation": "He is referring to the duties and burdens of the office of the King."
+  },
+  {
+    "id": 10,
+    "question": "The 'Cruelty' passage falls under which intersection of subjects?",
+    "options": [
+      "English and Math",
+      "English and Legal Reasoning",
+      "English and Geography",
+      "English and Science"
+    ],
+    "answer": "English and Legal Reasoning",
+    "explanation": "It uses a legal definition as the basis for a comprehension exercise."
+  }
+]
