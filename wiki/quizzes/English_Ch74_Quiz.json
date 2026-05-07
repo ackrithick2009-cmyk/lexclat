@@ -1,0 +1,64 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is the primary objective of the 'Finished, Not Perfect Method' (FNPM)?",
+      "options": ["To achieve perfection through repetition", "To overcome paralysis caused by perfectionism", "To compare productivity with classmates", "To minimize the cost of academic tasks"],
+      "answer": "To overcome paralysis caused by perfectionism"
+    },
+    {
+      "id": 2,
+      "question": "In the context of the text, what does the term 'Ripple Effect' signify?",
+      "options": ["A decrease in productivity", "The final outcome of a task", "A chain reaction of cumulative events", "The cost of hiring professional trainers"],
+      "answer": "A chain reaction of cumulative events"
+    },
+    {
+      "id": 3,
+      "question": "Why is time described as a 'luxury' in the passage?",
+      "options": ["Because it is unlimited", "Because it is a valuable, limited commodity constrained by external demands", "Because it is irrelevant to productivity", "Because it is easily purchased"],
+      "answer": "Because it is a valuable, limited commodity constrained by external demands"
+    },
+    {
+      "id": 4,
+      "question": "What is a major advantage of using VR in medical education?",
+      "options": ["Reduced reliance on human teachers", "Elimination of all technical inaccuracies", "Risk-free practice of complex surgeries", "Lowering the overall cost of medical school"],
+      "answer": "Risk-free practice of complex surgeries"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is identified as a challenge of VR integration?",
+      "options": ["Lack of interest from students", "High costs of hardware and maintenance", "The ease of simulating medical anomalies", "An over-emphasis on traditional patient interaction"],
+      "answer": "High costs of hardware and maintenance"
+    },
+    {
+      "id": 6,
+      "question": "According to the passage, how do 3D VR models benefit anatomy learning?",
+      "options": ["They are cheaper than 2D diagrams", "They provide enhanced spatial awareness", "They replace the need for real patients entirely", "They make exams easier to pass"],
+      "answer": "They provide enhanced spatial awareness"
+    },
+    {
+      "id": 7,
+      "question": "What is a potential risk of over-reliance on VR in medical training?",
+      "options": ["Decreased technical accuracy", "Increased costs for the institution", "A decline in direct patient interaction skills", "A loss of 3D spatial capabilities"],
+      "answer": "A decline in direct patient interaction skills"
+    },
+    {
+      "id": 8,
+      "question": "When summarizing the text, what must be avoided?",
+      "options": ["Discussing technical accuracy", "Focusing only on the benefits of VR", "Addressing economic barriers", "Mentioning pedagogical balance"],
+      "answer": "Focusing only on the benefits of VR"
+    },
+    {
+      "id": 9,
+      "question": "Why should students avoid attributing FNPM-related success to external factors?",
+      "options": ["Because FNPM is about self-management", "Because classmates do not use FNPM", "Because external factors are irrelevant to productivity", "Because it confuses the teacher"],
+      "answer": "Because FNPM is about self-management"
+    },
+    {
+      "id": 10,
+      "question": "What does the 'Trap Analysis' suggest regarding vocabulary inference questions?",
+      "options": ["Always choose the dictionary definition", "Focus on the literal meaning", "Apply the conceptual context rather than a dictionary definition", "Avoid vocabulary questions entirely"],
+      "answer": "Apply the conceptual context rather than a dictionary definition"
+    }
+  ]
+}

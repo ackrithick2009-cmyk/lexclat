@@ -1,51 +1,23 @@
-# Chapter 89: Elementary Mathematics (Foundation)
+# Quant Vault Chapter 89: Algebraic Modeling & Word Problems
 
-Elementary Mathematics in CLAT focuses on numerical ability and data interpretation. The most high-yield topics are Percentages, Ratios, and Profit & Loss.
+### I. Concept Primer
+This chapter focuses on complex word-problem modeling, specifically emphasizing the algebraic translation of real-world scenarios. Key mathematical domains covered include:
 
----
+*   **Linear & Quadratic Equation Modeling:** Transforming text-based scenarios (e.g., speed-time-distance, profit/loss, and inheritance distribution) into solvable equations.
+*   **Time-Distance Relationship:** Utilizing the fundamental formula $Speed = \frac{Distance}{Time}$. Time variables are frequently treated as quadratic expressions.
+*   **Weighted Distribution:** Application of algebraic ratios to solve the division of assets among multiple beneficiaries.
+*   **Financial Math:** Calculating Cost Price (C.P.) based on Selling Price (S.P.) differentials and percentage profits.
 
-## 1. Percentages (%)
-A percentage is a fraction with a denominator of 100. The term 'per cent' literally means 'per hundred'.
+### II. Landmark Facts / Problem Frameworks
+*   **Inheritance/Division (Q116):** Defines a group relationship (1 mother, 2 daughters, 3 sons) via a common variable ($x$). 
+    *   *Calculation Framework:* $(x) + 2(2x) + 3(3x) = \text{Total}$.
+*   **Relative Speed/Time (Q154):** Focuses on the inverse relationship between speed and time. 
+    *   *Key Equation:* $\frac{300}{t} - \frac{300}{t+15} = 1$. The resultant quadratic ($t^2 - t - 20 = 0$) allows for the extraction of valid positive time intervals.
+*   **Labor/Economic Modeling (Q129):** Integrates investment ratios ($I$) and wage distribution ($W$).
+    *   *Framework:* $I + W = \text{Total}$; utilizes the substitution method to isolate unknown variables.
 
-### Key Formulas:
-*   **Calculating Value:** $x\%$ of $y = \left(\frac{x}{100}\right) \times y$
-*   **Conversion to Fraction:** Divide by 100 (e.g., $25\% = \frac{25}{100} = \frac{1}{4}$)
-*   **Conversion to Percentage:** Multiply by 100 (e.g., $\frac{2}{3} \times 100 = 66\frac{2}{3}\%$)
-
----
-
-## 2. Ratios & Proportions
-A ratio is the comparison of two quantities of the same kind by division.
-
-### Key Rules:
-*   **Notation:** $a:b = \frac{a}{b}$
-*   **Invariance:** Multiplying or dividing both terms of a ratio by the same non-zero number does not change the ratio.
-*   **Compound Ratio:** To find the ratio between $a$ and $c$ when given $a:b$ and $b:c$, multiply the ratios: $\left(\frac{a}{b}\right) \times \left(\frac{b}{c}\right) = \frac{a}{c}$.
-
----
-
-## 3. Profit & Loss
-This section is essential for commercial law and economic reasoning passages.
-
-### Essential Formulas:
-*   **Profit:** $Selling Price (SP) - Cost Price (CP)$ [Only if $SP > CP$]
-*   **Loss:** $CP - SP$ [Only if $CP > SP$]
-*   **Profit %:** $\left(\frac{Profit}{CP}\right) \times 100$
-*   **Loss %:** $\left(\frac{Loss}{CP}\right) \times 100$
-*   **Calculating SP (with Gain):** $SP = \left[\frac{100 + Gain\%}{100}\right] \times CP$
-
----
-
-## 📝 Practice Examples
-1.  **Profit Calculation:** A book is sold for ₹27.50 with a profit of 10%. 
-    *   *Calculation:* $CP = \left(\frac{100}{110}\right) \times 27.50 = ₹25$.
-2.  **Ratio Chain:** If $a:b = 3:4$ and $b:c = 8:9$, find $a:c$.
-    *   *Calculation:* $\left(\frac{3}{4}\right) \times \left(\frac{8}{9}\right) = \frac{2}{3} \rightarrow 2:3$.
-
----
-
-## 💡 Strategic Note for CLAT
-Mathematics (Quantitative Techniques) accounts for ~15 marks. Focus on **Data Interpretation (DI)**. Mastering these foundation formulas (Percentages & Ratios) is 80% of the battle for DI sets.
-
----
-*Source: LexCLAT Bulk Study Ingestion v2.0 (May 2026)*
+### III. Trap Analysis (The "LexCLAT" Warning)
+1.  **The "Negative Time" Trap (Q154):** When solving quadratic equations for time ($t$), discard roots where $t < 0$. Time is contextually impossible in the negative.
+2.  **Ratio-Distribution Miscalculation (Q116):** Failure to account for the quantity of beneficiaries (e.g., forgetting there are 3 sons) is a primary cause of error. Always verify the count multiplier.
+3.  **Difference vs. Value (Q104):** Never confuse the "Difference of S.P." with the "C.P." Ensure you map the percentage difference to the fixed currency difference before calculating the total (e.g., $20\% \text{ of C.P.} = 40$).
+4.  **Fractional Errors:** Under time pressure, perform simplification of fractions (e.g., $\frac{2}{6} = \frac{1}{3}$) *before* cross-multiplication to minimize arithmetic errors.

@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "In which year was the 'Man of the Tournament' award first inaugurated?",
+      "options": ["1975", "1987", "1992", "2003"],
+      "answer": "1992"
+    },
+    {
+      "question": "Which player was named the 'Man of the Final' in the 2023 Cricket World Cup?",
+      "options": ["Ben Stokes", "Travis Head", "MS Dhoni", "Clive Lloyd"],
+      "answer": "Travis Head"
+    },
+    {
+      "question": "What is the official governing body for Chess?",
+      "options": ["ICC", "FIDE", "ITF", "FIFA"],
+      "answer": "FIDE"
+    },
+    {
+      "question": "How did England win the 2019 Cricket World Cup final?",
+      "options": ["By 17 runs", "By 6 wickets", "By 7 wickets", "By boundary count"],
+      "answer": "By boundary count"
+    },
+    {
+      "question": "Who recorded a hat-trick in the 1987 Cricket World Cup?",
+      "options": ["Chetan Sharma", "Saqlain Mushtaq", "Chaminda Vaas", "Brett Lee"],
+      "answer": "Chetan Sharma"
+    },
+    {
+      "question": "At which stadium was the 2011 Cricket World Cup final held?",
+      "options": ["Lord's", "Melbourne", "Narendra Modi", "Wankhede"],
+      "answer": "Wankhede"
+    },
+    {
+      "question": "According to the provided text, what is the acronym for the athletics governing body?",
+      "options": ["IOC", "IAAF", "IHF", "WA"],
+      "answer": "IAAF"
+    },
+    {
+      "question": "How often is the ICC Men's Cricket World Cup organized?",
+      "options": ["Biennial", "Triennial", "Quadrennial", "Annual"],
+      "answer": "Quadrennial"
+    },
+    {
+      "question": "Which player was the 'Man of the Final' in the inaugural 1975 Cricket World Cup?",
+      "options": ["Clive Lloyd", "MS Dhoni", "Ben Stokes", "James Faulkner"],
+      "answer": "Clive Lloyd"
+    },
+    {
+      "question": "Brett Lee achieved a hat-trick in which World Cup year?",
+      "options": ["1987", "1999", "2003", "2015"],
+      "answer": "2003"
+    }
+  ]
+}

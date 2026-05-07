@@ -1,0 +1,14 @@
+{
+  "quizzes": [
+    { "question": "What is the primary definition of a 'Defendant'?", "options": ["The person suing", "The person accused or sued", "The judge", "The lawyer"], "answer": "The person accused or sued" },
+    { "question": "Which word is a synonym for 'Inevitably'?", "options": ["Randomly", "Unavoidably", "Unlikely", "Suddenly"], "answer": "Unavoidably" },
+    { "question": "What does 'Massive' describe?", "options": ["Something small", "Something empty", "Something exceptionally large or bulky", "Something temporary"], "answer": "Something exceptionally large or bulky" },
+    { "question": "What is the meaning of 'Ceased'?", "options": ["Started", "Continued", "Brought to an end", "Accelerated"], "answer": "Brought to an end" },
+    { "question": "What is an 'Untenable' position?", "options": ["A strong argument", "Not able to be maintained or defended", "A temporary state", "A large amount"], "answer": "Not able to be maintained or defended" },
+    { "question": "What is the direct antonym of 'Empty'?", "options": ["Void", "Full", "Large", "Stopped"], "answer": "Full" },
+    { "question": "In a legal context, who is the antonym of the 'Defendant'?", "options": ["The Witness", "The Plaintiff", "The Jury", "The Clerk"], "answer": "The Plaintiff" },
+    { "question": "What is the logical antonym of 'Untenable'?", "options": ["Weak", "Viable", "Empty", "Inevitable"], "answer": "Viable" },
+    { "question": "If something is 'Inevitably' going to happen, it is NOT:", "options": ["Certain", "Unavoidable", "Unexpected", "Logical"], "answer": "Unexpected" },
+    { "question": "Which term describes something that is brought to an end?", "options": ["Ceased", "Massive", "Untenable", "Defendant"], "answer": "Ceased" }
+  ]
+}

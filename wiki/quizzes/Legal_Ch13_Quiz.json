@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "What is the term for the party who initiates a proposal in a contract?",
+      "options": ["Offeree", "Promisor/Offeror", "Beneficiary", "Agent"],
+      "answer": "Promisor/Offeror"
+    },
+    {
+      "question": "What is required for a contract to be valid according to the 'meeting of the minds' principle?",
+      "options": ["Public notice", "Consensus ad idem", "Written documentation", "Notarization"],
+      "answer": "Consensus ad idem"
+    },
+    {
+      "question": "Why was Sunil denied the reward in the case study provided?",
+      "options": ["He failed to catch the convict", "The reward was illegal", "He had no knowledge of the offer", "He colluded with the convict"],
+      "answer": "He had no knowledge of the offer"
+    },
+    {
+      "question": "Which of the following is considered a ground for a contract to be void as against public policy?",
+      "options": ["High profit margins", "Collusive bidding", "Disagreement over service quality", "Late payment"],
+      "answer": "Collusive bidding"
+    },
+    {
+      "question": "In the BR Industries scenario, why did the court uphold the contract despite the profit margin dispute?",
+      "options": ["The margins were reasonable", "Business entities at arms-length are governed by agreed consideration", "The defendant failed to show up", "The contract was written by the government"],
+      "answer": "Business entities at arms-length are governed by agreed consideration"
+    },
+    {
+      "question": "Can a contract be voided simply because it resulted in a very high profit for one party?",
+      "options": ["Yes, if it is unfair", "Yes, if the court deems it greedy", "No, provided there is no fraud and parties are at arms-length", "Only if it involves a public official"],
+      "answer": "No, provided there is no fraud and parties are at arms-length"
+    },
+    {
+      "question": "What is the primary requirement for accepting a 'General Offer' such as a reward?",
+      "options": ["Official registration", "Witnesses present at the time of act", "Knowledge of the offer at the time of performance", "Written acceptance"],
+      "answer": "Knowledge of the offer at the time of performance"
+    },
+    {
+      "question": "Which of these is NOT listed as a form of void contract under public policy?",
+      "options": ["Inducing a public official", "Performing an illegal act", "Collusive bidding", "Unbalanced profit margins"],
+      "answer": "Unbalanced profit margins"
+    },
+    {
+      "question": "What does 'Consensus ad Idem' literally signify in a contract?",
+      "options": ["Meeting of the minds", "Legal consideration", "Public interest", "Execution of terms"],
+      "answer": "Meeting of the minds"
+    },
+    {
+      "question": "How do courts typically treat 'bad deals' between business entities?",
+      "options": ["They rewrite them to be fair", "They cancel them for unconscionability", "They do not rewrite them", "They treat them as void by default"],
+      "answer": "They do not rewrite them"
+    }
+  ]
+}

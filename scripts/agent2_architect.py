@@ -22,7 +22,7 @@ def process_bulk_vault(filename, subject="Legal"):
     
     prompt = f"""
     Role: Technical Writer & Quiz Developer.
-    Task: Convert the provided raw text into a polished {subject}_Chapter_{chapter_num}.md and a 10-question practice quiz JSON.
+    Task: Convert the provided raw text into a polished {subject}_Vault_Chapter.md and a 10-question practice quiz JSON.
     
     Action:
     1. Convert the raw text into a polished Markdown using a standard template (Concept Primer, Passage, Trap Analysis).
@@ -39,7 +39,7 @@ def process_bulk_vault(filename, subject="Legal"):
     
     try:
         response = client.models.generate_content(
-            model='gemini-2.0-flash',
+            model='gemini-flash-lite-latest',
             contents=[prompt, raw_text]
         )
         

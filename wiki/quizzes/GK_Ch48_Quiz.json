@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "Who is the founder of the Young Bengal Movement?",
+      "options": ["Shri Narayan Guru", "Henry Vivian Louis Derozio", "Khan Abdul Gaffar Khan", "Surendranath Banerjee"],
+      "answer": "Henry Vivian Louis Derozio"
+    },
+    {
+      "question": "Which Mughal Emperor was known as 'Rangeela'?",
+      "options": ["Akbar", "Ahmed Shah Abdali", "Muhammad Shah", "Man Singh"],
+      "answer": "Muhammad Shah"
+    },
+    {
+      "question": "Who served as the first woman Governor in Independent India?",
+      "options": ["Sarojini Naidu", "Indira Gandhi", "Annie Besant", "Aruna Asaf Ali"],
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "The Battle of Haldighat (1576) was fought between Maharana Pratap and which Mughal commander?",
+      "options": ["Akbar", "Muhammad Shah", "Man Singh", "Ahmed Shah Abdali"],
+      "answer": "Man Singh"
+    },
+    {
+      "question": "What was the primary reason for the collapse of the Khilafat Movement?",
+      "options": ["Lack of funds", "British suppression", "Political changes in Turkey/Accession of Kamal Pasha", "Death of Gandhi"],
+      "answer": "Political changes in Turkey/Accession of Kamal Pasha"
+    },
+    {
+      "question": "The Battle of Hydaspes was fought between Alexander and whom?",
+      "options": ["Chandragupta Maurya", "King Porus", "Maharana Pratap", "Ahmed Shah Abdali"],
+      "answer": "King Porus"
+    },
+    {
+      "question": "Which of the following leaders was a trained lawyer?",
+      "options": ["M.K. Gandhi", "Bal Gangadhar Tilak", "Bhulabai Desai", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the famous quote associated with Shri Narayan Guru?",
+      "options": ["Swaraj is my birthright", "Do or Die", "No religion, no caste, no God for mankind", "Quit India"],
+      "answer": "No religion, no caste, no God for mankind"
+    },
+    {
+      "question": "Which of the following was a provision of the Gandhi-Irwin Pact?",
+      "options": ["Establishment of a new constitution", "Release of prisoners", "Partition of India", "End of the Mughal Empire"],
+      "answer": "Release of prisoners"
+    },
+    {
+      "question": "Who is known as the 'Frontier Gandhi'?",
+      "options": ["Wali Khan", "Khan Abdul Gaffar Khan", "Surendranath Banerjee", "Man Singh"],
+      "answer": "Khan Abdul Gaffar Khan"
+    }
+  ]
+}

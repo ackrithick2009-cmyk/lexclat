@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "Under the doctrine of Strict Liability, what is the primary prerequisite for the owner's liability?",
+      "options": ["Intentional damage", "Negligence", "Escape of a dangerous thing brought onto the land", "Violation of statutory authority"],
+      "answer": "Escape of a dangerous thing brought onto the land"
+    },
+    {
+      "question": "Which of the following is a valid defense under the doctrine of Strict Liability?",
+      "options": ["Unforeseeable economic hardship", "Act of God", "Strict compliance with industry standards", "The defendant acted in good faith"],
+      "answer": "Act of God"
+    },
+    {
+      "question": "What is the key differentiator between Strict Liability and Absolute Liability?",
+      "options": ["The size of the enterprise", "The presence of negligence", "The availability of common-law defenses", "The location of the land"],
+      "answer": "The availability of common-law defenses"
+    },
+    {
+      "question": "Why did the doctrine of Absolute Liability emerge?",
+      "options": ["Because judges wanted to punish profit", "To address the needs of modern industrial economies and hazardous activities", "To replace all forms of tort law", "Because Rylands v. Fletcher was overruled"],
+      "answer": "To address the needs of modern industrial economies and hazardous activities"
+    },
+    {
+      "question": "Under Absolute Liability, if an enterprise causes harm, can they claim 'Act of a stranger' as a defense?",
+      "options": ["Yes, if the stranger was unpredictable", "Yes, if the enterprise was not negligent", "No, there are no defenses", "Only if the court grants permission"],
+      "answer": "No, there are no defenses"
+    },
+    {
+      "question": "How is the economic rationale for Absolute Liability described in the text?",
+      "options": ["As a tax on industry", "As a charitable obligation", "As an 'appropriate item of overheads'", "As a method to prevent bankruptcy"],
+      "answer": "As an 'appropriate item of overheads'"
+    },
+    {
+      "question": "If a case involves a standard, permitted industrial activity that is not 'inherently dangerous', which doctrine is most likely applicable?",
+      "options": ["Absolute Liability", "Strict Liability", "Criminal Liability", "Contractual Liability"],
+      "answer": "Strict Liability"
+    },
+    {
+      "question": "What is a limitation of the Rylands v. Fletcher ruling mentioned in the text?",
+      "options": ["It only applies to individuals, not companies", "It is only valid in 19th-century England", "It does not address the complexities of modern, inherently dangerous industrial activities", "It requires proof of malice"],
+      "answer": "It does not address the complexities of modern, inherently dangerous industrial activities"
+    },
+    {
+      "question": "Which term describes the type of land use associated with Strict Liability?",
+      "options": ["Natural user", "Non-natural user", "Agricultural user", "Residential user"],
+      "answer": "Non-natural user"
+    },
+    {
+      "question": "If a question involves an 'inherently dangerous industry', what is the most important legal takeaway?",
+      "options": ["Apply the 'non-natural user' test", "Check for negligence", "Apply Absolute Liability, which precludes common-law defenses", "Check for an 'Act of God'"],
+      "answer": "Apply Absolute Liability, which precludes common-law defenses"
+    }
+  ]
+}

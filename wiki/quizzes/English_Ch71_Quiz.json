@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "What is the primary function of foreign words and phrases when used in the English language?",
+      "options": ["To replace English words permanently", "To act as loanwords that retain original linguistic form", "To confuse the reader in formal texts", "To change the gender of the sentence"],
+      "answer": "To act as loanwords that retain original linguistic form"
+    },
+    {
+      "question": "Which indices in the vocabulary bank are most critical for the 'Legal Reasoning' section of CLAT?",
+      "options": ["11–25", "26–40", "1–10", "41–50"],
+      "answer": "1–10"
+    },
+    {
+      "question": "Why is 'contextual accuracy' essential when selecting foreign phrases?",
+      "options": ["To ensure the term matches the logical consistency of the sentence", "To ensure the word has a prefix", "To avoid using Latin terms", "To ensure the word is not a loanword"],
+      "answer": "To ensure the term matches the logical consistency of the sentence"
+    },
+    {
+      "question": "What does the 'False Friend' trap refer to?",
+      "options": ["Misspelling a foreign word", "Selecting a literal synonym instead of the idiomatic equivalent", "Confusing Latin with French", "Using an advanced term in a simple sentence"],
+      "answer": "Selecting a literal synonym instead of the idiomatic equivalent"
+    },
+    {
+      "question": "According to the trap analysis, why is using 'inter alia' in an informal context considered a mistake?",
+      "options": ["It is grammatically incorrect", "It is a distractor because the register is inappropriate", "It is a sociological term", "It lacks a suffix"],
+      "answer": "It is a distractor because the register is inappropriate"
+    },
+    {
+      "question": "Which category of vocabulary covers terms like 'de facto' and 'ex officio'?",
+      "options": ["Latin Legalisms", "Diplomatic/Political", "Sociological/Literary", "Advanced Syntax"],
+      "answer": "Diplomatic/Political"
+    },
+    {
+      "question": "What is the recommended action if a candidate scores below 85% on practice tests for this chapter?",
+      "options": ["Ignore the indices", "Re-evaluate items 11–20 and 41–50", "Switch to English idioms only", "Memorize the letter of the answer only"],
+      "answer": "Re-evaluate items 11–20 and 41–50"
+    },
+    {
+      "question": "What must be considered regarding foreign adjectives?",
+      "options": ["They must always be in the plural form", "They must maintain correct gender/number agreement with the noun", "They must always be from Greek origin", "They must be placed at the end of the sentence"],
+      "answer": "They must maintain correct gender/number agreement with the noun"
+    },
+    {
+      "question": "What is the suggested method for building a flashcard deck for this material?",
+      "options": ["Memorizing the letter index only", "Memorizing the reasoning behind the phrase application", "Focusing exclusively on French terms", "Ignoring the indices"],
+      "answer": "Memorizing the reasoning behind the phrase application"
+    },
+    {
+      "question": "Which group of terms is noted for being 'rare' and having 'high-weightage'?",
+      "options": ["Indices 1–10", "Indices 11–25", "Indices 26–40", "Indices 41–50"],
+      "answer": "Indices 41–50"
+    }
+  ]
+}

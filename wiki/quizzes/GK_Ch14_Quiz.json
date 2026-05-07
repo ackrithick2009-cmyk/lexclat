@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "Which Constitutional Amendment Act introduced the Fundamental Duties into the Indian Constitution?",
+      "options": ["42nd Amendment", "44th Amendment", "86th Amendment", "1st Amendment"],
+      "answer": "42nd Amendment"
+    },
+    {
+      "question": "The concept of Fundamental Duties was inspired by the Constitution of which nation?",
+      "options": ["USA", "UK", "USSR", "Canada"],
+      "answer": "USSR"
+    },
+    {
+      "question": "Under which Article and Part are the Fundamental Duties enshrined?",
+      "options": ["Article 51, Part IV", "Article 51A, Part IV-A", "Article 50A, Part IV", "Article 51A, Part III"],
+      "answer": "Article 51A, Part IV-A"
+    },
+    {
+      "question": "Which committee recommended the incorporation of Fundamental Duties?",
+      "options": ["Nehru Committee", "Swaran Singh Committee", "Gadgil Committee", "Mandal Commission"],
+      "answer": "Swaran Singh Committee"
+    },
+    {
+      "question": "Are Fundamental Duties justiciable in a court of law?",
+      "options": ["Yes, always", "Yes, if the President permits", "No, they are non-justiciable", "Only for public officials"],
+      "answer": "No, they are non-justiciable"
+    },
+    {
+      "question": "How many Fundamental Duties were originally added in 1976?",
+      "options": ["Eight", "Ten", "Eleven", "Twelve"],
+      "answer": "Ten"
+    },
+    {
+      "question": "Which amendment added the 11th Fundamental Duty regarding education for children aged 6-14?",
+      "options": ["42nd Amendment", "44th Amendment", "86th Amendment", "91st Amendment"],
+      "answer": "86th Amendment"
+    },
+    {
+      "question": "In M.C. Mehta v. Union of India (1983), the Supreme Court described Fundamental Duties as a what?",
+      "options": ["Legal mandate", "Yardstick for constitutional validity", "Fundamental Right", "Legislative directive"],
+      "answer": "Yardstick for constitutional validity"
+    },
+    {
+      "question": "Which of the following statements about the origin of Fundamental Duties is correct?",
+      "options": ["They were part of the original Constitution", "They were added in 1950", "They were added 26 years after the Constitution was enacted", "They were added in 1928"],
+      "answer": "They were added 26 years after the Constitution was enacted"
+    },
+    {
+      "question": "Can Parliament provide for the enforcement of Fundamental Duties?",
+      "options": ["No, they are non-enforceable", "Yes, through specific legislation", "Only the Supreme Court can enforce them", "Yes, through Executive order"],
+      "answer": "Yes, through specific legislation"
+    }
+  ]
+}

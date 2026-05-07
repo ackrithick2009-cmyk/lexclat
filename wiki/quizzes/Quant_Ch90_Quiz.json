@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "What is the correct formula for calculating the net change in average when entries are corrected?",
+      "options": ["(Total Sum / Total Observations)", "(Total Net Deviation) / (Total Number of Observations)", "(New Value - Old Value)", "(Total Observations / Net Deviation)"],
+      "answer": "(Total Net Deviation) / (Total Number of Observations)"
+    },
+    {
+      "question": "When correcting an average, if the actual value is 74 and the recorded value was 32, what is the net deviation?",
+      "options": ["-42", "42", "106", "-106"],
+      "answer": "42"
+    },
+    {
+      "question": "Which of the following is identified as an irrational expression in the text?",
+      "options": ["A quotient of two integers", "5/3", "sqrt(2)/sqrt(3)", "All of the above"],
+      "answer": "sqrt(2)/sqrt(3)"
+    },
+    {
+      "question": "When calculating the greatest number that divides X and Y leaving remainders a and b, what is the mandatory first step?",
+      "options": ["Find the HCF of X and Y", "Perform (X-a) and (Y-b)", "Divide X by a and Y by b", "Add the remainders to the dividends"],
+      "answer": "Perform (X-a) and (Y-b)"
+    },
+    {
+      "question": "In pricing problems, what is the recommended value to assume for the 'original price'?",
+      "options": ["1", "x", "100", "The common denominator"],
+      "answer": "100"
+    },
+    {
+      "question": "How should you approach problems where money is spent in stages (e.g., half, then half of the remainder)?",
+      "options": ["Divide the original total by the number of stages", "Work backward from the final balance", "Add the remainders to the original total", "Assume the spending is equal across all stages"],
+      "answer": "Work backward from the final balance"
+    },
+    {
+      "question": "What is the primary difference between prime and composite numbers according to the text?",
+      "options": ["Prime numbers are even; composite are odd", "Prime numbers have only 1 and themselves as factors; composite have at least one additional factor", "Composite numbers are always rational", "Prime numbers are larger than 100"],
+      "answer": "Prime numbers have only 1 and themselves as factors; composite have at least one additional factor"
+    },
+    {
+      "question": "When setting up age problems involving time shifts, what is the recommended methodology?",
+      "options": ["Use different variables for past and present ages", "Define present ages using a common variable like 5x and 3x", "Calculate the ratio before finding x", "Subtract the age difference from the current ratio"],
+      "answer": "Define present ages using a common variable like 5x and 3x"
+    },
+    {
+      "question": "If 56 was entered as 42 in a data set, what is the correction sign?",
+      "options": ["Gain of 14", "Loss of 14", "Gain of 42", "Loss of 42"],
+      "answer": "Gain of 14"
+    },
+    {
+      "question": "To find the ratio of variables when given specific spending units, what is the process?",
+      "options": ["Add the spending units together", "Normalize the spending to a common base", "Subtract the spending units from the total", "Divide the total by the spending units"],
+      "answer": "Normalize the spending to a common base"
+    }
+  ]
+}

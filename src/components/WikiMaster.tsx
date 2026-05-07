@@ -1,21 +1,22 @@
 import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { BookMarked, Scale, BookOpen, FileText, BrainCircuit, BarChart, Menu, ArrowLeft, X } from 'lucide-react';
+import { BookMarked, Scale, BookOpen, FileText, BrainCircuit, BarChart, Menu, ArrowLeft, X, ShieldCheck } from 'lucide-react';
 import CurrentAffairs from './CurrentAffairs';
 
 // Import all markdown files in the /wiki directory as raw strings at build time
 // @ts-ignore
-const wikiFiles = import.meta.glob('../../wiki/*.md', { query: '?raw', import: 'default' });
+const wikiFiles = import.meta.glob('../../wiki/**/*.md', { query: '?raw', import: 'default' });
 
 const WIKI_MODULES = [
   { id: 'master_syllabus_index', path: 'index', title: 'Master Syllabus Index', icon: <BookMarked size={16} /> },
-  { id: 'legal_reasoning_vault', path: 'legal', title: 'Legal Reasoning Vault', icon: <Scale size={16} /> },
-  { id: 'current_affairs_gk_hub', path: 'gk-vault', title: 'GK & Static Vault', icon: <BookOpen size={16} /> },
-  { id: 'daily_feed', path: 'current-affairs', title: 'Daily Current Affairs', icon: <BookOpen size={16} /> },
-  { id: 'english_comprehension', path: 'english', title: 'English Comprehension', icon: <FileText size={16} /> },
-  { id: 'logical_reasoning_logic', path: 'logic', title: 'Logical Reasoning', icon: <BrainCircuit size={16} /> },
-  { id: 'quantitative_techniques', path: 'quant', title: 'Quantitative Techniques', icon: <BarChart size={16} /> },
+  { id: 'legal_vault', path: 'legal', title: 'Legal Reasoning', icon: <Scale size={16} /> },
+  { id: 'english_vault', path: 'english', title: 'English Language', icon: <FileText size={16} /> },
+  { id: 'gk_vault', path: 'gk', title: 'GK & Current Affairs', icon: <BookOpen size={16} /> },
+  { id: 'logical_vault', path: 'logic', title: 'Logical Reasoning', icon: <BrainCircuit size={16} /> },
+  { id: 'quant_vault', path: 'quant', title: 'Quantitative Techniques', icon: <BarChart size={16} /> },
+  { id: 'daily_feed', path: 'current-affairs', title: 'Daily News Feed', icon: <BookOpen size={16} /> },
+  { id: 'mega_quiz', path: 'mock-exam', title: 'Mega Summary Quiz', icon: <ShieldCheck size={16} /> },
 ];
 
 export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: string; onClose?: () => void }) {
@@ -130,7 +131,30 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
                   </div>
                 ) : (
                   <div className="prose prose-blue max-w-none prose-p:text-foreground prose-p:leading-[1.8] prose-p:font-sans prose-headings:font-serif prose-headings:text-foreground prose-headings:font-bold prose-a:text-primary prose-a:font-bold prose-strong:text-foreground prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:bg-primary-light prose-blockquote:text-primary prose-blockquote:px-8 prose-blockquote:py-4 prose-blockquote:not-italic prose-table:border prose-th:bg-gray-50 prose-th:text-foreground prose-td:text-foreground prose-img:rounded-sm">
-                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
+                    <ReactMarkdown 
+                      remarkPlugins={[remarkGfm]}
+                      components={{
+                        a: ({ href, children }) => {
+                          if (href?.startsWith('.') || href?.endsWith('.md')) {
+                            return (
+                              <button 
+                                onClick={() => {
+                                  // Clean the path to match the ID
+                                  const id = href.replace(/^\.\//, '').replace(/\.md$/, '');
+                                  setActiveModule(id);
+                                }}
+                                className="text-primary hover:underline font-bold"
+                              >
+                                {children}
+                              </button>
+                            );
+                          }
+                          return <a href={href}>{children}</a>;
+                        }
+                      }}
+                    >
+                      {content}
+                    </ReactMarkdown>
                   </div>
                 )}
               </div>

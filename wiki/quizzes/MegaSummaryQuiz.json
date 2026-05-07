@@ -1,0 +1,320 @@
+{
+  "quizzes": [
+    {
+      "question": "Which Mughal emperor established the Mansabdari system and abolished the Jizya?",
+      "options": [
+        "Babar",
+        "Akbar",
+        "Jahangir",
+        "Humayun"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "id": 6,
+      "question": "According to the passage, how do 3D VR models benefit anatomy learning?",
+      "options": [
+        "They are cheaper than 2D diagrams",
+        "They provide enhanced spatial awareness",
+        "They replace the need for real patients entirely",
+        "They make exams easier to pass"
+      ],
+      "answer": "They provide enhanced spatial awareness"
+    },
+    {
+      "question": "In what year did Aravind Adiga win the Booker Prize?",
+      "options": [
+        "1997",
+        "2006",
+        "2008",
+        "1981"
+      ],
+      "answer": "2008"
+    },
+    {
+      "question": "How should you approach problems where money is spent in stages (e.g., half, then half of the remainder)?",
+      "options": [
+        "Divide the original total by the number of stages",
+        "Work backward from the final balance",
+        "Add the remainders to the original total",
+        "Assume the spending is equal across all stages"
+      ],
+      "answer": "Work backward from the final balance"
+    },
+    {
+      "question": "Who is known as the 'Frontier Gandhi'?",
+      "options": [
+        "Wali Khan",
+        "Khan Abdul Gaffar Khan",
+        "Surendranath Banerjee",
+        "Man Singh"
+      ],
+      "answer": "Khan Abdul Gaffar Khan"
+    },
+    {
+      "question": "What is the recommended approach to minimize errors in fractional addition during exams?",
+      "options": [
+        "Cross-multiply immediately",
+        "Convert to decimals first",
+        "Simplify fractions before cross-multiplication",
+        "Round to the nearest whole number"
+      ],
+      "answer": "Simplify fractions before cross-multiplication"
+    },
+    {
+      "question": "How do courts typically treat 'bad deals' between business entities?",
+      "options": [
+        "They rewrite them to be fair",
+        "They cancel them for unconscionability",
+        "They do not rewrite them",
+        "They treat them as void by default"
+      ],
+      "answer": "They do not rewrite them"
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following bodies is NOT a constitutional body?",
+      "options": [
+        "Election Commission of India",
+        "Finance Commission",
+        "NITI Aayog",
+        "UPSC"
+      ],
+      "answer": "NITI Aayog",
+      "explanation": "NITI Aayog is an executive body created by a Cabinet resolution; the others are mentioned in the Constitution."
+    },
+    {
+      "id": "q1",
+      "question": "Which Article of the Indian Constitution states that the President shall act according to the advice of the Council of Ministers headed by the Prime Minister?",
+      "options": [
+        "Article 78",
+        "Article 74",
+        "Article 70",
+        "Article 68"
+      ],
+      "answer": "Article 74",
+      "explanation": "Article 74(1) provides for a Council of Ministers with the PM at the head to aid and advise the President."
+    },
+    {
+      "question": "Which Constitutional Amendment Act introduced the Fundamental Duties into the Indian Constitution?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "86th Amendment",
+        "1st Amendment"
+      ],
+      "answer": "42nd Amendment"
+    },
+    {
+      "id": 3,
+      "question": "Why is time described as a 'luxury' in the passage?",
+      "options": [
+        "Because it is unlimited",
+        "Because it is a valuable, limited commodity constrained by external demands",
+        "Because it is irrelevant to productivity",
+        "Because it is easily purchased"
+      ],
+      "answer": "Because it is a valuable, limited commodity constrained by external demands"
+    },
+    {
+      "id": "q2",
+      "question": "In an online defamation case, what must the plaintiff prove about the defamatory statement to succeed?",
+      "options": [
+        "That it was a form of political activism protected by law.",
+        "That it was made with good intentions but was factually incorrect.",
+        "That it was true and intended to inform the public.",
+        "That it was false, damaging to their reputation, and made with a degree of fault."
+      ],
+      "answer": "That it was false, damaging to their reputation, and made with a degree of fault.",
+      "explanation": "The legal standard for defamation requires proving falsehood, damage, and fault (negligence or malice)."
+    },
+    {
+      "question": "What is the primary cause of failure in Ratio-Distribution (Q116) problems?",
+      "options": [
+        "Miscalculating the square root",
+        "Forgetting the quantity of beneficiaries",
+        "Using the wrong percentage",
+        "Adding the variables incorrectly"
+      ],
+      "answer": "Forgetting the quantity of beneficiaries"
+    },
+    {
+      "question": "What is the direct antonym of 'Empty'?",
+      "options": [
+        "Void",
+        "Full",
+        "Large",
+        "Stopped"
+      ],
+      "answer": "Full"
+    },
+    {
+      "question": "Which author won the Booker Prize for 'The Inheritance of Loss'?",
+      "options": [
+        "Arundhati Roy",
+        "Kiran Desai",
+        "Aravind Adiga",
+        "Salman Rushdie"
+      ],
+      "answer": "Kiran Desai"
+    },
+    {
+      "id": "q3",
+      "question": "The Nobel Prize in Literature is primarily awarded for:",
+      "options": [
+        "The best-selling book of the year.",
+        "An author's entire body of work in an ideal direction.",
+        "A specific scientific publication.",
+        "The best poem written in a calendar year."
+      ],
+      "answer": "An author's entire body of work in an ideal direction.",
+      "explanation": "The Nobel Prize in Literature recognizes the cumulative achievement and impact of an author's career."
+    },
+    {
+      "id": "q4",
+      "question": "Which writ is considered the 'bulwark of personal freedom'?",
+      "options": [
+        "Certiorari",
+        "Habeas Corpus",
+        "Mandamus",
+        "Quo Warranto"
+      ],
+      "answer": "Habeas Corpus",
+      "explanation": "Habeas Corpus is the most important writ for protecting individual liberty against illegal detention."
+    },
+    {
+      "question": "What does 'Consensus ad Idem' literally signify in a contract?",
+      "options": [
+        "Meeting of the minds",
+        "Legal consideration",
+        "Public interest",
+        "Execution of terms"
+      ],
+      "answer": "Meeting of the minds"
+    },
+    {
+      "question": "At which stadium was the 2011 Cricket World Cup final held?",
+      "options": [
+        "Lord's",
+        "Melbourne",
+        "Narendra Modi",
+        "Wankhede"
+      ],
+      "answer": "Wankhede"
+    },
+    {
+      "question": "When setting up age problems involving time shifts, what is the recommended methodology?",
+      "options": [
+        "Use different variables for past and present ages",
+        "Define present ages using a common variable like 5x and 3x",
+        "Calculate the ratio before finding x",
+        "Subtract the age difference from the current ratio"
+      ],
+      "answer": "Define present ages using a common variable like 5x and 3x"
+    },
+    {
+      "id": "q1",
+      "question": "Under what circumstances can children between the ages of 16 and 18 be tried as adults under the Juvenile Justice Act, 2015?",
+      "options": [
+        "They can always be tried as adults for any crime.",
+        "After a preliminary assessment by the Juvenile Justice Board for heinous crimes.",
+        "When they have committed any offense, regardless of severity.",
+        "When they reach the age of 18 during the trial."
+      ],
+      "answer": "After a preliminary assessment by the Juvenile Justice Board for heinous crimes.",
+      "explanation": "According to the Act, children in the 16-18 age group can be tried as adults only after a specific assessment by the JJB regarding the nature of the crime."
+    },
+    {
+      "question": "What is the famous quote associated with Shri Narayan Guru?",
+      "options": [
+        "Swaraj is my birthright",
+        "Do or Die",
+        "No religion, no caste, no God for mankind",
+        "Quit India"
+      ],
+      "answer": "No religion, no caste, no God for mankind"
+    },
+    {
+      "question": "In a legal context, who is the antonym of the 'Defendant'?",
+      "options": [
+        "The Witness",
+        "The Plaintiff",
+        "The Jury",
+        "The Clerk"
+      ],
+      "answer": "The Plaintiff"
+    },
+    {
+      "question": "How is the economic rationale for Absolute Liability described in the text?",
+      "options": [
+        "As a tax on industry",
+        "As a charitable obligation",
+        "As an 'appropriate item of overheads'",
+        "As a method to prevent bankruptcy"
+      ],
+      "answer": "As an 'appropriate item of overheads'"
+    },
+    {
+      "question": "Are Fundamental Duties justiciable in a court of law?",
+      "options": [
+        "Yes, always",
+        "Yes, if the President permits",
+        "No, they are non-justiciable",
+        "Only for public officials"
+      ],
+      "answer": "No, they are non-justiciable"
+    },
+    {
+      "id": "q3",
+      "question": "The Verma Committee (2013) was established to recommend changes in which area of law?",
+      "options": [
+        "Tax Law",
+        "Criminal Law (specifically relating to sexual offenses)",
+        "Corporate Law",
+        "Environmental Law"
+      ],
+      "answer": "Criminal Law (specifically relating to sexual offenses)",
+      "explanation": "The Justice Verma Committee was formed after the Nirbhaya case to propose stricter laws against sexual assault."
+    },
+    {
+      "question": "Which player was the 'Man of the Final' in the inaugural 1975 Cricket World Cup?",
+      "options": [
+        "Clive Lloyd",
+        "MS Dhoni",
+        "Ben Stokes",
+        "James Faulkner"
+      ],
+      "answer": "Clive Lloyd"
+    },
+    {
+      "question": "Which group of terms is noted for being 'rare' and having 'high-weightage'?",
+      "options": [
+        "Indices 1\u201310",
+        "Indices 11\u201325",
+        "Indices 26\u201340",
+        "Indices 41\u201350"
+      ],
+      "answer": "Indices 41\u201350"
+    },
+    {
+      "question": "The Battle of Haldighati was fought between which two parties?",
+      "options": [
+        "Akbar and Rana Pratap",
+        "Ahmad Shah Abdali and the Marathas",
+        "Babar and Ibrahim Lodi",
+        "Humayun and Shershah Suri"
+      ],
+      "answer": "Akbar and Rana Pratap"
+    },
+    {
+      "question": "Which of the following is a valid defense under the doctrine of Strict Liability?",
+      "options": [
+        "Unforeseeable economic hardship",
+        "Act of God",
+        "Strict compliance with industry standards",
+        "The defendant acted in good faith"
+      ],
+      "answer": "Act of God"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "What is the primary requirement for a novel to be eligible for the Booker Prize?",
+      "options": ["It must be written by a Commonwealth author", "It must be an original novel written in English and published in the UK", "It must be a debut novel", "It must focus on socio-political themes"],
+      "answer": "It must be an original novel written in English and published in the UK"
+    },
+    {
+      "question": "Which work was named 'Booker of the Bookers' for both the 25th and 40th anniversaries?",
+      "options": ["Disgrace", "In a Free State", "Midnight’s Children", "The White Tiger"],
+      "answer": "Midnight’s Children"
+    },
+    {
+      "question": "In which years did J.M. Coetzee win the Booker Prize?",
+      "options": ["1993 and 2008", "1981 and 1997", "1983 and 1999", "1971 and 2006"],
+      "answer": "1983 and 1999"
+    },
+    {
+      "question": "Who was the first Indian-origin author listed to win the Booker Prize?",
+      "options": ["Salman Rushdie", "V.S. Naipaul", "Arundhati Roy", "Aravind Adiga"],
+      "answer": "V.S. Naipaul"
+    },
+    {
+      "question": "Which two authors mentioned in the text won the Booker Prize for their debut novels?",
+      "options": ["Salman Rushdie and V.S. Naipaul", "Kiran Desai and J.M. Coetzee", "Arundhati Roy and Aravind Adiga", "V.S. Naipaul and Arundhati Roy"],
+      "answer": "Arundhati Roy and Aravind Adiga"
+    },
+    {
+      "question": "The Booker Prize was formerly known by what name?",
+      "options": ["The Commonwealth Prize", "The Man Booker Prize", "The Imperial Literary Award", "The Booker of the Bookers Prize"],
+      "answer": "The Man Booker Prize"
+    },
+    {
+      "question": "J.M. Coetzee is noted in the text for having won which other prestigious award?",
+      "options": ["The Pulitzer Prize", "The Nobel Prize", "The Commonwealth Literature Prize", "The Booker of the Bookers"],
+      "answer": "The Nobel Prize"
+    },
+    {
+      "question": "In what year did Aravind Adiga win the Booker Prize?",
+      "options": ["1997", "2006", "2008", "1981"],
+      "answer": "2008"
+    },
+    {
+      "question": "What common theme is specifically mentioned in the text regarding J.M. Coetzee’s works?",
+      "options": ["Science fiction and technology", "Imperialism and systemic discrimination", "Historical biographies of kings", "Romantic poetry"],
+      "answer": "Imperialism and systemic discrimination"
+    },
+    {
+      "question": "Which author won the Booker Prize for 'The Inheritance of Loss'?",
+      "options": ["Arundhati Roy", "Kiran Desai", "Aravind Adiga", "Salman Rushdie"],
+      "answer": "Kiran Desai"
+    }
+  ]
+}

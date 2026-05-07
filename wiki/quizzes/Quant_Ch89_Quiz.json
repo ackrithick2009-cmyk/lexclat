@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "According to the chapter, what is the fundamental formula used for Time-Distance relationships?",
+      "options": ["Speed = Distance + Time", "Speed = Distance / Time", "Time = Distance / Speed", "Speed = Time / Distance"],
+      "answer": "Speed = Distance / Time"
+    },
+    {
+      "question": "In the Inheritance/Division (Q116) framework, how is the sum represented for a group containing 1 mother (x), 2 daughters (2x), and 3 sons (3x)?",
+      "options": ["x + 2x + 3x", "x + 2(2x) + 3(3x)", "x + 2x^2 + 3x^3", "1x + 4x + 9x"],
+      "answer": "x + 2(2x) + 3(3x)"
+    },
+    {
+      "question": "When solving the quadratic equation $t^2 - t - 20 = 0$ for time, why must a negative root be discarded?",
+      "options": ["Because the quadratic formula is incorrect", "Because time cannot be negative", "Because the equation is linear", "Because the speed is constant"],
+      "answer": "Because time cannot be negative"
+    },
+    {
+      "question": "In the context of financial math (Q104), if 20% of C.P. equals 40, what is the value of 1% of C.P.?",
+      "options": ["20", "40", "2", "8"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the recommended approach to minimize errors in fractional addition during exams?",
+      "options": ["Cross-multiply immediately", "Convert to decimals first", "Simplify fractions before cross-multiplication", "Round to the nearest whole number"],
+      "answer": "Simplify fractions before cross-multiplication"
+    },
+    {
+      "question": "What is the primary cause of failure in Ratio-Distribution (Q116) problems?",
+      "options": ["Miscalculating the square root", "Forgetting the quantity of beneficiaries", "Using the wrong percentage", "Adding the variables incorrectly"],
+      "answer": "Forgetting the quantity of beneficiaries"
+    },
+    {
+      "question": "In Labor/Economic Modeling (Q129), which mathematical method is used to isolate unknown variables?",
+      "options": ["Elimination", "Substitution", "Graphing", "Logarithmic expansion"],
+      "answer": "Substitution"
+    },
+    {
+      "question": "In Q154, what is the inverse relationship explored?",
+      "options": ["Cost and Profit", "Speed and Time", "Investment and Labor", "Distance and Inheritance"],
+      "answer": "Speed and Time"
+    },
+    {
+      "question": "What common mistake should be avoided when dealing with the 'Difference of S.P.'?",
+      "options": ["Treating the difference as the C.P. itself", "Multiplying by 100", "Dividing by the profit percentage", "Subtracting the percentage"],
+      "answer": "Treating the difference as the C.P. itself"
+    },
+    {
+      "question": "The equation $300/t - 300/(t+15) = 1$ is used for which type of problem?",
+      "options": ["Labor/Economic Modeling", "Inheritance Distribution", "Relative Speed/Time", "Percentage Profit"],
+      "answer": "Relative Speed/Time"
+    }
+  ]
+}

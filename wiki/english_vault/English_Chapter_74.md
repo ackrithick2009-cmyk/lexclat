@@ -1,47 +1,40 @@
-# Chapter 74: English Comprehension (Legal & Social focus)
-
-Reading comprehension in CLAT is not just about understanding the story; it's about identifying the author's tone, the central thesis, and the implicit legal/social arguments. This module focuses on high-yield passages extracted from the master material.
-
----
-
-## 🏗️ The CLAT Approach to Reading
-1.  **Main Idea:** What is the author's primary argument?
-2.  **Vocabulary in Context:** What does a specific, possibly technical, word mean in this specific sentence?
-3.  **Logical Inference:** What can we conclude that isn't explicitly stated but must be true based on the facts?
+# LexCLAT Study Material: English Chapter 74 
+**Topic:** Reading Comprehension & Analytical Reasoning  
+**Source:** NLU Delhi Previous Years' Questions (2024)
 
 ---
 
-## 📜 Passage 1: The Crisis of Justice
-> *"The crisis of justice... is the crisis of 'justice for the middle class'... Whereas the middle class in OECD (Organisation for Economic Co-operation and Development) countries has access to legal systems, the Indian middle class often does not. This has led to a significant demand for judicial reform to address the 'docket-excluded' population—those who cannot afford or access the justice system."*
+### I. Concept Primer: Contextual Vocabulary & Logic
+The provided questions test the ability to infer meaning from context and identify the causal logic behind narrative choices.
 
-### Key Analysis:
-*   **Central Thesis:** The Indian justice system is failing the middle class compared to international standards.
-*   **Key Term: "Docket-Excluded":** Refers to citizens who are effectively shut out of the legal process due to cost or complexity.
-*   **Tone:** Critical and reformative.
-
----
-
-## 📜 Passage 2: Subjectivity in Family Law (Cruelty)
-> *"The question of whether the conduct complained of constitutes 'cruelty'... is determined primarily by its effect upon the particular person complaining... It is not determined by how a 'reasonable person' would feel, but how the specific aggrieved spouse experienced the conduct. This makes the legal standard for cruelty highly subjective."*
-
-### Key Analysis:
-*   **Legal Concept:** The "Subjectivity" of Cruelty.
-*   **The Aggrieved Spouse:** The focus is on the victim's individual psychological and physical threshold, not a hypothetical objective standard.
+*   **‘Ripple Effect’:** Refers to the phenomenon where an initial action creates a chain reaction of subsequent, often cumulative, events.
+*   **The ‘Luxury’ of Time:** A contextual term indicating that time is a limited, valuable commodity. In the provided logic, if someone has to "pay a heavy price" for time, it is because their schedule is constrained by external demands (e.g., work, academic pressure).
+*   **Methodological Innovation:** The "Finished, Not Perfect Method" (FNPM) is a tactical response to the paralysis caused by perfectionism. It prioritizes the completion of a task over the elusive goal of perfection, which often hinders productivity.
 
 ---
 
-## 📜 Passage 3: The Abdication Address (Historical Context)
-> *"At long last I am able to say a few words... You must believe me when I tell you that I have found it impossible to carry the heavy burden of responsibility and to discharge my duties as King as I would wish to do without the help and support of the woman I love."*
-> — *King Edward VIII, 1936*
+### II. Landmark Facts: The Role of VR in Medical Education
+The provided passage outlines the current integration of Virtual Reality (VR) into professional healthcare training.
 
-### Key Analysis:
-*   **Context:** Constitutional crisis in the UK.
-*   **Core Conflict:** Personal duty vs. State responsibility.
-
----
-
-## 💡 Strategic Note for CLAT
-In English Comprehension, always check if the passage has a **Legal Underpinning** (like the "Cruelty" passage). These passages bridge the gap between English and Legal Reasoning sections.
+*   **Primary Advantages:**
+    *   **Risk-Free Simulations:** Allows students to practice complex surgeries and patient interactions without compromising patient safety.
+    *   **Spatial Awareness:** 3D models provide an enhanced understanding of complex anatomy compared to 2D diagrams.
+*   **Primary Challenges:**
+    *   **Economic Barriers:** High costs of hardware and software maintenance strain institutional budgets.
+    *   **Technical Accuracy:** The difficulty of simulating complex, real-world medical anomalies.
+    *   **Pedagogical Balance:** The risk of over-reliance on technology at the expense of traditional, direct patient interaction.
 
 ---
-*Source: LexCLAT Bulk Study Ingestion v2.0 (May 2026)*
+
+### III. Trap Analysis (NLU Delhi 2024 Patterns)
+Students must be wary of "distractor" options in these comprehension sets. Here is the analytical breakdown of common traps:
+
+| Question Type | The "Trap" | Why it’s incorrect |
+| :--- | :--- | :--- |
+| **Vocabulary Inference** | Choosing a literal definition over a figurative one (e.g., Circular path). | NLU-style questions demand the *conceptual* application, not a dictionary definition. |
+| **Logic/Motivation** | Attributing behavior to external factors (classmates) instead of internal discipline. | Questions regarding the FNPM focus on *self-management*, not social comparison. |
+| **Summarization** | Conflating "advantage" with "solution." | The passage highlights that VR has *potential* but presents *significant challenges*; a correct summary must account for both, not just the benefits. |
+
+***
+
+**Data Architect Note:** *For mastery of this section, students should focus on the "Structural Intent" of the author. Note how the passage moves from benefits to constraints—this is a classic NLU pattern designed to test if the reader can distinguish between a proponent's argument and a balanced critique.*

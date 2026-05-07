@@ -1,0 +1,54 @@
+{
+  "quizzes": [
+    {
+      "question": "Which Mughal emperor established the Mansabdari system and abolished the Jizya?",
+      "options": ["Babar", "Akbar", "Jahangir", "Humayun"],
+      "answer": "Akbar"
+    },
+    {
+      "question": "Which ruler is historically referred to as the 'wisest fool'?",
+      "options": ["Ala-ud-din Khilji", "Shershah Suri", "Muhammad-bin-Tughlaq", "Ahmad Shah Abdali"],
+      "answer": "Muhammad-bin-Tughlaq"
+    },
+    {
+      "question": "Who defeated Humayun at the Battle of Kanauj in 1540?",
+      "options": ["Babar", "Akbar", "Shershah Suri", "Hemu"],
+      "answer": "Shershah Suri"
+    },
+    {
+      "question": "Sir Thomas Roe obtained trade permissions during the reign of which Mughal emperor?",
+      "options": ["Akbar", "Jahangir", "Babar", "Shah Jahan"],
+      "answer": "Jahangir"
+    },
+    {
+      "question": "What was the result of the Second Battle of Panipat (1556)?",
+      "options": ["Babar defeated Ibrahim Lodi", "Akbar defeated Hemu", "Ahmad Shah Abdali defeated the Marathas", "Shershah Suri defeated Humayun"],
+      "answer": "Akbar defeated Hemu"
+    },
+    {
+      "question": "Which administrative reform is attributed to Lord Cornwallis?",
+      "options": ["Introduction of Din-i-Ilahi", "Permanent Settlement", "Token currency", "Price fixation"],
+      "answer": "Permanent Settlement"
+    },
+    {
+      "question": "In what year did the Battle of Buxar take place?",
+      "options": ["1757", "1760", "1761", "1764"],
+      "answer": "1764"
+    },
+    {
+      "question": "Which ruler is famous for implementing market policies and price fixation?",
+      "options": ["Ala-ud-din Khilji", "Muhammad-bin-Tughlaq", "Akbar", "Lord Cornwallis"],
+      "answer": "Ala-ud-din Khilji"
+    },
+    {
+      "question": "The Pitt's India Act was passed in 1784. Who served as Governor-General of India starting in 1786?",
+      "options": ["Babar", "Lord Cornwallis", "Sir Thomas Roe", "Muhammad-bin-Tughlaq"],
+      "answer": "Lord Cornwallis"
+    },
+    {
+      "question": "The Battle of Haldighati was fought between which two parties?",
+      "options": ["Akbar and Rana Pratap", "Ahmad Shah Abdali and the Marathas", "Babar and Ibrahim Lodi", "Humayun and Shershah Suri"],
+      "answer": "Akbar and Rana Pratap"
+    }
+  ]
+}
