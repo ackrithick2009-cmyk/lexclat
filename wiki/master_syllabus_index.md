@@ -13,8 +13,30 @@
 | 3 | 📖 English Language | [english_comprehension.md](./english_comprehension.md) | ~22 marks | Passages, Vocabulary, Inference |
 | 4 | 🧠 Logical Reasoning | [logical_reasoning_logic.md](./logical_reasoning_logic.md) | ~22 marks | Arguments, Assumptions, Analogies |
 | 5 | 📊 Quantitative Techniques | [quantitative_techniques.md](./quantitative_techniques.md) | ~8 marks | Data Interpretation, Percentages |
+| 6 | 🏛️ **Detailed Study Vault** | [Chapter Index](#detailed-study-vaults) | High-Yield | Extracted Modules & Quizzes |
 
 **Total: 120 marks | Duration: 2 Hours**
+
+---
+
+## 🏛️ Detailed Study Vaults
+The following chapters have been extracted from bulk materials and formatted for high-readability study. Each includes a dedicated practice quiz.
+
+### ⚖️ Legal Reasoning
+- [Chapter 12: Previous Year Questions (Legal Reasoning)](./legal_vault/Legal_Chapter_12.md)
+- [Chapter 14: Constitution & Political System](./legal_vault/Legal_Chapter_14.md)
+- [Chapter 20: Commissions & Committees](./legal_vault/Legal_Chapter_20.md)
+
+### 🌍 General Awareness
+- [Chapter 42: Geography](./current_affairs_gk_hub/GK_Chapter_42.md)
+- [Chapter 54: Arts & Literature](./current_affairs_gk_hub/GK_Chapter_54.md)
+
+### 🧠 Logical Reasoning
+- [Chapter 92: Logical Reasoning (Foundation)](./logical_vault/Logic_Chapter_92.md)
+
+### 📖 English & 📊 Quant
+- [Chapter 74: English Comprehension (Legal/Social)](./english_vault/English_Chapter_74.md)
+- [Chapter 89: Elementary Mathematics (Foundation)](./quant_vault/Quant_Chapter_89.md)
 
 ---
 
