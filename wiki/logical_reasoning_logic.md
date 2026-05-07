@@ -192,4 +192,12 @@ The "analogous" case must share the **legally operative feature**, not just surf
 
 ---
 
-*Last Updated: May 2026 | Based on Official CLAT Question Papers*
+## 9. Detailed Chapter Vault
+
+The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
+
+- [Chapter 92: Logical Reasoning (Foundation)](./logical_vault/Logic_Chapter_92.md)
+
+---
+
+*Last Updated: May 2026 | Based on Official CLAT Question Papers and Bulk Study Material*

@@ -8,18 +8,17 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
-def process_raw(chapter_num, subject="Legal"):
-    raw_file = f"scratch/Raw_Extract_Ch{chapter_num}.md"
-    print(f"Agent 2 (Architect): Monitoring for {raw_file}...")
+def process_bulk_vault(filename, subject="Legal"):
+    print(f"Agent 2 (Architect): Monitoring for {filename}...")
     
-    if not os.path.exists(raw_file):
-        print(f"Agent 2: File {raw_file} not found. Skipping.")
+    if not os.path.exists(filename):
+        print(f"Agent 2: File {filename} not found. Skipping.")
         return
 
-    with open(raw_file, "r", encoding="utf-8") as f:
+    with open(filename, "r", encoding="utf-8") as f:
         raw_text = f.read()
 
-    print(f"Agent 2: Processing raw text for Chapter {chapter_num}...")
+    print(f"Agent 2: Processing raw text for {filename}...")
     
     prompt = f"""
     Role: Technical Writer & Quiz Developer.
@@ -55,8 +54,9 @@ def process_raw(chapter_num, subject="Legal"):
         os.makedirs(f"wiki/{subject.lower()}_vault", exist_ok=True)
         os.makedirs("wiki/quizzes", exist_ok=True)
         
-        md_path = f"wiki/{subject.lower()}_vault/{subject}_Chapter_{chapter_num}.md"
-        json_path = f"wiki/quizzes/{subject}_Chapter_{chapter_num}_Quiz.json"
+        base_name = os.path.basename(filename).replace(".md", "")
+        md_path = f"wiki/{subject.lower()}_vault/{base_name}_Polished.md"
+        json_path = f"wiki/quizzes/{base_name}_Quiz.json"
         
         with open(md_path, "w", encoding="utf-8") as out:
             out.write(md_content)
@@ -65,16 +65,12 @@ def process_raw(chapter_num, subject="Legal"):
             
         print(f"Agent 2: Final files saved to {md_path} and {json_path}")
         
-        # Delete raw file as requested
-        os.remove(raw_file)
-        print(f"Agent 2: Cleaned up {raw_file}.")
-        
     except Exception as e:
         print(f"Agent 2 Error: {e}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python architect.py [ch_num] [subject]")
+        print("Usage: python architect.py [filename] [subject]")
     else:
         subject = sys.argv[2] if len(sys.argv) > 2 else "Legal"
-        process_raw(sys.argv[1], subject)
+        process_bulk_vault(sys.argv[1], subject)

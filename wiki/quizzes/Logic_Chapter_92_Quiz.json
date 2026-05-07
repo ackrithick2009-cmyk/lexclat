@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary rule when solving logical reasoning questions for CLAT?",
+    "options": [
+      "Use common sense and personal experience",
+      "Use only the information provided in the statements",
+      "Always assume the statements are false in real life",
+      "Prioritize legal knowledge over logic"
+    ],
+    "answer": "Use only the information provided in the statements",
+    "explanation": "In formal logic tests, conclusions must follow strictly from the provided statements, regardless of whether they match real-world experience."
+  },
+  {
+    "id": 2,
+    "question": "In a syllogism, which term appears in both premises but NOT in the conclusion?",
+    "options": ["Major term", "Minor term", "Middle term", "Predicate term"],
+    "answer": "Middle term",
+    "explanation": "The middle term connects the major and minor terms in the premises but is excluded from the final conclusion."
+  },
+  {
+    "id": 3,
+    "question": "If both premises in a syllogism are negative, what conclusion can be drawn?",
+    "options": [
+      "A negative conclusion",
+      "A positive conclusion",
+      "No valid conclusion can be drawn",
+      "A particular conclusion"
+    ],
+    "answer": "No valid conclusion can be drawn",
+    "explanation": "One of the fundamental rules of syllogism is that no conclusion follows from two negative premises."
+  },
+  {
+    "id": 4,
+    "question": "What is the definition of an 'Assumption' in logical reasoning?",
+    "options": [
+      "A fact that is explicitly stated",
+      "A conclusion derived from premises",
+      "Something taken for granted or implicit in a statement",
+      "A statement that contradicts the main argument"
+    ],
+    "answer": "Something taken for granted or implicit in a statement",
+    "explanation": "An assumption is an unstated but necessary premise that must be true for the statement or argument to hold."
+  },
+  {
+    "id": 5,
+    "question": "If one premise is 'Particular' (e.g., 'Some A are B'), the conclusion must be:",
+    "options": ["Universal", "Negative", "Particular", "Hypothetical"],
+    "answer": "Particular",
+    "explanation": "If at least one premise is particular, the conclusion must also be particular."
+  },
+  {
+    "id": 6,
+    "question": "Statements: (i) All mangoes are golden. (ii) No golden things are cheap. Conclusion: 'Golden mangoes are not cheap.' Does this follow?",
+    "options": [
+      "Yes, it follows logically",
+      "No, it contradicts the first statement",
+      "No, because mangoes are not mentioned in the second statement",
+      "Only if we assume mangoes exist"
+    ],
+    "answer": "Yes, it follows logically",
+    "explanation": "If all mangoes are golden, and no golden thing is cheap, then it logically follows that golden mangoes (which are a subset of golden things) are not cheap."
+  },
+  {
+    "id": 7,
+    "question": "The 'Major Term' in a syllogism is defined as:",
+    "options": [
+      "The subject of the conclusion",
+      "The predicate of the conclusion",
+      "The term common to both premises",
+      "The first word of the first statement"
+    ],
+    "answer": "The predicate of the conclusion",
+    "explanation": "By definition in formal logic, the major term is the predicate of the conclusion."
+  },
+  {
+    "id": 8,
+    "question": "Can a valid conclusion be drawn if both premises are 'Particular' (e.g., 'Some A are B' and 'Some B are C')?",
+    "options": [
+      "Yes, a particular conclusion",
+      "Yes, a universal conclusion",
+      "No valid conclusion can be drawn",
+      "Only if the middle term is distributed"
+    ],
+    "answer": "No valid conclusion can be drawn",
+    "explanation": "No valid conclusion can be derived from two particular premises."
+  },
+  {
+    "id": 9,
+    "question": "In the statement 'If you join a gym, you will lose weight', what is a necessary assumption?",
+    "options": [
+      "Everyone who loses weight joins a gym",
+      "Gyms have expensive equipment",
+      "Joining a gym is a method that contributes to weight loss",
+      "Weight loss is impossible without a gym"
+    ],
+    "answer": "Joining a gym is a method that contributes to weight loss",
+    "explanation": "For the 'if-then' statement to have any logical basis, there must be an underlying assumption that the action (joining a gym) leads to the result (weight loss)."
+  },
+  {
+    "id": 10,
+    "question": "The term 'Syllogism' was introduced by which philosopher?",
+    "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "answer": "Aristotle",
+    "explanation": "Syllogism is a form of reasoning pioneered by Aristotle."
+  }
+]

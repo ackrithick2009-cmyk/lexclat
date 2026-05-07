@@ -231,6 +231,7 @@ Don't read news linearly. Compartmentalize daily news into buckets:
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
 
+- [Chapter 42: Geography](./current_affairs_gk_hub/GK_Chapter_42.md)
 - [Chapter 54: Arts & Literature](./current_affairs_gk_hub/GK_Chapter_54.md)
 
 ---

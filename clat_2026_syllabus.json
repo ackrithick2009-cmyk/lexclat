@@ -1,0 +1,73 @@
+[
+  {
+    "id": "legal",
+    "title": "Legal Aptitude",
+    "chapters": [
+      { "id": 10, "title": "Legal Facts", "page": 89 },
+      { "id": 11, "title": "Legal Aptitude/Legal Reasoning", "page": 92 },
+      { "id": 12, "title": "PYQs on Legal Aptitude/Legal Reasoning (CLAT, NLU, DU)", "page": 130 },
+      { "id": 13, "title": "MCQs on Legal Aptitude/Legal Reasoning", "page": 210 },
+      { "id": 14, "title": "Constitution and Political System", "page": 239 },
+      { "id": 15, "title": "PYQs on Constitution and Political System", "page": 289 },
+      { "id": 16, "title": "MCQs on Constitution and Political System", "page": 299 },
+      { "id": 17, "title": "Current and Important Legal Awareness", "page": 346 },
+      { "id": 18, "title": "PYQs on Legal Awareness/Legal Aptitude", "page": 356 },
+      { "id": 19, "title": "MCQs on Legal Awareness/Legal Aptitude", "page": 387 },
+      { "id": 20, "title": "Commissions and Committees", "page": 423 }
+    ]
+  },
+  {
+    "id": "gk",
+    "title": "General Awareness",
+    "chapters": [
+      { "id": 42, "title": "Geography", "page": 753 },
+      { "id": 45, "title": "History", "page": 791 },
+      { "id": 48, "title": "Economics", "page": 823 },
+      { "id": 51, "title": "Science", "page": 851 },
+      { "id": 54, "title": "Arts and Literature", "page": 888 },
+      { "id": 56, "title": "Environmental Legislation in India", "page": 903 },
+      { "id": 57, "title": "PYQs on Environment", "page": 905 },
+      { "id": 58, "title": "MCQs on Environment", "page": 907 },
+      { "id": 59, "title": "PYQs on Miscellaneous Matters", "page": 917 }
+    ]
+  },
+  {
+    "id": "english",
+    "title": "English Language",
+    "chapters": [
+      { "id": 60, "title": "Vocabulary", "page": 929 },
+      { "id": 62, "title": "Synonyms", "page": 940 },
+      { "id": 64, "title": "MCQs on Synonyms", "page": 945 },
+      { "id": 65, "title": "Antonyms", "page": 953 },
+      { "id": 68, "title": "Spellings (Common-Error Words)", "page": 971 },
+      { "id": 71, "title": "Words and Phrases of Foreign Origin", "page": 977 },
+      { "id": 74, "title": "Comprehension", "page": 996 },
+      { "id": 77, "title": "PYQs on Jumbled Sentence", "page": 1079 },
+      { "id": 79, "title": "PYQs on Idioms and Phrases", "page": 1099 },
+      { "id": 81, "title": "PYQs on One Word Substitution", "page": 1107 },
+      { "id": 83, "title": "PYQs on Fill in the Blanks", "page": 1113 },
+      { "id": 85, "title": "PYQs on Cloze Test", "page": 1134 }
+    ]
+  },
+  {
+    "id": "quant",
+    "title": "Elementary Mathematics",
+    "chapters": [
+      { "id": 89, "title": "Elementary Mathematics (Percentages, Ratios, Profit & Loss)", "page": 1163 },
+      { "id": 90, "title": "PYQs on Elementary Mathematics", "page": 1171 },
+      { "id": 91, "title": "MCQs on Elementary Mathematics", "page": 1212 }
+    ]
+  },
+  {
+    "id": "logical",
+    "title": "Logical Reasoning",
+    "chapters": [
+      { "id": 92, "title": "Logical Reasoning (Inferences, Syllogism, Assumptions)", "page": 1219 },
+      { "id": 93, "title": "Analytical Reasoning", "page": 1225 },
+      { "id": 94, "title": "PYQs on Logical and Analytical Reasoning", "page": 1230 },
+      { "id": 95, "title": "PYQs on Critical Reasoning", "page": 1298 },
+      { "id": 96, "title": "MCQs on Word Analogies", "page": 1308 },
+      { "id": 97, "title": "MCQs on Logical and Analytical Reasoning", "page": 1311 }
+    ]
+  }
+]

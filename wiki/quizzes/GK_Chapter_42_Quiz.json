@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the exact rotation period of the Earth?",
+    "options": ["24 hours", "23 hours 56 minutes 4 seconds", "23 hours 48 minutes", "24 hours 4 minutes"],
+    "answer": "23 hours 56 minutes 4 seconds",
+    "explanation": "Earth's sidereal rotation period is approximately 23 hours, 56 minutes, and 4.09 seconds."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following branches of geography focuses on the study of maps and charts?",
+    "options": ["Mathematical Geography", "Physical Geography", "Cartography", "Geomorphology"],
+    "answer": "Cartography",
+    "explanation": "Cartography is the production and study of maps and charts, representing topographical features."
+  },
+  {
+    "id": 3,
+    "question": "Which is the longest glacier listed in the Himalayas?",
+    "options": ["Hispar", "Baltoro", "Gangotri", "Siachen"],
+    "answer": "Siachen",
+    "explanation": "The Siachen Glacier, at 75 km, is the longest listed and holds extreme strategic importance for India."
+  },
+  {
+    "id": 4,
+    "question": "The Banihal Pass connects which two regions?",
+    "options": ["Himachal Pradesh and Tibet", "Jammu and Srinagar", "Sikkim and Tibet", "Arunachal Pradesh and Tibet"],
+    "answer": "Jammu and Srinagar",
+    "explanation": "The Banihal Pass is a crucial gateway connecting Jammu with the Srinagar valley."
+  },
+  {
+    "id": 5,
+    "question": "Which mountain peak is the highest in the world at 8,848 meters?",
+    "options": ["K2", "Kanchenjunga", "Mount Everest", "Lhotse"],
+    "answer": "Mount Everest",
+    "explanation": "Mount Everest, located in the Himalayas, is the highest peak above sea level at 8,848 meters."
+  },
+  {
+    "id": 6,
+    "question": "What is the approximate equatorial diameter of the Earth?",
+    "options": ["12,713 km", "12,757 km", "12,800 km", "13,000 km"],
+    "answer": "12,757 km",
+    "explanation": "The equatorial diameter (12,757 km) is slightly larger than the polar diameter due to the Earth's rotation."
+  },
+  {
+    "id": 7,
+    "question": "Which continent is home to the Nile River and the Sahara Desert?",
+    "options": ["Asia", "Africa", "South America", "Australia"],
+    "answer": "Africa",
+    "explanation": "Africa contains the Nile (longest river) and the Sahara (largest hot desert)."
+  },
+  {
+    "id": 8,
+    "question": "The Shipki La pass connects Himachal Pradesh with which region?",
+    "options": ["Tibet", "Nepal", "Bhutan", "Pakistan"],
+    "answer": "Tibet",
+    "explanation": "Shipki La is a mountain pass and border post on the India-China border, connecting Himachal Pradesh and Tibet."
+  },
+  {
+    "id": 9,
+    "question": "Which lake is mentioned as being in Asia?",
+    "options": ["Victoria", "Tanganyika", "Baikal", "Superior"],
+    "answer": "Baikal",
+    "explanation": "Lake Baikal is a massive freshwater lake located in southern Siberia, Russia (Asia)."
+  },
+  {
+    "id": 10,
+    "question": "What is the total surface area of the Earth?",
+    "options": ["400 Million sq km", "509.7 Million sq km", "612 Million sq km", "700 Million sq km"],
+    "answer": "509.7 Million sq km",
+    "explanation": "The total surface area of the Earth is approximately 509,700,000 square kilometers."
+  }
+]
