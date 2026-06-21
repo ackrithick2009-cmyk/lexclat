@@ -241,31 +241,21 @@ const StudyMaterials = () => {
   };
 
   return (
-    <div id="study-materials" className="max-w-7xl mx-auto space-y-12 pb-24 pt-10">
-      <div className="flex flex-col md:flex-row items-end justify-between gap-8 border-b border-border pb-12">
+    <div id="study-materials" className="max-w-5xl mx-auto space-y-8 pb-20 pt-24 px-4 sm:px-6">
+      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-6">
         <div>
-          <h2 className="text-xs text-primary font-bold tracking-[0.4em] mb-4 uppercase">Academic Repository v4.0</h2>
-          <h1 className="text-4xl sm:text-5xl lg:text-7xl font-serif text-white tracking-tighter leading-tight italic">Study <br /> Materials.</h1>
+          <h1 className="text-3xl font-serif font-semibold text-foreground">Study Materials</h1>
+          <p className="text-muted-foreground mt-1">Notes, passages, and practice sets</p>
         </div>
-        <div className="w-full md:w-[500px] flex gap-4 items-center">
-          <div className="relative group flex-1">
-             <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-600 group-focus-within:text-primary transition-colors" size={18} />
-             <input 
-              type="text" 
-              placeholder="Search study modules..." 
-              className="bg-accent w-full h-16 pl-12 rounded-none border-border focus:border-primary text-white font-serif italic text-lg outline-none transition-all"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-            />
-          </div>
-          {(selectedSubjects.length > 0 || selectedTypes.length > 0 || selectedMonths.length > 0 || searchQuery) && (
-            <button 
-              onClick={clearFilters}
-              className="h-16 px-6 bg-surface border border-border text-gray-500 hover:text-primary hover:border-primary transition-all flex items-center gap-2 text-[10px] font-black uppercase tracking-widest whitespace-nowrap"
-            >
-              <X size={14} /> Clear All
-            </button>
-          )}
+        <div className="relative flex-1 max-w-md">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" size={18} />
+          <input
+            type="text"
+            placeholder="Search..."
+            className="w-full h-11 pl-10 pr-4 rounded-lg border border-border bg-white text-foreground outline-none focus:border-primary"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
         </div>
       </div>
 
@@ -300,80 +290,30 @@ const StudyMaterials = () => {
         )}
       </AnimatePresence>
 
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-8 lg:gap-12">
-        {/* Sidebar Navigation */}
-        <div className="lg:col-span-1 space-y-8">
-          <div>
-            <p className="text-[10px] text-gray-600 font-bold uppercase tracking-widest mb-4">Subject Disciplines</p>
-            <div className="space-y-2">
-              {subjects.map((sub) => {
-                const progress = getSubjectProgress(sub.name);
-                const isSelected = selectedSubjects.includes(sub.name);
-                return (
-                  <button
-                    key={sub.id}
-                    onClick={() => toggleSubject(sub.name)}
-                    className={`w-full relative flex flex-col p-5 transition-all group overflow-hidden text-left ${
-                      isSelected 
-                      ? 'bg-primary text-black' 
-                      : 'bg-surface text-gray-400 hover:bg-accent border-l-2 border-transparent hover:border-primary'
-                    }`}
-                  >
-                    <div className="w-full flex items-center justify-between mb-3">
-                      <div className="flex items-center gap-4">
-                        <span className={isSelected ? 'text-black' : 'text-primary'}>
-                          {sub.icon}
-                        </span>
-                        <span className="text-sm font-bold tracking-tight">{sub.name}</span>
-                      </div>
-                      <div className="flex items-center gap-2">
-                        <span className={`text-[10px] font-black tracking-tighter ${isSelected ? 'text-black/60' : 'text-gray-600'}`}>
-                          {progress}%
-                        </span>
-                        <ChevronRight size={14} className={isSelected ? 'opacity-100' : 'opacity-0 group-hover:opacity-100 transition-opacity'} />
-                      </div>
-                    </div>
-                    
-                    {/* Subject Progress Bar */}
-                    <div className={`h-[2px] w-full rounded-full overflow-hidden ${isSelected ? 'bg-black/10' : 'bg-white/5'}`}>
-                      <motion.div 
-                        initial={{ width: 0 }}
-                        animate={{ width: `${progress}%` }}
-                        className={`h-full ${isSelected ? 'bg-black' : 'bg-primary shadow-[0_0_8px_rgba(255,215,0,0.4)]'}`}
-                      />
-                    </div>
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-
-          <div>
-            <p className="text-[10px] text-gray-600 font-bold uppercase tracking-widest mb-4">Content Type</p>
-            <div className="grid grid-cols-2 gap-2">
-              {materialTypes.map((type) => (
+      <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+        <div className="lg:col-span-1">
+          <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-3">Subject</p>
+          <div className="flex flex-wrap lg:flex-col gap-2">
+            {subjects.map((sub) => {
+              const isSelected = selectedSubjects.includes(sub.name);
+              return (
                 <button
-                  key={type}
-                  onClick={() => {
-                    setSelectedTypes(prev => 
-                      prev.includes(type) ? prev.filter(t => t !== type) : [...prev, type]
-                    );
-                  }}
-                  className={`p-3 text-[10px] font-black uppercase tracking-widest transition-all border text-center ${
-                    selectedTypes.includes(type)
-                    ? 'bg-primary border-primary text-black'
-                    : 'bg-surface border-border text-gray-400 hover:border-primary/50'
+                  key={sub.id}
+                  onClick={() => toggleSubject(sub.name)}
+                  className={`px-4 py-2.5 rounded-lg text-sm font-medium border transition-all text-left ${
+                    isSelected
+                      ? 'bg-primary text-white border-primary'
+                      : 'bg-white text-muted-foreground border-border hover:border-primary/40 hover:text-primary'
                   }`}
                 >
-                  {type}
+                  {sub.name}
                 </button>
-              ))}
-            </div>
+              );
+            })}
           </div>
         </div>
 
-        {/* Content Area */}
-        <div className="lg:col-span-3 space-y-6">
+        <div className="lg:col-span-3 space-y-4">
           <AnimatePresence mode="wait">
             <motion.div
               key={`${selectedSubjects.join(',')}-${selectedTypes.join(',')}-${selectedMonths.join(',')}-${searchQuery ? 'search' : 'list'}`}

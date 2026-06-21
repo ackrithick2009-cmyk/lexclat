@@ -158,16 +158,15 @@ const Countdown = () => {
   }, []);
 
   return (
-    <div className="flex gap-4 font-serif">
+    <div className="flex gap-3 font-sans text-sm text-muted-foreground">
       {[
         { label: 'Days', val: timeLeft.days },
         { label: 'Hrs', val: timeLeft.hours },
         { label: 'Min', val: timeLeft.minutes },
-        { label: 'Sec', val: timeLeft.seconds }
       ].map((t, i) => (
-        <div key={i} className="flex flex-col items-center">
-          <div className="text-xl text-primary font-black leading-none">{t.val < 10 ? `0${t.val}` : t.val}</div>
-          <div className="text-[7px] uppercase font-black tracking-widest text-muted-dim">{t.label}</div>
+        <div key={i} className="text-center">
+          <div className="text-lg font-bold text-primary">{t.val < 10 ? `0${t.val}` : t.val}</div>
+          <div className="text-xs">{t.label}</div>
         </div>
       ))}
     </div>
@@ -184,170 +183,93 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  const navItems = [
+    { label: 'Learn', view: 'LEARN' as View },
+    { label: 'Study Material', view: 'WIKI' as View },
+    { label: 'Current Affairs', view: 'DAILY' as View },
+    { label: 'Mocks', view: 'MOCKS' as View },
+  ];
+
   return (
-    <nav id="nav" className={`fixed top-0 w-full z-50 transition-all duration-500 safe-top ${isScrolled ? 'glass-strong border-b border-border py-4' : 'bg-transparent py-8'}`}>
-      <div className="container mx-auto px-4 lg:px-8 flex items-center justify-between">
-        <div className="flex items-center gap-4 cursor-pointer group" onClick={() => setView('LANDING')}>
-          <div className="relative">
-            <div className="w-10 h-10 bg-primary rounded-none rotate-45 flex items-center justify-center transition-all group-hover:rotate-0 shadow-lg">
-              <span className="-rotate-45 group-hover:rotate-0 transition-transform text-white font-black text-sm font-serif">L</span>
-            </div>
+    <nav id="nav" className={`fixed top-0 w-full z-50 safe-top ${isScrolled ? 'glass-strong py-3' : 'bg-white/80 backdrop-blur-sm py-4 border-b border-border'}`}>
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between">
+        <div className="flex items-center gap-3 cursor-pointer" onClick={() => setView('LANDING')}>
+          <div className="w-9 h-9 bg-primary rounded-lg flex items-center justify-center">
+            <span className="text-white font-bold text-sm font-serif">L</span>
           </div>
-          <div className="flex flex-col -gap-1">
-            <span className="text-2xl font-serif font-black tracking-tighter text-foreground group-hover:text-primary transition-colors">LEXCLAT</span>
-            <span className="text-[7px] font-black uppercase tracking-[0.4em] text-primary/60">Juris Elite Portal</span>
-          </div>
+          <span className="text-xl font-serif font-semibold text-foreground">LexCLAT</span>
         </div>
         
-        <div className="hidden lg:flex items-center gap-10 text-[9px] font-black tracking-[0.3em] uppercase">
+        <div className="hidden md:flex items-center gap-1">
           {user && (
             <button 
               onClick={() => setView('DASHBOARD')} 
-              className={`transition-all relative group h-full py-2 ${currentView === 'DASHBOARD' ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
+              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${currentView === 'DASHBOARD' ? 'bg-primary text-white' : 'text-muted-foreground hover:text-primary hover:bg-primary-light'}`}
             >
               Dashboard
-              <div className={`absolute -bottom-1 left-0 h-0.5 bg-primary transition-all duration-300 ${currentView === 'DASHBOARD' ? 'w-full' : 'w-0 group-hover:w-full'}`} />
             </button>
           )}
-          {[
-            { label: '🚀 Learn', view: 'LEARN' },
-            { label: 'Study Material', view: 'WIKI' },
-            { label: 'Current Affairs', view: 'DAILY' },
-            { label: 'Mocks', view: 'MOCKS' },
-            { label: 'AI Tutor', view: 'TUTOR' },
-            { label: 'Achievements', view: 'ACHIEVEMENTS', auth: true },
-            { label: 'Legal Archives', view: 'ARCHIVE' },
-            { label: 'Study Plan', view: 'PLANNER', auth: true },
-            { label: 'Analytics', view: 'ANALYSIS', auth: true },
-          ].map((item) => {
-            if (item.auth && !user) return null;
-            return (
-              <button 
-                key={item.label}
-                onClick={() => setView(item.view as View)} 
-                className={`transition-all relative group h-full py-2 ${currentView === item.view ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
-              >
-                {item.label}
-                <div className={`absolute -bottom-1 left-0 h-0.5 bg-primary transition-all duration-300 ${currentView === item.view ? 'w-full' : 'w-0 group-hover:w-full'}`} />
-              </button>
-            );
-          })}
+          {navItems.map((item) => (
+            <button 
+              key={item.label}
+              onClick={() => setView(item.view)} 
+              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${currentView === item.view ? 'bg-primary text-white' : 'text-muted-foreground hover:text-primary hover:bg-primary-light'}`}
+            >
+              {item.label}
+            </button>
+          ))}
           
           {user ? (
-            <div className="flex items-center gap-8 border-l border-border pl-10">
-              <div className="flex items-center gap-4 group cursor-pointer" onClick={() => setView('DASHBOARD')}>
-                <Avatar className="h-10 w-10 rounded-none border border-border ring-4 ring-primary/5 transition-all group-hover:ring-primary/20">
+            <div className="flex items-center gap-3 ml-4 pl-4 border-l border-border">
+              <button className="flex items-center gap-2" onClick={() => setView('DASHBOARD')}>
+                <Avatar className="h-8 w-8 rounded-lg border border-border">
                   <AvatarImage src={user.photoURL || ''} />
-                  <AvatarFallback className="bg-primary/10 text-primary rounded-none uppercase text-xs font-black">
+                  <AvatarFallback className="bg-primary-light text-primary text-xs font-semibold rounded-lg">
                     {profile?.displayName?.[0] || user.email?.[0]}
                   </AvatarFallback>
                 </Avatar>
-                <div className="flex flex-col">
-                  <span className="text-[10px] font-black text-foreground tracking-widest leading-none group-hover:text-primary transition-colors">{profile?.displayName?.toUpperCase() || 'ASPIRANT'}</span>
-                  <div className="flex items-center gap-3 mt-1.5">
-                     <div className="flex items-center gap-1">
-                        <Zap size={10} className="fill-orange-500 text-orange-500" />
-                        <span className="text-[8px] font-black text-orange-500 tracking-widest">{streak} DAY STREAK</span>
-                     </div>
-                     <div className="w-1 h-1 bg-border rounded-full" />
-                     <span className="text-[8px] font-black text-primary tracking-widest">{hasPremiumAccess ? 'GOLD ACCREDITED' : 'STANDARD ACCESS'}</span>
-                  </div>
-                </div>
-              </div>
-              <button className="text-muted-foreground hover:text-red-500 transition-all hover:scale-110 active:scale-90" onClick={logout}>
+              </button>
+              <button className="text-muted-foreground hover:text-accent p-2" onClick={logout} aria-label="Logout">
                 <LogOut size={18} />
               </button>
             </div>
           ) : (
             <button 
-              className="bg-primary text-white px-8 py-3.5 text-[10px] font-black tracking-[0.2em] hover:bg-primary/90 transition-all shadow-md"
+              className="ml-4 bg-accent text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-red-700 transition-colors"
               onClick={loginWithGoogle}
             >
-              AUTHENTICATE
+              Sign In
             </button>
           )}
         </div>
 
-        <button className="lg:hidden text-primary p-4 border border-primary/20 flex items-center justify-center min-w-[48px] min-h-[48px]" onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>
-          {mobileMenuOpen ? <X size={20} /> : <Menu size={20} />}
+        <button className="md:hidden text-primary p-2 rounded-lg hover:bg-primary-light" onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>
+          {mobileMenuOpen ? <X size={22} /> : <Menu size={22} />}
         </button>
       </div>
 
       <AnimatePresence>
         {mobileMenuOpen && (
           <motion.div 
-            initial={{ opacity: 0, y: -20 }}
+            initial={{ opacity: 0, y: -8 }}
             animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            className="absolute top-full left-0 w-full bg-surface border-b border-border shadow-2xl p-8 flex flex-col gap-6 lg:hidden font-sans uppercase tracking-widest text-xs font-bold"
+            exit={{ opacity: 0, y: -8 }}
+            className="absolute top-full left-0 w-full bg-white border-b border-border shadow-lg p-4 flex flex-col gap-1 md:hidden"
           >
-            <button 
-              onClick={() => { setView('LEARN'); setMobileMenuOpen(false); }} 
-              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'LEARN' ? 'text-primary font-black' : ''}`}
-            >
-              🚀 Learning Hub <ChevronRight size={14} />
-            </button>
-            <button 
-              onClick={() => { setView('WIKI'); setMobileMenuOpen(false); }} 
-              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'WIKI' ? 'text-primary font-black' : ''}`}
-            >
-              Master Wiki <ChevronRight size={14} />
-            </button>
-            <button 
-              onClick={() => { setView('MATERIALS'); setMobileMenuOpen(false); }} 
-              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'MATERIALS' ? 'text-primary font-black' : ''}`}
-            >
-              Academic Repository <ChevronRight size={14} />
-            </button>
-            <button 
-              onClick={() => { setView('DAILY'); setMobileMenuOpen(false); }} 
-              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'DAILY' ? 'text-primary font-black' : ''}`}
-            >
-              Daily Brief <ChevronRight size={14} />
-            </button>
-            <button 
-              onClick={() => { setView('MOCKS'); setMobileMenuOpen(false); }} 
-              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'MOCKS' ? 'text-primary font-black' : ''}`}
-            >
-              Mocks Arena <ChevronRight size={14} />
-            </button>
-            <button 
-              onClick={() => { setView('AFFAIRS'); setMobileMenuOpen(false); }} 
-              className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'AFFAIRS' ? 'text-primary font-black' : ''}`}
-            >
-              Current Affairs <ChevronRight size={14} />
-            </button>
             {user && (
-              <>
-                <button 
-                  onClick={() => { setView('PLANNER'); setMobileMenuOpen(false); }} 
-                  className={`text-left hover:text-primary transition-colors flex items-center justify-between ${currentView === 'PLANNER' ? 'text-primary font-black' : ''}`}
-                >
-                  AI Study Plan <ChevronRight size={14} />
-                </button>
-                <button 
-                  onClick={() => { setView('ANALYSIS'); setMobileMenuOpen(false); }} 
-                  className={`text-left hover:text-primary transition-colors flex items-center justify-between font-bold ${currentView === 'ANALYSIS' ? 'text-primary font-black' : 'text-primary'}`}
-                >
-                  Rank Predictor <ChevronRight size={14} />
-                </button>
-                <button 
-                  onClick={() => { setView('ARCHIVE'); setMobileMenuOpen(false); }} 
-                  className={`text-left hover:text-primary transition-colors flex items-center justify-between font-bold ${currentView === 'ARCHIVE' ? 'text-primary font-black' : 'text-primary'}`}
-                >
-                  Juris Archive <ChevronRight size={14} />
-                </button>
-              </>
+              <button onClick={() => { setView('DASHBOARD'); setMobileMenuOpen(false); }} className={`text-left px-4 py-3 rounded-lg text-sm font-medium ${currentView === 'DASHBOARD' ? 'bg-primary text-white' : 'text-foreground hover:bg-muted'}`}>
+                Dashboard
+              </button>
             )}
-            <a href="#features" onClick={() => setMobileMenuOpen(false)} className="hover:text-primary">Features</a>
-            <a href="#tutor" onClick={() => setMobileMenuOpen(false)} className="hover:text-primary">AI Tutor</a>
-            <a href="#pricing" onClick={() => setMobileMenuOpen(false)} className="hover:text-primary">Pricing</a>
+            {navItems.map(item => (
+              <button key={item.label} onClick={() => { setView(item.view); setMobileMenuOpen(false); }} className={`text-left px-4 py-3 rounded-lg text-sm font-medium ${currentView === item.view ? 'bg-primary text-white' : 'text-foreground hover:bg-muted'}`}>
+                {item.label}
+              </button>
+            ))}
             {user ? (
-               <button className="flex items-center justify-between text-red-500 pt-4 border-t border-border" onClick={logout}>
-                Logout <LogOut size={16} />
-               </button>
+              <button className="text-left px-4 py-3 rounded-lg text-sm font-medium text-accent hover:bg-red-50 mt-2" onClick={logout}>Sign Out</button>
             ) : (
-              <Button className="w-full bg-primary text-black font-black" onClick={loginWithGoogle}>Access Portal</Button>
+              <button className="mt-2 w-full bg-accent text-white py-3 rounded-lg text-sm font-semibold" onClick={loginWithGoogle}>Sign In</button>
             )}
           </motion.div>
         )}
@@ -358,458 +280,107 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
 
 const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null; onCheckout: () => void; setView: (v: View) => void }) => {
   return (
-    <div className="space-y-0">
-      {/* Hero Section */}
-      <section className="relative pt-48 pb-32 overflow-hidden bg-background">
-        <div className="container mx-auto px-6 flex flex-col lg:flex-row items-center gap-16 text-white relative">
-          <div className="flex-1 text-center lg:text-left">
-            <motion.div
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, ease: "easeOut" }}
+    <div>
+      {/* Hero */}
+      <section className="pt-32 pb-20 px-4 sm:px-6 bg-gradient-to-b from-blue-50/80 to-background">
+        <div className="max-w-4xl mx-auto text-center">
+          <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">CLAT 2026 Preparation</p>
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-semibold text-foreground leading-tight mb-6">
+            Master CLAT with <span className="text-primary">structured</span> study material
+          </h1>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8">
+            Legal reasoning, current affairs, English, logic, and quant — all in one focused platform.
+          </p>
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
+            <button 
+              className="w-full sm:w-auto bg-primary text-white px-8 py-3.5 rounded-lg font-semibold hover:bg-primary-dim shadow-sm"
+              onClick={() => setView('LEARN')}
             >
-              <div className="inline-flex items-center gap-3 mb-10">
-                <div className="w-1.5 h-1.5 bg-primary rounded-full" />
-                <span className="text-[10px] text-primary/80 font-black tracking-[0.4em] uppercase">Daily CLAT Preparation</span>
-              </div>
-              
-              <h1 className="text-4xl sm:text-6xl lg:text-8xl font-serif font-medium leading-[1.1] lg:leading-[0.9] mb-10 text-foreground tracking-tighter">
-                The Definitive <br /> 
-                <span className="italic text-primary">Authority on Law.</span>
-              </h1>
-              <p className="text-muted-foreground text-lg sm:text-xl leading-relaxed max-w-xl mx-auto lg:mx-0 mb-8 font-sans font-light">
-                LexCLAT is a structural transformation for your cognitive readiness. Current affairs, mocks, legal reasoning, and AI-powered study plans engineered to propel you into the top 1%.
-              </p>
-
-              <div className="flex flex-col lg:flex-row items-center gap-12 mb-12">
-                <div className="space-y-4">
-                  <div className="text-[8px] font-black text-muted-foreground uppercase tracking-[0.4em]">Time to CLAT 2026</div>
-                  <Countdown />
-                </div>
-                <div className="hidden lg:block w-px h-12 bg-border" />
-                <div className="space-y-2">
-                  <div className="flex items-center gap-2">
-                    <div className="flex -space-x-2">
-                       {[
-                         "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=100",
-                         "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=100",
-                         "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=100",
-                         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
-                       ].map((src, i) => (
-                         <img 
-                           key={i} 
-                           src={src} 
-                           className="w-6 h-6 rounded-full border border-background object-cover" 
-                           alt="Aspirant"
-                           referrerPolicy="no-referrer"
-                         />
-                       ))}
-                    </div>
-                    <span className="text-[10px] font-bold text-foreground uppercase tracking-widest">1,200+ Aspirants Active Now</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-                    <span className="text-[8px] text-muted-foreground font-black uppercase tracking-widest">Repository Updated 14m ago</span>
-                  </div>
-                </div>
-              </div>
-
-              <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-6">
-                <button 
-                  className="bg-primary text-white px-12 h-16 font-black uppercase tracking-[0.2em] text-[11px] hover:bg-primary/90 hover:scale-105 active:scale-95 transition-all shadow-xl shadow-primary/20 border-none"
-                  onClick={() => setView('LEARN')}
-                >
-                  🚀 START LEARNING
-                </button>
-                <button 
-                  className="px-10 h-16 border border-border bg-surface font-black uppercase tracking-[0.2em] text-[11px] text-foreground hover:border-primary hover:text-primary transition-all"
-                  onClick={() => {
-                    const el = document.getElementById('free-section');
-                    if (el) el.scrollIntoView({ behavior: 'smooth' });
-                  }}
-                >
-                  EXPLORE FREE HUB
-                </button>
-              </div>
-              
-              <div className="mt-20 flex flex-wrap justify-center lg:justify-start gap-12 font-serif text-foreground">
-                {[
-                  { val: '50k+', label: 'Aspirants' },
-                  { val: '140+', label: 'Simulations' },
-                  { val: 'AIR 01', label: 'Legacy Rank' }
-                ].map((stat, i) => (
-                  <div key={i} className="flex flex-col gap-1 pl-6 border-l border-border">
-                    <span className="text-4xl font-medium">{stat.val}</span>
-                    <span className="text-[10px] uppercase font-black text-muted-foreground tracking-[0.2em] leading-none font-sans">{stat.label}</span>
-                  </div>
-                ))}
-              </div>
-            </motion.div>
+              Start Learning
+            </button>
+            <button 
+              className="w-full sm:w-auto bg-white text-foreground border border-border px-8 py-3.5 rounded-lg font-semibold hover:border-primary hover:text-primary"
+              onClick={() => setView('WIKI')}
+            >
+              Study Material
+            </button>
           </div>
-          
-          <div className="flex-1 relative w-full lg:max-w-xl group">
-            <motion.div
-              initial={{ opacity: 0, x: 50 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 1, delay: 0.2 }}
-              className="relative z-10"
-            >
-              <img 
-                src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=1200" 
-                alt="LexCLAT Intelligence" 
-                className="w-full aspect-[4/3] object-cover grayscale brightness-75 group-hover:grayscale-0 group-hover:brightness-100 transition-all duration-1000 shadow-2xl"
-                referrerPolicy="no-referrer"
-              />
-            </motion.div>
-            <div className="absolute -bottom-10 -left-10 bg-surface p-10 z-20 max-w-[280px] shadow-2xl">
-               <div className="text-primary font-serif italic text-xl mb-3 leading-none underline decoration-primary/30 underline-offset-8">Cognitive Edge</div>
-               <p className="text-[10px] text-muted-foreground leading-relaxed font-sans uppercase tracking-widest font-medium">Our neural diagnostics track logic-gap variance with 98.4% precision compared to traditional mocks.</p>
-               <div className="mt-6 flex items-center gap-2 group/btn cursor-pointer">
-                  <span className="text-[9px] text-primary font-black uppercase tracking-widest">White Paper </span>
-                  <ChevronRight size={12} className="text-primary group-hover/btn:translate-x-1 transition-transform" />
-               </div>
-            </div>
+          <div className="inline-flex items-center gap-6 text-sm text-muted-foreground">
+            <span><strong className="text-foreground">120</strong> questions</span>
+            <span className="w-px h-4 bg-border" />
+            <span><strong className="text-foreground">5</strong> sections</span>
+            <span className="w-px h-4 bg-border" />
+            <Countdown />
           </div>
         </div>
       </section>
 
-      {/* Free Access Hub */}
-      <section className="py-32 px-6 bg-background relative overflow-hidden" id="free-section">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-[px] bg-gradient-to-r from-transparent via-primary/30 to-transparent" />
-        
-        <div className="max-w-7xl mx-auto">
-          <div className="flex flex-col lg:flex-row items-end justify-between gap-12 mb-20 animate-in fade-in slide-in-from-bottom-10 duration-1000">
-            <div className="max-w-2xl space-y-6">
-              <Badge className="bg-primary/10 text-primary border-primary/20 uppercase tracking-[0.3em] font-black rounded-none h-7">Aspirant's Gateway</Badge>
-              <h2 className="text-5xl lg:text-7xl font-serif text-foreground italic tracking-tighter leading-none">The Free <br /> Intelligence Hub.</h2>
-              <p className="text-muted-foreground text-lg font-light leading-relaxed">No subscription required. Start sharp with daily essentials curated by AI for serious CLAT aspirants.</p>
-            </div>
-            <div className="flex gap-4">
-              <Button 
-                onClick={() => setView('MATERIALS')}
-                className="border border-border text-muted-foreground hover:text-foreground bg-surface rounded-sm h-14 px-8 uppercase tracking-widest text-[10px] font-black transition-all hover:border-primary"
-              >
-                Explore Full Library
-              </Button>
-            </div>
-          </div>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {/* Daily CA */}
-            <div 
-              onClick={() => setView('DAILY')}
-              className="bg-surface p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-border"
-            >
-              <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
-                 <Newspaper size={80} />
-              </div>
-              <div className="w-12 h-12 bg-gray-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors rotate-45 relative z-10">
-                <Newspaper size={20} className="-rotate-45" />
-              </div>
-              <div className="relative z-10">
-                <h4 className="text-xl font-serif text-foreground italic mb-2">Daily Currents</h4>
-                <p className="text-muted-foreground text-[10px] uppercase tracking-widest leading-relaxed font-bold">AI-distilled 60-second news cards with CLAT-specific MCQ angles.</p>
-              </div>
-              <div className="flex items-center justify-between relative z-10">
-                 <span className="text-[10px] text-primary font-black uppercase tracking-widest">Access Now</span>
-                 <ArrowRight size={20} className="text-primary group-hover:translate-x-4 transition-all" />
-              </div>
-            </div>
-
-            {/* Mini Quizzes */}
-            <div 
-              onClick={() => setView('PRACTICE')}
-              className="bg-surface p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-border"
-            >
-               <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
-                 <Zap size={80} />
-              </div>
-              <div className="w-12 h-12 bg-gray-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors rotate-45 relative z-10">
-                <Zap size={20} className="-rotate-45" />
-              </div>
-              <div className="relative z-10">
-                <h4 className="text-xl font-serif text-foreground italic mb-2">Mini-Quizzes</h4>
-                <p className="text-muted-foreground text-[10px] uppercase tracking-widest leading-relaxed font-bold">10-minute micro-drills to fix your logic gaps on the go.</p>
-              </div>
-              <div className="flex items-center justify-between relative z-10">
-                 <span className="text-[10px] text-primary font-black uppercase tracking-widest">Start Drill</span>
-                 <ArrowRight size={20} className="text-primary group-hover:translate-x-4 transition-all" />
-              </div>
-            </div>
-
-            {/* Rank Predictor */}
-            <div 
-              onClick={() => setView('DASHBOARD')}
-              className="bg-surface p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-border"
-            >
-               <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
-                 <Target size={80} />
-              </div>
-              <div className="w-12 h-12 bg-gray-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors rotate-45 relative z-10">
-                <Target size={20} className="-rotate-45" />
-              </div>
-              <div className="relative z-10">
-                <h4 className="text-xl font-serif text-foreground italic mb-2">Rank Predictor</h4>
-                <p className="text-muted-foreground text-[10px] uppercase tracking-widest leading-relaxed font-bold">Simulate your NLU admission probability based on past data.</p>
-              </div>
-              <div className="flex items-center justify-between relative z-10">
-                 <span className="text-[10px] text-primary font-black uppercase tracking-widest">Check Rank</span>
-                 <ArrowRight size={20} className="text-primary group-hover:translate-x-4 transition-all" />
-              </div>
-            </div>
-
-            {/* Legal Word */}
-            <div 
-              onClick={() => setView('ARCHIVE')}
-              className="bg-primary p-10 space-y-8 group hover:bg-primary/90 transition-all cursor-pointer relative overflow-hidden"
-            >
-               <div className="absolute top-0 right-0 p-4 opacity-10 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
-                 <BookOpen size={80} />
-              </div>
-              <div className="w-12 h-12 bg-surface flex items-center justify-center text-primary rotate-45 relative z-10 animate-pulse">
-                <BookOpen size={20} className="-rotate-45" />
-              </div>
-              <div className="relative z-10">
-                <h4 className="text-xl font-serif text-white italic mb-2">Legal Lexicon</h4>
-                <p className="text-white/60 text-[10px] font-black uppercase tracking-widest mb-4 leading-none">Word of the Day</p>
-                <div className="space-y-1">
-                  <span className="text-2xl font-serif text-white uppercase tracking-widest block">Res Judicata</span>
-                  <span className="text-[10px] text-white/40 italic block uppercase tracking-widest font-black">A matter judged.</span>
-                </div>
-              </div>
-              <div className="flex items-center justify-between relative z-10">
-                 <span className="text-[10px] text-white font-black uppercase tracking-widest">Learn More</span>
-                 <ArrowRight size={20} className="text-white group-hover:translate-x-4 transition-all" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Strategic Features Grid */}
-      <section id="features" className="py-32 bg-background relative border-t border-border">
-        <div className="container mx-auto px-8">
-          <div className="grid lg:grid-cols-3 gap-8">
+      {/* Quick access — 3 cards only */}
+      <section className="py-16 px-4 sm:px-6" id="free-section">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl font-serif font-semibold text-center mb-10">Get started</h2>
+          <div className="grid sm:grid-cols-3 gap-4">
             {[
-              {
-                title: "Sectional Precision",
-                desc: "Granular drills focused on Torts, Contracts, and Constitutional nuances.",
-                icon: <Scale className="text-primary" size={24} />
-              },
-              {
-                title: "Neural Simulations",
-                desc: "Predictive mock exams that mirror the evolving difficulty curve of CLAT.",
-                icon: <Zap className="text-primary" size={24} />
-              },
-              {
-                title: "Juris Archive",
-                desc: "A massive repository of landmark judgments and legal maxims.",
-                icon: <BookOpen className="text-primary" size={24} />
-              }
-            ].map((f, i) => (
-              <div key={i} className="bg-surface p-12 space-y-6 group hover:shadow-xl transition-all cursor-default border border-border">
-                <div className="w-12 h-12 bg-primary/5 flex items-center justify-center border border-primary/10 group-hover:border-primary transition-colors">
-                  {f.icon}
-                </div>
-                <h3 className="text-2xl font-serif text-foreground italic">{f.title}</h3>
-                <p className="text-muted-foreground text-sm leading-relaxed font-light uppercase tracking-widest">{f.desc}</p>
-              </div>
+              { title: 'Learning Hub', desc: 'Structured modules for all 5 CLAT sections', view: 'LEARN' as View, color: 'primary' },
+              { title: 'Study Material', desc: 'Complete guides, notes, and practice sets', view: 'WIKI' as View, color: 'primary' },
+              { title: 'Mock Tests', desc: 'Timed simulations with analysis', view: 'MOCKS' as View, color: 'accent' },
+            ].map((item) => (
+              <button
+                key={item.title}
+                onClick={() => setView(item.view)}
+                className="text-left p-6 bg-white border border-border rounded-xl hover:border-primary/40 hover:shadow-md transition-all group"
+              >
+                <h3 className="font-semibold text-foreground group-hover:text-primary mb-2">{item.title}</h3>
+                <p className="text-sm text-muted-foreground">{item.desc}</p>
+                <ChevronRight size={18} className="text-primary mt-4 group-hover:translate-x-1 transition-transform" />
+              </button>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Methodology Section */}
-      <section id="methodology" className="py-32 bg-surface grid-bg border-b border-border">
-        <div className="container mx-auto px-8 flex flex-col lg:flex-row gap-20 items-center">
-          <div className="flex-1 space-y-12">
-            <div className="space-y-4">
-              <span className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">Our Methodology</span>
-              <h2 className="text-3xl sm:text-5xl lg:text-6xl font-serif text-foreground italic tracking-tighter leading-tight">
-                Beyond Rote Learning. <br />
-                <span className="not-italic text-primary">Logical Synthesis.</span>
-              </h2>
+      {/* Features — 3 items */}
+      <section id="features" className="py-16 px-4 sm:px-6 bg-white border-y border-border">
+        <div className="max-w-4xl mx-auto grid sm:grid-cols-3 gap-8">
+          {[
+            { title: 'Legal Reasoning', desc: 'Principle-application drills for torts, contracts, and constitutional law.', icon: <Scale className="text-primary" size={22} /> },
+            { title: 'Current Affairs', desc: 'Daily updates and static GK aligned with CLAT patterns.', icon: <Newspaper className="text-primary" size={22} /> },
+            { title: 'Full Mocks', desc: '120-question simulations with sectional timing.', icon: <Trophy className="text-accent" size={22} /> },
+          ].map((f, i) => (
+            <div key={i} className="text-center sm:text-left">
+              <div className="w-10 h-10 bg-blue-50 rounded-lg flex items-center justify-center mx-auto sm:mx-0 mb-4">{f.icon}</div>
+              <h3 className="font-semibold text-foreground mb-2">{f.title}</h3>
+              <p className="text-sm text-muted-foreground">{f.desc}</p>
             </div>
-            <div className="grid gap-10">
-              {[
-                { step: "01", title: "Diagnostic Calibration", desc: "We identify your logic gaps using pattern recognition of previous mistakes." },
-                { step: "02", title: "Targeted Remediation", desc: "Custom modules are generated to strengthen weak conceptual foundations." },
-                { step: "03", title: "Pressure Testing", desc: "High-yield simulations verify mastery under extreme time constraints." }
-              ].map((m, i) => (
-                <div key={i} className="flex gap-8 group">
-                  <span className="text-4xl font-serif text-primary italic opacity-30 group-hover:opacity-100 transition-opacity">{m.step}</span>
-                  <div className="space-y-2">
-                    <h4 className="text-xl font-serif text-foreground italic">{m.title}</h4>
-                    <p className="text-muted-foreground text-sm font-light leading-relaxed max-w-md">{m.desc}</p>
-                  </div>
-                </div>
-              ))}
+          ))}
+        </div>
+      </section>
+
+      {/* Pricing — simplified 2 tiers */}
+      <section id="pricing" className="py-16 px-4 sm:px-6">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl font-serif font-semibold text-center mb-10">Plans</h2>
+          <div className="grid sm:grid-cols-2 gap-6">
+            <div className="p-8 bg-white border border-border rounded-xl">
+              <h3 className="font-semibold text-lg mb-1">Free</h3>
+              <p className="text-3xl font-bold text-foreground mb-4">₹0</p>
+              <ul className="space-y-2 text-sm text-muted-foreground mb-6">
+                <li>Daily current affairs</li>
+                <li>Study guides & wiki</li>
+                <li>1 mock per month</li>
+              </ul>
+              <button onClick={() => setView('LEARN')} className="w-full py-3 border border-border rounded-lg font-medium hover:border-primary hover:text-primary">Get Started</button>
             </div>
-          </div>
-          <div className="flex-1 w-full lg:max-w-xl">
-             <div className="aspect-square bg-background border border-primary/20 p-2 relative group overflow-hidden">
-                <img 
-                  src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=1200" 
-                  className="w-full h-full object-cover grayscale opacity-50 group-hover:opacity-100 group-hover:grayscale-0 transition-all duration-1000 scale-110 group-hover:scale-100"
-                  alt="Legal Research"
-                />
-                <div className="absolute inset-0 flex items-center justify-center">
-                   <div className="glass p-12 text-center space-y-4 max-w-xs border-primary/20">
-                      <div className="text-4xl text-white font-serif italic">98.4%</div>
-                      <p className="text-[9px] text-primary font-black uppercase tracking-[0.3em]">Precision Index</p>
-                   </div>
-                </div>
-             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Trust & Results Section */}
-      <section className="py-32 bg-background border-b border-border overflow-hidden">
-        <div className="container mx-auto px-8">
-           <div className="grid lg:grid-cols-2 gap-24 items-center">
-              <div className="space-y-12">
-                 <div className="space-y-4">
-                    <span className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">The LexCLAT Advantage</span>
-                    <h2 className="text-5xl lg:text-7xl font-serif text-foreground italic tracking-tighter leading-none">Why Top Rankers <br /> Choose Us.</h2>
-                 </div>
-                 
-                 <div className="grid sm:grid-cols-2 gap-12">
-                    {[
-                      { title: 'Peer Indexing', desc: 'Real-time benchmarking against 50k+ active aspirants nationwide.' },
-                      { title: 'Faculty Curated', desc: 'Content designed by NLU alumni and legal academics.' },
-                      { title: 'Hyper-Specific', desc: 'No generic filler. Every passage is vetted for CLAT relevance.' },
-                      { title: 'Logic Mapping', desc: 'Our AI tracks your deductive pathways, not just right answers.' }
-                    ].map((item, i) => (
-                      <div key={i} className="space-y-4">
-                         <div className="w-8 h-8 rounded-full border border-primary/40 flex items-center justify-center text-primary text-xs font-serif italic">{i + 1}</div>
-                         <h4 className="text-xl font-serif text-foreground italic">{item.title}</h4>
-                         <p className="text-muted-foreground text-[10px] leading-relaxed uppercase tracking-widest font-bold">{item.desc}</p>
-                      </div>
-                    ))}
-                 </div>
-
-                 <div className="flex items-center gap-8 pt-8 border-t border-border">
-                    <div className="flex -space-x-4">
-                       {[
-                         'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&h=100&fit=crop',
-                         'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop',
-                         'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop'
-                       ].map((url, i) => (
-                         <img key={i} src={url} className="w-12 h-12 rounded-full border-2 border-white object-cover" alt="user" referrerPolicy="no-referrer" />
-                       ))}
-                       <div className="w-12 h-12 rounded-full border-2 border-white bg-primary-light flex items-center justify-center text-[10px] font-black text-primary">50k+</div>
-                    </div>
-                    <p className="text-muted-foreground text-[10px] font-bold uppercase tracking-[0.2em]">Join the largest legal brain-trust in the country.</p>
-                 </div>
-              </div>
-              
-              <div className="relative">
-                 <div className="aspect-[4/5] bg-surface border border-border relative overflow-hidden shadow-2xl">
-                    <img 
-                      src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&q=80&w=1200"
-                      className="w-full h-full object-cover"
-                      alt="Law School"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent" />
-                    <div className="absolute bottom-0 left-0 p-12 space-y-4">
-                       <div className="text-5xl text-foreground font-serif italic tracking-tighter">"The difference between AIR 10 and AIR 1000 is logical precision."</div>
-                       <p className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">— Adv. Rohan Mehta, NLS Alumni</p>
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
-      </section>
-
-      {/* Pricing / Access Section */}
-      <section id="pricing" className="py-32 bg-background relative overflow-hidden">
-        <div className="container mx-auto px-8">
-           <div className="text-center mb-24 space-y-4">
-              <span className="text-[10px] text-primary font-black uppercase tracking-[0.4em]">Investment Tiers</span>
-              <h2 className="text-3xl sm:text-5xl font-serif text-white italic tracking-tighter">Your Path to National Law Schools.</h2>
-           </div>
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 max-w-7xl mx-auto gap-8">
-              {[
-                { 
-                  name: 'Standard', 
-                  price: 'Free', 
-                  period: 'Forever',
-                  features: ['Daily Current Affairs', '1 Full Mock / Month', 'Mini Logic Quizzes', 'Basic Study Planner'],
-                  cta: 'Current Level'
-                },
-                { 
-                  name: 'Weekly Pass', 
-                  price: '₹99', 
-                  period: 'Per Week',
-                  desc: 'Full elite access for intensive sprint preparation.',
-                  features: ['Unlimited Mocks', 'AI Doubt Solver', 'Premium CA Vault', 'Deep Diagnostics'],
-                  cta: 'Get Pass'
-                },
-                { 
-                  name: 'Monthly', 
-                  price: '₹199', 
-                  period: 'Per Month',
-                  desc: 'Our most popular tier for consistent mastery.',
-                  features: ['All Weekly Features', 'AI Study Roadmap', 'Rank Prediction', 'NLU Tracker Pro'],
-                  featured: true,
-                  cta: 'Start Pro'
-                },
-                { 
-                  name: 'Yearly', 
-                  price: '₹1,499', 
-                  period: 'Per Year',
-                  desc: 'Maximum value for long-term strategic success.',
-                  features: ['All Pro Features', 'Personal Mentor Chat', 'Hardcopy Material', 'Batch Priority'],
-                  cta: 'Go Annual'
-                }
-              ].map((tier, i) => (
-                <div key={i} className={`p-10 space-y-8 transition-all relative overflow-hidden flex flex-col h-full border border-white/5 ${tier.featured ? 'bg-primary text-black' : 'bg-surface/50 text-white hover:bg-surface'}`}>
-                  {tier.featured && <div className="absolute top-0 right-0 p-6 opacity-10"><Zap size={80} /></div>}
-                  <div className="space-y-4">
-                    <div className="flex items-center justify-between">
-                       <h3 className="text-xl font-serif italic">{tier.name}</h3>
-                       {tier.featured && <Badge className="bg-black text-white text-[7px] uppercase font-black rounded-none">Popular</Badge>}
-                    </div>
-                    <div className="flex items-baseline gap-1">
-                      <span className="text-4xl font-serif tracking-tighter">{tier.price}</span>
-                      <span className={`text-[10px] uppercase font-black tracking-widest ${tier.featured ? 'text-black/40' : 'text-muted-dim'}`}>{tier.period}</span>
-                    </div>
-                    <p className={`text-[10px] font-bold uppercase tracking-widest leading-relaxed line-clamp-2 ${tier.featured ? 'text-black/60' : 'text-muted-foreground'}`}>
-                      {tier.desc}
-                    </p>
-                  </div>
-                  <ul className="space-y-4 flex-grow border-t border-current/10 pt-6">
-                    {tier.features.map(f => (
-                      <li key={f} className="flex items-center gap-3 text-[9px] font-black uppercase tracking-widest leading-tight">
-                        <ChevronRight size={12} className={tier.featured ? 'text-black' : 'text-primary'} /> {f}
-                      </li>
-                    ))}
-                  </ul>
-                  <button 
-                    onClick={tier.featured || tier.price !== 'Free' ? onCheckout : undefined}
-                    className={`w-full py-5 text-[10px] font-black uppercase tracking-[0.2em] transition-all border-none ${tier.featured ? 'bg-black text-white hover:bg-surface hover:text-foreground' : 'bg-primary text-black hover:bg-surface'}`}
-                  >
-                    {tier.cta}
-                  </button>
-                </div>
-              ))}
-           </div>
-        </div>
-      </section>
-
-      {/* Trust Quote Section */}
-      <section className="py-32 bg-background relative overflow-hidden">
-        <div className="container mx-auto px-8 text-center relative z-10">
-          <div className="max-w-4xl mx-auto space-y-12">
-            <p className="text-3xl lg:text-4xl font-serif text-white italic leading-tight tracking-tighter">
-              "The depth of sectional analysis provided by LexCLAT is unprecedented. It isn't just about mocks; it's about re-engineering your legal intuition."
-            </p>
-            <div className="space-y-4">
-              <div className="w-12 h-0.5 bg-primary mx-auto" />
-              <div className="space-y-1">
-                <h5 className="text-xl font-serif text-white italic">Adv. Aarav Singhania</h5>
-                <p className="text-[9px] text-muted-foreground font-black uppercase tracking-[0.3em]">Chief Academic Strategist • Top 10 ALL INDIA RANKER</p>
-              </div>
+            <div className="p-8 bg-primary text-white rounded-xl relative overflow-hidden">
+              <div className="absolute top-3 right-3 text-xs bg-accent px-2 py-1 rounded font-semibold">Popular</div>
+              <h3 className="font-semibold text-lg mb-1">Premium</h3>
+              <p className="text-3xl font-bold mb-4">₹199<span className="text-sm font-normal text-blue-100">/mo</span></p>
+              <ul className="space-y-2 text-sm text-blue-100 mb-6">
+                <li>Unlimited mocks</li>
+                <li>AI tutor & analytics</li>
+                <li>Rank prediction</li>
+              </ul>
+              <button onClick={onCheckout} className="w-full py-3 bg-white text-primary rounded-lg font-semibold hover:bg-blue-50">Upgrade</button>
             </div>
           </div>
         </div>
@@ -819,73 +390,22 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
 };
 
 const Footer = ({ setView }: { setView: (v: View) => void }) => (
-  <footer className="bg-surface text-muted-foreground py-32 border-t border-border font-sans safe-bottom">
-    <div className="container mx-auto px-6">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-20 mb-24">
-        <div className="lg:col-span-1">
-          <div className="flex items-center gap-3 mb-10 group cursor-pointer">
-            <div className="w-10 h-10 bg-primary rounded-sm rotate-45 flex items-center justify-center transition-transform group-hover:rotate-0">
-              <span className="-rotate-45 group-hover:rotate-0 transition-transform text-white font-bold text-lg font-serif">L</span>
-            </div>
-            <span className="text-2xl font-serif font-bold text-foreground tracking-tighter">LEXCLAT</span>
+  <footer className="bg-white border-t border-border py-12 safe-bottom">
+    <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="flex flex-col sm:flex-row items-center justify-between gap-6">
+        <div className="flex items-center gap-2">
+          <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
+            <span className="text-white font-bold text-sm">L</span>
           </div>
-          <p className="max-w-xs mb-10 leading-relaxed text-[11px] uppercase tracking-[0.2em] font-medium text-muted-foreground">
-            The definitive path to national law schools. Cultivating the elite legal minds of India through algorithmic mentorship and strategic analysis.
-          </p>
-          <div className="flex gap-2">
-             {['01', '02', '03', '04'].map(i => (
-               <div key={i} className="w-10 h-10 bg-gray-50 border border-border flex items-center justify-center hover:bg-primary/10 hover:border-primary transition-all cursor-pointer text-[10px] text-muted-foreground hover:text-primary font-bold">
-                 {i}
-               </div>
-             ))}
-          </div>
+          <span className="font-serif font-semibold text-foreground">LexCLAT</span>
         </div>
-
-        <div className="space-y-10">
-          <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px] border-l-2 border-primary pl-4">Academic Suite</h4>
-          <ul className="space-y-6 text-[11px] font-bold uppercase tracking-widest text-muted-foreground">
-            <li><button onClick={() => setView('DASHBOARD')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Dashboard</button></li>
-            <li><button onClick={() => setView('DAILY')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Current Affairs & GK</button></li>
-            <li><button onClick={() => setView('MOCKS')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Mock Arena</button></li>
-            <li><button onClick={() => setView('ARCHIVE')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Legal Reasoning</button></li>
-            <li><button onClick={() => setView('PLANNER')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> AI Study Plan</button></li>
-            <li><button onClick={() => setView('ANALYSIS')} className="hover:text-primary transition-colors flex items-center gap-3 group text-left w-full"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Performance Analytics</button></li>
-          </ul>
+        <div className="flex flex-wrap justify-center gap-6 text-sm text-muted-foreground">
+          <button onClick={() => setView('LEARN')} className="hover:text-primary">Learn</button>
+          <button onClick={() => setView('WIKI')} className="hover:text-primary">Study Material</button>
+          <button onClick={() => setView('MOCKS')} className="hover:text-primary">Mocks</button>
+          <button onClick={() => setView('DAILY')} className="hover:text-primary">Current Affairs</button>
         </div>
-
-        <div className="space-y-10">
-          <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px] border-l-2 border-primary pl-4">Governance</h4>
-          <ul className="space-y-6 text-[11px] font-bold uppercase tracking-widest text-muted-foreground">
-            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Terms of Use</a></li>
-            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Privacy Policy</a></li>
-            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Portal Integrity</a></li>
-            <li><a href="#" className="hover:text-primary transition-colors flex items-center gap-3 group"><ChevronRight size={12} className="text-primary group-hover:translate-x-1 transition-transform" /> Support Desk</a></li>
-          </ul>
-        </div>
-
-        <div className="space-y-10 bg-gray-50 p-6 lg:p-10 border border-border">
-           <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px]">Portal Status</h4>
-           <div className="space-y-6">
-              <div className="flex items-center gap-4">
-                 <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse shadow-[0_0_10px_#22c55e]" />
-                 <span className="text-[10px] font-bold uppercase tracking-widest text-foreground">All Systems Operational</span>
-              </div>
-              <div className="space-y-2">
-                 <div className="text-[9px] text-muted-foreground uppercase font-black">Latency</div>
-                 <div className="text-xl font-serif italic text-foreground">42ms</div>
-              </div>
-              <Button variant="outline" className="w-full border-primary/20 text-primary uppercase text-[9px] tracking-widest hover:bg-primary hover:text-white rounded-none h-10">System Log</Button>
-           </div>
-        </div>
-      </div>
-
-      <div className="pt-16 border-t border-border flex flex-col lg:flex-row items-center justify-between text-[9px] font-bold tracking-[0.4em] gap-8 uppercase text-muted-foreground">
-        <div className="flex flex-col lg:flex-row items-center gap-8">
-          <p>© 2026 Juris Elite Academy • Strictly Academic Integrity</p>
-          <div className="hidden lg:block w-px h-4 bg-gray-200" />
-          <p>UGC ACCREDIT: AE/402/2026</p>
-        </div>
-        <p className="text-primary/60">Premium Academic Experience v4.2.1</p>
+        <p className="text-xs text-muted-foreground">© 2026 LexCLAT</p>
       </div>
     </div>
   </footer>
@@ -1020,21 +540,8 @@ export default function App() {
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-background flex-col gap-8">
-        <div className="relative">
-          <div className="w-16 h-16 bg-primary rounded-sm rotate-45 flex items-center justify-center animate-pulse">
-            <Scale size={32} className="-rotate-45 text-black" />
-          </div>
-          <div className="absolute inset-0 bg-primary/20 blur-xl animate-pulse -z-10" />
-        </div>
-        <div className="flex flex-col items-center gap-3">
-          <div className="text-[10px] font-black text-primary tracking-[0.6em] uppercase animate-pulse">Juris Intelligence System</div>
-          <div className="flex items-center gap-2">
-            <span className="w-1.5 h-1.5 bg-primary/40 rounded-full animate-bounce [animation-delay:-0.3s]" />
-            <span className="w-1.5 h-1.5 bg-primary/40 rounded-full animate-bounce [animation-delay:-0.15s]" />
-            <span className="w-1.5 h-1.5 bg-primary/40 rounded-full animate-bounce" />
-          </div>
-        </div>
+      <div className="min-h-screen flex items-center justify-center bg-background">
+        <div className="w-10 h-10 border-2 border-primary border-t-transparent rounded-full animate-spin" />
       </div>
     );
   }
@@ -1046,261 +553,43 @@ export default function App() {
   const renderContent = () => {
     switch(view) {
       case 'DASHBOARD': return (
-        <div className="pt-32 lg:pt-48 px-4 lg:px-6 max-w-7xl mx-auto space-y-12 lg:space-y-24 pb-32">
-          <div className="flex flex-col md:flex-row justify-between items-start md:items-end gap-8 border-b border-border pb-12">
-            <div className="space-y-4">
-              <div className="inline-flex items-center gap-2 px-3 py-1 bg-primary/10 border border-primary/20">
-                 <div className="w-1 h-1 bg-primary rounded-full" />
-                 <span className="text-[9px] text-primary font-black uppercase tracking-widest">Authenticated Session</span>
-              </div>
-              <h1 className="text-4xl lg:text-6xl font-serif text-white italic tracking-tighter">
-                Welcome, <span className="text-primary not-italic">{profile?.displayName?.split(' ')[0] || 'Aspirant'}</span>.
-              </h1>
-              <p className="text-muted-foreground text-sm font-light uppercase tracking-[0.2em]">Curation of your academic legacy starts here</p>
-            </div>
-            <Card className="bg-surface/50 backdrop-blur-sm p-6 border border-primary/20 flex items-center gap-6 rounded-none">
-              <div className="w-12 h-12 bg-primary/10 flex items-center justify-center text-primary border border-primary/20 rounded-none shadow-[0_0_15px_rgba(194,163,93,0.1)]">
-                <ShieldCheck size={24} />
-              </div>
-              <div>
-                <span className="block text-[9px] font-black uppercase text-muted-foreground tracking-widest mb-1">Status Accreditation</span>
-                <div className="flex items-center gap-2">
-                   <span className="text-sm font-bold text-white uppercase tracking-widest">Prestige Gold Member</span>
-                   <div className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse" />
-                </div>
-              </div>
-            </Card>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-border border border-border">
+        <div className="pt-28 px-4 sm:px-6 max-w-4xl mx-auto pb-20">
+          <h1 className="text-3xl font-serif font-semibold text-foreground mb-2">
+            Welcome, {profile?.displayName?.split(' ')[0] || 'Aspirant'}
+          </h1>
+          <p className="text-muted-foreground mb-10">Pick up where you left off.</p>
+          <div className="grid sm:grid-cols-2 gap-4">
             {[
-              { title: 'Practice', desc: 'Precision logic drills', view: 'PRACTICE', icon: <BookOpen size={20} />, btn: 'Initialize' },
-              { title: 'Mocks', desc: 'Real-time simulations', view: 'MOCKS', icon: <Trophy size={20} />, btn: 'Enter Arena' },
-              { title: 'Study Plan', desc: 'AI Strategic Roadmap', view: 'PLANNER', icon: <Calendar size={20} />, btn: 'Map Path' },
-              { title: 'Library', desc: 'High-yield resources', view: 'MATERIALS', icon: <FileText size={20} />, btn: 'Access' },
-              { title: 'Archive', desc: 'Legal precedents', view: 'ARCHIVE', icon: <Scale size={20} />, btn: 'Research' },
-              { title: 'Analytics', desc: 'Performance Profiling', view: 'ANALYSIS', icon: <TrendingUp size={20} />, btn: 'View Stats' },
-              { title: 'AI Tutor', desc: 'Adaptive mentoring', view: 'TUTOR', icon: <MessageSquare size={20} />, btn: 'Consult' },
-            ].map((card, i) => (
-              <div 
-                key={i} 
+              { title: 'Learning Hub', desc: 'Structured CLAT modules', view: 'LEARN', icon: <BookOpen size={22} /> },
+              { title: 'Study Material', desc: 'Guides and notes', view: 'WIKI', icon: <FileText size={22} /> },
+              { title: 'Mock Tests', desc: 'Full exam simulations', view: 'MOCKS', icon: <Trophy size={22} /> },
+              { title: 'Current Affairs', desc: 'Daily GK updates', view: 'DAILY', icon: <Newspaper size={22} /> },
+            ].map((card) => (
+              <button
+                key={card.title}
                 onClick={() => setView(card.view as View)}
-                className="bg-background p-8 lg:p-10 flex flex-col gap-12 group hover:bg-primary transition-all duration-700 cursor-pointer relative overflow-hidden h-[340px]"
+                className="text-left p-6 bg-white border border-border rounded-xl hover:border-primary hover:shadow-md transition-all group"
               >
-                <div className="absolute top-0 right-0 p-4 opacity-5 group-hover:opacity-10 transition-opacity">
-                  <div className="rotate-12 scale-200 transform transition-transform group-hover:rotate-0">
-                    {card.icon}
-                  </div>
-                </div>
-                
-                <div className="w-12 h-12 border border-primary/30 flex items-center justify-center group-hover:border-black/30 group-hover:bg-black/5 transition-all">
-                  <div className="text-primary group-hover:text-primary-foreground">
-                    {card.icon}
-                  </div>
-                </div>
-                
-                <div className="space-y-4 flex-1">
-                  <h3 className="text-2xl font-serif text-white group-hover:text-primary-foreground transition-colors italic leading-none">{card.title}</h3>
-                  <p className="text-muted-foreground text-[10px] uppercase tracking-[0.2em] font-bold group-hover:text-primary-foreground/70 transition-colors leading-relaxed">
-                    {card.desc}
-                  </p>
-                </div>
-
-                <div className="flex items-center justify-between group-hover:text-primary-foreground transition-colors">
-                  <span className="text-[10px] font-black uppercase tracking-[0.3em] underline underline-offset-8 decoration-primary/30 group-hover:decoration-black/30">{card.btn}</span>
-                  <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
-                </div>
-              </div>
+                <div className="text-primary mb-3">{card.icon}</div>
+                <h3 className="font-semibold text-foreground group-hover:text-primary">{card.title}</h3>
+                <p className="text-sm text-muted-foreground mt-1">{card.desc}</p>
+              </button>
             ))}
           </div>
-
-          <div className="relative group cursor-pointer overflow-hidden">
-             <div className="absolute inset-0 bg-primary/5 group-hover:bg-primary/10 transition-colors" />
-             <div className="p-16 border border-primary/20 flex flex-col lg:flex-row items-center justify-between gap-12 relative z-10">
-                <div className="space-y-6">
-                   <div className="inline-flex items-center gap-3 px-4 py-1.5 border border-primary/30 rounded-full">
-                      <Zap size={12} className="text-primary fill-primary" />
-                      <span className="text-[10px] text-primary font-black uppercase tracking-widest">Recommended Strategic Shift</span>
-                   </div>
-                   <h4 className="text-5xl font-serif text-white tracking-tighter leading-none italic">Improve Logic Gap: <span className="not-italic text-primary underline decoration-primary/20 underline-offset-8">Torts & Contracts</span></h4>
-                   <p className="text-muted-foreground text-lg max-w-2xl leading-relaxed font-light">Your previous session reveals a 12% drop in accuracy during time-pressure transitions. We've curated a high-intensity drill set focusing on Vicarious Liability and Frustration of Contract.</p>
-                </div>
-                <button 
-                  onClick={() => setView('PRACTICE')}
-                  className="bg-primary text-black px-16 h-20 font-black uppercase tracking-[0.3em] text-xs hover:bg-surface transition-all shrink-0 border-none shadow-[0_0_40px_rgba(194,163,93,0.3)]"
-                >
-                  INITIALIZE DRILL
-                </button>
-             </div>
-          </div>
-
-          {/* Cognitive Performance & NLU Tracker */}
-          <div className="grid lg:grid-cols-3 gap-8">
-            <div className="lg:col-span-2 space-y-8">
-               <div className="bg-surface border border-border p-8 lg:p-12 space-y-12">
-                  <div className="flex items-center justify-between">
-                     <div className="space-y-1">
-                        <h3 className="text-2xl font-serif text-white italic">Logical Readiness Progress</h3>
-                        <p className="text-[10px] text-muted-foreground uppercase tracking-widest font-bold">Session attribution & Cognitive Load</p>
-                     </div>
-                     <div className="flex items-center gap-4">
-                        <div className="flex items-center gap-2">
-                           <div className="w-3 h-3 bg-primary" />
-                           <span className="text-[9px] text-white uppercase font-bold tracking-widest">Active</span>
-                        </div>
-                        <div className="flex items-center gap-2">
-                           <div className="w-3 h-3 bg-surface/10" />
-                           <span className="text-[9px] text-white uppercase font-bold tracking-widest">Target</span>
-                        </div>
-                     </div>
-                  </div>
-
-                  <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
-                     {[
-                        { label: 'Current Streak', val: '12 Days', sub: '+2 from avg' },
-                        { label: 'Quizzes Done', val: '48', sub: 'Top 15%' },
-                        { label: 'Study Hours', val: '156', sub: 'Goal: 200' },
-                        { label: 'Acc. Rate', val: '78%', sub: 'High Stability' },
-                        { label: 'Mock %ile', val: '94.2', sub: 'Target: 99.0' },
-                        { label: 'Logic Gap', val: '12%', sub: 'Focus: Torts' }
-                     ].map((stat, i) => (
-                        <div key={i} className="space-y-2">
-                           <p className="text-[9px] text-muted-foreground uppercase font-bold tracking-widest">{stat.label}</p>
-                           <h4 className="text-2xl font-serif text-white italic">{stat.val}</h4>
-                           <p className="text-[8px] text-primary uppercase font-bold tracking-tighter">{stat.sub}</p>
-                        </div>
-                     ))}
-                  </div>
-
-                  <div className="space-y-6 pt-8 border-t border-white/5">
-                     <div className="space-y-1">
-                        <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest">
-                           <span className="text-muted-foreground">Legal Reasoning Proficiency</span>
-                           <span className="text-white">72%</span>
-                        </div>
-                        <div className="h-1 bg-surface/5 overflow-hidden">
-                           <div className="h-full bg-primary w-[72%] shadow-[0_0_10px_rgba(194,163,93,0.5)]" />
-                        </div>
-                     </div>
-                     <div className="space-y-1">
-                        <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest">
-                           <span className="text-muted-foreground">English Language Synthesis</span>
-                           <span className="text-white">54%</span>
-                        </div>
-                        <div className="h-1 bg-surface/5 overflow-hidden">
-                           <div className="h-full bg-primary w-[54%] shadow-[0_0_10px_rgba(194,163,93,0.5)]" />
-                        </div>
-                     </div>
-                     <div className="space-y-1">
-                        <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest">
-                           <span className="text-muted-foreground">Critical Logic Application</span>
-                           <span className="text-white">88%</span>
-                        </div>
-                        <div className="h-1 bg-surface/5 overflow-hidden">
-                           <div className="h-full bg-primary w-[88%] shadow-[0_0_10px_rgba(194,163,93,0.5)]" />
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-
-            <div className="lg:col-span-1">
-               <Card className="bg-[#0C0F14] border-border rounded-none h-full p-8 lg:p-12 space-y-10 relative overflow-hidden group">
-                  <div className="absolute -top-20 -right-20 w-64 h-64 bg-primary/5 blur-[100px] rounded-full group-hover:bg-primary/10 transition-colors" />
-                  
-                  <div className="space-y-4 relative z-10">
-                     <div className="w-10 h-10 border border-primary/20 flex items-center justify-center text-primary group-hover:scale-110 transition-transform">
-                        <Target size={20} />
-                     </div>
-                     <h3 className="text-3xl font-serif text-white italic tracking-tighter">Dream NLU <br /> Rank Engine</h3>
-                     <p className="text-[10px] text-muted-foreground uppercase tracking-widest font-bold leading-relaxed">Simulate your landing spot based on current percentile trajectory.</p>
-                  </div>
-
-                  <div className="space-y-8 relative z-10">
-                     <div className="space-y-3">
-                        <label className="text-[9px] text-primary/60 uppercase font-black tracking-widest">Target University</label>
-                        <select 
-                           value={dreamNLU || ''} 
-                           onChange={(e) => setDreamNLU(e.target.value)}
-                           className="w-full bg-surface border border-border p-4 text-white font-serif italic text-lg outline-none focus:border-primary transition-colors appearance-none cursor-pointer"
-                        >
-                           <option value="" disabled>Select Institution</option>
-                           <option value="NLSIU">NLSIU Bangalore</option>
-                           <option value="NALSAR">NALSAR Hyderabad</option>
-                           <option value="WBNUJS">WBNUJS Kolkata</option>
-                           <option value="NLUJ">NLU Jodhpur</option>
-                           <option value="GNLU">GNLU Gandhinagar</option>
-                        </select>
-                     </div>
-
-                     <div className="space-y-6 p-6 bg-surface/50 border border-white/5">
-                        <div className="flex justify-between items-center">
-                           <span className="text-[10px] text-muted-foreground uppercase font-bold tracking-widest">Estimated AIR</span>
-                           <span className="text-xl font-serif text-white italic">Rank #142 - #210</span>
-                        </div>
-                        <div className="flex justify-between items-center">
-                           <span className="text-[10px] text-muted-foreground uppercase font-bold tracking-widest">Entry Probability</span>
-                           <span className="text-xl font-serif text-primary italic">High (82%)</span>
-                        </div>
-                     </div>
-
-                     <button 
-                        onClick={() => setView('ANALYSIS')}
-                        className="w-full h-14 bg-surface/5 border border-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] hover:bg-primary hover:text-black transition-all"
-                     >
-                        Detailed Rank Diagnostics
-                     </button>
-                  </div>
-               </Card>
-
-               <Card className="bg-surface border-border rounded-none p-8 lg:p-12 space-y-8">
-                  <div className="flex items-center justify-between">
-                     <h3 className="text-xl font-serif text-white italic">Upcoming Targets</h3>
-                     <Badge className="bg-accent text-muted-foreground border-none text-[8px] font-black">4 PENDING</Badge>
-                  </div>
-                  <div className="space-y-4">
-                     {[
-                        { title: 'Weekly Pro-Mock #4', date: 'Tomorrow, 2:00 PM', urgency: 'High' },
-                        { title: 'GK Monthly Revision', date: 'Oct 30, 2024', urgency: 'Moderate' },
-                        { title: 'Lexie Analysis: Contracts', date: 'Due in 2 days', urgency: 'Urgent' },
-                        { title: 'Sectional Logic Drill', date: 'Next Sunday', urgency: 'Scheduled' }
-                     ].map((target, i) => (
-                        <div key={i} className="flex items-center gap-4 group cursor-pointer">
-                           <div className={`w-1 h-8 rounded-full ${target.urgency === 'Urgent' ? 'bg-red-500' : 'bg-primary/20 group-hover:bg-primary transition-colors'}`} />
-                           <div className="space-y-0.5">
-                              <p className="text-[11px] font-bold text-white uppercase tracking-tight group-hover:text-primary transition-colors">{target.title}</p>
-                              <p className="text-[9px] text-muted-foreground font-bold uppercase tracking-widest">{target.date}</p>
-                           </div>
-                        </div>
-                     ))}
-                  </div>
-                  <button onClick={() => window.dispatchEvent(new CustomEvent('change-view', { detail: 'DAILY' }))} className="text-[10px] text-primary font-black uppercase tracking-widest hover:tracking-[0.2em] transition-all flex items-center gap-2">
-                     VIEW ALL SCHEDULES <ChevronRight size={14} />
-                  </button>
-               </Card>
-            </div>
-          </div>
-
+          {streak > 0 && (
+            <p className="mt-8 text-sm text-muted-foreground">
+              Study streak: <span className="font-semibold text-accent">{streak} days</span>
+            </p>
+          )}
           {!profile?.isPremium && (
-            <div className="bg-primary p-12 lg:p-20 relative overflow-hidden group">
-              <div className="absolute top-0 right-0 w-1/3 h-full bg-black/5 -skew-x-12 translate-x-20" />
-              <div className="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-12">
-                <div className="space-y-6 text-center lg:text-left max-w-2xl text-black">
-                  <span className="text-[10px] font-black uppercase tracking-[0.4em] border-b border-black">Strategic Opportunity</span>
-                  <h2 className="text-4xl lg:text-5xl font-serif italic tracking-tighter leading-tight">
-                    Your Competitive Edge <br /> is Currently <span className="underline decoration-black/20">Throttled.</span>
-                  </h2>
-                  <p className="text-black/70 text-sm font-medium uppercase tracking-widest leading-relaxed">
-                    Premium members access Predictive Rank Analytics, unlimited AI Tutoring sessions, and the Historical Mock Vault. Don't leave your AIR to chance.
-                  </p>
-                </div>
-                <button 
-                  onClick={handleCheckout}
-                  className="bg-black text-white px-12 py-6 font-black uppercase tracking-[0.3em] text-[11px] hover:bg-surface hover:text-foreground transition-all shadow-2xl active:scale-95"
-                >
-                  UPGRADE TO LEX-PREMIUM
-                </button>
+            <div className="mt-10 p-6 bg-primary rounded-xl text-white flex flex-col sm:flex-row items-center justify-between gap-4">
+              <div>
+                <h3 className="font-semibold">Upgrade to Premium</h3>
+                <p className="text-sm text-blue-100 mt-1">Unlimited mocks, AI tutor, and analytics.</p>
               </div>
+              <button onClick={handleCheckout} className="bg-accent text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-red-700 shrink-0">
+                Upgrade
+              </button>
             </div>
           )}
         </div>
@@ -1357,43 +646,14 @@ export default function App() {
       </main>
       <Footer setView={setView} />
       
-      {/* Lexie Coach Resident Avatar - Fixed Bottom Right */}
-      <div className="fixed bottom-8 right-8 z-[100] flex flex-col items-end pointer-events-none safe-bottom safe-right">
-        <AnimatePresence>
-          {view === 'DASHBOARD' && (
-            <motion.div
-              initial={{ opacity: 0, scale: 0.8, y: 20 }}
-              animate={{ opacity: 1, scale: 1, y: 0 }}
-              exit={{ opacity: 0, scale: 0.8, y: 20 }}
-              className="mb-4 pointer-events-auto"
-            >
-              <div className="bg-surface border border-border p-4 rounded-2xl shadow-2xl max-w-[240px] relative">
-                <div className="flex items-center gap-3 mb-2">
-                  <div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center">
-                    <Star size={14} className="text-white fill-white" />
-                  </div>
-                  <span className="text-[10px] font-black uppercase tracking-widest text-primary">Lexie Mentor</span>
-                </div>
-                <p className="text-[11px] text-foreground font-serif italic leading-relaxed">
-                  "I've identified a logic gap in your Torts performance. Let's fix it in the Masterclass before your next mock."
-                </p>
-                {/* Speech bubble tail */}
-                <div className="absolute -bottom-2 right-6 w-4 h-4 bg-surface border-r border-b border-border rotate-45" />
-              </div>
-            </motion.div>
-          )}
-        </AnimatePresence>
-        
-        <motion.button
-          whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.9 }}
-          onClick={() => setView('TUTOR')}
-          className="w-16 h-16 rounded-full bg-primary border-4 border-black shadow-2xl flex items-center justify-center pointer-events-auto group overflow-hidden"
-        >
-          <div className="absolute inset-0 bg-gradient-to-tr from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
-          <Zap size={28} className="text-primary-foreground fill-primary-foreground" />
-        </motion.button>
-      </div>
+      {/* AI Tutor — single button */}
+      <button
+        onClick={() => setView('TUTOR')}
+        className="fixed bottom-6 right-6 z-50 w-14 h-14 rounded-full bg-accent text-white shadow-lg hover:bg-red-700 flex items-center justify-center"
+        aria-label="AI Tutor"
+      >
+        <MessageSquare size={22} />
+      </button>
 
       {/* Manual UPI Payment Modal */}
       <AnimatePresence>

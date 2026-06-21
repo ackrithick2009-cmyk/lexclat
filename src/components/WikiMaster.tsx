@@ -1,23 +1,28 @@
 import React, { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { BookMarked, Scale, BookOpen, FileText, BrainCircuit, BarChart, Menu, ArrowLeft, X, ShieldCheck } from 'lucide-react';
-import CurrentAffairs from './CurrentAffairs';
+import { Scale, BookOpen, FileText, BrainCircuit, BarChart, Menu, ArrowLeft, X } from 'lucide-react';
 
-// Import all markdown files in the /wiki directory as raw strings at build time
 // @ts-ignore
 const wikiFiles = import.meta.glob('../../wiki/**/*.md', { query: '?raw', import: 'default' });
 
 const WIKI_MODULES = [
-  { id: 'master_syllabus_index', path: 'index', title: 'Master Syllabus Index', icon: <BookMarked size={16} /> },
+  { id: 'master_syllabus_index', path: 'index', title: 'Overview', icon: <BookOpen size={16} /> },
   { id: 'legal_vault', path: 'legal', title: 'Legal Reasoning', icon: <Scale size={16} /> },
-  { id: 'english_vault', path: 'english', title: 'English Language', icon: <FileText size={16} /> },
-  { id: 'gk_vault', path: 'gk', title: 'GK & Current Affairs', icon: <BookOpen size={16} /> },
+  { id: 'gk_vault', path: 'gk', title: 'Current Affairs & GK', icon: <GlobeIcon /> },
+  { id: 'english_vault', path: 'english', title: 'English', icon: <FileText size={16} /> },
   { id: 'logical_vault', path: 'logic', title: 'Logical Reasoning', icon: <BrainCircuit size={16} /> },
-  { id: 'quant_vault', path: 'quant', title: 'Quantitative Techniques', icon: <BarChart size={16} /> },
-  { id: 'daily_feed', path: 'current-affairs', title: 'Daily News Feed', icon: <BookOpen size={16} /> },
-  { id: 'mega_quiz', path: 'mock-exam', title: 'Mega Summary Quiz', icon: <ShieldCheck size={16} /> },
+  { id: 'quant_vault', path: 'quant', title: 'Quantitative', icon: <BarChart size={16} /> },
 ];
+
+function GlobeIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <circle cx="12" cy="12" r="10" />
+      <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+    </svg>
+  );
+}
 
 export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: string; onClose?: () => void }) {
   const [activeModule, setActiveModule] = useState(
@@ -34,55 +39,38 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
 
     const loadContent = async () => {
       setLoading(true);
-      
-      // Determine the file ID from activeModule
-      // If it's in WIKI_MODULES, use its .id, otherwise use activeModule itself
       const mod = WIKI_MODULES.find(m => m.path === activeModule);
       const fileId = mod ? mod.id : activeModule;
-      
       const filePath = `../../wiki/${fileId}.md`;
       try {
         if (wikiFiles[filePath]) {
           const rawContent = await wikiFiles[filePath]();
           setContent(rawContent as unknown as string);
         } else {
-          setContent('# Content Not Found\nThe requested module could not be loaded.');
+          setContent('# Not Found\nThis module could not be loaded.');
         }
-      } catch (err) {
-        setContent('# Error\nFailed to load module content. Please try again.');
+      } catch {
+        setContent('# Error\nFailed to load content.');
       } finally {
         setLoading(false);
       }
     };
-
     loadContent();
   }, [activeModule]);
 
-  const activeTitle = WIKI_MODULES.find(m => m.path === activeModule)?.title || 'Module';
+  const activeTitle = WIKI_MODULES.find(m => m.path === activeModule)?.title || 'Study Material';
 
   return (
-    <div className="fixed inset-0 top-16 flex z-50 bg-background text-foreground font-sans">
-      {/* ── Sidebar ── */}
-      <aside
-        className={`${sidebarOpen ? 'w-72' : 'w-0'} flex flex-col bg-white border-r border-gray-200 transition-all duration-300 overflow-hidden shadow-sm`}
-      >
-        {/* Sidebar header */}
-        <div className="p-5 flex items-center justify-between border-b border-gray-100">
-          <div>
-            <div className="text-[9px] text-primary font-black tracking-[0.25em] uppercase">LexCLAT</div>
-            <div className="text-lg font-serif italic text-foreground mt-0.5">Master Wiki</div>
-          </div>
+    <div className="fixed inset-0 top-16 flex z-50 bg-background">
+      <aside className={`${sidebarOpen ? 'w-56' : 'w-0'} flex flex-col bg-white border-r border-border transition-all overflow-hidden`}>
+        <div className="p-4 flex items-center justify-between border-b border-border">
+          <span className="font-serif font-semibold text-foreground">Study Material</span>
           {onClose && (
-            <button
-              onClick={onClose}
-              className="p-1.5 text-muted-foreground hover:text-primary transition-colors"
-            >
+            <button onClick={onClose} className="p-1.5 text-muted-foreground hover:text-primary rounded-lg">
               <ArrowLeft size={16} />
             </button>
           )}
         </div>
-
-        {/* Module list */}
         <nav className="p-2 flex-1 overflow-y-auto">
           {WIKI_MODULES.map(mod => {
             const isActive = activeModule === mod.path;
@@ -90,81 +78,60 @@ export default function WikiMaster({ initialRoute, onClose }: { initialRoute?: s
               <button
                 key={mod.path}
                 onClick={() => setActiveModule(mod.path)}
-                className={`flex items-center gap-3 p-3.5 w-full text-left transition-all rounded-sm mb-1 ${
-                  isActive 
-                    ? 'bg-primary text-white shadow-md shadow-primary/20' 
-                    : 'text-muted-foreground hover:bg-primary-light hover:text-primary'
+                className={`flex items-center gap-2.5 px-3 py-2.5 w-full text-left rounded-lg mb-0.5 text-sm font-medium transition-colors ${
+                  isActive ? 'bg-primary text-white' : 'text-muted-foreground hover:bg-blue-50 hover:text-primary'
                 }`}
               >
-                <span className={isActive ? 'text-white' : 'text-primary'}>{mod.icon}</span>
-                <span className="text-[13px] font-medium">{mod.title}</span>
+                {mod.icon}
+                {mod.title}
               </button>
             );
           })}
         </nav>
       </aside>
 
-      {/* ── Main Content ── */}
       <div className="flex-1 flex flex-col overflow-hidden">
-        {/* Top bar */}
-        <div className="h-14 border-b border-gray-200 flex items-center px-5 bg-white/80 backdrop-blur-md flex-shrink-0 gap-4">
-          <button
-            onClick={() => setSidebarOpen(!sidebarOpen)}
-            className="text-primary p-1 hover:bg-gray-100 rounded-sm transition-colors"
-          >
+        <div className="h-12 border-b border-border flex items-center px-4 bg-white gap-3 flex-shrink-0">
+          <button onClick={() => setSidebarOpen(!sidebarOpen)} className="text-primary p-1.5 hover:bg-blue-50 rounded-lg">
             {sidebarOpen ? <X size={18} /> : <Menu size={18} />}
           </button>
-          <span className="text-[10px] uppercase font-black tracking-widest text-muted-foreground">
-            {activeTitle}
-          </span>
+          <span className="text-sm font-medium text-foreground">{activeTitle}</span>
         </div>
 
-        {/* Scrollable content */}
-        <div
-          ref={contentRef}
-          className="flex-1 overflow-y-auto bg-background scroll-smooth"
-        >
-          {activeModule === 'current-affairs' ? (
-            <CurrentAffairs />
-          ) : (
-            <div className="p-8 md:p-12">
-              <div className="max-w-4xl mx-auto bg-white p-10 md:p-16 shadow-xl border border-gray-100 rounded-sm min-h-full">
-                {loading ? (
-                  <div className="flex flex-col items-center justify-center py-20 gap-4 opacity-50">
-                    <div className="w-8 h-8 border-2 border-primary border-t-transparent rounded-full animate-spin" />
-                    <span className="text-[10px] text-primary font-black tracking-widest uppercase">Analyzing Archive...</span>
-                  </div>
-                ) : (
-                  <div className="prose prose-blue max-w-none prose-p:text-foreground prose-p:leading-[1.8] prose-p:font-sans prose-headings:font-serif prose-headings:text-foreground prose-headings:font-bold prose-a:text-primary prose-a:font-bold prose-strong:text-foreground prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:bg-primary-light prose-blockquote:text-primary prose-blockquote:px-8 prose-blockquote:py-4 prose-blockquote:not-italic prose-table:border prose-th:bg-gray-50 prose-th:text-foreground prose-td:text-foreground prose-img:rounded-sm">
-                    <ReactMarkdown 
-                      remarkPlugins={[remarkGfm]}
-                      components={{
-                        a: ({ href, children }) => {
-                          if (href?.startsWith('.') || href?.endsWith('.md')) {
-                            return (
-                              <button 
-                                onClick={() => {
-                                  // Clean the path to match the ID
-                                  const id = href.replace(/^\.\//, '').replace(/\.md$/, '');
-                                  setActiveModule(id);
-                                }}
-                                className="text-primary hover:underline font-bold"
-                              >
-                                {children}
-                              </button>
-                            );
-                          }
-                          return <a href={href}>{children}</a>;
-                        }
-                      }}
-                    >
-                      {content}
-                    </ReactMarkdown>
-                  </div>
-                )}
+        <div ref={contentRef} className="flex-1 overflow-y-auto bg-background p-6 md:p-10">
+          <div className="max-w-3xl mx-auto bg-white rounded-xl border border-border p-8 md:p-12 shadow-sm min-h-full">
+            {loading ? (
+              <div className="flex justify-center py-20">
+                <div className="w-8 h-8 border-2 border-primary border-t-transparent rounded-full animate-spin" />
               </div>
-            </div>
-          )}
+            ) : (
+              <div className="prose prose-slate max-w-none prose-headings:font-serif prose-a:text-primary prose-blockquote:border-l-accent prose-blockquote:border-l-4">
+                <ReactMarkdown
+                  remarkPlugins={[remarkGfm]}
+                  components={{
+                    a: ({ href, children }) => {
+                      if (href?.startsWith('.') || href?.endsWith('.md')) {
+                        return (
+                          <button
+                            onClick={() => {
+                              const id = href.replace(/^\.\//, '').replace(/\.md$/, '');
+                              setActiveModule(id);
+                            }}
+                            className="text-primary hover:underline font-medium"
+                          >
+                            {children}
+                          </button>
+                        );
+                      }
+                      return <a href={href} className="text-primary">{children}</a>;
+                    },
+                  }}
+                >
+                  {content}
+                </ReactMarkdown>
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </div>
