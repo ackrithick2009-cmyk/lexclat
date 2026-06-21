@@ -1,6 +1,7 @@
 # 📖 English Language & Comprehension
 
-> **CLAT Section Weight**: ~22 marks | Difficulty: Medium | Focus: Inference, Vocabulary, Tone
+> **CLAT Section Weight**: 22–26 questions | ~22 marks | **25 minutes**  
+> 📘 **[→ Complete Study Guide: RC, Vocabulary, Grammar & Practice Passages](./study_guides/03_English_Language.md)**
 
 ---
 

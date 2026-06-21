@@ -1,6 +1,7 @@
 # 📊 Quantitative Techniques
 
-> **CLAT Section Weight**: ~8 marks | Difficulty: Low-Medium | Focus: Data Interpretation, Ratios, Percentages
+> **CLAT Section Weight**: 10–14 questions | ~8 marks | **10–12 minutes**  
+> 📘 **[→ Complete Study Guide: DI Formats, Arithmetic & Practice Data Sets](./study_guides/05_Quantitative_Techniques.md)**
 
 ---
 

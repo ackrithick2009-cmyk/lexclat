@@ -6,14 +6,16 @@
 
 ## 📚 Subject Modules
 
-| # | Subject | File | Section Weight | Key Focus |
-|---|---------|------|---------------|-----------|
-| 1 | ⚖️ Legal Reasoning | [legal_vault.md](./legal_vault.md) | ~25 marks | Cases, Torts, Contracts, BNS |
-| 2 | 🌍 Current Affairs & GK | [gk_vault.md](./gk_vault.md) | ~25 marks | Events, Economy, Constitution |
-| 3 | 📖 English Language | [english_vault.md](./english_vault.md) | ~22 marks | Passages, Vocabulary, Inference |
-| 4 | 🧠 Logical Reasoning | [logical_vault.md](./logical_vault.md) | ~22 marks | Arguments, Assumptions, Analogies |
-| 5 | 📊 Quantitative Techniques | [quant_vault.md](./quant_vault.md) | ~8 marks | Data Interpretation, Percentages |
-| 6 | 🏛️ **Detailed Study Vault** | [Chapter Index](#detailed-study-vaults) | High-Yield | Extracted Modules & Quizzes |
+| # | Subject | Quick Vault | **Complete Study Guide** | Questions | Key Focus |
+|---|---------|-------------|--------------------------|-----------|-----------|
+| 1 | ⚖️ Legal Reasoning | [legal_vault.md](./legal_vault.md) | [**01_Legal_Reasoning.md**](./study_guides/01_Legal_Reasoning.md) | 28–32 | Torts, Contracts, BNS, Constitution, Maxims |
+| 2 | 🌍 Current Affairs & GK | [gk_vault.md](./gk_vault.md) | [**02_Current_Affairs_GK.md**](./study_guides/02_Current_Affairs_GK.md) | 28–32 | Schemes, Budget, IR, Static GK |
+| 3 | 📖 English Language | [english_vault.md](./english_vault.md) | [**03_English_Language.md**](./study_guides/03_English_Language.md) | 22–26 | RC, Vocabulary, Grammar in Context |
+| 4 | 🧠 Logical Reasoning | [logical_vault.md](./logical_vault.md) | [**04_Logical_Reasoning.md**](./study_guides/04_Logical_Reasoning.md) | 22–26 | Arguments, Assumptions, Syllogisms |
+| 5 | 📊 Quantitative Techniques | [quant_vault.md](./quant_vault.md) | [**05_Quantitative_Techniques.md**](./study_guides/05_Quantitative_Techniques.md) | 10–14 | DI, Percentages, Caselets, Charts |
+| 6 | 🏛️ **Detailed Study Vault** | [Chapter Index](#detailed-study-vaults) | — | High-Yield | Extracted Modules & Quizzes |
+
+> **Start here**: The **Complete Study Guides** in [`/wiki/study_guides/`](./study_guides/) cover every topic in the CLAT 2026 syllabus with principles, tables, practice sets, and revision checklists.
 
 **Total: 120 marks | Duration: 2 Hours**
 

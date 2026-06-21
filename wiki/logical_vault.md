@@ -1,6 +1,7 @@
 # 🧠 Logical Reasoning & Critical Thinking
 
-> **CLAT Section Weight**: ~22 marks | Difficulty: Medium-High | Focus: Arguments, Assumptions, Inferences
+> **CLAT Section Weight**: 22–26 questions | ~22 marks | **25 minutes**  
+> 📘 **[→ Complete Study Guide: Critical Reasoning, Syllogisms & Analytical Sets](./study_guides/04_Logical_Reasoning.md)**
 
 ---
 

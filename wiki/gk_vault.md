@@ -1,6 +1,7 @@
 # 🌍 Current Affairs & GK Hub
 
-> **CLAT Section Weight**: ~25 marks | Difficulty: Medium-High | Source: AffairsCloud 2025-2026
+> **CLAT Section Weight**: 28–32 questions | ~25 marks | **25 minutes**  
+> 📘 **[→ Complete Study Guide: Schemes, Budget, IR, Static GK & Practice Sets](./study_guides/02_Current_Affairs_GK.md)**
 
 ---
 

@@ -1,6 +1,7 @@
 # ⚖️ Legal Reasoning Vault
 
-> **CLAT Section Weight**: ~25 marks | Difficulty: High | Source: `/assets/clat_papers`
+> **CLAT Section Weight**: 28–32 questions | ~28 marks | **35 minutes**  
+> 📘 **[→ Complete Study Guide: Torts, Contracts, BNS, Constitution & Maxims](./study_guides/01_Legal_Reasoning.md)**
 
 ---
 
