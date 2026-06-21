@@ -58,13 +58,17 @@ const AITutor = React.lazy(() => import('./components/AITutor'));
 const AnalysisPanel = React.lazy(() => import('./components/AnalysisPanel'));
 const JurisArchive = React.lazy(() => import('./components/JurisArchive'));
 const CurrentAffairs = React.lazy(() => import('./components/CurrentAffairs'));
+const AchievementPanel = React.lazy(() => import('./components/AchievementPanel'));
 const DailyCurrentAffairs = React.lazy(() => import('./components/DailyCurrentAffairs'));
 const DataIngestor = React.lazy(() => import('./components/DataIngestor'));
 const WikiMaster = React.lazy(() => import('./components/WikiMaster'));
 const LearningHub = React.lazy(() => import('./components/LearningHub'));
 
+import { analytics, initializeUserAnalytics } from '@/src/lib/analytics';
+import { initializeGamification, calculateStreak, addXP } from '@/src/lib/gamification';
+
 // --- Types ---
-type View = 'LANDING' | 'DASHBOARD' | 'PRACTICE' | 'MOCKS' | 'PLANNER' | 'TUTOR' | 'ANALYSIS' | 'ARCHIVE' | 'AFFAIRS' | 'DAILY' | 'MATERIALS' | 'INGESTOR' | 'WIKI' | 'LEARN';
+type View = 'LANDING' | 'DASHBOARD' | 'PRACTICE' | 'MOCKS' | 'PLANNER' | 'TUTOR' | 'ANALYSIS' | 'ARCHIVE' | 'AFFAIRS' | 'DAILY' | 'MATERIALS' | 'INGESTOR' | 'WIKI' | 'LEARN' | 'ACHIEVEMENTS';
 
 interface UserProfile {
   email: string;
@@ -117,12 +121,12 @@ const SuccessPage = ({ sessionId, userId }: { sessionId: string; userId: string 
         <h1 className="text-3xl font-serif font-bold mb-2 text-primary uppercase tracking-tighter">
           {verifying ? "VERIFYING..." : "ACCREDITATION GRANTED"}
         </h1>
-        <p className="text-gray-400 mb-8 leading-relaxed font-sans text-sm tracking-wide">
+        <p className="text-muted-foreground mb-8 leading-relaxed font-sans text-sm tracking-wide">
           {verifying 
             ? "Authenticating your secure premium access token." 
             : "Your status has been elevated to Gold Member. Full academic suite is now unlocked."}
         </p>
-        <Button className="w-full h-12 bg-primary text-black font-bold uppercase tracking-widest text-xs rounded-none hover:bg-white transition-all border-none" onClick={() => window.location.href = '/'} disabled={verifying}>
+        <Button className="w-full h-12 bg-primary text-black font-bold uppercase tracking-widest text-xs rounded-none hover:bg-surface transition-all border-none" onClick={() => window.location.href = '/'} disabled={verifying}>
           RETURN TO DASHBOARD
         </Button>
       </Card>
@@ -163,7 +167,7 @@ const Countdown = () => {
       ].map((t, i) => (
         <div key={i} className="flex flex-col items-center">
           <div className="text-xl text-primary font-black leading-none">{t.val < 10 ? `0${t.val}` : t.val}</div>
-          <div className="text-[7px] uppercase font-black tracking-widest text-gray-600">{t.label}</div>
+          <div className="text-[7px] uppercase font-black tracking-widest text-muted-dim">{t.label}</div>
         </div>
       ))}
     </div>
@@ -181,7 +185,7 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
   }, []);
 
   return (
-    <nav id="nav" className={`fixed top-0 w-full z-50 transition-all duration-500 safe-top ${isScrolled ? 'bg-white/90 backdrop-blur-xl border-b border-gray-200 py-4' : 'bg-transparent py-8'}`}>
+    <nav id="nav" className={`fixed top-0 w-full z-50 transition-all duration-500 safe-top ${isScrolled ? 'glass-strong border-b border-border py-4' : 'bg-transparent py-8'}`}>
       <div className="container mx-auto px-4 lg:px-8 flex items-center justify-between">
         <div className="flex items-center gap-4 cursor-pointer group" onClick={() => setView('LANDING')}>
           <div className="relative">
@@ -199,7 +203,7 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
           {user && (
             <button 
               onClick={() => setView('DASHBOARD')} 
-              className={`transition-all relative group h-full py-2 ${currentView === 'DASHBOARD' ? 'text-primary' : 'text-gray-500 hover:text-white'}`}
+              className={`transition-all relative group h-full py-2 ${currentView === 'DASHBOARD' ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
             >
               Dashboard
               <div className={`absolute -bottom-1 left-0 h-0.5 bg-primary transition-all duration-300 ${currentView === 'DASHBOARD' ? 'w-full' : 'w-0 group-hover:w-full'}`} />
@@ -211,6 +215,7 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
             { label: 'Current Affairs', view: 'DAILY' },
             { label: 'Mocks', view: 'MOCKS' },
             { label: 'AI Tutor', view: 'TUTOR' },
+            { label: 'Achievements', view: 'ACHIEVEMENTS', auth: true },
             { label: 'Legal Archives', view: 'ARCHIVE' },
             { label: 'Study Plan', view: 'PLANNER', auth: true },
             { label: 'Analytics', view: 'ANALYSIS', auth: true },
@@ -220,7 +225,7 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
               <button 
                 key={item.label}
                 onClick={() => setView(item.view as View)} 
-                className={`transition-all relative group h-full py-2 ${currentView === item.view ? 'text-primary' : 'text-gray-500 hover:text-white'}`}
+                className={`transition-all relative group h-full py-2 ${currentView === item.view ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
               >
                 {item.label}
                 <div className={`absolute -bottom-1 left-0 h-0.5 bg-primary transition-all duration-300 ${currentView === item.view ? 'w-full' : 'w-0 group-hover:w-full'}`} />
@@ -229,9 +234,9 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
           })}
           
           {user ? (
-            <div className="flex items-center gap-8 border-l border-gray-200 pl-10">
+            <div className="flex items-center gap-8 border-l border-border pl-10">
               <div className="flex items-center gap-4 group cursor-pointer" onClick={() => setView('DASHBOARD')}>
-                <Avatar className="h-10 w-10 rounded-none border border-gray-200 ring-4 ring-primary/5 transition-all group-hover:ring-primary/20">
+                <Avatar className="h-10 w-10 rounded-none border border-border ring-4 ring-primary/5 transition-all group-hover:ring-primary/20">
                   <AvatarImage src={user.photoURL || ''} />
                   <AvatarFallback className="bg-primary/10 text-primary rounded-none uppercase text-xs font-black">
                     {profile?.displayName?.[0] || user.email?.[0]}
@@ -249,7 +254,7 @@ const Navbar = ({ user, profile, hasPremiumAccess, setView, currentView, streak 
                   </div>
                 </div>
               </div>
-              <button className="text-gray-400 hover:text-red-500 transition-all hover:scale-110 active:scale-90" onClick={logout}>
+              <button className="text-muted-foreground hover:text-red-500 transition-all hover:scale-110 active:scale-90" onClick={logout}>
                 <LogOut size={18} />
               </button>
             </div>
@@ -378,7 +383,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
 
               <div className="flex flex-col lg:flex-row items-center gap-12 mb-12">
                 <div className="space-y-4">
-                  <div className="text-[8px] font-black text-gray-500 uppercase tracking-[0.4em]">Time to CLAT 2026</div>
+                  <div className="text-[8px] font-black text-muted-foreground uppercase tracking-[0.4em]">Time to CLAT 2026</div>
                   <Countdown />
                 </div>
                 <div className="hidden lg:block w-px h-12 bg-border" />
@@ -417,7 +422,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                   🚀 START LEARNING
                 </button>
                 <button 
-                  className="px-10 h-16 border border-gray-200 bg-white font-black uppercase tracking-[0.2em] text-[11px] text-foreground hover:border-primary hover:text-primary transition-all"
+                  className="px-10 h-16 border border-border bg-surface font-black uppercase tracking-[0.2em] text-[11px] text-foreground hover:border-primary hover:text-primary transition-all"
                   onClick={() => {
                     const el = document.getElementById('free-section');
                     if (el) el.scrollIntoView({ behavior: 'smooth' });
@@ -433,7 +438,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                   { val: '140+', label: 'Simulations' },
                   { val: 'AIR 01', label: 'Legacy Rank' }
                 ].map((stat, i) => (
-                  <div key={i} className="flex flex-col gap-1 pl-6 border-l border-gray-200">
+                  <div key={i} className="flex flex-col gap-1 pl-6 border-l border-border">
                     <span className="text-4xl font-medium">{stat.val}</span>
                     <span className="text-[10px] uppercase font-black text-muted-foreground tracking-[0.2em] leading-none font-sans">{stat.label}</span>
                   </div>
@@ -458,7 +463,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
             </motion.div>
             <div className="absolute -bottom-10 -left-10 bg-surface p-10 z-20 max-w-[280px] shadow-2xl">
                <div className="text-primary font-serif italic text-xl mb-3 leading-none underline decoration-primary/30 underline-offset-8">Cognitive Edge</div>
-               <p className="text-[10px] text-gray-400 leading-relaxed font-sans uppercase tracking-widest font-medium">Our neural diagnostics track logic-gap variance with 98.4% precision compared to traditional mocks.</p>
+               <p className="text-[10px] text-muted-foreground leading-relaxed font-sans uppercase tracking-widest font-medium">Our neural diagnostics track logic-gap variance with 98.4% precision compared to traditional mocks.</p>
                <div className="mt-6 flex items-center gap-2 group/btn cursor-pointer">
                   <span className="text-[9px] text-primary font-black uppercase tracking-widest">White Paper </span>
                   <ChevronRight size={12} className="text-primary group-hover/btn:translate-x-1 transition-transform" />
@@ -482,16 +487,17 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
             <div className="flex gap-4">
               <Button 
                 onClick={() => setView('MATERIALS')}
-                className="border border-gray-200 text-muted-foreground hover:text-foreground bg-white rounded-none h-14 px-8 uppercase tracking-widest text-[10px] font-black transition-all hover:border-primary"
+                className="border border-border text-muted-foreground hover:text-foreground bg-surface rounded-sm h-14 px-8 uppercase tracking-widest text-[10px] font-black transition-all hover:border-primary"
               >
                 Explore Full Library
               </Button>
             </div>
-                   <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Daily CA */}
             <div 
               onClick={() => setView('DAILY')}
-              className="bg-white p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-gray-100"
+              className="bg-surface p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-border"
             >
               <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <Newspaper size={80} />
@@ -512,7 +518,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
             {/* Mini Quizzes */}
             <div 
               onClick={() => setView('PRACTICE')}
-              className="bg-white p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-gray-100"
+              className="bg-surface p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-border"
             >
                <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <Zap size={80} />
@@ -533,7 +539,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
             {/* Rank Predictor */}
             <div 
               onClick={() => setView('DASHBOARD')}
-              className="bg-white p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-gray-100"
+              className="bg-surface p-10 space-y-8 group hover:bg-primary-light transition-all cursor-pointer relative overflow-hidden border border-border"
             >
                <div className="absolute top-0 right-0 p-4 opacity-5 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <Target size={80} />
@@ -559,7 +565,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                <div className="absolute top-0 right-0 p-4 opacity-10 translate-x-4 -translate-y-4 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform">
                  <BookOpen size={80} />
               </div>
-              <div className="w-12 h-12 bg-white flex items-center justify-center text-primary rotate-45 relative z-10 animate-pulse">
+              <div className="w-12 h-12 bg-surface flex items-center justify-center text-primary rotate-45 relative z-10 animate-pulse">
                 <BookOpen size={20} className="-rotate-45" />
               </div>
               <div className="relative z-10">
@@ -575,12 +581,12 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                  <ArrowRight size={20} className="text-white group-hover:translate-x-4 transition-all" />
               </div>
             </div>
-          </div>   </div>
+          </div>
         </div>
       </section>
 
       {/* Strategic Features Grid */}
-      <section id="features" className="py-32 bg-background relative border-t border-gray-100">
+      <section id="features" className="py-32 bg-background relative border-t border-border">
         <div className="container mx-auto px-8">
           <div className="grid lg:grid-cols-3 gap-8">
             {[
@@ -600,7 +606,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                 icon: <BookOpen className="text-primary" size={24} />
               }
             ].map((f, i) => (
-              <div key={i} className="bg-white p-12 space-y-6 group hover:shadow-xl transition-all cursor-default border border-gray-100">
+              <div key={i} className="bg-surface p-12 space-y-6 group hover:shadow-xl transition-all cursor-default border border-border">
                 <div className="w-12 h-12 bg-primary/5 flex items-center justify-center border border-primary/10 group-hover:border-primary transition-colors">
                   {f.icon}
                 </div>
@@ -613,7 +619,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
       </section>
 
       {/* Methodology Section */}
-      <section id="methodology" className="py-32 bg-white grid-bg border-b border-gray-100">
+      <section id="methodology" className="py-32 bg-surface grid-bg border-b border-border">
         <div className="container mx-auto px-8 flex flex-col lg:flex-row gap-20 items-center">
           <div className="flex-1 space-y-12">
             <div className="space-y-4">
@@ -658,7 +664,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
       </section>
 
       {/* Trust & Results Section */}
-      <section className="py-32 bg-background border-b border-gray-100 overflow-hidden">
+      <section className="py-32 bg-background border-b border-border overflow-hidden">
         <div className="container mx-auto px-8">
            <div className="grid lg:grid-cols-2 gap-24 items-center">
               <div className="space-y-12">
@@ -682,7 +688,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                     ))}
                  </div>
 
-                 <div className="flex items-center gap-8 pt-8 border-t border-gray-100">
+                 <div className="flex items-center gap-8 pt-8 border-t border-border">
                     <div className="flex -space-x-4">
                        {[
                          'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&h=100&fit=crop',
@@ -698,7 +704,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
               </div>
               
               <div className="relative">
-                 <div className="aspect-[4/5] bg-white border border-gray-100 relative overflow-hidden shadow-2xl">
+                 <div className="aspect-[4/5] bg-surface border border-border relative overflow-hidden shadow-2xl">
                     <img 
                       src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&q=80&w=1200"
                       className="w-full h-full object-cover"
@@ -766,9 +772,9 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                     </div>
                     <div className="flex items-baseline gap-1">
                       <span className="text-4xl font-serif tracking-tighter">{tier.price}</span>
-                      <span className={`text-[10px] uppercase font-black tracking-widest ${tier.featured ? 'text-black/40' : 'text-gray-600'}`}>{tier.period}</span>
+                      <span className={`text-[10px] uppercase font-black tracking-widest ${tier.featured ? 'text-black/40' : 'text-muted-dim'}`}>{tier.period}</span>
                     </div>
-                    <p className={`text-[10px] font-bold uppercase tracking-widest leading-relaxed line-clamp-2 ${tier.featured ? 'text-black/60' : 'text-gray-500'}`}>
+                    <p className={`text-[10px] font-bold uppercase tracking-widest leading-relaxed line-clamp-2 ${tier.featured ? 'text-black/60' : 'text-muted-foreground'}`}>
                       {tier.desc}
                     </p>
                   </div>
@@ -781,7 +787,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
                   </ul>
                   <button 
                     onClick={tier.featured || tier.price !== 'Free' ? onCheckout : undefined}
-                    className={`w-full py-5 text-[10px] font-black uppercase tracking-[0.2em] transition-all border-none ${tier.featured ? 'bg-black text-white hover:bg-white hover:text-black' : 'bg-primary text-black hover:bg-white'}`}
+                    className={`w-full py-5 text-[10px] font-black uppercase tracking-[0.2em] transition-all border-none ${tier.featured ? 'bg-black text-white hover:bg-surface hover:text-foreground' : 'bg-primary text-black hover:bg-surface'}`}
                   >
                     {tier.cta}
                   </button>
@@ -802,7 +808,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
               <div className="w-12 h-0.5 bg-primary mx-auto" />
               <div className="space-y-1">
                 <h5 className="text-xl font-serif text-white italic">Adv. Aarav Singhania</h5>
-                <p className="text-[9px] text-gray-500 font-black uppercase tracking-[0.3em]">Chief Academic Strategist • Top 10 ALL INDIA RANKER</p>
+                <p className="text-[9px] text-muted-foreground font-black uppercase tracking-[0.3em]">Chief Academic Strategist • Top 10 ALL INDIA RANKER</p>
               </div>
             </div>
           </div>
@@ -813,7 +819,7 @@ const LandingPage = ({ user, onCheckout, setView }: { user: FirebaseUser | null;
 };
 
 const Footer = ({ setView }: { setView: (v: View) => void }) => (
-  <footer className="bg-white text-muted-foreground py-32 border-t border-gray-100 font-sans safe-bottom">
+  <footer className="bg-surface text-muted-foreground py-32 border-t border-border font-sans safe-bottom">
     <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-20 mb-24">
         <div className="lg:col-span-1">
@@ -828,7 +834,7 @@ const Footer = ({ setView }: { setView: (v: View) => void }) => (
           </p>
           <div className="flex gap-2">
              {['01', '02', '03', '04'].map(i => (
-               <div key={i} className="w-10 h-10 bg-gray-50 border border-gray-100 flex items-center justify-center hover:bg-primary/10 hover:border-primary transition-all cursor-pointer text-[10px] text-muted-foreground hover:text-primary font-bold">
+               <div key={i} className="w-10 h-10 bg-gray-50 border border-border flex items-center justify-center hover:bg-primary/10 hover:border-primary transition-all cursor-pointer text-[10px] text-muted-foreground hover:text-primary font-bold">
                  {i}
                </div>
              ))}
@@ -857,7 +863,7 @@ const Footer = ({ setView }: { setView: (v: View) => void }) => (
           </ul>
         </div>
 
-        <div className="space-y-10 bg-gray-50 p-6 lg:p-10 border border-gray-100">
+        <div className="space-y-10 bg-gray-50 p-6 lg:p-10 border border-border">
            <h4 className="text-primary font-black uppercase tracking-[0.3em] text-[10px]">Portal Status</h4>
            <div className="space-y-6">
               <div className="flex items-center gap-4">
@@ -873,7 +879,7 @@ const Footer = ({ setView }: { setView: (v: View) => void }) => (
         </div>
       </div>
 
-      <div className="pt-16 border-t border-gray-100 flex flex-col lg:flex-row items-center justify-between text-[9px] font-bold tracking-[0.4em] gap-8 uppercase text-muted-foreground">
+      <div className="pt-16 border-t border-border flex flex-col lg:flex-row items-center justify-between text-[9px] font-bold tracking-[0.4em] gap-8 uppercase text-muted-foreground">
         <div className="flex flex-col lg:flex-row items-center gap-8">
           <p>© 2026 Juris Elite Academy • Strictly Academic Integrity</p>
           <div className="hidden lg:block w-px h-4 bg-gray-200" />
@@ -897,7 +903,9 @@ export default function App() {
   const [targetRank, setTargetRank] = useState<number>(0);
   const [streak, setStreak] = useState(0);
   const [xp, setPoints] = useState(0);
+  const [userLevel, setUserLevel] = useState(0);
   const [showUpiModal, setShowUpiModal] = useState(false);
+  const [unlockedAchievements, setUnlockedAchievements] = useState<string[]>([]);
 
   const handleCheckout = async () => {
     if (!user) {
@@ -936,8 +944,8 @@ export default function App() {
     setView('TUTOR');
   };
 
-  // PREMIUM CHECK - In production, this would strictly use profile?.isPremium
-  const hasPremiumAccess = profile?.isPremium || true;
+  // PREMIUM CHECK - Set to '|| true' for development testing only
+  const hasPremiumAccess = profile?.isPremium || false;
 
   const urlParams = new URLSearchParams(window.location.search);
   const sessionId = urlParams.get('session_id');
@@ -948,13 +956,28 @@ export default function App() {
     
     let unsubProfile: (() => void) | undefined;
 
-    const unsubAuth = onAuthStateChanged(auth, (u) => {
+    const unsubAuth = onAuthStateChanged(auth, async (u) => {
       setUser(u);
       if (!u) {
         setProfile(null);
         setLoading(false);
         if (view !== 'LANDING' && !['MATERIALS', 'DAILY', 'AFFAIRS', 'ARCHIVE', 'DASHBOARD', 'TUTOR', 'WIKI', 'LEARN'].includes(view)) setView('LANDING');
       } else {
+        // Initialize analytics and gamification
+        try {
+          await initializeUserAnalytics(u.uid);
+          await initializeGamification(u.uid);
+          const streakData = await calculateStreak(u.uid);
+          setStreak(streakData.current);
+          
+          // Track first login XP if new streak
+          if (streakData.isNewDay) {
+            await addXP(u.uid, 20);
+          }
+        } catch (err) {
+          console.warn('Analytics init error:', err);
+        }
+        
         // Listen to user profile
         if (unsubProfile) unsubProfile();
         unsubProfile = onSnapshot(doc(db, 'users', u.uid), (snap) => {
@@ -984,6 +1007,11 @@ export default function App() {
       clearTimeout(timer);
     };
   }, []);
+
+  // Track view changes for analytics
+  useEffect(() => {
+    analytics.changeView(view);
+  }, [view]);
 
   // Scroll to top on view change
   useEffect(() => {
@@ -1028,14 +1056,14 @@ export default function App() {
               <h1 className="text-4xl lg:text-6xl font-serif text-white italic tracking-tighter">
                 Welcome, <span className="text-primary not-italic">{profile?.displayName?.split(' ')[0] || 'Aspirant'}</span>.
               </h1>
-              <p className="text-gray-500 text-sm font-light uppercase tracking-[0.2em]">Curation of your academic legacy starts here</p>
+              <p className="text-muted-foreground text-sm font-light uppercase tracking-[0.2em]">Curation of your academic legacy starts here</p>
             </div>
             <Card className="bg-surface/50 backdrop-blur-sm p-6 border border-primary/20 flex items-center gap-6 rounded-none">
               <div className="w-12 h-12 bg-primary/10 flex items-center justify-center text-primary border border-primary/20 rounded-none shadow-[0_0_15px_rgba(194,163,93,0.1)]">
                 <ShieldCheck size={24} />
               </div>
               <div>
-                <span className="block text-[9px] font-black uppercase text-gray-500 tracking-widest mb-1">Status Accreditation</span>
+                <span className="block text-[9px] font-black uppercase text-muted-foreground tracking-widest mb-1">Status Accreditation</span>
                 <div className="flex items-center gap-2">
                    <span className="text-sm font-bold text-white uppercase tracking-widest">Prestige Gold Member</span>
                    <div className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse" />
@@ -1066,19 +1094,19 @@ export default function App() {
                 </div>
                 
                 <div className="w-12 h-12 border border-primary/30 flex items-center justify-center group-hover:border-black/30 group-hover:bg-black/5 transition-all">
-                  <div className="text-primary group-hover:text-black">
+                  <div className="text-primary group-hover:text-primary-foreground">
                     {card.icon}
                   </div>
                 </div>
                 
                 <div className="space-y-4 flex-1">
-                  <h3 className="text-2xl font-serif text-white group-hover:text-black transition-colors italic leading-none">{card.title}</h3>
-                  <p className="text-gray-500 text-[10px] uppercase tracking-[0.2em] font-bold group-hover:text-black/70 transition-colors leading-relaxed">
+                  <h3 className="text-2xl font-serif text-white group-hover:text-primary-foreground transition-colors italic leading-none">{card.title}</h3>
+                  <p className="text-muted-foreground text-[10px] uppercase tracking-[0.2em] font-bold group-hover:text-primary-foreground/70 transition-colors leading-relaxed">
                     {card.desc}
                   </p>
                 </div>
 
-                <div className="flex items-center justify-between group-hover:text-black transition-colors">
+                <div className="flex items-center justify-between group-hover:text-primary-foreground transition-colors">
                   <span className="text-[10px] font-black uppercase tracking-[0.3em] underline underline-offset-8 decoration-primary/30 group-hover:decoration-black/30">{card.btn}</span>
                   <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
                 </div>
@@ -1095,11 +1123,11 @@ export default function App() {
                       <span className="text-[10px] text-primary font-black uppercase tracking-widest">Recommended Strategic Shift</span>
                    </div>
                    <h4 className="text-5xl font-serif text-white tracking-tighter leading-none italic">Improve Logic Gap: <span className="not-italic text-primary underline decoration-primary/20 underline-offset-8">Torts & Contracts</span></h4>
-                   <p className="text-gray-400 text-lg max-w-2xl leading-relaxed font-light">Your previous session reveals a 12% drop in accuracy during time-pressure transitions. We've curated a high-intensity drill set focusing on Vicarious Liability and Frustration of Contract.</p>
+                   <p className="text-muted-foreground text-lg max-w-2xl leading-relaxed font-light">Your previous session reveals a 12% drop in accuracy during time-pressure transitions. We've curated a high-intensity drill set focusing on Vicarious Liability and Frustration of Contract.</p>
                 </div>
                 <button 
                   onClick={() => setView('PRACTICE')}
-                  className="bg-primary text-black px-16 h-20 font-black uppercase tracking-[0.3em] text-xs hover:bg-white transition-all shrink-0 border-none shadow-[0_0_40px_rgba(194,163,93,0.3)]"
+                  className="bg-primary text-black px-16 h-20 font-black uppercase tracking-[0.3em] text-xs hover:bg-surface transition-all shrink-0 border-none shadow-[0_0_40px_rgba(194,163,93,0.3)]"
                 >
                   INITIALIZE DRILL
                 </button>
@@ -1113,7 +1141,7 @@ export default function App() {
                   <div className="flex items-center justify-between">
                      <div className="space-y-1">
                         <h3 className="text-2xl font-serif text-white italic">Logical Readiness Progress</h3>
-                        <p className="text-[10px] text-gray-500 uppercase tracking-widest font-bold">Session attribution & Cognitive Load</p>
+                        <p className="text-[10px] text-muted-foreground uppercase tracking-widest font-bold">Session attribution & Cognitive Load</p>
                      </div>
                      <div className="flex items-center gap-4">
                         <div className="flex items-center gap-2">
@@ -1121,7 +1149,7 @@ export default function App() {
                            <span className="text-[9px] text-white uppercase font-bold tracking-widest">Active</span>
                         </div>
                         <div className="flex items-center gap-2">
-                           <div className="w-3 h-3 bg-white/10" />
+                           <div className="w-3 h-3 bg-surface/10" />
                            <span className="text-[9px] text-white uppercase font-bold tracking-widest">Target</span>
                         </div>
                      </div>
@@ -1137,7 +1165,7 @@ export default function App() {
                         { label: 'Logic Gap', val: '12%', sub: 'Focus: Torts' }
                      ].map((stat, i) => (
                         <div key={i} className="space-y-2">
-                           <p className="text-[9px] text-gray-500 uppercase font-bold tracking-widest">{stat.label}</p>
+                           <p className="text-[9px] text-muted-foreground uppercase font-bold tracking-widest">{stat.label}</p>
                            <h4 className="text-2xl font-serif text-white italic">{stat.val}</h4>
                            <p className="text-[8px] text-primary uppercase font-bold tracking-tighter">{stat.sub}</p>
                         </div>
@@ -1147,28 +1175,28 @@ export default function App() {
                   <div className="space-y-6 pt-8 border-t border-white/5">
                      <div className="space-y-1">
                         <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest">
-                           <span className="text-gray-500">Legal Reasoning Proficiency</span>
+                           <span className="text-muted-foreground">Legal Reasoning Proficiency</span>
                            <span className="text-white">72%</span>
                         </div>
-                        <div className="h-1 bg-white/5 overflow-hidden">
+                        <div className="h-1 bg-surface/5 overflow-hidden">
                            <div className="h-full bg-primary w-[72%] shadow-[0_0_10px_rgba(194,163,93,0.5)]" />
                         </div>
                      </div>
                      <div className="space-y-1">
                         <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest">
-                           <span className="text-gray-500">English Language Synthesis</span>
+                           <span className="text-muted-foreground">English Language Synthesis</span>
                            <span className="text-white">54%</span>
                         </div>
-                        <div className="h-1 bg-white/5 overflow-hidden">
+                        <div className="h-1 bg-surface/5 overflow-hidden">
                            <div className="h-full bg-primary w-[54%] shadow-[0_0_10px_rgba(194,163,93,0.5)]" />
                         </div>
                      </div>
                      <div className="space-y-1">
                         <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest">
-                           <span className="text-gray-500">Critical Logic Application</span>
+                           <span className="text-muted-foreground">Critical Logic Application</span>
                            <span className="text-white">88%</span>
                         </div>
-                        <div className="h-1 bg-white/5 overflow-hidden">
+                        <div className="h-1 bg-surface/5 overflow-hidden">
                            <div className="h-full bg-primary w-[88%] shadow-[0_0_10px_rgba(194,163,93,0.5)]" />
                         </div>
                      </div>
@@ -1185,7 +1213,7 @@ export default function App() {
                         <Target size={20} />
                      </div>
                      <h3 className="text-3xl font-serif text-white italic tracking-tighter">Dream NLU <br /> Rank Engine</h3>
-                     <p className="text-[10px] text-gray-500 uppercase tracking-widest font-bold leading-relaxed">Simulate your landing spot based on current percentile trajectory.</p>
+                     <p className="text-[10px] text-muted-foreground uppercase tracking-widest font-bold leading-relaxed">Simulate your landing spot based on current percentile trajectory.</p>
                   </div>
 
                   <div className="space-y-8 relative z-10">
@@ -1207,18 +1235,18 @@ export default function App() {
 
                      <div className="space-y-6 p-6 bg-surface/50 border border-white/5">
                         <div className="flex justify-between items-center">
-                           <span className="text-[10px] text-gray-500 uppercase font-bold tracking-widest">Estimated AIR</span>
+                           <span className="text-[10px] text-muted-foreground uppercase font-bold tracking-widest">Estimated AIR</span>
                            <span className="text-xl font-serif text-white italic">Rank #142 - #210</span>
                         </div>
                         <div className="flex justify-between items-center">
-                           <span className="text-[10px] text-gray-500 uppercase font-bold tracking-widest">Entry Probability</span>
+                           <span className="text-[10px] text-muted-foreground uppercase font-bold tracking-widest">Entry Probability</span>
                            <span className="text-xl font-serif text-primary italic">High (82%)</span>
                         </div>
                      </div>
 
                      <button 
                         onClick={() => setView('ANALYSIS')}
-                        className="w-full h-14 bg-white/5 border border-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] hover:bg-primary hover:text-black transition-all"
+                        className="w-full h-14 bg-surface/5 border border-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] hover:bg-primary hover:text-black transition-all"
                      >
                         Detailed Rank Diagnostics
                      </button>
@@ -1228,7 +1256,7 @@ export default function App() {
                <Card className="bg-surface border-border rounded-none p-8 lg:p-12 space-y-8">
                   <div className="flex items-center justify-between">
                      <h3 className="text-xl font-serif text-white italic">Upcoming Targets</h3>
-                     <Badge className="bg-accent text-gray-400 border-none text-[8px] font-black">4 PENDING</Badge>
+                     <Badge className="bg-accent text-muted-foreground border-none text-[8px] font-black">4 PENDING</Badge>
                   </div>
                   <div className="space-y-4">
                      {[
@@ -1241,7 +1269,7 @@ export default function App() {
                            <div className={`w-1 h-8 rounded-full ${target.urgency === 'Urgent' ? 'bg-red-500' : 'bg-primary/20 group-hover:bg-primary transition-colors'}`} />
                            <div className="space-y-0.5">
                               <p className="text-[11px] font-bold text-white uppercase tracking-tight group-hover:text-primary transition-colors">{target.title}</p>
-                              <p className="text-[9px] text-gray-500 font-bold uppercase tracking-widest">{target.date}</p>
+                              <p className="text-[9px] text-muted-foreground font-bold uppercase tracking-widest">{target.date}</p>
                            </div>
                         </div>
                      ))}
@@ -1268,7 +1296,7 @@ export default function App() {
                 </div>
                 <button 
                   onClick={handleCheckout}
-                  className="bg-black text-white px-12 py-6 font-black uppercase tracking-[0.3em] text-[11px] hover:bg-white hover:text-black transition-all shadow-2xl active:scale-95"
+                  className="bg-black text-white px-12 py-6 font-black uppercase tracking-[0.3em] text-[11px] hover:bg-surface hover:text-foreground transition-all shadow-2xl active:scale-95"
                 >
                   UPGRADE TO LEX-PREMIUM
                 </button>
@@ -1289,6 +1317,17 @@ export default function App() {
       case 'INGESTOR': return <div className="pt-32 px-4 md:px-6"><DataIngestor /></div>;
       case 'WIKI': return <div className="pt-0"><WikiMaster initialRoute={window.location.pathname.split('/')[2] || 'index'} onClose={() => { setView('DASHBOARD'); window.history.pushState(null, '', '/'); }} /></div>;
       case 'LEARN': return <div className="pt-16"><LearningHub /></div>;
+      case 'ACHIEVEMENTS': return (
+        <div className="pt-32 px-4 md:px-6">
+          <AchievementPanel 
+            userXp={xp} 
+            userLevel={userLevel} 
+            currentStreak={streak} 
+            longestStreak={streak} 
+            unlockedAchievementIds={unlockedAchievements} 
+          />
+        </div>
+      );
       default: return <LandingPage user={user} onCheckout={handleCheckout} setView={setView} />;
     }
   };
@@ -1328,7 +1367,7 @@ export default function App() {
               exit={{ opacity: 0, scale: 0.8, y: 20 }}
               className="mb-4 pointer-events-auto"
             >
-              <div className="bg-white border border-gray-200 p-4 rounded-2xl shadow-2xl max-w-[240px] relative">
+              <div className="bg-surface border border-border p-4 rounded-2xl shadow-2xl max-w-[240px] relative">
                 <div className="flex items-center gap-3 mb-2">
                   <div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center">
                     <Star size={14} className="text-white fill-white" />
@@ -1339,7 +1378,7 @@ export default function App() {
                   "I've identified a logic gap in your Torts performance. Let's fix it in the Masterclass before your next mock."
                 </p>
                 {/* Speech bubble tail */}
-                <div className="absolute -bottom-2 right-6 w-4 h-4 bg-white border-r border-b border-gray-200 rotate-45" />
+                <div className="absolute -bottom-2 right-6 w-4 h-4 bg-surface border-r border-b border-border rotate-45" />
               </div>
             </motion.div>
           )}
@@ -1352,7 +1391,7 @@ export default function App() {
           className="w-16 h-16 rounded-full bg-primary border-4 border-black shadow-2xl flex items-center justify-center pointer-events-auto group overflow-hidden"
         >
           <div className="absolute inset-0 bg-gradient-to-tr from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
-          <Zap size={28} className="text-black fill-black" />
+          <Zap size={28} className="text-primary-foreground fill-primary-foreground" />
         </motion.button>
       </div>
 
@@ -1368,7 +1407,7 @@ export default function App() {
             >
               <button 
                 onClick={() => setShowUpiModal(false)}
-                className="absolute top-4 right-4 text-gray-500 hover:text-white"
+                className="absolute top-4 right-4 text-muted-foreground hover:text-white"
               >
                 <X size={20} />
               </button>
@@ -1380,16 +1419,16 @@ export default function App() {
                 
                 <div>
                   <h3 className="text-2xl font-serif italic text-white mb-2">LexCLAT Premium</h3>
-                  <p className="text-xs text-gray-400 font-bold uppercase tracking-widest">Manual UPI Checkout</p>
+                  <p className="text-xs text-muted-foreground font-bold uppercase tracking-widest">Manual UPI Checkout</p>
                 </div>
                 
                 <div className="bg-background border border-primary/30 p-6 space-y-2">
-                  <p className="text-[10px] text-gray-500 uppercase tracking-widest font-black">Scan or Pay To Number</p>
+                  <p className="text-[10px] text-muted-foreground uppercase tracking-widest font-black">Scan or Pay To Number</p>
                   <p className="text-3xl font-black text-white tracking-widest">7639176376</p>
                   <p className="text-[10px] text-primary uppercase tracking-widest font-bold mt-2">Accepted: GPay, PhonePe, Paytm</p>
                 </div>
                 
-                <p className="text-xs text-gray-400 leading-relaxed">
+                <p className="text-xs text-muted-foreground leading-relaxed">
                   Please complete the payment on your UPI app. Once done, click the verification button below. Premium access will be granted upon admin verification.
                 </p>
 
@@ -1398,7 +1437,7 @@ export default function App() {
                     toast.success("Payment verification request sent! You will be upgraded shortly.");
                     setShowUpiModal(false);
                   }}
-                  className="w-full bg-primary text-black hover:bg-white font-black uppercase tracking-widest rounded-none h-12"
+                  className="w-full bg-primary text-black hover:bg-surface font-black uppercase tracking-widest rounded-none h-12"
                 >
                   I Have Completed Payment
                 </Button>
