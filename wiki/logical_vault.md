@@ -193,6 +193,13 @@ The "analogous" case must share the **legally operative feature**, not just surf
 
 ---
 
+## 10. High-Yield Study Capsules
+
+For rapid exam revision:
+
+- [💊 Critical Reasoning — Assumptions, Strengthen/Weaken, Flaws](./capsules/capsule_logical_critical.md)
+- [💊 Analytical Reasoning — Syllogisms, Seating, Blood Relations](./capsules/capsule_analytical_reasoning.md)
+
 ## 9. Detailed Chapter Vault
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.

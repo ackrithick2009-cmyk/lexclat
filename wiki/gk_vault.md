@@ -228,7 +228,16 @@ Don't read news linearly. Compartmentalize daily news into buckets:
 
 ---
 
-## 7. Detailed Chapter Vault
+---
+
+## 8. High-Yield Study Capsules (2024–2026)
+
+For rapid exam revision, each highest-yield international relations topic is broken into a standalone capsule:
+
+- [💊 ICJ Gaza Genocide Case (South Africa v. Israel)](./capsules/capsule_icj_gaza.md)
+- [💊 BRICS Expansion vs. IMEC](./capsules/capsule_brics_imec.md)
+
+## 9. Detailed Chapter Vault
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
 

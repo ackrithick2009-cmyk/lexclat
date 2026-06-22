@@ -343,3 +343,78 @@ Compartmentalise daily news into buckets — revise bucket-wise, not chronologic
 ---
 
 *LexCLAT Study Guide — Current Affairs & GK | Aligned with CLAT 2026 Pattern*
+
+
+---
+
+## PART H: HIGHEST-YIELD INTERNATIONAL RELATIONS (2024–2026) — CLAT PASSAGE MASTERCLASS
+
+> ⚠️ **To ace the passage-based format of CLAT, you must understand exactly when these shifts occurred and the legal or geopolitical catalysts that forced them.**
+> These topics intersect with **International Law**, **Constitutional Law**, and **Geopolitical Reasoning**. They test your ability to read complex fact patterns and identify the underlying legal framework.
+
+---
+
+### H1. The ICJ Gaza Genocide Case (South Africa v. Israel) — Erga Omnes Obligations
+
+**Key Timelines:**
+- **December 29, 2023**: South Africa formally instituted proceedings at the International Court of Justice (ICJ).
+- **January 26, 2024**: The ICJ issued its first binding Provisional Measures Order, followed by successive emergency modifications throughout 2024 and 2025 as the conflict expanded into Rafah.
+
+**Main Contextual Influence:** The geopolitical fallout of the October 7, 2023 attacks and the subsequent massive military campaign in Gaza. The absolute collapse of United Nations Security Council (UNSC) enforcement mechanisms due to continuous vetoes forced the Global South to weaponize formal international legal tribunals to check military actions.
+
+**Core Legal Underpinnings:**
+
+1. **Erga Omnes Partes Obligations**: South Africa had no direct, localized injury in the conflict. It established its standing (locus standi) on the doctrine that all state parties to the 1948 Genocide Convention have a common legal interest in ensuring the prevention and punishment of acts of genocide anywhere in the world.
+
+2. **The Threshold of Plausibility**: At the provisional measures stage, the ICJ did not rule on whether genocide had occurred. Instead, it ruled that the rights claimed by South Africa under the convention were "plausible," creating an immediate international legal obligation on Israel to prevent escalations that endanger civilian life.
+
+**CLAT Passage Strategy:**
+- **Erga Omnes** is a Latin phrase meaning "towards all." In international law, erga omnes obligations are obligations that a state owes to the international community as a whole, not just to another state.
+- The ICJ's **provisional measures** are NOT a final judgment. They are emergency orders to prevent irreparable harm while the case is heard.
+- **"Plausibility"** is the threshold for provisional measures, not proof of genocide. The ICJ only needs to find that the rights claimed are "plausible" — not proven.
+- If a passage asks why South Africa could bring the case despite no direct injury, the answer is **erga omnes partes obligations** under the Genocide Convention.
+- The UNSC deadlock (due to vetoes) is the geopolitical reason this case went to the ICJ instead of the UNSC.
+
+---
+
+### H2. BRICS Expansion vs. The IMEC Obstacle — Chokepoint Geopolitics
+
+**Key Timelines:**
+- **January 1, 2024**: Egypt, Ethiopia, Iran, and the UAE formally integrated into BRICS.
+- **September 2023–Mid 2026**: The India-Middle East-Europe Economic Corridor (IMEC), signed at the G20 Delhi Summit, faced complete infrastructure freezing.
+
+**Main Contextual Influence:** A structural polarization of global trade routes. The expansion of BRICS was aggressively accelerated by Western sanctions on Russia and Iran, pushing emerging economies to build financial clearing architectures entirely separate from the US dollar-dominated SWIFT system.
+
+**Core Geopolitical Influence:**
+
+1. **Chokepoint Geopolitics**: By including Egypt and Iran, BRICS placed major state actors around the Suez Canal, the Bab-el-Mandeb Strait, and the Strait of Hormuz inside a single diplomatic bloc. This means BRICS now controls or influences the three most critical maritime chokepoints for global energy and trade flows.
+
+2. **The Kinetic Disruptor**: IMEC was explicitly designed as a maritime-rail alternative to bypass China's Belt and Road Initiative (BRI). However, the outbreak of the Gaza/Lebanon conflicts completely ruptured the normalization of ties between Saudi Arabia and Israel, showing that economic trade corridors cannot operate independently of deep-seated regional security crises.
+
+**CLAT Passage Strategy:**
+- The passage will likely present a conflict between **economic integration** (trade corridors like IMEC) and **security geopolitics** (regional conflicts like Gaza/Lebanon).
+- The correct answer will often reference the principle that **economic corridors cannot be separated from regional security stability** — a key geopolitical doctrine tested in CLAT.
+- **BRICS de-dollarization** is the underlying economic driver. The passage may mention BRICS Pay, a new digital payment system designed to bypass SWIFT.
+- The **G20 Delhi Summit** (September 2023) is the reference point for IMEC. India is the critical link in the corridor.
+- If the question asks about "multilateralism vs. minilateralism," the answer is that BRICS represents a **minilateral** (small-group) challenge to **multilateral** institutions like the UN and WTO.
+
+---
+
+### H3. QUICK REVISION CHECKLIST — INTERNATIONAL RELATIONS (UPDATED 2026)
+
+- [ ] ICJ provisional measures threshold = "plausibility," not proof
+- [ ] Erga omnes partes obligations: all Genocide Convention parties have standing
+- [ ] UNSC veto power: why ICJ became the forum (UNSC deadlock)
+- [ ] BRICS expansion 2024: Egypt, Ethiopia, Iran, UAE
+- [ ] Chokepoint geopolitics: Suez, Bab-el-Mandeb, Hormuz
+- [ ] IMEC: G20 Delhi Summit 2023, maritime-rail corridor, stalled by Gaza conflict
+- [ ] De-dollarization: BRICS Pay, SWIFT alternatives
+- [ ] Multilateralism vs. minilateralism distinction
+- [ ] India's role in both BRICS and IMEC (dual hedging strategy)
+- [ ] COP31 net-zero pledges and climate finance obligations
+- [ ] UN Pact for the Future: AI governance, digital public infrastructure
+- [ ] India's UNSC permanent seat demand and "Uniting for Consensus" group
+
+---
+
+*LexCLAT Study Guide — Current Affairs & GK | Updated with CLAT 2026 Deep-Dive Analysis | Source: ICJ Orders, G20 Communiques, BRICS Declarations, CLAT Papers 2020–2025*

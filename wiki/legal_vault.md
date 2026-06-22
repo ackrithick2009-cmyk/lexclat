@@ -135,7 +135,27 @@ Three elements that must ALL be present:
 - **Ayodhya Title Dispute follow-up orders** — mosque construction and trust updates
 - **LGBTQ+ Marriage Recognition**: SC referred to Parliament — status remains *sub judice*
 
-## 6. Detailed Chapter Vault
+## 6. High-Yield Study Capsules (2024–2026)
+
+For rapid exam revision, each highest-yield topic is broken into a standalone capsule:
+
+- [💊 BNS / BNSS / BSA — The New Criminal Trilogy](./capsules/capsule_bns_bnns_bsa.md)
+- [💊 SC/ST Sub-Classification (Davinder Singh)](./capsules/capsule_scst_subclassification.md)
+- [💊 Electoral Bonds (ADR v. UOI)](./capsules/capsule_electoral_bonds.md)
+- [💊 Uttarakhand UCC](./capsules/capsule_uttarakhand_ucc.md)
+- [💊 Constitutional Law — Golden Triangle & Basic Structure](./capsules/capsule_constitutional_golden_triangle.md)
+- [💊 Law of Torts — Negligence, Defamation, Liability](./capsules/capsule_law_of_torts.md)
+
+## 7. Bhardwaj Book — Legal Aptitude & Reasoning (Full Text)
+
+Complete chapters from *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (Pearson, 2011):
+
+- [Chapter 1: Legal Terms and Maxims](./bhardwaj_book/Chapter_01_Legal_Terms_and_Maxims.md)
+- [Chapter 2: Criminal Law](./bhardwaj_book/Chapter_02_Criminal_Law.md)
+- [Chapter 3: Civil Law](./bhardwaj_book/Chapter_03_Civil_Law.md)
+- [Chapter 4: Constitutional Law](./bhardwaj_book/Chapter_04_Constitutional_Law.md)
+
+## 8. Detailed Chapter Vault
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
 

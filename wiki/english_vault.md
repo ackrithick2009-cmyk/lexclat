@@ -168,6 +168,12 @@ CLAT's English section is **passage-based only** — no standalone grammar quest
 
 ---
 
+## 8. High-Yield Study Capsules
+
+For rapid exam revision:
+
+- [💊 English RC — Mastering 450-Word Passages](./capsules/capsule_english_rc.md)
+
 ## 7. Detailed Chapter Vault
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.

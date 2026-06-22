@@ -143,3 +143,54 @@ Once integrated with the React frontend, these wiki modules map to:
 
 *LexCLAT Master Wiki — Built with the Hybrid 3-Agent System (Gemini + Claude + MCP)*  
 *Last Updated: May 2026*
+
+
+---
+
+## 💊 High-Yield Study Capsules (2024–2026)
+
+> **For rapid revision before the exam.** Each capsule is a self-contained deep-dive with exact timelines, legal doctrines, and CLAT passage strategies.
+
+### ⚖️ Legal Reasoning Capsules
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 1 | [BNS / BNSS / BSA — The New Criminal Trilogy](./capsules/capsule_bns_bnns_bsa.md) | Decolonial jurisprudence, evidentiary modernization | ★★★★★ |
+| 2 | [SC/ST Sub-Classification (Davinder Singh)](./capsules/capsule_scst_subclassification.md) | Substantive equality, overruling Chinnaiah | ★★★★★ |
+| 3 | [Electoral Bonds (ADR v. UOI)](./capsules/capsule_electoral_bonds.md) | Proportionality test, Art. 19(1)(a) | ★★★★★ |
+| 4 | [Uttarakhand UCC](./capsules/capsule_uttarakhand_ucc.md) | Art. 44 DPSP vs. Art. 21 privacy, Art. 254(2) | ★★★★☆ |
+
+### 🌍 Current Affairs & GK Capsules
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 5 | [ICJ Gaza Genocide Case (South Africa v. Israel)](./capsules/capsule_icj_gaza.md) | Erga omnes, plausibility threshold, provisional measures | ★★★★☆ |
+| 6 | [BRICS Expansion vs. IMEC](./capsules/capsule_brics_imec.md) | Chokepoint geopolitics, de-dollarization, minilateralism | ★★★★☆ |
+
+### 📖 English Language Capsules
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 7 | [English RC — Mastering 450-Word Passages](./capsules/capsule_english_rc.md) | 3 passage types, 90-second skim, 2-out elimination | ★★★★★ |
+
+### 🧠 Logical Reasoning Capsules
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 8 | [Critical Reasoning — Assumptions, Strengthen/Weaken, Flaws](./capsules/capsule_logical_critical.md) | Negation test, causal link, 5 flaw types, paradoxes | ★★★★★ |
+
+### 📊 Quantitative Techniques Capsules
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 9 | [DI Mastery — Table, Bar, Pie, Line, Caselet](./capsules/capsule_quant_di.md) | 5 DI formats, fraction-percentage grid, approximation rules | ★★★★★ |
+
+### ⚖️ Legal Reasoning Capsules (Continued)
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 10 | [Constitutional Law — Golden Triangle & Basic Structure](./capsules/capsule_constitutional_golden_triangle.md) | Articles 14, 19, 21, Kesavananda, proportionality test | ★★★★★ |
+| 11 | [Law of Torts — Negligence, Defamation, Liability](./capsules/capsule_law_of_torts.md) | Donoghue v. Stevenson, Rylands, M.C. Mehta, vicarious liability | ★★★★★ |
+
+### 🧠 Logical Reasoning Capsules (Continued)
+| # | Capsule | Topic | Relevance |
+|---|---------|-------|-----------|
+| 12 | [Analytical Reasoning — Syllogisms, Seating, Blood Relations](./capsules/capsule_analytical_reasoning.md) | Venn diagrams, linear/circular arrangements, coding-decoding | ★★★★☆ |
+
+---
+
+*LexCLAT Master Wiki — Updated with CLAT 2026 High-Yield Capsules | Last Updated: 2026*

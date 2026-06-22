@@ -263,6 +263,12 @@ CI = P × (1 + R/100)^T - P
 
 ---
 
+## 11. High-Yield Study Capsules
+
+For rapid exam revision:
+
+- [💊 DI Mastery — Table, Bar, Pie, Line, Caselet](./capsules/capsule_quant_di.md)
+
 ## 10. Detailed Chapter Vault
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
