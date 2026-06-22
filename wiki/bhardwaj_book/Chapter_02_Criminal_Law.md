@@ -1,7 +1,5 @@
-# 📘 Chapter 2: Criminal Law
+# Chapter 2: Criminal Law
 
-> **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: Theory + MCQs
 > **CLAT Relevance**: Core legal aptitude material
 
 ---
@@ -3656,7 +3654,3 @@ NSWERS
 121. (b) 122. (b) 123. (b) 124. (b) 125. (b) 126. (c) 127. (c) 128. (c) 129. (a) 130. (a)
 131. (a) 132. (a) 133. (a) 134. (a) 135. (a) 136. (b) 137. (b) 138. (b) 139. (b) 140. (b)
 141. (c) 142. (c) 143. (c) 144. (c) 145. (a) 146. (a) 147. (a) 148. (a) 149. (a) 150. (a)
-
----
-
-*Content extracted from A.P. Bhardwaj's *Legal Aptitude and Legal Reasoning* for CLAT and LLB Entrance Tests (Pearson, 2011)*

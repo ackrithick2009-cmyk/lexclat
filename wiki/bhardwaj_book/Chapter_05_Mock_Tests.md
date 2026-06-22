@@ -1,7 +1,5 @@
-# 📘 Chapter 5: Mock Tests
+# Chapter 5: Mock Tests
 
-> **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: 249–318 (10 Practice Tests)  
 > **CLAT Relevance**: Full-length practice tests for timed simulation
 
 ---
@@ -4739,7 +4737,3 @@ NSWERS
 71. (d) 72. (b) 73. (c) 74. (b) 75. (b) 76. (c) 77. (a) 78. (a) 79. (a) 80. (a)
 81. (c) 82. (a) 83. (b) 84. (b) 85. (a) 86. (c) 87. (a) 88. (d) 89. (c) 90. (b)
 91. (c) 92. (c) 93. (b) 94. (d) 95. (a) 96. (b) 97. (b) 98. (a) 99. (b) 100. (b)
-
----
-
-*Content extracted from A.P. Bhardwaj's *Legal Aptitude and Legal Reasoning* for CLAT and LLB Entrance Tests (Pearson, 2011)*

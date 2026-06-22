@@ -1,7 +1,5 @@
-# 📘 Chapter 1: Legal Terms and Maxims
+# Chapter 1: Legal Terms and Maxims
 
-> **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: Theory + MCQs
 > **CLAT Relevance**: Core legal aptitude material
 
 ---
@@ -2098,7 +2096,3 @@ NSWERS
 171. (b) 172. (b) 173. (a) 174. (b) 175. (a) 176. (c) 177. (a) 178. (c) 179. (a) 180. (a)
 181. (d) 182. (a) 183. (c) 184. (a) 185. (b) 186. (a) 187. (c) 188. (a) 189. (b) 190. (b)
 191. (b) 192. (b) 193. (a) 194. (d) 195. (c) 196. (d)
-
----
-
-*Content extracted from A.P. Bhardwaj's *Legal Aptitude and Legal Reasoning* for CLAT and LLB Entrance Tests (Pearson, 2011)*

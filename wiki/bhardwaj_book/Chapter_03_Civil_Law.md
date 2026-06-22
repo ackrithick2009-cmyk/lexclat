@@ -1,7 +1,5 @@
-# 📘 Chapter 3: Civil Law
+# Chapter 3: Civil Law
 
-> **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: Theory + MCQs
 > **CLAT Relevance**: Core legal aptitude material
 
 ---
@@ -2175,7 +2173,3 @@ NSWERS
 161. (a) 162. (a) 163. (a) 164. (a) 165. (b) 166. (b) 167. (a) 168. (a) 169. (a) 170. (b)
 171. (a) 172. (a) 173. (a) 174. (b) 175. (a) 176. (b) 177. (a) 178. (a) 179. (b) 180. (a)
 181. (a) 182. (b) 183. (c) 184. (a) 185. (a) 186. (b)
-
----
-
-*Content extracted from A.P. Bhardwaj's *Legal Aptitude and Legal Reasoning* for CLAT and LLB Entrance Tests (Pearson, 2011)*

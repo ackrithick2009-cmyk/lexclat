@@ -1,7 +1,5 @@
-# 📘 Chapter 4: Constitutional Law
+# Chapter 4: Constitutional Law
 
-> **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: Theory + MCQs
 > **CLAT Relevance**: Core legal aptitude material
 
 ---
@@ -9615,7 +9613,3 @@ NSWERS
 971. (c) 972. (a) 973. (d) 974. (b) 975. (b) 976. (b) 977. (a) 978. (a) 979. (b) 980. (d)
 981. (a) 982. (c) 983. (b) 984. (d) 985. (d) 986. (c) 987. (d) 988. (a) 989. (a) 990. (c)
 991. (b) 992. (c) 993. (c) 994. (c) 995. (c) 996. (a) 997. (c) 998. (d) 999. (a) 1000. (d)
-
----
-
-*Content extracted from A.P. Bhardwaj's *Legal Aptitude and Legal Reasoning* for CLAT and LLB Entrance Tests (Pearson, 2011)*

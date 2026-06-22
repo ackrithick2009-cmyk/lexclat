@@ -1,7 +1,5 @@
-# 📘 Chapter 6: Previous Years' Papers
+# Chapter 6: Previous Years' Papers
 
-> **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: 319–427 (Solved Past Papers)  
 > **CLAT Relevance**: Authentic past paper practice with solutions
 
 ---
@@ -7370,7 +7368,3 @@ PREVIOUS YEARS’ PAPERS 427
 151. (b) 152. (d) 153. (b) 154. (d) 155. (a) 156. (b) 157. (a) 158. (d) 159. (a) 160. (b)
 161. (d) 162. (a) 163. (d) 164. (c) 165. (a) 166. (b) 167. (a) 168. (d) 169. (a) 170. (b)
 171. (d) 172. (a) 173. (a) 174. (d) 175. (c)
-
----
-
-*Content extracted from A.P. Bhardwaj's *Legal Aptitude and Legal Reasoning* for CLAT and LLB Entrance Tests (Pearson, 2011)*
