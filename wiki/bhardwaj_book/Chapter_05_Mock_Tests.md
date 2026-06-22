@@ -1,4746 +1,4744 @@
 # 📘 Chapter 5: Mock Tests
 
 > **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: 249–318 (10 Practice Tests)
+> **Book Pages**: 249–318 (10 Practice Tests)  
 > **CLAT Relevance**: Full-length practice tests for timed simulation
 
 ---
 
 ## 📝 Mock Tests (10 Practice Tests)
 
-'C'h'a'p't'e'r' '5'
-'M' 'T'
-'O'C'K' 'E'S'T'S'
-'P' 'P' '1'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'W'h'o' 'i's' 'c'o'm'p'e't'e'n't' 't'o' 'd'i's's'o'l'v'e' 't'h'e' 'P'a'r'l'i'a'-' 's'h'a'l'l' 'b'e' 'd'u't'y' 'o'f' 'e'v'e'r'y' 'p'a'r'e'n't' 'o'r' 'g'u'a'r'd'i'a'n'
-'m'e'n't' 'o'f' 'I'n'd'i'a'?' 't'o' 'p'r'o'v'i'd'e' 'o'p'p'o'r't'u'n'i't'i'e's' 'f'o'r' 'e'd'u'c'a't'i'o'n' 't'o'
-'('a')' 'P'r'e's'i'd'e'n't' 'h'i's' 'c'h'i'l'd' 'o'r' 'w'a'r'd' 'b'e't'w'e'e'n' 'a'g'e' 'o'f' '6' 't'o' '1'4'
-'('b')' 'J'o'i'n't' 'S'e's's'i'o'n' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'y'e'a'r's'
-'('c')' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'a'n'd' 'S'p'e'a'k'e'r' '('a')' '8'5't'h' 'A'm'e'n'd'm'e'n't',' '2'0'0'2'
-'o'f' 'L'o'k' 'S'a'b'h'a' 't'o'g'e't'h'e'r' '('b')' '8'6't'h' 'A'm'e'n'd'm'e'n't',' '2'0'0'2'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('c')' '8'7't'h' 'A'm'e'n'd'm'e'n't',' '2'0'0'3'
-'2'.' 'T'h'e' 'w'o'r'd's' '“'p'r'o'c'e'd'u'r'e' 'e's't'a'b'l'i's'h'e'd' 'b'y' '('d')' '8'8't'h' 'A'm'e'n'd'm'e'n't',' '2'0'0'3'
-'l'a'w'”' 'i'n' 'A'r't'i'c'l'e' '2'1' 'i'n' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '6'.' 'W'h'o' 'h'e'a'd'e'd' 't'h'e' 'C'o'm'm'i't't'e'e' 'o'n' 'C'i'v'i'l' 'S'e'r'-'
-'m'e'a'n's' 'v'i'c'e' 'R'e'f'o'r'm's' 'w'h'i'c'h' 's'u'b'm'i't't'e'd' 'i't's' 'r'e'p'o'r't' 'i'n'
-'('a')' 't'h'a't' 'd'u'e' 'p'r'o'c'e's's' 'o'f' 'l'a'w' 'm'u's't' 'b'e' 'f'o'l'-' 'J'u'l'y' '2'0'0'4'?'
-'('a')' 'P'r'o'f'.' 'S'a't'i's'h' 'C'h'a'n'd'r'a'
-'l'o'w'e'd'
-'('b')' 'G'e'n'e'r'a'l' '('R'e't'd')' 'S'u'r'i'n'd'e'r' 'S'i'n'g'h'
-'('b')' 'a' 'p'r'o'c'e'd'u'r'e' 'l'a'i'd' 'd'o'w'n' 'o'r' 'e'n'a'c't'e'd' 'b'y' 'a'
-'('c')' 'P'r'o'f'.' 'Y'a's'h'p'a'l'
-'c'o'm'p'e't'e'n't' 'a'u't'h'o'r'i't'y'
-'('d')' 'P'.' 'C'.' 'H'o't'a'
-'('c')' 't'h'e' 's'a'm'e' 't'h'i'n'g's' 'a's' '“'d'u'e' 'p'r'o'c'e's's' 'o'f'
-'7'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'P'r'i'm'e' 'M'i'n'i's'-'
-'l'a'w'”'
-'t'e'r's' 'h'e'a'd'e'd' 'a' 'm'i'n'o'r'i't'y' 'G'o'v'e'r'n'm'e'n't'?'
-'('d')' 'a' 'l'a'w' 'w'h'i'c'h' 'i's' 'r'e'a's'o'n'a'b'l'e',' 'f'a'i'r' 'a'n'd'
-'('a')' 'V'.' 'P'.' 'S'i'n'g'h'
-'j'u's't'
-'('b')' 'I'.' 'K'.' 'G'u'j'r'a'l'
-'3'.' 'T'h'e' 'R'i'g'h't' 't'o' 'F'r'e'e' 'a'n'd' 'c'o'm'p'u'l's'o'r'y' 'E'd'u'-'
-'('c')' 'C'h'a'n'd'r'a' 'S'h'e'k'h'a'r'
-'c'a't'i'o'n' 't'o' 'C'h'i'l'd'r'e'n' 'A'c't',' '2'0'0'9' 'a'n'd' 'R'i'g'h't'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'t'o' 'E'd'u'c'a't'i'o'n' 'i'n' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'
-'8'.' 'U'n'd'e'r' 'w'h'o's'e' 'P'r'i'm'e' 'M'i'n's't'e'r's'h'i'p' 'w'a's' 't'h'e'
-'p'r'o'v'i'd'e'd' 'u'n'd'e'r' 't'h'e' 'C'h'a'p't'e'r',' 'F'u'n'd'a'm'e'n't'a'l'
-'a'n't'i'-'d'e'f'e'c't'i'o'n' 'l'a'w' 'p'a's's'e'd'?'
-'R'i'g'h't's' 'p'e'r't'a'i'n's' 't'o'
-'('a')' 'R'a'j'i'v' 'G'a'n'd'h'i'
-'('a')' 'A'r't'i'c'l'e' '2'1' '('b')' 'A'r't'i'c'l'e' '2'1' 'A'
-'('b')' 'I'n'd'i'r'a' 'G'a'n'd'h'i'
-'('c')' 'A'r't'i'c'l'e' '2'1' 'B' '('d')' 'A'r't'i'c'l'e' '2'1' 'C'
-'('c')' 'V'.' 'P'.' 'S'i'n'g'h'
-'4'.' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'i's' 'e'l'e'c't'e'd'
-'('d')' 'A'.' 'B'.' 'V'a'j'p'a'y'e'e'
-'('a')' 'b'y' 'w'a'y' 'o'f' 'p'e'o'p'l'e' 'r'e'p'r'e's'e'n't'a't'i'o'n' '9'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e's' 'i's' 'r'e'-'
-'('b')' 'b'y' 'a'n' 'e'l'e'c't'o'r'a'l' 'c'o'l'l'e'g'e' 'c'o'n's'i's't'i'n'g' 'g'a'r'd'e'd' 'a's' 't'h'e' 'p'i'o'n'e'e'r' 'o'f' 't'h'e' 'R'i'g'h't' 't'o' 'I'n'-'
-'o'f' 't'h'e' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 'b'o't'h' 't'h'e' 'f'o'r'm'a't'i'o'n' 'i'n' 'I'n'd'i'a'?'
-'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 'b'y' 't'h'e' '('a')' 'R'a'j'a's't'h'a'n'
-'r'e'p'r'e's'e'n't'a't'i'v'e's' 'o'f' 'C'e'n't'r'a'l' 'a'n'd' 'S't'a't'e' '('b')' 'W'e's't' 'B'e'n'g'a'l'
-'L'e'g'i's'l'a't'u'r'e' '('c')' 'H'i'm'a'c'h'a'l' 'P'r'a'd'e's'h'
-'('c')' 'd'i'r'e'c't'l'y' 'b'y' 'p'e'o'p'l'e' '('d')' 'K'e'r'a'l'a'
-'('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'p'p'o'i'n't's' 'h'i'm' '1'0'.' 'I'n' '2'0'0'6' 'P'r'e's'i'd'e'n't' 'A'b'd'u'l' 'K'a'l'a'm' 's'e'n't' 'b'a'c'k'
-'5'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'I'n'd'i'a'n' 'C'o'n'-' 'a' 'b'i'l'l' 'p'a's's'e'd' 'b'y' 'P'a'r'l'i'a'm'e'n't' 'f'o'r' 'r'e'c'o'n's'i'd'-'
-'s't'i't'u't'i'o'n'a'l' 'A'm'e'n'd'm'e'n't's' 'p'r'o'v'i'd'e's' 't'h'a't' 'i't' 'e'r'a't'i'o'n'.' 'T'h'e' 'B'i'l'l' 'r'e'l'a't'e'd' 't'o'
-'
-'('a')' 'r'e's'e'r'v'a't'i'o'n's' 'f'o'r' 't'h'e' 'O'B'C's' '1'8'.' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a' 'r'e'c'o'g'n'i'z'e'd' 's'e'x'u'a'l'
-'('b')' '5'6' 'o'f'f'i' 'c'e's' 'o'f' 'p'r'o'f'i' 't' 'h'a'r'a's's'm'e'n't' 'a's' 'a' 'h'u'm'a'n' 'r'i'g'h't's' 'v'i'o'l'a't'i'o'n' 'i'n'
-'('c')' 's't'a't'e' 'f'u'n'd'i'n'g' 'o'f' 'e'l'e'c't'i'o'n's' 'I'n'd'i'a' 'i'n' 'c'a's'e' 'o'f'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('a')' 'V'i's'h'a'k'a' 'v's' 'S't'a't'e' 'o'f' 'R'a'j'a's't'h'a'n'
-'1'1'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'j'u'r'i's'd'i'c't'i'o'n' 'o'f' 't'h'e' '('b')' 'B'i'r'd'h'i'c'h'a'n'd' 'v's' 'S't'a't'e' 'o'f' 'M'a'h'a'r'a's'h't'r'a'
-'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a' 'i's' 'w'r'o'n'g'l'y' 'l'i's't'e'd'?' '('c')' 'A'h'm'e'd' 'K'h'a'n' 'v's' 'S'h'a'h' 'B'a'n'o' 'B'e'g'u'm'
-'('a')' 'A'd'v'i's'o'r'y' 'J'u'r'i's'd'i'c't'i'o'n' '('d')' 'T'a'k'a'r'a'm' 'v's' 'S't'a't'e' 'o'f' 'M'a'h'a'r'a's'h't'r'a'
-'('b')' 'A'p'p'e'l'l'a't'e' 'J'u'r'i's'd'i'c't'i'o'n' '1'9'.' 'T'h'e' 'm'a'x'i'm' '‘'U'b'i' 'j'u's'’'i'b'i' 'r'e'm'e'd'i'u'm'’' 'm'e'a'n's'
-'('c')' 'O'r'i'g'i'n'a'l' 'J'u'r'i's'd'i'c't'i'o'n' '('a')' 'J'u's't'i'c'e' 's'h'o'u'l'd' 'n'o't' 'o'n'l'y' 'b'e' 'd'o'n'e' 'b'u't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 's'h'o'u'l'd' 'b'e' 's'e'e'n' 't'o' 'b'e' 'd'o'n'e'
-'1'2'.' 'A's' 'p'e'r' 'n'e'w' 'P'o'l'i'c'y' 'o'f' 'U'n'i'o'n' 'G'o'v'e'r'n'm'e'n't','
-'('b')' 'I'n' 'l'a'w' 't'h'e'r'e' 'i's' 'a' 'r'e'm'e'd'y' 'f'o'r' 'e'v'e'r'y'
-'w'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's'e'c't's' 'c'a'n' 'c'a's't'e'
-'w'r'o'n'g'
-'t'h'e'i'r' 'v'o't'e' 'i'n' '2'0'1'4' 'G'e'n'e'r'a'l' 'E'l'e'c't'i'o'n's' 'i'n' 'I'n'-'
-'('c')' 'J'u's't'i'c'e' 'a'c'c'o'r'd'i'n'g' 't'o' 'l'a'w'
-'d'i'a'?'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'P'r'i's'o'n'e'r's'
-'2'0'.' 'T'h'e' 'l'a'r'g'e's't' 'P'I'L'('P'u'b'l'i'c' 'I'n't'e'r'e's't' 'L'i't'i'g'a't'i'o'n')'
-'('b')' 'F'o'r'e'i'g'n' 'N'a't'i'o'n'a'l's'
-'w'i'n'n'e'r'
-'('c')' 'B'o't'h' 'P'r'i's'o'n'e'r's' 'a'n'd' 'F'o'r'e'i'g'n' 'N'a't'i'o'n'a'l's'
-'('a')' 'M'.' 'C'.' 'M'e'h't'a'
-'('d')' 'N'o'n'-'R'e's'i'd'e'n't' 'I'n'd'i'a'n's' '('N'R'I's')' 'a'n'd'
-'('b')' 'C'o'm'm'o'n' 'C'a'u's'e' 'a' 'r'e'g'i's't'e'r'e'd' 's'o'c'i'e't'y'
-'O'v'e'r's'e'a's' 'C'i't'i'z'e'n's' 'h'a'v'i'n'g' 'I'n'd'i'a'n' 'P'a's's'-'
-'f'o'u'n'd'e'd' 'b'y' 'H'.' 'D'.' 'S'h'o'u'r'i'e'.'
-'p'o'r't's'
-'('c')' 'H'e'l'p'a'g'e' 'I'n'd'i'a'
-'1'3'.' 'T'R'I'P's' 'f'o'r'm'i'n'g' 'p'a'r't' 'o'f' 't'h'e' 'W'o'r'l'd' 'T'r'a'd'e'
-'('d')' 'M'.' 'K'.' 'C'h'a'w'l'a'
-'O'r'g'a'n'i'z'a't'i'o'n' 'i's' 'i'n't'e'n'd'e'd'
-'2'1'.' 'T'h'e' '“'L'e'g'a'l' 'S'e'r'v'i'c'e's' 'D'a'y'”' 'f'a'l'l's' 'o'n'
-'('a')' 't'o' 'p'r'o'm'o't'e' 't'r'a'n's'n'a't'i'o'n'a'l' 'c'o'r'p'o'r'a't'e' 'i'n'-'
-'('a')' '9' 'N'o'v'e'm'b'e'r' '('b')' '1'0' 'D'e'c'e'm'b'e'r'
-'t'e'r'e's't's'
-'('b')' 't'o' 'p'r'o'v'i'd'e' 'f'o'r' 's't'r'o'n'g' 'p'a't'e'n't' 'p'r'o't'e'c'-' '('c')' '2'6' 'J'a'n'u'a'r'y' '('d')' '1'3' 'F'e'b'r'u'a'r'y'
-'t'i'o'n' '2'2'.' 'T'h'e' '“'C'i't'i'z'e'n's' 'D'a'y'”' 'f'a'l'l's' 'o'n'
-'('c')' 't'o' 'r'e'p'l'a'c'e' 'W'o'r'l'd' 'I'n't'e'l'l'e'c't'u'a'l' 'P'r'o'p'e'r't'y' '('a')' '1'8' 'N'o'v'e'm'b'e'r' '('b')' '1'9' 'N'o'v'e'm'b'e'r'
-'O'r'g'a'n'i'z'a't'i'o'n' '('c')' '2'0' 'N'o'v'e'm'b'e'r' '('d')' '2'1' 'N'o'v'e'm'b'e'r'
-'('d')' 't'o' 'h'a'r'm'o'n'i'z'e' 'i'n't'e'l'l'e'c't'u'a'l' 'p'r'o'p'e'r't'y' '2'3'.' 'S'o'v'e'r'e'i'g'n't'y' 'i'n' 'I'n'd'i'a' 'm'e'a'n's'
-'r'i'g'h't's' 'i'n't'e'r'n'a't'i'o'n'a'l'l'y' '('a')' 'A'p'e'x' 'A'u't'h'o'r'i't'y' 'o'r' 'A'l't'e'r'n'a't'i'v'e' 'A'u't'h'o'r'-'
-'1'4'.' 'W'h'e'n' 't'h'e' 't'w'o' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'-' 'i't'y'
-'d'i'a' 'd'i'f'f'e'r' 'r'e'g'a'r'd'i'n'g' 'a' 'B'i'l'l',' 't'h'e'n' 't'h'e' 'd'e'a'd'-' '('b')' 'L'o'w'e'r' 'A'u't'h'o'r'i't'y' 'o'r' 'I'm'm'e'd'i'a't'e' 'A'u'-'
-'l'o'c'k' 'i's' 's'o'l'v'e'd' 'b'y' 't'h'o'r'i't'y'
-'('a')' 'a' 'j'o'i'n't' 'o'f' 's'i't't'i'n'g' 'o'f' 't'h'e' 't'w'o' 'H'o'u's'e's' '('c')' 'A'u't'h'o'r'i't'y' 'o'f' 'C'o'u'r't'
-'('b')' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('d')' 'A'u't'h'o'r'i't'y' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' '2'4'.' 'T'h'e'r'e' 'a'r'e' 't'w'o' 'c'l'a's's'e's' 'o'f' 'A'd'v'o'c'a't'e's' 'i'n' 'I'n'-'
-'('d')' 'S'u'b'j'e'c't's' 'C'o'm'm'i't't'e'e' 'd'i'a'
-'1'5'.' 'I'n' 't'h'e' 'F'e'd'e'r'a't'i'o'n' 'e's't'a'b'l'i's'h'e'd' 'b'y' 't'h'e' 'G'o'v'-' '('a')' 'B'a'r'r'i's't'e'r's' 'a'n'd' 'S'o'l'i'c'i't'o'r's'
-'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a' 'A'c't' 'o'f' '1'9'3'5',' 'r'e's'i'd'u'a'r'y' '('b')' 'A'd'v'o'c'a't'e's' 'a'n'd' 'S'e'n'i'o'r' 'A'd'v'o'c'a't'e's'
-'p'o'w'e'r's' 'w'e'r'e' 'g'i'v'e'n' 't'o' '('c')' 'L'a'w'y'e'r's' 'a'n'd' 'A't't'o'r'n'e'y's'
-'('a')' 'F'e'd'e'r'a'l' 'L'e'g'i's'l'a't'u'r'e' '('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'A'd'v'o'c'a't'e's' 'a'n'd' 'H'i'g'h'
-'('b')' 'P'r'o'v'i'n'c'i'a'l' 'L'e'g'i's'l'a't'u'r'e'
-'C'o'u'r't' 'A'd'v'o'c'a't'e's'
-'('c')' 'G'o'v'e'r'n'o'r' 'G'e'n'e'r'a'l'
-'2'5'.' 'W'h'o' 'i's' 't'h'e' 'p'e'r's'o'n'a'l'i't'y' 't'o' 'H'e'a'd' 'U'N'E'S'C'O'
-'('d')' 'P'r'o'v'i'n'c'i'a'l' 'G'o'v'e'r'n'o'r's'
-'f'o'r' 'f'i' 'r's't' 't'i'm'e' 'i'n' 'h'i's't'o'r'y'?'
-'1'6'.' 'T'h'e' 'f'i' 'r's't' 'M'o'b'i'l'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a' 'w'a's'
-'('a')' 'M's' 'I'r'i'n'a' 'B'o'k'o'v'a'
-'l'a'u'n'c'h'e'd' 'i'n'
-'('b')' 'M's' 'F'a't'i'a'm' 'B'i'b'i'
-'('a')' 'H'a'r'y'a'n'a' '('b')' 'R'a'j'a's't'h'a'n'
-'('c')' 'M's' 'A'n'j'a'l'i' 'R'o'y'
-'('c')' 'G'u'j'a'r'a't' '('d')' 'M'a'd'h'y'a' 'P'r'a'd'e's'h'
-'('d')' 'M's' 'L'e'e'l'a' 'J'e't'h'a'm'a'l'a'n'i'
-'1'7'.' 'W'h'o' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'C'h'a'i'r'p'e'r's'o'n'
-'2'6'.' '‘'U'l't'r'a' 'V'i'r'e's'’' 'i's' 'a' 't'e'r'm' 'u's'e'd' 'f'o'r'
-'o'f' 't'h'e' 'N'a't'i'o'n'a'l' 'C'o'm'm'i's's'i'o'n' 'f'o'r' 't'h'e' 'P'r'o'-'
-'('a')' 'A' 'd'o'c'u'm'e'n't' 'c'o'r'r'u'p't'e'd' 'b'y' 'v'i'r'u's'
-'t'e'c't'i'o'n' 'o'f' 'C'h'i'l'd' 'R'i'g'h't's' '('N'C'P'C'R')'?'
-'('b')' 'A'n' 'a'c't' 'b'e'y'o'n'd' 't'h'e' 'a'u't'h'o'r'i't'y' 'o'f' 'a' 'p'e'r'-'
-'('a')' 'S'h'i'e'l'a' 'D'i'x'i't'
-'s'o'n'
-'('b')' 'S'a'v'i't'r'i' 'S'i'n'h'a'
-'('c')' 'A'n' 'a'c't' 'a'u't'h'o'r'i'z'e'd' 'b'y' 'l'a'w'
-'('c')' 'S'h'a'n't'a' 'S'i'n'h'a'
-'('d')' 'A'n' 'i'l'l'e'g'a'l' 'a'c't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'5'1'
-'2'7'.' 'C'a'b'i'n'e't' 'i'n'c'l'u'd'e's' '3'5'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'-'
-'1'.' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r's' 'm'e'n't' 'o'f' 'I'n'd'i'a'
-'2'.' 'M'i'n'i's't'e'r's' 'o'f' 'S't'a't'e' '('a')' 'e'n'j'o'y's' 'r'i'g'h't' 't'o' 'v'o't'e' 'l'i'k'e' 'o't'h'e'r' 'm'e'm'-'
-'3'.' 'D'e'p'u't'y' 'M'i'n'i's't'e'r's' 'b'e'r's'
-'('a')' '1',' '2' 'a'n'd' '3' '('b')' '1' 'a'n'd' '2' '('b')' 'h'a's' 'r'i'g'h't' 't'o' 'v'o't'e' 'i'n' 'c'a's'e' 'o'f' 'a' 't'i'e'
-'('c')' '1' 'a'n'd' '3' '('d')' '1' 'o'n'l'y' '('c')' 'c'a'n' 'v'o't'e' 'o'n'l'y' 'i'n' 'c'a's'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n'a'l'
-'2'8'.' 'I'n'd'i'a' 'i's' 'a' 'R'e'p'u'b'l'i'c'.' 'I't' 'm'e'a'n's':' 'a'm'e'n'd'm'e'n't'
-'('a')' 'I'n'd'i'a' 'i's' 'a' 'U'n'i'o'n' 'o'f' 'S't'a't'e's' '('d')' 'd'o'e's' 'n'o't' 'e'n'j'o'y' 'a'n'y' 'v'o't'e'
-'('b')' 'T'h'e' 'H'e'a'd' 'o'f' 't'h'e' 'S't'a't'e' 'i's' 'n'o't' 'h'e'r'e'd'i'-' '3'6'.' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's' 'd'o' 'n'o't' 'e'n'j'o'y' 'a'n'y':'
-'t'a'r'y' '('a')' 'L'e'g'a'l' 's'a'n'c't'i'o'n'
-'('c')' 'I'n'd'i'a' 'h'a's' 'P'a'r'l'i'a'm'e'n't'a'r'y' 's'y's't'e'm' 'o'f' '('b')' 'M'o'r'a'l' 's'a'n'c't'i'o'n'
-'g'o'v'e'r'n'm'e'n't' '('c')' 'P'o'l'i't'i'c'a'l' 's'a'n'c't'i'o'n'
-'('d')' 'P'e'o'p'l'e' 'h'a'v'e' 'f'i' 'n'a'l' 'a'u't'h'o'r'i't'y' 'i'n' 'a'l'l' 't'h'e' '('d')' 'S'o'c'i'a'l' 's'a'n'c't'i'o'n'
-'m'a't't'e'r's' '3'7'.' 'T'h'e' 'w'o'r'd's' '“'S'a't'y'a'm'e'v'a' 'J'a'y'a't'e'”',' 'i'n's'c'r'i'b'e'd'
-'2'9'.' 'T'h'e' 'G'o'v'e'r'n'o'r' 'd'o'e's' 'a'p'p'o'i'n't' 't'h'e' 'b'e'l'o'w' 't'h'e' 'N'a't'i'o'n'a'l' 'E'm'b'l'e'm',' 'a'r'e' 't'a'k'e'n'
-'1'.' 'J'u'd'g'e's' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'f'r'o'm'
-'('a')' 'M'u'n'd'a'k'a' 'U'p'a'n'i's'h'a'd'
-'2'.' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'('b')' 'J'a't'a'k'a'
-'3'.' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'S't'a't'e' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e'
-'('c')' 'P'u'r'a'n'a's'
-'C'o'm'm'i's's'i'o'n'
-'('d')' 'M'a'h'a'b'h'a'r'a't'a'
-'4'.' 'A'd'v'o'c'a't'e'-'G'e'n'e'r'a'l' 'o'f' 't'h'e' 'S't'a't'e'
-'3'8'.' 'I'n' 't'h'e' 'I'n'd'i'a'n' 'p'o'l'i't'y',' 'u'l't'i'm'a't'e' 's'o'v'e'r'e'i'g'n't'y'
-'('a')' '1',' '2',' '3',' '4' '('b')' '2',' '3',' '4' 'o'n'l'y'
-'r'e's't's' 'w'i't'h'
-'('c')' '1',' '2',' '4' 'o'n'l'y' '('d')' '2',' '4' 'o'n'l'y'
-'('a')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'3'0'.' 'T'h'e' 'T'e'r'm' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'm'e'm'b'e'r's' 'w'a's'
-'('b')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'f'i' 'x'e'd' 'b'y' 't'h'e'
-'('c')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('a')' 'P'a'r'l'i'a'm'e'n't' '('b')' 'C'a'b'i'n'e't'
-'('d')' 't'h'e' 'P'e'o'p'l'e'
-'('c')' 'P'r'e's'i'd'e'n't' '('d')' 'C'o'n's't'i't'u't'i'o'n'
-'3'9'.' 'A' 'M'o'n'e'y' 'B'i'l'l' 'c'a'n' 'o'r'i'g'i'n'a't'e' 'i'n' 't'h'e' 'S't'a't'e'
-'3'1'.' 'A' 'H'i'g'h' 'C'o'u'r't' 'J'u'd'g'e' 'i'n' 'I'n'd'i'a' 'i's' 'r'e'm'o'v'e'd'
-'L'e'g'i's'l'a't'u'r'e' 'o'n'l'y' 'w'i't'h' 't'h'e' 'p'r'i'o'r' 'c'o'n's'e'n't' 'o'f'
-'b'y'
-'t'h'e'
-'('a')' 't'h'e' 'P'r'e's'i'd'e'n't'’'s' 'O'r'd'e'r'
-'I'.' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'('b')' 'b'o't'h' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'I'I'.' 'P'r'e's'i'd'e'n't'
-'('c')' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'I'I'I'.' 'G'o'v'e'r'n'o'r'
-'('d')' 'P'r'e's'i'd'e'n't'’'s' 'O'r'd'e'r',' 'a'f't'e'r' 'b'o't'h' 't'h'e'
-'I'V'.' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'p'a's's' 't'h'e' 'i'm'-'
-'('a')' 'I' '('b')' 'I' 'a'n'd' 'I'I'I'
-'p'e'a'c'h'm'e'n't' 'r'e's'o'l'u't'i'o'n'
-'('c')' 'I'I' '('d')' 'I'I'I'
-'3'2'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'a's' 't'h'e' 'C'h'a'i'r'-'
-'4'0'.' 'W'h'o' 'c'o'n'd'u'c't's' 't'h'e' 'S't'a't'e' 'a's's'e'm'b'l'y' 'e'l'e'c'-'
-'m'a'n' 'o'f' 'C'o'm'm'i's's'i'o'n' 'o'n' 'C'o'r'p'o'r'a't'e' 'G'o'v'e'r'-'
-'t'i'o'n's'?'
-'n'a'n'c'e' 'i'n' 'I'n'd'i'a'?'
-'('a')' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 's't'a't'e' 'c'o'n'c'e'r'n'e'd'
-'('a')' 'J'.' 'R'.' 'V'e'r'm'a'
-'('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('b')' 'K'.' 'C'.' 'P'a'n't'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h' 'c'o'u'r't' 'c'o'n'-'
-'('c')' 'P'.' 'C'h'i'd'a'm'b'a'r'a'm' 'c'e'r'n'e'd'
-'('d')' 'J'a's'w'a'n't' 'S'i'n'g'h' '('d')' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'3'3'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'F'i'n'a'n'c'i'a'l' '4'1'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'a'p'p'o'i'n't's' 'J'u'd'g'e's' 'o'f'
-'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'?' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'f't'e'r' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h'
-'('a')' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e' '('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('b')' 'E's't'i'm'a't'e's' 'C'o'm'm'i't't'e'e' '('b')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'C'o'm'm'i't't'e'e' 'o'n' 'P'u'b'l'i'c' 'U'n'd'e'r't'a'k'i'n'g's' '('c')' 'L'a'w' 'M'i'n'i's't'e'r' 'i'n' 't'h'e' 'U'n'i'o'n' 'C'a'b'i'n'e't'
-'('d')' 'C'o'm'm'i't't'e'e' 'o'n' 'P'r'i'v'a't'e' 'M'e'm'b'e'r's'’' 'B'i'l'l's' '('d')' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't's'
-'a'n'd' 'R'e's'o'l'u't'i'o'n's' '4'2'.' 'W'h'i'c'h' 'P'a'r't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'3'4'.' 'W'h'o' 'i's' 'c'o'n's'i'd'e'r'e'd' 't'o' 'b'e' 't'h'e' 'g'u'a'r'd'i'a'n' 'o'f' 's'e'e'k's' 't'o' 'p'r'o'v'i'd'e' 'e'c'o'n'o'm'i'c' 'j'u's't'i'c'e' 't'o' 't'h'e'
-'t'h'e' 'P'u'b'l'i'c' 'P'u'r's'e' 'i'n' 'I'n'd'i'a'?' 'c'i't'i'z'e'n' 'o'f' 'I'n'd'i'a'?'
-'('a')' 'P'a'r'l'i'a'm'e'n't' '('a')' 'P'r'e'a'm'b'l'e'
-'('b')' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r' 'G'e'n'e'r'a'l' '('b')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'('c')' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e' '('c')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y'
-'('d')' 'P'r'e's'i'd'e'n't' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'
-'4'3'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a'n' 'c'r'e'a't'e' 'a' '5'1'.' 'A'r't'i'c'l'e' '3'4'0' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'
-'n'e'w' 'S't'a't'e' 'i'n' 't'h'e' 'I'n'd'i'a'n' 'U'n'i'o'n'?' 'd'e'a'l's' 'w'i't'h'
-'('a')' 'P'r'e's'i'd'e'n't' '('a')' 'B'a'c'k'w'a'r'd' 'C'l'a's's'e's' 'C'o'm'm'i's's'i'o'n'
-'('b')' 'P'a'r'l'i'a'm'e'n't' '('b')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('c')' 'U'n'i'o'n' 'C'a'b'i'n'e't' '('c')' 'L'a'w' 'C'o'm'm'i's's'i'o'n'
-'('d')' 'a'n'y' 't'w'o' 'o'r' 'm'o'r'e' 'S't'a't'e's' 'c'o'm'b'i'n'e'd' '('d')' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'4'4'.' 'W'h'o' 'a'p'p'o'i'n't's' 't'h'e' 'C'h'i'e'f's' 'o'f' 't'h'e' 'A'r'm'y',' '5'2'.' 'A' 'N'o'n' 'M'o'n'e'y' 'B'i'l'l' 'p'a's's'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'-'
-'N'a'v'y' 'a'n'd' 'A'i'r' 'F'o'r'c'e' 'i'n' 'I'n'd'i'a'?' 'm'e'n't' 'i's' 'r'e't'u'r'n'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 't'o' 'P'a'r'l'i'a'm'e'n't' 'f'o'r' 'r'e'c'o'n's'i'd'e'r'a't'i'o'n'.' 'I't' 'i's'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'p'a's's'e'd' 'o'n'c'e' 'a'g'a'i'n' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'w'i't'h'-'
-'('c')' 'D'e'f'e'n'c'e' 'M'i'n'i's't'e'r' 'o'u't' 'a'n'y' 'c'h'a'n'g'e'.' 'N'o'w'
-'('d')' 'P'a'r'l'i'a'm'e'n't' '('a')' 'P'r'e's'i'd'e'n't' 'c'a'n' 'a'g'a'i'n' 'w'i't'h'h'o'l'd' 'h'i's' 'a's'-'
-'4'5'.' 'F'o'r' 'w'h'a't' 'p'e'r'i'o'd' 'd'o'e's' 't'h'e' 'j'u'd'g'e' 'o'f' 'a' 'H'i'g'h' 's'e'n't'
-'C'o'u'r't' 'i'n' 'I'n'd'i'a' 'h'o'l'd' 'o'f'f'i' 'c'e'?' '('b')' 'B'i'l'l' 'w'i'l'l' 'a'u't'o'm'a't'i'c'a'l'l'y' 'l'a'p's'e'
-'('a')' '6' 'y'e'a'r's' 't'i'l'l' 't'h'e' 'a'g'e' 'o'f' '6'0' 'y'e'a'r's' '('c')' 'B'i'l'l' 'w'i'l'l' 'b'e' 'r'e'f'e'r'r'e'd' 't'o' 't'h'e' 'S'u'p'r'e'm'e'
-'('b')' 't'i'l'l' 't'h'e' 'a'g'e' 'o'f' '6'0' 'y'e'a'r's' 'C'o'u'r't'
-'('c')' 't'i'l'l' 't'h'e' 'a'g'e' 'o'f' '6'2' 'y'e'a'r's' '('d')' 'P'r'e's'i'd'e'n't' 'w'i'l'l' 'g'i'v'e' 'h'i's' 'a's's'e'n't'
-'('d')' 't'i'l'l' 't'h'e' 'a'g'e' 'o'f' '6'5' 'y'e'a'r's' '5'3'.' 'D'e'c'i's'i'o'n' 'r'e'g'a'r'd'i'n'g' 'd'i's'q'u'a'l'i'f'i' 'c'a't'i'o'n' 'o'f'
-'4'6'.' 'P'a'r't' 'V' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'd'e'a'l's' 'w'i't'h' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'o'f'
-'I'.' 'U'n'i'o'n' 'E'x'e'c'u't'i'v'e' 'I'n'd'i'a' 'a'r'e' 't'a'k'e'n' 'b'y'
-'I'I'.' 'P'a'r'l'i'a'm'e'n't' '('a')' 'S'p'e'a'k'e'r'
-'I'I'I'.' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'H'i'g'h' 'C'o'u'r't' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'I'V'.' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r'-'G'e'n'e'r'a'l' '('c')' 'M'i'n'i's't'e'r' 'o'f' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'A'f'f'a'i'r's'
-'('a')' 'I',' 'I'I' 'a'n'd' 'I'I'I' '('b')' 'I',' 'I'I' 'a'n'd' 'I'V' '('d')' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'S'e'c'r'e't'a'r'y'
-'('c')' 'I' 'a'n'd' 'I'I' '('d')' 'I' 'o'n'l'y' '5'4'.' 'T'h'e' 's'a'l'a'r'i'e's' 'a'n'd' 'o't'h'e'r' 'e'm'o'l'u'm'e'n't's' 'o'f' 't'h'e'
-'4'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'e' 'm'a't'c'h'e'd' 'm'e'm'b'e'r's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'i'n' 'I'n'd'i'a' 'a'r'e' 'd'e'c'i'd'-'
-'w'r'o'n'g'l'y'?' 'e'd' 'b'y' 't'h'e'
-'I'.' 'H'a'b'e'a's' 'C'o'r'p'u's'—'l'i't'e'r'a'l'l'y' 'm'e'a'n's' '‘'t'o' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'h'a'v'e' 'a' 'b'o'd'y'’' '('b')' 'P'a'r'l'i'a'm'e'n't' 'S't'a'f'f'
-'I'I'.' 'M'a'n'd'a'm'u's'—'c'o'm'm'a'n'd's' 'a' 'p'e'r's'o'n' 't'o' '('c')' 'P'r'e's'i'd'e'n't'
-'p'e'r'f'o'r'm' 'a' 'p'u'b'l'i'c' 'd'u't'y' '('d')' 'M'i'n'i's't'r'y' 'o'f' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'A'f'f'a'i'r's'
-'I'I'I'.' 'Q'u'o' 'w'a'r'r'a'n't'o'—'i's's'u'e'd' 't'o' 'a' 'l'o'w'e'r' '5'5'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'm'a'k'e's' 'r'e'c'-'
-'c'o'u'r't' 't'o' 's't'o'p' 'p'r'o'c'e'e'd'i'n'g's' 'i'n' 'a' 'c'a's'e' 'o'm'm'e'n'd'a't'i'o'n's' 't'o' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'a's'
-'I'V'.' 'P'r'o'h'i'b'i't'i'o'n'—'i's's'u'e'd' 't'o' 'a' 'l'o'w'e'r' 'c'o'u'r't' 't'o' 't'h'e' 'p'r'i'n'c'i'p'l'e's' 'w'h'i'c'h' 's'h'o'u'l'd' 'g'o'v'e'r'n' 't'h'e'
-'q'u'a's'h'i'n'g' 'a' 'd'e'c'i's'i'o'n' 'o'r' 'o'r'd'e'r' 'g'r'a'n't' 'i'n' 'a'i'd' 'o'f' 't'h'e' 'r'e'v'e'n'u'e's' 'o'f' 't'h'e' 'S't'a't'e's'
-'('a')' 'I' 'a'n'd' 'I'I' '('b')' 'I'I'I' 'o'n'l'y' 'o'u't' 'o'f' 't'h'e' 'C'o'n's'o'l'i'd'a't'e'd' 'F'u'n'd' 'o'f' 'I'n'd'i'a'?'
-'('c')' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' '('d')' 'I'I'I' 'a'n'd' 'I'V' '('a')' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'4'8'.' 'W'h'o' 'a'd'o'p't'e'd' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'o'n' '('b')' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n'
-'t'h'e' '2'6' 'N'o'v'e'm'b'e'r' '1'9'4'9'?' '('c')' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'm'm'i's's'i'o'n'
-'('a')' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' '('d')' 'M'i'n'i's't'r'y' 'o'f' 'F'i'n'a'n'c'e' 'o'f' 'G'o'v'e'r'n'm'e'n't' 'o'f'
-'('b')' 'P'e'o'p'l'e' 'o'f' 'I'n'd'i'a' 'I'n'd'i'a'
-'('c')' 'R'e'p'r'e's'e'n't'a't'i'v'e' 'o'f' 't'h'e' 'p'e'o'p'l'e' 'o'f' 'I'n'd'i'a' '5'6'.' 'W'h'y' 'i's' 't'h'e' 'y'e'a'r' '1'9'5'2' 'i'm'p'o'r't'a'n't' 'i'n' 'I'n'd'i'a'n'
-'i'n' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'H'i's't'o'r'y'?'
-'('d')' 'C'a'b'i'n'e't' '('a')' 'S't'a't'e' 'R'e'o'r'g'a'n'i'z'a't'i'o'n' 'A'c't' 'w'a's' 'p'a's's'e'd'
-'4'9'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'h'a's' 'a'b'o'l'i's'h'e'd' 't'h'e' 'c'h'i'l'd' 'l'a'-' '('b')' 'H'a'r'y'a'n'a' 'S't'a't'e' 'w'a's' 's'p'l'i't'
-'b'o'u'r'?' '('c')' 'F'i'r's't' 'o'f'f'i' 'c'i'a'l' 'c'e'n's'u's' 'i'n' 'I'n'd'i'a' 'w'a's' 'h'e'l'd'
-'('a')' '2'4' '('b')' '2'7' '('d')' 'F'i'r's't' 'g'e'n'e'r'a'l' 'e'l'e'c't'i'o'n's' 't'o' 't'h'e' 'L'o'k' 'S'a'b'-'
-'('c')' '2'9' '('d')' '3'4' 'h'a' 'w'e'r'e' 'h'e'l'd'
-'5'0'.' 'T'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'J'u'd'g'e's' 'c'a'n'n'o't' 'p'r'a'c'-' '5'7'.' 'T'h'e'o'c'r'a'c'y' 'i's'
-'t'i's'e' 'a'n'y'w'h'e'r'e' 'a'f't'e'r' 'r'e't'i'r'e'm'e'n't' '('a')' 'a'n' 'a'u't'h'o'r'i't'a'r'i'a'n' 'r'e'g'i'm'e'
-'('a')' 'A't' 'D'i's't'r'i'c't' 'a'n'd' 'S'e's's'i'o'n' 'C'o'u'r't's' '('b')' 't'h'e' 'a'r't' 'o'f' 's't'e'a'l'i'n'g'
-'('b')' 'A't' 'H'i'g'h' 'C'o'u'r't's' '('c')' 'a' 'r'e'l'i'g'i'o'u's' 's't'a't'e'
-'('c')' 'A't' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('d')' 'a' 's't'a't'e' 'c'r'e'a't'e'd' 'a's' 'a' 'r'e's'u'l't' 'o'f' 'c'o'u'p'
-'('d')' 'A't' 'n'o'w'h'e'r'e' 'd'’'e't'a't'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'5'3'
-'5'8'.' 'A' 'l'a'w'y'e'r' 'a'p'p'o'i'n't'e'd' 'b'y' 'c'o'u'r't' 't'o' 'r'e'p'r'e's'e'n't' 'a' '6'7'.' 'T'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'i's' 'e'l'e'c't'e'd' 'b'y' 'a'n' 'E'l'e'c'-'
-'p'o'o'r' 'l'i't'i'g'a'n't' 'i's' 't'o'r'a'l' 'C'o'l'l'e'g'e' 'c'o'n's'i's't'i'n'g' 'o'f' 'm'e'm'b'e'r's' 'o'f'
-'('a')' 'L'o'k' 'N'y'a'y'a' 'P'r'a'd'a'y'a'k' '('a')' 'b'o't'h' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'('b')' 'A'n'u'c'u's' 'C'u'r'i'a'e' '('b')' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'L'e'g'a'l' 'A'i'd' 'M'a'n' '('c')' 'R'a'j'y'a' 'S'a'b'h'a'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('d')' 'b'o't'h' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 'S't'a't'e'
-'5'9'.' 'S'u'p'r'e'm'e' 'C'o'u'r't'’'s' 'a'd'v'i's'o'r'y' 'j'u'r'i's'd'i'c't'i'o'n' 'i's' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's'
-'p'r'o'v'i'd'e'd' 'u'n'd'e'r' 'A'r't'i'c'l'e'…'.' 'o'f' 't'h'e' 'C'o'n's't'i't'u'-' '6'8'.' 'I'n' 'I'n'd'i'a',' 'p'o'l'i't'i'c'a'l' 'p'a'r't'i'e's' 'a'r'e' 'g'i'v'e'n' 'r'e'c'o'g'-'
-'t'i'o'n' 'n'i't'i'o'n' 'b'y'
-'('a')' '2'2'6' '('b')' '1'4'3' '('a')' 'P'r'e's'i'd'e'n't'
-'('c')' '1'2'4' '('d')' '1'2'3' '('b')' 'L'a'w' 'C'o'm'm'i's's'i'o'n'
-'6'0'.' 'I'n'd'i'r'a' 'S'w'a'h'n'e'y' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'a' 'c'a's'e' '('c')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'p'o'p'u'l'a'r'l'y' 'k'n'o'w'n' 'a's' '('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('a')' 'M'a'n'd'a'l' 'j'u'd'g'm'e'n't' '6'9'.' 'T'h'e' 'P'a'r'l'i'a'm'e'n't' 'c'a'n' 'a'm'e'n'd' 't'h'e' 'C'o'n's't'i't'u'-'
-'('b')' 'A'y'o'd'h'y'a' 'j'u'd'g'm'e'n't' 't'i'o'n' 'b'y' 'w'a'y' 'o'f'
-'('c')' 'S'u'i'c'i'd'a'l' 'j'u'd'g'm'e'n't' '('a')' 'a'd'd'i't'i'o'n' '('b')' 'v'a'r'i'a't'i'o'n'
-'('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'j'u'd'g'm'e'n't' '('c')' 'r'e'p'e'a'l' '('d')' 'A'l'l' 'o'f' 't'h'e's'e'
-'6'1'.' 'J'u'r'i's'd'i'c't'i'o'n' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't' 'i'n' 'I'n'd'i'a' 'c'a'n' '7'0'.' 'T'h'e' 'R'i'g'h't' 't'o' 'P'r'o'p'e'r't'y' 'c'e'a's'e'd' 't'o' 'b'e' 'a' 'f'u'n'-'
-'b'e' 'r'e's't'r'i'c't'e'd' 'o'r' 'e'x't'e'n'd'e'd' 'b'y' 'd'a'm'e'n't'a'l' 'R'i'g'h't' 'f'r'o'm'
-'('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a' '('a')' '1'9'7'5' '('b')' '1'9'7'6'
-'('c')' '1'9'7'8' '('d')' '1'9'7'9'
-'('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'S't'a't'e'
-'7'1'.' 'A'p'p'l'i'c'a't'i'o'n' 't'o' 'a' 'h'i'g'h'e'r' 'c'o'u'r't' 't'o' 'e'x'a'm'i'n'e','
-'('c')' 'P'a'r'l'i'a'm'e'n't'
-'a'g'a'i'n's't' 'a' 'c'a's'e' 'd'e'c'i'd'e'd' 'b'y' 'a' 'l'o'w'e'r' 'c'o'u'r't'
-'('d')' 'P'r'e's'i'd'e'n't'
-'a'n'd' 'p'o's's'i'b'l'y' 'g'i'v'i'n'g' 'a' 'd'i'f'f'e'r'e'n't' 'd'e'c'i's'i'o'n' 'i's'
-'6'2'.' 'C'e'n't'r'a'l' 'G'o'v'e'r'n'm'e'n't' 'i'n' 'I'n'd'i'a' 'c'a'n' 'a's's'i'g'n'
-'c'a'l'l'e'd'
-'a'n'y' 'f'u'n'c't'i'o'n' 't'o' 't'h'e' 'S't'a't'e' 'w'i't'h' 't'h'e' 'c'o'n's'e'n't'
-'('a')' 'p'e't'i't'i'o'n' '('b')' 'w'r'i't' 'p'e't'i't'i'o'n'
-'o'f'
-'('c')' 's'u'i't' '('d')' 'a'p'p'e'a'l'
-'('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'7'2'.' 'U's'u'a'l'l'y' 'l'a'w's' 'a'r'e' 'm'a'd'e' 'b'y' 'L'e'g'i's'l'a't'u'r'e'.'
-'('b')' 'P'a'r'l'i'a'm'e'n't'
-'S'o'm'e't'i'm'e's' 'l'e'g'i's'l'a't'u'r'e' 'g'i'v'e's' 't'h'e' 'p'o'w'e'r' 'o'f'
-'('c')' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'m'a'k'i'n'g' 'o'r'd'e'r's',' 'r'u'l'e's',' 'e't'c'.' 't'o' 't'h'e' 'E'x'e'c'u't'i'v'e'.'
-'('d')' 'P'r'e's'i'd'e'n't'
-'T'h'e's'e' 'o'r'd'e'r's',' 'r'u'l'e's',' 'e't'c'.' 'a'r'e' 'c'a'l'l'e'd' '…'…'…'.'
-'6'3'.' 'T'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'C'r'i'm'i'n'a'l' 'P'r'o'c'e'd'u'r'e'
-'T'h'e'y' 'a'r'e' 'a'l's'o' 'c'a'l'l'e'd' 's'u'b'o'r'd'i'n'a't'e' 'l'e'g'i's'l'a'-'
-'C'o'd'e',' '1'9'7'3' 'p'r'o'v'i'd'e's' '‘'f'o'r' 'a'r'r'e's't' 'o'f' 'o'f'-'
-'t'i'o'n'
-'f'e'n'd'e'r' 'b'y' 'p'o'l'i'c'e'.' 'W'h'e't'h'e'r' 't'h'e' 'M'a'g'i's't'r'a't'e'
-'('a')' 'E'x'e'c'u't'i'v'e' 'l'a'w's'
-'u'n'd'e'r' 't'h'i's' 'c'o'd'e'
-'('b')' 'S'u'b'-'l'a'w's'
-'('a')' 'c'a'n' 'a'r'r'e's't' 't'h'e' 'o'f'f'e'n'd'e'r'
-'('c')' 'B'y'e'-'l'a'w's'
-'('b')' 'c'a'n'n'o't' 'a'r'r'e's't' 't'h'e' 'o'f'f'e'n'd'e'r'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'c'a'n' 'a'r'r'e's't' 'b'y' 'p'o'l'i'c'e'
-'7'3'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'A'r't'i'c'l'e's' 'o'f'
-'('d')' 'c'a'n' 'a'r'r'e's't',' 'h'i'm's'e'l'f' 'o'r' 'd'i'r'e'c't' 't'h'e' 'p'o'l'i'c'e'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'S't'a't'e's' 't'h'a't' 'G'o'v'e'r'n'o'r'
-'t'o' 'a'r'r'e's't'
-'o'f' 'a' 'S't'a't'e' 'a'c't's' 'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' 'C'o'u'n'c'i'l' 'o'f'
-'6'4'.' 'W'i't'h'i'n' 't'h'e' 'm'e'a'n'i'n'g' 'o'f' 'C'o'p'y'r'i'g'h't' 'A'c't','
-'M'i'n'i's't'e'r's' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' 'S't'a't'e'
-'1'9'5'7',' 't'h'e' 'p'e'r'f'o'r'm'e'r'’'s' 'r'i'g'h't' 's'h'a'l'l' 's'u'b's'i's't'
-'('a')' 'A'r't'i'c'l'e' '1'6'3' '('b')' 'A'r't'i'c'l'e' '1'6'7'
-'u'n't'i'l'
-'('c')' 'A'r't'i'c'l'e' '1'7'0' '('d')' 'A'r't'i'c'l'e' '1'7'1'
-'('a')' '6'0' 'y'e'a'r's' '('b')' '5'5' 'y'e'a'r's'
-'7'4'.' 'W'h'a't' 'i's' 't'h'e' 't'i'm'e' 'p'e'r'i'o'd' 'f'o'r' 'w'h'i'c'h' 'e'm'e'r'-'
-'('c')' '5'0' 'y'e'a'r's' '('d')' '7'0' 'y'e'a'r's'
-'g'e'n'c'y' 'i's' 'e'x't'e'n'd'e'd' 'o'n'c'e' 'a'p'p'r'o'v'e'd' 'b'y' 'b'o't'h'
-'6'5'.' 'T'h'e' 'C'o'm'm'i't't'e'e' 'o'n' 'P'r'e'v'e'n't'i'o'n' 'o'f' 'C'o'r'r'u'p'-'
-'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't'?'
-'t'i'o'n' 'i'n' 'I'n'd'i'a' 'w'a's' 'h'e'a'd'e'd' 'b'y'
-'('a')' '6' 'm'o'n't'h's' '('b')' '7' 'm'o'n't'h's'
-'('a')' 'K'.' 'S'a'n't'h'a'n'a'm' '('b')' 'M'.' 'S'.' 'P'h'u'k'a'n'
-'('c')' '9' 'm'o'n't'h's' '('d')' 'o'n'e' 'y'e'a'r'
-'('c')' 'A'.' 'S'.' 'A'n'a'n'd' '('d')' 'J'.' 'S'.' 'V'e'r'm'a'
-'7'5'.' 'N'a'm'e' 't'h'e' 'p'l'a'c'e' 'i'n' 'B'o'm'b'a'y' 'n'o'w' 'M'u'm'b'a'i'
-'6'6'.' 'T'h'e' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'd'o'e's' 'n'o't' 'c'o'n'-'
-'w'h'e'r'e' 't'h'e' 'h'i's't'o'r'i'c' 'q'u'i't' 'I'n'd'i'a' 'M'o'v'e'm'e'n't'
-'d'u'c't' 't'h'e' 'e'l'e'c't'i'o'n's' 't'o' 't'h'e'
-'d'e'c'l'a'r'a't'i'o'n' 'w'a's' 'm'a'd'e' 'i'n' '1'9'4'2'?'
-'('a')' 'L'o'k' 'S'a'b'h'a' '('a')' 'G'o'w'a'l'i'a' 'T'a'n'k' 'M'a'i'd'a'n'
-'('b')' 'R'a'j'y'a' 'S'a'b'h'a' '('b')' 'S'h'i'r'a'j' 'M'a'i'd'a'n'
-'('c')' 'A' 'L'o'c'a'l' 'b'o'd'i'e's' '('c')' 'A'n'n'i'e' 'B'e's'a'n't' 'R'o'a'd'
-'('d')' 'P'r'e's'i'd'e'n't'’'s' 'e'l'e'c't'i'o'n's' '('d')' 'J'u'h'u' 'B'e'a'c'h'
-'
-'7'6'.' 'T'h'e' 'c'o'r'r'e'c't' 'n'o'm'e'n'c'l'a't'u'r'e' 'o'f' 'I'n'd'i'a' 'a'c'c'o'r'd'-' '8'3'.' 'W'h'i'c'h' 'c'o'u'n't'r'y' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e'
-'i'n'g' 't'o' 't'h'e' 'P'r'e'a'm'b'l'e' 'i's' 'f'i' 'r's't' 'c'o'u'n't'r'y' 'i'n' 'E'u'r'o'p'e' 't'o' 'g'u'a'r'a'n't'e'e' 'a'n'i'-'
-'('a')' 'S'o'v'e'r'e'i'g'n',' 'S'e'c'u'l'a'r',' 'D'e'm'o'c'r'a't'i'c' 'R'e'-' 'm'a'l' 'r'i'g'h't's' 'i'n' 'i't's' 'C'o'n's't'i't'u't'i'o'n'
-'p'u'b'l'i'c' '('a')' 'G'e'r'm'a'n'y' '('b')' 'S'w'i't'z'e'r'l'a'n'd'
-'('b')' 'S'o'v'e'r'e'i'g'n',' 'D'e'm'o'c'r'a't'i'c' 'r'e'p'u'b'l'i'c' '('c')' 'B'e'l'g'i'u'm' '('d')' 'B'e'l'g'r'a'd'e'
-'('c')' 'S'o'v'e'r'e'i'g'n',' 'S'o'c'i'a'l'i's't',' 'S'e'c'u'l'a'r',' 'D'e'm'o'-' '8'4'.' 'I'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a',' 't'h'e' 'n'a'm'e' 'o'f'
-'c'r'a't'i'c' 'R'e'p'u'b'l'i'c' 'c'o'u'n't'r'y' 'i's' '_'_'_'_'_'_'
-'('d')' 'S'o'v'e'r'e'i'g'n',' 'S'e'c'u'l'a'r',' 'S'o'c'i'a'l'i's't' 'D'e'm'o'c'-' '('a')' 'B'h'a'r'a't' '('b')' 'I'n'd'i'a'
-'r'a'c'y' '('c')' 'H'i'n'd'u's't'a'n' '('d')' 'A'r'y'a'v'a'r't'
-'7'7'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '8'5'.' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'i'n' 'I'n'd'i'a' 'i's'
-'('a')' 'd'o'e's' 'n'o't' 'p'r'o'v'i'd'e' 't'h'e' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' '('a')' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('b')' 'p'r'o'v'i'd'e's' 'f'o'r' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'o'n' 'U'S'A' '('b')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'P'e'o'p'l'e'
-'p'a't't'e'r'n' '('c')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'p'r'o'v'i'd'e's' 'f'o'r' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'w'i't'h' '('d')' 'e'l'e'c't'e'd' 'b'y' 'b'o't'h' 't'h'e' 'H'o'u's'e's' 'o'f' 't'h'e' 'P'a'r'-'
-'l'i'm'i't'e'd' 's'c'o'p'e' 'l'i'a'm'e'n't'
-'('d')' 'p'r'o'v'i'd'e's' 'f'o'r' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'a's' 'a'n' 'i'n'-' '8'6'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'n'o'n'-'m'e'm'b'e'r's' 'o'f'
-'t'e'g'r'a'l' 'p'a'r't' 'o'f' 'i't' 'P'a'r'l'i'a'm'e'n't' 'h'a's' 't'h'e' 'r'i'g'h't' 't'o' 'a'd'd'r'e's's' 'i't'?'
-'7'8'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'D'i'r'e'c't'i'v'e' '('a')' 'S'o'l'i'c'i't'o'r'-'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a'
-'P'r'i'n'c'i'p'l'e' 'o'f' 't'h'e' 'S't'a't'e' 'P'o'l'i'c'y'?' '('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('a')' 'T'o' 'r'a'i's'e' 't'h'e' 'l'e'v'e'l' 'o'f' 'n'u't'r'i't'i'o'n' '('c')' 'A't't'o'r'n'e'y' 'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a'
-'('b')' 'T'o' 'd'e'v'e'l'o'p' 't'h'e' 's'c'i'e'n't'i'f'i' 'c' 't'e'm'p'e'r' '('d')' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r'
-'('c')' 'T'o' 'p'r'o'm'o't'e' 'e'c'o'n'o'm'i'c' 'i'n't'e'r'e's't's' 'o'f' '('e')' 'C'h'a'i'r'm'a'n',' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'w'e'a'k'e'r' 's'e'c't'i'o'n's' '8'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e's' 'd'o'e's' 'n'o't'
-'('d')' 'T'o' 's'e'p'a'r'a't'e' 't'h'e' 'J'u'd'i'c'i'a'r'y' 'f'r'o'm' 't'h'e' 'E'x'-' 'h'a'v'e' 'a' 'b'i'c'a'm'e'r'a'l' 'l'e'g'i's'l'a't'u'r'e'?'
-'e'c'u't'i'v'e' '('a')' 'B'i'h'a'r' '('b')' 'K'a'r'n'a't'a'k'a'
-'7'9'.' 'C'h'a'p't'e'r' 'I'I'I' 'o'n' 't'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' '('c')' 'R'a'j'a's't'h'a'n' '('d')' 'M'a'h'a'r'a's'h't'r'a'
-'c'o'n't'a'i'n's' 't'w'e'n't'y' 'f'o'u'r' 'a'r't'i'c'l'e's' 'f'r'o'm' '8'8'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a'n' 'b'e' 'a'b'o'l'i's'h'e'd','
-'('a')' 'A'r't'i'c'l'e' '1'2' 't'o' '3'5' 'b'u't' 'n'o't' 'd'i's's'o'l'v'e'd'?'
-'('b')' 'A'r't'i'c'l'e' '1'4' 't'o' '3'7' '('a')' 'R'a'j'y'a' 'S'a'b'h'a'
-'('c')' 'A'r't'i'c'l'e' '1'0' 't'o' '3'3' '('b')' 'M'u'n'i'c'i'p'a'l' 'B'o'd'i'e's'
-'('d')' 'A'r't'i'c'l'e' '1'6' 't'o' '1'9' '('c')' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'C'o'u'n'c'i'l'
-'8'0'.' 'T'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'c'a'n' 'b'e' 'd'i's's'o'l'v'e'd' 'b'y' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'L'o'k' 'S'a'b'h'a' '8'9'.' 'T'h'e' 'd'i's't'r'i'b'u't'i'o'n' 'o'f' 's'e'a't's' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('b')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't' 'a'r'e' 'b'a's'e'd' 'o'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'e'n'-'
-'('c')' 'P'r'e's'i'd'e'n't' 's'u's'?'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '('a')' '1'9'5'1' '('b')' '1'9'6'1'
-'8'1'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e'm'e'n't's' 'i's' 'n'o't' '('c')' '1'9'7'1' '('d')' '1'9'8'1'
-'c'o'r'r'e'c't' 'a'b'o'u't' 't'h'e' 'o'b'j'e'c't'i'v'e's' 'o'f' 't'h'e' 'P'l'a'n'-' '9'0'.' 'T'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a' 'i'n't'r'o'd'u'c'e'd'
-'n'i'n'g' 'i'n' 'I'n'd'i'a'?' 'B'h'a'r'a't' 'R'a't'n'a' 'a'n'd' 'P'a'd'a'm' 'S'h'r'i' 'a'w'a'r'd's' 'u'n'-'
-'('a')' 'T'o' 'r'a'i's'e' 't'h'e' 's't'a'n'd'a'r'd' 'o'f' 'l'i'v'i'n'g' 'i'n' 't'h'e' 'd'e'r'
-'p'e'o'p'l'e' '('a')' 'A'r't'i'c'l'e' '2'5' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('b')' 'T'o' 'o'p'e'n' 'o'u't' 't'o' 't'h'e' 'p'e'o'p'l'e' 'n'e'w' 'o'p'p'o'r'-' '('b')' 'A'r't'i'c'l'e' '1'8' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'t'u'n'i't'i'e's' 'f'o'r' 'a' 'r'i'c'h'e'r' 'a'n'd' 'm'o'r'e' 'v'a'r'i'e'd' '('c')' 'A'r't'i'c'l'e' '1'4' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'l'i'f'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'T'o' 'a't't'a'i'n' 'e'c'o'n'o'm'i'c' 'e'q'u'a'l'i't'y' 'a'n'd' 's'o'c'i'a'l' '9'1'.' '“'P'l'e'b'i's'c'i't'e'”' 'i's' 'a' 'd'e'v'i'c'e' 'f'o'r' 'd'e'm'o'c'r'a'c'y'
-'j'u's't'i'c'e' 'u's'e'd' 'f'o'r'
-'('d')' 'T'o' 'e's't'a'b'l'i's'h' 'p'r'o'g'r'e's's'i'v'e' 's'o'c'i'e't'y' '('a')' 'a's'c'e'r't'a'i'n'i'n'g' 't'h'e' 'v'i'e'w's' 'o'f' 'p'e'o'p'l'e' 'o'n' 'a'
-'8'2'.' 'T'h'e' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' 'p'o'l'i'c'y' 'm'a't't'e'r' 'o'f' 'p'u'b'l'i'c' 'i'm'p'o'r't'a'n'c'e'
-'s'e't' 'u'p' 'b'y' '('b')' 'e'n'a'c't'm'e'n't' 'o'f' 'l'a'w'
-'('a')' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('c')' 'a'p'p'o'i'n't'm'e'n't' 'o'f' 'c'i'v'i'l' 's'e'r'v'a'n't's'
-'('b')' 'j'o'i'n't' 'd'e'c'i's'i'o'n' 'o'f' 't'h'e' 'U'n'i'o'n' 'G'o'v'e'r'n'-' '('d')' 'a'p'p'o'i'n't'm'e'n't' 'o'f' 'j'u'd'g'e's'
-'m'e'n't' 'a'n'd' 'S't'a't'e's' '9'2'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'o'm'e'n' 's'u'c'-'
-'('c')' 'e'x'e'c'u't'i'v'e' 'o'r'd'e'r' 'o'f' 't'h'e' 'U'n'i'o'n' 'G'o'v'e'r'n'-' 'c'e'e'd's' 'M's' 'C'o'n'd'o' 'L'e'e'z'z'a' 'R'i'c'e' 't'o' 'b'e'c'o'm'e'
-'m'e'n't' 't'h'e' 'S'e'c'r'e't'a'r'y' 'f'o'r' 'S't'a't'e' 'o'f' 'U'S'A' 'i'n' 'B'a'r'r'a'c'k'
-'('d')' 'a'n' 'O'r'd'i'n'a'n'c'e' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'O'b'a'm'a' 'G'o'v'e'r'n'm'e'n't'?'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'5'5'
-'('a')' 'M's' 'M'i'c'h'e'l'l'e' '('c')' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 'a'l'l' 'S't'a't'e's'
-'('b')' 'M's' 'H'i'l'l'a'r'y' 'C'l'i'n't'o'n' '('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'M's' 'C'h'e'l's'e'a' '9'7'.' 'A'r't'i'c'l'e' '7'8' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'd'e'a'l's' 'w'i't'h'
-'('d')' 'M's' 'P'a'l'i'n' '('a')' 'E'm'e'r'g'e'n'c'y' 'p'o'w'e'r's' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'
-'9'3'.' 'T'h'e' 'n'a'm'e' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'U'S'A' 'i's' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'’'s' 'd'u't'y' 'r'e'g'a'r'd'i'n'g' 'k'e'e'p'-'
-'('a')' 'H'o'u's'e' 'o'f' 'L'o'r'd's' 'i'n'g' 't'h'e' 'P'r'e's'i'd'e'n't' 'i'n'f'o'r'm'e'd' 'a'b'o'u't' 't'h'e'
-'('b')' 'H'o'u's'e' 'o'f' 'C'o'm'm'o'n's' 'g'o'v'e'r'n'm'e'n't'’'s' 'D'e'c'i's'i'o'n's' 'a'n'd' 'p'o'l'i'c'i'e's'
-'('c')' 'S'e'n'a't'e' '('c')' 'P'r'e's'i'd'e'n't'’'s' 'p'o'w'e'r' 't'o' 's'e'n'd' 'a'd'v'i's'o'r'y'
-'m'e's's'a'g'e's' 't'o' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'W'h'i't'e' 'H'o'u's'e'
-'('d')' 'P'r'e's'i'd'e'n't'’'s' 'p'o'w'e'r' 't'o' 'g'e't' 'i'n'f'o'r'm'a't'i'o'n'
-'9'4'.' 'T'h'e' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'a'
-'f'r'o'm' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's'
-'('a')' 'p'o'l'i't'i'c'a'l' 'b'o'd'y' 'b'e'c'a'u's'e' 'i't' 'd'e'a'l's' 'w'i't'h'
-'9'8'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's'-'
-'e'l'e'c't'i'o'n' 'm'a't't'e'r's'
-'s'i'o'n' 'i'n' 'I'n'd'i'a' 'i's' 't'h'e'
-'('b')' 's't'a't'u't'o'r'y' 'b'o'd'y'
-'('a')' 'M'i'n'i's't'e'r' 'o'f' 'P'l'a'n'n'i'n'g'
-'('c')' 'c'o'n's't'i't'u't'i'o'n'a'l' 'b'o'd'y'
-'('b')' 'F'i'n'a'n'c'e' 'M'i'n'i's't'e'r'
-'('d')' 'p'a'r'l'i'a'm'e'n't'a'r'y' 'b'o'd'y'
-'('c')' 'P'r'e's'i'd'e'n't'
-'9'5'.' 'W'h'i'c'h' 'I'n'd'i'a'n' 'c'a'n'd'i'd'a't'e' 'c'o'n't'e's't'e'd' 't'h'e'
-'('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'e'l'e'c't'i'o'n's' 'f'o'r' 't'h'e' 'p'r'e's't'i'g'i'o'u's' 'p'o's't' 'o'f' 'S'e'c'r'e'-'
-'9'9'.' 'T'h'e' 'm'i'n'i'm'u'm' 'a'g'e' 'r'e'q'u'i'r'e'd' 'f'o'r' 'b'e'c'o'm'i'n'g'
-'t'a'r'y'-'G'e'n'e'r'a'l' 'o'f' 'U'n'i't'e'd' 'N'a't'i'o'n's' 'O'r'g'a'n'i'z'a'-'
-'t'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a' 'i's'
-'t'i'o'n' '('U'N'O')'?'
-'('a')' '2'5' 'y'e'a'r's' '('b')' '3'0' 'y'e'a'r's'
-'('a')' 'S'h'a's'h'i' 'T'h'a'r'o'o'r'
-'('c')' '4'0' 'y'e'a'r's' '('d')' '3'5' 'y'e'a'r's'
-'('b')' 'A'.' 'K'.' 'A'n't'o'n'y' '1'0'0'.' 'L'e'g'a'l'l'y' 's'p'e'a'k'i'n'g' 'w'h'o' 'c'a'n' 'd'e'c'l'a'r'e' 'w'a'r' 'o'r'
-'('c')' 'A's'h'o'k' 'C'h'a'u'h'a'n' 'p'e'a'c'e'?'
-'('d')' 'S'o'n'i'a' 'G'a'n'd'h'i' '('a')' 'D'e'f'e'n'c'e' 'M'i'n'i's't'e'r'
-'9'6'.' 'U'n'd'e'r' 'w'h'o's'e' 'a'd'v'i'c'e' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('b')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'d'e'c'l'a'r'e's' 'E'm'e'r'g'e'n'c'y' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'5'2'?' '('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'('a')' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' '('d')' 'C'h'i'e'f's' 'o'f' 'A'r'm'y',' 'N'a'v'y' 'a'n'd' 'A'i'r' 'F'o'r'c'e'
-'('b')' 'C'a'b'i'n'e't' 't'o'g'e't'h'e'r'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('d')' '2'.' '('d')' '3'.' '('b')' '4'.' '('b')' '5'.' '('b')' '6'.' '('d')' '7'.' '('d')' '8'.' '('a')' '9'.' '('b')' '1'0'.' '('b')'
-'1'1'.' '('d')' '1'2'.' '('d')' '1'3'.' '('c')' '1'4'.' '('a')' '1'5'.' '('a')' '1'6'.' '('a')' '1'7'.' '('c')' '1'8'.' '('a')' '1'9'.' '('b')' '2'0'.' '('a')'
-'2'1'.' '('a')' '2'2'.' '('c')' '2'3'.' '('d')' '2'4'.' '('b')' '2'5'.' '('a')' '2'6'.' '('b')' '2'7'.' '('a')' '2'8'.' '('b')' '2'9'.' '('b')' '3'0'.' '('d')'
-'3'1'.' '('d')' '3'2'.' '('a')' '3'3'.' '('b')' '3'4'.' '('b')' '3'5'.' '('b')' '3'6'.' '('c')' '3'7'.' '('a')' '3'8'.' '('d')' '3'9'.' '('d')' '4'0'.' '('d')'
-'4'1'.' '('a')' '4'2'.' '('c')' '4'3'.' '('b')' '4'4'.' '('c')' '4'5'.' '('c')' '4'6'.' '('d')' '4'7'.' '('d')' '4'8'.' '('c')' '4'9'.' '('a')' '5'0'.' '('d')'
-'5'1'.' '('d')' '5'2'.' '('d')' '5'3'.' '('a')' '5'4'.' '('d')' '5'5'.' '('a')' '5'6'.' '('d')' '5'7'.' '('c')' '5'8'.' '('b')' '5'9'.' '('b')' '6'0'.' '('a')'
-'6'1'.' '('c')' '6'2'.' '('c')' '6'3'.' '('d')' '6'4'.' '('a')' '6'5'.' '('a')' '6'6'.' '('c')' '6'7'.' '('a')' '6'8'.' '('d')' '6'9'.' '('d')' '7'0'.' '('c')'
-'7'1'.' '('d')' '7'2'.' '('c')' '7'3'.' '('d')' '7'4'.' '('d')' '7'5'.' '('b')' '7'6'.' '('c')' '7'7'.' '('d')' '7'8'.' '('b')' '7'9'.' '('a')' '8'0'.' '('d')'
-'8'1'.' '('d')' '8'2'.' '('c')' '8'3'.' '('c')' '8'4'.' '('a')' '8'5'.' '('a')' '8'6'.' '('c')' '8'7'.' '('c')' '8'8'.' '('c')' '8'9'.' '('c')' '9'0'.' '('b')'
-'9'1'.' '('a')' '9'2'.' '('b')' '9'3'.' '('b')' '9'4'.' '('c')' '9'5'.' '('a')' '9'6'.' '('b')' '9'7'.' '('b')' '9'8'.' '('d')' '9'9'.' '('a')' '1'0'0'.' '('b')'
-'
-'P' 'P' '2'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' '“'S'o'v'e'r'e'i'g'n't'y'”' 'i'n' 'I'n'd'i'a' 'm'e'a'n's' '('c')' 'L'a'l' 'B'a'h'a'd'u'r' 'S'h'a's't'r'i'
-'('a')' 'A'p'e'x' 'o'r' 'a'l't'e'r'n'a't'i'v'e' 'A'u't'h'o'r'i't'y' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'L'o'w'e'r' 'A'u't'h'o'r'i't'y' 'o'r' 'I'm'm'e'd'i'a't'e' 'A'u'-' '8'.' 'W'h'o' 'h'e'a'd's' 't'h'e' 'n'e'w' 'C'o'm'm'i's's'i'o'n' 'o'n' 'C'e'n'-'
-'t'h'o'r'i't'y' 't'r'e'–'S't'a't'e' 'r'e'l'a't'i'o'n's' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'g'o'v'-'
-'('c')' 'A'u't'h'o'r'i't'y' 'o'f' 'J'u'd'i'c'i'a'r'y' 'e'r'n'm'e'n't' 'i'n' 'A'p'r'i'l' '2'0'0'7'?'
-'('d')' 'S'u'p'r'e'm'e' 'p'r'e'-'e'm'i'n'e'n'c'e' 'a'n'd' 'i'n'd'e'p'e'n'-' '('a')' 'M'.' 'M'.' 'P'u'n'c'h'h'i'
-'d'e'n't' 'a'u't'h'o'r'i't'y' '('b')' 'M'.' 'V'e'e'r'a'p'p'a' 'M'o'i'l'y'
-'2'.' 'W'h'i'c'h' 'c'l'a's's'e's' 'o'f' 'A'd'v'o'c'a't'e's' 'a'r'e' 'i'n' 'I'n'd'i'a'?' '('c')' 'K'.' 'C'.' 'P'a'n't'
-'('a')' 'B'a'r'r'i's't'e'r's' 'a'n'd' 'S'o'l'i'c'i't'o'r's' '('d')' 'N'.' 'R'.' 'M'a'd'h'a'v' 'M'e'n'o'n'
-'('b')' 'A'd'v'o'c'a't'e's' 'a'n'd' 'S'e'n'i'o'r' 'A'd'v'o'c'a't'e's' '9'.' 'W'h'o' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f'
-'('c')' 'L'a'w'y'e'r's' 'a'n'd' 'A't't'o'r'n'e'y's' 't'h'e' 'T'h'i'r't'e'e'n't'h' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'?'
-'('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'A'd'v'o'c'a't'e's' 'a'n'd' 'H'i'g'h' '('a')' 'K'.' 'C'.' 'P'a'n't'
-'C'o'u'r't' 'A'd'v'o'c'a't'e's' '('b')' 'V'i'j'a'y' 'K'e'l'k'a'r'
-'3'.' 'W'h'o' 'i's' 'p'r'e's'e'n't' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'?' '('c')' 'C'.' 'R'a'n'g'a'r'a'j'a'n'
-'('a')' 'J'u's't'i'c'e' 'R'.' 'C'.' 'L'a'h'o't'i' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'J'u's't'i'c'e' 'K'.' 'G'.' 'B'a'l'a'k'r'i's'h'n'a'n' '1'0'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'h'i'g'h'-'
-'e's't' 'b'o'd'y' 'c'o'n'c'e'r'n'e'd' 'w'i't'h' 't'h'e' 'a'p'p'r'o'v'a'l' 'o'f'
-'('c')' 'J'u's't'i'c'e' 'Y'.' 'K'.' 'S'a'b'h'a'r'w'a'l'
-'c'o'u'n't'r'y'’'s' 'F'i'v'e' 'Y'e'a'r' 'P'l'a'n's'?'
-'('d')' 'J'u's't'i'c'e' 'K'a'p'a'd'i'a'
-'('a')' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n'
-'4'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'p'r'o'v'i'd'e's' 'f'o'r'
-'('b')' 'U'n'i'o'n' 'C'a'b'i'n'e't'
-'('a')' 'R'i'g'h't' 't'o' 'l'i'f'e'
-'('c')' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l'
-'('b')' 'R'i'g'h't' 't'o' 'w'o'r'k'
-'('d')' 'T'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'B'o't'h' 'r'i'g'h't' 't'o' 'w'o'r'k' 'a'n'd' 'r'i'g'h't' 't'o' 'l'i'f'e'
-'1'1'.' 'T'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a' 'h'a's' 'd'e'c'l'a'r'e'd'
-'('d')' 'N'e'i't'h'e'r' 'r'i'g'h't' 't'o' 'l'i'f'e' 'n'o'r' 'r'i'g'h't' 't'o' 'w'o'r'k'
-'f'o'l'l'o'w'i'n'g' 's'e'r'v'i'c'e's' 't'o' 'c'o'm'e' 'u'n'd'e'r' 't'h'e' 'C'o'n'-'
-'5'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'o'f'f'i' 'c'i'a'l's' 'i'n' 'I'n'-'
-'s'u'm'e'r' 'P'r'o't'e'c't'i'o'n' 'A'c't',' '1'9'8'6' 'r'e'c'e'n't'l'y'
-'d'i'a' 'a'p'p'o'i'n't's' 'R'e'g'i'o'n'a'l' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's'-'
-'('a')' 'G'o'v'e'r'n'm'e'n't' 'M'e'd'i'c'a'l' 'H'o's'p'i't'a'l's'
-'s'i'o'n'e'r'
-'('b')' 'E'm'p'l'o'y'e'e'’'s' 'P'r'o'v'i'd'e'n't' 'F'u'n'd'
-'('a')' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h' 'E'l'e'c'-'
-'('c')' 'G'o'v'e'r'n'm'e'n't' 'C'o'l'l'e'g'e's'
-'t'i'o'n' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a'
-'('d')' 'P'r'o'c'u'r'i'n'g' 'B'a'n'k' 'L'o'a'n'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'1'2'.' 'T'h'e' 't'o't'a'l' 'n'u'm'b'e'r' 'o'f' 'M'i'n'i's't'e'r's' 'i'n'c'l'u'd'i'n'g'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'o'f' 'c'o'n'c'e'r'n'e'd'
-'t'h'e' 'C'h'i'e'f' 'M'i'n'i's't'e'r',' 'i'n' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'-'
-'S't'a't'e'
-'i's't'e'r's' 'i'n' 'a' 'S't'a't'e' 'i'n' 'I'n'd'i'a' 's'h'a'l'l' 'n'o't' 'e'x'c'e'e'd'
-'('d')' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' 'S't'a't'e' 'i'n'
-'('a')' '1'5' 'p'e'r' 'c'e'n't' 'o'f' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 'L'e'g'i's'-'
-'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h' 't'h'e' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'l'a't'i'v'e' 'A's's'e'm'b'l'y'
-'6'.' 'W'h'o' 'w'a's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'f'i' 'r's't' 'B'a'c'k'-'
-'('b')' '1'2' 'p'e'r' 'c'e'n't' 'o'f' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 'L'e'g'i's'-'
-'w'a'r'd' 'C'l'a's's' 'C'o'm'm'i't't'e'e'?'
-'l'a't'i'v'e' 'A's's'e'm'b'l'y'
-'('a')' 'D'.' 'P'.' 'M'a'n'd'a'l'
-'('c')' 'p'e'r' 'c'e'n't' 'o'f' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 'L'e'g'i's'l'a'-'
-'('b')' 'K'.' 'R'.' 'N'a'r'a'y'a'n'a'n'
-'t'i'v'e' 'A's's'e'm'b'l'y'
-'('c')' 'K'a'k'a' 'K'a'l'e'l'k'a'r'
-'('d')' '9'3'.'3'3' 'p'e'r' 'c'e'n't' 'o'f' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'y'
-'7'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'a's' 'm'e'm'b'e'r' '1'3'.' 'I'n' 'I'n'd'i'a' 'a'n' 'e'l'e'c't'i'o'n' 'c'a'n'd'i'd'a't'e' 'h'a's' 't'o' 'e'x'-'
-'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'a'p'p'o'i'n't'm'e'n't' 'p'r'e's's' 'i'n' 'h'i's' 'n'o'm'i'n'a't'i'o'n' 'p'a'p'e'r' 'a'b'o'u't' 'h'i's'
-'a's' 'P'r'i'm'e' 'M'i'n'i's't'e'r'?' '('a')' 'm'o'v'a'b'l'e' 'a'n'd' 'i'm'm'o'v'a'b'l'e' 'a's's'e't's' 'a'n'd'
-'('a')' 'P'.' 'V'.' 'N'a'r's'i'm'h'a' 'R'a'o' 'l'i'a'b'i'l'i't'i'e's' 't'o' 'g'o'v'e'r'n'm'e'n't' 'a'n'd' 'p'u'b'l'i'c'
-'('b')' 'C'h'a'r'a'n' 'S'i'n'g'h' 'f'i' 'n'a'n'c'i'a'l' 'i'n's't'i't'u't'i'o'n's'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'5'7'
-'('b')' 'a'b'o'u't' 'h'i's' 'l'i'a'b'i'l'i't'y' 'o'n'l'y' '2'4'.' 'I'n' 'w'h'i'c'h' 'f'a'm'o'u's' 'c'a's'e',' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('c')' 'a'b'o'u't' 'h'i's' 'a's's'e't's' 'o'n'l'y' 'o'f' 'I'n'd'i'a' 's'a'i'd',' '“'t'h'e' 'P'r'e's'i'd'e'n't' 'm'e'a'n's',' 'f'o'r'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'a'l'l' 'p'r'a'c't'i'c'a'l' 'p'u'r'p'o's'e's',' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'1'4'.' 'I'n' 'I'n'd'i'a'n' 'c'o'n't'e'x't' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'o'r' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'a'n'd' 'h'i's' 'o'p'i'n'i'o'n','
-'s't'a't'e'm'e'n't's' 'i's' 'c'o'r'r'e'c't'?' 's'a't'i's'f'a'c't'i'o'n' 'o'r' 'd'e'c'i's'i'o'n' 'i's' 'c'o'n's't'i't'u't'i'o'n'-'
-'('a')' 'A'n'y' 'c'i't'i'z'e'n' 'c'a'n' 'b'e' 'a'p'p'o'i'n't'e'd' 'a's' 'P'r'i'm'e' 'a'l'l'y' 's'e'c'u'r'e'd' 'w'h'e'n' 'M'i'n'i's't'e'r' 'a'r'r'i'v'e's' 'a't' 's'u'c'h'
-'M'i'n'i's't'e'r' 'o'p'i'n'i'o'n',' 's'a't'i's'f'a'c't'i'o'n' 'o'r' 'd'e'c'i's'i'o'n'
-'('b')' 'O'n'l'y' 'M'.'P'.' 'c'a'n' 'b'e' 'a'p'p'o'i'n't'e'd' 'a's' 'P'r'i'm'e' '('a')' 'R'a'm' 'J'a'w'a'y'a' 'K'a'p'u'r' 'v's' 'S't'a't'e' 'o'f' 'P'u'n'j'a'b'
-'M'i'n'i's't'e'r' '('b')' 'M'a'n'e'k'a' 'G'a'n'd'h'i' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a'
-'('c')' 'O'n'l'y' 'a' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'c'a'n' '('c')' 'M'.'S'.'M'.' 'S'h'a'r'm'a' 'v's' 'S'r'i' 'K'r'i's'h'n'a'
-'b'e'c'o'm'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'O'n'l'y' 'l'e'a'd'e'r',' 'o'f' 't'h'e' 'm'a'j'o'r'i't'y' 'p'a'r't'y' 'i'n' '2'5'.' 'T'h'e' 'h'i'g'h'e's't' 'p'a'i'd' 'h'e'a'd' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't'
-'L'o'k' 'S'a'b'h'a' 'c'a'n' 'b'e'c'o'm'e' 'P'r'i'm'e' 'M'i'n'i's'-' 'i'n' 't'h'e' 'w'o'r'l'd' 'a't' 'p'r'e's'e'n't' 'i's' 'i'n'
-'t'e'r' '('a')' 'S'i'n'g'a'p'o'r'e' '('b')' 'U'S'A'
-'1'5'.' 'W'h'o' 'a'd'm'i'n'i's't'e'r's' 'o'a't'h' 'o'f' 'o'f'f'i' 'c'e' 't'o' 't'h'e' '('c')' 'R'u's's'i'a' '('d')' 'J'a'p'a'n'
-'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'?'
-'2'6'.' 'T'h'e' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'a'r'e'
-'('a')' 'P'r'e's'i'd'e'n't' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('a')' 'M'o's't'l'y' 'n'o'm'i'n'a't'e'd'
-'('c')' 'S'p'e'a'k'e'r' '('d')' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('b')' 'E'l'e'c't'e'd' 'i'n'd'i'r'e'c't'l'y'
-'1'6'.' 'T'h'e' 'f'i' 'r's't' 'I'n'd'i'a'n' 'B'a'r'r'i's't'e'r'
-'('c')' 'E'l'e'c't'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'L'e'g'-'
-'('a')' 'M'a'd'h'u's'u'd'a'n' 'D'a's'
-'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's' 'a'n'd' 'L'e'g'i's'l'a't'i'v'e'
-'('b')' 'C'h'i't'r'a'n'j'a'n' 'D'a's'
-'C'o'u'n'c'i'l's' 'o'f' 'S't'a't'e's'
-'('c')' 'S'u'b'h'a's'h' 'C'h'a'n'd'r'a' 'B'o's'e'
-'('d')' 'E'l'e'c't'e'd' 'd'i'r'e'c't'l'y' 'a's' 'w'e'l'l' 'a's' 'i'n'd'i'r'e'c't'l'y'
-'('d')' 'J'n'a'n'e'n'd'r'a' 'M'o'h'a'n' 'T'a'g'o'r'e'
-'2'7'.' 'W'h'i'c'h' 'H'o'u's'e' 'i's' 'b'e't't'e'r' 'p'l'a'c'e'd' 'w'i't'h' 'r'e'g'a'r'd'
-'1'7'.' 'C'r'u'e'l't'y' 't'o' 'a' 'w'o'm'e'n' 'b'y' 'h'u's'b'a'n'd' 'o'r' 'r'e'l'a't'i'v'e'
-'t'o' 'c'o'n't'r'o'l' 'o'v'e'r' 't'h'e' 'e'x'e'c'u't'i'v'e'?'
-'o'f' 'h'u's'b'a'n'd' 'i's' 'd'e'f'i' 'n'e'd' 'u'n'd'e'r'
-'('a')' 'R'a'j'y'a' 'S'a'b'h'a'
-'('a')' 'S'e'c't'i'o'n' '4'9'8'A' 'o'f' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'
-'('b')' 'L'o'k' 'S'a'b'h'a'
-'('b')' 'S'e'c't'i'o'n' '4'9'8' 'o'f' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'
-'('c')' 'B'o't'h' 'a'r'e' 'e'q'u'a'l'l'y' 'p'l'a'c'e'd'
-'('c')' 'S'e'c't'i'o'n' '4'9'7' 'o'f' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'
-'('d')' 'I't' 'd'e'p'e'n'd's' 'f'r'o'm' 'w'h'i'c'h' 'H'o'u's'e' 't'h'e'
-'('d')' 'S'e'c't'i'o'n' '4'9'6' 'o'f' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'
-'P'r'i'm'e' 'M'i'n'i's't'e'r' 'c'o'm'e's'
-'1'8'.' 'V'o't'i'n'g' 'r'i'g'h't' 'c'o'm'e's' 'u'n'd'e'r'
-'2'8'.' 'A'n' 'o'r'd'i'n'a'n'c'e' 'c'a'n' 'b'e' 'i's's'u'e'd' 'b'y' 't'h'e' 'P'r'e's'i'-'
-'('a')' 'L'e'g'a'l' 'r'i'g'h't'
-'d'e'n't'
-'('b')' 'F'u'n'd'a'm'e'n't'a'l' 'r'i'g'h't'
-'('a')' 'O'n' 'a'n'y' 's'u'b'j'e'c't'
-'('c')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'r'i'g'h't'
-'('b')' 'A't' 'a'n'y' 't'i'm'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'S'u'b'j'e'c't' 't'o' 't'h'e' 's'a'm'e' 'c'o'n's't'i't'u't'i'o'n'a'l' 'l'i'm'-'
-'1'9'.' '…'…'…'.' 'i's' 'a' 'g'e'n'e'r'a'l' 'p'a'r'd'o'n'
-'i't'a't'i'o'n's' 'a's' 'l'e'g'i's'l'a't'i'o'n' 'b'y' 'P'a'r'l'i'a'm'e'n't'
-'('a')' 'R'e'm'i's's'i'o'n' '('b')' 'R'e'p'r'i'e'v'e'
-'('d')' 'I'n' 'h'i's' 'i'n'd'i'v'i'd'u'a'l' 'j'u'd'g'e'm'e'n't' 'a's' 'w'e'l'l' 'a's'
-'('c')' 'A'm'n'e's't'y' '('d')' 'S'u's'p'e'n's'i'o'n'
-'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' 't'h'e' 'c'o'u'n'c'i'l' 'o'f' 'M'i'n'i's'-'
-'2'0'.' 'T'o' 'b'e't'r'a'y' 'a' 'n'a't'i'o'n' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'a'n'd' 'p'u'n'-'
-'t'e'r's'
-'i's'h'a'b'l'e' 'w'i't'h' 'd'e'a't'h',' 't'h'a't' 'i's'
-'2'9'.' 'A'n' '‘'o'f'f'i' 'c'e' 'o'f' 'p'r'o'f'i' 't'’' 'w'h'i'c'h' 'd'i's'q'u'a'l'i'f'i' 'e's' 'a'
-'('a')' 'S'e'd'i't'i'o'n' '('b')' 'T'r'e'a'c'h'e'r'y'
-'('c')' 'T'r'e'a's'o'n' '('d')' 'A'n't'i'-'n'a't'i'o'n'a'l'i't'y' 'p'e'r's'o'n' 'f'r'o'm' 'b'e'i'n'g' 'a' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'U'n'i'o'n'
-'2'1'.' 'W'h'i'c'h' 'a'm'e'n'd'm'e'n't' 't'o' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'-' 'o'r' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'i'n'c'l'u'd'e's' 'o'f'f'i' 'c'e' 'h'e'l'd'
-'d'i'a' 'r'e'l'a't'e's' 't'o' 'p'o'l'i't'i'c'a'l' 'd'e'f'e'c't'i'o'n'?' 'u'n'd'e'r'
-'('a')' '5'2'n'd' '('b')' '5'3'r'd' 'I'.' 'T'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a'
-'('c')' '7'3'r'd' '('d')' '9'0't'h' 'I'I'.' 'A' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'2'2'.' '‘'A' 'c'e'r't'i'o'r'a'r'i'’' 'm'e'a'n's' 'I'I'I'.' 'A' 'L'o'c'a'l' 'A'u't'h'o'r'i't'y'
-'('a')' 'a't' 'w'i'l'l' '('a')' 'I'I'I' 'o'n'l'y' '('b')' 'I',' 'I'I' 'o'n'l'y'
-'('b')' 'w'i't'h' 's't'r'o'n'g'e'r' 'r'e'a's'o'n' '('c')' 'I',' 'I'I',' 'I'I'I' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('c')' 'o'f' 't'h'e' 's'a'm'e' 'm'i'n'd' '3'0'.' 'T'h'e' 'f'i' 'r's't' 'L'a'w' 'O'f'f'i' 'c'e'r' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't'
-'('d')' 'i'n' 't'h'e' 'm'e'a'n'w'h'i'l'e' 'o'f' 'I'n'd'i'a' 'i's' 't'h'e'
-'2'3'.' 'H'o'w' 'm'a'n'y' 'm'e't'h'o'd's' 'a'r'e' 'p'r'e's'c'r'i'b'e'd' 'f'o'r' 't'h'e' '('a')' 'L'a'w' 'M'i'n'i's't'e'r'
-'a'm'e'n'd'm'e'n't' 'o'f' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'?' '('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('a')' '3' '('b')' '4' '('c')' 'A't't'o'r'n'e'y'-'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a'
-'('c')' '5' '('d')' '7' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'
-'3'1'.' 'C'h'i'l'd' 'm'a'r'r'i'a'g'e' 'i'n' 'I'n'd'i'a' 'm'e'a'n's' '3'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e's'/'u'n'i'o'n' 't'e'r'r'i'-'
-'('a')' 'a' 'm'a'r'r'i'a'g'e' 't'o' 'w'h'i'c'h' 'e'i't'h'e'r' 'o'f' 't'h'e' 'c'o'n'-' 't'o'r'i'e's' 'h'a's' 'n'o' 'l'e'g'i's'l'a't'i'v'e' 'c'o'u'n'c'i'l'?'
-'t'r'a'c't'i'n'g' 'p'a'r't'i'e's' 'i's' 'a' 'c'h'i'l'd' '('a')' 'B'i'h'a'r' '('b')' 'K'a'r'n'a't'a'k'a'
-'('b')' 'a' 'm'a'r'r'i'a'g'e' 't'o' 'w'h'i'c'h' 'b'o't'h' 'o'f' 't'h'e' 'c'o'n'-' '('c')' 'U't't'a'r' 'P'r'a'd'e's'h' '('d')' 'T'r'i'p'u'r'a'
-'t'r'a'c't'i'n'g' 'p'a'r't'i'e's' 'i's' 'a' 'c'h'i'l'd' '3'8'.' 'W'h'i'c'h' 'A'r't'i'c'l'e' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'
-'('c')' 'i's' 'a' 'm'a'r'r'i'a'g'e' 'o'n'l'y' 'w'h'e'n' 'o'n'l'y' 'b'r'i'd'e' 'i's' 'p'r'o'v'i'd'e's' 't'h'e' 'P'a'r'l'i'a'm'e'n't',' 't'h'e' 'p'o'w'e'r' 't'o'
-'a' 'c'h'i'l'd' 'a'm'e'n'd' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'?'
-'('d')' 'i's' 'a' 'm'a'r'r'i'a'g'e' 'o'n'l'y' 'w'h'e'n' 'g'r'o'o'm' 'i's' 'a' '('a')' '3'9'0' '('b')' '3'6'8'
-'c'h'i'l'd' '('c')' '2'6'0' '('d')' '3'4'8'
-'3'2'.' 'F'o'r' 't'h'e' 't'r'i'a'l' 'o'f' 'a' 'c'r'i'm'i'n'a'l' 'c'a's'e' 'i'n' 'I'n'd'i'a' 't'h'e' '3'9'.' 'W'h'a't' 'i's' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'w'i't'h'
-'e'v'i'd'e'n'c'e' 'i's' 't'o' 'b'e' 't'a'k'e'n' 'r'e'g'a'r'd' 't'o' 'M'o'n'e'y' 'B'i'l'l'?'
-'('a')' 'I'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'a'c'c'u's'e'd' 'i'n' 't'h'e' '('a')' 'I't' 'c'a'n' 'w'i't'h'h'o'l'd' 'i't'
-'c'o'u'r't' '('b')' 'I't' 'h'a's' 'n'o' 'p'o'w'e'r'
-'('b')' 'I'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'h'i's' 'a'd'v'o'c'a't'e' 'i'n' 't'h'e' '('c')' 'I't' 'c'a'n' 'a'm'e'n'd' 'i't'
-'c'o'u'r't' '('d')' 'I't' 'c'a'n' 'r'e'j'e'c't' 'i't'
-'('c')' 'I'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'a'c'c'u's'e'd' 'o'r' 'w'h'e'n' 'h'i's' '4'0'.' 'T'h'e' 'p'o's'i't'i'o'n' 'o'f' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'p'e'r's'o'n'a'l' 'a't't'e'n'd'a'n'c'e' 'i's' 'd'i's'p'e'n's'e'd' 'w'i't'h' 'r'e's'e'm'b'l'e's',' 't'o' 'a' 'g'r'e'a't' 'e'x't'e'n't',' 't'h'e' 'p'o's'i't'i'o'n'
-'i'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'h'i's' 'a'd'v'o'c'a't'e' 'o'f' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f'
-'('d')' 'I'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'h'i's' 'g'u'a'r'd'i'a'n' 'o'r' 'n'e'a'r' '('a')' 'I't'a'l'y' '('b')' 'R'u's's'i'a'
-'r'e'l'a't'i'v'e's' '('c')' 'N'e'w' 'Z'e'a'l'a'n'd' '('d')' 'U'S'A'
-'3'3'.' 'S'e'c'u'r'i't'i'e's' 'a'n'd' 'E'x'c'h'a'n'g'e' 'B'o'a'r'd' 'o'f' 'I'n'd'i'a' '4'1'.' 'I'n' 't'h'e' 'c'o'n't'e'x't' 'o'f' 'P'a'n'c'h'a'y'a't'i' 'R'a'j' 'i'n' 'I'n'd'i'a'
-'h'a's' 'b'e'e'n' 'c'o'n's't'i't'u't'e'd' 'b'y' 'w'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'r'u'e' 'a'b'o'u't'
-'('a')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'o'f' 'I'n'd'i'a' 'G'r'a'm' 'S'a'b'h'a'?'
-'('b')' 'S'e'c'u'r'i't'i'e's' 'a'n'd' 'E'x'c'h'a'n'g'e' 'B'o'a'r'd' 'o'f' 'I'n'-' '('a')' 'I't' 'i's' 't'o'p'm'o's't' 't'i'e'r' 'o'f' 't'h'e' 'P'a'n'c'h'a'y'a't'i'
-'d'i'a' 'A'c't' 'R'a'j'
-'('c')' 'S'p'e'c'i'a'l' 'C'o'm'm'i's's'i'o'n' 'b'y' 'C'e'n't'r'a'l' 'G'o'v'-' '('b')' 'I't' 'c'o'n's'i's't's' 'o'f' 'a'l'l' 't'h'e' 'v'o't'e'r's' 'r'e's'i'd'-'
-'e'r'n'm'e'n't' 'i'n'g' 'i'n' 't'h'e' 'j'u'r'i's'd'i'c't'i'o'n' 'o'f' 'a' 'V'i'l'l'a'g'e'
-'('d')' 'B'o'm'b'a'y' 'D'e'v'e'l'o'p'm'e'n't' 'A'c't' 'P'a'n'c'h'a'y'a't'
-'3'4'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'f'u'n'c'-' '('c')' 'I't' 'i's' 't'h'e' 'e'x'c'l'u's'i'v'e' 'b'o'd'y' 'c'o'n's'i's't'i'n'g' 'o'f'
-'t'i'o'n' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'?' 's'e'l'e'c't'e'd' 'r'e'p'r'e's'e'n't'a't'i'v'e's' 'f'r'o'm' 'V'i'l'l'a'g'e'
-'('a')' 'P'r'o'v'i'd'i'n'g' 't'h'e' 'c'a'b'i'n'e't' 'a'n'd' 'h'o'l'd'i'n'g' 'P'a'n'c'h'a'y'a't'
-'t'h'e'm' 'r'e's'p'o'n's'i'b'l'e' '('d')' 'I't' 'c'o'n's'i's't' 'o'f' 'a'l'l' 't'h'e' 'a'd'u'l't' 'm'a'l'e's' 'o'f' 'V'i'l'-'
-'('b')' 'C'r'i't'i'c'i'z'i'n'g' 'g'o'v'e'r'n'm'e'n't' 'p'o'l'i'c'y' 'l'a'g'e' 'P'a'n'c'h'a'y'a't'
-'('c')' 'F'o'r'm'u'l'a't'i'n'g' 'p'o'l'i'c'y' 'f'o'r' 'n'a't'i'o'n'a'l' 'd'e'v'e'l'-' '4'2'.' 'I'n' 'p'e'r'f'o'r'm'a'n'c'e' 'o'f' 'h'i's' 'd'u't'i'e's' 'a'n'd' 'i'n' 't'h'e' 'e'x'-'
-'o'p'm'e'n't' 'e'r'c'i's'e' 'o'f' 'h'i's' 'p'o'w'e'r's',' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'a'
-'('d')' 'S'e'c'u'r'i't'y',' 'r'e'l'e'v'a'n't' 'i'n'f'o'r'm'a't'i'o'n' 'o'n' 'g'o'v'-' 'S't'a't'e' 'i'n' 'I'n'd'i'a'
-'e'r'n'm'e'n't' 'a'c't'i'o'n' '('a')' 'i's' 'a'n's'w'e'r'a'b'l'e' 'i'n' 't'h'e' 'c'o'u'r't' 'o'f' 'l'a'w'
-'3'5'.' 'T'h'e' 'm'e'm'b'e'r' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'm'e'n't' '('b')' 'i's' 'n'o't' 'a'n's'w'e'r'a'b'l'e' 'i'n' 't'h'e' 'c'o'u'r't' 'o'f' 'l'a'w'
-'o'f' 'I'n'd'i'a' 'a'r'e' '('c')' 'c'a'n' 'b'e' 'i'm'p'e'a'c'h'e'd' 'b'y' 't'h'e' 'V'i'd'h'a'n' 'S'a'b'-'
-'('a')' 'e'l'e'c't'e'd' 'i'n'd'i'r'e'c't'l'y' 'h'a'
-'('b')' 'm'o's't'l'y' 'n'o'm'i'n'a't'e'd' '('d')' 'i's' 'a'n's'w'e'r'a'b'l'e' 't'o' 'V'i'd'h'a'n' 'S'a'b'h'a'
-'('c')' 'e'l'e'c't'e'd' 'd'i'r'e'c't'l'y' 'a's' 'w'e'l'l' 'a's' 'i'n'd'i'r'e'c't'l'y' '4'3'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'h'a's' 'p'o'w'e'r' 't'o' 'd'e'-'
-'('d')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'l'e'g'i's'l'a'-' 'c'l'a'r'e' 'e'm'e'r'g'e'n'c'y' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'5'2' 'o'f'
-'t'i'v'e' 'a's's'e'm'b'l'i'e's' 'a'n'd' 'l'e'g'i's'l'a't'i'v'e' 'c'o'u'n'c'i'l' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'o'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'-'
-'o'f' 's't'a't'e's' 'l'o'w'i'n'g' 'g'r'o'u'n'd's'
-'3'6'.' 'W'h'a't' 'i's' 'Z'e'r'o' 'h'o'u'r'?' '1'.' 'W'a'r'
-'('a')' 'I'n't'e'r'v'a'l' 'b'e't'w'e'e'n' 'm'o'r'n'i'n'g' 'a'n'd' 'e'v'e'-' '2'.' 'E'x't'e'r'n'a'l' 'A'g'g'r'e's's'i'o'n'
-'n'i'n'g' 's'e's's'i'o'n' '3'.' 'I'n't'e'r'n'a'l' 'D'i's't'u'r'b'a'n'c'e'
-'('b')' 'W'h'e'n' 'M'o'n'e'y' 'B'i'l'l' 'i's' 'i'n't'r'o'd'u'c'e'd' 'i'n' '4'.' 'A'r'm'e'd' 'R'e'b'e'l'l'i'o'n'
-'L'o'k' 'S'a'b'h'a' 'C'o'd'e's':'
-'('c')' 'W'h'e'n' 'p'r'o'p'o's'a'l's' 'o'f' 'O'p'p'o's'i't'i'o'n' 'a'r'e' '('a')' '1',' '2' 'a'n'd' '3' '('b')' '1',' '2' 'a'n'd' '4'
-'c'o'n's'i'd'e'r'e'd' '('c')' '1',' '3' 'a'n'd' '4' '('d')' '2',' '3' 'a'n'd' '4'
-'('d')' 'W'h'e'n' 'm'a't't'e'r's' 'o'f' 'u't'm'o's't' 'i'm'p'o'r't'a'n'c'e' '4'4'.' 'I'n' 't'h'e' 'F'i'r's't' 'W'a'r' 'o'f' 'I'n'd'i'a'’'s' 'I'n'd'e'p'e'n'd'e'n'c'e','
-'a'r'e' 'r'a'i's'e'd' 'w'h'i'c'h' 'r'e'v'o'l'u't'i'o'n'a'r'y' 'f'i' 'g'u'r'e' 'f'r'o'm' 'B'a'r'e'i'l'l'y'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'5'9'
-'r'e'p'l'a'c'e'd' 't'h'e' 'M'u'g'h'a'l' 'P'r'i'n'c'e',' 'M'i'r'z'a' 'M'u'-' '5'4'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'p'r'o'n'o'u'n'c'e's'
-'g'h'a'l',' 'a's' 'C'o'm'm'a'n'd'e'r'-'i'n'-'C'h'i'e'f' 'o'f' 't'h'e' 'r'a'b'e'l' 't'h'a't',' '“'a'l'l' 'm'e'm'b'e'r's' '('c'o'u'n't'r'i'e's')' 's'h'a'l'l' 's'e't't'l'e'
-'f'o'r'c'e's' 'i'n' 'J'u'l'y' '1'8'5'7'?' 't'h'e'i'r' 'i'n't'e'r'n'a't'i'o'n'a'l' 'd'i's'p'u't'e's' 'b'y' 'p'e'a'c'e'f'u'l'
-'('a')' 'A'b'd'u'l' 'R'a'h'm'a'n' '('b')' 'R'h'e's'u's' 'Z'a'i' 'r'e's'o'l'u't'i'o'n's' 'i'n' 's'u'c'h' 'a' 'm'a'n'n'e'r' 't'h'a't' 't'h'e' 'i'n't'e'r'-'
-'('c')' 'A'k'b'a'r' 'A'l'i' '('d')' 'B'a'k'h't' 'K'h'a'n' 'n'a't'i'o'n'a'l' 'p'e'a'c'e' 'a'n'd' 's'e'c'u'r'i't'y' 'a'n'd' 'j'u's't'i'c'e' 'a'r'e'
-'4'5'.' 'W'h'a't' 'i's' 'm'o's't' 'c'o'm'm'o'n' 'n'a'm'e' 'o'f' 'P'a'r'i's' 'S't'o'c'k' 'n'o't' 'e'n'd'a'n'g'e'r'e'd'”'.'
-'E'x'c'h'a'n'g'e' '('a')' 'A'r't'i'c'l'e' '2' '('3')' 'o'f' 'C'h'a'r't'e'r' 'o'f' 'U'n'i't'e'd' 'N'a'-'
-'('a')' 'D'a'l'a'l' '('b')' 'B'o'u'r's'e' 't'i'o'n's',' '1'9'4'5'
-'('c')' 'P'a'r' 'S't'a'k'e' '('d')' 'B'u'l'l' 'a'n'd' 'B'e'a'r' '('b')' 'A'r't'i'c'l'e' '4' '('5')' 'o'f' 't'h'e' 'C'o'v'e'n'a'n't' 'o'f'
-'4'6'.' 'W'h'a't' 'i's' 't'h'e' 'q'u'a'l'i'f'i' 'c'a't'i'o'n' 'f'o'r' 'o'b't'a'i'n'i'n'g' 'v'o't'-' 'L'e'a'g'u'e' 'o'f' 'N'a't'i'o'n's',' '1'9'1'9'
-'i'n'g' 'r'i'g'h't' 'i'n' 'I'n'd'i'a'?' '('c')' 'A'r't'i'c'l'e' '4' '('2')' 'o'f' 't'h'e' 'S'a'f'e't'y' 'o'f' 'U'n'i't'e'd'
-'('a')' 'C'a's't'e' '('b')' 'P'r'o'p'e'r't'y' 'N'a't'i'o'n's' 'a'n'd' 'A's's'o'c'i'a't'e'd' 'P'e'r's'o'n'n'e'l','
-'('c')' 'A'g'e' '('d')' 'E'd'u'c'a't'i'o'n' '1'9'4'6'
-'4'7'.' '“'E'q'u'a'l' 'p'a'y' 'f'o'r' 'e'q'u'a'l' 'w'o'r'k' 'f'o'r' 'b'o't'h' 'm'a'l'e's' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'a'n'd' 'f'e'm'a'l'e's'”'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'h'a's' 'p'r'o'p'o's'e'd' '5'5'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'A'r't'i'c'l'e's' 'o'f' 't'h'e'
-'t'h'i's'?' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'd'e'a'l's' 'w'i't'h' 'C'a'r'e't'a'k'e'r'
-'('a')' 'A'r't'i'c'l'e' '4'8' '('b')' 'A'r't'i'c'l'e' '3'9' 'G'o'v'e'r'n'm'e'n't'?'
-'('c')' 'A'r't'i'c'l'e' '1'4' '('d')' 'A'r't'i'c'l'e' '2'5' '('a')' '4'2' '('b')' '4'5'
-'4'8'.' 'T'h'e' 'f'i' 'r's't' 'l'e'a'd'e'r' 'o'f' 'o'p'p'o's'i't'i'o'n' 't'o' 'b'e' 'g'i'v'e'n' '('c')' '3'5'0' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'t'h'e' 's't'a't'u's' 'a'n'd' 'r'a'n'k' 'o'f' 'a' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r' '5'6'.' 'F'o'r' 'h'o'w' 'm'a'n'y' 't'i'm'e's' 'F'i'n'a'n'c'i'a'l' 'E'm'e'r'g'e'n'c'y'
-'w'a's' 'h'a's' 'b'e'e'n' 'i'm'p'o's'e'd' 'i'n' 'I'n'd'i'a'?'
-'('a')' 'A'.' 'K'.' 'G'o'p'a'l'a'n' '('b')' 'Y'.' 'B'.' 'C'h'a'v'a'n'
-'('a')' 'N'o't' 'a't' 'a'l'l' '('b')' 'O'n'c'e'
-'('c')' 'C'.' 'M'.' 'S't'e'p'h'e'n' '('d')' 'P'.' 'U'p'e'n'd'r'a'
-'('c')' 'T'w'i'c'e' '('d')' 'T'h'r'i'c'e'
-'4'9'.' 'T'h'e' 't'h'r'e'e' 'l'a'n'g'u'a'g'e's' 'i'n'c'l'u'd'e'd' 'i'n' 't'h'e' 'E'i'g'h't'h'
-'5'7'.' 'T'h'e' 'S'p'e'a'k'e'r' 'i'n' 'L'o'k' 'S'a'b'h'a' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'S'c'h'e'd'u'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'b'y' 't'h'e' '7'1's't'
-'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e'm'o'v'e'd' 'f'r'o'm' 'h'i's' 'o'f'f'i' 'c'e'
-'a'm'e'n'd'm'e'n't' 'a'r'e'
-'b'e'f'o'r'e' 't'h'e' 'e'x'p'i'r'y' 'o'f' 'h'i's' 't'e'r'm'
-'('a')' 'K'o'n'k'a'n'i',' 'E'n'g'l'i's'h',' 'M'a'n'i'p'u'r'i'
-'('a')' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'r'e'c'o'm'm'e'n'd'a'-'
-'('b')' 'K'o'n'k'a'n'i',' 'N'e'p'a'l'i',' 'M'a'i't'h'i'l'i'
-'t'i'o'n' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'K'o'n'k'a'n'i',' 'M'a'n'i'p'u'r'i',' 'N'e'p'a'l'i'
-'('b')' 'i'f' 't'h'e' 'H'o'u's'e' 'p'a's's'e's' 'a' 'r'e's'o'l'u't'i'o'n' 't'o' 't'h'e'
-'('d')' 'M'a'n'i'p'u'r'i',' 'N'e'p'a'l'i',' 'D'o'g'r'i'
-'e'f'f'e'c't'
-'5'0'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'c'o'n'd'i't'i'o'n'
-'('c')' 'i'f' 't'h'e' 'H'o'u's'e' 'a'n'd' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 's'o'
-'f'o'r' 'b'e'c'o'm'i'n'g' 'a' 'c'i't'i'z'e'n' 'o'f' 'I'n'd'i'a'?'
-'d'e'c'i'd'e'
-'('a')' 'B'i'r't'h'
-'('d')' 'i'f' 'b'o't'h' 't'h'e' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'p'a's's'
-'('b')' 'A'c'q'u'i'r'i'n'g' 'P'r'o'p'e'r't'y'
-'a' 'r'e's'o'l'u't'i'o'n'
-'('c')' 'D'e's'c'e'n't'
-'5'8'.' 'T'h'e' 'O'r'd'i'n'a'n'c'e's' 'i's's'u'e'd' 'b'y' 't'h'e' 'G'o'v'e'r'n'o'r' 'i'n'
-'('d')' 'N'a't'u'r'a'l'i'z'a't'i'o'n'
-'I'n'd'i'a' 'a'r'e' 's'u'b'j'e'c't' 't'o' 't'h'e' 'a'p'p'r'o'v'a'l' 'b'y'
-'5'1'.' 'M'e'm'b'e'r's' 'o'f' 't'h'e' 'U'n'i'o'n' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e'
-'('a')' 'P'a'r'l'i'a'm'e'n't' '('b')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e'
-'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' 'h'o'l'd' 'o'f'f'i' 'c'e'
-'('c')' 'P'r'e's'i'd'e'n't' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('a')' 'f'o'r' '6' 'y'e'a'r's'
-'5'9'.' 'T'h'e' 'f'i' 'r's't' 'I'n'd'i'a'n' 'S't'a't'e' 't'o' 'h'a'v'e' 'i't's' 'H'u'm'a'n'
-'('b')' 'f'o'r' '8' 'y'e'a'r's'
-'D'e'v'e'l'o'p'm'e'n't' 'R'e'p'o'r't' 'p'r'e'p'a'r'e'd' 'a'n'd' 'r'e'-'
-'('c')' '6' 'y'e'a'r's' 'o'r' 'u'p' 't'o' 't'h'e' 'a'g'e' 'o'f' '6'5' 'y'e'a'r's'
-'l'e'a's'e'd' 'b'y' 'A'm'a'r't'y'a' 'S'e'n' 'i'n' 'D'e'l'h'i' 'i's'
-'w'h'i'c'h'e'v'e'r' 'i's' 'e'a'r'l'i'e'r'
-'('a')' 'M'a'd'h'y'a' 'P'r'a'd'e's'h'
-'('d')' '5' 'y'e'a'r's' 'o'r' 'u'p' 't'o' 't'h'e' 'a'g'e' 'o'f' '6'0' 'y'e'a'r's'
-'('b')' 'K'e'r'a'l'a'
-'w'h'i'c'h'e'v'e'r' 'i's' 'e'a'r'l'i'e'r'
-'('c')' 'A'n'd'h'r'a' 'P'r'a'd'e's'h'
-'5'2'.' 'T'h'e' 'U'n'i'o'n' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'i'n' 'I'n'd'i'a' 'i's'
-'('d')' 'W'e's't' 'B'e'n'g'a'l'
-'r'e's'p'o'n's'i'b'l'e' 't'o'
-'6'0'.' 'T'h'e' 'd'e't'a'i'l'e'd' 'p'r'o'v'i's'i'o'n's' 'r'e'g'a'r'd'i'n'g' 'a'c'q'u'i's'i'-'
-'('a')' 'L'o'k' 'S'a'b'h'a' '('b')' 'P'a'r'l'i'a'm'e'n't'
-'t'i'o'n' 'a'n'd' 'd'e't'e'r'm'i'n'a't'i'o'n' 'o'f' 'I'n'd'i'a'n' 'c'i't'i'z'e'n'-'
-'('c')' 'P'r'e's'i'd'e'n't' '('d')' 'P'e'o'p'l'e'
-'s'h'i'p' 'a'r'e' 'c'o'n't'a'i'n'e'd' 'i'n'
-'5'3'.' 'T'o' 'e'l'i'm'i'n'a't'e' 'e'c'o'n'o'm'i'c' 'i'n'e'q'u'a'l'i't'y' 'a'n'd'
-'('a')' 'P'a'r't' 'I'I' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'c'o'n'c'e'n't'r'a't'i'o'n' 'o'f' 'w'e'a'l't'h',' 'S'a'r'v'o'd'a'y'a' 'a'd'v'o'-'
-'('b')' 'P'a'r't' 'V'I'I' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'c'a't'e's'
-'('c')' 'C'i't'i'z'e'n's'h'i'p' 'A'c't',' '1'9'5'5' 'o'f' 'I'n'd'i'a'
-'('a')' 'n'o'n'-'p'o's's'e's's'i'o'n'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 's't'a't'e' 'r'u'n' 'c'o'-'o'p'e'r'a't'i'v'e's'
-'('c')' 't'r'u's't'e'e's'h'i'p' '6'1'.' 'T'h'e' 's't'a't'u's' 'o'f' 'a' 'r'e'c'o'g'n'i'z'e'd' 'O'p'p'o's'i't'i'o'n' 'p'a'r'-'
-'('d')' 's'o'c'i'a'l' 'o'w'n'e'r's'h'i'p' 'o'f' 'w'e'a'l't'h' 't'y' 'i'n' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i's' 's'e'c'u'r'e'd' 'o'n'l'y' 'w'h'e'n'
-'
-'t'h'e' 'p'e'r'c'e'n't'a'g'e' 'o'f' 't'h'e' 't'o't'a'l' 's'e'a't's' 'i'n' 't'h'e' 'L'o'k' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'S'a'b'h'a' 'w'o'n' 'b'y' 't'h'e' 'p'o'l'i't'i'c'a'l' 'p'a'r't'y' 'i's' '('c')' 'D'e'p'u't'y' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('a')' '5' '('b')' '8' '('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r' 'o'f' 'c'o'n'c'e'r'n'e'd'
-'('c')' '1'0' '('d')' '1'5' 'S't'a't'e'
-'6'2'.' 'T'h'e' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'S't'a't'e' 'P'S'C' 'r'e't'i'r'e' 'a't' '7'1'.' 'F'o'r' 't'h'e' 'c'r'e'a't'i'o'n' 'o'f' 'a' 'n'e'w' 's't'a't'e' 'i'n' 'I'n'd'i'a','
-'t'h'e' 't'h'e' 'a'm'e'n'd'm'e'n't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'w'i'l'l'
-'('a')' 'a'g'e' 'o'f' '6'0' 'y'e'a'r's' 'r'e'q'u'i'r'e'
-'('b')' 'a'g'e' 'o'f' '6'2' 'y'e'a'r's' '('a')' 's'i'm'p'l'e' 'm'a'j'o'r'i't'y' 'i'n' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'a'g'e' 'o'f' '6'5' 'y'e'a'r's' '('b')' 's'i'm'p'l'e' 'm'a'j'o'r'i't'y' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 'a'p'-'
-'('d')' 'N'o' 's'p'e'c'i'f'i' 'c' 'a'g'e' 'p'r'o'v'a'l' 'o'f' 'm'a'j'o'r'i't'y' 'o'f' 's't'a't'e's'
-'6'3'.' 'T'h'e' 'U'P'S'C' 'c'o'n's'i's't's' 'o'f' 'a' 'C'h'a'i'r'm'a'n' 'a'n'd' '('c')' 't'w'o'-'t'h'i'r'd' 'm'a'j'o'r'i't'y' 'i'n' 'P'a'r'l'i'a'm'e'n't'
-'('a')' 's'i'x' 'o't'h'e'r' 'm'e'm'b'e'r's' '('d')' 't'w'o'-'t'h'i'r'd' 'm'a'j'o'r'i't'y' 'i'n' 'e'a'c'h' 'H'o'u's'e' 'o'f'
-'('b')' 'e'i'g'h't' 'o't'h'e'r' 'm'e'm'b'e'r' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 'a'p'p'r'o'v'a'l' 'o'f' 'm'a'j'o'r'i't'y'
-'('c')' 'e'l'e'v'e'n' 'o't'h'e'r' 'm'e'm'b'e'r's' 'o'f' 's't'a't'e's'.'
-'('d')' 'u'n's'p'e'c'i'f'i' 'e'd' 'n'u'm'b'e'r' 'o'f' 'm'e'm'b'e'r's' '7'2'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'h'a's' 't'h'e' 'C'o'n's't'i'-'
-'6'4'.' 'I'n' 'w'h'i'c'h' 'p'a'r't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'i's' 't'h'e' 't'u't'i'o'n'a'l' 'a'u't'h'o'r'i't'y' 't'o' 'm'a'k'e' 'r'u'l'e's' 'r'e'g'a'r'd'i'n'g'
-'S't'a't'e' 'e'n'j'o'i'n'e'd' 't'o' 'e's't'a'b'l'i's'h' 'P'a'n'c'h'a'y'a't'i' 'R'a'j' 't'h'e' 'm'a'n'n'e'r' 'o'f' 'e'n'f'o'r'c'i'n'g' 't'h'e' 'o'r'd'e'r's' 'o'f' 't'h'e'
-'i'n's't'i't'u't'i'o'n's'?' 'S'u'p'r'e'm'e' 'C'o'u'r't'?'
-'('a')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' '('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('b')' 'P'r'e'a'm'b'l'e' '('b')' 'A't't'o'r'n'e'y' 'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a'
-'('c')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' '('c')' 'P'r'e's'i'd'e'n't'
-'('d')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' '('d')' 'U'n'i'o'n' 'L'a'w' 'M'i'n'i's't'e'r'
-'6'5'.' 'T'h'e' 'm'a'x'i'm'u'm' 'a'g'e' 'p'r'e's'c'r'i'b'e'd' 'f'o'r' 'e'l'e'c't'i'o'n' '7'3'.' 'M'a'd'r'a's' 'H'i'g'h' 'C'o'u'r't' 'h'a's' 't'h'e' 'j'u'r'i's'd'i'c't'i'o'n'
-'a's' 'P'r'e's'i'd'e'n't' 'i's' 'o'v'e'r'
-'('a')' '5'8' 'y'e'a'r's' '('b')' '6'0' 'y'e'a'r's' '('a')' 'T'a'm'i'l' 'N'a'd'u' 'a'n'd' 'K'e'r'a'l'a'
-'('c')' '6'2' 'y'e'a'r's' '('d')' 'N'o' 's'u'c'h' 'l'i'm'i't' '('b')' 'T'a'm'i'l' 'N'a'd'u' 'a'n'd' 'P'o'n'd'i'c'h'e'r'r'y'
-'6'6'.' 'P'r'i'n'c'i'p'a'l' 'l'a'i'd' 'd'o'w'n' 'i'n' 'a' 'j'u'd'g'm'e'n't' 'i's' '('c')' 'K'e'r'a'l'a' 'a'n'd' 'L'a'k's'h'a'd'w'e'e'p'
-'('a')' 'R'e's' 'j'u'd'i'c'a't'a' '('d')' 'L'a'k's'h'a'd'w'e'e'p' 'a'n'd' 'T'a'm'i'l' 'N'a'd'u'
-'('b')' 'L'a'w' '7'4'.' 'W'h'i'c'h' 'A'r't'i'c'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'p'e'r'm'i't's'
-'('c')' 'R'a't'i'o' 'd'e'c'i'd'e'n'd'i' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 't'o' 'h'a'v'e' 'a' 's'e'a't' 'o'u't's'i'd'e'
-'('d')' 'O'b'i't'e'r' 'd'i'c't'a' 'D'e'l'h'i'?'
-'6'7'.' 'W'h'o' 'w'a's' 't'h'e' 'm'e'm'b'e'r' 'o'f' 'C'l'e'm'e'n't' 'A't'l'e'e'’'s' '('a')' '1'4'1' '('b')' '1'3'6'
-'C'a'b'i'n'e't' 't'o' 'l'e'd' 't'h'e' 'C'a'b'i'n'e't' 'M'i's's'i'o'n' 'P'l'a'n' 't'o' '('c')' '1'3'0' '('d')' '1'2'4'
-'I'n'd'i'a' 'i'n' '1'9'4'6'?' '7'5'.' 'T'h'e' 'f'i' 'r's't' 's't'a't'e' 't'o' 'b'e'c'o'm'e' 'b'i'f'u'r'c'a't'e'd' 'a'f't'e'r'
-'('a')' 'L'o'r'd' 'C'u'r'z'o'n' 'i'n'd'e'p'e'n'd'e'n'c'e' 'w'a's'
-'('b')' 'L'o'r'd' 'C'o'r'n'w'a'l'l'i'c'e' '('a')' 'B'e'n'g'a'l' '('b')' 'B'o'm'b'a'y'
-'('c')' 'L'o'r'd' 'P'e't'h'i'c'k' 'L'a'w'r'e'n'c'e' '('c')' 'P'u'n'j'a'b' '('d')' 'A's's'a'm'
-'('d')' 'L'o'r'd' 'W'i'l'l'i'a'm' 'B'e'n't'i'n'c'k' '7'6'.' 'T'h'e' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'm'e'n't'
-'6'8'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'A'r't'i'c'l'e's' 'o'f' 'o'f' 'I'n'd'i'a' 'i's' 'e'l'e'c't'e'd'/'a'p'p'o'i'n't'e'd' 'b'y'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 's'p'e'a'k's' 'a'b'o'u't' 'O'r'd'i'-' '('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'n'a'n'c'e' 't'o' 'b'e' 'p'r'o'c'l'a'i'm'e'd' 'b'y' 'P'r'e's'i'd'e'n't' 'o'f' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'I'n'd'i'a'?' '('c')' 'M'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'('a')' 'A'r't'i'c'l'e' '1'2'3' '('b')' 'A'r't'i'c'l'e' '2'2'3' '('d')' 'B'o't'h' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'R'a'-'
-'('c')' 'A'r't'i'c'l'e' '2'3'3' '('d')' 'A'r't'i'c'l'e' '2'4'3' 'j'y'a' 'S'a'b'h'a'
-'6'9'.' 'W'h'o' 'a'p'p'o'i'n't's' 't'h'e' 'O'f'f'i' 'c'e'r's' 'f'o'r' 'L'i'n'g'u'i's't'i'c' '7'7'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'a'p'p'o'i'n't's' 't'h'e' 'J'u'd'g'e's'
-'M'i'n'o'r'i't'i'e's' 'i'n' 'I'n'd'i'a'?' 'o'f' 'H'i'g'h' 'C'o'u'r't's'
-'('a')' 'P'r'e's'i'd'e'n't' '('a')' 't'h'e' 's't'a't'e'm'e'n't' 'i's' 't'r'u'e'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('b')' 't'h'e' 's't'a't'e'm'e'n't' 'i's' 'f'a'l's'e'
-'('c')' 'G'o'v'e'r'n'o'r' 'o'f' 'S't'a't'e' '('c')' 'P'r'e's'i'd'e'n't' 'c'a'n'n'o't' 'a'p'p'o'i'n't'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('c')' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'7'0'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'p'p'o'i'n't's' 'R'e'-' '7'8'.' 'M'o's't' 'o'f' 't'h'e' 'l'a'w's' 'p'a's's'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'g'i'o'n'a'l' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r's' 'i'n' 'I'n'd'i'a'?' 'o'f' 'I'n'd'i'a' 'a'p'p'l'y' 't'o' 'a'l'l' 'S't'a't'e's' 'e'x'c'e'p't'
-'('a')' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h' 'E'l'e'c'-' '('a')' 'A'n'd'a'm'a'n' 'a'n'd' 'N'i'c'o'b'a'r' 'I's'l'a'n'd's'
-'t'i'o'n' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' '('b')' 'P'o'n'd'i'c'h'e'r'r'y'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'6'1'
-'('c')' 'J'a'm'm'u' 'a'n'd' 'K'a's'h'm'i'r' '('c')' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('d')' 'M'i'z'o'r'a'm' '('d')' 't'h'e' 'G'o'v'e'r'n'o'r'
-'7'9'.' 'A's' 'p'e'r' 'c'o'n's't'i't'u't'i'o'n'a'l' 'r'e'q'u'i'r'e'm'e'n't' 't'h'a't' 't'h'e' '8'8'.' 'A' 'j'u'd'g'm'e'n't' 'w'h'i'c'h' 'd'o'e's' 'n'o't' 'a'p'p'l'y' 't'o' 'a'l'l' 't'h'e'
-'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 's'h'a'l'l' 'm'e'e't' 'a't' 'l'e'a's't' 'c'i't'i'z'e'n's' 'b'u't' 'a'p'p'l'i'e's' 'o'n'l'y' 't'o' 't'h'e' 'L'i't'i'g'a'n't's' 'i's'
-'('a')' 't'w'i'c'e' 'a' 'y'e'a'r' '('b')' 'o'n'c'e' 'a' 'y'e'a'r' 'c'a'l'l'e'd'
-'('c')' 't'h'r'i'c'e' 'a' 'y'e'a'r' '('d')' 'f'o'u'r' 't'i'm'e's' 'a' 'y'e'a'r' '('a')' 'j'u'd'g'm'e'n't' 'i'n' 'r'e'm'
-'8'0'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'a's' 't'h'e' 'm'a'i'n' 'o'b'-' '('b')' 'j'u'd'g'm'e'n't' 'i'n' 'p'e'r's'o'n'a'm'
-'j'e'c't'i'v'e' 'o'f' 'N'o'n'-'C'o'-'o'p'e'r'a't'i'o'n' 'M'o'v'e'm'e'n't' 'i'n' '('c')' 'j'u'd'g'm'e'n't' 'p'e'r' 'i'n'c'u'r'i'u'm'
-'I'n'd'i'a'n' 'f'r'e'e'd'o'm' 's't'r'u'g'g'l'e'?' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'A'c'h'i'e'v'e'm'e'n't' 'o'f' 'c'o'm'p'l'e't'e' 'i'n'd'e'p'e'n'-' '8'9'.' 'W'h'o' 'h'a's' 't'h'e' 'f'i' 'n'a'l' 'p'o'w'e'r' 'a's' 'r'e'g'a'r'd' 'w'i't'h'-'
-'d'e'n'c'e' 'o'f' 'I'n'd'i'a' 'd'r'a'w'i'n'g' 'o'f' 'a' 'l'i's't' 'f'o'r' 'S'C's',' 'S'T's',' 'a'n'd' 'O'B'C' 'i'n'
-'('b')' 'A't't'a'i'n'm'e'n't' 'o'f' 'd'o'm'i'n'i'o'n' 's't'a't'u's' 'f'o'r' 'I'n'-' 'I'n'd'i'a'?'
-'d'i'a' '('a')' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'I'n't'r'o'd'u'c't'i'o'n' 'o'f' 'b'i'c'a'm'e'r'a'l' 's'y's't'e'm' 'i'n' '('b')' 'P'r'e's'i'd'e'n't'
-'I'n'd'i'a' '('c')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'8'1'.' 'I'n'd'i'a' 'a'd'o'p't'e'd' 'a' 'f'e'd'e'r'a'l' 's'y's't'e'm' 'w'i't'h' 'a' '9'0'.' 'W'h'o' 'i's' 't'h'e' 'p'r'e's'e'n't' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'N'a'-'
-'s't'r'o'n'g' 'c'e'n't'e'r' 'f'r'o'm' 't'i'o'n'a'l' 'H'u'm'a'n' 'R'i'g'h't's' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'-'
-'('a')' 'N'e'w' 'Z'e'a'l'a'n'd' '('b')' 'A'u's't'r'a'l'i'a' 'd'i'a'
-'('c')' 'U'S'A' '('d')' 'C'a'n'a'd'a' '('a')' 'J'u's't'i'c'e' 'A'.' 'S'.' 'A'n'a'n'd'
-'('b')' 'J'u's't'i'c'e' 'K'.' 'G'.' 'B'a'l'a'k'r'i's'h'a'n'a'n'
-'8'2'.' 'I'n' 'I'n'd'i'a',' 'p'o'w'e'r' 'o'f' 'j'u'd'i'c'i'a'l' 'r'e'v'i'e'w' 'i's' 'r'e'-'
-'('c')' 'J'u's't'i'c'e' 'B'.' 'N'.' 'K'i'r'p'a'l'
-'s't'r'i'c't'e'd' 'b'e'c'a'u's'e'
-'('d')' 'J'u's't'i'c'e' 'S'.' 'R'a'j'e'n'd'r'a' 'B'a'b'u'
-'('a')' 't'h'e' 'j'u'd'g'e's' 'a'r'e' 't'r'a'n's'f'e'r'a'b'l'e'
-'9'1'.' 'T'h'e' 'S'i'k'h's' 'i'n' 'I'n'd'i'a' 'a'r'e' 'p'e'r'm'i't't'e'd' 't'o' 'c'a'r'r'y'
-'('b')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'i's' 's'u'p'r'e'm'e'
-'K'i'r'p'a'n'.' 'U'n'd'e'r' 'w'h'i'c'h' 'o'n'e' 't'h'e' 'f'o'l'l'o'w'i'n'g'
-'('c')' 't'h'e' 'E'x'e'c'u't'i'v'e' 'i's' 's'u'p'r'e'm'e'
-'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'a'r'e' 't'h'e'y' 'p'e'r'm'i't't'e'd' 't'o'
-'('d')' 't'h'e' 'L'e'g'i's'l'a't'u'r'e' 'i's' 's'u'p'r'e'm'e'
-'d'o' 's'o'?'
-'8'3'.' 'W'h'o' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'c'o'n's'i'd'e'r'e'd' 'a's' 't'h'e'
-'('a')' 'r'i'g'h't' 't'o' 'f'r'e'e'd'o'm'
-'c'u's't'o'd'i'a'n' 'o'f' 'L'o'k' 'S'a'b'h'a'?'
-'('b')' 'r'i'g'h't' 't'o' 'f'r'e'e'd'o'm' 'o'f' 'r'e'l'i'g'i'o'n'
-'('a')' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'r'i'g'h't' 't'o' 'l'i'f'e' 'a'n'd' 'l'i'b'e'r't'y'
-'('b')' 'T'h'e' 'S'p'e'a'k'e'r'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'T'h'e' 'C'h'i'e'f' 'W'h'i'p' 'o'f' 't'h'e' 'r'u'l'i'n'g' 'p'a'r't'y'
-'9'2'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'p'r'e's'c'r'i'b'e's' 't'h'e'
-'('d')' 'T'h'e' 'l'e'a'd'e'r' 'o'f' 't'h'e' 'O'p'p'o's'i't'i'o'n'
-'('a')' 'p'u'n'i's'h'm'e'n't' 'f'o'r' 't'h'e' 'p'r'a'c't'i'c'e' 'o'f' 'u'n'-'
-'8'4'.' 'A't' 'p'r'e's'e'n't',' 'I'n'd'i'a' 'c'o'n's'i's't's' 'o'f'
-'t'o'u'c'h'a'b'i'l'i't'y'
-'('a')' '2'1' 's't'a't'e's' 'a'n'd' '1'1' 'u'n'i'o'n' 't'e'r'r'i't'o'r'i'e's'
-'('b')' 'a'b'o'l'i't'i'o'n' 'o'f' 'u'n't'o'u'c'h'a'b'i'l'i't'y' 'a's' 'a' 'F'u'n'-'
-'('b')' '2'8' 's't'a't'e's' 'a'n'd' '7' 'u'n'i'o'n' 't'e'r'r'i't'o'r'i'e's'
-'d'a'm'e'n't'a'l' 'R'i'g'h't'
-'('c')' '2'5' 's't'a't'e's' 'a'n'd' '9' 'u'n'i'o'n' 't'e'r'r'i't'o'r'i'e's'
-'('c')' 'w'a'y' 'o'f' 'd'e't'e'c't'i'n'g' 't'h'e' 'p'r'a'c't'i'c'e' 'o'f' 'u'n'-'
-'('d')' '2'4' 's't'a't'e's' 'a'n'd' '7' 'u'n'i'o'n' 't'e'r'r'i't'o'r'i'e's'
-'t'o'u'c'h'a'b'i'l'i't'y'
-'8'5'.' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'i's'
-'('d')' 'a'b'o'l'i't'i'o'n' 'o'f' 'u'n't'o'u'c'h'a'b'i'l'i't'y' 'a's' 'a' 'D'i'r'e'c'-'
-'('a')' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l'-'
-'t'i'v'e' 'P'r'i'n'c'i'p'l'e' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y'
-'t'a't'i'o'n' 'w'i't'h' 't'h'e' 'S'p'e'a'k'e'r'
-'9'3'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'h'o'l'd's' 'o'f'f'i' 'c'e'
-'('b')' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'d'u'r'i'n'g' 't'h'e' 'p'l'e'a's'u'r'e' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'?'
-'('c')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('a')' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('d')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 't'w'o' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'-'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'m'e'n't' 'a't' 'a' 'j'o'i'n't' 's'i't't'i'n'g'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r'
-'8'6'.' 'T'h'e' 't'e'r'm's' '‘'L'a'w' 'i'n' 'F'o'r'c'e'’' 'i'n' 'c'l'a'u's'e' '('3')' 'o'f'
-'('d')' 'G'o'v'e'r'n'o'r'
-'A'r't'i'c'l'e' '1'3' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'm'e'a'n's'
-'9'4'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'c'o'r'r'e'c't'
-'('a')' 'o'n'l'y' 's't'a't'u't'o'r'y' 'l'a'w'
-'c'h'r'o'n'o'l'o'g'i'c'a'l' 'o'r'd'e'r' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r's'
-'('b')' 'c'u's't'o'm's' 'a'n'd' 'u's'a'g'e's' 'o'n'l'y'
-'i'n' 'I'n'd'i'a'?'
-'('c')' 'b'o't'h' '('a')' 'a'n'd' '('b')'
-'I'.' 'I'n'd'i'r'a' 'G'a'n'd'h'i'
-'('d')' 'n'e'w'l'y' 'f'o'r'm'e'd' 'p'u'b'l'i'c' 'o'r'd'e'r' 'o'n'l'y'
-'I'I'.' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u'
-'8'7'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'd'o'e's' 'n'o't' 'c'o'n't'a'i'n' 'I'I'I'.' 'M'o'r'a'r'j'i' 'D'e's'a'i'
-'a'n'y' 'p'r'o'v'i's'i'o'n' 'f'o'r' 'i'm'p'e'a'c'h'm'e'n't' 'o'f' 'I'V'.' 'C'h'a'r'a'n' 'S'i'n'g'h'
-'('a')' 't'h'e' 'P'r'e's'i'd'e'n't' '('a')' 'I',' 'I'I',' 'I'I'I',' 'I'V' '('b')' 'I'I',' 'I'I'I',' 'I',' 'I'V'
-'('b')' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a' '('c')' 'I'I',' 'I',' 'I'I'I',' 'I'V' '('d')' 'I'I'I',' 'I'I',' 'I'V',' 'I'
-'
-'9'5'.' 'W'h'a't' 'i's' 't'h'e' 'm'i'n'i'm'u'm' 'a'g'e' 'f'o'r' 'a'p'p'o'i'n't'm'e'n't' 'a'l' 'o'f' 'I'n'd'i'a' 'i's' 'd'e't'e'r'm'i'n'e'd' 'b'y'
-'a's' 'a' 'G'o'v'e'r'n'o'r'?' '('a')' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's'
-'('a')' '2'5' 'y'e'a'r's' '('b')' '3'0' 'y'e'a'r's' '('b')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('c')' '3'5' 'y'e'a'r's' '('d')' '4'0' 'y'e'a'r's' '('c')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'9'6'.' 'O'n' 't'h'e' 'd'e'a't'h' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 't'h'e' 'V'i'c'e'-' '('d')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'P'r'e's'i'd'e'n't' 's'u'c'c'e'e'd's' 'h'i'm' 'a's' 'P'r'e's'i'd'e'n't' 'f'o'r' '9'9'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e'm'o'v'e'd'
-'('a')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' 't'h'r'e'e' 'y'e'a'r's' 'f'r'o'm' 'h'i's' 'o'f'f'i' 'c'e' 'b'y' 't'h'e'
-'('b')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' 'o'n'e' 'y'e'a'r' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' 's'i'x' 'm'o'n't'h's' '('b')' 'L'o'k' 'S'a'b'h'a'
-'('d')' 't'h'e' 'r'e'm'a'i'n'i'n'g' 'p'e'r'i'o'd' 'o'f' 't'h'e' 't'e'r'm' '('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'9'7'.' 'T'h'e' 't'e'n'u'r'e' 'o'f' 't'h'e' 'U'n'i'o'n' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's'-' '('d')' 'P'a'r'l'i'a'm'e'n't'
-'t'e'r's' 'i's' '1'0'0'.' 'I'n' 'a'd'd'i't'i'o'n' 't'o' 't'h'e' 'p'o'w'e'r's' 'g'i'v'e'n' 'i'n' 't'h'e'
-'('a')' 'f'i' 'v'e' 'y'e'a'r's' 'U'n'i'o'n' 'a'n'd' 'C'o'n'c'u'r'r'e'n't' 'L'i's't',' 't'h'e' 'U'n'i'o'n'
-'('b')' 'u'n'c'e'r't'a'i'n' 'G'o'v'e'r'n'm'e'n't' 'h'a's' 't'h'e'
-'('c')' 'f'i' 'x'e'd' 'a'n'd' 'c'o'-'t'e'r'm'i'n'u's' 'w'i't'h' 't'h'e' 'P'r'e's'i'-' '('a')' 'R'e's'i'd'u'a'r'y' 'p'o'w'e'r'
-'d'e'n't' '('b')' 'F'e'd'e'r'a'l' 'p'o'w'e'r'
-'('d')' 'c'o'-'t'e'r'm'i'n'u's' 'w'i't'h' 't'h'e' 'L'o'k' 'S'a'b'h'a' '('c')' 'P'o'w'e'r' 't'o' 'l'e'g'i's'l'a't'e' 'i'n' 'S't'a't'e' 'l'i's't'
-'9'8'.' 'T'h'e' 'r'e'm'u'n'e'r'a't'i'o'n' 'f'o'r' 't'h'e' 'A't't'o'r'n'e'y'-'G'e'n'e'r'-' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('d')' '2'.' '('b')' '3'.' '('d')' '4'.' '('a')' '5'.' '('d')' '6'.' '('a')' '7'.' '('a')' '8'.' '('a')' '9'.' '('b')' '1'0'.' '('c')'
-'1'1'.' '('a')' '1'2'.' '('a')' '1'3'.' '('a')' '1'4'.' '('a')' '1'5'.' '('a')' '1'6'.' '('b')' '1'7'.' '('a')' '1'8'.' '('c')' '1'9'.' '('c')' '2'0'.' '('b')'
-'2'1'.' '('a')' '2'2'.' '('b')' '2'3'.' '('a')' '2'4'.' '('a')' '2'5'.' '('a')' '2'6'.' '('c')' '2'7'.' '('b')' '2'8'.' '('c')' '2'9'.' '('c')' '3'0'.' '('c')'
-'3'1'.' '('a')' '3'2'.' '('c')' '3'3'.' '('b')' '3'4'.' '('c')' '3'5'.' '('a')' '3'6'.' '('a')' '3'7'.' '('d')' '3'8'.' '('b')' '3'9'.' '('b')' '4'0'.' '('d')'
-'4'1'.' '('c')' '4'2'.' '('d')' '4'3'.' '('b')' '4'4'.' '('d')' '4'5'.' '('c')' '4'6'.' '('c')' '4'7'.' '('b')' '4'8'.' '('b')' '4'9'.' '('c')' '5'0'.' '('b')'
-'5'1'.' '('c')' '5'2'.' '('a')' '5'3'.' '('c')' '5'4'.' '('a')' '5'5'.' '('c')' '5'6'.' '('a')' '5'7'.' '('b')' '5'8'.' '('b')' '5'9'.' '('d')' '6'0'.' '('c')'
-'6'1'.' '('d')' '6'2'.' '('b')' '6'3'.' '('d')' '6'4'.' '('a')' '6'5'.' '('d')' '6'6'.' '('c')' '6'7'.' '('c')' '6'8'.' '('a')' '6'9'.' '('a')' '7'0'.' '('a')'
-'7'1'.' '('a')' '7'2'.' '('d')' '7'3'.' '('b')' '7'4'.' '('d')' '7'5'.' '('b')' '7'6'.' '('c')' '7'7'.' '('a')' '7'8'.' '('c')' '7'9'.' '('a')' '8'0'.' '('b')'
-'8'1'.' '('d')' '8'2'.' '('d')' '8'3'.' '('b')' '8'4'.' '('b')' '8'5'.' '('b')' '8'6'.' '('c')' '8'7'.' '('d')' '8'8'.' '('b')' '8'9'.' '('a')' '9'0'.' '('b')'
-'9'1'.' '('b')' '9'2'.' '('b')' '9'3'.' '('d')' '9'4'.' '('b')' '9'5'.' '('c')' '9'6'.' '('c')' '9'7'.' '('d')' '9'8'.' '('d')' '9'9'.' '('d')' '1'0'0'.' '('a')'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'6'3'
-'P' 'P' '3'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'W'h'i'c'h' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'C'o'm'm'i't't'e'e' 'i'n' 'I'n'-' '('c')' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'r'e'p'o'r't' 'o'f' 't'h'e' 'P'a'r'-'
-'d'i'a'n' 's'y's't'e'm' 'i's' 'c'h'a'i'r'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r' 'o'f' 'l'i'a'm'e'n't'
-'o'p'p'o's'i't'i'o'n' 'p'a'r't'y'?' '('d')' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'r'e'p'o'r't' 'o'f' 't'h'e' 'S'u'-'
-'('a')' 'J'o'i'n't' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'C'o'm'm'i't't'e'e' 'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a'
-'('b')' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e' '8'.' 'T'h'e' 'P'a'r'l'i'a'm'e'n't' 'c'a'n' 'm'a'k'e' 'l'a'w' 'o'n' 'a' 's'u'b'j'e'c't'
-'('c')' 'E's't'i'm'a't'e's' 'C'o'm'm'i't't'e'e' 'i'n' 't'h'e' 'S't'a't'e' 'L'i's't' 'w'h'e'n'
-'('d')' 'P'r'i'v'i'l'e'g'e's' 'C'o'm'm'i't't'e'e' 'I'.' 'A' 'P'r'o'c'l'a'm'a't'i'o'n' 'o'f' 'E'm'e'r'g'e'n'c'y' 'i's' 'i'n'
-'2'.' 'W'h'o' 'a'd'm'i'n'i's't'e'r's' 'o'a't'h' 'o'f' 'o'f'f'i' 'c'e' 'o'f' 'a' 'G'o'v'-' 'f'o'r'c'e'
-'e'r'n'o'r' 'o'f' 'a'n' 'I'n'd'i'a'n' 'S't'a't'e'?' 'I'I'.' 'T'w'o' 'o'r' 'm'o'r'e' 'S't'a't'e's' 'm'a'k'e' 'a' 'r'e'q'u'e's't' 't'o'
-'('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'H'i'g'h' 'C'o'u'r't' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 't'o' 'm'a'k'e' 'a' 'l'a'w' 'o'n' 'a' 's'u'b'-'
-'('b')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'j'e'c't'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'I'I'I'.' 'R'a'j'y'a' 'S'a'b'h'a' 'p'a's's'e's' 'a' 'r'e's'o'l'u't'i'o'n' 't'h'a't'
-'('d')' 'A'd'v'o'c'a't'e's' 'G'e'n'e'r'a'l' 'o'f' 'S't'a't'e' 's'u'c'h' 's'u'b'j'e'c't's' 'h'a'v'e' 'a'c'q'u'i'r'e'd' 'n'a't'i'o'n'a'l'
-'3'.' 'W'E' 'T'H'E' 'P'E'O'P'L'E' 'O'F' 'I'N'D'I'A',' 'h'a'v'i'n'g' 'i'm'p'o'r't'a'n'c'e'
-'s'o'l'e'm'n'l'y' '…'…'…'.' 't'o' 'c'o'n's't'i't'u't'e' 'I'n'd'i'a' 'i'n't'o' '('a')' 'I',' 'I'I' '('b')' 'I'I' 'a'n'd' 'I'I'I'
-'a' 'S'O'V'E'R'E'I'G'N' 'S'O'C'I'A'L'I'S'T' 'S'E'C'U'L'A'R' '('c')' 'I' 'a'n'd' 'I'I'I' '('d')' 'I',' 'I'I',' 'I'I'I'
-'D'E'M'O'C'R'A'T'I'C' 'R'E'P'U'B'L'I'C' 'i'n' 't'h'e' 'P'r'e'-' '9'.' 'A' 'M'o'n'e'y' 'B'i'l'l' 'c'a'n' 'o'r'i'g'i'n'a't'e' 'i'n' 't'h'e' 'S't'a't'e'
-'a'm'b'l'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'.' 'L'e'g'i's'l'a't'u'r'e' 'o'n'l'y' 'w'i't'h' 't'h'e' 'p'r'i'o'r' 'c'o'n's'e'n't' 'o'f'
-'('a')' 'r'e's'o'l'v'e'd' 't'h'e'
-'('b')' 'r'e'c'e'i'v'e'd' 'I'.' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'I'I'.' 'P'r'e's'i'd'e'n't'
-'('c')' 'a'g'r'e'e'd' 'I'I'I'.' 'G'o'v'e'r'n'o'r' 'I'V'.' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('d')' 'p'l'a'n'n'e'd' '('a')' 'I' '('b')' 'I' 'a'n'd' 'I'I'I'
-'4'.' 'A' 'l'e'g'i's'l'a't'i'o'n' 'e'n'a'c't'e'd' 'b'y' 'a' 'S't'a't'e' 'L'e'g'i's'l'a'-' '('c')' 'I'I' '('d')' 'I'I'I'
-'t'u'r'e' 'i'n' 'I'n'd'i'a' 'f'a'l'l's' 'i'n' 't'h'e' 'c'a't'e'g'o'r'y' 'o'f' '1'0'.' 'G'e'n'e'r'a'l'l'y',' 't'h'e' 'f'i' 'r's't' 's'e's's'i'o'n' 'o'f' 't'h'e' 'P'a'r'l'i'a'-'
-'('a')' 's'u'b'o'r'd'i'n'a't'e' 'l'e'g'i's'l'a't'i'o'n' 'm'e'n't' 's't'a'r't's' 'w'i't'h' 'a'n' 'a'd'd'r'e's's' 'o'f' 't'h'e' 'P'r'e's'i'-'
-'('b')' 's'u'p'r'e'm'e' 'l'e'g'i's'l'a't'i'o'n' 'd'e'n't' 'i'n' 'w'h'i'c'h'
-'('c')' 'a'u't'o'n'o'm'o'u's' 'l'e'g'i's'l'a't'i'o'n' '('a')' 'h'e' 'm'a'k'e's' 's'u'g'g'e's't'i'o'n's' 't'o' 't'h'e' 'G'o'v'e'r'n'-'
-'('d')' 'd'e'l'e'g'a't'e'd' 'l'e'g'i's'l'a't'i'o'n' 'm'e'n't' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'p'o'l'i'c'y' 'i't' 's'h'o'u'l'd'
-'5'.' 'R'i'g'h't' 't'o' 'w'o'r'k' 'i'n' 'I'n'd'i'a' 'i's' 'u'n'd'e'r' 'f'o'l'l'o'w' 'i'n' 't'h'e' 'i'n't'e'r'e's't' 'o'f' 't'h'e' 'c'o'u'n't'r'y'
-'('a')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' '('b')' 'h'e' 'o'u't'l'i'n'e's' 't'h'e' 'p'o'l'i'c'y' 'a'n'd' 'p'r'o'g'r'a'm'm'e'
-'('b')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't' 'o'f' 't'h'e' 'g'o'v'e'r'n'm'e'n't' 'd'u'r'i'n'g' 't'h'e' 'e'n's'u'i'n'g'
-'('c')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'D'u't'y' 'y'e'a'r'
-'('d')' 'N'o't' 'a' 'f'u'n'd'a'm'e'n't'a'l' 'r'i'g'h't' 'b'u't' 'c'a'n' 'b'e' '('c')' 'h'e' 'm'a'k'e's' 'a' 's'u'r'v'e'y' 'o'f' 't'h'e' 'a'c'h'i'e'v'e'-'
-'c'l'a'i'm'e'd' 'a'f't'e'r' 'e'm'p'l'o'y'm'e'n't' 'm'e'n't's' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'd'u'r'i'n'g' 't'h'e'
-'6'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'b'a's'i'c' 'p'r'e'v'i'o'u's' 'y'e'a'r'
-'f'e'a't'u'r'e' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'c'o'n's't'i't'u't'i'o'n'?' '('d')' 'h'e' 'd'o'e's' 'n'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 't'h'i'n'g's'
-'('a')' 'F'e'd'e'r'a'l' 'G'o'v'e'r'n'm'e'n't' '1'1'.' 'S'o'v'e'r'e'i'g'n't'y' 'i'n' 'I'n'd'i'a' 'u'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u'-'
-'('b')' 'P'a'r'l'i'a'm'e'n't'a'r'y' 't'i'o'n' 'b'e'l'o'n'g's' 't'o'
-'('c')' 'I'n'd'e'p'e'n'd'e'n'c'e' 'o'f' 't'h'e' 'j'u'd'i'c'i'a'r'y' '('a')' 'P'a'r'l'i'a'm'e'n't' '('b')' 't'h'e' 'P'e'o'p'l'e'
-'('d')' 'P'r'e's'i'd'e'n't'i'a'l' 'G'o'v'e'r'n'm'e'n't' '('c')' 'P'r'e's'i'd'e'n't' '('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'7'.' 'T'h'e' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'U'P'S'C' 'c'a'n' 'b'e' 'r'e'm'o'v'e'd' '1'2'.' 'I'n' 'I'n'd'i'a' 't'h'e' 'I'n't'e'r'n'a't'i'o'n'a'l' 'T'r'e'a't'i'e's' 'a'r'e' 'r'a't'i'-'
-'f'r'o'm' 't'h'e'i'r' 'o'f'f'i' 'c'e' 'd'u'r'i'n'g' 't'h'e'i'r' 't'e'n'u'r'e' 'b'y' 'f'i' 'e'd' 'b'y'
-'('a')' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('a')' 'P'r'e's'i'd'e'n't'
-'('b')' 't'h'e' 'P'r'e's'i'd'e'n't' '('b')' 'P'a'r'l'i'a'm'e'n't'
-'
-'('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('b')' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'F'o'r'e'i'g'n' 'S'e'c'r'e't'a'r'y' '('c')' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'1'3'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'r'i'g'h't's' 'h'a'v'e' 'b'e'e'n' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'d'e's'c'r'i'b'e'd' 'i'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?' '2'0'.' 'W'h'a't' 'i's' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'w'i't'h'
-'('a')' 'N'a't'u'r'a'l' 'r'i'g'h't's' 'o'f' 't'h'e' 'c'i't'i'z'e'n's' 'r'e'g'a'r'd' 't'o' 'M'o'n'e'y' 'B'i'l'l'?'
-'('b')' 'F'u'n'd'a'm'e'n't'a'l' 'r'i'g'h't's' 'o'f' 't'h'e' 'c'i't'i'z'e'n's' '('a')' 'I't' 'c'a'n' 'w'i't'h'h'o'l'd' 'i't'.'
-'('c')' 'M'o'r'a'l' 'r'i'g'h't's' 'o'f' 't'h'e' 'c'i't'i'z'e'n's' '('b')' 'I't' 'h'a's' 'n'o' 'p'o'w'e'r'.'
-'('d')' 'H'e'r'e'd'i't'a'r'y' 'r'i'g'h't's' 'o'f' 't'h'e' 'c'i't'i'z'e'n's' '('c')' 'I't' 'c'a'n' 'a'm'e'n'd' 'i't'.'
-'1'4'.' 'W'h'o' 'i's' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 't'h'e' 'd'e'l'i'm'i't'a't'i'o'n' 'o'f' '('d')' 'I't' 'c'a'n' 'r'e'j'e'c't' 'i't'.'
-'t'e'r'r'i't'o'r'i'a'l' 'c'o'n's't'i't'u'e'n'c'i'e's' 'f'o'r' 'L'o'k' 'S'a'b'h'a' '2'1'.' 'C'i't'i'z'e'n's'h'i'p' 'i'n' 'I'n'd'i'a' 'c'a'n' 'b'e' 'l'o's't' 'b'y' 'a'l'l' 'o'f'
-'e'l'e'c't'i'o'n's' 'i'n' 'I'n'd'i'a'?' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'e'x'c'e'p't'
-'('a')' 'T'h'e' 'D'e'l'i'm'i't'a't'i'o'n' 'C'o'm'm'i's's'i'o'n' '('a')' 'r'e'n'u'n'c'i'a't'i'o'n'
-'('b')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' '('b')' 't'r'e'a's'o'n'
-'('c')' 'R'e'g'i'o'n'a'l' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r' '('c')' 't'e'r'm'i'n'a't'i'o'n'
-'('d')' 'S't'a't'e' 'L'a'w' 'M'i'n'i's't'r'y' '('d')' 'd'e'p'r'i'v'a't'i'o'n'
-'1'5'.' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'c'o'n's'i's't's' 'o'f' '2'2'.' 'I'n'd'i'a'n's' 'h'a'v'e'
-'('a')' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e',' 't'h'e' 'H'o'u's'e' 'o'f' 'P'e'o'p'l'e' '('a')' 's'i'n'g'l'e' 'c'i't'i'z'e'n's'h'i'p'
-'a'n'd' 't'h'e' 'P'r'e's'i'd'e'n't' '('b')' 'd'u'a'l' 'c'i't'i'z'e'n's'h'i'p' '('O'n'e' 'o'f' 'U'n'i'o'n' 'a'n'd'
-'('b')' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e' 'a'n'd' 'P'r'e's'i'd'e'n't' 'S'e'c'o'n'd' 'o'f' 'S't'a't'e's')'
-'('c')' 'H'o'u's'e' 'o'f' 'P'e'o'p'l'e' 'a'n'd' 'P'r'e's'i'd'e'n't' '('c')' 'c'i'r'c'u'm's't'a'n't'i'a'l' 'c'i't'i'z'e'n's'h'i'p'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd' 'P'r'e's'i'd'e'n't'
-'2'3'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'U'n'i'o'n' 'T'e'r'r'i'-'
-'1'6'.' 'T'h'e' 'J'u'd'g'e's' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'c'a'n' 'b'e' 'r'e'-'
-'t'o'r'i'e's' 'o'f' 'I'n'd'i'a' 'h'a'v'e' 'H'i'g'h' 'C'o'u'r't's' 'o'f' 't'h'e'i'r'
-'m'o'v'e'd' 'f'r'o'm' 't'h'e'i'r' 'o'f'f'i' 'c'e' 'd'u'r'i'n'g' 't'h'e'i'r' 't'e'n'-'
-'o'w'n'?'
-'u'r'e'
-'('a')' 'D'e'l'h'i'
-'('a')' 'b'y' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f'
-'('b')' 'D'e'l'h'i' 'a'n'd' 'D'a'm'a'n' 'D'i'u'
-'t'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' 'P'o'n'd'i'c'h'e'r'r'y' 'a'n'd' 'N'a'g'a'r' 'H'a'v'e'l'i'
-'('b')' 'b'y' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'n' 't'h'e' 'r'e'c'o'm'm'e'n'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'d'a't'i'o'n' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'2'4'.' 'W'h'a't' 'i's' 't'h'e' 't'e'n'u'r'e' 'o'f' 'G'o'v'e'r'n'o'r' 'o'f' 'a' 'S't'a't'e'
-'('c')' 'b'y' 't'h'e' 'G'o'v'e'r'n'o'r',' 'i'f' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a'-'
-'i'n' 'I'n'd'i'a'?'
-'t'u'r'e' 'p'a's's'e's' 'a' 'r'e's'o'l'u't'i'o'n' 't'o' 't'h'i's' 'e'f'f'e'c't'
-'('a')' 'N'o' 'f'i' 'x'e'd' 't'e'r'm'
-'b'y' 't'w'o'-'t'h'i'r'd's' 'm'a'j'o'r'i't'y'
-'('b')' '5' 'y'e'a'r's'
-'('d')' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' 'a' 'r'e's'o'-'
-'('c')' '4' 'y'e'a'r's'
-'l'u't'i'o'n' 'p'a's's'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'b'y'
-'('d')' 'A't' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 'S't'a't'e' 'L'a'w' 'S'e'c'r'e'-'
-'t'w'o'-'t'h'i'r'd's' 'm'a'j'o'r'i't'y'
-'t'a'r'y'
-'1'7'.' 'A' 'j'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'm'e'a'n's':'
-'2'5'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'p'o's's'e's's'e's' 't'h'e'
-'('a')' 'P'o'w'e'r's' 'o'f' 't'h'e' 'c'o'u'r't's' 't'o' 'd'e'c'l'a'r'e' 'n'u'l'l'
-'a'u't'h'o'r'i't'y' 't'o' 's'e't' 'c'o'm'm'o'n' 'H'i'g'h' 'C'o'u'r't's' 'f'o'r'
-'a'n'd' 'v'o'i'd' 'a'n'y' 'a'c't'i'o'n' 'b'y' 'a'n'y' 'o'r'g'a'n' 'o'f'
-'S't'a't'e's' 'i'n' 'I'n'd'i'a'
-'t'h'e' 'G'o'v'e'r'n'm'e'n't' 'i'f' 'i't' 'i's' 'b'e'y'o'n'd' 't'h'e'
-'('a')' 'P'a'r'l'i'a'm'e'n't'
-'p'o'w'e'r's' 'g'r'a'n't'e'd' 'b'y' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('b')' 'R'e'v'i'e'w' 'o'f' 't'h'e' 'w'o'r'k'i'n'g' 'o'f' 'j'u'd'i'c'i'a'r'y'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'e'i't'h'e'r' 'H'i'g'h' 'C'o'u'r't'
-'('c')' 'P'o'w'e'r' 'o'f' 't'h'e' 'C'o'u'r't' 't'o' 't'r'y' 'c'a's'e's'
-'('d')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'B'e'n'c'h' 'o'f' 'S'u'p'r'e'm'e'
-'('d')' 'R'e'v'i'e'w' 'o'f' 't'h'e' 'j'u'd'i'c'i'a'l' 'p'o'w'e'r' 'o'f' 't'h'e'
-'C'o'u'r't'
-'j'u'd'g'e's'
-'2'6'.' 'W'h'o' 'c'o'n'd'u'c't's' 't'h'e' 'S't'a't'e' 'a's's'e'm'b'l'y' 'e'l'e'c'-'
-'1'8'.' 'W'h'e'n' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'a'c't's' 'a's' 'P'r'e's'i'd'e'n't'
-'t'i'o'n's'?'
-'h'e' 'g'e't's' 't'h'e' 'e'm'o'l'u'm'e'n't's' 'o'f'
-'('a')' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 's't'a't'e' 'c'o'n'c'e'r'n'e'd'
-'('a')' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('b')' 'P'r'e's'i'd'e'n't'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h' 'c'o'u'r't' 'c'o'n'-'
-'('c')' 'P'r'e's'i'd'e'n't' 'i'n' 'a'd'd'i't'i'o'n' 't'o' 'w'h'a't' 'h'e' 'g'e't's'
-'c'e'r'n'e'd'
-'a's' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a'
-'('d')' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('d')' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a'
-'2'7'.' 'R'a'j'y'a' 'S'a'b'h'a' 'i's' 'l'e's's' 'p'o'w'e'r'f'u'l' 't'h'a'n' 'L'o'k'
-'1'9'.' 'T'h'e' 'e'x'e'c'u't'i'v'e' 'p'o'w'e'r' 'i's' 'v'e's't'e'd' 'i'n' 't'h'e' 'P'r'e's'-' 'S'a'b'h'a' 'i'n' 't'e'r'm's' 'o'f' 'i't's' 'f'i' 'n'a'n'c'i'a'l' 'p'o'w'e'r's' 'b'e'-'
-'i'd'e'n't' 'b'u't' 'i't' 'i's' 'a'c't'u'a'l'l'y' 'u's'e'd' 'b'y' 'h'i'm' 'o'n' 't'h'e' 'c'a'u's'e'
-'a'd'v'i'c'e' 'o'f' '('a')' 'n'o' 'M'o'n'e'y' 'B'i'l'l' 'c'a'n' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n'
-'('a')' 'T'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'R'a'j'y'a' 'S'a'b'h'a'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'6'5'
-'('b')' 'i't' 'd'o'e's' 'n'o't' 'p'a'r't'i'c'i'p'a't'e' 'i'n' 't'h'e' 'p'a's's'i'n'g' 'o'f' '3'5'.' 'A' 'M'o'n'e'y' 'B'i'l'l' 'i'n' 'I'n'd'i'a'n' 'P'a'r'l'i'a'm'e'n't'
-'M'o'n'e'y' 'B'i'l'l' '('a')' 'c'a'n'n'o't' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n' 't'h'e' 'C'o'u'n'c'i'l' 'o'f'
-'('c')' 'B'o't'h' 'o'f' 't'h'e' 'a'b'o'v'e' 'S't'a't'e's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 'n'e'e'd's' 't'o' 'b'e' 'c'e'r't'i'f'i' 'e'd' 'a's' 's'u'c'h' 'b'y' 't'h'e'
-'2'8'.' 'T'h'e' 'T'e'n't'h' 'S'c'h'e'd'u'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'S'p'e'a'k'e'r'
-'I'n'd'i'a' 'r'e'l'a't'e's' 't'o' '('c')' 'c'a'n' 'b'e' 'a'm'e'n'd'e'd' 'b'y' 't'h'e' 'C'o'u'n'c'i'l' 'o'f'
-'('a')' 'A'd'm'i'n'i's't'r'a't'i'o'n' 'o'f' 's'c'h'e'd'u'l'e'd' 'a'n'd' 't'r'i'b'-' 'S't'a't'e's'
-'a'l' 'a'r'e'a's' '('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')'
-'('b')' 'N'a't'i'o'n'a'l' 'l'a'n'g'u'a'g'e's' 'o'f' 'I'n'd'i'a' '3'6'.' 'R'a'j'y'a' 'S'a'b'h'a' 'i's' 'a'l's'o' 'c'a'l'l'e'd' 'a's'…'.'
-'('c')' 'A'n't'i'-'d'e'f'e'c't'i'o'n' 'l'a'w' '('a')' 'C'o'u'n'c'i'l' 'o'f' 'N'o'm'i'n'a't'e'd' 'M'e'm'b'e'r's'
-'('d')' 'J'u'd'i'c'i'a'l' 'r'e'v'i'e'w' '('b')' 'C'o'u'n'c'i'l' 'o'f' 'R'e'p'r'e's'e'n't'a't'i'v'e's'
-'2'9'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' '('c')' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e's'
-'('a')' 'A'l'l'o'w's' 'r'e'-'e'l'e'c't'i'o'n' 'o'f' 'a' 'p'e'r's'o'n' 't'o' 't'h'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'P'r'e's'i'd'e'n't'’'s' 'p'o's't' '3'7'.' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l' 'i's' 'a' '…'
-'('b')' 'R'e's't'r'i'c't's' 'a' 'p'e'r's'o'n' 't'o' 'r'e'm'a'i'n' 'P'r'e's'i'd'e'n't' '('a')' 'C'r'e'a't'i'o'n' 'o'f' 't'h'e' 'e'x'e'c'u't'i'v'e' 'b'o'd'y'
-'('b')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'b'o'd'y'
-'f'o'r' 'o'n'l'y' 't'w'o' 't'e'r'm's'
-'('c')' 'C'a'b'i'n'e't'’'s' 'S'e'c'r'e't'a'r'i'a't'
-'('c')' 'H'a's' 'b'e'e'n' 'a'm'e'n'd'e'd' 't'o' 'a'l'l'o'w' 'a' 'p'e'r's'o'n'
-'('d')' 'J'o'i'n't' 'R'i'g'h't'
-'o'n'l'y' 'o'n'e' 't'e'r'm' 'a's' 'P'r'e's'i'd'e'n't'
-'3'8'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'h'a's' 'a'b'o'l'i's'h'e'd' 't'h'e' 'c'h'i'l'd' 'l'a'-'
-'('d')' 'I's' 's'i'l'e'n't' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't'’'s' 'r'e'-'e'l'e'c't'i'o'n'
-'b'o'u'r'?'
-'t'o' 't'h'e' 'o'f'f'i' 'c'e'
-'('a')' '2'4' '('b')' '2'7'
-'3'0'.' 'T'h'e' 'S't'a't'e's' 'r'e'o'r'g'a'n'i'z'a't'i'o'n' 'i'n' '1'9'5'6' 'c'r'e'a't'e'd'
-'('c')' '2'9' '('d')' '3'4'
-'('a')' '1'4' 'S't'a't'e's' 'a'n'd' '6' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's'
-'3'9'.' 'W'e'l'f'a'r'e' 'S't'a't'e' 'i's' 't'h'e' 'a'i'm' 'o'f'
-'('b')' '1'5' 'S't'a't'e's' 'a'n'd' '9' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's'
-'('a')' 'A'n'a'r'c'h'i's'm'
-'('c')' '1'7' 'S't'a't'e's' 'a'n'd' '6' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's'
-'('b')' 'I'n'd'i'v'i'd'u'a'l'i's'm'
-'('d')' '1'7' 'S't'a't'e's' 'a'n'd' '9' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's'
-'('c')' 'S'c'i'e'n't'i'f'i' 'c' 'S'o'c'i'a'l'i's'm'
-'3'1'.' 'T'h'e' 'r'e'l'a't'i'o'n's'h'i'p' 'b'e't'w'e'e'n' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('d')' 'D'e'm'o'c'r'a't'i'c' 'S'o'c'i'a'l'i's'm'
-'a'n'd' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'i'n' 'I'n'd'i'a' 'i's' 'd'e't'e'r'm'i'n'e'd'
-'4'0'.' 'T'h'e' 'f'i' 'r's't' 'L'a'w' 'O'f'f'i' 'c'e'r' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't'
-'b'y'
-'o'f' 'I'n'd'i'a' 'i's'
-'I'.' 'A'r't'i'c'l'e's' '7'4'-'7'8' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'I'I'.' 'C'o'n'v'e'n't'i'o'n's'
-'('b')' 'L'a'w' 'M'i'n'i's't'e'r'
-'I'I'I'.' 'J'u'd'i'c'i'a'l' 'p'r'o'n'o'u'n'c'e'm'e'n't's'
-'('c')' 'A't't'o'r'n'e'y' 'G'e'n'e'r'a'l'
-'I'V'.' 'P'e'r's'o'n'a'l' 'r'e'l'a't'i'o'n's'
-'('d')' 'A'u'd'i't'o'r' 'G'e'n'e'r'a'l'
-'('a')' 'I',' 'I'I' '('b')' 'I'I',' 'I'I'I'
-'4'1'.' 'T'h'e' 'o'f'f'i' 'c'i'a'l' 'l'a'n'g'u'a'g'e' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'U'n'i'o'n'
-'('c')' 'I'I'I',' 'I'V' '('d')' 'I',' 'I'V'
-'i's'
-'3'2'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'A'r't'i'c'l'e's' 'o'f' 't'h'e'
-'('a')' 'H'i'n'd'i'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 's'p'e'c'i'a'l'l'y' 'g'u'a'r'a'n't'e'e's'
-'('b')' 'E'n'g'l'i's'h'
-'f'r'e'e'd'o'm' 'o'f' 't'h'e' 'P'r'e's's'?'
-'('c')' 'E'n'g'l'i's'h' 'a'n'd' 'H'i'n'd'i'
-'('a')' '1'6' '('b')' '1'9'
-'('d')' 'U'r'd'u',' 'H'i'n'd'i' 'a'n'd' 'E'n'g'l'i's'h'
-'('c')' '2'2' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'4'2'.' 'T'h'e' 'a'c't' 'o'f' 'a'd'o'p't'i'n'g' 'a' 'f'o'r'e'i'g'n'e'r' 'a'n'd' 'm'a'k'-'
-'3'3'.' 'I'n' 'a' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'd'e'm'o'c'r'a'c'y' 'i'n'g' 'h'i'm' 'a' 'c'i't'i'z'e'n' 'o'f' 't'h'e' 'c'o'u'n't'r'y' 'f'o'r' 'a'l'l' 'p'u'r'-'
-'('a')' 'e'x'e'c'u't'i'v'e' 'c'o'n't'r'o'l's' 't'h'e' 'L'e'g'i's'l'a't'u'r'e' 'p'o's'e's' 't'h'r'o'u'g'h' 'a' 'l'e'g'a'l' 'p'r'o'c'e's's' 'i's' 'c'a'l'l'e'd'
-'('b')' 'e'x'e'c'u't'i'v'e' 'a'n'd' 'L'e'g'i's'l'a't'u'r'e' 'a'r'e' 's't'r'i'c't'l'y' '('a')' 'd'u'a'l' 'c'i't'i'z'e'n's'h'i'p'
-'s'e'p'a'r'a't'e' '('b')' 'P'I'O' '('P'e'r's'o'n's' 'o'f' 'I'n'd'i'a'n' 'O'r'i'g'i'n')' 'S't'a't'u's'
-'('c')' 't'h'e' 'J'u'd'i'c'i'a'r'y' 'c'o'n't'r'o'l's' 'b'o't'h' 'L'e'g'i's'l'a't'u'r'e' '('c')' 'n'a't'u'r'a'l'i'z'a't'i'o'n'
-'a'n'd' 'E'x'e'c'u't'i'v'e' '('d')' 'r'i'g'h't' 'o'f' 'r'e'-'e'n't'r'y'
-'('d')' 't'h'e' 'L'e'g'i's'l'a't'u'r'e' 'c'o'n't'r'o'l's' 't'h'e' 'E'x'e'c'u't'i'v'e' '4'3'.' 'I'n' 'I'n'd'i'a' 'c'o'n't'e'x't' 'w'h'i'c'h' 'o'f' 't'h'e's'e' 's't'a't'e'm'e'n't's'
-'3'4'.' 'T'h'e' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'c'o'n's'i's't's' 'o'f' 'i's' 'n'o't' 'c'o'r'r'e'c't'?'
-'('a')' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'R'a'j'y'a' 'S'a'b'h'a' '('a')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'd'i's's'o'l'v'e' 't'h'e' 'P'a'r'l'i'a'-'
-'('b')' 'P'r'e's'i'd'e'n't',' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'R'a'j'y'a' 'S'a'b'-' 'm'e'n't'
-'h'a' '('b')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 's'u'm'm'o'n' 't'h'e' 'P'a'r'l'i'a'-'
-'('c')' 'P'r'e's'i'd'e'n't',' 'M'i'n'i's't'e'r's' 'a'n'd' 't'h'e' 'T'w'o' 'm'e'n't'
-'H'o'u's'e's' '('c')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'd'i's's'o'l'v'e' 't'h'e' 'L'o'k'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' 'S'a'b'h'a'
-'
-'('d')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'p'r'o'r'o'g'u'e' 't'h'e' 'P'a'r'l'i'a'-' '5'2'.' 'T'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a'
-'m'e'n't' '('a')' 'i's' 'a' 'c'o'u'r't' 'o'f' 'r'e'c'o'r'd' 'a'n'd' 'h'a's' 'a' 'p'o'w'e'r' 't'o'
-'4'4'.' 'I'n' 'I'n'd'i'a' 'a'n'd' 'O'r'd'i'n'a'n'c'e' 'i's's'u'e'd' 'b'y' 't'h'e' 'P'r'e's'-' 'p'u'n'i's'h' 'f'o'r' 'i't's' 'c'o'n't'e'm'p't'
-'i'd'e'n't' 'o'r' 'a' 'G'o'v'e'r'n'o'r' 'c'a'n' 'r'e'm'a'i'n' 'i'n' 'f'o'r'c'e' '('b')' 'i's' 't'h'e' 'o'n'l'y' 'h'i'g'h'e's't' 'c'o'u'r't' 'o'f' 'a'p'p'e'a'l'
-'w'i't'h'o'u't' 't'h'e' 'a'p'p'r'o'v'a'l' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'r' '('c')' 'i's' 'l'i'k'e' 'H'o'u's'e' 'o'f' 'L'o'r'd's' 'o'n' 'i't's' 'j'u'd'i'c'i'a'l'
-'S't'a't'e' 'A's's'e'm'b'l'y' 'f'o'r' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' 's'i'd'e'
-'('a')' '6' 'm'o'n't'h's' '('b')' '3' 'm'o'n't'h's' '('d')' 'a's' 'i'n' 'a'l'l' 'r'e's'p'e'c't's' 'l'i'k'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('c')' '2' 'm'o'n't'h's' '('d')' '4' 'm'o'n't'h's' 'o'f' 'U'S'A'
-'4'5'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e'm'e'n't's' 'r'e'l'a't'-' '5'3'.' 'I'n' '1'7'4'0',' 'w'h'i'c'h' 'a'g'e'n'c'y' 'o'f' 't'h'e' 'B'o'm'b'a'y'
-'i'n'g' 't'o' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'G'o'v'e'r'n'm'e'n't' 'w'a's' 's'e't'u'p' 't'o' 'e'n'f'o'r'c'e' 'c'o'n't'r'o'l'
-'I'n'd'i'a' 'i's' 'n'o't' 'c'o'r'r'e'c't'?' 'o'n' 't'r'a'd'e' 'o'n' 't'h'e' 'K'o'n'k'a'n' 'C'o'a's't'?'
-'('a')' 'I't' 'c'a'n' 'b'e' 'd'i's's'o'l'v'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' '('a')' 'B'o'm'b'a'y'-'K'o'n'k'a'n' 'E'm'p'i'r'e'
-'a'f't'e'r' 'a' 't'e'r'm' 'o'f' '5' 'y'e'a'r's' '('b')' 'O'u'd'h'-'B'o'm'b'a'y' 'G'h'a't'
-'('b')' 'I't' 'i's' 'a' 'p'e'r'm'a'n'e'n't' 'b'o'd'y' 'a'n'd' '1'/'3'r'd' 'o'f' 'i't's' '('c')' 'B'o'm'b'a'y'-'O'u'd'h' 'R'u'l'e'
-'m'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y' '2' 'y'e'a'r's' '('d')' 'B'o'm'b'a'y' 'M'a'r'i'n'e's'
-'('c')' 'I't's' 'm'e'm'b'e'r's' 'a'r'e' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'S't'a't'e' '5'4'.' 'T'h'e' 'a'r'e'a' 'o'f' 'L'o'k' 'S'a'b'h'a' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f'
-'A's's'e'm'b'l'i'e's' 'b'y' 't'h'e' 'm'e't'h'o'd' 'o'f' 'p'r'o'p'o'r'-' 'G'e'n'e'r'a'l' 'E'l'e'c't'i'o'n' 'i'n' 'I'n'd'i'a' 'i's' 'd'e't'e'r'm'i'n'e'd' 'b'y'
-'t'i'o'n'a'l' 'r'e'p'r'e's'e'n't'a't'i'o'n' 't'h'e'
-'('d')' 'I't' 'h'a's' 'n'o' 'c'o'n't'r'o'l' 'o'v'e'r' 'M'o'n'e'y' 'B'i'l'l's' 'e'x'-' '('a')' 'D'e'l'i'm'i't'a't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'c'e'p't' 't'o' 'd'e'l'a'y' 't'h'e'm' 'f'o'r' '1'4' 'd'a'y's' '('b')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'4'6'.' 'I'n'd'i'r'a' 'S'w'a'h'n'e'y' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'a' 'c'a's'e' '('c')' 'C'e'n's'u's' 'C'o'm'm'i's's'i'o'n'
-'p'o'p'u'l'a'r'l'y' 'k'n'o'w'n' 'a's'
-'('d')' 'P'r'e's'i'd'e'n't'
-'('a')' 'M'a'n'd'a'l' 'j'u'd'g'm'e'n't'
-'5'5'.' 'T'e'r'm' 'o'f' 'L'o'k' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'
-'('b')' 'A'y'o'd'h'y'a' 'j'u'd'g'm'e'n't'
-'i's'
-'('c')' 'S'u'i'c'i'd'a'l' 'j'u'd'g'm'e'n't'
-'('a')' 'f'i' 'v'e' 'y'e'a'r's' 'u'n'l'e's's' 'i't' 'i's' 'd'i's's'o'l'v'e'd'
-'('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'j'u'd'g'm'e'n't'
-'('b')' 'f'o'u'r' 'y'e'a'r's' 'f'r'o'm' 't'h'e' 'd'a't'e' 'o'f' 'i't's' 'f'i' 'r's't' 's'e's'-'
-'4'7'.' 'U'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n',' 't'h'e' 'r'e's'i'd'u'a'r'y'
-'s'i'o'n'
-'p'o'w'e'r's' 'v'e's't' 'w'i't'h' 't'h'e'
-'('c')' 'f'i' 'v'e' 'y'e'a'r's' 'f'r'o'm' 't'h'e' 'd'a't'e' 'o'f' 'o'a't'h' 't'a'k'e'n'
-'('a')' 'P'r'e's'i'd'e'n't'
-'b'y' 't'h'e' 'm'e'm'b'e'r's'
-'('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('d')' 'i't' 'i's' 'a' 'p'e'r'm'a'n'e'n't' 'b'o'd'y'
-'('c')' 'U'n'i'o'n' 'g'o'v'e'r'n'm'e'n't'
-'5'6'.' 'F'r'o'm' 'w'h'i'c'h' 'c'o'u'n't'r'y'’'s' 'C'o'n's't'i't'u't'i'o'n' 't'h'e' 'J'u'-'
-'('d')' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'d'i'c'i'a'l' 'R'e'v'i'e'w' 'h'a'v'e' 'b'e'e'n' 'b'o'r'r'o'w'e'd'?'
-'4'8'.' 'W'h'i'c'h' 'o'r'g'a'n' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'i's' 'k'n'o'w'n'
-'('a')' 'I'r'i's'h' '('b')' 'C'a'n'a'd'a'
-'a's' 't'h'e' '‘'F'i'f't'h' 'w'h'e'e'l' 'o'f' 't'h'e' 'C'o'a'c'h'’'?'
-'('c')' 'B'r'i't'i's'h' '('d')' 'U'S'
-'('a')' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n'
-'5'7'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'd'e'f'i' 'n'e's' 'E'q'u'a'l'i't'y' 'b'e'f'o'r'e' 'l'a'w'
-'('b')' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'a'n'd' 'e'q'u'a'l' 'p'r'o't'e'c't'i'o'n' 'o'f' 'l'a'w'?'
-'('c')' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e' 'C'o'm'm'i's's'i'o'n'
-'('a')' 'A'r't'i'c'l'e' '1'6' '('b')' 'A'r't'i'c'l'e' '1'4'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'A'r't'i'c'l'e' '2'0' '('d')' 'A'r't'i'c'l'e' '2'1'
-'4'9'.' 'B'y' 'w'h'i'c'h' 'c'o'n's't'i't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't'
-'5'8'.' 'W'h'i'c'h' 'a'r't'i'c'l'e's' 'd'e'f'i' 'n'e's' 'P'r'o't'e'c't'i'o'n' 'o'f' 'l'i'f'e'
-'P'a'n'c'h'a'y'a't'i' 'R'a'j' 'w'a's' 'i'n't'r'o'd'u'c'e'd'?'
-'a'n'd' 'P'e'r's'o'n'a'l' 'l'i'b'e'r't'y'?'
-'('a')' '7'4't'h' '('b')' '7'3'r'd'
-'('a')' 'A'r't'i'c'l'e' '1'6' '('b')' 'A'r't'i'c'l'e' '1'4'
-'('c')' '4'2'n'd' '('d')' '4'4't'h'
-'('c')' 'A'r't'i'c'l'e' '2'0' '('d')' 'A'r't'i'c'l'e' '2'1'
-'5'0'.' 'F'r'o'm' 'w'h'i'c'h' 'c'o'u'n't'r'y'’'s' 'C'o'n's't'i't'u't'i'o'n' 't'h'e'
-'5'9'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'd'e'f'i' 'n'e's' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w'?'
-'R'i'g'h't' 't'o' 'E'q'u'a'l'i't'y' 'h'a'v'e' 'b'e'e'n' 'b'o'r'r'o'w'e'd'?'
-'('a')' 'A'r't'i'c'l'e' '1'6' '('b')' 'A'r't'i'c'l'e' '1'3'
-'('a')' 'I'r'i's'h' '('b')' 'C'a'n'a'd'a'
-'('c')' 'A'r't'i'c'l'e' '2'0' '('d')' 'A'r't'i'c'l'e' '2'1'
-'('c')' 'B'r'i't'i's'h' '('d')' 'U'S'
-'6'0'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'd'e'f'i' 'n'e's' 'P'r'o't'e'c't'i'o'n' 'i'n' 'r'e's'p'e'c't'
-'5'1'.' 'C'o'n's't'i't'u't'i'o'n' 'A'm'e'n'd'i'n'g' 'B'i'l'l' 'p'a's's'e'd' 'b'y'
-'o'f' 'c'o'n'v'i'c't'i'o'n' 'f'o'r' 'o'f'f'e'n'c'e's'?'
-'t'h'e' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'a'l's'o' 'r'e'q'u'i'r'e's' 't'o' 'b'e'
-'('a')' 'A'r't'i'c'l'e' '1'6' '('b')' 'A'r't'i'c'l'e' '1'4'
-'r'a't'i'f'i' 'e'd' 'b'y' 't'h'e' 'L'e'g'i's'l'a't'u'r'e' 'o'f' 'n'o't' 'l'e's's' 't'h'a'n'
-'('c')' 'A'r't'i'c'l'e' '2'0' '('d')' 'A'r't'i'c'l'e' '2'1'
-'h'a'l'f' 'o'f' 't'h'e' 'S't'a't'e's' 'i'n' 'r'e'g'a'r'd' 't'o' 't'h'e'
-'6'1'.' 'M'e'm'b'e'r's' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'o'f' 'I'n'd'i'a' 'a'r'e' 'n'o't'
-'('a')' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's'
-'a's's'o'c'i'a't'e'd' 'w'i't'h'
-'('b')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'1'.' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e'
-'('c')' 'R'e'p'r'e's'e'n't'a't'i'o'n' 'o'f' 'S't'a't'e's' 'i'n' 'P'a'r'l'i'a'-'
-'m'e'n't' '2'.' 'E's't'i'm'a't'e's' 'C'o'm'm'i't't'e'e'
-'('d')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'R'e'm'e'd'i'e's' '3'.' 'C'o'm'm'i't't'e'e' 'o'n' 'P'u'b'l'i'c' 'U'n'd'e'r't'a'k'i'n'g'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'6'7'
-'('a')' '1' 'a'n'd' '2' '('b')' '3' 'o'n'l'y' '7'1'.' 'G'e'n'e'r'a'l'l'y' 'a' 'j'u'd'g'm'e'n't' 'o'f' 'a' 'c'o'u'r't' 'c'o'n's'i's't's'
-'('c')' '2' 'o'n'l'y' '('d')' '1' 'a'n'd' '3' 'o'f' 'c'e'r't'a'i'n' 'o'b's'e'r'v'a't'i'o'n's' 'w'h'i'c'h' 'l'a'y' 'd'o'w'n'
-'6'2'.' 'W'h'i'c'h' 'H'o'u's'e' 'i's' 'b'e't't'e'r' 'p'l'a'c'e'd' 'w'i't'h' 'r'e'g'a'r'd' 'c'e'r't'a'i'n' 'p'r'i'n'c'i'p'l'e's' 'o'f' 'l'a'w'.' 'S'u'c'h' 'o'b's'e'r'v'a'-'
-'t'o' 'c'o'n't'r'o'l' 'o'v'e'r' 'e'x'e'c'u't'i'v'e' 'i'n' 'I'n'd'i'a'?' 't'i'o'n's' 'a'r'e' 'c'a'l'l'e'd' '_'_'_'_'_'_'_'_'_'_'
-'('a')' 'L'o'k' 'S'a'b'h'a' '('a')' 'o'b'i't'e'r' 'd'i'c't'a' '('b')' 's't'a'r'e' 'd'e'c'i's'i's'
-'('b')' 'R'a'j'y'a' 'S'a'b'h'a' '('c')' 'r'a't'i'o' 'd'e'c'i'd'e'n'd'i' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('c')' 'B'o't'h' 'a'r'e' 'e'q'u'a'l'l'y' 'p'l'a'c'e'd' '7'2'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'c'o'r'r'e'c't' 's't'a't'e'-'
-'('d')' 'I't' 'd'e'p'e'n'd's' 'f'r'o'm' 'w'h'i'c'h' 'H'o'u's'e' 't'h'e' 'm'e'n't' 'o'f' 'l'a'w'?'
-'P'r'i'm'e' 'M'i'n'i's't'e'r' 'c'o'm'e's' '('a')' 'J'u'd'g'e's' 'm'a'k'e' 't'h'e' 'l'a'w'
-'6'3'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'c'o'n's'i'd'e'r'e'd' '('b')' 'J'u'd'g'e's' 'd'o' 'n'o't' 'm'a'k'e' 't'h'e' 'l'a'w'
-'a's' 't'h'e' 'G'u'a'r'd'i'a'n' 'o'f' 'P'u'b'l'i'c' 'P'u'r's'e' 'i'n' 'I'n'd'i'a'?' '('c')' 'L'e'g'i's'l'a't'u'r'e' 'm'a'k'e's' 't'h'e' 'l'a'w' 'a'n'd' 't'h'e'
-'('a')' 'P'a'r'l'i'a'm'e'n't' 'J'u'd'g'e's' 'i'n't'e'r'p'r'e't' 't'h'e'm'
-'('b')' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r'-'G'e'n'e'r'a'l' '('d')' 'L'e'g'i's'l'a't'u'r'e' 'm'a'k'e's' 't'h'e' 'l'a'w' 'a'n'd' 't'h'e'
-'('c')' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e' 'J'u'd'g'e's' 'i'n't'e'r'p'r'e't' 't'h'e'm' 'b'u't' 't'h'e' 'i'n't'e'r'p'r'e'-'
-'('d')' 't'h'e' 'P'r'e's'i'd'e'n't' 't'a't'i'o'n' 'a'l's'o' 'b'e'c'o'm'e's' 'l'a'w'
-'6'4'.' 'A' 'M'o'n'e'y' 'B'i'l'l' 'i'n' 'I'n'd'i'a' '7'3'.' 'I'f' 't'h'e'r'e' 'i's' 'a' 'c'o'n'f'l' 'i'c't' 'b'e't'w'e'e'n' 't'h'e' 'C'o'n's't'i't'u'-'
-'('a')' 'c'a'n'n'o't' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 't'i'o'n' 'a'n'd' 'a' 'S't'a't'e' 'L'a'w' 'i'n' 'I'n'd'i'a'
-'S't'a't'e's' '('a')' 't'h'e' 'S't'a't'e' 'L'a'w' 'w'i'l'l' 'p'r'e'v'a'i'l'
-'('b')' 'n'e'e'd's' 't'o' 'b'e' 'c'e'r't'i'f'i' 'e'd' 'a's' 's'u'c'h' 'b'y' 't'h'e' '('b')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'w'i'l'l' 'p'r'e'v'a'i'l'
-'P'r'e's'i'd'e'n't' '('c')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'w'i'l'l' 'p'r'e'v'a'i'l' 'a'n'd' 't'h'e'
-'('c')' 'c'a'n' 'b'e' 'a'm'e'n'd'e'd' 'b'y' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e' 'L'a'w' 'w'o'u'l'd' 'b'e' 'c'a'l'l'e'd' 'u'l't'r'a' 'v'i'r'e's'
-'S't'a't'e's' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')' '7'4'.' 'C'a'n' 't'h'e' 'l'o'w'e'r' 'c'o'u'r't' 'i'n' 'I'n'd'i'a' 'd'e'c'i'd'e' 'o'n'
-'6'5'.' 'T'h'e' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'a' 'e'l'e'c't'i'o'n' 'i's's'u'e'?'
-'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'i's' '('a')' 'N'o',' 'o'n'l'y' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'a'n'd' 'S'u'p'r'e'm'e'
-'('a')' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'C'h'a'i'r'm'a'n' 'C'o'u'r't'
-'('b')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('b')' 'Y'e's'
-'('c')' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' '('c')' 'Y'e's',' 'o'n'l'y' 't'h'e' 'H'i'g'h' 'C'o'u'r't'
-'('d')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'f'r'o'm' '('d')' 'Y'e's',' 'o'n'l'y' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'a'm'o'n'g's't' 'i't's' 'm'e'm'b'e'r's' '7'5'.' 'W'h'o' 'h'a's' 't'h'e' 'p'o'w'e'r' 't'o' 'c'r'e'a't'e' 'I'n't'e'r'-'S't'a't'e'
-'6'6'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'd'e'f'i' 'n'e's' 'P'r'o'h'i'b'i't'i'o'n' 'o'f' 'd'i's'-' 'C'o'u'n'c'i'l's' 'i'n' 'I'n'd'i'a'?'
-'c'r'i'm'i'n'a't'i'o'n' 'o'n'l'y' 'o'n' 'g'r'o'u'n'd's' 'o'f' 'r'e'l'i'g'i'o'n',' '('a')' 'P'r'e's'i'd'e'n't' '('b')' 'P'a'r'l'i'a'm'e'n't'
-'r'a'c'e',' 'c'a's't'e',' 's'e'x' 'o'r' 'p'l'a'c'e' 'o'f' 'b'i'r't'h'?' '('c')' 'G'o'v'e'r'n'o'r' '('d')' 'H'o'm'e' 'M'i'n'i's't'e'r'
-'('a')' 'A'r't'i'c'l'e' '1'6' '('b')' 'A'r't'i'c'l'e' '1'4' '7'6'.' 'P'r'o't'e'c't'i'o'n' 'o'f' 't'h'e' 'i'n't'e'r'e's't's' 'o'f' 't'h'e' 'm'i'n'o'r'i't'y'
-'('c')' 'A'r't'i'c'l'e' '1'5' '('d')' 'A'r't'i'c'l'e' '2'1' 'i's' 'e'n'v'i's'a'g'e'd' 'i'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'-'
-'6'7'.' 'W'h'a't' 'a'r'e' 't'h'e' 'a'r't'i'c'l'e's' 'w'h'i'c'h' 'd'e'f'i' 'n'e's' 'D'i'r'e'c'-' 't'i'c'l'e's'?'
-'t'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y'?' '('a')' '1'4' '('b')' '1'9'
-'('a')' '3'6' 't'o' '5'1' '('b')' '3'6' 't'o' '5'1'-'A' '('c')' '2'9' '('d')' '3'2'
-'('c')' '3'9' 't'o' '5'1' '('d')' '3'9' 't'o' '5'1'-'A' '('e')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'6'8'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 's'a'y's' 'f'o'r' 'U'n'i'f'o'r'm' 'C'i'v'i'l' '7'7'.' 'W'h'o' 'a'p'p'o'i'n't's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 'U'P'S'C' 'o'f'
-'C'o'd'e'?' 'I'n'd'i'a'?'
-'('a')' 'A'r't'i'c'l'e' '4'3' '('b')' 'A'r't'i'c'l'e' '4'0' '('a')' 'P'r'e's'i'd'e'n't'
-'('c')' 'A'r't'i'c'l'e' '4'4' '('d')' 'A'r't'i'c'l'e' '4'5' '('b')' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'6'9'.' 'W'h'i'c'h' 'p'a'r't' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'd'e'f'i' 'n'e's' 'F'u'n'd'a'-' '('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'m'e'n't'a'l' 'D'u't'i'e's'?' '('d')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('a')' 'P'a'r't' 'I' '('b')' 'P'a'r't' 'I'I' '7'8'.' 'U'n'd'e'r' 'w'h'i'c'h' 'a'r't'i'c'l'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'd'e'c'l'a'r'e'
-'('c')' 'P'a'r't' 'I'V' '('d')' 'P'a'r't' 'I'V'-'A' 'N'a't'i'o'n'a'l' 'E'm'e'r'g'e'n'c'y'?'
-'7'0'.' 'T'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 'o'u'r' 'C'o'n's't'i't'u't'i'o'n' 'i'n'c'l'u'd'e's' '('a')' 'A'r't'i'c'l'e' '3'5'2' '('b')' 'A'r't'i'c'l'e' '3'6'0'
-'a'l'l' 'e'x'c'e'p't' '('c')' 'A'r't'i'c'l'e' '3'5'0' '('d')' 'A'r't'i'c'l'e' '3'5'6'
-'('a')' 'A'd'u'l't' 'f'r'a'n'c'h'i's'e' '7'9'.' 'U'n'd'e'r' 'w'h'i'c'h' 'a'r't'i'c'l'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'd'e'c'l'a'r'e'
-'('b')' 'E'q'u'a'l'i't'y' 'o'f' 's't'a't'u's' 'S't'a't'e' 'E'm'e'r'g'e'n'c'y'?'
-'('c')' 'F'r'a't'e'r'n'i't'y' '('a')' 'A'r't'i'c'l'e' '3'5'2' '('b')' 'A'r't'i'c'l'e' '3'6'0'
-'('d')' 'J'u's't'i'c'e' '('c')' 'A'r't'i'c'l'e' '3'5'0' '('d')' 'A'r't'i'c'l'e' '3'5'6'
-'
-'8'0'.' 'U'n'd'e'r' 'w'h'i'c'h' 'a'r't'i'c'l'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'd'e'c'l'a'r'e' '9'1'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 't'e'r'm's' 'i's' 'n'o't'
-'F'i'n'a'n'c'i'a'l' 'E'm'e'r'g'e'n'c'y'?' 't'h'e' 'm'a'i'n' 'i'n'g'r'e'd'i'e'n't' 'o'f' 't'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 't'h'e'
-'('a')' 'A'r't'i'c'l'e' '3'5'2' '('b')' 'A'r't'i'c'l'e' '3'6'0' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?'
-'('c')' 'A'r't'i'c'l'e' '3'5'0' '('d')' 'A'r't'i'c'l'e' '3'5'6' '('a')' 'J'u's't'i'c'e' '('b')' 'L'i'b'e'r't'y'
-'8'1'.' 'W'h'o' 'h'a's' 't'h'e' 'p'o'w'e'r' 't'o' 'l'e'g'i's'l'a't'e' 'o'n' 't'h'e' 'm'a't'-' '('c')' 'E'q'u'a'l'i't'y' '('d')' 'C'o'm'i't'y'
-'t'e'r's' 'i'n' 't'h'e' '“'C'o'n'c'u'r'r'e'n't' 'L'i's't'”' 'o'f' 't'h'e' 'C'o'n's't'i'-' '9'2'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 't'h'e'
-'t'u't'i'o'n' 'o'f' 'I'n'd'i'a'?' '('a')' 'm'o's't' 'r'e'a'd'a'b'l'e' 'd'o'c'u'm'e'n't' 'i'n' 't'h'e' 'w'o'r'l'd'
-'('a')' 'B'o't'h' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 'S't'a't'e' 'L'e'g'i's'l'a'-' '('b')' 'm'o's't' 'l'a'r'g'e's't' 'c'o'n's't'i't'u't'i'o'n'a'l' 'd'o'c'u'm'e'n't'
-'t'u'r'e's' 'i'n' 't'h'e' 'w'o'r'l'd'
-'('b')' 'P'a'r'l'i'a'm'e'n't' 'o'n'l'y' '('c')' 'm'o's't' 's'h'o'r't'e's't' 'd'o'c'u'm'e'n't' 'o'f' 't'h'e' 'w'o'r'l'd'
-'('c')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'o'n'l'y' '('d')' 'm'o's't' 'i'd'e'a'l'i's't'i'c' 'd'o'c'u'm'e'n't' 'o'f' 't'h'e' 'w'o'r'l'd'
-'('d')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'o'n'l'y' '9'3'.' 'T'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'8'2'.' 'W'h'a't' 'i's' 't'h'e' 'n'u'm'b'e'r' 'o'f' 'J'u'd'g'e's' 'i'n' 't'h'e' 'S'u'-' 'g'r'a'n't's' 't'h'r'e'e' 'k'i'n'd's' 'o'f' 'j'u's't'i'c'e' 't'o' 'i't's' 'c'i't'i'z'e'n's'.'
-'p'r'e'm'e' 'C'o'u'r't'?' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'i'n'c'l'u'd'e'd'
-'('a')' '1'4' '('b')' '3'1' 'i'n' 't'h'e's'e' 't'h'r'e'e' 'k'i'n'd's' 'o'f' 'J'u's't'i'c'e'?'
-'('c')' '1'3' '('d')' '1'1' '('a')' 'S'o'c'i'a'l' '('b')' 'E'c'o'n'o'm'i'c'
-'8'3'.' 'W'h'a't' 'i's' 't'h'e' 't'e'r'm' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i'n' 'P'a'r'-' '('c')' 'C'u'l't'u'r'a'l' '('d')' 'P'o'l'i't'i'c'a'l'
-'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'?' '9'4'.' 'W'h'i'c'h' 'P'a'r't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('a')' '5' 'y'e'a'r's' '('b')' '6' 'y'e'a'r's' 'c'o'n't'a'i'n's' 't'h'e' 'S't'a't'e' 'o'f' 'e's't'a'b'l'i's'h' 'P'a'n'c'h'a'y'a't'i'
-'('c')' '4' 'y'e'a'r's' '('d')' '7' 'y'e'a'r's' 'R'a'j' 'I'n's't'i't'u't'i'o'n's'?'
-'8'4'.' 'W'h'a't' 'i's' 't'h'e' 'm'a'x'i'm'u'm' 's't'r'e'n'g't'h' 'o'f' 't'h'e' 'R'a'-' '('a')' 'P'r'e'a'm'b'l'e'
-'j'y'a' 'S'a'b'h'a'?' '('b')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'('a')' '2'5'0' 'M'e'm'b'e'r's' '('b')' '2'3'8' 'M'e'm'b'e'r's'
-'('c')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y'
-'('c')' '2'2'5' 'M'e'm'b'e'r's' '('d')' '5'5'2' 'M'e'm'b'e'r's'
-'('d')' 'N'i'n't'h' 'S'c'h'e'd'u'l'e'
-'8'5'.' 'A' 'l'e'g'a'l' 'a'u't'h'o'r'i'z'a't'i'o'n' 't'o' 'a' 'd'e'b't'o'r' 't'o' 'p'o's't'-'
-'9'5'.' 'T'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'h'a's' 'a' 'D'r'a'f't'i'n'g'
-'p'o'n'e' 'p'a'y'm'e'n't' 'f'o'r' 'a' 'c'e'r't'a'i'n' 't'i'm'e' 'i's' 'c'a'l'l'e'd'
-'C'o'm'm'i't't'e'e' 'w'h'o's'e' 'C'h'a'i'r'm'a'n' 'w'a's'
-'('a')' 'm'o'r'a't'o'r'i'u'm' '('b')' 'd'e'b't' 'f'a'c'i'l'i't'y'
-'('a')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd'
-'('c')' 'b'a'r'r'i'n'g' 'o'f' 'd'e'b't' '('d')' 'P'r'o'b'a't'e'
-'('b')' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u'
-'8'6'.' 'H'o'w' 'm'a'n'y' 't'i'm'e's' 'N'a't'i'o'n'a'l' 'E'm'e'r'g'e'n'c'y' 'h'a's'
-'('c')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'b'e'e'n' 'd'e'c'l'a'r'e'd' 'i'n' 'o'u'r' 'c'o'u'n't'r'y'?'
-'('d')' 'K'.' 'M'.' 'M'u'n's'h'i'
-'('a')' 'O'n'c'e'
-'9'6'.' 'W'h'i'c'h' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a' 'h'a'v'e' 'p'e'r'-'
-'('b')' 'T'h'r'i'c'e'
-'f'o'r'm'e'd' 't'h'e' 'd'u't'i'e's' 'o'f' 'P'r'e's'i'd'e'n't'?'
-'('c')' 'M'o'r'e' 't'h'a'n' '1'0'0' 't'i'm'e's'
-'('a')' 'J'u's't'i'c'e' 'V'.' 'N'.' 'K'h'a'r'e'
-'('d')' 'N'o't' 'e'v'e'n' 'o'n'c'e'
-'('b')' 'J'u's't'i'c'e' 'M'.' 'M'.' 'P'u'n'c'h'i'
-'8'7'.' 'H'o'w' 'm'a'n'y' 't'i'm'e's' 'F'i'n'a'n'c'i'a'l' 'E'm'e'r'g'e'n'c'y'
-'('c')' 'J'u's't'i'c'e' 'S'.' 'P'.' 'B'a'r'u'c'h'a'
-'h'a's' 'b'e'e'n' 'd'e'c'l'a'r'e'd' 'i'n' 'o'u'r' 'c'o'u'n't'r'y'?'
-'('d')' 'J'u's't'i'c'e' 'M'.' 'H'i'd'a'y't'u'l'l'a'h'
-'('a')' 'O'n'c'e'
-'9'7'.' 'W'h'i'c'h' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'w'a's' 'e'l'e'c't'e'd' 'u'n'-'
-'('b')' 'T'h'r'i'c'e'
-'o'p'p'o's'e'd'?'
-'('c')' 'M'o'r'e' 't'h'a'n' '1'0'0' 't'i'm'e's'
-'('a')' 'N'.' 'S'.' 'R'e'd'd'y'
-'('d')' 'N'o't' 'e'v'e'n' 'o'n'c'e'
-'('b')' 'K'.' 'R'.' 'N'a'r'a'y'a'n'a'n'
-'8'8'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'd'e's'c'r'i'b'e's' 'a'b'o'u't' 't'h'e' 'i'm'-'
-'('c')' 'R'.' 'V'e'n'k'a't'a'r'a'm'a'n'
-'p'e'a'c'h'm'e'n't' 'o'f' 'P'r'e's'i'd'e'n't'?'
-'('d')' 'S'.' 'D'.' 'S'h'a'r'm'a'
-'('a')' 'A'r't'i'c'l'e' '5'3' '('b')' 'A'r't'i'c'l'e' '5'2'
-'9'8'.' 'W'h'a't' 'i's' 't'h'e' 's'a'l'a'r'y' 'o'f' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'-'
-'('c')' 'A'r't'i'c'l'e' '6'0' '('d')' 'A'r't'i'c'l'e' '6'1'
-'d'i'a'?'
-'8'9'.' 'I'f' 'b'o't'h' 't'h'e' 'P'r'e's'i'd'e'n't' 'a'n'd' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('a')' '4'5','0'0'0' '('b')' '3'0','0'0'0'
-'a'r'e' 'n'o't' 'a'v'a'i'l'a'b'l'e' 'w'h'o' 'p'e'r'f'o'r'm's' 't'h'e' 'd'u't'i'e's'
-'('c')' '5'0','0'0'0' '('d')' '1','1'0','0'0'0'
-'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'?'
-'9'9'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 's'a'y's' 't'h'a't' 't'h'e'r'e' 's'h'o'u'l'd' 'b'e' 'a'
-'('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'V'i'c'e'-'P'r'e's'i'd'e'n't'?'
-'('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'J'u'd'g'e'
-'('a')' 'A'r't'i'c'l'e' '6'3' '('b')' 'A'r't'i'c'l'e' '6'2'
-'('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'A'r't'i'c'l'e' '6'0' '('d')' 'A'r't'i'c'l'e' '6'1'
-'('d')' 'G'o'v'e'r'n'o'r'
-'1'0'0'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 's'a'y's' 't'h'a't' 't'h'e'r'e' 's'h'o'u'l'd' 'b'e' 'a'
-'9'0'.' 'H'o'w' 'm'a'n'y' 't'i'm'e's' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'G'o'v'e'r'n'o'r'?'
-'h'a'v'e' 'p'e'r'f'o'r'm'e'd' 't'h'e' 'd'u't'i'e's' 'o'f' 'P'r'e's'i'd'e'n't'?'
-'('a')' 'O'n'c'e' '('b')' 'T'w'i'c'e' '('a')' 'A'r't'i'c'l'e' '1'6'3' '('b')' 'A'r't'i'c'l'e' '1'5'3'
-'('c')' 'T'h'r'i'c'e' '('d')' 'N'o't' 'e'v'e'n' 'o'n'c'e' '('c')' 'A'r't'i'c'l'e' '1'6'0' '('d')' 'A'r't'i'c'l'e' '1'6'1'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'6'9'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('b')' '2'.' '('a')' '3'.' '('a')' '4'.' '('a')' '5'.' '('d')' '6'.' '('d')'.' '7'.' '('d')'.' '8'.' '('d')'.' '9'.' '('d')'.' '1'0'.' '('b')'
-'1'1'.' '('b')' '1'2'.' '('a')' '1'3'.' '('b')' '1'4'.' '('a')' '1'5'.' '('a')' '1'6'.' '('d')'.' '1'7'.' '('a')' '1'8'.' '('b')' '1'9'.' '('a')' '2'0'.' '('b')'
-'2'1'.' '('b')' '2'2'.' '('a')' '2'3'.' '('a')' '2'4'.' '('b')' '2'5'.' '('a')' '2'6'.' '('d')'.' '2'7'.' '('a')' '2'8'.' '('c')' '2'9'.' '('a')' '3'0'.' '('a')'
-'3'1'.' '('a')' '3'2'.' '('b')' '3'3'.' '('d')'.' '3'4'.' '('b')' '3'5'.' '('d')' '3'6'.' '('c')' '3'7'.' '('b')' '3'8'.' '('a')' '3'9'.' '('d')'.' '4'0'.' '('c')'
-'4'1'.' '('b')' '4'2'.' '('c')' '4'3'.' '('a')' '4'4'.' '('a')' '4'5'.' '('a')' '4'6'.' '('a')' '4'7'.' '('c')' '4'8'.' '('a')' '4'9'.' '('b')' '5'0'.' '('c')'
-'5'1'.' '('c')' '5'2'.' '('a')' '5'3'.' '('d')'.' '5'4'.' '('a')' '5'5'.' '('c')' '5'6'.' '('d')'.' '5'7'.' '('b')' '5'8'.' '('d')'.' '5'9'.' '('b')' '6'0'.' '('c')'
-'6'1'.' '('d')'.' '6'2'.' '('a')' '6'3'.' '('b')' '6'4'.' '('a')' '6'5'.' '('d')' '6'6'.' '('c')' '6'7'.' '('a')' '6'8'.' '('c')' '6'9'.' '('d')'.' '7'0'.' '('a')'
-'7'1'.' '('a')' '7'2'.' '('d')'.' '7'3'.' '('c')' '7'4'.' '('a')' '7'5'.' '('b')' '7'6'.' '('c')' '7'7'.' '('a')' '7'8'.' '('a')' '7'9'.' '('b')' '8'0'.' '('b')'
-'8'1'.' '('a')' '8'2'.' '('b')' '8'3'.' '('a')' '8'4'.' '('a')' '8'5'.' '('d')' '8'6'.' '('b')' '8'7'.' '('d')'.' '8'8'.' '('d')'.' '8'9'.' '('a')' '9'0'.' '('a')'
-'9'1'.' '('d')'.' '9'2'.' '('b')' '9'3'.' '('c')' '9'4'.' '('c')' '9'5'.' '('c')' '9'6'.' '('d')'.' '9'7'.' '('a')' '9'8'.' '('d')'.' '9'9'.' '('a')' '1'0'0'.' '('b')'
-'
-'P' 'P' '4'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'U'n'd'e'r' 'w'h'i'c'h' 'c'i'r'c'u'm's't'a'n'c'e's' 'c'a'n' 'a' 'c'o'u'r't' '6'.' 'W'h'a't' 'i's' 't'h'e' 's'a'l'a'r'y' 'o'f' 'G'o'v'e'r'n'o'r' 'o'f' 'a' 'S't'a't'e'?'
-'i's's'u'e' 'a' 'w'r'i't' 'i'n' 'I'n'd'i'a'?' '('a')' '`' '4'5','0'0'0' '('b')' '`' '3'0','0'0'0'
-'('a')' 'V'i'o'l'a't'i'o'n' 'o'f' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's' '('c')' '`' '3'6','0'0'0' '('d')' '`' '8'0','0'0'0'
-'('b')' 'D'e'f'e'c't'i'v'e' 'p'r'o'c'e'd'u'r'e's' 'i'n' 'c'a's'e' 'o'f' 'D'i'r'e'c'-' '7'.' 'W'h'a't' 'i's' 't'h'e' 'q'u'o'r'u'm' 't'o' 'c'o'n's't'i't'u't'e' 'a' 'm'e'e't'-'
-'t'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y' 'i'n'g' 'o'f' 'e'i't'h'e'r' 'H'o'u's'e' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'?'
-'('c')' 'V'i'o'l'a't'i'o'n' 'o'f' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't' '('a')' 'O'n'e' 't'e'n't'h' 'o'f' 't'h'e' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 't'h'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'H'o'u's'e'
-'2'.' 'W'h'i'c'h' 's't'a't'e'm'e'n't' 'i's' 'm'o's't' 'c'o'r'r'e'c't' 'i'n' 'r'e'p'r'e'-' '('b')' 'O'n'e' 'e'i'g'h't'h' 'o'f' 't'h'e' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 't'h'e'
-'s'e'n't'i'n'g' 't'h'e' 'l'e'g'a'l' 's't'r'u'c't'u'r'e' 'o'f' 'I'n'd'i'a'?' 'H'o'u's'e'
-'('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't',' 'H'i'g'h' 'C'o'u'r't',' 'S'u'b'o'r'd'i'-' '('c')' 'O'n'e' 'f'o'u'r't'h' 'o'f' 't'h'e' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 't'h'e'
-'n'a't'e' 'C'o'u'r't's' 'H'o'u's'e'
-'('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't',' 'H'i'g'h' 'C'o'u'r't',' 'C'o'u'r't' 'o'f'
-'('d')' 'O'n'e' 's'i'x't'h' 'o'f' 't'h'e' 't'o't'a'l' 'm'e'm'b'e'r's' 'o'f' 't'h'e'
-'D'i's't'r'i'c't' 'J'u'd'g'e',' 'C'o'u'r't' 'o'f' 'A'd'd'i't'i'o'n'a'l'
-'H'o'u's'e'
-'D'i's't'r'i'c't' 'J'u'd'g'e'
-'8'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' 'e'n'a'c't'e'd' 'b'y'
-'('c')' 'S'u'p'r'e'm'e' 'C'o'u'r't',' 'H'i'g'h' 'C'o'u'r't',' 'C'o'u'r't' 'o'f'
-'a' 'C'o'n's't'i't'u'e'n't' 'a's's'e'm'b'l'y' 's'e't' 'u'p' 'i'n'
-'S'e's's'i'o'n',' 'C'o'u'r't' 'o'f' 'J'u'd'i'c'i'a'l' 'M'a'g'i's't'r'a't'e'
-'('a')' 'J'u'l'y',' '1'9'4'8' '('b')' 'J'u'l'y',' '1'9'5'0'
-'C'l'a's's' 'I'
-'('c')' 'J'u'l'y',' '1'9'4'6' '('d')' 'A'u'g'u's't',' '1'9'4'7'
-'('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't',' 'H'i'g'h' 'C'o'u'r't',' 'C'o'u'r't'
-'9'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'a's' 't'h'e' 'C'h'a'i'r'-'
-'o'f' 'D'i's't'r'i'c't' 'J'u'd'g'e',' 'C'o'u'r't' 'o'f' 'S'e's's'i'o'n','
-'m'a'n' 'o'f' 't'h'e' 'D'r'a'f't'i'n'g' 'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' 'I'n'-'
-'C'o'u'r't' 'o'f' 'A'd'd'i't'i'o'n'a'l' 'D'i's't'r'i'c't' 'J'u'd'g'e','
-'d'i'a'n' 'C'o'n's't'i't'u't'i'o'n'
-'C'o'u'r't' 'o'f' 'J'u'd'i'c'i'a'l' 'M'a'g'i's't'r'a't'e' 'C'l'a's's' 'I'
-'('a')' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd'
-'3'.' 'A' 'l'a'w' 'm'a'd'e' 'b'y' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'h'a'v'i'n'g'
-'('b')' 'T'e'j' 'B'a'h'a'd'u'r' 'S'a'p'r'u'
-'e'x't'r'a't'e'r'r'i't'o'r'i'a'l' 'o'p'e'r'a't'i'o'n'
-'('c')' 'C'.' 'R'a'j'a'g'o'p'a'l'a'c'h'a'r'i'
-'('a')' 's'h'a'l'l' 'n'o't' 'b'e' 'd'e'e'm'e'd' 'i'n'v'a'l'i'd'
-'('d')' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'('b')' 's'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 'i'n'v'a'l'i'd'
-'1'0'.' 'T'h'e' 'C'o'n's't'i't'u'e'n't' 'a's's'e'm'b'l'y' 'w'h'i'c'h' 'f'r'a'm'e'd'
-'('c')' 's'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 'u'l't'r'a'v'i'r'e's'
-'t'h'e' 'C'o'n's't'i't'u't'i'o'n' 'f'o'r' 'I'n'd'e'p'e'n'd'e'n't' 'I'n'd'i'a'
-'('d')' 's'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 'c'o'n's't'i't'u't'i'o'n'a'l'
-'w'a's' 's'e't'u'p' 'i'n'
-'4'.' 'T'h'e' 'r'u'l'e' 'o'f' 'p'a's's'i'n'g' 'r'e's'o'l'u't'i'o'n' 'b'y' '2'/'3'r'd'
-'m'a'j'o'r'i't'y' 'o'f' 't'o't'a'l' 'n'u'm'b'e'r' 'o'f' 'm'e'm'b'e'r's' 'o'f' '('a')' '1'9'4'5' '('b')' '1'9'4'6'
-'t'h'e' 'H'o'u's'e' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'i's' 'a'p'p'l'i'-' '('c')' '1'9'4'7' '('d')' '1'9'4'9'
-'c'a'b'l'e' 'i'n' 'c'a's'e' 'o'f' '1'1'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't' 'u'n'd'e'r'
-'('a')' 'a'm'e'n'd'm'e'n't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' 'c'o'n's'i'd'e'r'e'd' 't'o' 'b'e'
-'('b')' 'a'p'p'r'o'v'a'l' 'o'f' 'p'r'o'c'l'a'm'a't'i'o'n' 'o'f' 'e'm'e'r'g'e'n'-' 't'h'e' 'h'e'a'r't' 'a'n'd' 's'o'u'l' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f'
-'c'y' 'I'n'd'i'a' '('D'r' 'A'm'b'e'd'k'a'r' 'v'i'e'w')'?'
-'('c')' 'i'm'p'e'a'c'h'm'e'n't' 'o'f' 'P'r'e's'i'd'e'n't' '('a')' 'R'i'g'h't' 't'o' 'P'r'o'p'e'r't'y'
-'('d')' 'd'i's'a'p'p'r'o'v'a'l' 'b'y' 'p'r'o'c'l'a'm'a't'i'o'n' 'o'f' 'e'm'e'r'-' '('b')' 'R'i'g'h't' 't'o' 'C'o'n's't'i't'u't'i'o'n'a'l' 'R'e'm'e'd'i'e's'
-'g'e'n'c'y' '('c')' 'R'i'g'h't' 't'o' 'L'i'f'e'
-'5'.' 'P'r'o'r'o'g'a't'i'o'n' 'o'f' 't'h'e' 'H'o'u's'e' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'o'f' '('d')' 'R'i'g'h't' 't'o' 'I'n'f'o'r'm'a't'i'o'n'
-'I'n'd'i'a' 'm'e'a'n's' '1'2'.' 'C'h'a'i'r'm'a'n' 'o'f' 'C'e'n't'r'a'l' 'S'i'x't'h' 'P'a'y' 'C'o'm'm'i's'-'
-'('a')' 'a' 'H'o'u's'e' 'h'a's' 'b'e'e'n' 'b'r'o'u'g'h't' 'i'n' 's'e's's'i'o'n' 's'i'o'n' 'i'n' 'I'n'd'i'a' 'w'a's'
-'('b')' 't'h'e' 's'e's's'i'o'n' 'o'f' 't'h'e' 'H'o'u's'e' 'h'a's' 'b'e'e'n' 't'e'r'-' '('a')' 'J'u's't'i'c'e' 'B'.' 'N'.' 'S'r'i'k'r'i's'h'n'a'
-'m'i'n'a't'e'd' '('b')' 'J'u's't'i'c'e' 'R'.' 'N'.' 'M'i's'h'r'a'
-'('c')' 't'h'e' 'H'o'u's'e' 'i't's'e'l'f' 's't'a'n'd's' 't'e'r'm'i'n'a't'e'd' '('c')' 'J'u's't'i'c'e' 'L'.' 'K'.' 'M'a'j'u'm'd'a'r'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('d')' 'J'u's't'i'c'e' 'V'.' 'N'.' 'K'h'a'r'e'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'7'1'
-'1'3'.' 'I'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a's'e's' 't'h'e' 'C'o'n'-' '2'1'.' 'P'r'i'n'c'i'p'a'l' 'l'a'i'd' 'd'o'w'n' 'i'n' 'a' 'j'u'd'g'm'e'n't' 'i's'
-'s't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'a'l'l'o'w's' 'a'n'y' 'e'x'c'e'p't'i'o'n' 't'o' '('a')' 'R'e's' 'j'u'd'i'c'a't'a'
-'t'h'e' 'r'u'l'e' 'o'f' 'e'q'u'a'l'i't'y'?' '('b')' 'L'a'w'
-'('a')' 'P'r'e's'i'd'e'n't' 'a'n'd' 'G'o'v'e'r'n'o'r' '('c')' 'R'a't'i'o' 'd'e'c'i'd'e'n'd'i'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd' 'C'h'i'e'f' 'M'i'n'i's't'e'r' '('d')' 'O'b'i't'e'r' 'd'i'c't'a'
-'('c')' 'U'n'i'o'n' 'L'a'w' 'M'i'n'i's't'e'r' 'a'n'd' 'L'a'w' 'M'i'n'i's'-' '2'2'.' 'W'h'o' 'i's' 'a's's'o'c'i'a't'e'd' 'w'i't'h' 'D'r'a'f't'i'n'g' 'o'f' 'I'n'd'i'a'n'
-'t'e'r' 'o'f' 'a' 'S't'a't'e' 'P'e'n'a'l' 'C'o'd'e'
-'('d')' 'D'e'p'u't'y' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd' 'D'e'p'u't'y' '('a')' 'A'm'b'e'd'k'a'r'
-'C'h'i'e'f' 'M'i'n'i's't'e'r' '('b')' 'S'i'r' 'W'o'o'd'r'o'o'f' 'a'n'd' 'A'm'i'r'a'l'i'
-'('c')' 'L'o'r'd' 'M'a'c'a'u'l'a'y'
-'1'4'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a'n' 'i'm'p'o's'e'
-'('d')' 'M'u'l'l'a'
-'r'e'a's'o'n'a'b'l'e' 'r'e's't'r'i'c't'i'o'n's' 'o'n' 't'h'e' 'F'u'n'd'a'm'e'n'-'
-'2'3'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 't'h'e' 'I'n'd'i'a'n'
-'t'a'l' 'R'i'g'h't's' 'o'f' 'I'n'd'i'a'n' 'C'i't'i'z'e'n's'?'
-'P'e'n'a'l' 'C'o'd'e',' 'S'e'c't'i'o'n'
-'('a')' 'o'n'l'y' 'P'a'r'l'i'a'm'e'n't'
-'('a')' '2'9'9' '('b')' '3'0'0'
-'('b')' 'o'n'l'y' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('c')' '3'0'1' '('d')' '3'0'7'
-'('c')' 'b'o't'h' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'P'a'r'l'i'a'm'e'n't'
-'2'4'.' 'M'u'r'd'e'r' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 't'h'e' 'I'n'd'i'a'n' 'P'e'n'a'l'
-'('d')' 'o'n'l'y' 'H'i'g'h' 'C'o'u'r't'
-'C'o'd'e',' 'S'e'c't'i'o'n'
-'1'5'.' 'T'h'e' 'w'r'i't's' 'o'f' 'P'r'o'h'i'b'i't'i'o'n' 'a'n'd' 'C'e'r't'i'o'r'a'r'i' 'a'r'e'
-'('a')' '2'9'9' '('b')' '3'0'0'
-'a'v'a'i'l'a'b'l'e' 'a'g'a'i'n's't'
-'('c')' '3'0'1' '('d')' '3'0'7'
-'('a')' 'J'u'd'i'c'i'a'l' 'o'r' 'q'u'a's'i'-'j'u'd'i'c'i'a'l' 'a'u't'h'o'r'i't'i'e's'
-'2'5'.' 'I'n' 'I'n'd'i'a' 'a'n' 'a'g'g'r'i'e'v'e'd' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'o'f' 't'h'e'
-'('b')' 'L'e'g'a'l' 'a'n'd' 's'e'm'i'-'l'e'g'a'l' 'a'u't'h'o'r'i't'i'e's'
-'U'n'i'o'n' 'c'a'n' 'c'h'a'l'l'e'n'g'e' 't'h'e' 'd'e'c'i's'i'o'n's' 'o'f' 't'h'e'
-'('c')' 'I'm'p'l'i'e's' 'a'u't'h'o'r'i't'i'e's'
-'A'd'm'i'n'i's't'r'a't'i'v'e' 'T'r'i'b'u'n'a'l'
-'('d')' 'N'o'n'-'s't'a't'u't'o'r'y' 'a'u't'h'o'r'i't'i'e's'
-'('a')' 'b'e'f'o'r'e' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'1'6'.' 'H'o'w' 'l'o'n'g' 'd'i'd' 't'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' '('b')' 'b'e'f'o'r'e' 't'h'e' 'H'i'g'h' 'C'o'u'r't'
-'t'a'k'e' 't'o' 'f'i' 'n'a'l'l'y' 'p'a's's' 't'h'e' 'c'o'n's't'i't'u't'i'o'n'?' '('c')' 'b'e'f'o'r'e' 'b'o't'h' '('a')' 'a'n'd' '('b')'
-'('a')' 'A'b'o'u't' '6' 'm'o'n't'h's' 'i'n' '1'9'4'9' '('d')' 'b'e'f'o'r'e' 'n'o' 'c'o'u'r't' 'o'f' 'l'a'w'
-'('b')' 'E'x'a'c't'l'y' 'a' 'y'e'a'r' 's'i'n'c'e' '2'6' 'N'o'v'e'm'b'e'r' '2'6'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'k'n'o'w'n' 'a's' 't'h'e'
-'1'9'4'8' 'F'a't'h'e'r' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'?'
-'('c')' 'A'b'o'u't' '2' 'y'e'a'r's' 's'i'n'c'e' '1'5' 'A'u'g'u's't' '1'9'4'7' '('a')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'('d')' 'A'b'o'u't' '3' 'y'e'a'r's' 's'i'n'c'e' '9' 'D'e'c'e'm'b'e'r' '1'9'4'6' '('b')' 'M'a'h'a't'm'a' 'G'a'n'd'h'i'
-'1'7'.' 'W'h'o' 'w'a's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'C'o'n's't'i't'u'e'n't' '('c')' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u'
-'A's's'e'm'b'l'y'?' '('d')' 'V'a'l'l'a'b'h'b'h'a'i' 'P'a't'e'l'
-'('a')' 'P't' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u' '2'7'.' 'W'h'o' 'p'r'o'p'o's'e'd' 't'h'e' 'P'r'e'a'm'b'l'e' 'b'e'f'o'r'e' 't'h'e'
-'('b')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd' 'D'r'a'f't'i'n'g' 'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'?'
-'('c')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r' '('a')' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u'
-'('d')' 'C'.' 'R'a'j'a'g'o'p'a'l'a'c'h'a'r'i' '('b')' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'1'8'.' 'I'n'd'i'a' 'b'e'c'a'm'e' 'a' 'S'o'v'e'r'e'i'g'n',' 'd'e'm'o'c'r'a't'i'c' 'r'e'-' '('c')' 'B'.' 'N'.' 'R'a'u'
-'p'u'b'l'i'c' 'o'n' '('d')' 'M'a'h'a't'm'a' 'G'a'n'd'h'i'
-'('a')' '1'5' 'A'u'g'u's't' '1'9'4'7' '2'8'.' 'W'h'e'n' 'd'i'd' 't'h'e' 'f'i' 'r's't' 'l'i'n'g'u'i's't'i'c' 's't'a't'e' 'o'f'
-'('b')' '3'0' 'J'a'n'u'a'r'y' '1'9'4'8' 'A'n'd'h'r'a' 'c'o'm'e' 'i'n't'o' 'e'x'i's't'e'n'c'e'?'
-'('a')' '2' 'O'c't'o'b'e'r' '1'9'5'3'
-'('c')' '2'6' 'J'a'n'u'a'r'y' '1'9'5'0'
-'('b')' '1' 'O'c't'o'b'e'r' '1'9'5'3'
-'('d')' '2'6' 'N'o'v'e'm'b'e'r' '1'9'2'9'
-'('c')' '1' 'A'p'r'i'l' '1'9'5'3'
-'1'9'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'n'a'm'e's' 'o'u'r' 'c'o'u'n't'r'y' 'a's'
-'('d')' '5' 'J'a'n'u'a'r'y' '1'9'5'3'
-'('a')' 'B'h'a'r'a't'
-'2'9'.' 'W'h'o' 'w'a's' 't'h'e' 'f'i' 'r's't' 's'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'-'
-'('b')' 'I'n'd'i'a',' 't'h'a't' 'i's' 'B'h'a'r'a't'
-'h'a'?'
-'('c')' 'H'i'n'd'u's't'a'n'
-'('a')' 'M'a'l'g'a'o'n'k'a'r'
-'('d')' 'A'r'y'a'v'a'r't'a'
-'('b')' 'P'.' 'U'p'e'n'd'r'a'
-'2'0'.' 'A' 'c'o'n's't'i't'u't'i'o'n' 'i's'
-'('c')' 'A'n'a'n't'h'a' 'S'a'y'a'n'a'm' 'A'y'y'a'n'a'g'a'r'
-'('a')' 'a' 's'e't' 'o'f' 'o'r'd'i'n'a'r'y' 'l'a'w's'
-'('d')' 'H'u'k'a'm' 'S'i'n'g'h'
-'('b')' 'a' 's'e't' 'o'f' 'o'f'f'i' 'c'i'a'l' 'l'a'w's'
-'3'0'.' 'T'h'e' 's't'a't'e' 'o'f' 'B'o'm'b'a'y' 'w'a's' 'b'i'f'u'r'c'a't'e'd' 'i'n't'o'
-'('c')' 'a' 's'e't' 'o'f' 'f'i' 'n'a'n'c'i'a'l' 'l'a'w's'
-'M'a'h'a'r'a's'h't'r'a' 'a'n'd' 'G'u'j'a'r'a't' 'o'n' '1' 'M'a'y' 'i'n' 't'h'e'
-'('d')' 't'h'e' 'b'a's'i'c' 's't'r'u'c't'u'r'e' 'd'e'f'i' 'n'i'n'g' 't'h'e' 'p'o'w'e'r's'
-'y'e'a'r'
-'o'f' 't'h'e' 's't'a't'e' 'a'n'd' 't'h'e' 'r'i'g'h't's' 'a'n'd' 'd'u't'i'e's' 'o'f'
-'('a')' '1'9'5'8' '('b')' '1'9'5'9'
-'t'h'e' 'c'i't'i'z'e'n's'
-'('c')' '1'9'6'2' '('d')' '1'9'6'0'
-'
-'3'1'.' 'I'n' 'I'n'd'i'a'n' 'c'o'n't'e'x't' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 't'o' 'a'v'o'i'd' 'l'e'g'a'l' 'p'r'o'c'e'e'd'-'
-'s't'a't'e'm'e'n't's' 'i's' 'c'o'r'r'e'c't'?' 'i'n'g's'.'
-'('a')' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's' 'a'r'e' 'n'o't' 'r'e'p'r'e's'e'n't'e'd' 'B'.' 'A'b'o'r't'i'o'n' '2'.' 'T'h'e' 't'e'r'm'i'n'a't'i'o'n' 'o'f'
-'i'n' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'p'r'e'g'n'a'n'c'y',' 'a' 'm'i's'c'a'r'-'
-'('b')' 'I't' 'i's' 'w'i't'h'i'n' 't'h'e' 'p'u'r'v'i'e'w' 'o'f' 't'h'e' 'C'h'i'e'f' 'r'i'a'g'e' 'o'r' 't'h'e' 'p'r'e'm'a't'u'r'e'
-'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r' 't'o' 'a'd'j'u'd'i'c'a't'e' 'e'x'p'u'l's'i'o'n' 'o'f' 'a' 'f'o'e't'u's'
-'i'n' 'E'l'e'c't'i'o'n' 'd'i's'p'u't'e's' 'f'r'o'm' 't'h'e' 'w'o'm'b' 'b'e'f'o'r'e'
-'('c')' 'T'h'e' 'S'p'e'a'k'e'r' 'o'f' 'a' 'L'e'g'i's'l'a't'u'r'e' 'c'o'n't'i'n'-' 't'h'e' 'n'o'r'm'a'l' 'p'e'r'i'o'd' 'o'f'
-'u'e's' 'i'n' 'o'f'f'i' 'c'e' 'e'v'e'n' 'a'f't'e'r' 't'h'e' 'H'o'u's'e' 'i's' 'g'e's't'a't'i'o'n' 'i's' 'c'o'm'p'l'e't'e'.'
-'d'i's's'o'l'v'e'd' 'a'n'd' 'u'n't'i'l' 't'h'e' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'C'.' 'A'b's'c'o'n'd'i'n'g' '3'.' 'W'r'o'n'g'f'u'l'l'y' 't'a'k'i'n'g'
-'s'u'b's'e'q'u'e'n't' 'L'e'g'i's'l'a't'u'r'e' 'i's' 'e'l'e'c't'e'd' 'a'w'a'y' 'o'r' 'd'e't'a'i'n'i'n'g' 'a'n'-'
-'('d')' 'A'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'o't'h'e'r' 'p'e'r's'o'n',' 'u's'u'a'l'l'y'
-'P'a'r'l'i'a'm'e'n't' 'c'o'n's'i's't' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'b'y' 'f'o'r'c'e' 'o'r' 'f'r'a'u'd'.'
-'a'n'd' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'o'n'l'y' 'A' 'B' 'C'
-'3'2'.' 'T'h'e' 'e'l'e'c't'i'o'n' 'i'n' 'I'n'd'i'a' 'f'o'r' 'L'o'k' 'S'a'b'h'a' 'a'n'd' '('a')' '3' '2' '1'
-'S't'a't'e' 'A's's'e'm'b'l'i'e's' 'i's' 'm'a'd'e' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' '('b')' '1' '3' '2'
-'('a')' 'S'e'c'r'e't' 'B'a'l'l'o't' 'S'y's't'e'm' '('c')' '1' '2' '3'
-'('b')' 'O'p'e'n' 'B'a'l'l'o't' 'S'y's't'e'm' '3'9'.' 'A'.' 'A'c'c'o'm'p'l'i'c'e' '1'.' 'O'n'e' 'w'h'o' 'i's' 'a' 'p'a'r't'y' 't'o' 'a'
-'('c')' 'I'n' 'c'a's'e' 'o'f' 'L'o'k' 'S'a'b'h'a' 'S'e'c'r'e't' 'B'a'l'l'o't' 'c'r'i'm'e',' 'e'i't'h'e'r' 'a's' 'a' 'p'r'i'n'-'
-'S'y's't'e'm' 'a'n'd' 'i'n' 'c'a's'e' 'o'f' 'S't'a't'e' 'A's's'e'm'-' 'c'i'p'a'l' 'o'r' 'a's' 'a'n' 'a'c'c'e's'-'
-'b'l'i'e's' 'O'p'e'n' 'B'a'l'l'o't' 'S'y's't'e'm' 's'o'r'y'
-'('d')' 'I'n' 'c'a's'e' 'o'f' 'L'o'k' 'S'a'b'h'a' 'O'p'e'n' 'B'a'l'l'o't' 'B'.' 'A'c'q'u'i't't'a'l' '2'.' 'A' 'd'e'c'i's'i'o'n' 'b'y' 'a' 'c'o'u'r't'
-'S'y's't'e'm' 'a'n'd' 'i'n' 'c'a's'e' 'o'f' 'S't'a't'e' 'A's's'e'm'-' 't'h'a't' 'a' 'd'e'f'e'n'd'a'n't' 'a'c'-'
-'b'l'i'e's' 't'h'e' 'S'e'c'r'e't' 'B'a'l'l'o't' 'S'y's't'e'm' 'c'u's'e'd' 'o'f' 'a' 'c'r'i'm'e' 'i's' 'n'o't'
-'3'3'.' 'P'o'w'e'r' 't'o' 'p'u'n'i's'h' 'f'o'r' 'i't's' 'c'o'n't'e'm'p't' 'm'a'k'e's' 'a' 'g'u'i'l't'y'
-'H'i'g'h' 'C'o'u'r't' 'i'n' 'I'n'd'i'a' 'C'.' 'A'c't' 'o'f' 'G'o'd' '3'.' 'A'n' 'e'v'e'n't' 'd'u'e' 't'o' 'n'a't'u'r'a'l'
-'('a')' 'a' 'c'o'u'r't' 'o'f' 'r'e'c'o'r'd' 'c'a'u's'e's' '('s't'o'r'm's',' 'e'a'r't'h'-'
-'('b')' 'a' 'c'o'u'r't' 'o'f' 'c'o'n't'e'm'p't' 'q'u'a'k'e's',' 'f'l' 'o'o'd's',' 'e't'c'.')' 's'o'
-'('c')' 'a' 'c'o'u'r't' 'o'f' 'a'p'p'e'l'l'a'n't' 'j'u'r'i's'd'i'c't'i'o'n' 'e'x'c'e'p't'i'o'n'a'l'l'y' 's'e'v'e'r'e'
-'('d')' 'a' 'c'o'u'r't' 'o'f' 'o'r'i'g'i'n'a'l' 'j'u'r'i's'd'i'c't'i'o'n' 't'h'a't' 'n'o' 'o'n'e' 'c'o'u'l'd' 'r'e'a'-'
-'3'4'.' 'F'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 't'h'r'e'e'-'t'i'e'r' 'P'a'n'c'h'a'y'a't' 'i'n' 's'o'n'a'b'l'y' 'b'e' 'e'x'p'e'c't'e'd'
-'a'n' 'I'n'd'i'a'n' 'S't'a't'e',' 'i't' 'm'u's't' 'h'a'v'e' 'a' 'p'o'p'u'l'a't'i'o'n' 't'o' 'a'n't'i'c'i'p'a't'e' 'o'r' 'g'u'a'r'd'
-'a'b'o'v'e' 'a'g'a'i'n's't' 'i't'.'
-'('a')' '2'0' 'L'a'k'h's' '('b')' '5'0' 'L'a'k'h's' 'A' 'B' 'C'
-'('c')' '7'5' 'L'a'k'h's' '('d')' '1' 'C'r'o'r'e' '('a')' '2' '1' '3'
-'3'5'.' 'F'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 'P'a'n'c'h'a'y'a't' 'e'l'e'c't'i'o'n' 'i'n' '('b')' '3' '1' '2'
-'I'n'd'i'a',' 'a' 'c'a'n'd'i'd'a't'e' 'h'a's' 't'o' 'a't't'a'i'n' 't'h'e' 'a'g'e' 'o'f' '('c')' '1' '2' '3'
-'('a')' '2'1' 'y'e'a'r's' '('b')' '2'5' 'y'e'a'r's' '4'0'.' 'A'.' 'A'd'j'o'u'r'n'm'e'n't' '1'.' 'T'h'e' 'p'o's't'p'o'n'e'm'e'n't'
-'('c')' '3'0' 'y'e'a'r's' '('d')' '3'5' 'y'e'a'r's' 'o'r' 's'u's'p'e'n's'i'o'n's' 'o'f' 't'h'e'
-'3'6'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's' 'h'e'a'r'i'n'g' 'o'f' 'a' 'c'a's'e' 'u'n't'i'l'
-'a't't'a'i'n'e'd' 's't'a't'e'h'o'o'd' 'i'n' 'F'e'b'r'u'a'r'y',' '1'9'8'7'?' 'a' 'f'u't'u'r'e' 'd'a't'e'
-'('a')' 'G'o'a' 'B'.' 'A'd'j'u'd'i'c'a't'i'o'n' '2'.' 'T'h'e' 'f'o'r'm'a'l' 'j'u'd'g'e'-'
-'('b')' 'A'r'u'n'a'c'h'a'l' 'P'r'a'd'e's'h' 'm'e'n't' 'o'r' 'd'e'c'i's'i'o'n' 'o'f' 'a'
-'('c')' 'P'o'n'd'i'c'h'e'r'r'y' 'c'o'u'r't' 'o'r' 't'r'i'b'u'n'a'l'
-'('d')' 'D'a'm'a'n' 'a'n'd' 'D'i'u' 'C'.' 'A'd'm'i's's'i'b'i'l'i't'y' '3'.' 'T'h'e' 'p'r'i'n'c'i'p'l'e's' 'o'f'
-'3'7'.' 'T'h'e' '2'5't'h' 'I'n'd'i'a'n' 's't'a't'e' 't'o' 'a'c'h'i'e'v'e' 's't'a't'e'h'o'o'd' 'e'v'i'd'e'n'c'e' 'd'e't'e'r'm'i'n'i'n'g'
-'i's' 'w'h'e't'h'e'r' 'o'r' 'n'o't' 'p'a'r't'i'c'-'
-'('a')' 'G'o'a' 'u'l'a'r' 'i't'e'm's' 'o'f' 'e'v'i'd'e'n'c'e'
-'('b')' 'A'r'u'n'a'c'h'a'l' 'P'r'a'd'e's'h' 'm'a'y' 'b'e' 'r'e'c'e'i'v'e'd' 'b'y'
-'('c')' 'M'i'z'o'r'a'm' 't'h'e' 'c'o'u'r't'.' 'T'h'e' 'c'e'n't'r'a'l'
-'('d')' 'S'i'k'k'i'm' 'p'r'i'n'c'i'p'l'e' 'o'f' 'a'd'm'i's'-'
-'3'8'.' 'A'.' 'A'b'd'u'c't'i'o'n' '1'.' 'T'h'e' 'f'a'i'l'u'r'e' 'o'f' 'a' 'p'e'r's'o'n' 's'i'b'i'l'i't'y' 'i's' 'r'e'l'e'v'a'n'c'e'.'
-'t'o' 's'u'r'r'e'n'd'e'r' 't'o' 't'h'e' 'c'u's'-' 'A'l'l' 'e'v'i'd'e'n'c'e' 't'h'a't' 'i's'
-'t'o'd'y' 'o'f' 'a' 'c'o'u'r't' 'i'n' 'o'r'd'e'r' 's'u'f'f'i' 'c'i'e'n't'l'y' 'r'e'l'e'v'a'n't'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'7'3'
-'i's' 'a'd'm'i's's'i'b'l'e' 'a'n'd' 'a'l'l' '4'7'.' 'A'.' 'A'l'i'e'n'a't'i'o'n' '1'.' 'T'h'e' 't'r'a'n's'f'e'r' 'o'f' 'p'r'o'p'-'
-'t'h'a't' 'i's' 'n'o't' 's'u'f'f'i' 'c'i'e'n't'l'y' 'e'r't'y'
-'r'e'l'e'v'a'n't' 'i's' 'i'n'a'd'm'i's'-' 'B'.' 'A'l'i'm'o'n'y' '2'.' 'W'r'i't't'e'n' 's't'a't'e'm'e'n't' 'o'f'
-'s'i'b'l'e'.' 'a'l'l'e'g'a't'i'o'n'
-'A' 'B' 'C' 'C'.' 'A'l'l'e'g'a't'i'o'n' '3'.' 'M'a'i'n't'e'n'a'n'c'e' 'c'h'a'r'g'e's'
-'('a')' '2' '1' '3' 't'o' 'w'i'f'e' 'f'r'o'm' 'h'u's'b'a'n'd'
-'('b')' '1' '2' '3' 'A' 'B' 'C'
-'('c')' '2' '3' '1' '('a')' '1' '3' '2'
-'4'1'.' 'W'h'o' 'a'p'p'o'i'n't's' 't'h'e' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i'-' '('b')' '2' '1' '3'
-'t'o'r' 'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a'?' '('c')' '3' '2' '1'
-'('a')' 'P'r'e's'i'd'e'n't' '4'8'.' 'A'.' 'A'm'n'e's't'y' '1'.' 'P'o'l'i't'i'c'a'l' 'p'a'r'd'o'n'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'B'.' 'A'n'i'm'u's' '2'.' 'I'n't'e'n't'i'o'n'
-'('c')' 'E'l'e'c't'e'd' 'b'y' 'L'o'k' 'S'a'b'h'a' 'C'.' 'A'n't'e'c'e'd'e'n't's' '3'.' 'P'r'e'v'i'o'u's' 'c'h'a'r'a'c't'e'r'
-'('d')' 'E'l'e'c't'e'd' 'b'y' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'R'a'j'y'a' 'S'a'b'-' 'A' 'B' 'C'
-'h'a' '('a')' '1' '2' '3'
-'4'2'.' 'W'h'o' 'a'p'p'o'i'n't's' 't'h'e' 'j'u'd'g'e' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't' 'i'n' '('b')' '2' '1' '3'
-'I'n'd'i'a'?'
-'('c')' '3' '2' '1'
-'('a')' 'G'o'v'e'r'n'o'r'
-'4'9'.' 'A'.' 'A' 'p'o's't'e'r'i'o'r'i' '1'.' 'F'r'o'm' 'e'f'f'e'c't' 't'o' 'c'a'u's'e'
-'('b')' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'B'.' 'A' 'p'r'i'o'r'i' '2'.' 'F'r'o'm' 'c'a'u's'e' 't'o' 'e'f'f'e'c't'
-'('c')' 'P'r'e's'i'd'e'n't'
-'C'.' 'A'r'b'i't'r'a't'i'o'n' '3'.' 'M'e'd'i'a't'i'o'n'
-'('d')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'A' 'B' 'C'
-'4'3'.' 'W'h'o' 'a'p'p'o'i'n't's' 't'h'e' 'A't't'o'r'n'e'y' 'G'e'n'e'r'a'l' 'o'f' 'I'n'-'
-'('a')' '1' '2' '3'
-'d'i'a'?'
-'('b')' '2' '1' '3'
-'('a')' 'P'r'e's'i'd'e'n't'
-'('c')' '3' '2' '1'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'5'0'.' 'A'.' 'B'a'i'l' '1'.' 'L'u'g'g'a'g'e' 'a't' 't'h'e' 'r'a'i'l'w'a'y'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'s't'a't'i'o'n'
-'('d')' 'E'l'e'c't'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'B'.' 'B'a'i'l'i'f'f' '2'.' 'C'o'u'r't'’'s' 'o'f'f'i' 'c'e'r'
-'4'4'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'h'o'l'd's' 'o'r' 'w'h'o' 'h'a's' 'h'e'l'd' 'o'f'f'i' 'c'e'
-'C'.' 'B'a'i'l'm'e'n't' '3'.' 'R'e'l'e'a's'e' 'f'r'o'm' 'p'o'l'i'c'e'
-'a's' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 's'h'a'l'l'
-'c'u's't'o'd'y'
-'('a')' 'n'o't' 'b'e' 'e'l'i'g'i'b'l'e' 'f'o'r' 'r'e'-'e'l'e'c't'i'o'n'
-'A' 'B' 'C'
-'('b')' 'b'e' 'e'l'i'g'i'b'l'e' 'f'o'r' 'r'e'-'e'l'e'c't'i'o'n' 'a's' 'P'r'e's'i'd'e'n't'
-'('a')' '1' '3' '2'
-'('c')' 'b'e' 'e'l'i'g'i'b'l'e' 'f'o'r' 'r'e'-'e'l'e'c't'i'o'n' 'a's' 'P'r'e's'i'd'e'n't'
-'('b')' '2' '1' '3'
-'a'f't'e'r' 't'h'e' 'g'a'p' 'o'f' 'o'n'e' 't'e'r'm'
-'('c')' '3' '2' '1'
-'('d')' 'b'e' 'e'l'i'g'i'b'l'e' 'f'o'r' 'r'e'-'e'l'e'c't'i'o'n' 'a's' 'P'r'e's'i'd'e'n't'
-'5'1'.' 'T'i'm'e' 'l'i'm'i't' 'f'o'r' 'f'i' 'l'i'n'g' 'd'i'f'f'e'r'e'n't' 'k'i'n'd's' 'o'f' 's'u'i't'
-'a'f't'e'r' '1'0' 'y'e'a'r's' 'o'f' 'v'a'c'a't'i'n'g' 't'h'e' 'o'f'f'i' 'c'e'
-'i's' 'p'r'e's'c'r'i'b'e'd' 'i'n'
-'4'5'.' 'W'h'o' 'a'p'p'o'i'n't's' 'm'e'm'b'e'r's' 'o'f' 'a' 'S't'a't'e' 'P'u'b'l'i'c'
-'('a')' 'C'P'C'
-'S'e'r'v'i'c'e' 'C'o'm'm'i's's'i'o'n' 'i'n' 'I'n'd'i'a'?'
-'('b')' 'I'P'C'
-'('a')' 'P'r'e's'i'd'e'n't'
-'('c')' 'L'i'm'i't'a't'i'o'n' 'A'c't'
-'('b')' 'G'o'v'e'r'n'o'r'
-'('d')' 'H'i'g'h' 'C'o'u'r't' 'R'u'l'e's'
-'('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'5'2'.' 'M'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f'
-'('d')' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'4'6'.' 'A'.' 'A'd'm'o'n'i't'i'o'n' '1'.' 'O'f'f'e'n'c'e' 'o'f' 'u's'i'n'g' 'o'r' 'I'n'd'i'a' 'a'r'e' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'w'a'y' 'o'f'
-'t'h'r'e'a't'e'n'i'n'g' 'u'n'l'a'w'f'u'l' '('a')' 'P'e'o'p'l'e'’'s' 'R'e'p'r'e's'e'n't'a't'i'o'n'
-'v'i'o'l'e'n'c'e'.' '('b')' 'b'y' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e's'
-'B'.' 'A'f'f'i' 'd'a'v'i't' '2'.' 'A' 's'o'l'e'm'n' 'd'e'c'l'a'r'a't'i'o'n' '('c')' 'n'o'm'i'n'a't'i'o'n's'
-'t'r'u'e' 't'o' 't'h'e' 'b'e's't' 'o'f' 't'h'e' '('d')' 'b'y' 'e'l'e'c't'o'r'a'l' 'c'o'l'l'e'g'e's'
-'k'n'o'w'l'e'd'g'e' 'o'f' 't'h'e' 'd'e'-' '5'3'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'h'a's' 'b'e'e'n' 'd'e'-'
-'p'o'n'e'n't' 's'c'r'i'b'e'd' 'a's' 't'h'e' 's'o'u'l' 'o'f' 't'h'e' 'I'n'd'i'a' 'C'o'n's't'i't'u'-'
-'C'.' 'A'f'f'r'a'y' '3'.' 'A' 'r'e'p'r'i'm'a'n'd' 'f'r'o'm' 'a' 't'i'o'n'?'
-'j'u'd'g'e' 't'o' 'a' 'd'e'f'e'n'd'a'n't' '('a')' 'T'h'e' 'P'r'e'a'm'b'l'e'
-'A' 'B' 'C' '('b')' 'T'h'e' 'C'h'a'p't'e'r' 'o'n' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'('a')' '2' '3' '1' '('c')' 'T'h'e' 'C'h'a'p't'e'r' 'o'n' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's'
-'('b')' '1' '2' '3' '('d')' 'T'h'e' 'p'r'o'v'i's'i'o'n's' 'r'e'g'a'r'd'i'n'g' 'J'u'd'i'c'i'a'l' 'R'e'-'
-'('c')' '3' '2' '1' 'v'i'e'w'
-'
-'5'4'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'A' 'B' 'C'
-'('a')' 'l'e'd'g'e'r' '('b')' 'n'o't'e'b'o'o'k' '('a')' '3' '2' '1'
-'('c')' 'b'o'o'k' '('d')' 'd'o'c'u'm'e'n't' '('b')' '2' '1' '3'
-'5'5'.' 'T'h'e' 'm'a'i'n' 'o'b'j'e'c't'i'v'e' 'o'f' 't'h'e' 'F'u'n'd'a'm'e'n't'a'l' '('c')' '1' '2' '3'
-'R'i'g'h't's' 'u'n'd'e'r' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'i's' 't'o' '6'1'.' 'A' 'p'e'r's'o'n' 'w'h'o's'e' 'g'u'a'r'd'i'a'n' 'i's' 'a'p'p'o'i'n't'e'd'
-'('a')' 'e'n's'u'r'e' 'i'n'd'i'v'i'd'u'a'l' 'l'i'b'e'r't'y' 'd'u'r'i'n'g' 'h'i's' 'm'i'n'o'r'i't'y',' 'b'e'c'o'm'e's' 'a' 'm'a'j'o'r' 'a't'
-'('b')' 'p'r'o'm'o't'e' 'a' 's'o'c'i'a'l'i's'm' 'p'a't't'e'r'n' 'o'f' 's'o'c'i'-' 't'h'e' 'a'g'e' 'o'f' '_'_'_'_' 'y'e'a'r's'
-'e't'y' '('a')' '3'1' '('b')' '2'1'
-'('c')' 't'o' 'p'r'o'm'o't'e' 'e'q'u'a'l'i't'y' '('c')' '2'8' '('d')' '1'8'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'6'2'.' 'W'h'e'n' 'a' 'p'e'r's'o'n' 't'o' 'b'e' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'c'o'm'-'
-'5'6'.' 'A'.' 'B'a'n'k'r'u'p't'c'y' '1'.' 'I'n's'o'l'v'e'n'c'y'
-'m'i't't'i'n'g' 'a' 'c'r'i'm'i'n'a'l' 'o'f'f'e'n'c'e' 't'h'e' 'b'u'r'd'e'n' 'o'f'
-'B'.' 'B'a't't'e'r'y' '2'.' 'A'c't'u'a'l' 'u's'e' 'o'f' 'f'o'r'c'e'
-'p'r'o'o'f' 'i's' 'o'n'
-'C'.' 'B'e'n'e'f'i' 'c'i'a'r'y' '3'.' 'O'n'e' 'w'h'o' 'b'e'n'e'f'i' 't's' 'f'r'o'm'
-'('a')' 'C'o'u'r't' '('b')' 'P'o'l'i'c'e'
-'w'i'l'l'
-'('c')' 'H'i'm's'e'l'f' '('d')' 'P'r'o's'e'c'u't'i'o'n'
-'A' 'B' 'C'
-'6'3'.' '“'C'o'u'r't's' 'a'n'd' 't'h'e'i'r' 'J'u'd'g'm'e'n't's':' 'P'r'o'm'i's'e's','
-'('a')' '1' '2' '3'
-'R'e'q'u'i's'i't'e's' 'a'n'd' 'C'o'n's'e'q'u'e'n'c'e's'”' 'i's' 'a' 'b'o'o'k'
-'('b')' '2' '1' '3'
-'w'r'i't't'e'n' 'b'y'
-'('c')' '3' '2' '1'
-'('a')' 'V'i'k'r'a'm' 'S'e't'h'
-'5'7'.' 'A'.' 'B'i'g'a'm'y' '1'.' 'S'e'c'o'n'd' 'm'a'r'r'i'a'g'e' 'w'h'e'n'
-'('b')' 'R'a'm' 'J'e't'h' 'M'a'l'a'n'i'
-'f'i' 'r's't' 'm'a'r'r'i'a'g'e' 'i's' 's't'i'l'l'
-'('c')' 'A'r'u'n' 'S'h'o'u'r'i'e'
-'s'u'b's'i's't'i'n'g'
-'('d')' 'N'o'n'e'
-'B'.' 'C'a'p'a'c'i't'y' '2'.' 'C'o'm'p'e't'e'n'c'e' 't'o' 'e'n't'e'r'
-'6'4'.' 'J'u'd'g'e's' 'f'o'r' 'I'n't'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't' 'o'f' 'J'u's't'i'c'e' 'i's'
-'t'o' 'c'o'n't'r'a'c't' 'i'n't'o' 'a' 'l'e'g'a'l' 'c'o'n't'r'a'c't'
-'C'.' 'C'a'p'i't'a'l' '3'.' 'D'e'a't'h' 'p'u'n'i's'h'm'e'n't' 'e'l'e'c't'e'd' 'f'o'r'…'…'y'e'a'r's'
-'p'u'n'i's'h'm'e'n't' '('a')' '5' '('b')' '1'0'
-'A' 'B' 'C' '('c')' '9' '('d')' '6'
-'('a')' '3' '2' '1' '6'5'.' 'W'h'a't' 'i's' 't'h'e' 't'e'n'u'r'e' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'-'
-'('b')' '1' '2' '3' 't'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't'
-'('c')' '3' '1' '2' '('a')' '5' 'y'e'a'r's' '('b')' '2' 'y'e'a'r's'
-'5'8'.' 'A'.' 'C'o'n'd'o'm'i'n'i'u'm' '1'.' 'J'o'i'n't' 's'o'v'e'r'e'i'g'n't'y' '('c')' '3' 'y'e'a'r's' '('d')' '6' 'y'e'a'r's'
-'B'.' 'C'o'n'j'u'g'a'l' 'r'i'g'h't's' '2'.' 'M'a't'r'i'm'o'n'i'a'l' 'r'i'g'h't's' '6'6'.' 'A'.' 'E'x't'r'a'd'i't'i'o'n' '1'.' 'R'e'd' 'h'a'n'd'e'd'
-'C'.' 'C'o'n's'e'n't' '3'.' 'A'g'r'e'e'm'e'n't' 'b'y' 'B'.' 'F'i'd'u'c'i'a'r'y' '2'.' 'B'a's'e'd' 'o'n' 'm'u't'u'a'l' 'i'n't'e'r'-'
-'c'h'o'i'c'e' 'e's't' 'a'n'd' 'f'a'i't'h'
-'A' 'B' 'C' 'C'.' 'F'l'a'g'r'a'n't'e' '3'.' 'T'o' 'e'x't'r'a'd'i't'e' 'a' 'c'r'i'm'i'n'a'l'
-'('a')' '3' '2' '1' 'd'e'l'i'c't'o'
-'('b')' '2' '1' '3' 'A' 'B' 'C'
-'('c')' '1' '2' '3' '('a')' '3' '2' '1'
-'5'9'.' 'A'.' 'D'i's'c'h'a'r'g'e' 'o'f' '1'.' 'T'h'e' 't'e'r'm'i'n'a't'i'o'n' 'o'f' '('b')' '2' '1' '3'
-'c'o'n't'r'a'c't' 'c'o'n't'r'a'c't'u'a'l' 'o'b'l'i'g'a'-' '('c')' '3' '1' '2'
-'t'i'o'n' '6'7'.' 'A'.' 'G'e'n'o'c'i'd'e' '1'.' 'M'a's's'i'v'e' 'k'i'l'l'i'n'g'
-'B'.' 'D'u'r'e's's' '2'.' 'P'r'e's's'u'r'e'/'u'n'd'u'e' 'i'n'f'l' 'u'-'
-'B'.' 'H'i'j'a'c'k'i'n'g' '2'.' 'S'e'i'z'i'n'g' 'a'n' 'a'i'r'c'r'a'f't'
-'e'n'c'e'
-'C'.' 'H'o'm'i'c'i'd'e' '3'.' 'K'i'l'l'i'n'g' 'o'f' 'h'u'm'a'n' 'b'e'-'
-'C'.' 'E'm'b'a'r'g'o' '3'.' 'T'h'e' 'd'e't'e'n't'i'o'n' 'o'f'
-'i'n'g'
-'s'h'i'p's' 'i'n' 'a' 'p'o'r't':' 'a' 't'y'p'e'
-'A' 'B' 'C'
-'o'f' 'r'e'p'r'i's'a'l'.'
-'('a')' '3' '2' '1'
-'A' 'B' 'C'
-'('b')' '1' '2' '3'
-'('a')' '3' '2' '1'
-'('c')' '3' '1' '2'
-'('b')' '1' '2' '3'
-'6'8'.' 'A'.' 'H'o's't'a'g'e' '1'.' 'T'o' 'i'n'd'i'c't'
-'('c')' '3' '1' '2'
-'B'.' 'H'o's't'i'l'e' '2'.' 'A'd'v'e'r's'e' 'w'i't'n'e's's'
-'6'0'.' 'A'.' 'E'm'b'e'z'z'l'e'-' '1'.' 'C'r'i'm'i'n'a'l'
-'w'i't'n'e's's'
-'m'e'n't' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'o'f'
-'C'.' 'I'n'c'r'i'm'i'n'a't'e' '3'.' 'O'n'e' 'h'e'l'd' 'a's' 'a' 's'e'c'u'r'i't'y'
-'p'u'b'l'i'c' 'p'r'o'p'e'r't'y'
-'A' 'B' 'C'
-'B'.' 'E'x' 'g'r'a't'i'a' '2'.' 'D'o'n'e' 'a's' 'a' 'm'a't't'e'r' 'o'f' 'f'a'-'
-'('a')' '3' '2' '1'
-'v'o'u'r'
-'('b')' '2' '1' '3'
-'C'.' 'E'x' 'o'f'f'i' 'c'i'o' '3'.' 'B'y' 'v'i'r't'u'e' 'o'f' 'h'o'l'd'i'n'g' 'a'n'
-'('c')' '3' '1' '2'
-'o'f'f'i' 'c'e'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'7'5'
-'6'9'.' 'A'.' 'I'n'n'e'n'u'd'o' '1'.' 'I'n't'e'r'i'm' '7'6'.' 'A'.' 'M'i't'i'g'a't'i'o'n' '1'.' 'R'e'd'u'c't'i'o'n' 'i'n' 't'h'e' 's'e'v'e'r'-'
-'B'.' 'I'n's'a'n'i't'y' '2'.' 'I'n'd'i'r'e'c't' 'i't'y' 'o'f' 's'o'm'e' 'p'e'n'a'l't'y'
-'C'.' 'I'n't'e'r'l'o'c'u'-' '3'.' 'M'e'n't'a'l' 'd'i's'o'r'd'e'r' 'B'.' 'M'o'o't' '2'.' 'A' 'm'o'c'k' 't'r'i'a'l'
-'t'o'r'y' 'C'.' 'M'o'r't'g'a'g'e' '3'.' 'A'n' 'i'n't'e'r'e's't' 'i'n' 't'h'e' 'p'r'o'p'-'
-'A' 'B' 'C' 'e'r't'y' 'c'r'e'a't'e'd' 'a's' 'a' 'f'o'r'm'
-'('a')' '1' '2' '3' 'o'f' 's'e'c'u'r'i't'y' 'f'o'r' 'a' 'l'o'a'n'.'
-'('b')' '3' '2' '1' 'A' 'B' 'C'
-'('c')' '2' '3' '1' '('a')' '1' '2' '3'
-'7'0'.' 'A'.' 'M'a'l'a' 'f'i' 'd'e' '1'.' 'F'r'a'u'd'u'l'e'n't' 'o'r' 'd'i's'h'o'n'-' '('b')' '2' '1' '3'
-'e's't' 'a'c't' '('c')' '2' '3' '1'
-'B'.' 'M'e'n's' 'r'e'a' '2'.' 'H'o's't'i'l'e' 'a't't'i't'u'd'e' '7'7'.' 'A'.' 'M'o't'i'v'e' '1'.' 'C'h'e'q'u'e'
-'C'.' 'M'a'l'i'c'e' '3'.' 'G'u'i'l't'y' 'm'i'n'd' 'B'.' 'N'e'g'l'i'g'e'n'c'e' '2'.' 'G'r'o's's' 'c'a'r'e'l'e's's'n'e's's'
-'A' 'B' 'C' 'C'.' 'N'e'g'o't'i'a'b'l'e' '3'.' 'P'u'r'p'o's'e' 'b'e'h'i'n'd' 'i'n's't'r'u'-'
-'('a')' '1' '3' '2' 'm'e'n't' 'a'c't'i'o'n'
-'('b')' '3' '2' '1' 'A' 'B' 'C'
-'('a')' '1' '2' '3'
-'('c')' '2' '1' '3'
-'('b')' '3' '2' '1'
-'7'1'.' 'D'o'e's' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'a'l'l'o'w' 'a'n'y' 'e'x'-'
-'('c')' '2' '1' '3'
-'c'e'p't'i'o'n' 't'o' 't'h'e' 'r'u'l'e' 'o'f' 'e'q'u'a'l'i't'y'?'
-'7'8'.' 'A'.' 'N'u'l'l'i't'y' 'o'f' '1'.' 'F'a'l's'e' 'e'v'i'd'e'n'c'e'
-'('a')' 'Y'e's',' 'i'n' 't'h'e' 'c'a's'e' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'a'n'd'
-'m'a'r'r'i'a'g'e'
-'G'o'v'e'r'n'o'r's'
-'B'.' 'P'a'r'o'l'e' '2'.' 'C'o'n'd'i't'i'o'n'a'l' 'r'e'l'e'a's'e'
-'('b')' 'Y'e's',' 'i'n' 't'h'e' 'c'a's'e' 'o'f' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd'
-'C'.' 'P'e'r'j'u'r'y' '3'.' 'I'n'v'a'l'i'd' 'm'a'r'r'i'a'g'e'
-'C'h'i'e'f' 'M'i'n'i's't'e'r's'
-'A' 'B' 'C'
-'('c')' 'Y'e's',' 'i'n' 't'h'e' 'c'a's'e' 'o'f' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd'
-'('a')' '1' '2' '3'
-'D'e'p'u't'y' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('b')' '3' '2' '1'
-'('d')' 'Y'e's',' 'i'n' 'c'a's'e' 'o'f' 'H'o'm'e' 'M'i'n'i's't'e'r' 'o'f'
-'('c')' '2' '1' '3'
-'U'n'i'o'n' 'a'n'd' 'S't'a't'e's'
-'7'9'.' 'A'.' 'P'r'o'v'o'c'a't'i'o'n' '1'.' 'C'o'n'd'u'c't' 'o'r' 'w'o'r'd's'
-'7'2'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e's'e' 'i's' 'n'o't' 'i'n'c'l'u'd'e'd' 'i'n' 't'h'e'
-'c'a'u's'i'n'g' 's'o'm'e'o'n'e' 't'o'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?'
-'l'o'o's'e' 'h'i's' 's'e'l'f' 'c'o'n't'r'o'l'
-'('a')' 'S'o'c'i'a'l',' 'e'c'o'n'o'm'i'c' 'a'n'd' 'p'o'l'i't'i'c'a'l' 'j'u's't'i'c'e'
-'B'.' 'P'u't'a't'i'v'e' '2'.' 'A' 'm'a'n' 'a'l'l'e'g'e'd' 't'o' 'b'e'
-'('b')' 'L'i'b'e'r't'y' 't'o' 't'h'o'u'g'h't',' 'e'x'p'r'e's's'i'o'n',' 'b'e'l'i'e'f','
-'f'a't'h'e'r' 't'h'e' 'f'a't'h'e'r' 'o'f' 'a'n' 'i'l'l'e'g'i't'i'-'
-'f'a'i't'h' 'a'n'd' 'w'o'r's'h'i'p'
-'m'a't'e' 'c'h'i'l'd'.'
-'('c')' 'E'q'u'a'l'i't'y' 'o'f' 's't'a't'u's' 'a'n'd' 'o'f' 'o'p'p'o'r't'u'n'i't'y'
-'C'.' 'Q'u'a's'i' '3'.' 'A' 'f'u'n'c't'i'o'n' 't'h'a't' 'r'e's'e'm'-'
-'('d')' 'R'i'g'h't' 't'o' 'w'o'r'k'
-'j'u'd'i'c'i'a'l' 'b'l'e's' 't'h'e' 'j'u'd'i'c'i'a'l' 'f'u'n'c'-'
-'7'3'.' 'W'h'i'c'h' 'o'f' 't'h'e's'e' 'i's' 'n'o't' 'p'r'o'v'i'd'e'd' 'i'n' 't'h'e' 'D'i'-'
-'t'i'o'n'
-'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y' 'i'n' 'C'o'n'-'
-'A' 'B' 'C'
-'s't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?'
-'('a')' '1' '2' '3'
-'('a')' 'P'r'o'h'i'b'i't'i'o'n' 'o'f' 'e'm'p'l'o'y'm'e'n't' 'o'f' 'c'h'i'l'-'
-'('b')' '3' '2' '1'
-'d'r'e'n' 'b'e'l'o'w' 't'h'e' 'a'g'e' 'o'f' '1'4'
-'('c')' '3' '1' '2'
-'('b')' 'F'a'i'r' 'd'i's't'r'i'b'u't'i'o'n' 'o'f' 'w'e'a'l't'h'
-'8'0'.' 'A'.' 'R'e's't'i't'u't'i'o'n' '1'.' 'D'a'm'a'g'e' 'o'r' 'd'e's't'r'u'c't'i'o'n'
-'('c')' 'T'h'e' 'l'i'v'i'n'g' 'w'a'g'e' 'f'o'r' 'w'o'r'k'e'r's' 'o'f' 'p'r'o'p'e'r't'y'
-'('d')' 'U'n'i'f'o'r'm' 'c'i'v'i'l' 'c'o'd'e' 'o'f' 't'h'e' 'c'i't'i'z'e'n's' 'B'.' 'R'e'v'o'c'a't'i'o'n' '2'.' 'w'i't'h'd'r'a'w'a'l' 'o'f'f'e'r'
-'7'4'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'F'u'n'd'a'-' 'o'f' 'o'f'f'e'r'
-'m'e'n't'a'l' 'R'i'g'h't' 'u'n'd'e'r' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?' 'C'.' 'S'a'b'o't'a'g'e' '3'.' 'r'e't'u'r'n'/'r'e's't'o'r'a't'i'o'n'
-'('a')' 'R'i'g'h't' 't'o' 'e'q'u'a'l'i't'y' 'A' 'B' 'C'
-'('b')' 'R'i'g'h't' 't'o' 'f'r'e'e'd'o'm' '('a')' '1' '2' '3'
-'('c')' 'R'i'g'h't' 't'o' 'p'r'o'p'e'r't'y' '('b')' '3' '2' '1'
-'('d')' 'R'i'g'h't' 'a'g'a'i'n's't' 'e'x'p'l'o'i't'a't'i'o'n' '('c')' '3' '1' '2'
-'7'5'.' 'U'n'd'e'r' 'w'h'a't' 'c'i'r'c'u'm's't'a'n'c'e's' 'c'a'n' 't'h'e' 'F'u'n'd'a'-' '8'1'.' 'T'h'e' 'm'i'd'd'l'e' 'l'e'v'e'r' 's'e't' 'u'p' 'o'f' 't'h'e' 'P'a'n'c'h'a'y'a't'i'
-'m'e'n't'a'l' 'R'i'g'h't's' 'b'e' 's'u's'p'e'n'd'e'd' 'i'n' 'I'n'd'i'a'?' 'R'a'j' 's'y's't'e'm' 'i'n' 'I'n'd'i'a' 'i's' 'k'n'o'w'n' 'a's'
-'('a')' 'D'u'r'i'n'g' 'w'a'r' 't'i'm'e' '('a')' 'Z'i'l'a' 'P'a'r'i's'h'a'd'
-'('b')' 'W'h'e'n' 'n'a't'i'o'n'a'l' 'e'm'e'r'g'e'n'c'y' 'i's' 'i'n' 'f'o'r'c'e' '('b')' 'D'i's't'r'i'c't' 'B'o'a'r'd'
-'('c')' 'I'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'p'a's's'e's' 'a' 'b'i'l'l' '('c')' 'P'a'n'c'h'a'y'a't' 'S'a'm'i't'i'
-'('d')' 'D'u'r'i'n'g' 'f'i' 'n'a'n'c'i'a'l' 'e'm'e'r'g'e'n'c'y' '('d')' 'T'a'l'u'k'a' 'B'o'a'r'd'
-'
-'8'2'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 't'h'e' 's'o'u'r'c'e' '8'9'.' 'A'.' 'V'o'i'd'a'b'l'e' '1'.' 'C'a'p'a'b'l'e' 'o'f' 'b'e'i'n'g'
-'o'f' 'r'e'v'e'n'u'e' 'o'f' 't'h'e' 'V'i'l'l'a'g'e' 'P'a'n'c'h'a'y'a't's' 'i'n' 'a'v'o'i'd'e'd'
-'I'n'd'i'a'?' 'B'.' 'U'l't'r'a' 'v'i'r'e's' '2'.' 'W'i't'h'i'n' 'p'o'w'e'r's'
-'('a')' 'H'o'u's'e' 't'a'x' '('b')' 'T'e'h'-'b'a'z'a'r'i' 'C'.' 'I'n't'r'a' 'v'i'r'e's' '3'.' 'B'e'y'o'n'd' 'p'o'w'e'r's'
-'('c')' 'P'r'o'p'e'r't'y' 't'a'x' '('d')' 'L'a'n'd' 'r'e'v'e'n'u'e' 'A' 'B' 'C'
-'8'3'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'f'u'n'c't'i'o'n' 'o'f' '('a')' '1' '3' '2'
-'t'h'e' 'V'i'l'l'a'g'e' 'P'a'n'c'h'a'y'a't's' 'i'n' 'I'n'd'i'a'?' '('b')' '3' '2' '1'
-'('a')' 'S'a'n'i't'a't'i'o'n' '('c')' '2' '1' '3'
-'('b')' 'D'e'v'e'l'o'p'm'e'n't' 'o'f' 'a'g'r'i'c'u'l't'u'r'e' 'a'n'd' 'v'i'l'-' '9'0'.' 'A'.' 'A'r'r'e's't' '1'.' 'R'e'f'u'g'e' 'g'r'a'n't'e'd' 't'o' 'a'b'-'
-'l'a'g'e' 'i'n'd'u's't'r'i'e's' 's'c'o'n'd'e'r'
-'('c')' 'R'e'l'i'e'f' 'o'f' 't'h'e' 'p'o'o'r' 'B'.' 'A'r's'o'n' '2'.' 'R'e'c'k'l'e's's' 'd'e's't'r'u'c't'i'o'n'
-'('d')' 'C'o'-'o'p'e'r'a't'i'v'e's' 'o'f' 'p'r'o'p'e'r't'y' 'b'y' 'f'i' 'r'e'
-'8'4'.' 'I'n' 'I'n'd'i'a'n' 'c'o'n't'e'x't' 't'h'e' 'e'x'e'c'u't'i'v'e' 'c'o'm'm'i't'-' 'C'.' 'A's'y'l'u'm' '3'.' 'A'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'a' 'p'e'r'-'
-'t'e'e' 'o'f' 't'h'e' 'G'r'a'm' 'S'a'b'h'a' 'k'n'o'w'n' 'a's' 'G'r'a'm' 's'o'n' 'b'y' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r'
-'P'a'n'c'h'a'y'a't' 'i's' 'e'l'e'c't'e'd' 'b'y' 'A' 'B' 'C'
-'('a')' 't'h'e' 'e'n't'i'r'e' 'a'd'u'l't' 'p'o'p'u'l'a't'i'o'n' 'o'f' 't'h'e' 'v'i'l'-' '('a')' '1' '2' '3'
-'l'a'g'e' '('b')' '3' '2' '1'
-'('b')' 't'h'e' 'e'n't'i'r'e' 'p'o'p'u'l'a't'i'o'n' 'o'f' 't'h'e' 'v'i'l'l'a'g'e' '('c')' '2' '1' '3'
-'('c')' 't'h'e' 'e'n't'i'r'e' 'm'a'l'e' 'p'o'p'u'l'a't'i'o'n' 'o'f' 't'h'e' 'v'i'l'-' '9'1'.' '“'R'o's'e's' 'i'n' 'D'e'c'e'm'b'e'r'”' 'w'a's' 'w'r'i't't'e'n' 'b'y'
-'l'a'g'e' '('a')' 'A'r'u'n' 'S'h'o'u'r'i'e'
-'('d')' 't'h'e' 'e'n't'i'r'e' 'm'a'l'e' 'a'd'u'l't' 'p'o'p'u'l'a't'i'o'n' 'o'f' 't'h'e' '('b')' 'M'.' 'C'.' 'C'h'a'g'l'a'
-'v'i'l'l'a'g'e' '('c')' 'H'.' 'R'.' 'K'h'a'n'n'a'
-'8'5'.' 'I'n' 'I'n'd'i'a' 'g'e'n'e'r'a'l' 'p'a't't'e'r'n' 'o'f' 't'h'e' 'p'r'e's'e'n't' '('d')' 'H'i'd'a'y'a't'u'l'l'a'h'
-'P'a'n'c'h'a'y'a't'i' 'R'a'j' 'i'n's't'i't'u't'i'o'n' 'i's' 'b'a's'e'd' 'o'n' 't'h'e' '9'2'.' 'T'h'e' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n' 'm'a'k'e's' 'r'e'c'o'm'-'
-'R'e'p'o'r't' 'o'f' 't'h'e' 'm'e'n'd'a't'i'o'n' 'r'e'g'a'r'd'i'n'g'
-'('a')' 'B'a'l'w'a'n't' 'R'a'i' 'M'e'h't'a' 'C'o'm'm'i't't'e'e' '1'.' 'D'e't'e'r'm'i'n'a't'i'o'n' 'o'f' 'a'n'd' 'p'r'i'n'c'i'p'l'e's' 'g'u'i'd'-'
-'('b')' 'L'o'c'a'l' 'E'n'q'u'i'r'y' 'C'o'm'm'i't't'e'e' 'i'n'g' 'g'r'a'n't'-'i'n'-'a'i'd'
-'('c')' 'T'a'x'a't'i'o'n' 'E'n'q'u'i'r'y' 'C'o'm'm'i't't'e'e' '2'.' 'E'c'o'n'o'm'y' 'i'n' 'e'x'p'e'n'd'i't'u'r'e'
-'('d')' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u' 'R'e'p'o'r't' '3'.' 'D'i's't'r'i'b'u't'i'o'n' 'o'f' 'n'e't' 'p'r'o'c'e'e'd's' 'o'f' 't'a'x'e's'
-'8'6'.' 'A'.' 'S'i'm'p'l'i'c'i't'e'r' '1'.' 'A' 'w'o'r'd' 'o'r' 'a' 'p'h'r'a's'e' 'i'n' 'b'e't'w'e'e'n' 'C'e'n't'r'e' 'a'n'd' 'S't'a't'e's'
-'a' 'd'o'c'u'm'e'n't' 'i's' 'u's'e'd' 'a'b'-' '('a')' '1',' '3' '('b')' '1'
-'s'o'l'u't'e'l'y'/'u'n'c'o'n'd'i't'i'o'n'-' '('c')' '2' '('d')' '2',' '3'
-'a'l'l'y' '9'3'.' 'A'n'y'b'o'd'y' 'w'h'o' 'h'o'l'd's' 'a' 'c'i'v'i'l' 'p'o's't' 'u'n'd'e'r' 'a'
-'B'.' 'S'i'n'e' 'd'i'e' '2'.' 'W'i't'h'o'u't' 'a' 'd'a't'e' 'S't'a't'e' 'h'o'l'd's' 'h'i's' 'o'f'f'i' 'c'e' 'd'u'r'i'n'g' 't'h'e' 'p'l'e'a's'u'r'e'
-'C'.' 'S'l'a'n'd'e'r' '3'.' 'A' 'd'e'f'a'm'a't'o'r'y' 's't'a't'e'-' 'o'f' 't'h'e'
-'m'e'n't' '('a')' 'G'o'v'e'r'n'o'r' '('b')' 'P'r'e's'i'd'e'n't'
-'A' 'B' 'C' '('c')' 'P'a'r'l'i'a'm'e'n't' '('d')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e'
-'('a')' '1' '2' '3' '9'4'.' 'K'o't'h'a'r'i' 'C'o'm'm'i's's'i'o'n' 'r'e'l'a't'e's' 't'o'
-'('b')' '3' '2' '1' '('a')' 's'p'o'r't's' '('b')' 'c'u'l't'u'r'a'l'
-'('c')' '2' '1' '3' '('c')' 'e'd'u'c'a't'i'o'n' '('d')' 't'r'a'n's'p'o'r't'
-'8'7'.' 'A'.' 'S't'a'r'e' 'd'e'c'i's'i's' '1'.' 'D'o'c't'r'i'n'e' 'o'f' 'p'r'e'c'e'd'e'n't' '9'5'.' 'P'a'n'c'h'a'y'a't'i' 'R'a'j' 'r'e'c'e'i'v'e'd' 'c'o'n's't'i't'u't'i'o'n'a'l'
-'B'.' 'S'u'b' 'j'u'd'i'c'e' '2'.' 'P'e'n'd'i'n'g' 'm'a't't'e'r' 's't'a't'u's' 'w'i't'h' 'w'h'i'c'h' 'C'o'n's't'i't'u't'i'o'n'a'l' 'A'm'e'n'd'-'
-'C'.' 'S'u'i' 'g'e'n'e'r'i's' '3'.' 'O'f' 'i't's' 'o'w'n' 'k'i'n'd' 'm'e'n't' 'A'c't'?'
-'A' 'B' 'C' '('a')' '7'2'n'd' '('b')' '7'3'r'd'
-'('a')' '1' '2' '3' '('c')' '7'4't'h' '('d')' '7'7't'h'
-'('b')' '3' '2' '1' '9'6'.' 'T'h'e' '“'L'e'g'a'l' 'S'e'r'v'i'c'e's' 'D'a'y'”' 'f'a'l'l's' 'o'n'
-'('c')' '1' '3' '2' '('a')' '9' 'N'o'v'e'm'b'e'r' '('b')' '1'0' 'D'e'c'e'm'b'e'r'
-'8'8'.' 'A'.' 'T'o'r't'f'e'a's'o'r' '1'.' 'O'n'e' 'w'h'o' 'c'o'm'm'i't's' 't'o'r't' '('c')' '2'6' 'J'a'n'u'a'r'y' '('d')' '1'3' 'F'e'b'r'u'a'r'y'
-'B'.' 'V'a'n'd'a'l'i's'm' '2'.' 'D'a'm'a'g'i'n'g' 'p'r'o'p'e'r't'y' '9'7'.' 'T'h'e' '“'C'i't'i'z'e'n's' 'D'a'y'”' 'f'a'l'l's' 'o'n'
-'C'.' 'V'o'i'd' '3'.' 'H'a'v'i'n'g' 'n'o' 'l'e'g'a'l' 'e'f'f'e'c't' '('a')' '1'8' 'N'o'v'e'm'b'e'r' '('b')' '1'9' 'N'o'v'e'm'b'e'r'
-'A' 'B' 'C' '('c')' '2'0' 'N'o'v'e'm'b'e'r' '('d')' '2'1' 'N'o'v'e'm'b'e'r'
-'('a')' '1' '2' '3' '9'8'.' 'S'o'v'e'r'e'i'g'n't'y' 'i'n' 'I'n'd'i'a' 'm'e'a'n's'
-'('b')' '1' '3' '2' '('a')' 'A'p'e'x' 'A'u't'h'o'r'i't'y' 'o'r' 'A'l't'e'r'n'a't'i'v'e' 'A'u't'h'o'r'-'
-'('c')' '3' '2' '1' 'i't'y'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'7'7'
-'('b')' 'L'o'w'e'r' 'A'u't'h'o'r'i't'y' 'o'r' 'I'm'm'e'd'i'a't'e' 'A'u'-' '('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'A'd'v'o'c'a't'e's' 'a'n'd' 'H'i'g'h'
-'t'h'o'r'i't'y' 'C'o'u'r't' 'A'd'v'o'c'a't'e's'
-'('c')' 'A'u't'h'o'r'i't'y' 'o'f' 'C'o'u'r't' '1'0'0'.' 'W'h'o' 'i's' 't'h'e' 'p'e'r's'o'n'a'l'i't'y' 't'o' 'H'e'a'd' 'U'N'E'S'C'O'
-'('d')' 'A'u't'h'o'r'i't'y' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'f'o'r' 'f'i' 'r's't' 't'i'm'e' 'i'n' 'h'i's't'o'r'y'?'
-'9'9'.' 'T'h'e'r'e' 'a'r'e' 't'w'o' 'c'l'a's's'e's' 'o'f' 'A'd'v'o'c'a't'e's' 'i'n' 'I'n'-'
-'('a')' 'M's' 'I'r'i'n'a' 'B'o'k'o'v'a'
-'d'i'a'
-'('b')' 'M's' 'F'a't'i'm'a' 'B'i'b'i'
-'('a')' 'B'a'r'r'i's't'e'r's' 'a'n'd' 'S'o'l'i'c'i't'o'r's'
-'('c')' 'M's' 'A'n'j'a'l'i' 'R'o'y'
-'('b')' 'A'd'v'o'c'a't'e's' 'a'n'd' 'S'e'n'i'o'r' 'A'd'v'o'c'a't'e's'
-'('c')' 'L'a'w'y'e'r's' 'a'n'd' 'A't't'o'r'n'e'y's' '('d')' 'M's' 'L'e'e'l'a' 'J'e't'h'a'm'a'l'a'n'i'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('c')' '2'.' '('d')' '3'.' '('b')' '4'.' '('c')' '5'.' '('b')' '6'.' '('d')' '7'.' '('a')' '8'.' '('c')' '9'.' '('d')' '1'0'.' '('b')'
-'1'1'.' '('b')' '1'2'.' '('a')' '1'3'.' '('a')' '1'4'.' '('a')' '1'5'.' '('a')' '1'6'.' '('d')' '1'7'.' '('b')' '1'8'.' '('c')' '1'9'.' '('b')' '2'0'.' '('d')'
-'2'1'.' '('c')' '2'2'.' '('c')' '2'3'.' '('a')' '2'4'.' '('b')' '2'5'.' '('c')' '2'6'.' '('a')' '2'7'.' '('a')' '2'8'.' '('b')' '2'9'.' '('a')' '3'0'.' '('d')'
-'3'1'.' '('c')' '3'2'.' '('a')' '3'3'.' '('a')' '3'4'.' '('a')' '3'5'.' '('a')' '3'6'.' '('a')' '3'7'.' '('a')' '3'8'.' '('a')' '3'9'.' '('c')' '4'0'.' '('b')'
-'4'1'.' '('a')' '4'2'.' '('c')' '4'3'.' '('a')' '4'4'.' '('b')' '4'5'.' '('b')' '4'6'.' '('c')' '4'7'.' '('a')' '4'8'.' '('a')' '4'9'.' '('a')' '5'0'.' '('c')'
-'5'1'.' '('c')' '5'2'.' '('a')' '5'3'.' '('a')' '5'4'.' '('d')' '5'5'.' '('d')' '5'6'.' '('a')' '5'7'.' '('b')' '5'8'.' '('c')' '5'9'.' '('b')' '6'0'.' '('c')'
-'6'1'.' '('b')' '6'2'.' '('d')' '6'3'.' '('c')' '6'4'.' '('c')' '6'5'.' '('d')' '6'6'.' '('a')' '6'7'.' '('b')' '6'8'.' '('a')' '6'9'.' '('c')' '7'0'.' '('a')'
-'7'1'.' '('a')' '7'2'.' '('d')' '7'3'.' '('a')' '7'4'.' '('c')' '7'5'.' '('c')' '7'6'.' '('a')' '7'7'.' '('b')' '7'8'.' '('b')' '7'9'.' '('a')' '8'0'.' '('b')'
-'8'1'.' '('c')' '8'2'.' '('d')' '8'3'.' '('b')' '8'4'.' '('a')' '8'5'.' '('a')' '8'6'.' '('a')' '8'7'.' '('a')' '8'8'.' '('a')' '8'9'.' '('a')' '9'0'.' '('b')'
-'9'1'.' '('b')' '9'2'.' '('a')' '9'3'.' '('a')' '9'4'.' '('c')' '9'5'.' '('b')' '9'6'.' '('a')' '9'7'.' '('c')' '9'8'.' '('d')' '9'9'.' '('b')' '1'0'0'.' '('a')'
-'
-'P' 'P' '5'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'T'h'e' 'p'o'w'e'r' 't'o' 'i's's'u'e' 't'h'e' 'w'r'i't's' 'i'n' 'c'a's'e's' 'i'n'-' '7'.' 'A' 'J'u'd'g'e' 'o'f' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'm'a'y' 'r'e's'i'g'n' 'h'i's'
-'v'o'l'v'i'n'g' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'o'f' 'C'o'n's't'i't'u'-' 'o'f'f'i' 'c'e' 'b'y' 'w'r'i't'i'n'g' 'u'n'd'e'r' 'h'i's' 'h'a'n'd' 'a'd'd'r'e's's'e'd'
-'t'i'o'n' 'o'f' 'I'n'd'i'a' 'b'e'l'o'n'g' 't'o' 't'o' 't'h'e'
-'('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'H'i'g'h' 'C'o'u'r't's' '('a')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't's' 'o'n'l'y' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'H'i'g'h' 'C'o'u'r't' 'o'n'l'y' '('c')' 'P'r'e's'i'd'e'n't'
-'('d')' 'L'a'w' 'D'e'p'a'r't'm'e'n't' 'o'f' 'U'n'i'o'n' 'M'i'n'i's't'r'y' 'o'f' '('d')' 'S'e'n'i'o'r'm'o's't' 'j'u'd'g'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e'
-'L'a'w' 'C'o'u'r't'
-'2'.' 'T'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'u'p'h'e'l'd' 'M'a'n'd'a'l' 'C'o'm'-' '8'.' 'T'h'e' 'c'o'n'c'e'p't' 'o'f' 't'h'e' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'h'a's'
-'m'i's's'i'o'n' 'R'e'p'o'r't' 'f'o'r' 'R'e's'e'r'v'a't'i'o'n' 'o'f' 'O'B'C's' 'b'e'e'n' 'b'o'r'r'o'w'e'd' 'f'r'o'm' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f'
-'i'n' 'g'o'v'e'r'n'm'e'n't' 'j'o'b' 'i'n' 'c'a's'e' 'o'f' '('a')' 'F'r'a'n'c'e' '('b')' 'U'K'
-'('a')' 'I'n'd'r'a' 'S'a'w'h'n'e'y' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' '('c')' 'U'S'A' '('d')' 'S'w'i't'z'e'r'l'a'n'd'
-'('b')' 'M'a'n'e'k'a' 'G'a'n'd'h'i' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' '9'.' 'T'h'e' 'A'p'p'e'l'l'a't'e' 'J'u'r'i's'd'i'c't'i'o'n' 'o'f' 't'h'e' 'S'u'p'r'e'm'e'
-'('c')' 'S'.' 'R'.' 'B'o'm'a'n'i' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'C'o'u'r't' 'd'o'e's' 'n'o't' 'i'n'v'o'l'v'e'
-'('d')' 'V'i's'h'a'k'h'a' 'v's' 'S't'a't'e' 'o'f' 'R'a'j'a's't'h'a'n' '('a')' 'C'r'i'm'i'n'a'l' 'c'a's'e's'
-'3'.' 'V'A'T' 'i'n' 'I'n'd'i'a' 'w'h'i'c'h' 'r'e'p'l'a'c'e'd' 'S'a'l'e's' 'T'a'x' 'r'e'-' '('b')' 'C'i'v'i'l' 'C'a's'e's'
-'f'e'r's' 't'o'
-'('c')' 'C'a's'e's' 'i'n'v'o'l'v'i'n'g' 'i'n't'e'r'p'r'e't'a't'i'o'n' 'o'f' 't'h'e'
-'('a')' 'v'a'l'u'e' 'a'd'd'e'd' 't'a'x'
-'C'o'n's't'i't'u't'i'o'n'
-'('b')' 'v'a'r'i'o'u's' 'a'd'd'e'd' 't'a'x'
-'('d')' 'D'i's'p'u't'e's' 'r'i's'i'n'g' 'o'u't' 'o'f' 'p'r'e'-'c'o'n's't'i't'u't'i'o'n'
-'('c')' 'v'a'l'u'a'b'l'e' 'a'd'd'i't'i'o'n'a'l' 't'a'x'
-'t'r'e'a't'i'e's' 'a'n'd' 'a'g'r'e'e'm'e'n't's'
-'('d')' 'v'a'l'u'e'-'b'a's'e'd' 'a'd'd'i't'i'o'n'a'l' 't'a'x'
-'1'0'.' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'm'e'a'n's'
-'4'.' 'W'h'a't' 'i's' 't'r'u'e' 'a'b'o'u't' 'a' 'r'e't'i'r'e'd' 'j'u'd'g'e' 'o'f' 'S'u'-'
-'('a')' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'c'o'u'r't's' 't'o' 'm'a'k'e' 'l'a'w's'
-'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a'?'
-'('b')' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'c'o'u'r't's' 't'o' 'd'e'f'i' 'n'e' 'l'a'w's'
-'('a')' 'A' 'r'e't'i'r'e'd' 'j'u'd'g'e' 'c'a'n' 'p'r'a'c't'i'c'e' 'i'n' 'S'u'-'
-'('c')' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'c'o'u'r't's' 't'o' 'd'e'f'i' 'n'e'
-'p'r'e'm'e' 'C'o'u'r't' 'o'n'l'y'
-'c'o'n's't'i't'u't'i'o'n'
-'('b')' 'A' 'r'e't'i'r'e'd' 'j'u'd'g'e' 'c'a'n'n'o't' 'p'r'a'c't'i'c'e' 'i'n' 'S'u'-'
-'('d')' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'c'o'u'r't's' 't'o' 'a'n'n'u'l' 'a'n'y'
-'p'r'e'm'e' 'C'o'u'r't'
-'l'e'g'i's'l'a't'i'v'e' 'o'r' 'e'x'e'c'u't'i'v'e' 'a'c't' 'w'h'i'c'h' 'i's'
-'('c')' 'A' 'r'e't'i'r'e'd' 'j'u'd'g'e' 'i's' 'p'r'o'h'i'b'i't'e'd' 'f'r'o'm' 'p'r'a'c'-'
-'a'g'a'i'n's't' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 't'h'e' 'c'o'n's't'i't'u'-'
-'t'i'c'i'n'g' 'l'a'w' 'b'e'f'o'r'e' 'a'n'y' 'c'o'u'r't' 'i'n' 'I'n'd'i'a'
-'t'i'o'n'
-'('d')' 'A' 'r'e't'i'r'e'd' 'j'u'd'g'e' 'c'a'n'n'o't' 'p'r'a'c't'i'c'e' 'i'n' 'l'o'w'-'
-'1'1'.' 'I'n' 'I'n'd'i'a' 'a'n' 'a'g'g'r'i'e'v'e'd' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'o'f' 't'h'e'
-'e'r' 'c'o'u'r't's' 'i'n' 'I'n'd'i'a'
-'U'n'i'o'n' 'c'a'n' 'c'h'a'l'l'e'n'g'e' 't'h'e' 'd'e'c'i's'i'o'n's' 'o'f' 't'h'e'
-'5'.' 'T'h'o'u'g'h' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'p'r'o'v'i'd'e's'
-'A'd'm'i'n'i's't'r'a't'i'v'e' 'T'r'i'b'u'n'a'l'
-'f'o'r' 't'h'e' 'f'e'd'e'r'a'l' 's'y's't'e'm' 'o'f' 'G'o'v'e'r'n'm'e'n't',' 'I'n'-'
-'('a')' 'b'e'f'o'r'e' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'d'i'a' 'h'a's'
-'('b')' 'b'e'f'o'r'e' 't'h'e' 'H'i'g'h' 'C'o'u'r't'
-'('a')' 'd'u'a'l' 'j'u'd'i'c'i'a'l' 's'y's't'e'm'
-'('c')' 'b'e'f'o'r'e' 'b'o't'h' '('a')' 'a'n'd' '('b')'
-'('b')' 'p'l'u'r'a'l' 'j'u'd'i'c'i'a'l' 's'y's't'e'm'
-'('d')' 'b'e'f'o'r'e' 'n'o' 'c'o'u'r't' 'o'f' 'l'a'w'
-'('c')' 's'i'n'g'l'e' 'j'u'd'i'c'i'a'l' 's'y's't'e'm'
-'1'2'.' 'C'a'n' 't'h'e' 'l'o'w'e'r' 'c'o'u'r't' 'i'n' 'I'n'd'i'a' 'd'e'c'i'd'e' 'a'n'
-'('d')' 'm'u'l't'i'p'l'e' 'j'u'd'i'c'i'a'l' 's'y's't'e'm'
-'e'l'e'c't'i'o'n' 'i's's'u'e'
-'6'.' 'F'o'r' 'a'm'e'n'd'm'e'n't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n',' 'a' 'B'i'l'l'
-'('a')' 'n'o'
-'m'a'y' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n'
-'('a')' 'R'a'j'y'a' 'S'a'b'h'a' '('b')' 'y'e's'
-'('b')' 'L'o'k' 'S'a'b'h'a' '('c')' 'o'n'l'y' '('a')' 'i's' 'r'i'g'h't'
-'('c')' 'E'i't'h'e'r' 'H'o'u's'e' 'o'f' 'P'a'r'l'i'a'm'e'n't' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'E'i't'h'e'r' 'c'h'a'm'b'e'r' 'o'f' 'S't'a't'e' 'l'e'g'i's'l'a't'u'r'e' 'o'r' '1'3'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'U'n'i'o'n' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'm'u's't' 'b'e'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'7'9'
-'('a')' 'q'u'a'l'i'f'i' 'e'd' 't'o' 'b'e' 'a' 'H'i'g'h' 'C'o'u'r't' 'J'u'd'g'e' '2'1'.' 'P'o'w'e'r' 't'o' 's'u'p'e'r'i'n't'e'n'd',' 'd'i'r'e'c't' 'a'n'd' 'c'o'n't'r'o'l'
-'('b')' 'a' 'p'e'r's'o'n' 'h'a'v'i'n'g' 's'p'e'c'i'a'l' 'k'n'o'w'l'e'd'g'e' 'o'f' 'e'l'e'c't'i'o'n's' 't'o' 't'h'e' 'P'a'n'c'h'a'y'a't' 'i'n' 'I'n'd'i'a' 'i's' 'v'e's't'-'
-'e'c'o'n'o'm'i'c's' 'e'd' 'i'n'
-'('c')' 'a' 'p'e'r's'o'n' 'h'a'v'i'n'g' 'e'x'p'e'r'i'e'n'c'e' 'i'n' 'p'u'b'l'i'c' '('a')' 'S't'a't'e' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'a'f'f'a'i'r's' '('b')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'a't' 'C'e'n't'r'e'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e' '('c')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e'
-'1'4'.' 'I'n' 'I'n'd'i'a' 't'h'e' 'C'e'n't'r'a'l' 'G'o'v'e'r'n'm'e'n't' 'c'a'n' 'a's'-' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'s'i'g'n' 'a'n'y' 'f'u'n'c't'i'o'n' 'o'f' 't'h'e' 'S't'a't'e's' '2'2'.' 'I'f' 't'h'e'r'e' 'i's' 'b'r'e'a'k'd'o'w'n' 'o'f' 'C'o'n's't'i't'u't'i'o'n'a'l'
-'('a')' 'o'n' 't'h'e' 'd'i'r'e'c't'i'v'e' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'M'a'c'h'i'n'e'r'y' 'i'n' 't'h'e' 'S't'a't'e' 'i'n' 'I'n'd'i'a'
-'('b')' 'o'n' 't'h'e' 'r'e'c'o'm'm'e'n'd'a't'i'o'n' 'o'f' 'P'a'r'l'i'a'm'e'n't' '('a')' 'G'o'v'e'r'n'o'r'’'s' 'r'u'l'e' 'i's' 'i'm'p'o's'e'd'
-'('c')' 'a'n'y' 't'i'm'e' 'i't' 'w'i's'h'e's' 't'o' 'd'o' 's'o' '('b')' 'P'r'e's'i'd'e'n't'’'s' 'r'u'l'e' 'i's' 'i'm'p'o's'e'd'
-'('d')' 'w'i't'h' 't'h'e' 'c'o'n's'e'n't' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' '('c')' 'e'm'e'r'g'e'n'c'y' 'i's' 'd'e'c'l'a'r'e'd'
-'S't'a't'e' '('d')' 'a'n' 'a'd'm'i'n'i's't'r'a't'o'r' 'i's' 'a'p'p'o'i'n't'e'd' 'f'o'r' 't'h'i's'
-'1'5'.' 'T'h'e' 'c'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'm'a'k'e's' 'p'r'o'v'i's'i'o'n's' 'p'u'r'p'o's'e'
-'t'o' 'e'n's'u'r'e' 't'h'e' 'i'n'd'e'p'e'n'd'e'n'c'e' 'o'f' 'J'u'd'g'e's'.' 'T'h'e' '2'3'.' 'P'o'w'e'r' 't'o' 'e's't'a'b'l'i's'h' 't'h'e' 'c'o'm'm'o'n' 'H'i'g'h'
-'p'r'o'v'i's'i'o'n's' 'd'o' 'n'o't' 'i'n'c'l'u'd'e' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'-' 'C'o'u'r't' 'f'o'r' 't'w'o' 'o'r' 'm'o'r'e' 'S't'a't'e's' 'i'n' 'I'n'd'i'a' 'b'e'-'
-'l'o'w'i'n'g'.' 'I'd'e'n't'i'f'y' 'i't'.'
-'l'o'n'g's' 't'o' 't'h'e'
-'('a')' 'T'h'o'u'g'h' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't','
-'('a')' 'G'o'v'e'r'n'o'r's' 'o'f' 't'w'o' 'S't'a't'e's'
-'t'h'e'i'r' 'r'e'm'o'v'a'l' 'i's' 'a' 'd'i'f'f'i' 'c'u'l't' 'p'r'o'c'e's's'
-'('b')' 'P'a'r'l'i'a'm'e'n't'
-'('b')' 'T'h'e'i'r' 's'a'l'a'r'i'e's' 'a'r'e' 'c'h'a'r'g'e'd' 'o'n' 't'h'e' 'C'o'n'-'
-'('c')' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 't'w'o' 'S't'a't'e's'
-'s'o'l'i'd'a't'e'd' 'F'u'n'd' 'o'f' 'I'n'd'i'a'
-'('d')' 'H'o'm'e' 'M'i'n'i's't'e'r' 'o'f' 't'w'o' 'S't'a't'e's'
-'('c')' 'T'h'e' 'c'o'n'd'u'c't' 'o'f' 'a' 'j'u'd'g'e' 'c'a'n'n'o't' 'b'e' 'd'i's'-'
-'2'4'.' 'I'n' 'I'n'd'i'a' 'r'e'c'o'g'n'i't'i'o'n' 't'o' 'P'o'l'i't'i'c'a'l' 'P'a'r't'i'e's' 'i's'
-'c'u's's'e'd' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'e'x'c'e'p't' 'u'p'o'n' 'a'
-'a'c'c'o'r'd'e'd' 'b'y' 't'h'e'
-'m'o't'i'o'n' 'r'e'g'a'r'd'i'n'g' 'h'i's' 'r'e'm'o'v'a'l'
-'('a')' 'P'r'e's'i'd'e'n't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'L'a'w' 'C'o'm'm'i's's'i'o'n'
-'1'6'.' 'R'a'i'l'w'a'y's' 'i's' 'a' 's'u'b'j'e'c't' 'o'n' 't'h'e'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('a')' 'C'o'n'c'u'r'r'e'n't' 'l'i's't' '('b')' 'U'n'i'o'n' 'L'i's't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'S't'a't'e' 'l'i's't' '('d')' 'R'e's'i'd'u'a'l' 'L'i's't'
-'2'5'.' 'T'h'e' 'J'u'd'g'e's' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a'
-'1'7'.' 'U'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n',' 't'h'e' 'r'e's'i'd'u'a'r'y'
-'a'r'e' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e'
-'p'o'w'e'r's' 'v'e's't' 'w'i't'h' 't'h'e'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h'
-'('a')' 'P'r'e's'i'd'e'n't'
-'t'h'e' 'C'a'b'i'n'e't'
-'('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('b')' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h' 't'h'e'
-'('c')' 'U'n'i'o'n' 'G'o'v'e'r'n'm'e'n't'
-'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('d')' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h'
-'1'8'.' 'T'h'e' 'S't'a't'e' 'a'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'t'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'i'n'c'l'u'd'e's' 't'h'e'
-'('d')' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'w'i't'h' 't'h'e' 'L'a'w'
-'('a')' 'E'x'e'c'u't'i'v'e' '('b')' 'L'e'g'i's'l'a't'u'r'e'
-'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a'
-'('c')' 'L'o'c'a'l' 'B'o'd'i'e's' '('d')' 'A'l'l' 'o'f' 't'h'e' 'a'b'o'v'e'
-'2'6'.' 'I'n' 'c'a's'e' 'a' 'P'r'e's'i'd'e'n't' 'd'i'e's' 'w'h'i'l'e' 'i'n' 'o'f'f'i' 'c'e',' 't'h'e'
-'1'9'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'c'o'r'r'e'c't'
-'c'h'r'o'n'o'l'o'g'i'c'a'l' 'o'r'd'e'r' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r's' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'c'a'n' 'a'c't' 'a's' 'P'r'e's'i'd'e'n't' 'f'o'r' 'a'
-'o'f' 'I'n'd'i'a'?' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f'
-'I'.' 'I'n'd'i'r'a' 'G'a'n'd'h'i' '('a')' '2' 'y'e'a'r's' '('b')' '1' 'y'e'a'r'
-'I'I'.' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u' '('c')' '3' 'm'o'n't'h's' '('d')' '6' 'm'o'n't'h's'
-'I'I'I'.' 'M'o'r'a'r'j'i' 'D'e's'a'i' '2'7'.' 'T'o't'a'l' 'n'u'm'b'e'r' 'o'f' 'm'e'm'b'e'r's' 'i'n' 'a' 'L'e'g'i's'l'a't'i'v'e'
-'I'V'.' 'C'h'a'r'a'n' 'S'i'n'g'h' 'C'o'u'n'c'i'l' 's'h'o'u'l'd' 'n'o't' 'e'x'c'e'e'd' 't'h'a't' 'o'f' 'a' 'L'e'g'i's'-'
-'('a')' 'I',' 'I'I',' 'I'I'I',' 'I'V' '('b')' 'I'I',' 'I'I'I',' 'I',' 'I'V' 'l'a't'i'v'e' 'A's's'e'm'b'l'y' 'b'y'
-'('c')' 'I'I',' 'I',' 'I'I'I',' 'I'V' '('d')' 'I'I'I',' 'I'I',' 'I'V',' 'I' '('a')' '1'/'3' 'r'd' '('b')' '2'/'3' 'r'd'
-'2'0'.' 'T'h'e' 'U'n'i'o'n' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'c'o'n's'i's't's' '('c')' '1'/'2' 'r'd' '('d')' '1'/'4' 'r'd'
-'o'f' '2'8'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'i's's'u'e's' 'a'n' 'o'r'd'i'-'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'n'a'n'c'e'
-'('b')' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r's' '('a')' 'i'f' 'P'a'r'l'i'a'm'e'n't' 'i's' 'n'o't' 'i'n' 's'e's's'i'o'n'
-'('c')' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r's' 'a'n'd' 'C'h'i'e'f' 'M'i'n'i's't'e'r's' '('b')' 'i'f' 'P'a'r'l'i'a'm'e'n't' 'i's' 'n'o't' 'l'i'k'e'l'y' 't'o' 'p'a's's' 'i't'
-'o'f' 't'h'e' 'S't'a't'e's' '('c')' 'i'f' 't'h'e'r'e' 'i's' 'a'n'y' 'd'a'n'g'e'r' 't'o' 't'h'e' 'n'a't'i'o'n'
-'('d')' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r's',' 'M'i'n'i's't'e'r's' 'o'f' 'S't'a't'e' '('d')' 'i'f' 't'h'e'r'e' 'i's' 'a' 'd'e'a'd'l'o'c'k' 'b'e't'w'e'e'n' 't'h'e' 't'w'o'
-'a'n'd' 'D'e'p'u't'y' 'M'i'n'i's't'e'r's' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'
-'2'9'.' 'W'h'o',' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g',' 'i's' 'n'o't' 'a'p'p'o'i'n't'-' '('c')' 'I't' 'i's' 'a' 'm'i'x't'u'r'e' 'o'f' 's'e'v'e'r'a'l' 'C'o'n's't'i't'u'-'
-'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'?' 't'i'o'n's'.'
-'('a')' 'A'm'b'a's's'a'd'o'r's' '('d')' 'I't' 'i's' 'o'r'i'g'i'n'a'l'.'
-'('b')' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '3'7'.' 'W'h'o' 'p'r'o'p'o's'e'd' 't'h'e' 'P'r'e'a'm'b'l'e' 'b'e'f'o'r'e' 't'h'e'
-'('c')' 'T'h'e' 'A't't'o'r'n'e'y'-'G'e'n'e'r'a'l' 'D'r'a'f't'i'n'g' 'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'?'
-'('d')' 'T'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('a')' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u'
-'3'0'.' 'F'o'r' 't'h'e' 'p'h'i'l'o's'o'p'h'y' 'u'n'd'e'r'l'y'i'n'g' 'o'u'r' 'C'o'n's't'i'-' '('b')' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'t'u't'i'o'n' 't'h'e' 'h'i's't'o'r'i'c' '‘'O'b'j'e'c't'i'v'e's' 'R'e's'o'l'u't'i'o'n'’' '('c')' 'B'.' 'N'.' 'R'a'u'
-'w'a's' 'm'o'v'e'd' 'i'n' 't'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' '('d')' 'M'a'h'a't'm'a' 'G'a'n'd'h'i'
-'o'n' '2'2' 'J'a'n'u'a'r'y' '1'9'4'7' 'b'y' '3'8'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'k'n'o'w'n' 'a's' 't'h'e'
-'('a')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r' 'F'a't'h'e'r' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'?'
-'('b')' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u' '('a')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'('c')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd' '('b')' 'M'a'h'a't'm'a' 'G'a'n'd'h'i'
-'('d')' 'D'r' 'S'.' 'R'a'd'h'a'k'r'i's'h'n'a'n' '('c')' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u'
-'3'1'.' 'N'u'm'b'e'r' 'o'f' 'l'a'n'g'u'a'g'e's' 'r'e'c'o'g'n'i'z'e'd' 'b'y' 't'h'e' '('d')' 'V'a'l'l'a'b'h'b'h'a'i' 'P'a't'e'l'
-'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'i's' '3'9'.' 'T'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'b'e'c'a'm'e' 'a' 's'o'v'-'
-'('a')' '1'0' '('b')' '1'4' 'e'r'e'i'g'n' 'b'o'd'y' 'a'f't'e'r'
-'('c')' '2'2' '('d')' '1'3' '('a')' '2'6' 'J'a'n'u'a'r'y' '1'9'5'0'
-'3'2'.' 'W'h'i'c'h' 'o'f' 't'h'e's'e' 'a'n'i'm'a'l's' 'i's' 'N'a't'i'o'n'a'l' 'A'n'i'-' '('b')' '2'6' 'N'o'v'e'm'b'e'r' '1'9'2'9'
-'m'a'l' 'o'f' 'I'n'd'i'a'?' '('c')' '1'5'A'u'g'u'g'u's't' '1'9'4'7'
-'('a')' 'E'l'e'p'h'a'n't' '('b')' 'H'o'r's'e' '('d')' '2'6' 'A'u'g'u'g'u's't' '1'9'4'9'
-'('c')' 'T'i'g'e'r' '('d')' 'L'i'o'n'
-'4'0'.' 'I'n'd'i'a' 'b'e'c'a'm'e' 'a' 'S'o'v'e'r'e'i'g'n',' 'D'e'm'o'c'r'a't'i'c'
-'3'3'.' 'I'n' 'I'n'd'i'a' 't'h'e' 'C'h'a'i'r'm'a'n' 'a'n'd' 't'h'e' 'M'e'm'b'e'r's' 'o'f'
-'R'e'p'u'b'l'i'c' 'o'n'
-'t'h'e' 'U'n'i'o'n' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e' 'C'o'm'm'i's's'i'o'n' 'a'r'e'
-'('a')' '1'5' 'A'u'g'u's't' '1'9'4'7'
-'a'p'p'o'i'n't'e'd'
-'('b')' '3'0' 'J'a'n'u'a'r'y' '1'9'4'8'
-'('a')' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' '2'6' 'J'a'n'u'a'r'y' '1'9'5'0'
-'('b')' 'b'y' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('d')' '2'6' 'N'o'v'e'm'b'e'r' '1'9'4'8'
-'('c')' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'4'1'.' 'A' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r' 'c'a'n'n'o't' 'i'n'v'e's't'i'g'a't'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'a'_'_'_'_'_'_'w'i't'h'o'u't' 't'h'e' 'o'r'd'e'r's' 'o'f' 'a' 'M'a'g'i's'-'
-'3'4'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e'm'e'n't's' 'i's' 'n'o't'
-'t'r'a't'e'
-'c'o'r'r'e'c't' 'r'e'g'a'r'd'i'n'g' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'-'
-'('a')' 'N'o'n' 'b'a'i'l'a'b'l'e' 'c'a's'e'
-'d'i'a'?'
-'('b')' 'B'a'i'l'a'b'l'e' 'c'a's'e'
-'('a')' 'I't' 'c'a'n' 'h'e'a'r' 'd'i's'p'u't'e's' 'b'e't'w'e'e'n' 't'h'e' 'U'n'i'o'n'
-'('c')' 'N'o'n' 'c'o'g'n'i'z'a'b'l'e' 'c'a's'e'
-'a'n'd' 'S't'a't'e's' 'u'n'd'e'r' 'i't's' 'o'r'i'g'i'n'a'l' 'j'u'r'i's'd'i'c'-'
-'('d')' 'C'o'g'n'i'z'a'b'l'e' 'c'a's'e'
-'t'i'o'n'.'
-'4'2'.' 'W'h'i'c'h' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'T'h'e'o's'o'p'h'i'c'a'l' 'S'o'c'i'-'
-'('b')' 'I't' 'c'a'n' 'i's's'u'e' 'w'r'i't's' 'f'o'r' 't'h'e' 'e'n'f'o'r'c'e'm'e'n't'
-'e't'y' 'b'e'c'a'm'e' 't'h'e' 'f'i' 'r's't' 'W'o'm'a'n' 'P'r'e's'i'd'e'n't' 'o'f'
-'o'f' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'.'
-'t'h'e' 'I'n'd'i'a'n' 'N'a't'i'o'n'a'l' 'C'o'n'g'r'e's's'?'
-'('c')' 'I't' 'c'a'n' 'g'r'a'n't' 'p'e'r'm'i's's'i'o'n' 'f'o'r' 's'p'e'c'i'a'l'
-'('a')' 'U's'h'a' 'E'r'a'n'a' '('b')' 'U'm'a' 'B'a'n'e'r'j'e'e'
-'a'p'p'e'a'l' 'a'g'a'i'n's't' 't'h'e' 'r'e'f'u's'a'l' 'o'f' 'a' 'H'i'g'h'
-'('c')' 'A'n'n'i'e' 'B'e's'a'n't' '('d')' 'N'a'n'd'i'n'i' 'G'o'k'h'a'l'e'
-'C'o'u'r't' 't'o' 'g'r'a'n't' 'c'e'r't'i'f'i' 'c'a't'e' 'f'o'r' 'a'p'p'e'a'l'.'
-'4'3'.' 'T'h'e' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'u'n'd'e'r' 'C'o'n's't'i't'u'-'
-'('d')' 'I't' 'c'a'n' 'a'c'c'e'p't' 'm'e'r'c'y' 'p'e't'i't'i'o'n' 's'u'b'm'i't't'e'd'
-'t'i'o'n' 'o'f' 'I'n'd'i'a' 'a'r'e'
-'b'y' 't'h'e' 'c'o'n'v'i'c't'e'd' 'p'e'r's'o'n's'.'
-'('a')' 'p'o's'i't'i'v'e' 'i'n's't'r'u'c't'i'o'n's' 't'o' 't'h'e' 'G'o'v'e'r'n'-'
-'3'5'.' 'W'h'o' 'i's' 'v'e's't'e'd' 'w'i't'h' 't'h'e' 'p'o'w'e'r' 'o'f' 's'u'p'e'r'i'n'-'
-'m'e'n't' 't'o' 'w'o'r'k' 'f'o'r' 't'h'e' 'a't't'a'i'n'm'e'n't' 'o'f' 's'e't'
-'t'e'n'd'e'n'c'e',' 'd'i'r'e'c't'i'o'n' 'a'n'd' 'c'o'n't'r'o'l' 'o'f' 'e'l'e'c't'i'o'n'
-'o'b'j'e'c't'i'v'e's'
-'i'n' 'I'n'd'i'a'?'
-'('b')' 'n'e'g'a't'i'v'e' 'i'n'j'u'c't'i'o'n's' 't'o' 't'h'e' 'G'o'v'e'r'n'-'
-'('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'m'e'n't' 't'o' 'r'e'f'r'a'i'n' 'f'r'o'm' 'e'n'c'r'o'a'c'h'i'n'g' 'o'n'
-'('b')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'t'h'e' 'f'r'e'e'd'o'm' 'o'f' 't'h'e' 'p'e'o'p'l'e'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('c')' 'd'i'r'e'c't'i'v'e's' 't'o' 't'h'e' 'S't'a't'e' 't'o' 'e'n'h'a'n'c'e' 't'h'e'
-'('d')' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r'
-'i'n't'e'r'n'a't'i'o'n'a'l' 'p'r'e's't'i'g'e' 'o'f' 't'h'e' 'c'o'u'n't'r'y'
-'3'6'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'c'o'r'r'e'c't' 'r'e'g'a'r'd'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'i'n'g' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'?'
-'4'4'.' 'W'h'i'c'h' 'C'o'n'g'r'e's's' 'P'r'e's'i'd'e'n't' 'd'e's'c'r'i'b'e'd' 't'h'e'
-'('a')' 'I't' 'i's' 'c'o'm'p'l'e't'e'l'y' 'b'a's'e'd' 'o'n' 'B'r'i't'i's'h' 'C'o'n'-'
-'D'u'r'b'a'r' 'o'f' '1'9'0'3' 't'o' 'p'r'o'c'l'a'i'm' 'E'd'w'a'r'd' 'V'I'I' 'a's'
-'s't'i't'u't'i'o'n'.'
-'('b')' 'I't' 'i's' 'm'a'd'e' 'o'n'l'y' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' 'G'o'v'-' 'E'm'p'e'r'o'r' 'o'f' 'I'n'd'i'a',' '“'a' 'P'o'm'p'o'u's' 'P'e'g'e'a'n't' 't'o'
-'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a' 'A'c't',' '1'9'3'5'.' 'a' 'p'e'r'i's'h'i'n'g' 'p'e'o'p'l'e'”'?'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'8'1'
-'('a')' 'L'a'l' 'M'o'h'a'n' 'G'h'o's'h' '5'2'.' 'U'n'd'e'r' 'w'h'i'c'h' 'A'r't'i'c'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('b')' 'W'.' 'C'.' 'B'a'n'e'r'j'e'e' 'o'f' 'I'n'd'i'a',' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'g'i'v'e's' 'd'i'r'e'c't'i'o'n' 't'o'
-'('c')' 'M'o't'i'l'a'l' 'N'e'h'r'u' 'S't'a't'e's'?'
-'('d')' 'S'a'r'o'j'i'n'i' 'N'a'i'd'u' '('a')' 'A'r't'i'c'l'e' '2'5'7' '('b')' 'A'r't'i'c'l'e' '2'5'8'
-'4'5'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'o'n'd'i't'i'o'n's' 'd'o'e's' '('c')' 'A'r't'i'c'l'e' '2'5'9' '('d')' 'A'r't'i'c'l'e' '2'6'0'
-'n'o't' 'c'o'n't'r'i'b'u't'e' 't'o' 't'h'e' 'i'n'd'e'p'e'n'd'e'n'c'e' 'o'f' 't'h'e' '5'3'.' 'W'h'i'c'h' 'A'c't' 'i'n' 'I'n'd'i'a' 'l'a'i'd' 'd'o'w'n' 't'h'e' 't'e'r'm's'
-'J'u'd'i'c'i'a'r'y' 'i'n' 'I'n'd'i'a'?' 'a'n'd' 'c'o'n'd'i't'i'o'n's' 'f'o'r' 'r'e'g'i's't'r'a't'i'o'n' 'a'n'd' 'c'a'r'r'y'-'
-'('a')' 'N'o' 'c'h'a'n'g'e' 'i'n' 's'a'l'a'r'y' 'a'n'd' 's'e'r'v'i'c'e' 'c'o'n'-' 'i'n'g' 't'h'e' 'a'c't'i'v'i't'i'e's' 'o'f' 't'r'a'd'e' 'u'n'i'o'n'?'
-'d'i't'i'o'n' 'o'f' 'j'u'd'g'e's' 'c'a'n' 'b'e' 'm'a'd'e' 'w'h'i'c'h' '('a')' 'T'r'a'd'e' 'U'n'i'o'n' 'A'c't',' '1'9'2'6'
-'o'p'e'r'a't'e's' 'a'g'a'i'n's't' 't'h'e'i'r' 'a'p'p'o'i'n't'm'e'n't' '('b')' 'T'r'a'd'e' 'U'n'i'o'n' 'A'c't',' '1'9'2'9'
-'('b')' 'O'n'c'e' 'a'p'p'o'i'n't'e'd',' 't'h'e' 'j'u'd'g'e's' 'c'a'n'n'o't' 'b'e' '('c')' 'T'r'a'd'e' 'U'n'i'o'n' 'A'c't',' '1'9'2'2'
-'r'e'm'o'v'e'd' 'f'r'o'm' 't'h'e'i'r' 'o'f'f'i' 'c'e' 'b'e'f'o'r'e' 't'h'e' '('d')' 'T'r'a'd'e' 'U'n'i'o'n' 'A'c't',' '1'9'2'4'
-'d'a't'e' 'o'f' 'r'e't'i'r'e'm'e'n't' '5'4'.' 'J'u'r'i's'd'i'c't'i'o'n' 't'o' 'g'r'a'n't' 'a'n't'i'c'i'p'a't'o'r'y' 'b'a'i'l' 'u'n'-'
-'('c')' 'T'h'e' 's'a'l'a'r'y' 'a'n'd' 'a'l'l'o'w'a'n'c'e's' 'o'f' 't'h'e' 'd'e'r' 's'e'c't'i'o'n' '4'3'8' 'o'f' 'C'r'.' 'P'.'C'.' 'v'e's't's' 'w'i't'h'
-'j'u'd'g'e's' 'a'r'e' 'c'h'a'r'g'e'd' 't'o' 't'h'e' 'C'o'n's'o'l'i'd'a't'-' '('a')' 'T'h'e' 'H'i'g'h' 'C'o'u'r't'
-'e'd' 'F'u'n'd' 'o'f' 'I'n'd'i'a' 'a'n'd' 'a'r'e' 'n'o't' 's'u'b'j'e'c't' 't'o' '('b')' 'T'h'e' 'C'o'u'r't' 'o'f' 'S'e's's'i'o'n's' 'a'n'd' 't'h'e' 'H'i'g'h'
-'P'a'r'l'i'a'm'e'n't' 'V'o't'e'
-'C'o'u'r't'
-'('d')' 'R'e't'i'r'e'd' 'j'u'd'g'e's' 'a'r'e' 'n'o't' 'p'e'r'm'i't't'e'd' 't'o'
-'('c')' 'T'h'e' 'C'o'u'r't' 'o'f' 'S'e's's'i'o'n's'
-'c'a'r'r'y' 'o'n' 'p'r'a'c't'i'c'e' 'b'e'f'o'r'e' 'a'n'y' 'c'o'u'r't' 'o'r'
-'('d')' 'T'h'e' 'C'o'u'r't' 'o'f' 'M'a'g'i's't'r'a't'e'
-'t'r'i'b'u'n'a'l' 'i'n' 'I'n'd'i'a'
-'5'5'.' 'F'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 'S't'a't'e' 'R'e'o'r'g'a'n'i'z'a't'i'o'n','
-'4'6'.' 'W'h'o' 'w'a's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'C'o'n's't'i't'u'e'n't'
-'I'n'd'i'a' 'h'a's' 'b'e'e'n' 'd'i'v'i'd'e'd' 'i'n't'o' 'h'o'w' 'm'a'n'y'
-'A's's'e'm'b'l'y'?'
-'z'o'n'e's'?'
-'('a')' 'P't' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u'
-'('a')' '5' '('b')' '7'
-'('b')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd'
-'('c')' '9' '('d')' '1'2'
-'('c')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'5'6'.' 'W'h'a't' 't'y'p'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'i'n' 'I'n'd'i'a' 'i's'
-'('d')' 'C'.' 'R'a'j'a'g'o'p'a'l'a'c'h'a'r'i'
-'('a')' 'F'l'e'x'i'b'l'e'
-'4'7'.' 'H'o'w' 'l'o'n'g' 'd'i'd' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'A's's'e'm'b'l'y'
-'('b')' 'R'i'g'i'd'
-'t'a'k'e' 't'o' 'f'i' 'n'a'l'l'y' 'p'a's's' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'?'
-'('c')' 'P'a'r't'l'y' 'r'i'g'i'd' 'a'n'd' 'p'a'r't'l'y' 'f'l' 'e'x'i'b'l'e'
-'('a')' 'A'b'o'u't' '6' 'm'o'n't'h's' 'i'n' '1'9'4'9'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'E'x'a'c't'l'y' 'a' 'y'e'a'r' 's'i'n'c'e' '2'6' 'N'o'v'e'm'b'e'r'
-'5'7'.' 'H'o'm'i'c'i'd'e' 'l'i't'e'r'a'l'l'y' 'm'e'a'n's'
-'1'9'4'8'
-'('a')' 'T'h'e' 'p'u'n'i's'h'm'e'n't' 'o'f' 'd'e'a't'h'
-'('c')' 'A'b'o'u't' '2' 'y'e'a'r's' 's'i'n'c'e' '1'5' 'A'u'g'u's't' '1'9'4'7'
-'('b')' 'K'i'l'l'i'n'g' 'o'f' 'a'n'i'm'a'l's'
-'('d')' 'A'b'o'u't' '3' 'y'e'a'r's' 's'i'n'c'e' '9' 'D'e'c'e'm'b'e'r' '1'9'4'6'
-'('c')' 'M'u'r'd'e'r'
-'4'8'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' 'a'd'o'p't'e'd' 'b'y'
-'('d')' 'K'i'l'l'i'n'g' 'o'f' 'a' 'h'u'm'a'n' 'b'e'i'n'g' 'b'y' 'a'n'o't'h'e'r'
-'t'h'e'
-'h'u'm'a'n' 'b'e'i'n'g'
-'('a')' 'G'o'v'e'r'n'o'r'-'G'e'n'e'r'a'l'
-'5'8'.' 'W'h'i'c'h' 'c'o'u'n't'r'y' 'h'a's' 'l'a'r'g'e's't' 'w'r'i't't'e'n' 'i'n' 't'h'e'
-'('b')' 'B'r'i't'i's'h' 'P'a'r'l'i'a'm'e'n't'
-'w'o'r'l'd'?'
-'('c')' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y'
-'('a')' 'B'r'i't'a'i'n' '('b')' 'I'n'd'i'a'
-'('d')' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'
-'('c')' 'C'a'n'a'd'a' '('d')' 'S'o'u't'h' 'A'f'r'i'c'a'
-'4'9'.' 'T'h'e' 'D'r'a'f't'i'n'g' 'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u'-'
-'5'9'.' 'T'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'a't' 't'h'e' 'C'e'n't'r'e' 'i's'
-'t'i'o'n',' 'i'n'c'l'u'd'i'n'g' 't'h'e' 'C'h'a'i'r'm'a'n',' 'c'o'm'p'r'i's'e'd'
-'o'f' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 'i't's' 'c'o'n'd'u'c't' 't'o' 't'h'e'
-'('a')' 's'e'v'e'n' 'm'e'm'b'e'r's' '('b')' 'f'i' 'v'e' 'm'e'm'b'e'r's' '('a')' 'L'o'k' 'S'a'b'h'a' '('b')' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'n'i'n'e' 'm'e'm'b'e'r's' '('d')' 't'h'r'e'e' 'm'e'm'b'e'r's' '('c')' 'P'r'e's'i'd'e'n't' '('d')' 'P'e'o'p'l'e'
-'5'0'.' 'I'n' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n',' 'I'n'd'i'a' 'i's' 'c'o'n's'i'd'e'r'e'd' '6'0'.' 'A'n' 'i'n'd'i'v'i'd'u'a'l' 'c'a'n' 'c'o'n't'e's't' 'f'o'r' 't'h'e' 'e'l'e'c't'i'o'n'
-'a's' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i't' 'h'e' 'h'a's' 'a't't'a'i'n'e'd' 't'h'e' 'a'g'e'
-'('a')' 'C'o'n'f'e'd'e'r'a't'i'o'n' 'o'f'
-'('b')' 'F'e'd'e'r'a't'i'o'n' 'o'f' 'F'r'e'e' 'S't'a't'e's' '('a')' '3'0' 'y'e'a'r's' '('b')' '2'1' 'y'e'a'r's'
-'('c')' 'U'n'i'o'n' 'o'f' 'S't'a't'e's' '('c')' '3'5' 'y'e'a'r's' '('d')' '2'5' 'y'e'a'r's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '6'1'.' 'O'n'e' 'w'h'o'm' 'd'o'e's' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'5'1'.' 'I'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'y'e'a'r's' 't'h'e' 'P'l'a'n'-' 'c'o'n'f'e'r' 's'p'e'c'i'a'l' 'r'e's'p'o'n's'i'b'i'l'i't'y' 'f'o'r' 't'h'e' 'e'n'-'
-'n'i'n'g' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' 's'e't' 'u'p'?' 'f'o'r'c'e'm'e'n't' 'o'f' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'?'
-'('a')' '1'9'5'0' '('b')' '1'9'4'5' '('a')' 'P'r'e's'i'd'e'n't' '('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('c')' '1'9'4'4' '('d')' '1'9'4'3' '('c')' 'P'a'r'l'i'a'm'e'n't' '('d')' 'G'o'v'e'r'n'o'r'
-'
-'6'2'.' 'W'i't'h' 'w'h'o'm' 'a'r'e' 't'h'e' 'e'x'e'c'u't'i'v'e' 'p'o'w'e'r's' 'o'f' '('a')' 'R'a'j'y'a' 'S'a'b'h'a' '('b')' 'L'o'k' 'S'a'b'h'a'
-'t'h'e' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'v'e's't'e'd'?' '('c')' 'G'r'a'm' 'S'a'b'h'a' '('d')' 'V'i'd'h'a'n' 'S'a'b'h'a'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '7'1'.' 'T'h'e' 's't'r'u'c't'u'r'e' 'o'f' 't'h'e' 'P'a'n'c'h'a'y'a't'i' 'R'a'j' 'i'n' 'I'n'-'
-'('b')' 'P'r'e's'i'd'e'n't' 'd'i'a' 'i's' 'b'a's'e'd' 'o'n' 't'h'e' 'l'e'v'e'l' 'a's'
-'('c')' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r' 'h'e'a'd'e'd' 'b'y' 't'h'e' '('a')' 'v'i'l'l'a'g'e',' 'd'i's't'r'i'c't' 'a'n'd' 'S't'a't'e'
-'P'r'i'm'e' 'M'i'n'i's't'e'r' '('b')' 'v'i'l'l'a'g'e',' 't'e'h's'i'l' 'a'n'd' 'd'i's't'r'i'c't'
-'('d')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a' '('c')' 'v'i'l'l'a'g'e',' 'b'l'o'c'k' 'a'n'd' 'd'i's't'r'i'c't'
-'6'3'.' 'I'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a',' 't'h'e' 'R'i'g'h't' 't'o' '('d')' 'v'i'l'l'a'g'e',' 'b'l'o'c'k' 'a'n'd' 'S't'a't'e'
-'E'q'u'a'l'i't'y' 'i's' 'g'r'a'n't'e'd' 'b'y' 'A'r't'i'c'l'e's'.' 'T'h'e's'e' 'a'r'e' '7'2'.' 'F'o'r' 'c'o'n's'p'i'r'a'c'y',' 't'h'e' 'm'i'n'i'm'u'm' 'n'u'm'b'e'r' 'o'f'
-'_'_'_'_'_'_'_'_'_'_' 'p'e'r's'o'n's' 'r'e'q'u'i'r'e'd' 'i's'
-'('a')' '1'4' 't'o' '1'8' '('b')' '1'5' 't'o' '2'0' '('a')' '5'
-'('c')' '1'2' 't'o' '1'7' '('d')' '1'7' 't'o' '2'2' '('b')' '1'
-'6'4'.' 'T'h'e' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' '('c')' '2'
-'s'e't' 'u'p' 'a's' '('d')' 'N'o' 'm'i'n'i'm'u'm' 'r'e'q'u'i'r'e'm'e'n't'
-'('a')' 'a'n' 'a'd'v'i's'o'r'y' 'b'o'd'y' '7'3'.' 'I's' 'i'n't'e'n't'i'o'n' 'a' 'm'e'n't'a'l' 'c'o'n'd'i't'i'o'n'?'
-'('b')' 'a'n' 'e'x'e'c'u't'i'v'e' 'b'o'd'y' '('a')' 'D'e'p'e'n'd's'
-'('c')' 'a' 'g'o'v'e'r'n'm'e'n't' 'd'e'p'a'r't'm'e'n't'
-'('b')' 'Y'e's'
-'('d')' 'a'n' 'a'u't'o'n'o'm'o'u's' 'c'o'r'p'o'r'a't'i'o'n'
-'('c')' 'N'o'
-'6'5'.' 'W'h'o' 'a'd'm'i'n'i's't'e'r's' 'o'a't'h' 'o'f' 'o'f'f'i' 'c'e' 't'o' 'a' 'G'o'v'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'e'r'n'o'r' 'o'f' 'a' 'S't'a't'e' 'i'n' 'I'n'd'i'a'?'
-'7'4'.' 'T'h'e' 'o'f'f'e'n'c'e' 'o'f' 't'h'e'f't' 'i's' 'c'o'v'e'r'e'd' 'b'y' 's'e'c't'i'o'n'
-'('a')' 'P'r'e's'i'd'e'n't'
-'…'.'I'P'C'
-'('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('a')' '3'9'3' '('b')' '3'7'8'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' 'H'i'g'h'
-'('c')' '3'6'5' '('d')' '3'2'4'
-'C'o'u'r't'
-'7'5'.' 'A' 'p'r'o'p'o's'a'l' 'w'h'e'n' 'a'c'c'e'p't'e'd' 'b'e'c'o'm'e's'
-'('d')' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'('a')' 'O'f'f'e'r' '('b')' 'P'r'o'm'i's'e'
-'6'6'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e'm'o'v'e'd'
-'('c')' 'C'o'n't'r'a'c't' '('d')' 'A'g'r'e'e'm'e'n't'
-'f'r'o'm' 'o'f'f'i' 'c'e' 'b'y'
-'7'6'.' 'A' 'm'i'n'o'r'’'s' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.' 'T'h'i's' 'p'r'o'p'o'-'
-'('a')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'s'i't'i'o'n' 'i's' 'm'a'd'e' 'i'n'
-'('b')' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('a')' 'N'i'h'a'l' 'C'h'a'n'd' 'v's' 'J'a'n' 'K'h'a'n'
-'('c')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('b')' 'M'o'h'a'r'i' 'B'e'e'v'i' 'v's' 'D'h'a'r'm'o'd'a's' 'G'h'o's'h'
-'('d')' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'S'r'e'e'k'r'i's'h'n'a'n' 'v's' 'K'u'r'u'k's'h'e't'h'r'a' 'U'n'i'-'
-'6'7'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'h'a's' 't'o' 's'e'l'e'c't' 't'h'e'
-'v'e'r's'i't'y'
-'l'e'a'd'e'r' 'o'f' 't'h'e' 'm'a'j'o'r'i't'y' 'p'a'r't'y' 'i'n' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'N'a'n'j'a'p'p'a' 'v's' 'M'u't'h'u's'w'a'm'y'
-'a's' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'b'e'c'a'u's'e'
-'7'7'.' 'I'f' 'a' 'm'e'm'b'e'r' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'v'o'l'u'n't'a'r'i'l'y' 'a'c'-'
-'('a')' 'h'e' 'e'n'j'o'y's' 'h'i's' 'c'o'n'f'i' 'd'e'n'c'e'
-'q'u'i'r'e's' 't'h'e' 'c'i't'i'z'e'n's'h'i'p' 'o'f' 'a' 'f'o'r'e'i'g'n' 'c'o'u'n't'r'y'
-'('b')' 'h'e' 'c'o'm'm'a'n'd's' 'm'a'j'o'r'i't'y' 's'u'p'p'o'r't' 'i'n' 't'h'e'
-'('a')' 'h'e' 'w'i'l'l' 'b'e' 'p'e'n'a'l'i'z'e'd'
-'L'o'k' 'S'a'b'h'a'
-'('b')' 'h'e' 'w'i'l'l' 'c'o'n't'i'n'u'e' 't'o' 'b'e' 'a' 'm'e'm'b'e'r' 'o'f'
-'('c')' 'h'e' 'i's' 't'h'e' 'a'b'l'e's't' 'o'f' 'a'l'l' 't'h'e' 'm'e'm'b'e'r's' 'o'f'
-'P'a'r'l'i'a'm'e'n't'
-'P'a'r'l'i'a'm'e'n't'
-'('c')' 'h'e' 'w'i'l'l' 'b'e' 'd'i's'q'u'a'l'i'f'i' 'e'd' 'f'r'o'm' 'm'e'm'b'e'r'-'
-'('d')' 'h'e' 'i's' 't'h'e' 'l'e'a'd'e'r' 'o'f' 't'h'e' 'p'a'r't'y' 'w'h'i'c'h'
-'s'h'i'p'
-'c'o'm'm'a'n'd's' 't'h'e' 'm'a'x'i'm'u'm' 'n'u'm'b'e'r' 'o'f'
-'P'a'r'l'i'a'm'e'n't' 'm'e'm'b'e'r's' '('d')' 'h'e' 'w'i'l'l' 'h'a'v'e' 'a' 'c'h'o'i'c'e' 'o'f' 'r'e'n'o'u'n'c'i'n'g'
-'6'8'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'e'i't'h'e'r'
-'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'i's' 'a'p'p'o'i'n't'e'd' '7'8'.' 'W'h'e'n' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i's' 'd'i's's'o'l'v'e'd',' 't'h'e'
-'b'y' 't'h'e' 'S'p'e'a'k'e'r' 'c'o'n't'i'n'u'e's' 'i'n' 'o'f'f'i' 'c'e' 't'i'l'l' 'a' 'n'e'w'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('a')' 'L'o'k' 'S'a'b'h'a' 'i's' 'f'o'r'm'e'd'
-'('b')' 'P'r'e's'i'd'e'n't' '('b')' 'S'p'e'a'k'e'r' 'i's' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' 'F'i'n'a'n'c'e' 'M'i'n'i's't'e'r' '('c')' 'S'p'e'a'k'e'r' 'i's' 'e'l'e'c't'e'd' 'w'h'e'n' 't'h'e' 'n'e'w'
-'('d')' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'H'o'u's'e' 'm'e'e't's'
-'6'9'.' 'T'h'e' 'R'a'j'y'a' 'S'a'b'h' 'w'a's' 'f'i' 'r's't' 'c'o'n's't'i't'u't'e'd' 'o'n' '('d')' 'G'o'v'e'r'n'm'e'n't' 'i's' 'f'o'r'm'e'd'
-'('a')' '1'3' 'M'a'y' '1'9'5'2' '('b')' '2' 'A'p'r'i'l' '1'9'5'4' '7'9'.' 'A'n'g'l'o'-'I'n'd'i'a'n' 'r'e'p'r'e's'e'n't'a't'i'v'e's' 'i'n' 't'h'e' 'L'o'k'
-'('c')' '3' 'A'p'r'i'l' '1'9'5'2' '('d')' '1' 'J'a'n'u'a'r'y' '1'9'5'1' 'S'a'b'h'a' 'a'r'e' 'n'o'm'i'n'a't'e'd' 'i'n' 't'e'r'm's' 'o'f' 't'h'e'
-'7'0'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'a'l's'o' 'c'a'l'l'e'd' 't'h'e' '('a')' 'A'r't'i'c'l'e' '3'3'1' '('b')' 'A'r't'i'c'l'e' '8'0'
-'‘'H'o'u's'e' 'o'f' 'E'l'd'e'r's'’'?' '('c')' 'A'r't'i'c'l'e' '3'7'0' '('d')' 'A'r't'i'c'l'e' '3'3'3'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'8'3'
-'8'0'.' 'T'h'e' 'm'a'x'i'm'u'm' 's't'r'e'n'g't'h' 'o'f' 'L'o'k' 'S'a'b'h'a' 'a'n'd' '8'8'.' 'O'n'e' 'f'e'a't'u'r'e' 'd'i's't'i'n'g'u'i's'h'i'n'g' 't'h'e' 'R'a'j'y'a' 'S'a'b'-'
-'R'a'j'y'a' 'S'a'b'h'a' 'r'e's'p'e'c't'i'v'e'l'y' 'i's' 'h'a' 'f'r'o'm' 't'h'e' 'V'i'd'h'a'n' 'P'a'r'i's'h'a'd' 'i's'
-'('a')' '5'0'0' 'a'n'd' '2'5'0' '('b')' '5'2'5' 'a'n'd' '2'3'8' '('a')' 'p'o'w'e'r' 'o'f' 'i'm'p'e'a'c'h'm'e'n't'
-'('c')' '5'3'7' 'a'n'd' '2'7'5' '('d')' '5'4'5' 'a'n'd' '2'5'0' '('b')' 'n'o'm'i'n'a't'i'o'n' 'o'f' 'm'e'm'b'e'r's'
-'8'1'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'd'e'c'l'a'r'e' 'N'a't'i'o'n'a'l' 'E'm'e'r'-' '('c')' 't'e'n'u'r'e' 'o'f' 'm'e'm'b'e'r's'
-'g'e'n'c'y' '('d')' 'i'n'd'i'r'e'c't' 'e'l'e'c't'i'o'n'
-'('a')' 'o'n'l'y' 'i'n' 't'h'e' 'e'v'e'n't' 'o'f' 'a' 'f'o'r'e'i'g'n' 'a't't'a'c'k' '8'9'.' 'I'f' 'i'n' 'a' 'c'o'u'n't'r'y' 't'h'e'r'e' 'h'a'p'p'e'n's' 't'o' 'b'e' 't'h'e' 'o'f'-'
-'('b')' 'o'n'l'y' 'i'n' 't'h'e' 'e'v'e'n't' 'o'f' 'a'r'm'e'd' 'r'e'b'e'l'l'i'o'n' 'f'i' 'c'e' 'o'f' 'm'o'n'a'r'c'h'y' 'a's' 'w'e'l'l' 'a's' 'a' 'P'a'r'l'i'a'm'e'n't'a'-'
-'('c')' 'd'u'e' 't'o' 't'h'r'e'a't' 'a'r'i's'i'n'g' 'o'n' 'a'c'c'o'u'n't' 'o'f' 'f'o'r'-' 'r'y' 'f'o'r'm' 'o'f' 'g'o'v'e'r'n'm'e'n't',' 't'h'i's' 'm'o'n'a'r'c'h' 'w'i'l'l'
-'e'i'g'n' 'a't't'a'c'k' 'o'r' 'a'r'm'e'd' 'r'e'b'e'l'l'i'o'n' 'b'e' 'c'a'l'l'e'd'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('a')' 'H'e'a'd' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't'
-'8'2'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'F'u'n'd'a'm'e'n't'a'l' '('b')' 'H'e'a'd' 'o'f' 't'h'e' 'S't'a't'e'
-'R'i'g'h't's' 'u'n'd'e'r' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'r'e'-' '('c')' 'B'o't'h' 'H'e'a'd' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'a'n'd'
-'s't'r'a'i'n'e'd' 'b'y' 't'h'e' 'P'r'e'v'e'n't'i'v'e' 'D'e't'e'n't'i'o'n' 'S't'a't'e'
-'L'a'w's'?' '('d')' 'H'e'a'd' 'o'f' 't'h'e' 'C'a'b'i'n'e't'
-'('a')' 'R'i'g'h't' 't'o' 'F'r'e'e'd'o'm' '9'0'.' 'W'h'e'n' 'c'a'n' 'a' 'P'r'e's'i'd'e'n't' 'u's'e' 'h'i's' 'd'i's'c'r'e't'i'o'n' 'i'n'
-'('b')' 'R'i'g'h't' 't'o' 'R'e'l'i'g'i'o'n' 'a'p'p'o'i'n't'i'n'g' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'?'
-'('c')' 'R'i'g'h't' 't'o' 'E'q'u'a'l'i't'y' '('a')' 'I'n' 'a'l'l' 'c'i'r'c'u'm's't'a'n'c'e's'
-'('d')' 'R'i'g'h't' 't'o' 'C'o'n's't'i't'u't'i'o'n'a'l' 'R'e'm'e'd'i'e's' '('b')' 'I'n' 'n'o' 'c'i'r'c'u'm's't'a'n'c'e's'
-'8'3'.' 'A'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a',' '('c')' 'O'n'l'y' 'w'h'e'n' 'L'o'k' 'S'a'b'h'a' 'h'a's' 'b'e'e'n' 'd'i's'-'
-'A'm'e'n'd'm'e'n't' 'o'f' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's'o'l'v'e'd'
-'c'a'n'n'o't' 'b'e' 'p'r'o'p'o's'e'd' 'i'n' 'e'i't'h'e'r' 'H'o'u's'e' 'o'f'
-'('d')' 'W'h'e'n' 'n'o' 'p'o'l'i't'i'c'a'l' 'p'a'r't'y' 'e'n'j'o'y's' 'a' 'c'l'e'a'r'
-'P'a'r'l'i'a'm'e'n't'?'
-'m'a'j'o'r'i't'y' 'i'n' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('a')' 'A'n'n'u'a'l' 'F'i'n'a'n'c'i'a'l' 'S't'a't'e'm'e'n't'
-'9'1'.' 'T'h'e' 'n'a'm'e' 'o'f' 't'h'e' 'c'a'n'd'i'd'a't'e' 'f'o'r' 't'h'e' 'o'f'f'i' 'c'e' 'o'f'
-'('b')' 'A'p'p'r'o'p'r'i'a't'i'o'n' 'B'i'l'l'
-'t'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'h'a's' 't'o' 'b'e' 'p'r'o'p'o's'e'd'
-'('c')' 'D'e'm'a'n'd' 'f'o'r' 'g'r'a'n't'
-'b'y'
-'('d')' 'A'n'y' 'o'f' 't'h'e'm'
-'('a')' 'a'n'y' '5'0' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'E'l'e'c't'o'r'a'l' 'C'o'l'-'
-'8'4'.' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'i'n'
-'l'e'g'e'
-'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'i's'
-'('b')' 'a'n'y' '5'0' 'm'e'm'b'e'r's' 'o'f' 'N'C'T' 'o'f' 'D'e'l'h'i'
-'('a')' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'C'h'a'i'r'm'a'n'
-'('c')' 'a'n'y' '5'0' 'm'e'm'b'e'r's' 'o'f' 'o'p'p'o's'i't'i'o'n'
-'('b')' 'e'l'e'c't'e'd' 'b'y' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'a'n'y' '5'0' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'9'2'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'R'i'g'h't's' 'i's' 's'u'b'-'
-'('d')' 'e'l'e'c't'e'd' 'b'y' 'R'a'j'y'a' 'S'a'b'h'a' 'f'r'o'm' 'a'm'o'n'g's't'
-'j'e'c't' 't'o' 'm'a'x'i'm'u'm' 'l'i't'i'g'a't'i'o'n'?'
-'i't's' 'm'e'm'b'e'r's'
-'('a')' 'R'i'g'h't' 't'o' 'P'r'o'p'e'r't'y'
-'8'5'.' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a' 'a'c't's' 'a's' 'a'
-'('b')' 'R'i'g'h't' 't'o' 'S'p'e'e'c'h'
-'c'h'a'n'n'e'l' 'o'f' 'c'o'm'm'u'n'i'c'a't'i'o'n' 'b'e't'w'e'e'n' 't'h'e'
-'('c')' 'R'i'g'h't' 't'o' 'C'o'n's't'i't'u't'i'o'n'a'l' 'R'e'm'e'd'y'
-'P'r'e's'i'd'e'n't' 'a'n'd' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r' 'i's' 'p'r'o'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'v'i'd'e'd' 'b'y' 't'h'e'
-'9'3'.' 'T'h'e' 'S'i'k'h's' 'a'r'e' 'p'e'r'm'i't't'e'd' 't'o' 'c'a'r'r'y' 'K'i'r'p'a'n'
-'('a')' 's't'a't'u't'e'
-'u'n'd'e'r' 't'h'e'
-'('b')' 'a'r't'i'c'l'e' '7'5' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('a')' 'r'i'g'h't' 't'o' 'f'r'e'e'd'o'm' 'o'f' 'r'e'l'i'g'i'o'n'
-'('c')' 'c'o'n'v'e'n't'i'o'n'
-'('b')' 'r'i'g'h't' 't'o' 'l'i'f'e'
-'('d')' 'a'r't'i'c'l'e' '7'8' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('c')' 'r'i'g'h't' 't'o' 'l'i'f'e' 'a'n'd' 'l'i'b'e'r't'y'
-'8'6'.' 'T'h'e' 'r'e'p'r'e's'e'n't'a't'i'o'n' 'o'f' 'S't'a't'e's' 'i'n' 't'h'e' 'R'a'j'y'a'
-'('d')' 'r'i'g'h't' 'a'g'a'i'n's't' 'e'x'p'l'o'i't'a't'i'o'n'
-'S'a'b'h'a' 'i's' 'd'e't'e'r'm'i'n'e'd' 'b'y'
-'9'4'.' 'T'h'e' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y' 'i'n'
-'('a')' 't'h'e' 's'i'z'e' 'o'f' 'e'a'c'h' 'S't'a't'e'
-'C'o'n's't'i't'u'e'n't' 'o'f' 'I'n'd'i'a' 'a'i'm'
-'('b')' 't'h'e' 's'i'z'e' 'a'n'd' 'p'o'p'u'l'a't'i'o'n' 'o'f' 't'h'e' 'S't'a't'e'
-'('a')' 't'o' 'm'a'k'e' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'a'n' 'i'n's't'r'u'-'
-'('c')' 't'h'e' 'p'o'p'u'l'a't'i'o'n' 'o'f' 't'h'e' 'S't'a't'e'
-'m'e'n't' 'o'f' 's'o'c'i'a'l' 'c'h'a'n'g'e'
-'('d')' 't'h'e' 'p'r'o'p'o'r't'i'o'n' 'o'f' 'n'u'm'b'e'r' 'o'f' 'm'e'm'b'e'r's'
-'('b')' 't'o' 'r'e'd'u'c'e' 't'h'e' 'c'o'r'r'u'p't'i'o'n' 'b'y' 'p'u'b'l'i'c' 'o'f'-'
-'i'n' 't'h'e' 'S't'a't'e' 'A's's'e'm'b'l'i'e's'
-'f'i' 'c'e'r'
-'8'7'.' 'C'h'i'e'f' 'M'i'n'i's't'e'r's' 'o'f' 'a'l'l' 't'h'e' 'S't'a't'e's' 'a'r'e' 'e'x'-'
-'('c')' 't'o' 'e's't'a'b'l'i's'h' 's'u'p'r'e'm'a'c'y' 'o'f' 'C'o'n's't'i't'u'-'
-'o'f'f'i' 'c'i'o' 'm'e'm'b'e'r's' 'o'f' 't'h'e'
-'t'i'o'n'
-'('a')' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('b')' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n'
-'('c')' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l' '9'5'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'a' 'f'a'c't'o'r' 'f'o'r'
-'('d')' 'I'n't'e'r's't'a't'e' 'C'o'u'n'c'i'l' 'b'a's'i'c' 's't'r'u'c't'u'r'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?'
-'
-'('a')' 'P'r'e'a'm'b'l'e' '9'9'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'r'u'e' 'i'n' 'c'o'n't'e'x't'
-'('b')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'?'
-'('c')' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's' '('a')' 'H'e' 'a'd'd'r'e's's'e's' 't'h'e' 'f'i' 'r's't' 's'e's's'i'o'n' 'o'f' 't'h'e'
-'('d')' 'C'e'n't'r'e'-'S't'a't'e' 'R'e'l'a't'i'o'n's' 'P'a'r'l'i'a'm'e'n't' 'a'f't'e'r' 'e'a'c'h' 'g'e'n'e'r'a'l' 'e'l'e'c'-'
-'9'6'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'i's' 'n'o't' 'a' 'm'e'm'b'e'r' 'o'f' 'P'a'r'l'i'a'-' 't'i'o'n' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'a't' 't'h'e' 'c'o'm'-'
-'m'e'n't' 'c'a'n' 'b'e' 'a'p'p'o'i'n't'e'd' 'a's' 'a' 'M'i'n'i's't'e'r' 'b'y' 't'h'e' 'm'e'n'c'e'm'e'n't' 'o'f' 't'h'e' 'F'i'r's't' 'S'e's's'i'o'n' 'o'f'
-'P'r'e's'i'd'e'n't' 'f'o'r' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' 'e'a'c'h' 'y'e'a'r'
-'('a')' '9' 'm'o'n't'h's' '('b')' '6' 'm'o'n't'h's' '('b')' 'H'e' 'a'd'd'r'e's's'e's' 't'h'e' 'f'i' 'r's't' 's'e's's'i'o'n' 'o'f' 'P'a'r'-'
-'('c')' '1'2' 'm'o'n't'h's' '('d')' '3' 'm'o'n't'h's' 'l'i'a'm'e'n't' 'a't' 't'h'e' 'b'e'g'i'n'n'i'n'g' 'o'f' 'e'a'c'h' 'y'e'a'r'
-'9'7'.' 'W'h'o',' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g',' 'e'n'j'o'y's' 't'h'e' 'a's' 'w'e'l'l' 'a's' 't'h'e' 'l'a's't' 's'e's's'i'o'n' 'h'e'l'd' 'a't' 't'h'e'
-'r'a'n'k' 'o'f' 'a' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'e'n'd' 'o'f' 'e'a'c'h' 'y'e'a'r'
-'U'n'i'o'n'?' '('c')' 'H'e' 'a'd'd'r'e's's'e's' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'd'a'i'l'y'
-'('a')' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n',' 'R'a'j'y'a' 'S'a'b'h'a' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('b')' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'P'l'a'n'n'i'n'g' '1'0'0'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'c'o'r'r'e'c't'
-'C'o'm'm'i's's'i'o'n' 'c'h'r'o'n'o'l'o'g'i'c'a'l' 'o'r'd'e'r' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r's'
-'('c')' 'S'e'c'r'e't'a'r'y' 't'o' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a' 'o'f' 'I'n'd'i'a'?'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' 'I'.' 'I'n'd'i'r'a' 'G'a'n'd'h'i'
-'9'8'.' 'W'h'o' 'a'd'm'i'n'i's't'e'r's' 't'h'e' 'o'a't'h' 'o'f' 'o'f'f'i' 'c'e' 't'o' 't'h'e' 'I'I'.' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u'
-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'b'e'f'o'r'e' 'h'e' 'e'n't'e'r's' 'u'p'o'n' 'I'I'I'.' 'M'o'r'a'r'j'i' 'D'e's'a'i'
-'t'h'e' 'o'f'f'i' 'c'e'?' 'I'V'.' 'C'h'a'r'a'n' 'S'i'n'g'h'
-'('a')' 'V'i'c'e'-'P'r'e's'i'd'e'n't' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('a')' 'I',' 'I'I',' 'I'I'I',' 'I'V' '('b')' 'I'I',' 'I'I'I',' 'I',' 'I'V'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' '('d')' 'S'p'e'a'k'e'r' '('c')' 'I'I',' 'I',' 'I'I'I',' 'I'V' '('d')' 'I'I'I',' 'I'I',' 'I'V',' 'I'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('a')' '2'.' '('a')' '3'.' '('a')' '4'.' '('c')' '5'.' '('c')' '6'.' '('c')' '7'.' '('a')' '8'.' '('c')' '9'.' '('d')' '1'0'.' '('d')'
-'1'1'.' '('c')' '1'2'.' '('a')' '1'3'.' '('c')' '1'4'.' '('d')' '1'5'.' '('d')' '1'6'.' '('b')' '1'7'.' '('c')' '1'8'.' '('d')' '1'9'.' '('b')' '2'0'.' '('d')'
-'2'1'.' '('a')' '2'2'.' '('b')' '2'3'.' '('b')' '2'4'.' '('c')' '2'5'.' '('b')' '2'6'.' '('d')' '2'7'.' '('a')' '2'8'.' '('a')' '2'9'.' '('d')' '3'0'.' '('b')'
-'3'1'.' '('c')' '3'2'.' '('d')' '3'3'.' '('a')' '3'4'.' '('d')' '3'5'.' '('d')' '3'6'.' '('c')' '3'7'.' '('a')' '3'8'.' '('a')' '3'9'.' '('a')' '4'0'.' '('c')'
-'4'1'.' '('c')' '4'2'.' '('c')' '4'3'.' '('a')' '4'4'.' '('d')' '4'5'.' '('d')' '4'6'.' '('b')' '4'7'.' '('d')' '4'8'.' '('c')' '4'9'.' '('a')' '5'0'.' '('c')'
-'5'1'.' '('a')' '5'2'.' '('a')' '5'3'.' '('b')' '5'4'.' '('b')' '5'5'.' '('a')' '5'6'.' '('c')' '5'7'.' '('d')' '5'8'.' '('b')' '5'9'.' '('a')' '6'0'.' '('d')'
-'6'1'.' '('b')' '6'2'.' '('b')' '6'3'.' '('a')' '6'4'.' '('a')' '6'5'.' '('c')' '6'6'.' '('c')' '6'7'.' '('b')' '6'8'.' '('b')' '6'9'.' '('a')' '7'0'.' '('a')'
-'7'1'.' '('c')' '7'2'.' '('c')' '7'3'.' '('b')' '7'4'.' '('b')' '7'5'.' '('d')' '7'6'.' '('b')' '7'7'.' '('c')' '7'8'.' '('c')' '7'9'.' '('a')' '8'0'.' '('d')'
-'8'1'.' '('b')' '8'2'.' '('d')' '8'3'.' '('a')' '8'4'.' '('d')' '8'5'.' '('d')' '8'6'.' '('b')' '8'7'.' '('d')' '8'8'.' '('a')' '8'9'.' '('c')' '9'0'.' '('d')'
-'9'1'.' '('a')' '9'2'.' '('a')' '9'3'.' '('a')' '9'4'.' '('a')' '9'5'.' '('a')' '9'6'.' '('b')' '9'7'.' '('b')' '9'8'.' '('c')' '9'9'.' '('a')' '1'0'0'.' '('b')'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'8'5'
-'P' 'P' '6'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'T'h'e' 'o'f'f'i' 'c'e' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a' '8'.' 'T'h'e' 'p'o'w'e'r' 't'o' 'c'o'n't'r'o'l' 't'h'e' 'e'x'p'e'n'd'i't'u'r'e' 'o'f'
-'('a')' 'h'a's' 'b'e'e'n' 'c'r'e'a't'e'd' 'b'y' 'P'a'r'l'i'a'm'e'n't' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a' 'r'e's't's' 'e'x'c'l'u's'i'v'e'l'y'
-'('b')' 'i's' 'b'a's'e'd' 'o'n' 'c'o'n'v'e'n't'i'o'n's' 'w'i't'h'
-'('c')' 'h'a's' 'b'e'e'n' 'c'r'e'a't'e'd' 'b'y' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' '('a')' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'i's' 'l'e's's' 'p'o'w'e'r'f'u'l' 't'h'a'n' 't'h'a't' 'o'f' 't'h'e' 'P'r'e's'i'-' '('b')' 'P'r'e's'i'd'e'n't'
-'d'e'n't' '('c')' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r'-'G'e'n'e'r'a'l'
-'2'.' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's' 'd'o' 'n'o't' 'e'n'j'o'y' 'a'n'y' '('d')' 'U'n'i'o'n' 'F'i'n'a'n'c'e' 'M'i'n'i's't'e'r'
-'('a')' 'L'e'g'a'l' 's'a'n'c't'i'o'n' '9'.' 'I'n' 'I'n'd'i'a' 'F'i'n'a'l' 'd'e'c'i's'i'o'n' 'w'h'e't'h'e'r' 'a' 'm'e'm'b'e'r'
-'('b')' 'M'o'r'a'l' 's'a'n'c't'i'o'n' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'h'a's' 'i'n'c'u'r'r'e'd' 'd'i's'q'u'a'l'i'f'i' '-'
-'('c')' 'P'o'l'i't'i'c'a'l' 's'a'n'c't'i'o'n' 'c'a't'i'o'n' 'u'n'd'e'r' 't'h'e' 'A'n't'i'-'D'e'f'e'c't'i'o'n' 'L'a'w' 'r'e's't's'
-'('d')' 's'o'c'i'a'l' 's'a'n'c't'i'o'n' 'w'i't'h'
-'3'.' 'I'n' 't'h'e' 'I'n'd'i'a'n' 'p'o'l'i't'y',' 'u'l't'i'm'a't'e' 's'o'v'e'r'e'i'g'n't'y' '('a')' 'S'p'e'a'k'e'r'
-'('b')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'r'e's't's' 'w'i't'h'
-'('c')' 'P'r'e's'i'd'e'n't'
-'('a')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'r' 'H'i'g'h' 'C'o'u'r't'
-'('b')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'1'0'.' 'W'h'a't' 'h'a'p'p'e'n's' 'w'h'e'n' 'a' 'M'o'n'e'y' 'B'i'l'l' 'b'y' 'L'o'k'
-'('c')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'S'a'b'h'a' 'i's' 'p'a'r't'i'a'l'l'y' 'a'm'e'n'd'e'd' 'b'y' 'R'a'j'y'a' 'S'a'b'-'
-'('d')' 't'h'e' 'P'e'o'p'l'e'
-'h'a'?'
-'4'.' 'A' 'M'o'n'e'y' 'B'i'l'l' 'c'a'n' 'o'r'i'g'i'n'a't'e' 'i'n' 't'h'e' 'S't'a't'e'
-'('a')' 'L'o'k' 'S'a'b'h'a' 'c'a'n' 'p'r'o'c'e'e'd' 'w'i't'h' 't'h'e' 'B'i'l'l'
-'L'e'g'i's'l'a't'u'r'e' 'o'n'l'y' 'w'i't'h' 't'h'e' 'p'r'i'o'r' 'c'o'n's'e'n't' 'o'f'
-'w'i't'h'o'u't' 't'h'e' 'a'm'e'n'd'm'e'n't' 'p'r'o'p'o's'e'd' 'b'y'
-'t'h'e'
-'R'a'j'y'a' 'S'a'b'h'a'
-'I'.' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'I'I'.' 'P'r'e's'i'd'e'n't'
-'('b')' 'B'i'l'l' 'c'a'n' 'b'e' 'l'a'p's'e'd'
-'I'I'I'.' 'G'o'v'e'r'n'o'r' 'I'V'.' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('c')' 'B'i'l'l' 'c'a'n' 'b'e' 'p'o's't'p'o'n'e'd' 'f'o'r' 'n'e'x't' 's'e's'-'
-'('a')' 'I' '('b')' 'I' 'a'n'd' 'I'I'I'
-'s'i'o'n'
-'('c')' 'I'I' '('d')' 'I'I'I'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'5'.' 'A' 'd'i's'p'u't'e' 'b'e't'w'e'e'n' 't'w'o' 'h'o'u's'e's' 'o'f' 't'h'e' 'P'a'r'-'
-'1'1'.' 'R'a'j'y'a' 'S'a'b'h'a' 'i's' 'a'l's'o' 'c'a'l'l'e'd' 'a's'…'.'
-'l'i'a'm'e'n't' 'c'a'n' 'b'e' 'r'e's'o'l'v'e'd' 'b'y'
-'('a')' 'C'o'u'n'c'i'l' 'o'f' 'N'o'm'i'n'a't'e'd' 'M'e'm'b'e'r's'
-'('a')' 'j'o'i'n't' 's'i't't'i'n'g' 'o'f' 'b'o't'h' 'h'o'u's'e's' 's'u'm'm'o'n'e'd'
-'('b')' 'C'o'u'n'c'i'l' 'o'f' 'R'e'p'r'e's'e'n't'a't'i'v'e's'
-'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e's'
-'('b')' 'r'u'l'i'n'g' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'S'p'e'a'k'e'r'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'r'u'l'i'n'g' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'c'h'a'i'r'p'e'r's'o'n'
-'1'2'.' 'W'h'i'c'h' 'p'a'r't' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'i's' 'j'u's't'i'c'i'a'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'b'l'e'?'
-'6'.' 'R'i'g'h't' 't'o' 'e'd'u'c'a't'i'o'n' 'i's' 'a'd'd'e'd' 'a's' 'A'r't'i'c'l'e' '2'1'A'
-'('a')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'i'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'b'y' '('b')' 'P'r'e'a'm'b'l'e'
-'('a')' '8'6't'h' 'C'o'n's't'i't'u't'i'o'n' 'A'm'e'n'd'm'e'n't',' '2'0'0'2' '('c')' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's'
-'('b')' '8'8't'h' 'C'o'n's't'i't'u't'i'o'n' 'A'm'e'n'd'm'e'n't',' '2'0'0'3' '('d')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's'
-'('c')' '8'9't'h' 'C'o'n's't'i't'u't'i'o'n' 'A'm'e'n'd'm'e'n't',' '2'0'0'3' '1'3'.' 'A'n' 'O'b'i't'e'r' 'd'i'c't'a' 'b'y' 'a' 'j'u'd'g'e' 'i's' 'a'
-'('d')' '9'0't'h' 'C'o'n's't'i't'u't'i'o'n' 'A'm'e'n'd'm'e'n't',' '2'0'0'4' '('a')' 'S't'a't'e'm'e'n't' 'o'f' 'o'p'i'n'i'o'n's' 'm'a'd'e',' 'b'y' 't'h'e'
-'7'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'h'a's' 'v'e's't'e'd' 't'h'e' 'j'u'd'g'e',' 'w'h'i'l'e' 'd'e'c'i'd'i'n'g' 't'h'e' 'p'o'i'n't' 'a't' 'i's'-'
-'e'x'e'c'u't'i'v'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'i'n' 's'u'e'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('b')' 'S't'a't'e'm'e'n't' 'w'i't'h'i'n' 't'h'e' 'o'r'b'i't' 'o'f' 'm'o'r'e's' 'o'f'
-'('b')' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r' 't'h'e' 's'o'c'i'e't'y'
-'('c')' 'P'r'e's'i'd'e'n't' '('c')' 'S't'a't'e'm'e'n't' 'w'i't'h'i'n' 't'h'e' 'o'r'b'i't' 'o'f' 'f'a'c't's' 'o'f'
-'('d')' 'D'e'p'u't'y' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 't'h'e' 'c'a's'e'
-'
-'('d')' 'S't'a't'e'm'e'n't' 'n'o't' 'c'o'v'e'r'e'd' 'b'y' 'a'n'y' 'o'f' 't'h'e' '2'2'.' 'T'h'e' 'f'o'u'r' 'p'i'l'l'a'r's' 'o'f' 'd'e'm'o'c'r'a'c'y' 'a'r'e'
-'a'b'o'v'e' 'c'l'a's's'i'f'i' 'c'a't'i'o'n's' '('a')' 'T'h'e' 'P'r'e's'i'd'e'n't',' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r',' 't'h'e'
-'1'4'.' 'I'n' 'a' 'P'a'r'l'i'a'm'e'n't'a'r'y' 's'y's't'e'm' 't'h'e' 'e'x'e'c'u't'i'v'e' 'i's' 'p'e'o'p'l'e' 'a'n'd' 't'h'e' 'P'r'e's's'
-'r'e's'p'o'n's'i'b'l'e' 't'o' '('b')' 'T'h'e' 'P'a'r'l'i'a'm'e'n't',' 't'h'e' 'P'r'e's'i'd'e'n't',' 't'h'e' 'J'u'-'
-'('a')' 'T'h'e' 'l'e'g'i's'l'a't'u'r'e' 'd'i'c'i'a'r'y' 'a'n'd' 't'h'e' 'P'r'e's's'
-'('b')' 'T'h'e' 'j'u'd'i'c'i'a'r'y' '('c')' 'T'h'e' 'P'a'r'l'i'a'm'e'n't',' 't'h'e' 'E'x'e'c'u't'i'v'e',' 't'h'e' 'J'u'-'
-'('c')' 'T'h'e' 'p'e'o'p'l'e' 'd'i'r'e'c't'l'y' 'd'i'c'i'a'r'y' 'a'n'd' 't'h'e' 'P'r'e's's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'1'5'.' '“'E'q'u'a'l' 'p'a'y' 'f'o'r' 'e'q'u'a'l' 'w'o'r'k' 'f'o'r' 'b'o't'h' 'm'a'l'e's' '2'3'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'f'o'u'r't'h' 'P'i'l'l'a'r'
-'a'n'd' 'f'e'm'a'l'e's'”'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'h'a's' 'p'r'o'p'o's'e'd' 'o'f' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'
-'t'h'i's'?' '('a')' 'A't't'o'r'n'e'y' 'G'e'n'e'r'a'l'
-'('a')' 'A'r't'i'c'l'e' '4'8' '('b')' 'A'r't'i'c'l'e' '3'9' '('b')' 'L'i'e'u't'e'n'a'n't' 'G'e'n'e'r'a'l'
-'('c')' 'A'r't'i'c'l'e' '1'4' '('d')' 'A'r't'i'c'l'e' '2'5' '('c')' 'A'd'v'o'c'a't'e' 'G'e'n'e'r'a'l'
-'1'6'.' 'W'h'o' 'i's' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 't'h'e' 'r'e'g'i's't'r'a't'i'o'n' 'o'f' '('d')' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r' 'G'e'n'e'r'a'l'
-'t'h'e' 'v'o't'e'r's' 'i'n' 'I'n'd'i'a'?' '2'4'.' 'A' 's'e'n't'e'n'c'e' 'o'f' 'd'e'a't'h' 'b'y' 'a' 'l'o'w'e'r' 'S'e's's'i'o'n's'
-'('a')' 'V'o't'e'r's' 'c'o'u'r't'
-'('b')' 'P'o'l'i't'i'c'a'l' 'p'a'r't'i'e's' '('a')' 'i's' 'o'p'e'r'a't'i'o'n'a'l' 'i'f' 'n'o' 'a'p'p'e'a'l' 'i's' 'm'a'd'e' 't'o'
-'('c')' 'E'l'e'c't'i'o'n' 'c'o'm'm'i's's'i'o'n' 'h'i'g'h'e'r' 'c'o'u'r't's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 'm'u's't' 'b'e' 'c'o'n'f'i' 'r'm'e'd' 'b'y' 't'h'e' 'H'i'g'h' 'C'o'u'r't'
-'1'7'.' 'T'e'r'm' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'm'e'm'b'e'r's' 'i'n' 'I'n'd'i'a'n' '('c')' 'm'u's't' 'b'e' 'c'o'n'f'i' 'r'm'e'd' 'b'y' 't'h'e' 'S'u'p'r'e'm'e'
-'P'a'r'l'i'a'm'e'n't' 'w'a's' 'f'i' 'x'e'd' 'b'y' 't'h'e' 'C'o'u'r't'
-'('a')' 'C'o'n's't'i't'u't'i'o'n' '('b')' 'C'a'b'i'n'e't' '('d')' 'm'u's't' 'b'e' 'c'o'n'f'i' 'r'm'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' 'P'r'e's'i'd'e'n't' '('d')' 'P'a'r'l'i'a'm'e'n't' '2'5'.' 'I'n'…'.'s'u'p'r'e'm'e' 'C'o'u'r't' 'h'e'l'd' 't'h'a't' 'J'u'd'i'c'i'a'l' 'R'e'-'
-'1'8'.' 'W'h'a't' 'f'i' 'n'a'n'c'i'a'l' 'p'o'w'e'r' 'i's' 'e'n'j'o'y'e'd' 'b'y' 't'h'e' 'v'i'e'w' 'i's' 'a' 'b'a's'i'c' 'f'e'a't'u'r'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'a'n'd'
-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'?' 'c'a'n'n'o't' 'b'e' 'a'm'e'n'd'e'd'
-'('a')' 'C'e'r't'a'i'n' 'M'o'n'e'y' 'B'i'l'l's' 'c'a'n' 'o'r'i'g'i'n'a't'e' 'i'n' '('a')' 'M'i'n'e'r'v'a' 'M'i'l'l's' 'c'a's'e'
-'P'a'r'l'i'a'm'e'n't' 'o'n'l'y' 'o'n' 't'h'e' 'r'e'c'o'm'm'e'n'd'a'-' '('b')' 'G'o'l'a'k'n'a't'h' 'c'a's'e'
-'t'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' '('c')' 'K'e's'h'v'a'n'a'n'd'a' 'B'h'a'r't'i' 'c'a's'e'
-'('b')' 'H'e' 'c'a'n' 'a'd'v'a'n'c'e' 'm'o'n'e'y' 'o'u't' 'o'f' 't'h'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'C'o'n't'i'n'g'e'n'c'y' 'F'u'n'd' 'o'f' 'I'n'd'i'a' '2'6'.' 'A' 'P'a'n'c'h'a'y'a't' 'S'a'm'i't'i' 'a't' 't'h'e' 'b'l'o'c'k' 'l'e'v'e'l' 'i'n'
-'('c')' 'H'e' 'c'a'n' 'a'p'p'o'i'n't' 't'h'e' 'F'i'n'a'n'c'e' 'C'o'm'm'i's'-' 'I'n'd'i'a' 'i's' 'o'n'l'y'
-'s'i'o'n' 't'o' 'r'e'c'o'm'm'e'n'd' 'd'i's't'r'i'b'u't'i'o'n' 'o'f' 't'a'x'-' '('a')' 'a'n' 'a'd'v'i's'o'r'y' 'b'o'd'y'
-'e's' 'b'e't'w'e'e'n' 't'h'e' 'C'e'n't'r'e' 'a'n'd' 't'h'e' 'S't'a't'e' '('b')' 'a' 'c'o'n's'u'l't'a't'i'v'e' 'c'o'm'm'i't't'e'e'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e' '('c')' 'a' 'c'o'-'o'r'd'i'n'a't'e' 'a'n'd' 's'u'p'e'r'v'i's'o'r'y' 'a'u't'h'o'r'-'
-'1'9'.' 'T'h'e' 'm'e'm'b'e'r's' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'-' 'i't'y'
-'m'e'n't' 'o'f' 'I'n'd'i'a' 'a'r'e' '('d')' 'a'n' 'a'd'm'i'n'i's't'r'a't'i'v'e' 'a'u't'h'o'r'i't'y'
-'('a')' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'G'o'v'e'r'n'o'r's' 'o'f' 't'h'e' 'r'e'-' '2'7'.' 'T'h'e' 'L'e'g'i's'l'a't'i'v'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f'
-'s'p'e'c't'i'v'e' 's't'a't'e's' 'I'n'd'i'a' 'i'n'c'l'u'd'e's' 'a'l'l' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'b'u't' 'n'o't'
-'('b')' 'e'l'e'c't'e'd' 'b'y' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 't'h'e' '('a')' 't'h'e' 'p'o'w'e'r' 't'o' 's'u'm'm'o'n' 'o'r' 'p'r'o'r'o'g'u'e' 't'h'e'
-'L'o'k' 'S'a'b'h'a' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'e'l'e'c't'e'd' 'b'y' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 't'h'e' '('b')' 'p'o'w'e'r' 't'o' 's'u'm'm'o'n' 'a' 'j'o'i'n't' 's'i't't'i'n'g' 'o'f'
-'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's' 'b'o't'h' 't'h'e' 'H'o'u's'e's' 't'o' 'r'e's'o'l'v'e' 'a' 'd'e'a'd'l'o'c'k'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e' '('c')' 'p'o'w'e'r' 't'o' 'n'o'm'i'n'a't'e' 't'h'e' 'm'e'm'b'e'r's' 't'o' 't'h'e'
-'2'0'.' 'T'h'e' 's'a'l'a'r'i'e's' 'a'n'd' 'a'l'l'o'w'a'n'c'e's' 'o'f' 'U'n'i'o'n' 'L'o'k' 'S'a'b'h'a'
-'M'i'n'i's't'e'r's' 'i'n' 'I'n'd'i'a' 'a'r'e' 'd'e't'e'r'm'i'n'e'd' 'b'y' '('d')' 'r'i'g'h't' 't'o' 'a'd'd'r'e's's' 'e'i't'h'e'r' 'H'o'u's'e' 'a't' 'a'n'y'
-'('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 't'i'm'e' 'a'n'd' 't'o' 'r'e'q'u'i'r'e' 't'h'e' 'a't't'e'n'd'a'n'c'e' 'o'f'
-'('b')' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n' 'm'e'm'b'e'r's' 'f'o'r' 't'h'i's' 'p'u'r'p'o's'e'
-'('c')' 'P'a'r'l'i'a'm'e'n't' '2'8'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'j'u'r'i's't's' 'w'a's' 't'h'e'
-'('d')' 'M'i'n'i's't'r'y' 'o'f' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'A'f'f'a'i'r's' 'C'h'a'i'r'm'a'n' 'o'f' '“'C'o'm'm'i't't'e'e' 'f'o'r' 'I'm'p'l'e'm'e'n't'-'
-'2'1'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'h'a'd' 't'h'e' 'l'o'n'g'e's't' 'i'n'g' 'L'e'g'a'l' 'A'i'd' 'S'c'h'e'm'e's'”' '('C'I'L'A'S')'?'
-'t'e'n'u'r'e' 'a's' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'?' '('a')' 'A'.' 'S'.' 'A'n'a'n'd' '('b')' 'P'.' 'N'.' 'B'h'a'g'w'a't'i'
-'('a')' 'P'.' 'N'.' 'B'h'a'g'w'a't'i' '('c')' 'R'.' 'S'.' 'P'a't'h'a'k' '('d')' 'K'u'l'd'e'e'p' 'S'i'n'g'h'
-'('b')' 'M'.' 'H'.' 'B'e'g' '2'9'.' 'D'e'm'o'c'r'a'c'y' 'd'o'e's' 'n'o't' 's't'a'n'd' 'f'o'r'
-'('c')' 'Y'.' 'V'.' 'C'h'a'n'd'r'a'c'h'u'd' '('a')' 'r'u'l'e' 'o'f' 'l'a'w'
-'('d')' 'H'.' 'J'.' 'K'a'n'i'a' '('b')' 'e'q'u'a'l' 'r'i'g'h't' 'f'o'r' 'a'l'l'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'8'7'
-'('c')' 'l'i'b'e'r't'y' 'o'f' 't'h'e' 'i'n'd'i'v'i'd'u'a'l' '('b')' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a'
-'('d')' 'u'n'r'e's't'r'i'c't'e'd' 'f'r'e'e'd'o'm' 'o'f' 't'h'e' 'p'e'o'p'l'e' '('c')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'3'0'.' 'O'n' 't'h'e' 'b'a's'i's' 'o'f' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a' '('d')' 'C'h'a'i'r'm'a'n' 'o'f' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'-'
-'A'c't',' '1'9'3'5' 'w'h'i'c'h' 'i'n't'r'o'd'u'c'e'd' 't'h'e' 'p'o'l'i't'i'c'a'l' 'm'i't't'e'e'
-'a'u't'o'n'o'm'y' 'e'l'e'c't'i'o'n's' 't'o'o'k' 'p'l'a'c'e' 'i'n' 't'h'e' 'p'r'o'v'-' '3'8'.' 'M'a't'c'h' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i'n' 'I'n'd'i'a'n' 'c'o'n't'e'x't'
-'i'n'c'e's' 'i'n' 't'h'e' 'y'e'a'r' 'I'.' 'U'p'p'e'r' 'C'h'a'm'b'e'r'
-'('a')' '1'9'3'7' '('b')' '1'9'3'9' 'I'I'.' 'L'o'w'e'r' 'C'h'a'm'b'e'r'
-'('c')' '1'9'4'0' '('d')' '1'9'3'8' 'I'I'I'.' 'F'o'u'r't'h' 'P'i'l'l'a'r'
-'3'1'.' 'T'h'e' 'U'P'S'C' 'c'o'n's'i's't's' 'o'f' 'a' 'C'h'a'i'r'm'a'n' 'a'n'd' 'I'V'.' 'H'e'a'd' 'o'f' 'G'o'v'e'r'n'm'e'n't'
-'('a')' 's'i'x' 'o't'h'e'r' 'm'e'm'b'e'r's' 'A'.' 'R'a'j'y'a' 'S'a'b'h'a' 'B'.' 'L'o'k' 'S'a'b'h'a'
-'('b')' 'e'i'g'h't' 'o't'h'e'r' 'm'e'm'b'e'r's' 'C'.' 'C'A'G' 'D'.' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'e'l'e'v'e'n' 'o't'h'e'r' 'm'e'm'b'e'r's' '('a')' 'I' '–' 'A',' 'I'I' '–' 'B',' 'I'I'I' '–' 'C',' 'I'V' '–' 'D'
-'('d')' 'u'n's'p'e'c'i'f'i' 'e'd' 'n'u'm'b'e'r' 'o'f' 'm'e'm'b'e'r's' '('b')' 'I' '–' 'B',' 'I'I' '–' 'C',' 'I'I'I' '–' 'D',' 'I'V' '–' 'A'
-'3'2'.' 'T'h'e' 'E'l'e'c't'o'r'a't'e' 'm'e'a'n's' '('c')' 'I' '–' 'C',' 'I'I' '–' 'D',' 'I'I'I' '–' 'A',' 'I'V' '–' 'B'
-'('a')' 'T'h'o's'e' 'p'e'o'p'l'e' 'w'h'o' 'd'o' 'n'o't' 'h'a'v'e' 't'h'e' '('d')' 'I' '–' 'C',' 'I'I' '–' 'D',' 'I'I'I' '–' 'B',' 'I'V' '–' 'A'
-'r'i'g'h't' 't'o' 'e'l'e'c't' 't'h'e'i'r' 'r'e'p'r'e's'e'n't'a't'i'v'e's' '3'9'.' 'T'h'e' 'p'r'e's'e'n't' 'D'i'r'e'c't'o'r'-'G'e'n'e'r'a'l' 'o'f' 't'h'e' 'W'o'r'l'd'
-'('b')' 'A'l'l' 't'h'e' 'c'i't'i'z'e'n's' 'w'h'o' 'p'o's's'e's's' 't'h'e' 'r'i'g'h't' 'T'r'a'd'e' 'O'r'g'a'n'i'z'a't'i'o'n' 'i's'
-'t'o' 'v'o't'e' 'a'n'd' 'e'l'e'c't' 't'h'e'i'r' 'r'e'p'r'e's'e'n't'a't'i'v'e's' '('a')' 'P'a's'c'a'l' 'L'a'm'y'
-'i'n' 'a'n' 'e'l'e'c't'i'o'n' '('b')' 'O'l'i'v'e'r' 'L'o'n'g'
-'('c')' 'T'h'o's'e' 'p'e'o'p'l'e' 'w'h'o' 'h'a'v'e' 't'h'e' 'r'i'g'h't' 't'o' 'b'e' '('c')' 'A'r't'h'u'r' 'D'u'n'k'e'l'l'
-'e'l'e'c't'e'd' '('d')' 'R'e'n'a'l't'o' 'R'u'g'g'i'e'r'o'
-'('d')' 'T'h'o's'e' 'p'e'o'p'l'e' 'w'h'o' 'h'a'v'e' 't'h'e' 'r'i'g'h't' 't'o' '4'0'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'r'i't's' 'i's' 't'h'e' 'b'u'l'-'
-'l'i'v'e' 'i'n' 'a' 'c'o'u'n't'r'y' 'w'a'r'k' 'o'f' 't'h'e' 'p'e'r's'o'n'a'l' 'f'r'e'e'd'o'm'?'
-'3'3'.' 'T'h'e' 'd'e'l'i'm'i't'a't'i'o'n' 'o'f' 't'h'e' 't'e'r'r'i't'o'r'i'a'l' 'c'o'n's't'i't'u'-' '('a')' 'M'a'n'd'a'm'u's'
-'e'n'c'i'e's' 'i'n' 'I'n'd'i'a' 'i's' 't'h'e' 'r'e's'p'o'n's'i'b'i'l'i't'y' 'o'f' '('b')' 'H'a'b'e'u's' 'C'o'r'p'u's'
-'('a')' 'P'r'e's'i'd'e'n't' '('c')' 'Q'u'o' 'W'a'r'r'a'n't'o'
-'('b')' 'G'o'v'e'r'n'o'r' '('d')' 'C'e'r't'i'o'r'a'r'y'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' '4'1'.' 'I'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'd'o'e's' 't'h'e' 'R'a'j'y'a'
-'('d')' 'P'a'r'l'i'a'm'e'n't' 'S'a'b'h'a' 'e'n'j'o'y' 'e'x'c'l'u's'i'v'e' 'r'i'g'h't'?'
-'3'4'.' 'I'n' 'I'n'd'i'a',' 'p'o'l'i't'i'c'a'l' 'p'a'r't'i'e's' 'a'r'e' 'g'i'v'e'n' 'r'e'c'o'g'-' '('a')' 'I'n'i't'i'a't'i'n'g' 'i'm'p'e'a'c'h'm'e'n't' 'p'r'o'c'e'e'd'i'n'g's'
-'n'i't'i'o'n' 'b'y' 'a'g'a'i'n's't' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('a')' 'P'r'e's'i'd'e'n't' '('b')' 'T'a'k'i'n'g' 'i'n'i't'i'a't'i'v'e' 'f'o'r' 't'h'e' 'r'e'm'o'v'a'l' 'o'f'
-'('b')' 'L'a'w' 'C'o'm'm'i's's'i'o'n' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('c')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' '('c')' 'R'e'c'o'm'm'e'n'd'i'n'g' 'c'r'e'a't'i'o'n' 'o'f' 'n'e'w' 'A'l'l'
-'('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'I'n'd'i'a' 'S'e'r'v'i'c'e's'
-'3'5'.' 'I'f' 'I'n'd'i'a' 'd'e'c'i'd'e's' 't'o' 'h'a'v'e' 'a' 'P'r'e's'i'd'e'n't'i'a'l' '('d')' 'I'n' 'a'l'l' 't'h'e' 'a'b'o'v'e' 'm'a't't'e'r's'
-'f'o'r'm' 'o'f' 'g'o'v'e'r'n'm'e'n't',' 't'h'e' 'f'i' 'r's't' 'a'n'd' 'f'o'r'e'm'o's't' '4'2'.' 'W'h'o' 'i's' 'e'n't'i't'l'e'd' 't'o' 'i'n'i't'i'a't'e' 'a' 'B'i'l'l' 'f'o'r' 'C'o'n's't'i'-'
-'a'm'e'n'd'm'e'n't' 'h'a's' 't'o' 'b'e' 'm'a'd'e' 'a'f'f'e'c't'i'n'g' 't'h'e' 't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't's'?'
-'('a')' 's'y's't'e'm' 'o'f' 'j'u'd'i'c'i'a'r'y' '('a')' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's'
-'('b')' 'c'o'm'p'o's'i't'i'o'n' 'o'f' 'P'a'r'l'i'a'm'e'n't' '('b')' 'L'o'k' 'S'a'b'h'a' 'o'n'l'y'
-'('c')' 'e'x'e'c'u't'i'v'e'-'l'e'g'i's'l'a't'u'r'e' 'r'e'l'a't'i'o'n's'h'i'p' '('c')' 'E'i't'h'e'r' 'H'o'u's'e' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'p'r'o'v'i's'i'o'n's' 'p'e'r't'a'i'n'i'n'g' 't'o' 'f'u'n'd'a'm'e'n't'a'l' '('d')' 'R'a'j'y'a' 'S'a'b'h'a' 'o'n'l'y'
-'R'i'g'h't's' '4'3'.' 'T'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't' 'i's' 'a'p'-'
-'3'6'.' 'P'o'w'e'r' 't'o' 'd'i's's'o'l'v'e' 'R'a'j'y'a' 'S'a'b'h'a' 'i'n' 'P'a'r'l'i'a'-' 'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n'
-'m'e'n't' 'o'f' 'I'n'd'i'a' 'i's' 'v'e's't'e'd' 'i'n' '…'…'…'.' 'w'i't'h'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'I'.' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('b')' 'P'r'e's'i'd'e'n't' 'I'I'.' 'F'o'r'm'e'r' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h'
-'('c')' 'P'r'e's'i'd'e'n't' 'o'n' 'a'd'v'i'c'e' 'o'f' 'P'r'i'm'e' 'M'i'n'i's'-' 'C'o'u'r't'
-'t'e'r' 'I'I'I'.' 'O't'h'e'r' 'J'u'd'g'e's' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't'
-'('d')' 'N'o't' 'p'o's's'i'b'l'e' 'I'V'.' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'S't'a't'e' 'c'o'n'c'e'r'n'e'd'
-'3'7'.' 'W'h'e't'h'e'r' 'a' 'B'i'l'l' 'i's' 'a' 'M'o'n'e'y' 'B'i'l'l' 'i'n' 'L'o'k' '('a')' 'I' 'a'n'd' 'I'I' '('b')' 'I'I' 'a'n'd' 'I'I'I'
-'S'a'b'h'a' 'o'r' 'n'o't' 'i's' 'c'e'r't'i'f'i' 'e'd' 'b'y' 't'h'e' '…'…'…'.' '('c')' 'I' 'a'n'd' 'I'V' '('d')' 'I',' 'I'I'I' 'a'n'd' 'I'V'
-'a'n'd' 'h'i's' 'd'e'c'i's'i'o'n' 'i's' 'c'o'n'c'l'u's'i'v'e' '4'4'.' 'T'h'e' 'J'u'd'g'e's' 'a'n'd' 'm'a'g'i's't'r'a't'e's' 'o'f' 't'h'e' 'C'i'v'i'l'
-'('a')' 'P'r'e's'i'd'e'n't' 'C'o'u'r't's' 'a'r'e' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e'
-'
-'('a')' 'S'u'b'o'r'd'i'n'a't'e' 'J'u'd'g'e' '('c')' 'p'o'w'e'r's' 'r'e'l'a't'e'd' 't'o' 'c'o'u'n't'r'y'’'s' 'e'x't'e'r'n'a'l'
-'('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'a'f'f'a'i'r's'
-'('c')' 'G'o'v'e'r'n'o'r' '('d')' 'p'o'w'e'r's' 'n'o't' 'i'n'c'l'u'd'e'd' 'i'n' 'a'n'y' 'o'f' 't'h'e'
-'('d')' 'D'i's't'r'i'c't' 'M'a'g'i's't'r'a't'e' 't'h'r'e'e' 'l'i's't's'
-'4'5'.' 'T'h'e' 'J'u'd'g'e's' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'c'a'n' 'b'e' '5'2'.' 'P'l'a'n'n'i'n'g' 'i'n' 'I'n'd'i'a' 'd'e'r'i'v'e's' 'i't's' 'o'b'j'e'c't'i'v'e's'
-'r'e'm'o'v'e'd' 'f'r'o'm' 'o'f'f'i' 'c'e' 'b'y' 't'h'e' 'f'r'o'm'
-'('a')' 'P'r'e's'i'd'e'n't' '('a')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('b')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's'
-'('c')' 'P'r'e's'i'd'e'n't' 'o'n' 'r'e'q'u'e's't' 'o'f' 'P'a'r'l'i'a'm'e'n't' '('c')' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's'
-'('d')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'4'6'.' 'I'n' 'I'n'd'i'a' 't'h'e' 'm'a'i'n' 'a'r'e'a's' 'o'f' 'c'o'n'f'l' 'i'c't' 'b'e't'w'e'e'n' '5'3'.' 'W'h'o' 'c'a'n' 'd'i's's'o'l'v'e' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'b'e'f'o'r'e'
-'t'h'e' 'l'e'g'i's'l'a't'u'r'e' 'a'n'd' 't'h'e' 'j'u'd'i'c'i'a'r'y' 'i's'/'a'r'e' 't'h'e' 'e'x'p'i'r'y' 'o'f' 'i't's' 't'e'r'm'?'
-'('a')' 'E'x'i's't'e'n'c'e',' 'e'x't'e'n't' 'a'n'd' 's'c'o'p'e' 'o'f' 'P'a'r'l'i'a'-' '('a')' 'T'h'e' 'P'r'e's'i'd'e'n't'
-'m'e'n't'a'r'y' 'p'r'i'v'i'l'e'g'e's' 'a'n'd' 'p'o'w'e'r' 'o'f' 'L'e'g'-' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'i's'l'a't'u'r'e's' 't'o' 'p'u'n'i's'h' 'f'o'r' 'c'o'n't'e'm'p't'
-'('c')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' 't'h'e'
-'('b')' 'I'n't'e'r'f'e'r'e'n'c'e' 'i'n' 't'h'e' 'p'r'o'c'e'e'd'i'n'g's' 'o'f' 'P'a'r'-'
-'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'l'i'a'm'e'n't'/'L'e'g'i's'l'a't'u'r'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('c')' 'D'e'c'i's'i'o'n' 'g'i'v'e'n' 'b'y' 't'h'e' 'p'r'e's'i'd'i'n'g' 'o'f'-'
-'5'4'.' 'T'h'e' 'r'e'm'u'n'e'r'a't'i'o'n' 'f'o'r' 't'h'e' 'A't't'o'r'n'e'y'-'G'e'n'e'r'-'
-'f'i' 'c'e'r's' 'o'f' 'l'e'g'i's'l'a't'u'r'e's' 'u'n'd'e'r' 't'h'e' 'A'n't'i'-'
-'a'l' 'o'f' 'I'n'd'i'a' 'i's' 'd'e't'e'r'm'i'n'e'd' 'b'y'
-'D'e'f'e'c't'i'o'n' 'L'a'w'
-'('a')' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('b')' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'4'7'.' 'T'h'e' 'i'n't'e'r'p'r'e't'a't'i'o'n' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('c')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'c'o'm'e's' 'u'n'd'e'r' 'w'h'i'c'h' 'j'u'r'i's'd'i'c't'i'o'n' 'o'f' 'S'u'-'
-'('d')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'p'r'e'm'e' 'C'o'u'r't'
-'5'5'.' 'H'o'w' 'l'o'n'g' 'i's' 't'h'e' 't'e'n'u'r'e' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'-'
-'('a')' 'A'p'p'e'l'l'a't'e' 'J'u'r'i's'd'i'c't'i'o'n'
-'i's't'e'r' 'i'n' 'I'n'd'i'a'?'
-'('b')' 'C'i'v'i'l' 'J'u'r'i's'd'i'c't'i'o'n'
-'('a')' 'I't' 'd'e'p'e'n'd's' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't'’'s' 'd'i'r'e'c'-'
-'('c')' 'S'p'e'c'i'a'l' 'L'e'a'v'e'
-'t'i'o'n'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')'
-'('b')' 'S'o' 'l'o'n'g' 'a's' 'h'e' 'e'n'j'o'y's' 't'h'e' 'c'o'n'f'i' 'd'e'n'c'e' 'o'f'
-'4'8'.' 'T'h'e' 'p'r'e's'e'n't' 'S'o'l'i'c'i't'o'r'-'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a' 'i's'
-'t'h'e' 'L'o'k' 'S'a'b'h'a'
-'('a')' 'G'o'p'a'l' 'S'u'b'r'a'm'a'n'i'a'm'
-'('c')' 'S'o' 'l'o'n'g' 'a's' 'h'e' 'i's' 'l'e'a'd'e'r' 'o'f' 't'h'e' 'm'a'j'o'r'i't'y'
-'('b')' 'A'.' 'P'a'r'a'm'e's'w'a'r'a'n'
-'p'a'r't'y' 'i'n' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'D'e'e'p'a'n'k'a'r' 'G'u'p't'a'
-'('d')' '5' 'y'e'a'r's'
-'('d')' 'M'i'l'o'n' 'B'a'n'e'r'j'e'e'
-'5'6'.' 'I'n' 't'h'e' '8'6't'h' 'C'o'n's't'i't'u't'i'o'n'a'l' 'A'm'e'n'd'm'e'n't'
-'4'9'.' 'T'o' 'a'd'j'u'd'i'c'a't'e' 'a'n'y' 'd'i's'p'u't'e' 'r'e'l'a't'i'n'g' 't'o' 'I'n't'e'r'-'
-'S't'a't'e' 'r'i'v'e'r's' 'o'r' 'I'n't'e'r'-'S't'a't'e' 'r'i'v'e'r' 'v'a'l'l'e'y' 'i'n' 'A'c't',' '2'0'0'2' 'o'f' 'I'n'd'i'a' 't'h'e' 'A'r't'i'c'l'e' '2'1'A' 'v'i'z'.','
-'I'n'd'i'a',' 't'h'e' 'R'i'g'h't' 't'o' 'e'd'u'c'a't'i'o'n' 'i's' 'a'd'd'e'd' 't'o' 't'h'e' 'l'i's't's' 'o'f'
-'('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'n'l'y' 'i's' 'e'm'p'o'w'e'r'e'd' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e'
-'u'n'd'e'r' 'A'r't'i'c'l'e' '1'3'1' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'f'o'l'l'o'w'i'n'g' 'i's' 'a' 'g'u'a'r'd'i'a'n' 'o'f' 's'u'c'h' 'F'u'n'd'a'-'
-'('b')' 'H'i'g'h' 'C'o'u'r't' 'o'f' 'c'o'n'c'e'r'n'e'd' 'S't'a't'e' 'e'n'j'o'y' 'm'e'n't'a'l' 'R'i'g'h't's'?'
-'c'o'n'c'u'r'r'e'n't' 'j'u'r'i's'd'i'c't'i'o'n' '('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'H'i'g'h' 'C'o'u'r't's'
-'('c')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'h'a's' 'o'n'l'y' 'p'o'w'e'r' 't'o' '('b')' 'H'i'g'h' 'C'o'u'r't' 'o'n'l'y'
-'d'e'c'i'd'e' '('c')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'n'l'y'
-'('d')' 'P'a'r'l'i'a'm'e'n't' 'i's' 'e'm'p'o'w'e'r'e'd' 't'o' 'e's't'a'b'l'i's'h' '('d')' 'L'o'w'e'r' 'c'o'u'r't's' 'a'n'd' 'H'i'g'h' 'C'o'u'r't's'
-'T'r'i'b'u'n'a'l' 'a'n'd' 't'o' 't'h'a't' 'e'x't'e'n't' 'j'u'r'i's'd'i'c't'i'o'n' '5'7'.' 'A'r't'i'c'l'e' 'I' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'd'e'-'
-'o'f' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'm'a'y' 'b'e' 'e'x't'e'n'd'e'd' 'c'l'a'r'e's' 'I'n'd'i'a' 'a's'
-'5'0'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'C'o'n's't'i't'u't'i'o'n'-' '('a')' 'F'e'd'e'r'a'l' 'S't'a't'e'
-'a'l' 'a'm'e'n'd'm'e'n't's' 'i'n' 'I'n'd'i'a' 'i's' 'o't'h'e'r'w'i's'e' 'c'a'l'l'e'd' '('b')' 'Q'u'a's'i' 'F'e'd'e'r'a'l' 'S't'a't'e'
-'t'h'e' '“'M'i'n'i' 'C'o'n's't'i't'u't'i'o'n'”'?' '('c')' 'U'n'i't'a'r'y' 'S't'a't'e'
-'('a')' '4'2'n'd' 'A'm'e'n'd'm'e'n't' '('d')' 'U'n'i'o'n' 'o'f' 'S't'a't'e's'
-'('b')' '2'4't'h' 'A'm'e'n'd'm'e'n't' '5'8'.' 'W'h'i'c'h' 'f'u'n'c't'i'o'n'a'r'i'e's' 'c'a'n' 'b'e' 'i'n'v'i't'e'd' 't'o' 'g'i'v'e'
-'('c')' '1'4't'h' 'A'm'e'n'd'm'e'n't' 'h'i's' 'o'p'i'n'i'o'n' 'i'n' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'?'
-'('d')' '2'0't'h' 'A'm'e'n'd'm'e'n't' '('a')' 'A't't'o'r'n'e'y' 'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a'
-'5'1'.' 'T'h'e' 'r'e's'i'd'u'a'r'y' 'p'o'w'e'r's' 'm'e'a'n' 't'h'e' '('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('a')' 'p'o'w'e'r's' 's'h'a'r'e'd' 'b'e't'w'e'e'n' 't'h'e' 'U'n'i'o'n' 'a'n'd' '('c')' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r' 'o'f' 'I'n'-'
-'S't'a't'e' 'G'o'v'e'r'n'm'e'n't's' 'd'i'a'
-'('b')' 'p'o'w'e'r's' 'r'e'l'a't'e'd' 't'o' 'c'o'u'n't'r'y'’'s' 'i'n't'e'r'n'a'l' '('d')' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r' 'G'e'n'e'r'a'l' 'o'f'
-'a'f'f'a'i'r's' 'I'n'd'i'a'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'8'9'
-'5'9'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'b'u'l'w'a'r'k' 'o'f' '6'7'.' 'E'x'p'r'e's's'i'o'n' '‘'s'o'c'i'a'l'i's't'’' 'i'n' 't'h'e' 'P'r'e'a'm'b'l'e' 'o'f'
-'p'e'r's'o'n'a'l' 'f'r'e'e'd'o'm'?' 'I'n'd'i'a' 'h'a's' 'b'e'e'n' 'a'd'd'e'd' 'b'y' 't'a'k'i'n'g' 't'h'e' 'v'i'e'w's'
-'('a')' 'M'a'n'd'a'm'u's' 'o'f'
-'('b')' 'H'a'b'e'a'u's' 'C'o'r'p'u's' '('a')' 'M'a'r'x' 'a'n'd' 'L'o's'k'i'
-'('c')' 'Q'u'o' 'W'a'r'r'a'n't'o' '('b')' 'M'a'r'x' 'a'n'd' 'G'a'n'd'h'i'
-'('d')' 'C'e'r't'i'o'r'a'r'i' '('c')' 'R'o'u's's'e'a'u' 'a'n'd' 'G'a'n'd'h'i'
-'6'0'.' 'I'n' 'I'n'd'i'a',' 't'h'e' '“'r'i'g'h't' 't'o' 'f'r'e'e' 'e'd'u'c'a't'i'o'n'”' 'i'n' '('d')' 'G'a'n'd'h'i' 'a'n'd' 'H'e'g'e'l'
-'C'o'n's't'i't'u't'i'o'n' 'e'm'a'n'a't'e's' 'f'r'o'm' '6'8'.' 'T'h'e' 'm'a'i'n' 'o'b'j'e'c't'i'v'e' 'o'f' 't'h'e' 'R'e'g'u'l'a't'i'n'g' 'A'c't','
-'('a')' 'A'r't'i'c'l'e' '2'9' 'a'n'd' '3'0' '1'7'7'3' 'f'o'r' 'I'n'd'i'a' 'w'a's' 't'o'
-'('a')' 'b'r'i'n'g' 't'h'e' 'm'a'n'a'g'e'm'e'n't' 'o'f' 't'h'e' 'c'o'm'p'a'n'y'
-'('b')' 'A'r't'i'c'l'e' '1'4'
-'u'n'd'e'r' 't'h'e' 'c'o'n't'r'o'l' 'o'f' 't'h'e' 'B'r'i't'i's'h' 'P'a'r'l'i'a'-'
-'('c')' 'A'r't'i'c'l'e's' '2'1' 'a'n'd' '2'1'A'
-'m'e'n't' 'a'n'd' 't'h'e' 'B'r'i't'i's'h' 'C'r'o'w'n'
-'('d')' 'A'r't'i'c'l'e' '1'9'
-'('b')' 'i'n't'r'o'd'u'c'e' 'r'e'f'o'r'm's' 'i'n' 't'h'e' 'C'o'm'p'a'n'y'’'s'
-'6'1'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'v'e's't's' 't'h'e' 'e'x'e'c'u'-'
-'G'o'v'e'r'n'm'e'n't' 'i'n' 'I'n'd'i'a'
-'t'i'v'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'U'n'i'o'n' 'i'n'
-'('c')' 'p'r'o'v'i'd'e' 'r'e'm'e'd'i'e's' 'a'g'a'i'n's't' 'i'l'l'e'g'a'l'i't'i'e's'
-'('a')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'a'n'd' 'a'n'a'r'c'h'y' 'c'o'm'm'i't't'e'd' 'b'y' 't'h'e' 'C'o'm'-'
-'('b')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'p'a'n'y'’'s' 's'e'r'v'a'n't's' 'i'n' 'I'n'd'i'a'
-'('c')' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's'
-'('d')' 'A'l'l' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'6'9'.' 'U'n'd'e'r' 'w'h'i'c'h' 'p'l'a'n' 's'e'p'a'r'a't'i'o'n' 'b'e't'w'e'e'n' 'r'e'v'-'
-'6'2'.' 'T'h'e' 'w'r'i't' 'o'f' 'p'r'o'h'i'b'i't'i'o'n' 'i's's'u'e'd' 'b'y' 't'h'e' 'S'u'-'
-'e'n'u'e' 'a'n'd' 'j'u'd'i'c'i'a'l' 'f'u'n'c't'i'o'n' 'w'a's' 'm'a'i'n't'a'i'n'e'd'
-'p'r'e'm'e' 'C'o'u'r't' 'o'r' 'a' 'H'i'g'h' 'C'o'u'r't' 'i's' 'i's's'u'e'd'
-'i'n' 'I'n'd'i'a'?'
-'a'g'a'i'n's't'
-'('a')' 'P'l'a'n' 'o'f' '1'7'7'2' '('b')' 'P'l'a'n' 'o'f' '1'7'7'4'
-'('a')' 'a'd'm'i'n'i's't'r'a't'i'v'e' 'a'n'd' 'j'u'd'i'c'i'a'l' 'a'u't'h'o'r'i't'i'e's'
-'('c')' 'P'l'a'n' 'o'f' '1'7'8'0' '('d')' 'P'l'a'n' 'o'f' '1'7'8'2'
-'('b')' 'a'd'm'i'n'i's't'r'a't'i'v'e' 'a'u't'h'o'r'i't'i'e's' 'a'n'd' 'g'o'v'e'r'n'-' '7'0'.' 'T'h'e' 's'p'e'c'i'a'l' 's't'a't'u's' 'o'f' 'J'a'm'm'u' 'a'n'd' 'K'a's'h'm'i'r'
-'m'e'n't' 'i'n' 'I'n'd'i'a'n' 'U'n'i'o'n' 'i'm'p'l'i'e's' 't'h'a't' 't'h'e' 'S't'a't'e' 'h'a's'
-'('c')' 'j'u'd'i'c'i'a'l' 'o'r' 'q'u'a's'i'-'j'u'd'i'c'i'a'l' 'a'u't'h'o'r'i't'i'e's' '('a')' 'a' 's'e'p'a'r'a't'e' 'd'e'f'e'n'c'e' 'f'o'r'c'e'
-'('d')' 'a'd'm'i'n'i's't'r'a't'i'v'e' 'a'u't'h'o'r'i't'i'e's' 'o'n'l'y' '('b')' 'a' 's'e'p'a'r'a't'e' 'c'o'n's't'i't'u't'i'o'n'
-'6'3'.' 'T'h'e' 'r'i'g'h't' 'w'h'i'c'h' 'i's' 'a'v'a'i'l'a'b'l'e' 'e'v'e'n' 't'o' 'a' 'n'o'n'-' '('c')' 'a' 's'e'p'a'r'a't'e' 'j'u'd'i'c'i'a'r'y'
-'c'i't'i'z'e'n' 'i's' '('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('a')' 'F'r'e'e'd'o'm' 't'o' 'a'c'q'u'i'r'e' 'p'r'o'p'e'r't'y' 'o'r' 't'o' '7'1'.' 'W'h'o' 'i's' 'c'o'm'p'e't'e'n't' 't'o' 'p'r'e's'c'r'i'b'e' 'c'o'n'd'i't'i'o'n's'
-'c'a'r'r'y' 'o'n' 'a'n'y' 'o'c'c'u'p'a't'i'o'n',' 't'r'a'd'e' 'o'r' 'b'u's'i'-' 'f'o'r' 'a'c'q'u'i's'i't'i'o'n' 'o'f' 'c'i't'i'z'e'n's'h'i'p'?'
-'n'e's's' '('a')' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 's't'a't'e' 'l'e'g'i's'l'a't'u'r'e's' 'j'o'i'n't'-'
-'('b')' 'F'r'e'e'd'o'm' 't'o' 'm'o'v'e',' 'r'e's'i'd'e' 'a'n'd' 's'e't't'l'e' 'i'n' 'l'y'
-'a'n'y' 'p'a'r't' 'o'f' 't'h'e' 't'e'r'r'i't'o'r'y' 'o'f' 'I'n'd'i'a' '('b')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('c')' 'F'r'e'e'd'o'm' 'o'f' 's'p'e'e'c'h',' 'a's's'e'm'b'l'y' 'a'n'd' 'a's'-' '('c')' 'P'a'r'l'i'a'm'e'n't'
-'s'o'c'i'a't'i'o'n' '('d')' 'P'r'e's'i'd'e'n't'
-'('d')' 'R'i'g'h't' 't'o' 'C'o'n's't'i't'u't'i'o'n'a'l' 'R'e'm'e'd'i'e's' '7'2'.' 'T'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'd'e'c'l'a'r'e's' 't'h'a't' 'p'r'o'-'
-'6'4'.' 'T'h'e' 'p'r'o'c'l'a'm'a't'i'o'n' 'o'f' 'N'a't'i'o'n'a'l' 'E'm'e'r'g'e'n'c'y' 't'e'c't'i'o'n' 'o'f' 'l'i'f'e' 'a'n'd' 'l'i'b'e'r't'y'
-'c'e'a's'e's' 't'o' 'o'p'e'r'a't'e' 'u'n'l'e's's' 'a'p'p'r'o'v'e'd' 'b'y' 't'h'e' '('a')' 'c'a'n' 'b'e' 't'a'k'e'n' 'a'w'a'y' 'd'u'r'i'n'g' 't'h'e' 'E'm'e'r'-'
-'P'a'r'l'i'a'm'e'n't' 'w'i't'h'i'n' 'g'e'n'c'y' 't'h'r'o'u'g'h' 'P'r'e's'i'd'e'n't' 'o'r'd'e'r'
-'('b')' 'c'a'n' 'b'e' 't'a'k'e'n' 'a'w'a'y' 'o'n'l'y' 'a'c'c'o'r'd'i'n'g' 't'o'
-'('a')' 't'h'r'e'e' 'm'o'n't'h's' '('b')' 't'w'o' 'm'o'n't'h's'
-'p'r'o'c'e'd'u'r'e' 'e's't'a'b'l'i's'h'e'd' 'b'y' 'l'a'w'
-'('c')' 'o'n'e' 'm'o'n't'h' '('d')' 's'i'x' 'm'o'n't'h's'
-'('c')' 'c'a'n' 'n'e'v'e'r' 'b'e' 't'a'k'e'n' 'a'w'a'y' 'i'n' 'm'y' 'c'o'n'd'i'-'
-'6'5'.' 'W'h'o' 'i's' 't'h'e' 'e'x'-'o'f'f'i' 'c'i'o' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e'
-'t'i'o'n'
-'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e's'?'
-'('d')' 'N'o'n'e' 'o'f' 'a'b'o'v'e'
-'('a')' 'P'r'e's'i'd'e'n't'
-'7'3'.' 'T'h'e' 'b'a's'i'c' 'c'o'n'd'i't'i'o'n' 'i'm'p'o's'e'd' 'o'n' 't'h'e' 'c'i't'i'-'
-'('b')' 'S'p'e'a'k'e'r'
-'z'e'n'’'s' 'r'i'g'h't' 't'o' 'a's's'e'm'b'l'e' 'i's' 't'h'a't' 't'h'e' 'a's's'e'm'-'
-'('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'b'l'y' 's'h'o'u'l'd' 'b'e'
-'('d')' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('a')' 'p'e'a'c'e'f'u'l'
-'6'6'.' 'T'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('b')' 'n'o'n'-'v'i'o'l'e'n't'
-'p'r'o'v'i'd'e's' 'e'q'u'a'l'i't'y' 'o'f' 's't'a't'u's' 'a'n'd' 'o'p'p'o'r't'u'-'
-'('c')' 'p'e'a'c'e'f'u'l' 'a'n'd' 'u'n'a'r'm'e'd'
-'n'i't'y' 'i'n'
-'('d')' 'f'o'r' 'c'o'n's't'r'u'c't'i'v'e' 'a'i'm's'
-'('a')' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e's'
-'7'4'.' 'W'h'o' 'a'd'm'i'n'i's't'e'r's' 't'h'e' 'o'a't'h' 'o'f' 'o'f'f'i' 'c'e' 't'o' 't'h'e'
-'('b')' 'S'o'c'i'a'l' 'a'n'd' 'E'c'o'n'o'm'i'c' 'a'f'f'a'i'r' 'o'n'l'y' 'm'e'm'b'e'r's' 'o'f' 'c'o'u'n'c'i'l' 'o'f' 'm'i'n'i's't'e'r's' 'i'n' 't'h'e'
-'('c')' 'S'o'c'i'a'l',' 'P'o'l'i't'i'c'a'l' 'a'n'd' 'E'c'o'n'o'm'i'c' 's't'a't'e'?'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')' '('a')' 't'h'e' 'A't't'o'r'n'e'y'-'G'e'n'e'r'a'l' 'o'f' 't'h'e' 's't'a't'e'
-'
-'('b')' 't'h'e' 'G'o'v'e'r'n'o'r' '('a')' 't'h'e' 'p'r'e's'i'd'i'n'g' 'o'f'f'i' 'c'e'r's' 'o'f' 'b'o't'h' 't'h'e'
-'('c')' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S't'a't'e' 'H'i'g'h' 'H'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'C'o'u'r't' '('b')' 't'h'e' 'l'e'g'i's'l'a't'u'r'e's' 'o'f' 't'h'e' 's't'a't'e's' 'c'o'n'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'c'e'r'n'e'd'
-'7'5'.' 'W'h'o' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 't'h'e' 'e'x'e'c'u't'i'v'e' '('c')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'h'e'a'd' 'o'f' 'a' 's't'a't'e'?' '('d')' 'P'r'e's'i'd'e'n't'
-'('a')' 't'h'e' 'P'r'e's'i'd'e'n't' '8'2'.' 'I'n' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'g'o'v'e'r'n'm'e'n't',' 'M'i'n'i's't'e'r's'
-'('b')' 't'h'e' 'G'o'v'e'r'n'o'r' 'r'e'm'a'i'n' 'i'n' 'o'f'f'i' 'c'e' 's'o' 'l'o'n'g' 'a's' 't'h'e'y' 'e'n'j'o'y'
-'('c')' 't'h'e' 'C'h'i'e'f' 'M'i'n'i's't'e'r' '('a')' 'c'o'n'f'i' 'd'e'n'c'e' 'o'f' 't'h'e' 'u'p'p'e'r' 'h'o'u's'e' 'o'f' 't'h'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'l'e'g'i's'l'a't'u'r'e'
-'7'6'.' 'C'a'n' 't'h'e' 'c'o'u'r't's' 'i'n'q'u'i'r'e' 'i'n't'o' 'p'r'o'c'e'e'd'i'n'g's' 'o'f' '('b')' 's'u'p'p'o'r't' 'o'f' 't'h'e' 'a'r'm'e'd' 'f'o'r'c'e's'
-'t'h'e' 'L'e'g'i's'l'a't'u'r'e' 'u'n'd'e'r' 'A'r't'i'c'l'e' '2'1'2' 'o'f' 't'h'e' '('c')' 'c'o'n'f'i' 'd'e'n'c'e' 'o'f' 't'h'e' 'p'o'p'u'l'a'r' 'c'h'a'm'b'e'r' 'o'f'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?' 'l'e'g'i's'l'a't'u'r'e'
-'('a')' 'Y'e's' '('d')' 'p'o'p'u'l'a'r' 's'u'p'p'o'r't'
-'('b')' 'N'o' '8'3'.' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'i's' 'c'o'm'p'o's'e'd' 'o'f'
-'('a')' 'L'o'k' 'S'a'b'h'a' 'o'n'l'y'
-'('c')' 'w'i't'h' 't'h'e' 'p'e'r'm'i's's'i'o'n' 'o'f' 't'h'e' 'S'p'e'a'k'e'r'
-'('b')' 'R'a'j'y'a' 'S'a'b'h'a' 'o'n'l'y'
-'('d')' 'w'i't'h' 't'h'e' 'p'e'r'm'i's's'i'o'n' 'o'f' 't'h'e' 'G'o'v'e'r'n'o'r'
-'('c')' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'R'a'j'y'a' 'S'a'b'h'a'
-'7'7'.' 'I'n' 'c'a's'e' 'o'f' 'v'a'c'a'n'c'y' 'i'n' 't'h'e' 'o'f'f'i' 'c'e' 'o'f' 't'h'e'
-'('d')' 'L'o'k' 'S'a'b'h'a',' 'R'a'j'y'a' 'S'a'b'h'a' 'a'n'd' 'P'r'e's'i'-'
-'V'i'c'e'-'P'r'e's'i'd'e'n't' 'd'u'r'i'n'g' 'h'i's' 'f'u'n'c't'i'o'n' 'a's' 'o'f'-'
-'d'e'n't'
-'f'i' 'c'i'a't'i'n'g' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'w'h'o' 'a'm'o'n'g' 't'h'e'
-'8'4'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'i's'
-'f'o'l'l'o'w'i'n'g' 'w'i'l'l' 'a'c't' 'a's' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'?'
-'('a')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r's' 'o'f' 'R'a'j'y'a' 'S'a'b'-'
-'('a')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'h'a'
-'('b')' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a'
-'('b')' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'('c')' 'e'l'e'c't'e'd' 'b'y' 'm'e'm'b'e'r's' 'o'f' 'b'o't'h' 'H'o'u's'e's' 'o'f'
-'('d')' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r'
-'P'a'r'l'i'a'm'e'n't'
-'7'8'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a'n' 'p'r'e's'c'r'i'b'e'
-'('d')' 'e'l'e'c't'e'd' 'b'y' 'P'a'r'l'i'a'm'e'n't' 'a'n'd' 'S't'a't'e' 'L'e'g'i's'-'
-'a'n' 'a'u't'h'o'r'i't'y' 'f'o'r' 'd'e'l'i'm'i't'a't'i'o'n' 'o'f' 'c'o'n's't'i't'u'-'
-'l'a't'u'r'e's' 'j'o'i'n't'l'y'
-'e'n'c'i'e's' 'o'f' 'I'n'd'i'a'?'
-'8'5'.' 'I'n' 't'h'e' 'c'a's'e' 'o'f' 'a' 'd'e'a'd'l'o'c'k' 'b'e't'w'e'e'n' 't'h'e' 't'w'o'
-'('a')' 'P'a'r'l'i'a'm'e'n't'
-'H'o'u's'e's' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't',' 't'h'e' 'j'o'i'n't' 's'i't't'i'n'g'
-'('b')' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's'
-'i's' 'p'r'e's'i'd'e'd' 'o'v'e'r' 'b'y' 't'h'e'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'('a')' 'P'r'e's'i'd'e'n't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'7'9'.' 'R'i'g'h't' 't'o' 'E'd'u'c'a't'i'o'n' 'v'i'z'.',' 'A'r't'i'c'l'e' '2'1'A' 'w'a's'
-'('c')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'a'd'd'e'd' 'i'n' 'C'o'n's't'i't'u't'i'o'n' 'b'y' 't'h'e'
-'('d')' 'M'e'm'b'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 's'p'e'c'i'f'i' 'c'a'l'l'y'
-'('a')' 'C'o'n's't'i't'u't'i'o'n' '8'6't'h' 'A'm'e'n'd'm'e'n't' 'A'c't','
-'e'l'e'c't'e'd' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e'
-'2'0'0'2'
-'8'6'.' '‘'D'a'm'a'g'e's'’' 'a'r'e' 'a'w'a'r'd'e'd' 'e'x'c'e'p't' 'i'n' 'o'n'e'
-'('b')' 'C'o'n's't'i't'u't'i'o'n' '8'5't'h' 'A'm'e'n'd'm'e'n't' 'A'c't','
-'c'a's'e'
-'2'0'0'1' '('a')' 'T'o'r't'
-'('c')' 'C'o'n's't'i't'u't'i'o'n' '8'4't'h' 'A'm'e'n'd'm'e'n't' 'A'c't',' '('b')' 'B'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'
-'2'0'0'1' '('c')' 'L'i'b'e'l' 'S'u'i't'
-'('d')' 'C'o'n's't'i't'u't'i'o'n' '8'3'r'd' 'A'm'e'n'd'm'e'n't' 'A'c't',' '('d')' 'C'r'i'm'i'n'a'l' 'c'o'n'd'u'c't'
-'2'0'0'0' '8'7'.' 'I'n'd'i'a' 'i's' 'u'n'i't'a'r'y' 'b'e'c'a'u's'e' 'i't' 'h'a's'
-'8'0'.' 'T'h'e' 'p'o'w'e'r' 't'o' 'd'i's's'o'l'v'e' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i's' '('a')' 's'i'n'g'l'e' 'C'o'n's't'i't'u't'i'o'n' 'f'o'r' 'U'n'i'o'n' 'a'n'd'
-'v'e's't'e'd' 'i'n' 't'h'e' 'S't'a't'e's'
-'('a')' 'P'r'e's'i'd'e'n't' 'w'h'o' 'e'x'e'r'c'i's'e's' 'i't' 'o'n' 't'h'e' 'a'd'-' '('b')' 's'i'n'g'l'e' 'C'o'n's't'i't'u't'i'o'n' 'f'o'r' 'U'n'i'o'n'
-'v'i'c'e' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('c')' 's'i'n'g'l'e' 'C'o'n's't'i't'u't'i'o'n' 'f'o'r' 'S't'a't'e's'
-'('b')' 'P'r'e's'i'd'e'n't' 'a't' 'h'i's' 'a'b's'o'l'u't'e' 'd'i's'c'r'e't'i'o'n' '('d')' 'U'n'i'o'n' 'o'f' 'S't'a't'e's'
-'('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'w'i't'h'o'u't' 'w'h'o's'e' 'a'd'v'i'c'e' '8'8'.' 'B'h'a'i'r'o'n' 'S'i'n'g'h' 'S'h'e'k'h'a'w'a't' 't'h'e' 'f'o'r'm'e'r'
-'t'h'e' 'L'o'k' 'S'a'b'h'a' 'c'a'n'n'o't' 'b'e' 'd'i's's'o'l'v'e'd' 'a't' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 't'o' 'w'h'o'm' 'H'a'm'i'd'
-'a'l'l' 'A'n's'a'r'i' 's'u'c'c'e'e'd'e'd' 'w'a's'
-'('d')' 'J'o'i'n't' 'o'p'i'n'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't',' 'V'i'c'e'-' '('a')' 'f'o'r'm'e'r' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 'R'a'j'a's't'h'a'n'
-'P'r'e's'i'd'e'n't' 'a'n'd' 't'h'e' 'S'p'e'a'k'e'r' '('b')' 'f'o'r'm'e'r' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 'K'e'r'a'l'a'
-'8'1'.' 'A' 'b'i'l'l' 'f'o'r' 'a'l't'e'r'a't'i'o'n' 'o'f' 'b'o'u'n'd'a'r'i'e's' 'o'f' 's't'a't'e' '('c')' 'f'o'r'm'e'r' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 'K'a'r'n'a't'a'k'a'
-'s'h'o'u'l'd' 'n'o't' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('d')' 'f'o'r'm'e'r' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 'M'a'h'a'r'a's'h't'r'a'
-'w'i't'h'o'u't' 't'h'e' 'r'e'c'o'm'm'e'n'd'a't'i'o'n' 'o'f' '8'9'.' 'I'n' 'I'n'd'i'a' 'a' 'B'i'l'l' 't'o' 'c'h'a'n'g'e' 't'h'e' 'b'o'u'n'd'a'r'i'e's' 'o'f'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'9'1'
-'a' 'S't'a't'e' 'h'a's' 't'o' 'b'e' 'p'a's's'e'd' 'b'y' '_'_'_'_'_'_'_'_'_'_' '('c')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'m'a'j'o'r'i't'y' 'i'n' '_'_'_'_'_'_'_'_'_'_' 't'o' 'b'e'c'o'm'e' 'a' 'l'a'w' '('d')' 'S'e'l'e'c't' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'C'o'm'm'i't't'e'e'
-'('a')' 'S'i'm'p'l'e';' 'P'a'r'l'i'a'm'e'n't' '9'5'.' 'T'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'h'a's' 't'o' 't'e'n'd'e'r' 'i't's'
-'('b')' 'S'i'm'p'l'e';' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'r'e's'i'g'n'a't'i'o'n' 'i'f' 'a' 'v'o't'e' 'o'f' 'n'o'-'c'o'n'f'i' 'd'e'n'c'e' 'i's'
-'('c')' 'T'w'o' 't'h'i'r'd';' 'P'a'r'l'i'a'm'e'n't' 'p'a's's'e'd' 'a'g'a'i'n's't' 'i't'
-'('d')' 'T'w'o' 't'h'i'r'd';' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' '('a')' 'b'y' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'9'0'.' 'C'i't'i'z'e'n's'h'i'p' 'b'y' 'd'e's'c'e'n't' 'i'n' 'I'n'd'i'a' 'm'e'a'n's' '('b')' 'b'y' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a'
-'('a')' 'a' 'p'e'r's'o'n' 'b'o'r'n' 'o'u't's'i'd'e' 'I'n'd'i'a' 'o'n' 'o'r' 'a'f't'e'r' '('c')' 'b'y' 't'h'e' 't'w'o' 'h'o'u's'e's' 'a't' 'a' 'j'o'i'n't' 's'i't't'i'n'g'
-'2'6't'h' 'J'a'n'u'a'r'y',' '1'9'5'0' 'a'n'd' '1'0't'h' 'D'e'c'e'm'-' '('d')' 'b'y' 't'h'e' 't'w'o' 'h'o'u's'e's' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'b'y'
-'b'e'r',' '1'9'9'2' 'a'n'd' 'i'f' 'f'a't'h'e'r' 'i's' 'I'n'd'i'a'n' 'c'i't'i'-' 't'w'o' 't'h'i'r'd's' 'm'a'j'o'r'i't'y'
-'z'e'n' '9'6'.' 'T'h'e' 'o'n'l'y' 'w'o'm'a'n' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'C'o'n's't'i'-'
-'('b')' 'o'n' 'o'r' 'a'f't'e'r' '1'0't'h' 'D'e'c'e'm'b'e'r',' '1'9'9'2',' 'i'f' 'e'i'-' 't'u't'i'o'n' 'R'e'v'i'e'w' 'C'o'm'm'i't't'e'e' 'o'f' 'I'n'd'i'a' 'w'h'i'c'h'
-'t'h'e'r' 'o'f' 't'h'e' 'p'a'r'e'n't's' 'i's' 'a'n' 'I'n'd'i'a'n' 'c'i't'i'z'e'n' 's'u'b'm'i't't'e'd' 'R'e'p'o'r't' 'i'n' '2'0'0'2' 'w'a's'
-'a't' 't'h'e' 't'i'm'e' 'o'f' 'h'i's' 'b'i'r't'h' '('a')' 'M'o'h'i'n'i' 'G'i'r'i'
-'('c')' 'E'i't'h'e'r' '('a')' 'o'r' '('b')' '('b')' 'S'u'm'i't'r'a' 'K'u'l'k'a'r'n'i'
-'('d')' 'O'n'l'y' '('a')' 'i's' 'c'o'r'r'e'c't' '('c')' 'S'u'b'h'a's'h'i'l'l'i' 'A'l'i'
-'9'1'.' 'L'o'k' 'S'a'b'h'a' 'i's' 's'u'p'e'r'i'o'r' 't'o' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' '('d')' 'V'i'b'h'a' 'P'a'r't'h'a's'a'r'a't'h'i'
-'b'e'c'a'u's'e' '9'7'.' 'T'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'o'f' 'I'n'd'i'a' 'w'a's'
-'('a')' 'i't' 'a'l'o'n'e' 'c'o'n't'r'o'l's' 't'h'e' 'p'u'r's'e' 'f'o'r'm'e'd' 'u'n'd'e'r' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f'
-'('b')' 'i't' 'i's' 'd'i'r'e'c't'l'y' 'e'l'e'c't'e'd' '('a')' 'C'a'b'i'n'e't' 'M'i's's'i'o'n' 'P'l'a'n'
-'('c')' 'i't' 'c'a'n' 'c'a's't' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' '('b')' 'C'r'i'p'p's' 'C'o'm'm'i's's'i'o'n'
-'t'h'r'o'u'g'h' 'a' 'v'o't'e' 'o'f' 'n'o'-'c'o'n'f'i' 'd'e'n'c'e' '('c')' 'M'o'u'n't'b'a't't'e'n' 'P'l'a'n'
-'('d')' 'o'f' 'a'l'l' 't'h'e' 'a'b'o'v'e' 'r'e'a's'o'n's' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'9'2'.' 'W'h'a't' 'c'a'n' 'b'e' 't'h'e' 'm'a'x'i'm'u'm' 'g'a'p' 'b'e't'w'e'e'n' '9'8'.' 'I'n' 'I'n'd'i'a',' 'a' 'p'e'r's'o'n' 'c'a'n' 'b'e' 'a' 'm'e'm'b'e'r' 'o'f'
-'t'h'e' 't'w'o' 's'e's's'i'o'n's' 'o'f' 'P'a'r'l'i'a'm'e'n't'?' 'S't'a't'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'w'i't'h'o'u't' 'b'e'i'n'g'
-'('a')' 'n'i'n'e' 'm'o'n't'h's' '('b')' 's'i'x' 'm'o'n't'h's' 'a' 'm'e'm'b'e'r' 'o'f' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'f'o'r'
-'('c')' 't'h'r'e'e' 'm'o'n't'h's' '('d')' 'f'o'u'r' 'm'o'n't'h's' '('a')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' '9' 'm'o'n't'h's'
-'9'3'.' 'T'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'i's' 'a' 'p'e'r'm'a'n'e'n't' 'h'o'u's'e' '('b')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' '6' 'm'o'n't'h's'
-'b'u't' '('c')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' '1'2' 'm'o'n't'h's'
-'('a')' 'o'n'e'-'h'a'l'f' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y' '('d')' 'a' 'm'a'x'i'm'u'm' 'p'e'r'i'o'd' 'o'f' '2' 'm'o'n't'h's'
-'t'w'o' 'y'e'a'r's' '9'9'.' 'A'n' 'A'c't' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'i's' 'c'a'l'l'e'd'
-'('b')' 'o'n'e'-'f'i' 'f't'h' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y' '('a')' 'b'i'l'l' '('b')' 'l'e'g'i's'l'a't'i'o'n'
-'y'e'a'r' '('c')' 's't'a't'u't'e' '('d')' 'p'u'b'l'i'c' 'p'o'l'i'c'y'
-'('c')' 'o'n'e'-'t'h'i'r'd' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y' '1'0'0'.' 'T'h'e' 'd'o'c't'r'i'n'e' 'o'f' 's'e'p'a'r'a't'i'o'n' 'o'f' 'p'o'w'e'r' 's'i'g'n'i'-'
-'t'w'o' 'y'e'a'r's' 'f'i' 'e's'
-'('d')' 'o'n'e'-'h'a'l'f' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y' '('a')' 'a' 'd'i'v'i's'i'o'n' 'o'f' 'p'o'w'e'r' 'b'e't'w'e'e'n' 'C'e'n't'r'e'
-'t'h'r'e'e' 'y'e'a'r's' 'a'n'd' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'9'4'.' 'W'h'o' 'd'e'c'i'd'e's' 'w'h'e't'h'e'r' 'a' 'b'i'l'l' 'i's' 'a' 'M'o'n'e'y' '('b')' 'd'i's't'r'i'b'u't'i'o'n' 'o'f' 'p'o'w'e'r' 'b'e't'w'e'e'n' 'b'r'a'n'c'h'-'
-'B'i'l'l' 'o'r' 'n'o't'?' 'e's' 'o'f' 'G'o'v'e'r'n'm'e'n't'
-'('a')' 'P'r'e's'i'd'e'n't' '('c')' 'p'r'o'v'i'd'i'n'g' 'f'o'r' 'j'u'd'i'c'i'a'l' 's'u'p'r'e'm'a'c'y'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('c')' '2'.' '('c')' '3'.' '('d')' '4'.' '('d')' '5'.' '('a')' '6'.' '('a')' '7'.' '('c')' '8'.' '('d')' '9'.' '('a')' '1'0'.' '('a')'
-'1'1'.' '('c')' '1'2'.' '('a')' '1'3'.' '('a')' '1'4'.' '('a')' '1'5'.' '('b')' '1'6'.' '('c')' '1'7'.' '('a')' '1'8'.' '('d')' '1'9'.' '('c')' '2'0'.' '('c')'
-'2'1'.' '('c')' '2'2'.' '('c')' '2'3'.' '('d')' '2'4'.' '('b')' '2'5'.' '('c')' '2'6'.' '('c')' '2'7'.' '('d')' '2'8'.' '('a')' '2'9'.' '('d')' '3'0'.' '('b')'
-'3'1'.' '('d')' '3'2'.' '('b')' '3'3'.' '('c')' '3'4'.' '('d')' '3'5'.' '('c')' '3'6'.' '('d')' '3'7'.' '('c')' '3'8'.' '('a')' '3'9'.' '('d')' '4'0'.' '('b')'
-'4'1'.' '('b')' '4'2'.' '('c')' '4'3'.' '('d')' '4'4'.' '('c')' '4'5'.' '('c')' '4'6'.' '('b')' '4'7'.' '('a')' '4'8'.' '('a')' '4'9'.' '('a')' '5'0'.' '('a')'
-'5'1'.' '('d')' '5'2'.' '('b')' '5'3'.' '('c')' '5'4'.' '('d')' '5'5'.' '('b')' '5'6'.' '('a')' '5'7'.' '('d')' '5'8'.' '('a')' '5'9'.' '('b')' '6'0'.' '('c')'
-'6'1'.' '('a')' '6'2'.' '('b')' '6'3'.' '('d')' '6'4'.' '('d')' '6'5'.' '('d')' '6'6'.' '('a')' '6'7'.' '('b')' '6'8'.' '('d')' '6'9'.' '('d')' '7'0'.' '('b')'
-'7'1'.' '('c')' '7'2'.' '('c')' '7'3'.' '('c')' '7'4'.' '('c')' '7'5'.' '('b')' '7'6'.' '('b')' '7'7'.' '('c')' '7'8'.' '('c')' '7'9'.' '('a')' '8'0'.' '('a')'
-'8'1'.' '('d')' '8'2'.' '('c')' '8'3'.' '('d')' '8'4'.' '('c')' '8'5'.' '('c')' '8'6'.' '('d')' '8'7'.' '('a')' '8'8'.' '('a')' '8'9'.' '('a')' '9'0'.' '('b')'
-'9'1'.' '('d')' '9'2'.' '('b')' '9'3'.' '('c')' '9'4'.' '('c')' '9'5'.' '('a')' '9'6'.' '('a')' '9'7'.' '('a')' '9'8'.' '('b')' '9'9'.' '('b')' '1'0'0'.' '('a')'
-'
-'P' 'P' '7'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'O'v'e'r's'e'a's' 'c'i't'i'z'e'n's'h'i'p' 'o'f' 'I'n'd'i'a' 'i's' 'g'r'a'n't'e'd' 't'o' 't'a'i'n' 't'h'e' 'p'e'o'p'l'e'’'s' 'v'e'r'd'i'c't' 'i'n' 'h'i's' 'f'a'v'o'u'r' 'i'n' 'a'
-'p'e'o'p'l'e' 'o'f' 'I'n'd'i'a'n' 'o'r'i'g'i'n' 'b'y'e'-'e'l'e'c't'i'o'n' 'w'i't'h'i'n'
-'('a')' 'i'n' 'a'n'y' 'c'o'u'n't'r'y' '('a')' '1'5' 'd'a'y's' '('b')' 'o'n'e' 'm'o'n't'h'
-'('b')' 'i'n' 's'e'l'e'c't' 'c'o'u'n't'r'i'e's' '('c')' 't'h'r'e'e' 'm'o'n't'h's' '('d')' 's'i'x' 'm'o'n't'h's'
-'('c')' 'p'r'o'v'i'd'e'd' 't'h'e'i'r' 'h'o'm'e' 'c'o'u'n't'r'i'e's' 'a'l'l'o'w'e'd' '7'.' 'P'a'r't' 'V' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'd'e'a'l's' 'w'i't'h'
-'t'h'e'm' 't'o' 'd'o' 's'o' 'I'.' 'U'n'i'o'n' 'E'x'e'c'u't'i'v'e'
-'('d')' 'i'n' 'a'l'l' 'c'o'u'n't'r'i'e's' 'e'x'c'e'p't' 'S'r'i' 'L'a'n'k'a' 'I'I'.' 'P'a'r'l'i'a'm'e'n't'
-'2'.' 'I'n'd'i'a' 'i's' 'a' 'f'e'd'e'r'a'l';' 'p'o'l'i't'i'c'a'l' 's'y's't'e'm'.' 'H'o'w'-' 'I'I'I'.' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'H'i'g'h' 'C'o'u'r't'
-'e'v'e'r',' 'a'l'l' 'p'o'w'e'r's' 'h'a'v'e' 'n'o't' 'b'e'e'n' 'd'i'v'i'd'e'd' 'b'e'-' 'I'V'.' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r'-'G'e'n'e'r'a'l'
-'t'w'e'e'n' 't'h'e' 'U'n'i'o'n' 'a'n'd' 't'h'e' 'S't'a't'e's'.' 'W'h'i'c'h' 'o'f' '('a')' 'I',' 'I'I' 'a'n'd' 'I'I'I' '('b')' 'I',' 'I'I' 'a'n'd' 'I'V'
-'t'h'e' 'f'o'l'l'o'w'i'n'g' 'i's'/'a'r'e' 'n'o't' 's'o' 'd'i'v'i'd'e'd'?' '('c')' 'I' 'a'n'd' 'I'I' '('d')' 'I' 'o'n'l'y'
-'1'.' 'L'e'g'i's'l'a't'i'v'e' '2'.' 'E'x'e'c'u't'i'v'e' '8'.' 'I'n'd'i'a' 'h'a's' 'b'e'e'n' 'd'e's'c'r'i'b'e'd' 'b'y' 't'h'e' 'C'o'n's't'i't'u'-'
-'3'.' 'J'u'd'i'c'i'a'l' '4'.' 'F'i'n'a'n'c'i'a'l' 't'i'o'n' 'a's':'
-'('a')' '1' 'a'n'd' '2' '('b')' '3' 'a'n'd' '4' '('a')' 'A' 'U'n'i'o'n' 'o'f' 'S't'a't'e's'
-'('c')' '3' 'o'n'l'y' '('d')' '4' 'o'n'l'y' '('b')' 'Q'u'a's'i'-'f'e'd'e'r'a'l'
-'3'.' 'T'h'e' 'f'u'n'd'a'm'e'n't'a'l' 'r'i'g'h't's' 'u'n'd'e'r' 't'h'e' 'C'o'n's't'i'-' '('c')' 'A' 'F'e'd'e'r'a't'i'o'n' 'o'f' 'S't'a't'e's'
-'t'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'h'a'v'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('a')' 'r'e't'r'o's'p'e'c't'i'v'e' 'e'f'f'e'c't' '9'.' 'T'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'e's't'a'b'l'i's'h'e's' 'a' 's'e'c'-'
-'('b')' 'n'o' 'e'f'f'e'c't' 'u'n'd'e'r' 'A'r't'i'c'l'e' '1'3'('1')' 'o'r' '1'3'('3')' 'u'l'a'r' 'S't'a't'e',' 'm'e'a'n'i'n'g'
-'('b')' 'I'.' 'T'h'e' 'S't'a't'e' 't'r'e'a't's' 'a'l'l' 'r'e'l'i'g'i'o'u's' 'e'q'u'a'l'l'y'
-'('c')' 'o'n'l'y' 'f'u't'u'r'e' 'e'f'f'e'c't' 'I'I'.' 'F'r'e'e'd'o'm' 'o'f' 'f'a'i't'h' 'a'n'd' 'w'o'r's'h'i'p' 'i's' 'a'l'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'l'o'w'e'd' 't'o' 't'h'e' 'p'e'o'p'l'e'
-'4'.' 'I'n' 'I'n'd'i'a' 't'h'e' 'f'i' 'r's't' 'C'o'n's't'i't'u't'i'o'n'a'l' 'A'm'e'n'd'-' 'I'I'I'.' 'E'd'u'c'a't'i'o'n'a'l' 'i'n's't'i't'u't'i'o'n's',' 'w'i't'h'o'u't' 'e'x'-'
-'m'e'n't' 'w'a's' 'm'a'd'e' 'i'n' '1'9'5'1'.' 'T'h'e' 'm'a'i'n' 'o'b'j'e'c't' 'c'e'p't'i'o'n',' 'a'r'e' 'f'r'e'e' 't'o' 'i'm'p'a'r't' 'r'e'l'i'g'i'o'u's'
-'w'a's' 'i'n's't'r'u'c't'i'o'n'
-'('a')' 't'o' 's'e'c'u'r'e' 'c'o'n's't'i't'u't'i'o'n'a'l' 'v'a'l'i'd'i't'y' 'o'f' 'r'u'l'-' 'I'V'.' 'T'h'e' 'S't'a't'e' 'm'a'k'e's' 'n'o' 'd'i's'c'r'i'm'i'n'a't'i'o'n' 'o'n'
-'i'n'g' 'b'y' 'k'i'n'g's' 't'h'e' 'b'a's'i's' 'o'f' 't'h'e' 'r'e'l'i'g'i'o'n' 'i'n' 'm'a't't'e'r's' 'o'f'
-'('b')' 't'o' 'a'd'd' 'A'r't'i'c'l'e' '3'1'A' 'a'n'd' '3'1'B' 'a'n'd' 'e'm'p'l'o'y'm'e'n't'
-'S'c'h'e'd'u'l'e' '9' '('a')' 'I',' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' '('b')' 'I',' 'I'I' 'a'n'd' 'I'V'
-'('c')' 'b'o't'h' '('a')' 'a'n'd' '('b')' '('c')' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' '('d')' 'I' 'a'n'd' 'I'I'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '1'0'.' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l' 'i's' 'a' '…'
-'5'.' 'K'e's'h'v'a'n'a'n'd'a' 'B'h'a'r't'i' 'c'a's'e',' 'o'v'e'r'r'u'l'e'd' 'G'o'-' '('a')' 'C'r'e'a't'i'o'n' 'o'f' 't'h'e' 'e'x'e'c'u't'i'v'e' 'b'o'd'y'
-'l'a'k'n'a't'h' 'c'a's'e',' 'a'n'd' 's'a'i'd' '('b')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'b'o'd'y'
-'('a')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'c'a'n' 'b'e' 'a'm'e'n'd'e'd' '('c')' 'C'a'b'i'n'e't'’'s' 'S'e'c'r'e't'a'r'i'a't'
-'('b')' 'A'l'l' 'p'r'o'v'i's'i'o'n' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'c'a'n' '('d')' 'J'o'i'n't' 'R'i'g'h't'
-'b'e' 'a'm'e'n'd'e'd' '1'1'.' 'T'h'e' 'L'i'b'e'r'h'a'n' 'C'o'm'm'i's's'i'o'n' 'r'e'l'a't'e's' 't'o'
-'('c')' 'P'a'r'l'i'a'm'e'n't' 'c'a'n' 'a'm'e'n'd' 'a'n'y' 'p'a'r't' 'o'f' 't'h'e' '('a')' 'A'n't'i'-'T'e'r'r'o'r'i's'm' 'C'o'm'm'i's's'i'o'n'
-'C'o'n's't'i't'u't'i'o'n' 's'o' 'l'o'n'g' 'a's' 't'h'e' 'a'm'e'n'd'-' '('b')' 'D'e'm'o'l'i't'i'o'n' 'o'f' 'B'a'b'r'i' 'M'a's'j'i'd'
-'m'e'n't' 'd'o'e's' 'n'o't' 't'a'k'e' 'a'w'a'y' 'o'r' 'a'b'r'i'd'g'e' '('c')' 'P'o'l'l'u't'i'o'n' 'i'n' 'C'o'u'n't'r'y'
-'a'n'y' 'o'f' 't'h'e' 'b'a's'i'c' 'f'e'a't'u'r'e's' 'o'f' 't'h'e' 'C'o'n'-' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'s't'i't'u't'i'o'n' 'a'm'e'n'd'm'e'n't's' '1'2'.' 'W'h'a't' 'i's' 't'h'e' 'm'a'x'i'm'u'm' 's't'r'e'n'g't'h' 'p'r'e's'c'r'i'b'e'd'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'i'n' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'f'o'r' 'L'o'k' 'S'a'b'h'a'?'
-'6'.' 'A' 'm'i'n'i's't'e'r',' 'w'h'o' 'i's' 'n'o't' 'a' 'm'e'm'b'e'r' 'o'f' 't'h'e' '('a')' '5'4'3' '('b')' '5'4'5'
-'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'y',' 'i's' 'r'e'q'u'i'r'e'd' 't'o' 'o'b'-' '('c')' '5'5'0' '('d')' '5'5'2'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'9'3'
-'1'3'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'g'u'a'r'a'n't'e'e's' 'r'i'g'h't' '('a')' 'P'o'p'u'l'a't'i'o'n'
-'a'g'a'i'n's't' 'e'x'p'l'o'i't'a't'i'o'n' 't'o' '('b')' 't'e'r'r'i't'o'r'i'a'l' 'j'u'r'i's'd'i'c't'i'o'n'
-'('a')' 'C'h'i'l'd'r'e'n' 'a'n'd' 'W'o'm'e'n' '('c')' 'n'u'm'b'e'r' 'o'f' 'P'r'i'm'e' 'M'i'n'i's't'e'r's' 's'e'n'd'i'n'g' 't'o'
-'('b')' 'M'e'n' 'a'n'd' 'W'o'm'e'n' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'C'h'i'l'd'r'e'n' 'a'n'd' 'O'l'd'm'e'n' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'F'a'c't'o'r'y' 'W'o'r'k'e'r's' 'o'n'l'y' '2'3'.' 'T'h'e' 'm'i'n'i'm'u'm' 'a'g'e' 'o'f' 'a' 'p'e'r's'o'n' 'r'e'q'u'i'r'e'd' 't'o'
-'1'4'.' 'N'a'm'e' 't'h'e' 'C'o'm'm'i's's'i'o'n' 'w'h'i'c'h' 'o'r'g'a'n'i'z'e'd' 'b'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'i'n' 'I'n'd'i'a' 'i's'
-'S't'a't'e's' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' 'l'a'n'g'u'a'g'e's' '('a')' '2'5' 'y'e'a'r's'
-'('a')' 'J'.' 'F'a'z'a'l' 'A'l'i' 'C'o'm'm'i's's'i'o'n' '('b')' '3'0' 'y'e'a'r's'
-'('b')' 'D'h'a'r'a'm' 'V'i'r' 'C'o'm'm'i's's'i'o'n' '('c')' '3'5' 'y'e'a'r's' 's'p'e'c'i'f'i' 'e'd'
-'('c')' 'A's'h'o'k' 'M'e'h't'a' 'C'o'm'm'i's's'i'o'n' '('d')' 'n'o' 'a'g'e' 'r'e'q'u'i'r'e'd'
-'('d')' 'S'a'n'a't'h'a'n' 'C'o'm'm'i's's'i'o'n' '2'4'.' 'T'h'e' 'd'e'f'e'a't' 'o'f' 'g'o'v'e'r'n'm'e'n't' 'i'n' 'R'a'j'y'a' 'S'a'b'h'a'
-'1'5'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'n'e'c'e's's'a'r'y' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'l'e'a'd's' 't'o'
-'a't't'r'i'b'u't'e' 'o'f' 'f'e'd'e'r'a'l'i's'm'?' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'’'s' 'r'e's'i'g'n'a't'i'o'n'
-'('a')' 'A'n' 'i'n'd'e'p'e'n'd'e'n't' 'c'o'u'r't' 't'o' 'a'r'b'i't'r'a't'e' 'o'n' '('b')' 'R'e's'i'g'n'a't'i'o'n' 'o'f' 'P'r'e's'i'd'e'n't'
-'d'i's'p'u't'e's' 'b'e't'w'e'e'n' 't'h'e' 'F'e'd'e'r'a't'i'o'n' 'a'n'd' '('c')' 'R'e's'i'g'n'a't'i'o'n' 'o'f' 'C'h'a'i'r'm'a'n'
-'F'e'd'e'r'a'l' 'S't'a't'e's' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'A' 'w'r'i't't'e'n' 'C'o'n's't'i't'u't'i'o'n' '2'5'.' 'I'n' 'I'n'd'i'a' 'f'i' 'r's't' 'B'J'P' 'm'i'n'i's't'r'y' 'u'n'd'e'r' 'M'r' 'A't'a'l'
-'('c')' 'D'i'v'i's'i'o'n' 'o'f' 'p'o'w'e'r's' 'b'e't'w'e'e'n' 't'h'e' 'F'e'd'-' 'B'e'h'a'r'i' 'V'a'j'p'a'y'e'e' 'h'e'l'd' 'o'f'f'i' 'c'e' 'f'o'r' 'a' 'p'e'r'i'o'd'
-'e'r'a't'i'o'n' 'a'n'd' 'F'e'd'e'r'a'l' 'U'n'i't' 'o'f'
-'('d')' 'D'u'a'l' 'c'i't'i'z'e'n's'h'i'p' 'o'f' 'F'e'd'e'r'a't'i'o'n' 'a'n'd' '('a')' '1'3' 'd'a'y's' '('b')' '4'5' 'd'a'y's'
-'F'e'd'e'r'a'l' 'U'n'i't'
-'('c')' '1'0' 'd'a'y's' '('d')' '3' 'm'o'n't'h's'
-'1'6'.' 'I'n' 't'h'e' 'i'n't'e'r'i'm' 'g'o'v'e'r'n'm'e'n't' 'f'o'r'm'e'd' 'i'n' '1'9'4'6','
-'2'6'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'p'r'o'm'u'l'g'a't'e' 'a'n' 'o'r'd'i'-'
-'t'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 't'h'e' 'E'x'e'c'u't'i'v'e' 'C'o'u'n'-'
-'n'a'n'c'e'
-'c'i'l' 'w'a's'
-'('a')' 'w'h'e'n' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'h'a's' 'b'e'e'n' 'd'i's'-'
-'('a')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd'
-'s'o'l'v'e'd'
-'('b')' 'C'.' 'R'a'j'a'g'o'p'a'l'a'c'h'a'r'i'
-'('b')' 'w'h'e'n' 't'h'e'r'e' 'i's' 'c'o'n'f'l' 'i'c't' 'b'e't'w'e'e'n' 't'h'e' 't'w'o'
-'('c')' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u'
-'H'o'u's'e's' 'r'e'g'a'r'd'i'n'g' 'a' 'p'a'r't'i'c'u'l'a'r' 'b'i'l'l'
-'('d')' 'D'r' 'S'.' 'R'a'd'h'a'k'r'i's'h'n'a'n'
-'('c')' 'w'h'e'n' 'a' 'b'i'l'l' 'p'a's's'e'd' 'b'y' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i's'
-'1'7'.' 'G'o'l'd'e'n' 'J'u'b'i'l'e'e' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'w'a's'
-'n'o't' 'p'a's's'e'd' 'b'y' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a'
-'c'e'l'e'b'r'a't'e'd' 'o'n'
-'('d')' 'w'h'e'n' 'b'o't'h' 't'h'e' 'H'o'u's'e's' 'o'f' 't'h'e' 'P'a'r'l'i'a'-'
-'('a')' '1'3' 'M'a'y' '2'0'0'2' '('b')' '8' 'M'a'y' '2'0'0'2'
-'m'e'n't' 'a'r'e' 'n'o't' 'i'n' 's'e's's'i'o'n'
-'('c')' '2'6' 'A'p'r'i'l' '2'0'0'2' '('d')' '1'8' 'M'a'y' '2'0'0'2'
-'2'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'b'e's't' 'd'e'f'i' 'n'e's' 't'h'e'
-'1'8'.' 'W'h'i'c'h' 'l'a'n'g'u'a'g'e' 'w'a's' 'a'd'd'e'd' 'a's' 't'h'e' '1'5't'h' 'o'f'-'
-'P'a'r'l'i'a'm'e'n't'a'r'y' 't'e'r'm' '‘'C'r'o's's'i'n'g' 't'h'e' 'F'l'o'o'r'’'?'
-'f'i' 'c'i'a'l' 'l'a'n'g'u'a'g'e' 't'o' 't'h'e' '8't'h' 'S'c'h'e'd'u'l'e' 'o'f' 't'h'e'
-'('a')' 'L'e'a'v'i'n'g' 't'h'e' 'o'p'p'o's'i't'i'o'n' 't'o' 'j'o'i'n' 't'h'e'
-'C'o'n's't'i't'u't'i'o'n'?'
-'p'a'r't'y' 'i'n' 'p'o'w'e'r' 'o'r' 'v'i'c'e'-'v'e'r's'a' 'b'y' 'a' 'P'a'r'-'
-'('a')' 'H'i'n'd'i' '('b')' 'U'r'd'u'
-'l'i'a'm'e'n't'a'r'i'a'n'
-'('c')' 'S'i'n'd'h'i' '('d')' 'M'a'r'a't'h'i'
-'('b')' 'A'n' 'a't't'e'm'p't' 't'o' 'o'c'c'u'p'y' 't'h'e' 's'e'a't' 'o'f' 's'o'm'e'
-'1'9'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'o'f' 'I'n'd'i'a'n' 'c'o'n's't'i't'u't'i'o'n' 'p'r'e'-'
-'o't'h'e'r' 'P'a'r'l'i'a'm'e'n't'a'r'i'a'n'
-'s'c'r'i'b'e's' 'H'i'n'd'i' 'i'n' 'D'e'v'a'n'a'g'r'i' 's'c'r'i'p't' 'a's' 't'h'e'
-'('c')' 'L'e'a'v'i'n'g' 'a' 'H'o'u's'e' 'b'y' 'm'i'n'i's't'e'r' 'i'n' 'b'e'-'
-'o'f'f'i' 'c'i'a'l' 'l'a'n'g'u'a'g'e' 'o'f' 't'h'e' 'u'n'i'o'n'?'
-'t'w'e'e'n' 'i'n' 'o'r'd'e'r' 't'o' 'a't't'e'n'd' 't'h'e' 'o't'h'e'r'
-'('a')' '3'4'1' '('b')' '3'4'2'
-'H'o'u's'e'
-'('c')' '3'4'3' '('d')' '3'4'6'
-'('d')' 'W'a'l'k' 'o'u't' 'b'y' 's'o'm'e' 'P'a'r'l'i'a'm'e'n't'a'r'i'a'n's'
-'2'0'.' 'T'h'e' 'r'e'f'e'r'e'n'c'e' 't'o' 'H'i'n'd'u's' 'i'n' 'A'r't'i'c'l'e' '2'5' 'o'f'
-'i'n' 'o'r'd'e'r' 't'o' 'b'o'y'c'o't't' 't'h'e' 'p'r'o'c'e'e'd'i'n'g's' 'o'f'
-'t'h'e' 'C'o'n's't'i't'u't'i'o'n' 'd'o'e's' 'n'o't' 'i'n'c'l'u'd'e'
-'t'h'e' 'H'o'u's'e'
-'('a')' 'B'u'd'd'h'i's't's' '('b')' 'J'a'i'n's'
-'('e')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('c')' 'P'a'r's'e'e's' '('d')' 'S'i'k'h's'
-'2'8'.' 'A'n' 'o'r'd'i'n'a'n'c'e' 'p'r'o'm'u'l'g'a't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'-'
-'2'1'.' 'T'h'e' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' 'u's'e's' 'h'i's' 'v'o't'e' 'i'n'
-'d'e'n't'
-'c'a's'e' 'o'f'
-'('a')' 'w'i'l'l' 'l'a'p's'e' 'a'u't'o'm'a't'i'c'a'l'l'y' 'a'f't'e'r' '2'
-'('a')' 'a' 't'i'e',' 'w'h'e'n' 'v'o't'e's' 'a'r'e' 'e'q'u'a'l'l'y' 'd'i'v'i'd'e'd'
-'m'o'n't'h's'
-'('b')' 'a'm'e'n'd'm'e'n't' 'o'f' 'C'o'n's't'i't'u't'i'o'n'
-'('b')' 'w'i'l'l' 'l'a'p's'e' 'o'n' 't'h'e' 'e'x'p'i'r'a't'i'o'n' 'o'f' '6' 'w'e'e'k's'
-'('c')' 'e'm'e'r'g'e'n'c'y'
-'f'r'o'm' 't'h'e' 'm'e'e't'i'n'g' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'i'n' 'n'o' 'c'a's'e'
-'2'2'.' 'S'e'a't's' 'a'r'e' 'a'l'l'o'c'a't'e'd' 't'o' 'v'a'r'i'o'u's' 'S't'a't'e's' 'i'n' 't'h'e' '('c')' 'w'i'l'l' 'a'u't'o'm'a't'i'c'a'l'l'y' 'b'e'c'o'm'e' 'a' 'l'a'w' 'a'f't'e'r'
-'L'o'k' 'S'a'b'h'a' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' '6' 'm'o'n't'h's'
-'
-'('d')' 'w'i'l'l' 'c'o'n't'i'n'u'e' 't'o' 'b'e' 'i'n' 'f'o'r'c'e' 't'i'l'l' 'i't' 'i's' 's'u'-' 'I'.' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'.'
-'p'e'r's'e'd'e'd' 'b'y' 'a'n' 'A'c't' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'.' 'I'I'.' 'F'o'r'm'e'r' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h'
-'2'9'.' 'I'n'd'i'r'a' 'S'w'a'h'n'e'y' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'a' 'c'a's'e' 'c'o'u'r't'
-'p'o'p'u'l'a'r'l'y' 'k'n'o'w'n' 'a's' 'I'I'I'.' 'O't'h'e'r' 'J'u'd'g'e's' 'o'f' 't'h'e' 'H'i'g'h' 'c'o'u'r't'
-'('a')' 'M'a'n'd'a'l' 'j'u'd'g'm'e'n't' 'I'V'.' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'S't'a't'e' 'c'o'n'c'e'r'n'e'd'
-'('b')' 'A'y'o'd'h'y'a' 'j'u'd'g'm'e'n't' '('a')' 'I' 'a'n'd' 'I'I'I' '('b')' 'I'I' 'a'n'd' 'I'I'I'
-'('c')' 'S'u'i'c'i'd'a'l' 'j'u'd'g'm'e'n't' '('c')' 'I' 'a'n'd' 'I'V' '('d')' 'I',' 'I'I'I' 'a'n'd' 'I'V'
-'('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'j'u'd'g'm'e'n't' '3'7'.' 'T'h'e' 'A'd'v'i's'o'r'y' 'o'p'i'n'i'o'n' 't'e'n'd'e'r'e'd' 'b'y' 't'h'e' 'S'u'-'
-'3'0'.' 'T'h'e' 's't'a't'u's' 'o'f' 'a' 'r'e'c'o'g'n'i'z'e'd' 'O'p'p'o's'i't'i'o'n' 'p'a'r'-' 'p'r'e'm'e' 'C'o'u'r't'
-'t'y' 'i'n' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i's' 's'e'c'u'r'e'd' 'o'n'l'y' 'w'h'e'n' '('a')' 'i's' 'n'o't' 'm'a'd'e' 'p'u'b'l'i'c' 'a't' 'a'l'l'
-'t'h'e' 'p'e'r'c'e'n't'a'g'e' 'o'f' 't'h'e' 't'o't'a'l' 's'e'a't's' 'i'n' 't'h'e' 'L'o'k' '('b')' 'i's' 'b'i'n'd'i'n'g' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n'l'y' 'i'f' 'i't' 'i's'
-'S'a'b'h'a' 'w'o'n' 'b'y' 't'h'e' 'p'o'l'i't'i'c'a'l' 'p'a'r't'y' 'i's' 'u'n'a'n'i'm'o'u's'l'y' 'm'a'd'e'
-'('a')' '5' '('b')' '8' '('c')' 'i's' 'b'i'n'd'i'n'g' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('c')' '1'0' '('d')' '1'5' '('d')' 'i's' 'n'o't' 'b'i'n'd'i'n'g' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't'
-'3'1'.' 'T'h'e' 'w'r'i't' 'o'f' 'C'e'r't'i'o'r'a'r'i' 'i's' 'i's's'u'e'd' 'b'y' 'a' 'S'u'p'e'-' '3'8'.' 'T'h'e' 'p'h'r'a's'e' '‘'b'i'c'a'm'e'r'a'l' 'l'e'g'i's'l'a't'u'r'e'’' 'm'e'a'n's'
-'r'i'o'r' 'C'o'u'r't' '('a')' 'P'a'r'l'i'a'm'e'n't'a'r'y' 's'y's't'e'm' 'o'f' 'G'o'v'e'r'n'm'e'n't'
-'('a')' 't'o' 'a'n' 'i'n'f'e'r'i'o'r' 'c'o'u'r't' 't'o' 't'r'a'n's'f'e'r' 't'h'e' 'r'e'-' '('b')' 'a' 'l'e'g'i's'l'a't'u'r'e' 'c'o'n's'i's't'i'n'g' 'o'f' 'l'o'w'e'r' 'a'n'd'
-'c'o'r'd' 'o'f' 'c'a's'e' 'f'o'r' 'r'e'v'i'e'w' 'a'n' 'u'p'p'e'r' 'c'h'a'm'b'e'r'
-'('b')' 't'o' 'a' 'p'u'b'l'i'c' 'a'u't'h'o'r'i't'y' 't'o' 'p'r'o'd'u'c'e' 'a' 'p'e'r'-' '('c')' 'a' 's'i'n'g'l'e' 'a's's'e'm'b'l'y'
-'s'o'n' 'd'e't'a'i'n'e'd' 'b'y' 'i't' 'b'e'f'o'r'e' 't'h'e' 'c'o'u'r't' '('d')' 'a'n' 'e'l'e'c't'e'd' 'l'e'g'i's'l'a't'u'r'e'
-'w'i't'h'i'n' '2'4' 'h'o'u'r's' '3'9'.' 'T'h'e' 'L'e'g'i's'l'a't'i'v'e' 'C'o'u'n'c'i'l' 'i's' 'e'x'p'e'c't'e'd' 't'o'
-'('c')' 't'o' 'a'n' 'i'n'f'e'r'i'o'r' 'c'o'u'r't' 't'o' 's't'o'p' 'f'u'r't'h'e'r' 'p'r'o'-' 'h'a'v'e' 'a' 's't'r'e'n'g't'h' 'e'q'u'a'l' 't'o' 'o'n'e' 't'h'i'r'd' 'o'f' 't'h'e'
-'c'e'e'd'i'n'g' 'o'f' 'c'a's'e' 'm'e'm'b'e'r's'h'i'p' 'o'f' 't'h'e' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'y'.'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'T'h'e' 'm'i'n'i'm'u'm' 's't'r'e'n'g't'h' 'o'f' 't'h'e' 'C'o'u'n'c'i'l' 'h'a's'
-'3'2'.' 'W'h'o' 'd'e'c'i'd'e's' 't'h'e' 'd'i's'p'u't'e's' 'r'e'g'a'r'd'i'n'g' 'e'l'e'c'-' 't'o' 'b'e'
-'t'i'o'n' 'o'f' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'?' '('a')' '5'0' '('b')' '4'0'
-'('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('c')' '1'0'0' '('d')' '3'0'
-'('b')' 'H'i'g'h' 'C'o'u'r't' '4'0'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'd'o'e's' 'n'o't' 't'a'k'e'
-'('c')' 'P'a'r'l'i'a'm'e'n't' 'p'a'r't' 'i'n' 't'h'e' 'e'l'e'c't'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'?'
-'('d')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'r' 'H'i'g'h' 'C'o'u'r't's' '('a')' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'3'3'.' 'I'n' 'I'n'd'i'a' 't'h'e'r'e' 'a'r'e' '('b')' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'l'e'g'i's'l'a't'i'v'e' 'c'o'u'n'c'i'l's'
-'('a')' '3' 't'y'p'e's' 'o'f' 'e'm'e'r'g'e'n'c'i'e's' 'i'n' 'C'o'n's't'i't'u'-' '('c')' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a'
-'t'i'o'n' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' '4' 't'y'p'e's' 'o'f' 'e'm'e'r'g'e'n'c'i'e's' 'i'n' 'C'o'n's't'i't'u'-' '4'1'.' 'W'h'e'n' 't'h'e' 'o'f'f'i' 'c'e's' 'o'f' 'b'o't'h' 't'h'e' 'P'r'e's'i'd'e'n't' 'a'n'd'
-'t'i'o'n' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'a'r'e' 'v'a'c'a'n't',' 't'h'e'n'
-'('c')' '6' 't'y'p'e's' 'o'f' 'e'm'e'r'g'e'n'c'i'e's' 'i'n' 'C'o'n's't'i't'u'-' 't'h'e'i'r' 'f'u'n'c't'i'o'n' 'w'i'l'l' 'b'e' 'd'i's'c'h'a'r'g'e'd' 'b'y'
-'t'i'o'n' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('d')' '1'2' 't'y'p'e's' 'o'f' 'e'm'e'r'g'e'n'c'i'e's' 'i'n' 'C'o'n's't'i't'u'-' '('b')' 'H'o'm'e' 'M'i'n'i's't'e'r'
-'t'i'o'n' '('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'3'4'.' 'I'n' 'c'a's'e' 't'h'e' 'o'f'f'i' 'c'e' 'o'f' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('d')' 'S'p'e'a'k'e'r'
-'f'a'l'l's' 'v'a'c'a'n't' 't'h'e' 's'a'm'e' 'm'u's't' 'b'e' 'f'i' 'l'l'e'd' 'w'i't'h'i'n' '4'2'.' 'T'h'e' 'a'p'p'e'l'l'a't'e' 'j'u'r'i's'd'i'c't'i'o'n' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't'
-'_'_'_'_'_'_'_'_'_'_' 'i'n' 'I'n'd'i'a' 'i's'
-'('a')' '1' 'y'e'a'r' '('b')' '1'8' 'm'o'n't'h's' '('a')' 'c'i'v'i'l'
-'('c')' '3' 'm'o'n't'h's' '('d')' '6' 'm'o'n't'h's' '('b')' 'c'r'i'm'i'n'a'l'
-'3'5'.' 'A' 'N'a't'i'o'n'a'l' 'E'm'e'r'g'e'n'c'y' 'i'n' 'I'n'd'i'a' 'r'e'm'a'i'n's' 'i'n' '('c')' 'b'o't'h' 'c'i'v'i'l' 'a'n'd' 'c'r'i'm'i'n'a'l'
-'o'p'e'r'a't'i'o'n',' 'w'i't'h' 't'h'e' 'a'p'p'r'o'v'a'l' 'o'f' 'P'a'r'l'i'a'm'e'n't' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'f'o'r' '4'3'.' '_'_'_'_'_'_'_'_'_'_' 'i's' 'a'n' 'o'r'd'e'r' 'o'f' 'a' 'C'o'u'r't' 't'o' 'a'
-'('a')' 'm'a'x'i'm'u'm' 'o'f' '1' 'y'e'a'r' 'p'e'r's'o'n' 't'o' 'a'p'p'e'a'r' 'b'e'f'o'r'e' 'i't'
-'('b')' 'i'n'd'e'f'i' 'n'i't'e' 'p'e'r'i'o'd' '('a')' 'W'a'r'r'a'n't' '('b')' 'S'u'b'p'o'e'n'a'
-'('c')' 'm'a'x'i'm'u'm' 'o'f' '2' 'y'e'a'r's' '('c')' 'C'a'l'l' '('d')' 'R'e'm'a'n'd'
-'('d')' 'm'a'x'i'm'u'm' 'o'f' '4' 'y'e'a'r's' '4'4'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'w'r'i't's' 'i's' 'a' 'b'u'l'-'
-'3'6'.' 'T'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't' 'i's' 'a'p'-' 'w'a'r'k' 'o'f' 'p'e'r's'o'n'a'l' 'f'r'e'e'd'o'm's'?'
-'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' '('a')' 'M'a'n'd'a'm'u's' '('b')' 'H'a'b'e'a's' 'C'o'r'p'u's'
-'w'i't'h' '('c')' 'Q'u'o' 'W'a'r'r'a'n't'o' '('d')' 'C'e'r't'i'o'r'a'r'i'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'9'5'
-'4'5'.' 'S'o'n'a'l'i' 'K'a'p'o'o'r' 'i's' 'a' 's'c'h'o'o'l' 't'e'a'c'h'e'r'.' 'T'h'e' '5'2'.' 'W'h'o' 'h'a's' 'd'e's'i'g'n'e'd' 't'h'e' 'l'a'y'o'u't' 'o'f' 'I'n'd'i'a'n'
-'m'a'n'a'g'e'm'e'n't' 'o'f' 't'h'e' 's'c'h'o'o'l' 't'e'r'm'i'n'a't'e's' 'h'e'r' 'C'o'n's't'i't'u't'i'o'n'?'
-'w'i't'h'o'u't' 'g'i'v'i'n'g' 'h'e'r' 'a' 's'h'o'w' 'c'a'u's'e' 'n'o't'i'c'e'.' '('a')' 'N'a'n'd'l'a'l' 'B'o's'e'
-'S'h'e' 'f'i' 'l'e's' 'a' 'w'r'i't' 'p'e't'i't'i'o'n' 'b'e'f'o'r'e' 't'h'e' 'H'i'g'h' '('b')' 'J'a'm'i'n'i' 'R'o'y'
-'C'o'u'r't'.' 'M'o's't' 'l'i'k'e'l'y' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'm'a'y' 's'e't' '('c')' 'K'.' 'C'.' 'S'.' 'P'a'n'i'c'k'e'r'
-'a's'i'd'e' 't'h'e' 't'e'r'm'i'n'a't'i'o'n' 'b'y' 'i's's'u'i'n'g' 'w'r'i't' 'i'n' 't'h'e' '('d')' 'R'a'b'i'n'd'r'a' 'N'a't'h' 'T'a'g'o'r'e'
-'n'a't'u'r'e' 'o'f' '5'3'.' 'S'u'b'h'a's'h' 'C'h'a'n'd'r'a' 'B'o's'e',' 'e's't'a'b'l'i's'h'e'd' 'G'o'v'-'
-'('a')' 'M'a'n'd'a'm'u's' '('b')' 'C'e'r't'i'o'r'a'r'i' 'e'r'n'm'e'n't' 'o'f' 'F'r'e'e' 'I'n'd'i'a' 'b'e'f'o'r'e' 'I'n'd'e'p'e'n'-'
-'('c')' 'Q'u'o' 'W'a'r'r'a'n't'o' '('d')' 'P'r'o'h'i'b'i't'i'o'n' 'd'e'n'c'e' 'o'f' 'I'n'd'i'a' 'i'n'
-'4'6'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 't'r'u'e' 'a'b'o'u't' '('a')' 'H'o'n'g' 'K'o'n'g' '('b')' 'J'a'p'a'n'
-'t'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'?' '('c')' 'S'i'n'g'a'p'o'r'e' '('d')' 'R'a'n'g'o'o'n'
-'('a')' 'I't' 'h'a's' 'o'n'l'y' 't'h'e' 'A'p'p'e'l'l'a't'e' 'J'u'r'i's'd'i'c't'i'o'n' '5'4'.' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'h'a's' 'p'o's'i't'i'o'n' 's'i'm'i'l'a'r' 't'o'
-'('b')' 'I't' 'i's' 't'h'e' 'h'i'g'h'e's't' 'f'e'd'e'r'a'l' 'c'o'u'r't' 'o'f' 'I'n'd'i'a' '('a')' 'G'e'r'm'a'n' 'C'h'a'n'c'e'l'l'o'r'
-'('c')' 'I't' 'd'o'e's' 'n'o't' 'h'a'v'e' 't'h'e' 'O'r'i'g'i'n'a'l' 'J'u'r'i's'd'i'c'-' '('b')' 'A'm'e'r'i'c'a'n' 'P'r'e's'i'd'e'n't'
-'t'i'o'n' '('c')' 'B'r'i't'i's'h' 'Q'u'e'e'n'
-'('d')' 'I't' 'c'a'n' 'a'm'e'n'd' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' '('d')' 'J'a'p'a'n'e's'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'4'7'.' 'W'h'a't' 'i's' 'm'e'a'n't' 'b'y' 'a' '‘'C'o'u'r't' 'o'f' 'R'e'c'o'r'd'’'?'
-'5'5'.' 'T'h'e' 'c'o'n'c'e'p't' 'o'f' 'P'u'b'l'i'c' 'I'n't'e'r'e's't' 'L'i't'i'g'a't'i'o'n'
-'('a')' 'T'h'e' 'c'o'u'r't' 't'h'a't' 'p'r'e's'e'r'v'e's' 'a'l'l' 'i't's' 'r'e'-'
-'w'h'i'c'h' 'h'a's' 'b'e'c'o'm'e' 'q'u'i't'e' 'p'o'p'u'l'a'r' 'i'n' 'I'n'd'i'a'
-'c'o'r'd's'
-'o'r'i'g'i'n'a't'e'd' 'i'n'
-'('b')' 'T'h'e' 'c'o'u'r't' 't'h'a't' 'm'a'i'n't'a'i'n's' 'r'e'c'o'r'd's' 'o'f' 'a'l'l'
-'('a')' 'U'S'A' '('b')' 'A'u's't'r'a'l'i'a'
-'l'o'w'e'r' 'c'o'u'r't's'
-'('c')' 'C'a'n'a'd'a' '('d')' 'U'K'
-'('c')' 'T'h'e' 'c'o'u'r't' 't'h'a't' 'c'a'n' 'p'u'n'i's'h' 'f'o'r' 'i't's' 'c'o'n'-'
-'5'6'.' 'A' 'm'a'i'n' 'c'h'a'r'a'c't'e'r'i's't'i'c' 'o'f' 't'h'e' 'c'a'b'i'n'e't' 's'y's'-'
-'c'e'p't'
-'t'e'm' 'i's'
-'('d')' 'T'h'e' 'c'o'u'r't' 't'h'a't' 'i's' 'c'o'm'p'e't'e'n't' 't'o' 'g'i'v'e' 'd'i'-'
-'('a')' 'l'e'a'd'e'r's'h'i'p' 'o'f' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'r'e'c't'i'o'n's'
-'('b')' 'i'n'c'l'u's'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'
-'4'8'.' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'f'u'n'c't'i'o'n' 'o'f' 't'h'e' 'S'u'p'r'e'm'e'
-'('c')' 'c'a'b'i'n'e't' 'd'e'c'i's'i'o'n's' 'a'r'e' 'n'o't' 'b'i'n'd'i'n'g' 'o'n'
-'C'o'u'r't'
-'a'l'l' 'M'i'n'i's't'e'r's'
-'('a')' 'r'e'v'i'e'w' 'i't's' 'o'w'n' 'j'u'd'g'm'e'n't'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('b')' 'r'e'v'i'e'w' 't'h'e' 'f'u'n'c't'i'o'n'i'n'g' 'o'f' 'j'u'd'i'c'i'a'r'y' 'i'n'
-'5'7'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'e'm'e'r'g'e'n'c'i'e's'
-'t'h'e' 'c'o'u'n't'r'y'
-'c'a'n' 'b'e' 'd'e'c'l'a'r'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 'h'i's'
-'('c')' 'e'x'a'm'i'n'e' 't'h'e' 'c'o'n's't'i't'u't'i'o'n'a'l' 'v'a'l'i'd'i't'y' 'o'f'
-'o'w'n'?'
-'t'h'e' 'l'a'w's'
-'('a')' 'E'm'e'r'g'e'n'c'y' 'd'u'e' 't'o' 't'h'r'e'a't' 't'o' 't'h'e' 'f'i' 'n'a'n'-'
-'('d')' 'u'n'd'e'r't'a'k'e' 'p'e'r'i'o'd'i'c' 'r'e'v'i'e'w' 'o'f' 't'h'e' 'C'o'n'-'
-'c'i'a'l' 's't'a'b'i'l'i't'y' 'o'r' 'c'r'e'd'i't' 'o'f' 'I'n'd'i'a'
-'s't'i't'u't'i'o'n'
-'('b')' 'E'm'e'r'g'e'n'c'y' 'd'u'e' 't'o' 'e'x't'e'r'n'a'l' 'a'g'g'r'e's's'i'o'n'
-'4'9'.' 'W'h'i'c'h' 'i's' 'n'o't' 'a'n' 'e'l'i'g'i'b'i'l'i't'y' 'c'r'i't'e'r'i'o'n' 'f'o'r' 'a'p'-'
-'o'r' 'i'n't'e'r'n'a'l' 'd'i's't'u'r'b'a'n'c'e's'
-'p'o'i'n't'm'e'n't' 'a's' 'a' 'J'u'd'g'e' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't'?'
-'('c')' 'E'm'e'r'g'e'n'c'y' 'd'u'e' 't'o' 'f'a'i'l'u'r'e' 'o'f' 't'h'e' 'c'o'n'-'
-'('a')' 'M'u's't' 'h'a'v'e' 'b'e'e'n' 'a' 'H'i'g'h' 'C'o'u'r't' 'J'u'd'g'e'
-'s't'i't'u't'i'o'n'a'l' 'm'a'c'h'i'n'e'r'y' 'i'n' 'a' 's't'a't'e'
-'f'o'r' 'a't' 'l'a's't' '5' 'y'e'a'r's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'M'u's't' 'h'a'v'e' 'a't't'a'i'n'e'd' 't'h'e' 'a'g'e' 'o'f' '5'5'
-'y'e'a'r's' '5'8'.' 'T'h'e' 't'e'n'u'r'e' 'o'f' 't'h'e' 'U'n'i'o'n' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's'-'
-'('c')' 'M'u's't' 'h'a'v'e' 'b'e'e'n' 'a'n' 'a'd'v'o'c'a't'e' 'o'f' 'a' 'H'i'g'h' 't'e'r's' 'i's'
-'C'o'u'r't' 'f'o'r' 'n'o't' 'l'e's's' 't'h'a'n' '1'0' 'y'e'a'r's' '('a')' 'f'i' 'v'e' 'y'e'a'r's'
-'('d')' 'M'u's't' 'b'e',' 'i'n' 't'h'e' 'o'p'i'n'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'-' '('b')' 'u'n'c'e'r't'a'i'n'
-'d'e'n't',' 'a' 'd'i's't'i'n'g'u'i's'h'e'd' 'j'u'r'i's't' '('c')' 'f'i' 'x'e'd' 'a'n'd' 'c'o'-'t'e'r'm'i'n'u's' 'w'i't'h' 't'h'e' 'P'r'e's'i'-'
-'5'0'.' 'U'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n',' 't'h'e' 'r'e's'i'd'u'a'r'y' 'd'e'n't'
-'p'o'w'e'r's' 'v'e's't' 'w'i't'h' 't'h'e' '('d')' 'c'o'-'t'e'r'm'i'n'u's' 'w'i't'h' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('a')' 'P'r'e's'i'd'e'n't' '5'9'.' 'I'n' 't'h'e' 'e'l'e'c't'i'o'n' 't'o' 't'h'e' 'p'o's't' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('a')' 'M'.'P's' 'a'n'd' 'M'.'L'.'A's' 'o'f' 'a' 'S't'a't'e' 'h'a'v'e' 't'h'e'
-'('c')' 'U'n'i'o'n' 'g'o'v'e'r'n'm'e'n't' 's'a'm'e' 'n'u'm'b'e'r' 'o'f' 'v'o't'e's'
-'('d')' 'S't'a't'e' 'g'o'v'e'r'n'm'e'n't' '('b')' 'M'.'L'.'A's' 'o'f' 'd'i'f'f'e'r'e'n't' 'S't'a't'e's' 'h'a'v'e' 'd'i'f'-'
-'5'1'.' 'I'n' 'I'n'd'i'a' 'C'o'm'm'i's's'i'o'n' 'w'h'i'c'h' 's'u'b'm'i't't'e'd' 't'h'e' 'f'e'r'e'n't' 'n'u'm'b'e'r' 'o'f' 'v'o't'e's'
-'f'i' 'r's't' 'r'e'p'o'r't' 'o'n' 'b'a'c'k'w'a'r'd' 'c'l'a's's'e's' 'w'a's' 'h'e'a'd'-' '('c')' 'E'a'c'h' 'e'l'e'c't'e'd' 'M'.'P'.' 'o'r' 'M'.'L'.'A'.' 'h'a's' 'a'n'
-'e'd' 'b'y' 'e'q'u'a'l' 'n'u'm'b'e'r' 'o'f' 'v'o't'e's'
-'('a')' 'B'.' 'P'.' 'M'a'n'd'a'l' '('b')' 'L'.' 'G'.' 'H'a'r'a'n'u'r' '('d')' 'A'l'l' 'M'.'P's' 'a'n'd' 'M'.'L'.'A's' 'h'a'v'e' 'o'n'e' 'v'o't'e'
-'('c')' 'K'a'k'a' 'K'a'l'e'k'a'r' '('d')' 'C'h'i'n'n'a'p'a' 'R'e'd'd'y' 'e'a'c'h'
-'
-'6'0'.' 'I'n' 't'h'e' 'e'l'e'c't'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' '('b')' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n',' 'P'l'a'n'n'i'n'g' 'c'o'm'm'i's'-'
-'('a')' 'p'a'r'i't'y' 'b'e't'w'e'e'n' 't'h'e' 'C'e'n't'r'e' 'a'n'd' 't'h'e' 's'i'o'n'
-'S't'a't'e's' 'h'a's' 'b'e'e'n' 'm'a'i'n't'a'i'n'e'd' '('c')' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 'a' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'y'
-'('b')' 't'h'e' 'S't'a't'e's' 'a'r'e' 'g'i'v'e'n' 'g'r'e'a't'e'r' 'w'e'i'g'h't'-' '6'9'.' 'W'h'i'c'h' 'i's' 't'r'u'e' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f'
-'a'g'e' 'I'n'd'i'a'?'
-'('c')' 't'h'e' 'C'e'n't'r'e' 'e'n'j'o'y's' 'g'r'e'a't'e'r' 'w'e'i'g'h't'a'g'e' 'I'.' 'H'e' 'i's' 't'h'e' 'C'h'i'e'f' 'E'x'e'c'u't'i'v'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'I'I'.' 'H'e' 'i's' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'm'm'a'n'd'e'r' 'o'f' 't'h'e'
-'6'1'.' 'U'n'd'e'r' 'w'h'i'c'h' 'A'r't'i'c'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'a'r'm'e'd' 'f'o'r'c'e's'
-'o'f' 'I'n'd'i'a' 'h'a's' 't'h'e' 'u'n't'o'u'c'h'a'b'i'l'i't'y' 'b'e'e'n' 'a'b'o'l'-' 'I'I'I'.' 'H'e' 'i's' 't'h'e' 't'i't'u'l'a'r' 'h'e'a'd' 'o'f' 't'h'e' 'S't'a't'e'
-'i's'h'e'd' 'a'n'd' 'i't's' 'p'r'a'c't'i'c'e' 'p'r'o'h'i'b'i't'e'd'?' 'I'V'.' 'H'e' 'i's' 'p'a'r't' 'o'f' 't'h'e' 'U'n'i'o'n' 'L'e'g'i's'l'a't'u'r'e'
-'('a')' 'A'r't'i'c'l'e' '1'9' '('b')' 'A'r't'i'c'l'e' '2'1' '('a')' 'I' 'a'n'd' 'I'I'I' '('b')' 'I' 'a'n'd' 'I'I'
-'('c')' 'A'r't'i'c'l'e' '1'7' '('d')' 'A'r't'i'c'l'e' '2'0' '('c')' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' '('d')' 'I',' 'I'I',' 'I'I'I' 'a'n'd' 'I'V'
-'6'2'.' 'A'r't'i'c'l'e' '2'1' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '7'0'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'm'a'd'e' 'u's'e' 'o'f' 'h'i's'
-'g'u'a'r'a'n't'e'e's' 't'h'e' 'l'i'f'e' 'a'n'd' 'l'i'b'e'r't'y' 'o'f' 't'h'e' 'i'n'd'i'-' 'v'e't'o' 'p'o'w'e'r' 'o'n'c'e' 'i'n'
-'v'i'd'u'a'l' 'w'h'i'c'h' 'c'a'n'n'o't' 'b'e' 'd'e'p'r'i'v'e'd' 'o'f' 'e'x'c'e'p't' '('a')' 't'h'e' 'D'o'w'r'y' 'P'r'o'h'i'b'i't'i'o'n' 'B'i'l'l'
-'('b')' 't'h'e' 'I'n'd'i'a'n' 'P'o's't' 'O'f'f'i' 'c'e' '('A'm'e'n'd'm'e'n't')'
-'a'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'p'r'o'c'e'd'u'r'e' 'e's't'a'b'l'i's'h'e'd' 'b'y'
-'B'i'l'l'
-'_'_'_'_'_'
-'('c')' 't'h'e' 'H'i'n'd'u' 'C'o'd'e' 'B'i'l'l'
-'('a')' 'P'a'r'l'i'a'm'e'n't' '('b')' 'L'a'w'
-'('d')' 't'h'e' 'P'E'P'S'U' 'A'p'p'r'o'p'r'i'a't'i'o'n' 'B'i'l'l'
-'('c')' 'J'u'd'i'c'i'a'r'y' '('d')' 'P'r'e's'i'd'e'n't'
-'7'1'.' 'I'n't'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't' 'o'f' 'J'u's't'i'c'e' 'i's' 'o'n'e' 'o'f' 't'h'e'
-'6'3'.' 'T'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'i'n' 'I'n'd'i'a' 'a'r'e' 'e'n'-'
-'p'r'i'n'c'i'p'a'l' 'o'r'g'a'n's' 'o'f' 't'h'e' 'U'n'i't'e'd' 'N'a't'i'o'n's'.'
-'f'o'r'c'e'a'b'l'e' 'b'y' 't'h'e' '_'_'_'_'_'
-'T'h'e' 's't'a't'e'm'e'n't' 'i's'
-'('a')' 'P'r'e's'i'd'e'n't' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('a')' 't'r'u'e' '('b')' 'f'a'l's'e'
-'('c')' 'C'o'u'r't's' '('d')' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'p'a'r't'l'y' 't'r'u'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'6'4'.' 'T'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'g'u'a'r'a'n't'e'e'd' 'u'n'-'
-'7'2'.' 'F'r'e'e'd'o'm' 'o'f' 'm'o'v'e'm'e'n't' 'i'n' 'I'n'd'i'a' 't'h'r'o'u'g'h'o'u't'
-'d'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 't'o' 't'h'e' 'P'e'o'p'l'e' 'o'f' 'I'n'd'i'a'
-'t'h'e' 't'e'r'r'i't'o'r'y' 'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e's't'r'i'c't'e'd' 'i'n'
-'a'r'e' 'n'o't' 'a'b's'o'l'u't'e' 'b'e'c'a'u's'e' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'t'h'e' 'i'n't'e'r'e's't' 'o'f'
-'o'f' 'I'n'd'i'a' 'i'm'p'o's'e's'
-'('a')' 'g'e'n'e'r'a'l' 'p'u'b'l'i'c' 'o'r' 'f'o'r' 't'h'e' 'p'r'o't'e'c't'i'o'n' 'o'f'
-'('a')' 'r'e'a's'o'n'a'b'l'e' 'r'e's't'r'i'c't'i'o'n's' 'o'n' 't'h'e'i'r' 'u's'e'
-'t'h'e' 'i'n't'e'r'e's't' 'o'f' 'a'n'y' 'S'c'h'e'd'u'l'e'd' 'C'a's't'e's'
-'('b')' 'a'r'b'i't'r'a'r'y' 'l'i'm'i't'a't'i'o'n's' 'o'n' 't'h'e'i'r' 'u's'e'
-'a'n'd' 'S'c'h'e'd'u'l'e'd' 'T'r'i'b'e's'
-'('c')' 'p'a'r'l'i'a'm'e'n't'a'r'y' 'c'h'e'c'k's' 'o'n' 't'h'e'm'
-'('b')' 'p'r'o't'e'c't'i'o'n' 'o'f' 'c'o'w's' 'a'n'd' 'b'i'r'd's'
-'('d')' 's't'a't'u't'o'r'y' 'r'e's't'r'i'c't'i'o'n's' 'o'n' 't'h'e'm'
-'('c')' 'p'u'b'l'i'c' 'm'o'r'a'l'i't'y',' 'o'r'd'e'r' 'a'n'd' 'p'u'b'l'i'c' 'i'n'-'
-'6'5'.' 'T'h'e' 'e's's'e'n't'i'a'l' 'f'r'e'e'd'o'm's' 'e'n'j'o'y'e'd' 'b'y' 't'h'e'
-'t'e'r'e's't'
-'P'e'o'p'l'e' 'o'f' 'I'n'd'i'a' 'a'r'e' 'c'a'l'l'e'd' 't'h'e' 'F'u'n'd'a'm'e'n'-'
-'('d')' 's'o'v'e'r'e'i'g'n't'y' 'a'n'd' 'i'n't'e'g'r'i't'y' 'o'f' 'I'n'd'i'a' 'a'n'd'
-'t'a'l' 'R'i'g'h't's' 'w'h'i'c'h' 'a'r'e' 'e'n's'h'r'i'n'e'd' 'i'n'
-'w'i'l'd' 'l'i'f'e'
-'('a')' 'P'a'r't' 'V' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'7'3'.' 'T'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n'
-'('b')' 'P'a'r't' 'I'V' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('a')' 'r'e'c'o'g'n'i'z'e's' '‘'n'a't'u'r'a'l' 'r'i'g'h't's'’' 'b'u't' 'd'o'e's'
-'('c')' 'P'a'r't' 'I' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'n'o't' 'e'm'b'o'd'y' 'i't'
-'('d')' 'P'a'r't' 'I'I'I' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('b')' 'l'e'a'v'e's' 'n'o' 's'c'o'p'e' 'f'o'r' 'n'a't'u'r'a'l' 'r'i'g'h't's' 'b'e'-'
-'6'6'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'a'n'd' 'm'e'm'b'e'r's' 'o'f' 'S't'a't'e' 'P'u'b'-'
-'c'a'u's'e' 'i't' 'e'n'u'm'e'r'a't'e's' 't'h'e' 'F'u'n'd'a'm'e'n't'a'l'
-'l'i'c' 'S'e'r'v'i'c'e' 'C'o'm'm'i's's'i'o'n' 'a'r'e' 'a'p'p'o'i'n't'e'd' 'b'y' 'R'i'g'h't's' 'e'x'h'a'u's't'i'v'e'l'y'
-'t'h'e' '('c')' 'i's' 'f'l' 'e'x'i'b'l'e' 'a'b'o'u't' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's'
-'('a')' 'P'r'e's'i'd'e'n't' 'a'n'd' 'D'u't'i'e's'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('d')' 's'a'y's' 't'h'a't' 't'h'e' 'J'u'd'i'c'i'a'r'y' 'w'i'l'l' 'd'e'c'i'd'e' 't'h'e'
-'('c')' 'G'o'v'e'r'n'o'r' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'b'a's'e'd' 'o'n' 'n'a't'u'r'a'l'
-'('d')' 'C'h'a'i'r'm'a'n',' 'U'P'S'C' 'j'u's't'i'c'e'
-'6'7'.' 'T'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'c'a'n' 'b'e' 'd'i's's'o'l'v'e'd' 'b'y' '7'4'.' 'T'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' 'a's' 'p'e'r' 'C'o'n's't'i't'u'-'
-'('a')' 'L'o'k' 'S'a'b'h'a' 't'i'o'n' 'o'f' 'I'n'd'i'a' 'a'r'e'
-'('b')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't' '('a')' 'n'o't' 'j'u's't'i'c'i'a'b'l'e'
-'('c')' 'P'r'e's'i'd'e'n't' '('b')' 'j'u's't'i'c'i'a'b'l'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '('c')' 'd'e'p'e'n'd'e'n't' 'o'n' 't'h'e' 'l'a'w' 'm'a'd'e' 'b'y' 't'h'e'
-'6'8'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'e' 'a'p'p'o'i'n't'e'd' 'S't'a't'e'
-'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'?' '('d')' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'a't' 'a'l'l' 'a'n'd' 'i't' 'd'e'p'e'n'd's'
-'('a')' 'C'h'a'i'r'm'a'n',' 'f'i' 'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n' 'o'n' 't'h'e' 'c'o'u'r't' 'i'n' 'e'a'c'h' 'c'a's'e'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'9'7'
-'7'5'.' 'W'h'e'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'h'a's' 't'o' 'r'e's'i'g'n',' '('a')' 'R'i'g'h't' 't'o' 'P'r'o'p'e'r't'y'
-'h'e' 'h'a's' 't'o' 'a'd'd'r'e's's' 'h'i's' 'r'e's'i'g'n'a't'i'o'n' 'l'e't't'e'r' 't'o' '('b')' 'R'i'g'h't' 't'o' 'E'q'u'a'l'i't'y'
-'('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('c')' 'R'i'g'h't' 't'o' 'F'r'e'e'd'o'm'
-'('b')' 'S'p'e'a'k'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'V'i'c'e'-'P'r'e's'i'd'e'n't' '8'5'.' 'R'e's'e'r'v'a't'i'o'n' 'o'f' 's'e'a't's' 'f'o'r' 'S'c'h'e'd'u'l'e'd' 'C'a's't'e's'
-'('d')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'S'c'h'e'd'u'l'e'd' 'T'r'i'b'e's' 'i'n' 't'h'e' 'H'o'u's'e' 'o'f' 'P'e'o'-'
-'7'6'.' 'T'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'o'f' 'I'n'd'i'a' 't'o'o'k' 'p'l'e' 'h'a's' 'b'e'e'n' 'p'r'o'v'i'd'e'd' 'f'o'r' 'i'n' 't'h'e' 'C'o'n's't'i't'u'-'
-'a'l'l' 'd'e'c'i's'i'o'n's' 'b'y' 't'i'o'n' 'o'f' 'I'n'd'i'a' 'u'n'd'e'r' 'A'r't'i'c'l'e'
-'('a')' 'c'o'n's'e'n's'u's' '('a')' '3'3'0' '('b')' '3'3'1'
-'('b')' 's'i'm'p'l'e' 'm'a'j'o'r'i't'y' '('c')' '3'3'2' '('d')' '3'3'3'
-'('c')' 't'w'o'-'t'h'i'r'd's' 'm'a'j'o'r'i't'y' '8'6'.' 'W'h'e'n' 'a' 'b'i'l'l' 'p'a's's'e'd' 'b'y' 'P'a'r'l'i'a'm'e'n't' 'i's' 's'e'n't' 't'o'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e' 'm'e't'h'o'd's' 't'h'e' 'P'r'e's'i'd'e'n't' 'f'o'r' 'h'i's' 'a's's'e'n't',' 'w'h'i'c'h' 'o'p't'i'o'n'
-'7'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a'n' 'b'e' 'a'b'o'l'i's'h'e'd',' 'i's' 'n'o't' 't'r'u'e' 't'o' 'h'i'm'?'
-'b'u't' 'n'o't' 'd'i's's'o'l'v'e'd'?' '('a')' 'H'e' 'm'a'y' 's'i'g'n' 'i't'
-'('a')' 'R'a'j'y'a' 'S'a'b'h'a' '('b')' 'H'e' 'm'a'y' 'd'e'c'l'i'n'e' 't'o' 's'i'g'n' 'i't'
-'('b')' 'M'u'n'i'c'i'p'a'l' 'B'o'd'i'e's' '('c')' 'H'e' 'm'a'y' 'r'e't'u'r'n' 'i't' 't'o' 'P'a'r'l'i'a'm'e'n't' 'f'o'r' 'r'e'-'
-'('c')' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'C'o'u'n'c'i'l'
-'c'o'n's'i'd'e'r'a't'i'o'n'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'H'e' 'm'a'y' 'a'm'e'n'd' 'i't'
-'7'8'.' 'H'o'w' 'm'a'n'y' 't'i'm'e's' 'c'a'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'-'
-'8'7'.' 'W'h'o' 'p'r'e's'i'd'e's' 'o'v'e'r' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i'f' 'n'e'i'-'
-'d'i'a' 'r'e't'u'r'n' 'a' 'n'o'n'-'m'o'n'e'y' 'B'i'l'l',' 'p'a's's'e'd' 'b'y'
-'t'h'e'r' 't'h'e' 'S'p'e'a'k'e'r' 'n'o'r' 't'h'e' 'D'e'p'u't'y' 'S'p'e'a'k'e'r'
-'p'a'r'l'i'a'm'e'n't'?'
-'i's' 'a'v'a'i'l'a'b'l'e'?'
-'('a')' 'T'w'i'c'e' '('b')' 'O'n'c'e'
-'('a')' 'A' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'H'o'u's'e' 'o'f' 'P'e'o'p'l'e' 'a'p'-'
-'('c')' 'T'h'r'i'c'e' '('d')' 'N'e'v'e'r'
-'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'7'9'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e's' 'd'o'e's' 'n'o't'
-'('b')' 'A' 'm'e'm'b'e'r' 'c'h'o's'e'n' 'b'y' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'-'
-'h'a'v'e' 'a' 'b'i'c'a'm'e'r'a'l' 'l'e'g'i's'l'a't'u'r'e'?'
-'i's't'e'r's'
-'('a')' 'B'i'h'a'r' '('b')' 'K'a'r'n'a't'a'k'a'
-'('c')' 'T'h'e' 's'e'n'i'o'r' 'm'o's't' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'R'a'j'y'a'
-'('c')' 'R'a'j'a's't'h'a'n' '('d')' 'M'a'h'a'r'a's'h't'r'a'
-'S'a'b'h'a'
-'8'0'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'd'o'e's' 'n'o't' 'm'e'n'-'
-'('d')' 'T'h'e' 's'e'n'i'o'r' 'm'o's't' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'L'o'k'
-'t'i'o'n' 't'h'e' 'p'o's't' 'o'f'
-'S'a'b'h'a'
-'('a')' 't'h'e' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'R'a'j'y'a'
-'8'8'.' 'D'i's'p'u't'e's' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'e'l'e'c't'i'o'n' 'o'f' 't'h'e'
-'S'a'b'h'a'
-'V'i'c'e'-'P'r'e's'i'd'e'n't' 'a'r'e' 'd'e'c'i'd'e'd' 'b'y'
-'('b')' 't'h'e' 'D'e'p'u't'y' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('a')' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('c')' 't'h'e' 'D'e'p'u't'y' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('b')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 't'h'e' 'D'e'p'u't'y' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'S't'a't'e' 'L'e'g'-'
-'('c')' 't'h'e' 'S'p'e'a'k'e'r'
-'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's'
-'('d')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'8'1'.' 'T'o' 'b'e' 'a'p'p'o'i'n't'e'd' 'a' 'j'u'd'g'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e'
-'8'9'.' 'I'n'd'i'a' 'i's' 'a' 's'e'c'u'l'a'r' 'S't'a't'e' 'b'e'c'a'u's'e'
-'C'o'u'r't' 'o'f' 'I'n'd'i'a',' 'a' 'p'e'r's'o'n' 's'h'o'u'l'd' 'h'a'v'e' 'b'e'e'n'
-'('a')' 's't'a't'e' 'h'a's' 'n'o' 'r'e'l'i'g'i'o'n' 'o'f' 'i't's' 'o'w'n'
-'a'n' 'a'd'v'o'c'a't'e' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't' 'f'o'r' 'a't' 'l'e'a's't'
-'('b')' 'a'l'l' 'r'e'l'i'g'i'o'n's' 'a'r'e' 'e'q'u'a'l'l'y' 'p'r'o't'e'c't'e'd'
-'('a')' '1'0' 'y'e'a'r's' '('b')' '1'2' 'y'e'a'r's'
-'('c')' 't'h'e'r'e' 'w'i'l'l' 'b'e' 'n'o' 'd'i's'c'r'i'm'i'n'a't'i'o'n' 'o'n'
-'('c')' '1'3' 'y'e'a'r's' '('d')' '1'5' 'y'e'a'r's'
-'g'r'o'u'n'd's' 'o'f' 'r'e'l'i'g'i'o'n' 'o'r' 'c'a's't'e'
-'8'2'.' 'I'n'd'i'a' 'i's' 'f'e'd'e'r'a'l',' 'b'e'c'a'u's'e' 'i't' 'h'a's'
-'('a')' 'a' 'b'i'c'a'm'e'r'a'l' 'l'e'g'i's'l'a't'u'r'e' 'a't' 't'h'e' 'c'e'n't'r'e' '('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('b')' 'a'n' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' '9'0'.' 'T'h'e' 'a'd'm'i'n'i's't'r'a't'o'r's' 'o'f' 'U'n'i'o'n' 'T'e'r'r'i't'o'r'i'e's'
-'('c')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'a'n'd' 'H'i'g'h' 'C'o'u'r't' 'a'r'e' 'd'e's'i'g'n'a't'e'd' 'a's'
-'('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd' 'C'h'i'e'f' 'M'i'n'i's't'e'r' '('a')' 'A'd'm'i'n'i's't'r'a't'o'r's'
-'8'3'.' 'P'r'o'v'i's'i'o'n' 'f'o'r' 'e'q'u'a'l' 'j'u's't'i'c'e' 'a'n'd' 'f'r'e'e' 'l'e'g'a'l' '('b')' 'L'i'e'u't'e'n'a'n't' 'G'o'v'e'r'n'o'r'
-'a'i'd' 'w'a's' 'a'd'd'e'd' 't'o' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '('c')' 'C'h'i'e'f' 'C'o'm'm'i's's'i'o'n'e'r's'
-'b'y' '('d')' 'A'l'l' 't'h'e's'e'
-'('a')' '4'2'n'd' 'A'm'e'n'd'm'e'n't' '9'1'.' 'T'h'e' '…'…'…' 'd'e'c'i'd'e'd' 'i'n' 'M'a'y' '1'9'4'9' 't'h'a't' 'I'n'-'
-'('b')' '4'4't'h' 'A'm'e'n'd'm'e'n't' 'd'i'a' 's'h'o'u'l'd' 'b'e'c'o'm'e' 'a' 'R'e'p'u'b'l'i'c'
-'('c')' '4'1's't' 'A'm'e'n'd'm'e'n't' '('a')' 'U'n'i'o'n' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'8'4'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'F'u'n'd'a'-' '('c')' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'o'f' 'I'n'd'i'a'
-'m'e'n't'a'l' 'R'i'g'h't' 'u'n'd'e'r' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'
-'9'2'.' 'I's' 't'h'e'r'e' 'p'r'o'v'i's'i'o'n' 'i'n' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u'-' '('a')' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'t'i'o'n' 'f'o'r' 'p'o's't' 'o'f' 'D'e'p'u't'y' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('b')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('a')' 'Y'e's' '('c')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('b')' 'N'o' '('d')' 't'h'e' 'D'e'p'u't'y' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'Y'e's',' 'd'u'r'i'n'g' 'a'n' 'e'm'e'r'g'e'n'c'y' '9'7'.' 'I'n'd'i'a' 'a'd'o'p't'e'd' 'a' 'f'e'd'e'r'a'l' 's'y's't'e'm' 'w'i't'h' 'a'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 's't'r'o'n'g' 'c'e'n't'e'r' 'f'r'o'm'
-'9'3'.' 'I'n' 'I'n'd'i'a' 'a' 'c'a'n'd'i'd'a't'e' 'i's' 'd'e'c'l'a'r'e'd' 't'o' 'b'e' 'u's'i'n'g' '('a')' 'N'e'w' 'Z'e'a'l'a'n'd' '('b')' 'A'u's't'r'a'l'i'a'
-'i'l'l'e'g'a'l' 'm'e'a'n's' 'i'n' 'e'l'e'c't'i'o'n's',' 'i'f' 'h'e' '('c')' 'U'S'A' '('d')' 'C'a'n'a'd'a'
-'I'.' 'g'i'v'e's' 'p'r'e's'e'n't's' 'e't'c'.',' 't'o' 't'h'e' 'v'o't'e'r's',' 't'o' '9'8'.' 'F'r'o'm' 'w'h'i'c'h' 'c'o'u'n't'r'y'’'s' 'C'o'n's't'i't'u't'i'o'n' 't'h'e'
-'c'a's't' 't'h'e'i'r' 'v'o't'e's' 'i'n' 'h'i's' 'f'a'v'o'u'r' 'D'i's't'r'i'b'u't'i'o'n' 'o'f' 'P'o'w'e'r's' 'b'e't'w'e'e'n' 'U'n'i'o'n'
-'I'I'.' 't'h'r'e'a't'e'n's' 't'h'e' 'v'o't'e'r's' 't'o' 'c'a's't' 't'h'e'i'r' 'v'o't'e's'
-'a'n'd' 't'h'e' 'S't'a't'e' 'h'a'v'e' 'b'e'e'n' 'b'o'r'r'o'w'e'd'?'
-'i'n' 'h'i's' 'f'a'v'o'u'r'
-'('a')' 'G'e'r'm'a'n'y' '('b')' 'B'r'i't'i's'h'
-'I'I'I'.' 'a'p'p'e'a'l's' 'f'o'r' 'v'o't'e's' 'o'n' 'g'r'o'u'n'd' 'o'f' 'h'i's'
-'('c')' 'U'S' '('d')' 'C'a'n'a'd'a'
-'o'w'n' 'r'e'l'i'g'i'o'n'
-'9'9'.' 'W'h'a't' 'i's' '‘'z'e'r'o' 'h'o'u'r'’'?'
-'I'V'.' 't'r'i'e's' 't'o' 'c'r'i't'i'c'i'z'e' 'o't'h'e'r' 'c'a'n'd'i'd'a't'e's'
-'('a')' 'W'h'e'n' 't'h'e' 'p'r'o'p'o's'a'l's' 'o'f' 't'h'e' 'o'p'p'o's'i't'i'o'n'
-'('a')' 'I',' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' 'a'r'e' 'c'o'r'r'e'c't'
-'a'r'e' 'c'o'n's'i'd'e'r'e'd'
-'('b')' 'I',' 'I'I' 'a'n'd' 'I'I'I' 'a'r'e' 'c'o'r'r'e'c't'
-'('b')' 'W'h'e'n' 'm'a't't'e'r's' 'o'f' 'u't'm'o's't' 'i'm'p'o'r't'a'n'c'e'
-'('c')' 'I',' 'I'I'I' 'a'n'd' 'I'V' 'a'r'e' 'c'o'r'r'e'c't'
-'a'r'e' 'r'a'i's'e'd'
-'('d')' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' 'a'r'e' 'c'o'r'r'e'c't'
-'('c')' 'I'n't'e'r'v'a'l' 'b'e't'w'e'e'n' 't'h'e' 'm'o'r'n'i'n'g' 'a'n'd' 'a'f'-'
-'9'4'.' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'a'
-'t'e'r'n'o'o'n' 's'e's's'i'o'n's'
-'('a')' 'C'o'n's't'i't'u't'i'o'n'a'l' 'b'o'd'y'
-'('d')' 'W'h'e'n' 'a' 'M'o'n'e'y' 'B'i'l'l' 'i's' 'i'n't'r'o'd'u'c'e'd' 'i'n'
-'('b')' 'P'o'l'i't'i'c'a'l' 'b'o'd'y'
-'t'h'e' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'Q'u'a's'i'-'J'u'd'i'c'i'a'l' 'a'n'd' 'Q'u'a's'i'-'P'o'l'i't'i'c'a'l'
-'('e')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'b'o'd'y'
-'1'0'0'.' 'I'n' 't'h'e' 'c'a's'e' 'o'f' 'a' 'c'o'n'f'l' 'i'c't' 'b'e't'w'e'e'n' 't'h'e' 'C'e'n't'r'e'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')'
-'9'5'.' 'T'h'e'r'e' 'w'a's' 'a' 'C'o'n's't'i't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't' 'i'n' 'a'n'd' 'a' 'S't'a't'e' 'i'n' 'r'e's'p'e'c't' 'o'f' 'a' 's'u'b'j'e'c't' 'i'n'c'l'u'd'e'd'
-'I'n'd'i'a' 'a'r'i's'i'n'g' 'o'u't' 'o'f' 't'h'e' 'S'h'a'h' 'B'a'n'o' 'c'a's'e'–' 'i'n' 't'h'e' 'C'o'n'c'u'r'r'e'n't' 'L'i's't'
-'M'u's'l'i'm' 'W'o'm'e'n' '('P'r'o't'e'c't'i'o'n' 'o'f' 'R'i'g'h't's')' 'o'n' '('a')' 't'h'e' 'S't'a't'e' 'L'a'w' 'p'r'e'v'a'i'l's'
-'D'i'v'o'r'c'e' 'A'c't',' '1'9'8'6' '('b')' 't'h'e' 'U'n'i'o'n' 'L'a'w' 'p'r'e'v'a'i'l's'
-'('a')' 'T'r'u'e' '('b')' 'F'a'l's'e' '('c')' 't'h'e' 'm'a't't'e'r' 'i's' 'r'e's'o'l'v'e'd' 'b'y' 't'h'e' 'S'u'p'r'e'm'e'
-'('c')' 'P'a'r't'l'y' 't'r'u'e' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'C'o'u'r't'
-'9'6'.' 'T'h'e' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'h'a's' 't'o' 'a'd'-' '('d')' 't'h'e' 'l'a'w' 'w'h'i'c'h' 'h'a'd' 'b'e'e'n' 'p'a's's'e'd' 'f'i' 'r's't'
-'d'r'e's's' 'h'i's' 'l'e't't'e'r' 'o'f' 'r'e's'i'g'n'a't'i'o'n' 't'o' 'w'o'u'l'd' 'p'r'e'v'a'i'l'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('b')' '2'.' '('c')' '3'.' '('d')' '4'.' '('c')' '5'.' '('c')' '6'.' '('d')' '7'.' '('d')' '8'.' '('a')' '9'.' '('a')' '1'0'.' '('b')'
-'1'1'.' '('b')' '1'2'.' '('d')' '1'3'.' '('a')' '1'4'.' '('a')' '1'5'.' '('d')' '1'6'.' '('b')' '1'7'.' '('a')' '1'8'.' '('c')' '1'9'.' '('c')' '2'0'.' '('c')'
-'2'1'.' '('a')' '2'2'.' '('a')' '2'3'.' '('a')' '2'4'.' '('d')' '2'5'.' '('a')' '2'6'.' '('d')' '2'7'.' '('a')' '2'8'.' '('b')' '2'9'.' '('a')' '3'0'.' '('d')'
-'3'1'.' '('c')' '3'2'.' '('a')' '3'3'.' '('a')' '3'4'.' '('d')' '3'5'.' '('a')' '3'6'.' '('d')' '3'7'.' '('d')' '3'8'.' '('b')' '3'9'.' '('b')' '4'0'.' '('b')'
-'4'1'.' '('c')' '4'2'.' '('c')' '4'3'.' '('a')' '4'4'.' '('b')' '4'5'.' '('c')' '4'6'.' '('d')' '4'7'.' '('a')' '4'8'.' '('c')' '4'9'.' '('b')' '5'0'.' '('c')'
-'5'1'.' '('a')' '5'2'.' '('b')' '5'3'.' '('c')' '5'4'.' '('b')' '5'5'.' '('a')' '5'6'.' '('d')' '5'7'.' '('d')' '5'8'.' '('d')' '5'9'.' '('b')' '6'0'.' '('a')'
-'6'1'.' '('c')' '6'2'.' '('a')' '6'3'.' '('c')' '6'4'.' '('a')' '6'5'.' '('d')' '6'6'.' '('c')' '6'7'.' '('d')' '6'8'.' '('a')' '6'9'.' '('d')' '7'0'.' '('b')'
-'7'1'.' '('a')' '7'2'.' '('c')' '7'3'.' '('b')' '7'4'.' '('b')' '7'5'.' '('c')' '7'6'.' '('a')' '7'7'.' '('c')' '7'8'.' '('b')' '7'9'.' '('c')' '8'0'.' '('b')'
-'8'1'.' '('a')' '8'2'.' '('a')' '8'3'.' '('c')' '8'4'.' '('a')' '8'5'.' '('a')' '8'6'.' '('d')' '8'7'.' '('d')' '8'8'.' '('a')' '8'9'.' '('d')' '9'0'.' '('d')'
-'9'1'.' '('c')' '9'2'.' '('b')' '9'3'.' '('b')' '9'4'.' '('a')' '9'5'.' '('a')' '9'6'.' '('d')' '9'7'.' '('d')' '9'8'.' '('d')' '9'9'.' '('c')' '1'0'0'.' '('b')'
-'
-'M'O'C'K' 'T'E'S'T'S' '2'9'9'
-'P' 'P' '8'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'P'r'i'n'c'i'p'a'l' 'l'a'i'd' 'd'o'w'n' 'i'n' 'a' 'j'u'd'g'm'e'n't' 'i's' '('a')' '5' 'y'e'a'r's' '('b')' '2' 'y'e'a'r's'
-'('a')' 'R'e's' 'j'u'd'i'c'a't'a' '('c')' '3' 'y'e'a'r's' '('d')' '6' 'y'e'a'r's'
-'('b')' 'L'a'w' '1'1'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'd'i's'q'u'a'l'-'
-'('c')' 'R'a't'i'o' 'd'e'c'i'd'e'n'd'i' 'i'f'y' 't'h'e' 'h'o'l'd'e'r's' 'o'f' 'o'f'f'i' 'c'e' 'o'f' 'p'r'o'f'i' 't' 'f'r'o'm' 'b'e'-'
-'('d')' 'O'b'i't'e'r' 'd'i'c't'a' 'i'n'g' 't'h'e' 'm'e'm'b'e'r' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'2'.' 'W'h'o' 'i's' 'a's's'o'c'i'a't'e'd' 'w'i't'h' 'D'r'a'f't'i'n'g' 'o'f' 'I'n'd'i'a'n' '('a')' '1'0'0' '('b')' '1'0'2'
-'P'e'n'a'l' 'C'o'd'e' '('c')' '1'1'0' '('d')' '1'2'0'
-'('a')' 'A'm'b'e'd'k'a'r' '1'2'.' 'D'e'c'r'e'e' 'm'e'a'n's'
-'('b')' 'S'i'r' 'W'o'o'd'r'o'o'f' 'a'n'd' 'A'm'i'r'a'l'i' '('a')' 'I'n'f'o'r'm'a'l' 'e'x'p'r'e's's'i'o'n' 'o'f' 'a'd'j'u'd'i'c'a't'i'o'n'
-'('c')' 'L'o'r'd' 'M'a'c'a'u'l'a'y' '('b')' 'F'o'r'm'a'l' 'e'x'p'r'e's's'i'o'n' 'o'f' 'a'n' 'a'd'j'u'd'i'c'a't'i'o'n'
-'('d')' 'M'u'l'l'a' 'b'u't' 's'h'a'l'l' 'n'o't' 'i'n'c'l'u'd'e' 'a'n'y' 'a'd'j'u'd'i'c'a't'i'o'n'
-'3'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 't'h'e' 'I'n'd'i'a'n' 'f'r'o'm' 'w'h'i'c'h' 'a'n' 'a'p'p'e'a'l' 'l'i'e's'
-'P'e'n'a'l' 'C'o'd'e',' 'S'e'c't'i'o'n' '('c')' 'F'o'r'm'a'l' 'e'x'p'r'e's's'i'o'n' 'o'f' 'a'd'j'u'd'i'c'a't'i'o'n'
-'('a')' '2'9'9' '('b')' '3'0'0' '('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('c')' '3'0'1' '('d')' '3'0'7' '1'3'.' 'C'o'g'n'i'z'a'b'l'e' 'o'f'f'e'n'c'e' 'h'a's' 'b'e'e'n' 'd'e'f'i' 'n'e'd' 'i'n'
-'4'.' 'M'u'r'd'e'r' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 't'h'e' 'I'n'd'i'a'n' 'P'e'n'a'l' 't'h'e' 'C'o'd'e' 'o'f' 'C'r'i'm'i'n'a'l' 'P'r'o'c'e'd'u'r'e'
-'C'o'd'e',' 'S'e'c't'i'o'n' '('a')' 'U'n'd'e'r' 'S'e'c't'i'o'n' '2'('a')'
-'('a')' '2'9'9' '('b')' '3'0'0' '('b')' 'U'n'd'e'r' 'S'e'c't'i'o'n' '2'('i')'
-'('c')' '3'0'1' '('d')' '3'0'7' '('c')' 'U'n'd'e'r' 'S'e'c't'i'o'n' '2'('c')'
-'5'.' 'T'i'm'e' 'l'i'm'i't' 'f'o'r' 'f'i' 'l'i'n'g' 'd'i'f'f'e'r'e'n't' 'k'i'n'd's' 'o'f' 's'u'i't' '('d')' 'N'o't' 'd'e'f'i' 'n'e'd'
-'i's' 'p'r'e's'c'r'i'b'e'd' 'i'n' '1'4'.' 'A' 'M'a'g'i's't'r'a't'e' 'c'a'n' 'd'i'r'e'c't' 't'h'e' 'i'n'v'e's't'i'g'a't'i'o'n'
-'('a')' 'C'P'C' '('b')' 'I'P'C' 'i'n't'o' 'a' 'c'o'g'n'i'z'a'b'l'e' 'o'f'f'e'n'c'e' 'b'y'
-'('c')' 'L'i'm'i't'a't'i'o'n' 'A'c't' '('d')' 'H'i'g'h' 'C'o'u'r't' 'R'u'l'e's' '('a')' 'A'n'y' 'P'o'l'i'c'e' 'o'f'f'i' 'c'e'r'
-'6'.' 'A' 'p'e'r's'o'n' 'w'h'o's'e' 'g'u'a'r'd'i'a'n' 'i's' 'a'p'p'o'i'n't'e'd' '('b')' 'S'u'p'e'r'i'o'r' 'P'o'l'i'c'e' 'o'f'f'i' 'c'e'r' 'u'n'd'e'r' 'S'e'c'.'3'6'
-'d'u'r'i'n'g' 'h'i's' 'm'i'n'o'r'i't'y',' 'b'e'c'o'm'e's' 'a' 'm'a'j'o'r' 'a't' 'o'f' 'C'r'.' 'P'.'C'.'
-'t'h'e' 'a'g'e' 'o'f' '_'_'_'_' 'y'e'a'r's' '('c')' 'S't'a't'i'o'n' 'H'o'u's'e' 'O'f'f'i' 'c'e'r'
-'('a')' '3'1' '('b')' '2'1' '('d')' 'C'.'B'.'I'.'
-'('c')' '2'8' '('d')' '1'8' '1'5'.' 'I'n' 'a' 'b'a'i'l'a'b'l'e' 'o'f'f'e'n'c'e',' 't'h'e' 'b'a'i'l' 'g'r'a'n't'e'd' 'a's' 'a'
-'7'.' 'W'h'e'n' 'a' 'p'e'r's'o'n' 't'o' 'b'e' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'c'o'm'-' 'm'a't't'e'r' 'o'f' 'r'i'g'h't'
-'m'i't't'i'n'g' 'a' 'c'r'i'm'i'n'a'l' 'o'f'f'e'n'c'e',' 't'h'e' 'b'u'r'd'e'n' 'o'f' '('a')' 'B'y' 't'h'e' 'c'o'u'r't'
-'p'r'o'o'f' 'i's' 'o'n' '('b')' 'B'y' 't'h'e' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r' 'a'n'd' 't'h'e' 'c'o'u'r't'
-'('a')' 'C'o'u'r't' '('b')' 'P'o'l'i'c'e' '('c')' 'B'y' 't'h'e' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r'
-'('c')' 'H'i'm's'e'l'f' '('d')' 'P'r'o's'e'c'u't'i'o'n' '('d')' 'E'i't'h'e'r' '('a')' 'o'r' '('b')'
-'8'.' '“'C'o'u'r't's' 'a'n'd' 't'h'e'i'r' 'J'u'd'g'm'e'n't's':' 'P'r'o'm'i's'e's',' '1'6'.' 'E'v'e'r'y' 's'e'n't'e'n'c'e' 'o'f' 'd'e'a't'h' 'p'a's's'e'd' 'b'y' 't'h'e'
-'R'e'q'u'i's'i't'e's' 'a'n'd' 'C'o'n's'e'q'u'e'n'c'e's'”' 'i's' 'a' 'b'o'o'k' 'C'o'u'r't' 'o'f' 'S'e's's'i'o'n's' 's'h'a'l'l' 'b'e' 's'u'b'm'i't't'e'd' 't'o' 't'h'e'
-'w'r'i't't'e'n' 'b'y' 'H'i'g'h' 'C'o'u'r't'
-'('a')' 'V'i'k'r'a'm' 'S'e't'h' '('b')' 'R'a'm' 'J'e't'h' 'M'a'l'a'n'i' '('a')' 'F'o'r' 'r'e'v'i'e'w'
-'('c')' 'A'r'u'n' 'S'h'o'u'r'i'e' '('d')' 'N'o'n'e' '('b')' 'F'o'r' 'r'e'v'i's'i'o'n'
-'9'.' 'J'u'd'g'e's' 'f'o'r' 'I'n't'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't' 'o'f' 'J'u's't'i'c'e' 'i's' '('c')' 'F'o'r' 'c'o'n'f'i' 'r'm'a't'i'o'n'
-'e'l'e'c't'e'd' 'f'o'r'…'…'y'e'a'r's' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('a')' '5' '('b')' '1'0' '1'7'.' 'W'h'e'n' 'a'n'y' 'p'e'r's'o'n' 'i's' 's'e'n't'e'n'c'e'd' 't'o' 'd'e'a't'h','
-'('c')' '9' '('d')' '6' 't'h'e' 's'e'n't'e'n'c'e' 's'h'a'l'l' 'd'i'r'e'c't' 't'h'a't' 'h'e' 'b'e'
-'1'0'.' 'W'h'a't' 'i's' 't'h'e' 't'e'n'u'r'e' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'-' '('a')' 'h'a'n'g'e'd' 't'i'l'l' 'h'e' 'i's' 'd'e'a'd'
-'t'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't' '('b')' 'h'a'n'g'e'd' 'b'y' 'n'e'c'k' 't'i'l'l' 'd'e'a't'h'
-'
-'('c')' 'h'a'n'g'e'd' 'b'y' 'n'e'c'k' '('a')' 'O'f'f'e'n'c'e' '('b')' 'B'o't'h'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '('c')' 'P'r'o's'e'c'u't'i'o'n' '('d')' 'N'o'n'e'
-'1'8'.' '“'R'o's'e's' 'i'n' 'D'e'c'e'm'b'e'r'”' 'w'a's' 'w'r'i't't'e'n' 'b'y' '2'9'.' 'I'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a's'e's' 't'h'e' 'S'u'-'
-'('a')' 'A'r'u'n' 'S'h'o'u'r'i'e' '('b')' 'M'.' 'C'.' 'C'h'a'g'l'a' 'p'r'e'm'e' 'C'o'u'r't' 'h'a's' 'h'e'l'd' 't'h'a't' 'r'i'g'h't' 't'o' 'f'a'i'r' 't'r'i'a'l'
-'('c')' 'H'.' 'R'.' 'K'h'a'n'n'a' '('d')' 'H'i'd'a'y'a't'u'l'l'a'h' 'i's' 'a' 'p'a'r't' 'o'f' 'A'r't'i'c'l'e' '2'1' 'o'f' 'C'o'n's't'i't'u't'i'o'n's' 'o'f'
-'1'9'.' 'A' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r' 'c'a'n'n'o't' 'i'n'v'e's't'i'g'a't'e' 'a' 'I'n'd'i'a'
-'_'_'_'_'_'_' 'w'i't'h'o'u't' 't'h'e' 'o'r'd'e'r's' 'o'f' 'a' 'M'a'g'i's't'r'a't'e' '('a')' 'M'o'h'a'm'm'e'd' 'A'h'm'a'd' 'K'h'a'n' 'v's' 'S'h'a'h'
-'('a')' 'N'o'n' 'b'a'i'l'a'b'l'e' 'c'a's'e' 'B'a'n'o' 'B'e'g'u'm'
-'('b')' 'B'a'i'l'a'b'l'e' 'c'a's'e' '('b')' 'J'o'g'i'n'd'e'r' 'N'a'h'a'k' 'v's' 'S't'a't'e' 'o'f' 'O'r'i's's'a'
-'('c')' 'N'o'n' 'c'o'g'n'i'z'a'b'l'e' 'c'a's'e' '('c')' 'A'.' 'R'.' 'A'n't'u'l'a'y' 'v's' 'R'.' 'S'.' 'N'a'i'k'
-'('d')' 'C'o'g'n'i'z'a'b'l'e' 'c'a's'e' '('d')' 'S'a'm't'a' 'S'i'n'g'h' 'v's' 'S't'a't'e' 'o'f' 'P'u'n'j'a'b'
-'2'0'.' 'J'u'r'i's'd'i'c't'i'o'n' 't'o' 'g'r'a'n't' 'a'n't'i'c'i'p'a't'o'r'y' 'b'a'i'l' 'u'n'-' '3'0'.' 'A' 'p'e'r's'o'n' 'c'a'n' 'b'e' 's'u'm'm'o'n'e'd' 'a's' 'a' 'w'i't'n'e's's'
-'d'e'r' 's'e'c't'i'o'n' '4'3'8' 'o'f' 'C'r'.' 'P'.'C'.' 'v'e's't's' 'w'i't'h' 'u'n'd'e'r' 's'e'c't'i'o'n' '1'6'0' 'o'f' 'C'r'.' 'P'.'C'.' 'b'y';'
-'('a')' 'T'h'e' 'H'i'g'h' 'C'o'u'r't' '('a')' 'a'n'y' 'P'o'l'i'c'e' 'O'f'f'i' 'c'e'r'
-'('b')' 'T'h'e' 'C'o'u'r't' 'o'f' 'S'e's's'i'o'n's' 'a'n'd' 't'h'e' 'H'i'g'h' '('b')' 'A'n' 'I'n'v'e's't'i'g'a't'i'o'n' 'O'f'f'i' 'c'e'r'
-'C'o'u'r't' '('c')' 'T'h'e' 'S't'a't'i'o'n' 'H'o'u's'e' 'O'f'f'i' 'c'e'r'
-'('c')' 'T'h'e' 'C'o'u'r't' 'o'f' 'S'e's's'i'o'n's' '('d')' 'A' 'M'a'g'i's't'r'a't'e'
-'('d')' 'T'h'e' 'C'o'u'r't' 'o'f' 'M'a'g'i's't'r'a't'e' '3'1'.' 'A' 's'e's's'i'o'n's' 'J'u'd'g'e' 'c'a'n' 'p'a's's'
-'2'1'.' 'A' 'M'a'g'i's't'r'a't'e' 'c'a'n' 't'a'k'e' 'c'o'g'n'i'z'a'n'c'e' 'o'f' 'a'n' 'o'f'-' '('a')' 'S'e'n't'e'n'c'e' 'u'p' 't'o' 'l'i'f'e' 'i'm'p'r'i's'o'n'm'e'n't'
-'f'e'n'c'e' '('b')' 'A'n'y' 's'e'n't'e'n'c'e'
-'('a')' 'U'p'o'n' 'a' 'c'o'm'p'l'a'i'n't' '('c')' 'A'n'y' 's'e'n't'e'n'c'e' 'e'x'c'e'p't' 'd'e'a't'h' 's'e'n't'e'n'c'e'
-'('b')' 'S'u'o' 'M'o't'o'
-'('d')' 'S'e'n't'e'n'c'e' 'u'p' 't'o' '1'0' 'y'e'a'r's'
-'('c')' 'U'p'o'n' 'a' 'p'o'l'i'c'e' 'r'e'p'o'r't'
-'3'2'.' 'I'n' 'k'i'd'n'a'p'p'i'n'g',' 't'h'e' 'c'o'n's'e'n't' 'o'f' 'm'i'n'o'r' 'i's'
-'('d')' 'A'n'y' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'P'a'r't'l'y' 'm'a't'e'r'i'a'l'
-'2'2'.' 'R'i'g'h't' 't'o' 's'p'e'e'd'y' 't'r'i'a'l' 'i's' 'g'u'a'r'a'n't'e'e'd' 'u'n'd'e'r'
-'('b')' 'W'h'o'l'l'y' 'm'a't'e'r'i'a'l'
-'('a')' 'C'r'.' 'P'.'C'.'
-'('c')' 'W'h'o'l'l'y' 'i'm'm'a't'e'r'i'a'l'
-'('b')' 'A'r't'i'c'l'e' '2'2' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'('d')' 'P'a'r't'y' 'i'm'm'a't'e'r'i'a'l'
-'('c')' 'A'r't'i'c'l'e' '2'1' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'
-'3'3'.' 'U's'e' 'o'f' 'v'i'o'l'e'n'c'e' 'b'y' 'a' 'm'e'm'b'e'r' 'o'f' 'a's's'e'm'b'l'y'
-'('d')' 'I'n' 's'p'e'c'i'a'l' 'l'a'w's'
-'c'o'n's'i's't'i'n'g' 'o'f' '1'2' 'p'e'r's'o'n's' 'i'n' 'f'u'r't'h'e'r'a'n'c'e' 'o'f'
-'2'3'.' 'G'r'i'e'v'o'u's' 'h'u'r't' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 's'e'c't'i'o'n'
-'t'h'e'i'r' 'c'o'm'm'o'n' 'o'b'j'e'c't' 'w'i'l'l' 'c'o'n's't'i't'u't'e'
-'('a')' '3'1'9' '('b')' '3'2'0'
-'('a')' 'U'n'l'a'w'f'u'l' 'a's's'e'm'b'l'y'
-'('c')' '3'3'8' '('d')' '3'5'1'
-'('b')' 'A's's'a'u'l't'
-'2'4'.' 'P'e'r'm'a'n'e'n't' 'd'e'p'r'i'v'a't'i'o'n' 'o'f' 't'h'e' 's'i'g'h't' 'o'f' 'e'i'-'
-'('c')' 'R'i'o't'i'n'g'
-'t'h'e'r' 'e'y'e' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'o'f'
-'('d')' 'A'f'f'r'a'y'
-'('a')' 'G'r'i'e'v'o'u's' 'h'u'r't' '('b')' 'A's's'a'u'l't'
-'3'4'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'c'o'n's'e'n't's',' 's'u'f'f'e'r' 'n'o' 'i'n'j'u'r'y' 'i's'
-'('c')' 'H'u'r't' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'k'n'o'w'n' 'a's'
-'2'5'.' 'T'h'e' 'g'u'i'd'e'l'i'n'e's' 'h'a'v'e' 'b'e'e'n' 'l'a'i'd' 'd'o'w'n' 'b'y' 't'h'e'
-'('a')' 'S'e'n's'u's' 'v'e'r'b'o'r'e'm' 'e's't' 'a'n'i'm'a' 'l'e'g'i's'
-'S'u'p'r'e'm'e' 'C'o'u'r't' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'r'i'g'h't's' 'o'f' 'a'c'-'
-'('b')' 'A'c't'u's' 'n'o'n' 'f'a'c'i't' 'r'e'u'm' 'n'i's'i' 'm'e'n's' 's'i't' 'r'e'a'
-'c'u's'e'd' 'a't' 't'h'e' 's't'a'g'e' 'o'f' 'a'r'r'e's't' 'i'n'
-'('c')' 'R'e's' 'j'u'd'i'c'a't'a' 'p'r'o' 'v'e'r'i't'a't'e' 'a'c'c'i'p'i't'u'r'
-'('a')' 'A'.' 'K'.' 'G'o'p'a'l'a'n' 'v's' 'S't'a't'e' 'o'f' 'M'a'r'd'a'r'
-'('d')' 'V'o'l'e'n't'i' 'n'o'n' 'f'i' 't' 'i'n'j'u'r'i'a'
-'('b')' 'A'.' 'R'.' 'A'n't'u'l'y' 'v's' 'R'.' 'S'.' 'N'a'i'k'
-'3'5'.' 'O'f'f'e'n'c'e' 'o'f' 't'h'e'f't' 'i's' 'r'e'l'a't'e'd' 't'o'
-'('c')' 'S't'a't'e' 'o'f' 'H'a'r'y'a'n'a' 'v's' 'B'a'j'a'n'l'a'l'
-'('a')' 'P'r'o'p'e'r't'y' 'o'n'l'y'
-'('d')' 'D'.' 'K'.' 'B'a's'u' 'v's' 'S't'a't'e' 'o'f' 'W'e's't' 'B'e'n'g'a'l'
-'('b')' 'M'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'o'n'l'y'
-'2'6'.' 'T'h'e' 'i'n'h'e'r'e'n't' 'p'o'w'e'r's' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'a'r'e'
-'('c')' 'I'm'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'o'n'l'y'
-'c'o'n't'a'i'n'e'd' 'i'n'
-'('d')' 'A'l'l' 'o'f' 't'h'e's'e'
-'('a')' 'S'e'c't'i'o'n' '4'9'2' 'o'f' 'C'r'P'c'
-'3'6'.' 'A' 'i'n's't'i'g'a't'e's' 'B' 't'o' 'm'u'r'd'e'r' 'D'.' 'B' 'r'e'f'u's'e's' 't'o'
-'('b')' 'S'e'c't'i'o'n' '4'7'2' 'o'f' 'C'r'P'c'
-'d'o' 's'o'.' 'M'u'r'd'e'r' 'd'i'd' 'n'o't' 't'a'k'e' 'p'l'a'c'e'.' 'W'h'a't' 'o'f'-'
-'('c')' 'S'e'c't'i'o'n' '4'8'2' 'o'f' 'C'r'.'P'c'
-'f'e'n'c'e' 'i's' 'A' 'i's' 'g'u'i'l't'y' 'o'f'?'
-'('d')' 'S'e'c't'i'o'n' '4'6'2' 'o'f' 'C'r'.'P'c'
-'('a')' 'N'o' 'o'f'f'e'n'c'e'
-'2'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'f'o'r'm's' 'p'a'r't' 'o'f' 't'h'e'
-'('b')' 'M'u'r'd'e'r'
-'s'u'b's't'a'n't'i'v'e' 'l'a'w'
-'('c')' 'A' 'a'b'e't't'i'n'g' 'B' 't'o' 'c'o'm'm'i't'
-'('a')' 'P'r'o's'e'c'u't'i'o'n' '('b')' 'O'f'f'e'n'c'e'
-'('d')' 'C'o'n's'p'i'r'a'c'y'
-'('c')' 'B'o't'h' '('d')' 'N'o'n'e'
-'2'8'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'f'o'r'm's' 'p'a'r't' 'o'f' 't'h'e' '3'7'.' 'T'h'e' 'e's's'e'n't'i'a'l' 'i'n'g'r'e'd'i'e'n't's' 'o'f' 'a' 'c'r'i'm'e' 'a'r'e'
-'p'r'o'c'e'd'u'r'a'l' 'l'a'w' '('a')' 'K'n'o'w'l'e'd'g'e',' 'i'n't'e'n't'i'o'n' 'a'n'd' 'a'c't'i'o'n'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'0'1'
-'('b')' 'M'o't'i'v'e',' 'i'n't'e'n't'i'o'n' 'a'n'd' 'k'n'o'w'l'e'd'g'e' '4'8'.' 'T'h'e' 'o'f'f'e'n'c'e' 'o'f' 't'h'e'f't' 'i's' 'c'o'v'e'r'e'd' 'b'y' 's'e'c't'i'o'n'
-'('c')' 'M'o't'i'v'e',' 'm'e'a'n's' 'r'e'a' 'a'n'd' 'a'c't'u's' 'r'e'u's' '…'.'I'P'C'
-'('d')' 'A'c't'u's' 'r'e'u's' 'a'n'd' 'm'e'n's' 'r'e'a' '('a')' '3'9'3' '('b')' '3'7'8'
-'3'8'.' 'T'h'e' 'i'n'v'o'l'v'e'm'e'n't' 'o'f' 'f'i' 'v'e' 'o'r' 'm'o'r'e' 'p'e'r's'o'n's' '('c')' '3'6'5' '('d')' '3'2'4'
-'i's' 'e's's'e'n't'i'a'l' 'f'o'r' '4'9'.' 'A' 'p'r'o'p'o's'a'l' 'w'h'e'n' 'a'c'c'e'p't'e'd' 'b'e'c'o'm'e's'
-'('a')' 'R'o'b'b'e'r'y' '('b')' 'D'a'c'o'i't'y' '('a')' 'O'f'f'e'r' '('b')' 'P'r'o'm'i's'e'
-'('c')' 'E'x't'o'r't'i'o'n' '('d')' 'T'h'e'f't' '('c')' 'C'o'n't'r'a'c't' '('d')' 'A'g'r'e'e'm'e'n't'
-'3'9'.' 'R'o'b'b'e'r'y' 'b'e'c'o'm'e's' 'd'a'c'o'i't'y' 'w'h'e'n' 'c'o'm'm'i't'-' '5'0'.' 'A' 'm'i'n'o'r'’'s' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.' 'T'h'i's' 'p'r'o'p'o'-'
-'t'e'd' 'c'o'n'j'o'i'n't'l'y' 'b'y' 's'i't'i'o'n' 'i's' 'm'a'd'e' 'i'n'
-'('a')' 'A't' 'l'e'a's't' 't'e'n' 'p'e'r's'o'n's' '('a')' 'N'i'h'a'l' 'C'h'a'n'd' 'v's' 'J'a'n' 'K'h'a'n'
-'('b')' 'M'o'r'e' 't'h'a'n' 't'w'o' 'p'e'r's'o'n's' 'b'u't' 'l'e's's' 't'h'a'n' '('b')' 'M'o'h'a'r'i' 'B'e'e'v'i' 'v's' 'D'h'a'r'm'o'd'a's' 'G'h'o's'h'
-'f'i' 'v'e' 'p'e'r's'o'n's' '('c')' 'S'r'e'e'k'r'i's'h'n'a'n' 'v's' 'K'u'r'u'k's'h'e't'h'r'a' 'U'n'i'-'
-'('c')' 'F'i'v'e' 'p'e'r's'o'n's' 'o'r' 'm'o'r'e' 'v'e'r's'i't'y'
-'('d')' 'T'w'o' 'p'e'r's'o'n's' '('d')' 'N'a'n'j'a'p'p'a' 'v's' 'M'u't'h'u's'w'a'm'y'
-'4'0'.' 'H'o'm'i'c'i'd'e' 'l'i't'e'r'a'l'l'y' 'm'e'a'n's' '5'1'.' '‘'D'a'm'a'g'e's'’' 'a'r'e' 'a'w'a'r'd'e'd' 'e'x'c'e'p't' 'i'n' 'o'n'e'
-'('a')' 'T'h'e' 'p'u'n'i's'h'm'e'n't' 'o'f' 'd'e'a't'h' 'c'a's'e'
-'('b')' 'K'i'l'l'i'n'g' 'o'f' 'a'n'i'm'a'l's' '('a')' 'T'o'r't'
-'('c')' 'M'u'r'd'e'r' '('b')' 'B'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'
-'('d')' 'K'i'l'l'i'n'g' 'o'f' 'a' 'h'u'm'a'n' 'b'e'i'n'g' 'b'y' 'a'n'o't'h'e'r' '('c')' 'L'i'b'e'l' 'S'u'i't'
-'h'u'm'a'n' 'b'e'i'n'g' '('d')' 'C'r'i'm'i'n'a'l' 'c'o'n'd'u'c't'
-'4'1'.' 'W'h'a't' 'i's' 't'h'e' 'p'u'n'i's'h'm'e'n't' 'i'n' 't'h'e' 'I'P'C' 's'u'b's't'i'-' '5'2'.' 'D'e'c'e'i't' 'i's'
-'t'u't'e'd' 'f'o'r' '‘'t'r'a'n's'p'o'r't'a't'i'o'n' 'f'o'r' 'l'i'f'e'
-'('a')' 'A' 't'o'r't'
-'('a')' 'R'i'g'o'r'o'u's' 'i'm'p'r'i's'o'n'm'e'n't'
-'('b')' 'A' 'c'r'i'm'e'
-'('b')' 'D'e'a't'h'
-'('c')' 'A' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'
-'('c')' 'I'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'l'i'f'e'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')'
-'('d')' 'F'i'n'e'
-'5'3'.' 'W'h'a't' 'i's' 'm'e'a'n' 'b'y' 'a'f'f'i' 'd'a'v'i't'?'
-'4'2'.' 'M'u'r'd'e'r' 'i's' 'p'u'n'i's'h'a'b'l'e' 'w'i't'h'
-'('a')' 'E'v'i'd'e'n't'i'a'r'y' 'D'o'c'u'm'e'n't'
-'('a')' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' '1'0' 'y'e'a'r's'
-'('b')' 'D'o'c'u'm'e'n't'
-'('b')' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'l'i'f'e' 'o'r' 'i'm'p'r'i's'o'n'-'
-'('c')' 'L'e't't'e'r' 'o'f' 'o'a't'h'
-'m'e'n't' 'f'o'r' '1'0' 'y'e'a'r's'
-'('d')' 'A' 'r'e'q'u'e's't' 'm'a'd'e' 't'o' 't'h'e' 'c'o'u'r't'
-'('c')' 'd'e'a't'h' 'o'r' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'l'i'f'e'
-'5'4'.' 'T'h'e' 'd'o'c't'r'i'n'e' 'o'f' 's't'a'r'e' 'd'e'c'i's'i's' 'i's' 'a' 'f'e'a't'u'r'e' 'o'f'
-'('d')' 'd'e'a't'h'
-'C'o'm'm'o'n' 'L'a'w'.' 'T'h'i's' 'm'e'a'n's' 't'h'a't'
-'4'3'.' 'A't't'e'm'p't' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e' 'i's' 'a'n' 'o'f'f'e'n'c'e'
-'('a')' 't'h'e' 'd'e'c'i's'i'o'n' 's't'a'r'e's' 'a't' 't'h'e' 'j'u'd'g'e'
-'u'n'd'e'r' 's'e'c't'i'o'n' 'o'f' 'I'P'C'
-'('b')' 'p'r'e'c'e'd'e'n't's' 'p'o's's'e's's' 'l'a'w' 'q'u'a'l'i't'y' 'i'n'
-'('a')' '3'6'0' '('b')' '4'0'5'
-'t'h'e'm's'e'l'v'e's' 'a'n'd' 'a'r'e' 'b'i'n'd'i'n'g'
-'('c')' '3'0'9' '('d')' '3'0'0'
-'('c')' 'd'e'c'i's'i'o'n' 'o'f' 'H'i'g'h' 'C'o'u'r't' 'i's' '‘'L'a'w'’' 'e'v'e'n'
-'4'4'.' '‘'D'o'w'r'y' 'd'e'a't'h'’' 'h'a's' 'b'e'e'n' 'e'x'p'l'a'i'n'e'd' 'i'n' 's'e'c'-'
-'t'h'r'o'u'g'h' 'i't' 'i's' 'n'o't' 'b'i'n'd'i'n'g' 'o'n' 'a'n'y' 'C'o'u'r't'
-'t'i'o'n' 'o'f' 'I'P'C'
-'e'x'c'e'p't' 't'h'o's'e' 's'u'b'o'r'd'i'n'a't'e' 't'o' 'i't'
-'('a')' '3'0'2' '('b')' '3'0'3'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'd'e'f'i' 'n'i't'i'o'n's' 'a'r'e' 'c'o'r'-'
-'('c')' '3'1'0' '('d')' '3'0'4'-'B'
-'r'e'c't'
-'4'5'.' 'T'h'e'r'e' 'a'r'e'_'_'_'_' 's'e'c't'i'o'n's' 'i'n' 'I'n'd'i'a'n' 'P'e'n'a'l'
-'5'5'.' 'A' 'r'a't'i'o' 'd'e'c'i'd'e'n'd'i' 'm'e'a'n's'
-'C'o'd'e'
-'('a')' 'T'h'e' 'p'r'o'p'o'r't'i'o'n' 'o'f' 'j'u's't'i'c'e' 'i'n' 'a' 'c'a's'e'
-'('a')' '1'5'5' '('b')' '7'1'6'
-'('b')' 'T'h'e' 'p'r'i'n'c'i'p'l'e' 'u'p'o'n' 'w'h'i'c'h' 'a' 'c'a's'e' 'w'a's'
-'('c')' '5'1'1' '('d')' '6'1'7'
-'d'e'c'i'd'e'd'
-'4'6'.' 'F'o'r' 'c'o'n's'p'i'r'a'c'y',' 't'h'e' 'm'i'n'i'm'u'm' 'n'u'm'b'e'r' 'o'f'
-'('c')' 'T'h'e' 'd'e'c'i's'i'v'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e'
-'p'e'r's'o'n's' 'r'e'q'u'i'r'e'd' 'i's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('a')' '5'
-'5'6'.' 'C'e'n't'r'a'l' 'O'r'd'i'n'a'n'c'e' 'i's' 't'h'e' 'L'a'w' 'm'a'k'i'n'g'
-'('b')' '1'
-'p'o'w'e'r' 'o'f' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'd'u'r'i'n'g'
-'('c')' '2'
-'('a')' 'r'e'c'e's's' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'N'o' 'm'i'n'i'm'u'm' 'r'e'q'u'i'r'e'm'e'n't'
-'('b')' 'r'e'c'e's's' 'o'f' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e'
-'4'7'.' 'I's' 'i'n't'e'n't'i'o'n' 'a' 'm'e'n't'a'l' 'c'o'n'd'i't'i'o'n'?'
-'('c')' 'a'n'y' 't'i'm'e'
-'('a')' 'D'e'p'e'n'd's'
-'('d')' 'd'u'r'i'n'g' 'e'm'e'r'g'e'n'c'y'
-'('b')' 'Y'e's'
-'('c')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '5'7'.' 'H'o'w' 'm'a'n'y' 't'i'm'e's' 'h'a's' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'-'
-'('d')' 'N'o' 'd'i'a' 'd'e'c'l'a'r'e'd' 'F'i'n'a'n'c'i'a'l' 'E'm'e'r'g'e'n'c'y' 's'o' 'f'a'r'?'
-'
-'('a')' 'O'n'c'e' '('b')' 'T'h'r'i'c'e' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' '4' 't'i'm'e's' '('d')' 'N'e'v'e'r' '('c')' 'I'n't'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't' 'o'f' 'J'u's't'i'c'e'
-'5'8'.' 'A'n'y' 'p'e'r's'o'n' 'i'n' 'c'a's'e' 'o'f' 'v'i'o'l'a't'i'o'n' 'o'f' 'f'u'n'd'a'-' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'m'e'n't'a'l' 'r'i'g'h't' 'u'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'-' '6'7'.' 'T'h'e' 'H'e'a'd' 'o'f' 'a' 'S't'a't'e' 'i'n' 'I'n'd'i'a' 'i's' 'k'n'o'w'n' 'a's'
-'d'i'a' 'c'a'n' 'g'o' 't'o' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'u'n'd'e'r' '('a')' 'G'o'v'e'r'n'o'r' 'G'e'n'e'r'a'l'
-'('a')' 'A'r't'i'c'l'e' '2'2'2' 'o'f' 'C'o'n's't'i't'u't'i'o'n' '('b')' 'G'o'v'e'r'n'o'r'
-'('b')' 'A'r't'i'c'l'e' '2'2'6' 'o'f' 'C'o'n's't'i't'u't'i'o'n' '('c')' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'('c')' 'A'r't'i'c'l'e' '2'2'0' 'o'f' 'C'o'n's't'i't'u't'i'o'n' '('d')' 'C'h'i'e'f' 'J'u's't'i'c'e'
-'('d')' 'A'r't'i'c'l'e' '3'2' 'o'f' 'C'o'n's't'i't'u't'i'o'n' '6'8'.' 'T'h'e' 'r'i'g'h't' 't'o' 'v'o't'e' 'i'n' 'I'n'd'i'a' 'i's' 'b'a's'e'd' 'o'n' 't'h'e'
-'5'9'.' 'I'n' 't'h'e' 'c'a's'e' 'o'f' 'v'i'o'l'a't'i'o'n' 'o'f' 'f'u'n'd'a'm'e'n't'a'l' 'p'r'i'n'c'i'p'l'e' 'o'f'
-'r'i'g'h't's' 'u'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'a'n'y' '('a')' 'r'e's't'r'i'c't'e'd' 'f'r'a'n'c'h'i's'e'
-'p'e'r's'o'n' 'c'a'n' 'g'o' 't'o' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('b')' 'h'e'r'e'd'i't'a'r'y' 'p'r'i'v'i'l'e'g'e's'
-'('a')' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'3'2' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' '('c')' 'p'r'o'p'r'i'e't'a'r'y' 'q'u'a'l'i'f'i' 'c'a't'i'o'n's'
-'o'f' 'I'n'd'i'a' '('d')' 'u'n'i'v'e'r's'a'l' 'a'd'u'l't' 'f'r'a'n'c'h'i's'e'
-'('b')' 'u'n'd'e'r' 'A'r't'i'c'l'e' '2'2'6' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' '6'9'.' '…'…'…'.' 'i's' 't'h'e' 'C'o'm'm'a'n'd'e'r'-'i'n'-'C'h'i'e'f' 'o'f' 't'h'e'
-'o'f' 'I'n'd'i'a' 'D'e'f'e'n'c'e' 'F'o'r'c'e's' 'o'f' 'I'n'd'i'a'
-'('c')' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'2' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'I'n'd'i'a' '('b')' 'P'r'e's'i'd'e'n't'
-'('d')' 'u'n'd'e'r' 'A'r't'i'c'l'e' '1'9' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' '('c')' 'D'e'f'e'n'c'e' 'M'i'n'i's't'e'r'
-'I'n'd'i'a' '('d')' 'A'r'm'y' 'C'h'i'e'f'
-'6'0'.' 'T'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' '7'0'.' 'T'h'e' 'I'n'd'i'a'n' 'P'a'r'l'i'a'm'e'n't' 'i's' 'b'a's'e'd' 'o'n' 't'h'e'
-'a'l's'o' 'a'l'w'a'y's' 's'u'b'j'e'c't'e'd' 'f'o'r' 'c'o'm'm'e'n't's' 'b'y' 'P'r'i'n'c'i'p'l'e' 'o'f'
-'S'u'p'r'e'm'e' 'C'o'u'r't' 'f'o'r' 'n'e'x't' 't'o' 'b'e' 'a'm'e'n'd'e'd'.' '('a')' 'U'n'i'c'a'm'e'r'a'l'i's'm'
-'B'u't' 'h'o'w' 'm'a'n'y' 't'i'm'e's' 't'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 'C'o'n'-' '('b')' 'N'o'm'i'n'a't'i'o'n'
-'s't'i't'u't'i'o'n' 'h'a's' 'b'e'e'n' 'a'm'e'n'd'e'd' 's'o' 'f'a'r'?' '('c')' 'B'i'c'a'm'e'r'a'l'i's'm'
-'('a')' 'O'n'c'e' '('4'2'n'd' 'A'm'e'n'd'm'e'n't')' '('d')' 'H'e'r'e'd'i't'a'r'y' 'p'r'i'n'c'i'p'l'e'
-'('b')' 'T'w'i'c'e' '7'1'.' '…'.'.' 'i's' 'a'n' 'i'n'q'u'i'r'y' 'i'n't'o' 'c'a'u's'e' 'o'f' 'd'e'a't'h'
-'('c')' 'T'h'r'i'c'e' '('a')' 'C'o'r'o'n'a't'i'o'n' '('b')' 'I'n'q'u'e's't'
-'('d')' '4' 't'i'm'e's' '('c')' 'I'n'v'e's't'i'g'a't'i'o'n' '('d')' 'S'u'b'p'o'e'n'a'
-'6'1'.' 'R'a'p'e' 'i's' 'p'r'o'v'i'd'e'd' 'a's' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 'I'.'P'.'C'.' '7'2'.' 'J'u's't'i'c'e' 'i's' 't'h'e' '…'…'…'…'.'
-'S'e'c't'i'o'n' '('a')' 'M'e'a'n's',' 'e'n'd' '('b')' 'C'a'u's'e',' 'e'f'f'e'c't'
-'('a')' '3'7'5' '('b')' '3'7'8' '('c')' 'E'f'f'e'c't',' 'c'a'u's'e' '('d')' 'E'n'd',' 'm'e'a'n's'
-'('c')' '4'0'3' '('d')' '4'0'5' '7'3'.' 'A'u'd'i' 'a'u'l't'r'e'm' 'p'a'l't'r'e'm' 'm'e'a'n's'
-'6'2'.' 'S'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'b'y' 'a' 'm'a'n' 'w'i't'h' 'h'i's' 'o'w'n' '('a')' 'N'o' 'o'n'e' 's'h'o'u'l'd' 'b'e' 'c'o'n'd'e'm'n'e'd' 'u'n'-'
-'w'i'f'e' 'i's' 'a' 'r'a'p'e' 'i'f' 's'h'e' 'i's' 'b'e'l'o'w' 't'h'e' 'a'g'e' 'o'f' 'h'e'a'r'd'
-'('a')' '1'8' 'y'e'a'r's' '('b')' '1'5' 'y'e'a'r's' '('b')' 'W'h'e'n' 't'h'e' 't'h'i'n'g' 's'p'e'a'k's' 'f'o'r' 'i't's'e'l'f'
-'('c')' '1'6' 'y'e'a'r's' '('d')' '1'7' 'y'e'a'r's' '('c')' 'I't' 'i's' 'a' 'p'r'i'n'c'i'p'l'e' 'o'f' 'e'x't'r'a'd'i't'i'o'n' 'l'a'w'
-'6'3'.' 'T'h'e'f't' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 't'h'e' 'I'.'P'.'C'.' 'S'e'c't'i'o'n' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('a')' '3'7'5' '('b')' '3'7'7' '7'4'.' 'R'e's' 'i's'p'a' 'l'o'q'u'i't'u'r' 'm'e'a'n's'
-'('c')' '3'7'8' '('d')' '3'8'3' '('a')' 'N'o' 'o'n'e' 's'h'o'u'l'd' 'b'e' 'c'o'n'd'e'm'n'e'd' 'u'n'-'
-'6'4'.' 'T'h'e'f't' 'i's' 'o'f'f'e'n'c'e' 'a'g'a'i'n's't' 'h'e'a'r'd'
-'('a')' 'M'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'o'n'l'y' '('b')' 'W'h'e'n' 't'h'e' 't'h'i'n'g' 's'p'e'a'k's' 'f'o'r' 'i't's'e'l'f'
-'('b')' 'I'm'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'o'n'l'y' '('c')' 'I't' 'i's' 'a' 'p'r'i'n'c'i'p'l'e' 'o'f' 'e'x't'r'a'd'i't'i'o'n' 'l'a'w'
-'('c')' 'M'o'v'a'b'l'e' 'a'n'd' 'i'm'm'o'v'a'b'l'e' 'b'o't'h' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '7'5'.' 'V'o'l'e'n't'i' 'n'o'n' 'f'i' 't' 'i'n'j'u'r'i'a' 'm'e'a'n's'
-'6'5'.' 'W'h'a't' 'i's' 'a' '‘'c'o'n'g'n'i'z'a'n'c'e'’'?' '('a')' 'N'o' 'w'r'o'n'g' 'i's' 'd'o'n'e' 't'o' 'o'n'e' 'w'h'o' 'c'o'n'-'
-'('a')' 'A'r'o'u's'i'n'g' 'j'u'd'i'c'i'a'l' 'n'o't'i'c'e' 'o'r' 'k'n'o'w'l'-' 's'e'n't's'
-'e'd'g'e' '('b')' 'N'o' 'o'n'e' 's'h'o'u'l'd' 'b'e' 'c'o'n'd'e'm'n'e'd' 'u'n'-'
-'('b')' 'I't' 'i's' 'a' 'c'r'i'm'e' 'h'e'a'r'd'
-'('c')' 'I't' 'm'e'a'n's' 'c'u's't'o'd'y' 'w'i't'h'o'u't' 'w'a'r'r'a'n't' '('c')' 'W'h'e'n' 't'h'e' 't'h'i'n'g' 's'p'e'a'k's' 'f'o'r' 'i't's'e'l'f'
-'('d')' 'I't' 'm'e'a'n's' 'c'u's't'o'd'y' 'w'i't'h' 'w'a'r'r'a'n't' '('d')' 'I't' 'i's' 'a' 'p'r'i'n'c'i'p'l'e' 'o'f' 'e'x't'r'a'd'i't'i'o'n' 'l'a'w'
-'6'6'.' 'A' 'j'u'd'g'm'e'n't' 'p'a's's'e'd' 'b'y' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' '7'6'.' 'U'n'd'e'r' 'w'h'i'c'h' 'A'c't' 'i'n' 'I'n'd'i'a' 'i't' 'w'a's' 'p'r'o'v'i'd'e'd'
-'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e'v'i'e'w'e'd' 'o'n'l'y' 'b'y' 't'h'a't' 'w'o'm'e'n' 'd'o'i'n'g' 's'i'm'i'l'a'r' 'w'o'r'k' 't'o' 'm'e'n','
-'('a')' 'P'r'e's'i'd'e'n't' 'w'o'u'l'd' 'q'u'a'l'i'f'y' 'f'o'r' 'e'q'u'a'l' 'p'a'y'?'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'0'3'
-'('a')' 'P'r'o't'e'c't'i'o'n' 'o'f' 'W'o'm'e'n'’'s' 'R'i'g'h't's' 'A'c't',' 't'o' 'a'v'o'i'd' 'l'e'g'a'l' 'p'r'o'c'e'e'd'-'
-'1'9'8'0' 'i'n'g's'.'
-'('b')' 'E'q'u'a'l' 'R'e'm'u'n'e'r'a't'i'o'n' 'A'c't',' '1'9'7'6' 'B'.' 'A'b'o'r't'i'o'n' '2'.' 'T'h'e' 't'e'r'm'i'n'a't'i'o'n' 'o'f' 'a'
-'('c')' 'W'o'r'k'm'e'n'’'s' 'C'o'm'p'e'n's'a't'i'o'n' 'A'c't',' '1'9'4'8' 'p'r'e'g'n'a'n'c'y',' 'a' 'm'i's'c'a'r'-'
-'('d')' 'G'e'n'd'e'r' 'E'q'u'a'l'i't'y' 'A'c't',' '1'9'7'6' 'r'i'a'g'e' 'o'r' 't'h'e' 'p'r'e'm'a't'u'r'e'
-'7'7'.' 'H'o'w' 'm'a'n'y' 'm'e'm'b'e'r's' 'h'a'v'e' 't'o' 's'u'p'p'o'r't' 'a' 'n'o'-' 'e'x'p'u'l's'i'o'n' 'o'f' 'a' 'f'o'e't'u's'
-'c'o'n'f'i' 'd'e'n'c'e' 'm'o't'i'o'n' 't'o' 'm'o'v'e' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'f'r'o'm' 't'h'e' 'w'o'm'b' 'b'e'f'o'r'e'
-'o'f' 'I'n'd'i'a' 't'h'e' 'n'o'r'm'a'l' 'p'e'r'i'o'd' 'o'f'
-'('a')' '4'5' 'm'e'm'b'e'r's' '('b')' '5'0' 'm'e'm'b'e'r's' 'g'e's't'a't'i'o'n' 'i's' 'c'o'm'p'l'e't'e'.'
-'('c')' '1'0'0' 'm'e'm'b'e'r's' '('d')' '1'5'0' 'm'e'm'b'e'r's' 'C'.' 'A'b's'c'o'n'd'i'n'g' '3'.' 'W'r'o'n'g'f'u'l'l'y' 't'a'k'i'n'g'
-'7'8'.' 'W'h'o' 'd'e'c'i'd'e's' 'o'n' 't'h'e' 'h'o'l'd'i'n'g' 'o'f' 'e'l'e'c't'i'o'n's' 't'o' 'a'w'a'y' 'o'r' 'd'e't'a'i'n'i'n'g' 'a'n'-'
-'t'h'e' 'P'a'n'c'h'a'y'a't' 'i'n' 'I'n'd'i'a'?' 'o't'h'e'r' 'p'e'r's'o'n',' 'u's'u'a'l'l'y'
-'('a')' 'C'e'n't'r'a'l' 'G'o'v'e'r'n'm'e'n't' 'b'y' 'f'o'r'c'e' 'o'r' 'f'r'a'u'd'.'
-'('b')' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't' 'A' 'B' 'C'
-'('c')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n' '('a')' '3' '2' '1'
-'('d')' 'R'e'g'i'o'n'a'l' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r' '('b')' '1' '3' '2'
-'7'9'.' 'A't't'o'r'n'e'y'-'G'e'n'e'r'a'l' 'f'o'r' 'I'n'd'i'a' 's'h'a'l'l' 'r'e'c'e'i'v'e' '('c')' '1' '2' '3'
-'s'u'c'h' 'r'e'm'u'n'e'r'a't'i'o'n's' 'a's' '('d')' '2' '3' '1'
-'('a')' 'p'r'e's'c'r'i'b'e'd' 'b'y' 'l'a'w' '8'6'.' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'c'a'n'n'o't' 'a'm'e'n'd'
-'('b')' 'd'e't'e'r'm'i'n'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' '('a')' 'f'u'n'd'a'm'e'n't'a'l' 'r'i'g'h't's'
-'('c')' 'd'e't'e'r'm'i'n'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('b')' 'b'a's'i'c' 's't'r'u'c't'u'r'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('c')' 'p'o'w'e'r's' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'8'0'.' 'W'h'a't' 'i's' 't'r'u'e' 'w'i't'h' 't'h'e' 'S'p'e'a'k'e'r' 'o'f' 'P'a'r'l'i'a'-' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'m'e'n't' 'o'f' 'I'n'd'i'a' 'i'n' 'c'a's'e' 'o'f' 'e'q'u'a'l'i't'y' 'o'f' 'v'o't'e's' '8'7'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'D'r'a'f't'i'n'g' 'C'o'm'm'i't't'e'e'
-'i'n' 'j'o'i'n't' 's'i't't'i'n'g' 'w'a's'
-'('a')' 'S'p'e'a'k'e'r' 'c'a'n' 'c'a's't' 'h'i's' 'v'o't'e' 'i'n' 'c'a's'e' 'o'f' '('a')' 'C'.' 'D'.' 'D'e's'h'm'u'k'h'
-'t'i'e' '('b')' 'B'.' 'N'.' 'R'a'u'
-'('b')' 'S'p'e'a'k'e'r' 'c'a'n'n'o't' 'c'a's't' 'h'i's' 'v'o't'e' '('c')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'('c')' 'S'p'e'a'k'e'r' 'w'i'l'l' 'p'e'r'm'i't' 'a'n'y' 'm'e'm'b'e'r' 't'o' '('d')' 'J'a'i'p'r'a'k'a's'h' 'N'a'r'a'y'a'n'
-'r'e'c'a's't' '8'8'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's'
-'('d')' 'S'p'e'a'k'e'r' 'w'i'l'l' 'r'e'q'u'e's't' 't'o' 'P'r'i'm'e' 'M'i'n'i's'-' '('a')' 'w'h'o'l'l'y' 'w'r'i't't'e'n' 'C'o'n's't'i't'u't'i'o'n'
-'t'e'r' 't'o' 'c'a's't' 'h'i's' 'v'o't'e' '('b')' 'p'a'r't'l'y' 'b'a's'e'd' 'o'n' 'j'u'd'i'c'i'a'l' 'd'e'c'i's'i'o'n'
-'8'1'.' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a' 'i's' '('c')' 'u'n'w'r'i't't'e'n' 'C'o'n's't'i't'u't'i'o'n' 'b'a's'e'd' 'o'n' 'c'u's'-'
-'('a')' 'd'e'f'e'c't'o' 'h'e'a'd' 't'o'm's'
-'('b')' 'd'e' 'j'u'r'e' 'h'e'a'd' '('d')' 'b'a's'e'd' 'o'n' 'a'n'c'i'e'n't' 'I'n'd'i'a'n' 't'r'a'd'i't'i'o'n's' 'a'd'-'
-'('c')' 'n'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'o'p't'e'd' 'b'y' 't'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y'
-'('d')' 'r'e'a'l' 'h'e'a'd' '8'9'.' 'T'h'e' 'c'o'u'n't'r'y' 't'h'a't' 'd'o'e's' 'n'o't' 'h'a'v'e' 'a' 'w'r'i't't'e'n'
-'8'2'.' 'D'e'l'e'g'a't'e's' 'n'o'n' 'p'o't'e's't' 'd'e'l'e'g'a'r'e' 'C'o'n's't'i't'u't'i'o'n' 'i's'
-'('a')' 'D'e'l'e'g'a't'e'd' 'l'e'g'i's'l'a't'i'o'n' 'c'a'n'n'o't' 'b'e' 'f'u'r'-' '('a')' 'B'r'i't'a'i'n' '('b')' 'P'a'k'i's't'a'n'
-'t'h'e'r' 'd'e'l'e'g'a't'e'd' '('c')' 'C'a'n'a'd'a' '('d')' 'I'n'd'i'a'
-'('b')' 'D'e'l'e'g'a't'e'd' 'l'e'g'i's'l'a't'i'o'n' 'i's' 'm'e'a'n't' 't'o' 'b'e' '9'0'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a'n' 'a'u't'h'o'r'i'z'e'
-'f'u'r't'h'e'r' 'd'e'l'e'g'a't'e'd' 'P'a'n'c'h'a'y'a't's' 't'o' 'L'e'v'y' 'L'o'c'a'l' 'T'a'x'e's' 'i'n' 'I'n'd'i'a'?'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('a')' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')' '('b')' 'C'e'n't'r'a'l' 'G'o'v'e'r'n'm'e'n't'
-'8'3'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'i's' 'c'a'p'a'b'l'e' 'o'f' 'w'r'o'n'g' 'i's' '('c')' 'C'e'n't'r'a'l' 'B'o'a'r'd' 'o'f' 'D'i'r'e'c't' 'T'a'x'e's'
-'k'n'o'w'n' 'a's' '('d')' 'C'e'n't'r'a'l' 'B'o'a'r'd' 'o'f' 'I'n'd'i'r'e'c't' 'T'a'x'e's'
-'('a')' 'd'o'l'i' 'c'a'p'a'x' '('b')' 'd'o'l'i' 'i'n'c'a'p'a'x' '9'1'.' 'A'm'o'n'g' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a's'e' 't'h'e'
-'('c')' 'n'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'h'e'l'd' 't'h'a't',' 't'h'e'r'e' 'i's' 'n'o' 'm'o'r'-'
-'8'4'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'i's' 'i'n'c'a'p'a'b'l'e' 'o'f' 'w'r'o'n'g' 'i's' 'a'l',' 'f'u'n'd'a'm'e'n't'a'l' 'o'r' 'l'e'g'a'l' 'r'i'g'h't's' 'o'r' 'e'q'u'i't'a'b'l'e'
-'k'n'o'w'n' 'a's' 'j'u'r'i's'd'i'c't'i'o'n' 't'o' 'g'o' 'o'n' 's't'r'i'k'e' 'b'y' 't'h'e' 'g'o'v'e'r'n'-'
-'('a')' 'd'o'l'i' 'c'a'p'a'x' '('b')' 'd'o'l'i' 'i'n'c'a'p'a'x' 'm'e'n't' 'e'm'p'l'o'y'e'e's'?'
-'('c')' 'n'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('a')' 'T'.' 'K'.' 'R'a'n'g'a'r'a'j'a'n' 'v's' 'G'o'v'e'r'n'm'e'n't' 'o'f'
-'8'5'.' 'A'.' 'A'b'd'u'c't'i'o'n' '1'.' 'T'h'e' 'f'a'i'l'u'r'e' 'o'f' 'a' 'p'e'r's'o'n' 'T'a'm'i'l' 'N'a'd'u'
-'t'o' 's'u'r'r'e'n'd'e'r' 't'o' 't'h'e' 'c'u's'-' '('b')' 'D'w'a'r'k'a' 'P'r'a's'a'd' 'A'g'a'r'w'a'l' 'v's' 'B'.'D'.'
-'t'o'd'y' 'o'f' 'a' 'c'o'u'r't' 'i'n' 'o'r'd'e'r' 'A'g'a'r'w'a'l'
-'
-'('c')' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' 'v's' 'R'a'j'i'v' 'K'u'm'a'r',' '('d')' 'L'e'a'd'e'r' 'o'f' 'o'p'p'o's'i't'i'o'n' 'p'a'r't'y'
-'A'.'I'.'T'.'U'.'C'.' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a' '9'7'.' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a' 'i's' 't'h'e' 'h'e'a'd' 'o'f'
-'('d')' 'A'.' 'K'.' 'P'u'r'i'w'a'r' 'v's' 'T'.' 'N'.' 'M'u't'h'y' '('a')' 'S't'a't'e'
-'9'2'.' 'I'n' 'w'h'i'c'h' 'c'a's'e',' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'h'e'l'd' 't'h'e' '('b')' 'G'o'v'e'r'n'm'e'n't'
-'P'a'r'l'i'a'm'e'n't' 'h'a's' 'n'o' 'p'o'w'e'r' 't'o' 'a'm'e'n'd' 'F'u'n'd'a'-' '('c')' 'B'o't'h' '('a')' 'a'n'd' '('b')'
-'m'e'n't'a'l' 'R'i'g'h't's'?' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'G'o'l'a'k'n'a't'h' 'c'a's'e' '9'8'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'p'r'e's'i'd'e's' 'o'v'e'r'
-'('b')' 'S'a'j'j'a'n' 'S'i'n'g'h' 'c'a's'e' 't'h'e' 'm'e'e't'i'n'g's' 'o'f' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r' 'i'n'
-'('c')' 'S'h'a'n'k'r'i' 'P'r'a's'a'd' 'c'a's'e' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'?'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('a')' 'P'r'e's'i'd'e'n't'
-'9'3'.' 'I'n' '…'.'.' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'h'e'l'd' 't'h'a't' 'P'r'e'a'm'b'l'e' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'i's' 'a' 'b'a's'i'c' 'f'e'a't'u'r'e' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'a'n'd' 'c'a'n'-' '('c')' 'C'a'b'i'n'e't' 'S'e'c'r'e't'a'r'y'
-'n'o't' 'b'e' 'a'm'e'n'd'e'd'.' '('d')' 'V'i'c'e'-'P'r'e's'i'd'e'n't'
-'('a')' 'K'e's'h'v'a'n'a'n'd' 'B'h'a'r't'i' 'c'a's'e' '9'9'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'V'i'c'e'-'P'r'e's'i'-'
-'('b')' 'G'o'l'a'k'n'a't'h' 'c'a's'e' 'd'e'n't's' 'i'n' 'I'n'd'i'a' 'r'e's'i'g'n'e'd' 'f'r'o'm' 'h'i's' 'o'f'f'i' 'c'e' 't'o'
-'('c')' 'M'i'n'e'r'v'a' 'M'i'l'l's' 'c'a's'e' 'c'o'n't'e's't' 'f'o'r' 't'h'e' 'p'o's't' 'o'f' 'P'r'e's'i'd'e'n't'?'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('a')' 'N'.' 'S'a'n'j'e'e'v'a' 'R'e'd'd'y'
-'9'4'.' '‘'U'l't'r'a' 'V'i'r'e's'’' 'i's' 'a' 't'e'r'm' 'u's'e'd' 'f'o'r' '('b')' 'V'.' 'V'.' 'G'i'r'i'
-'('a')' 'A' 'd'o'c'u'm'e'n't' 'c'o'r'r'u'p't'e'd' 'b'y' 'v'i'r'u's' '('c')' 'F'a'k'h'r'u'd'd'i'n' 'A'l'i' 'A'h'm'a'd'
-'('b')' 'A'n' 'a'c't' 'b'e'y'o'n'd' 't'h'e' 'a'u't'h'o'r'i't'y' 'o'f' 'a' 'p'e'r'-' '('d')' 'R'.' 'V'e'n'k'a't'a'r'a'm'a'n'
-'s'o'n' '1'0'0'.' 'G'i'v'e' 'r'e's'p'o'n's'e' 't'o' 't'h'e' 't'r'u'e' 's't'a't'e'm'e'n't'
-'('c')' 'A'n' 'a'c't' 'a'u't'h'o'r'i'z'e'd' 'b'y' 'l'a'w' '('a')' 'N'o' 'c'o'u'r't' 'h'a's' 'p'o'w'e'r' 't'o' 'c'o'm'p'e'l' 't'h'e'
-'('d')' 'A'n' 'i'l'l'e'g'a'l' 'a'c't' 'G'o'v'e'r'n'o'r' 't'o' 'e'x'e'r'c'i's'e' 'o'r' 'n'o't' 't'o' 'e'x'e'r'-'
-'9'5'.' 'T'o' 'b'e't'r'a'y' 'a' 'n'a't'i'o'n' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'a'n'd' 'p'u'n'-' 'c'i's'e' 'a'n'y' 'p'o'w'e'r' 'o'r' 't'o' 'p'e'r'f'o'r'm' 'o'r' 'n'o't' 't'o'
-'i's'h'a'b'l'e' 'w'i't'h' 'd'e'a't'h',' 't'h'a't' 'i's' 'p'e'r'f'o'r'm' 'a'n'y' 'd'u't'y'
-'('a')' 'S'e'd'i't'i'o'n' '('b')' 'T'r'e'a'c'h'e'r'y' '('b')' 'T'h'e' 'G'o'v'e'r'n'o'r' 'c'a'n'n'o't' 'b'e' 'p'r'o's'e'c'u't'e'd' 'i'n'
-'('c')' 'T'r'e'a's'o'n' '('d')' 'A'n't'i'-'n'a't'i'o'n'a'l'i't'y' 'a' 'c'i'v'i'l' 'a'n'd' 'c'r'i'm'i'n'a'l' 'c'o'u'r't' 'f'o'r' 'a'n'y' 'a'c't'
-'9'6'.' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a' 'i's' 'o'f' 'o'm'i's's'i'o'n' 'o'r' 'c'o'm'm'i's's'i'o'n' 'd'u'r'i'n'g' 't'h'e'
-'('a')' 'l'e'a'd'e'r' 'o'f' 'm'a'j'o'r'i't'y' 'p'a'r't'y' 'i'n' 't'h'e' 'L'o'k' 'p'e'r'i'o'd' 'h'e' 'h'o'l'd's' 'o'f'f'i' 'c'e'
-'S'a'b'h'a' '('c')' 'B'o't'h' 'a'b'o'v'e' 's't'a't'e'm'e'n't's' 'a'r'e' 'c'o'r'r'e'c't'
-'('b')' 's'e'n'i'o'r' 'm'o's't' 'M'e'm'b'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' '('d')' 'S't'a't'e'm'e'n't' '('a')' 'i's' 'c'o'r'r'e'c't' 'w'h'i'l'e' '('b')' 'i's'
-'('c')' 'P'r'e's'i'd'e'n't'’'s' 'n'o'm'i'n'e'e' 'n'o't'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('c')' '2'.' '('c')' '3'.' '('a')' '4'.' '('b')' '5'.' '('c')' '6'.' '('b')' '7'.' '('d')' '8'.' '('c')' '9'.' '('d')' '1'0'.' '('c')'
-'1'1'.' '('b')' '1'2'.' '('b')' '1'3'.' '('a')' '1'4'.' '('b')' '1'5'.' '('b')' '1'6'.' '('c')' '1'7'.' '('a')' '1'8'.' '('b')' '1'9'.' '('c')' '2'0'.' '('b')'
-'2'1'.' '('d')' '2'2'.' '('c')' '2'3'.' '('b')' '2'4'.' '('a')' '2'5'.' '('d')' '2'6'.' '('c')' '2'7'.' '('b')' '2'8'.' '('c')' '2'9'.' '('c')' '3'0'.' '('d')'
-'3'1'.' '('b')' '3'2'.' '('c')' '3'3'.' '('d')' '3'4'.' '('d')' '3'5'.' '('b')' '3'6'.' '('c')' '3'7'.' '('c')' '3'8'.' '('a')' '3'9'.' '('a')' '4'0'.' '('d')'
-'4'1'.' '('a')' '4'2'.' '('c')' '4'3'.' '('c')' '4'4'.' '('d')' '4'5'.' '('c')' '4'6'.' '('c')' '4'7'.' '('b')' '4'8'.' '('b')' '4'9'.' '('d')' '5'0'.' '('b')'
-'5'1'.' '('d')' '5'2'.' '('d')' '5'3'.' '('c')' '5'4'.' '('b')' '5'5'.' '('b')' '5'6'.' '('a')' '5'7'.' '('d')' '5'8'.' '('b')' '5'9'.' '('c')' '6'0'.' '('a')'
-'6'1'.' '('a')' '6'2'.' '('c')' '6'3'.' '('c')' '6'4'.' '('a')' '6'5'.' '('a')' '6'6'.' '('d')' '6'7'.' '('b')' '6'8'.' '('d')' '6'9'.' '('b')' '7'0'.' '('c')'
-'7'1'.' '('c')' '7'2'.' '('d')' '7'3'.' '('a')' '7'4'.' '('b')' '7'5'.' '('a')' '7'6'.' '('d')' '7'7'.' '('c')' '7'8'.' '('d')' '7'9'.' '('b')' '8'0'.' '('a')'
-'8'1'.' '('a')' '8'2'.' '('a')' '8'3'.' '('a')' '8'4'.' '('b')' '8'5'.' '('a')' '8'6'.' '('b')' '8'7'.' '('c')' '8'8'.' '('a')' '8'9'.' '('a')' '9'0'.' '('a')'
-'9'1'.' '('a')' '9'2'.' '('b')' '9'3'.' '('a')' '9'4'.' '('b')' '9'5'.' '('c')' '9'6'.' '('a')' '9'7'.' '('b')' '9'8'.' '('b')' '9'9'.' '('b')' '1'0'0'.' '('c')'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'0'5'
-'P' 'P' '9'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' 'W'h'a't' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'r'e'l'a't'e's' 't'o' 'm'a'i'n' '('b')' 'W'e',' 't'h'e' 'p'e'o'p'l'e' 'o'f' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'-'
-'s'a'n'c't'i'o'n' 'b'e'h'i'n'd' 't'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'i'e's' 'b'l'y'…'.' 'a'd'o'p't',' 'e'n'a'c't' 'a'n'd' 'g'i'v'e' 't'o' 'I'n'd'i'a'
-'i'n' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?' 't'h'i's' 'C'o'n's't'i't'u't'i'o'n'
-'('a')' 'L'e'g'a'l' 'S'a'n'c't'i'o'n' '('c')' 'W'e',' 't'h'e' 'c'i't'i'z'e'n's' 'o'f' 'I'n'd'i'a'…'.'a'd'o'p't',' 'e'n'-'
-'('b')' 'S'o'c'i'a'l' 'S'a'n'c't'i'o'n' 'a'c't' 'a'n'd' 'g'i'v'e' 't'o' 'o'u'r's'e'l'v'e's' 't'h'i's' 'C'o'n's't'i'-'
-'('c')' 'M'o'r'a'l' 'S'a'n'c't'i'o'n' 't'u't'i'o'n'
-'('d')' 'F'u'n'd'a'm'e'n't'a'l' 'S'a'n'c't'i'o'n' '('d')' 'W'e',' 't'h'e' 'p'e'o'p'l'e' 'o'f' 'I'n'd'i'a'…'.'i'n' 'o'u'r' 'C'o'n'-'
-'2'.' 'Z'o'n'a'l' 'C'o'u'n'c'i'l's' 'i'n' 'I'n'd'i'a' 'a'r'e' 's't'i't'u'e'n't' 'A's's'e'm'b'l'y'…'a'd'o'p't',' 'e'n'a'c't' 'a'n'd'
-'('a')' 'l'a'w' 'm'a'k'i'n'g' 'b'o'd'i'e's' 'g'i'v'e' 't'o' 'o'u'r's'e'l'v'e's' 't'h'i's' 'c'o'n's't'i't'u't'i'o'n'
-'('b')' 'd'i's'p'u't'e' 's'e't't'l'i'n'g' 'a'g'e'n'c'i'e's' '9'.' 'T'h'e' 'i'n's'e'r't'i'o'n' 'o'f' '‘'L'i'b'e'r't'y',' 'E'q'u'a'l'i't'y' 'a'n'd'
-'('c')' 'a'd'm'i'n'i's't'r'a't'i'v'e' 'b'o'd'i'e's' 'F'r'a't'e'r'n'i't'y'’' 'w'a's' 'd'e'r'i'v'e'd' 'f'r'o'm'
-'('d')' 'a'd'v'i's'o'r'y' 'b'o'd'i'e's' '('a')' 'A'm'e'r'i'c'a'n' 'r'e'v'o'l'u't'i'o'n'
-'3'.' 'W'h'i'c'h' 'i's' 't'h'e' 'm'o's't' 'a'c't'i'v'e' 'C'o'm'm'i't't'e'e' 'o'f' 't'h'e' '('b')' 'F'r'e'n'c'h' 'r'e'v'o'l'u't'i'o'n'
-'C'a'b'i'n'e't' 'o'f' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a'
-'('c')' 'R'u's's'i'a'n' 'r'e'v'o'l'u't'i'o'n'
-'('a')' 'C'o'm'm'i't't'e'e' 'o'n' 'E'c'o'n'o'm'i'c' 'A'f'f'a'i'r's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('b')' 'C'o'm'm'i't't'e'e' 'o'n' 'P'o'l'i't'i'c'a'l' 'A'f'f'a'i'r's'
-'1'0'.' 'W'h'a't' 'i's' 't'h'e' 's'a'l'a'r'y' 'o'f' 'P'r'e's'i'd'e'n't'?'
-'('c')' 'C'o'm'm'i't't'e'e' 'o'n' 'A'p'p'o'i'n't'm'e'n't's'
-'('a')' '`' '4'5','0'0'0' '('b')' '`' '5'0','0'0'0'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' '`' '3'0','0'0'0' '('d')' '`' '1','2'0','0'0'0'
-'4'.' 'I'n'd'i'a' 'c'o'n's'i's't's' 'o'f'
-'1'1'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'I'n'd'i'a'n' 'C'o'n'-'
-'('a')' '2'1' 'S't'a't'e's' '('b')' '2'4' 'S't'a't'e's'
-'s't'i't'u't'i'o'n'a'l' 'A'm'e'n'd'm'e'n't's' 'i'n'c'l'u'd'e'd' '4' 'm'o'r'e'
-'('c')' '2'8' 'S't'a't'e's' '('d')' '2'5' 'S't'a't'e's'
-'l'a'n'g'u'a'g'e's' 'i'n' 't'h'e' 'E'i'g'h't'h' 'S'c'h'e'd'u'l'e' 't'o' 't'h'e'
-'5'.' 'W'h'o' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'p'p'o'i'n't's' 'm'e'm'-'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?'
-'b'e'r's' 'o'f' 'U'n'i'o'n' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e' 'C'o'm'm'i's's'i'o'n'
-'('a')' '9'2'n'd' 'A'm'e'n'd'm'e'n't',' '2'0'0'3'
-'i'n' 'I'n'd'i'a'?'
-'('b')' '9'1's't' 'A'm'e'n'd'm'e'n't',' '2'0'0'3'
-'('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'('c')' '9'0't'h' 'A'm'e'n'd'm'e'n't',' '2'0'0'3'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'('d')' '8'9't'h' 'A'm'e'n'd'm'e'n't',' '2'0'0'3'
-'('c')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'1'2'.' 'T'h'e' 'i'd'e'a'l's' 'o'f' 'l'i'b'e'r't'y',' 'e'q'u'a'l'i't'y' 'a'n'd' 'f'r'a't'e'r'-'
-'('d')' 'L'a'w' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'n'i't'y' 'e'n's'h'r'i'n'e'd' 'i'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'.'
-'6'.' 'T'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'f'o'r' 'u'n'd'i'v'i'd'e'd'
-'T'h'i's' 'w'a's' 'f'o'l'l'o'w'e'd' 'f'r'o'm'
-'I'n'd'i'a' 'f'i' 'r's't' 'm'e't' 'o'n'
-'('a')' 'A'm'e'r'i'c'a'n' 'R'e'v'o'l'u't'i'o'n'
-'('a')' '6' 'D'e'c'e'm'b'e'r' '1'9'4'6'
-'('b')' 'F'r'e'n'c'h' 'R'e'v'o'l'u't'i'o'n'
-'('b')' '9' 'D'e'c'e'm'b'e'r' '1'9'4'6'
-'('c')' '2'0' 'F'e'b'r'u'a'r'y' '1'9'4'7' '('c')' '1'9'5'7' 'I'n'd'i'a'n' 'R'e'v'o'l't'
-'('d')' '3' 'J'u'n'e' '1'9'4'7' '('d')' 'R'u's's'i'a'n' 'R'e'v'o'l'u't'i'o'n'
-'7'.' 'S'e'c'u'l'a'r'i's'm' 'm'e'a'n's' '1'3'.' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'w'a's' 'i'n'a'u'g'u'r'a't'e'd' 'o'n'
-'('a')' 'S'u'p'p'r'e's's'i'o'n' 'o'f' 'a'l'l' 'r'e'l'i'g'i'o'n's' '2'6' 'J'a'n'u'a'r'y' '1'9'5'0'.' 'W'h'a't' 'w'a's' 'e'x'a'c't' 's't'a't'u's' 'o'f'
-'('b')' 'F'r'e'e'd'o'm' 'o'f' 'w'o'r's'h'i'p' 't'o' 'm'i'n'o'r'i't'i'e's' 'I'n'd'i'a' 'o'n' 't'h'a't' 'd'a'y'?'
-'('c')' 'S'e'p'a'r'a't'i'o'n' 'o'f' 'r'e'l'i'g'i'o'n' 'f'r'o'm' 'S't'a't'e' '('a')' 'A' 'D'e'm'o'c'r'a't'i'c' 'R'e'p'u'b'l'i'c'
-'('d')' 'A' 's'y's't'e'm' 'o'f' 'p'o'l'i't'i'c'a'l' 'a'n'd' 's'o'c'i'a'l' 'p'h'i'-' '('b')' 'S'o'v'e'r'e'i'g'n' 'D'e'm'o'c'r'a't'i'c' 'R'e'p'u'b'l'i'c'
-'l'o's'o'p'h'y' 't'h'a't' 'd'o'e's' 'n'o't' 'f'a'v'o'u'r' 'a'n'y' 'p'a'r'-' '('c')' 'S'o'v'e'r'e'i'g'n',' 'S'o'c'i'a'l'i's't'i'c',' 'S'e'c'u'l'a'r' 'D'e'm'o'-'
-'t'i'c'u'l'a'r' 'r'e'l'i'g'i'o'u's' 'f'a'i't'h' 'c'r'a't'i'c' 'R'e'p'u'b'l'i'c'
-'8'.' 'T'h'e' 'P'r'e'a'm'b'l'e' 't'o' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' '('d')' 'S'o'v'e'r'e'i'g'n',' 'S'e'c'u'l'a'r',' 'D'e'm'o'c'r'a't'i'c' 'R'e'-'
-'r'e'a'd's' 'p'u'b'l'i'c'
-'('a')' 'W'e',' 't'h'e' 'p'e'o'p'l'e' 'o'f' 'I'n'd'i'a'…'.'a'd'o'p't',' 'e'n'a'c't' '1'4'.' 'T'h'e' 'l'a'n'g'u'a'g'e's' '“'M'a'i't'h'i'l'i'”' 'a'n'd' '“'S'a'n't'h'a'l'i'”'
-'a'n'd' 'g'i'v'e' 't'o' 'I'n'd'i'a' 't'h'i's' 'C'o'n's't'i't'u't'i'o'n' 'a'r'e'
-'
-'('a')' 'r'e'c'o'g'n'i'z'e'd' 'i'n' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '2'2'.' 'R'e's'i'd'u'a'r'y' 'p'o'w'e'r' 'o'f' 'l'e'g'i's'l'a't'i'o'n' 'i'n' 'I'n'd'i'a' 'i'n'
-'('b')' 'n'o't' 'r'e'c'o'g'n'i'z'e'd' 'i'n' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'-' 't'h'e' 'c'a's'e' 'o'f' 'J'a'm'm'u' 'a'n'd' 'K'a's'h'm'i'r' 'b'e'l'o'n'g's'
-'d'i'a' 't'o'
-'('c')' 'r'e'c'o'g'n'i'z'e'd' 'i'n' 't'h'e' 'C'i't'i'z'e'n's'h'i'p' 'A'c't',' '('a')' 'S't'a't'e'
-'1'9'5'5' '('b')' 'U'n'i'o'n'
-'('d')' 'r'e'c'o'g'n'i'z'e'd' 'i'n' 'C'i't'i'z'e'n's'h'i'p' 'A'c't',' '1'9'5'5' '('c')' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'1'5'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'c'o'n'-' '('d')' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'
-'d'i't'i'o'n' 'f'o'r' 'b'e'c'o'm'i'n'g' 'a' 'c'i't'i'z'e'n' 'o'f' 'I'n'd'i'a'?' '2'3'.' 'I'n' 'I'n'd'i'a' 'w'h'i'l'e' 'i'm'p'o's'i'n'g' 'r'e'a's'o'n'a'b'l'e' 'r'e'-'
-'('a')' 'c'i't'i'z'e'n's'h'i'p' 'b'y' 'd'e's'c'e'n't' 's't'r'i'c't'i'o'n's' 'o'n' 't'h'e' 'r'i'g'h't' 't'o' 'a's's'e'm'b'l'e' 'p'e'a'c'e'-'
-'('b')' 'c'i't'i'z'e'n's'h'i'p' 'b'y' 'b'i'r't'h' 'f'u'l'l'y' 'a'n'd' 'w'i't'h'o'u't' 'a'r'm's',' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'-'
-'('c')' 'c'i't'i'z'e'n's'h'i'p' 't'h'r'o'u'g'h' 'a'c'q'u'i's'i't'i'o'n' 'o'f' 'i'n'g' 'c'o'n's'i'd'e'r'a't'i'o'n's' 'i's' 'm'a't'e'r'i'a'l'
-'p'r'o'p'e'r't'y' '('a')' 't'h'e' 's'e'c'u'r'i't'y' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'
-'('d')' 'c'i't'i'z'e'n's'h'i'p' 'b'y' 'n'a't'u'r'a'l'i'z'a't'i'o'n' '('b')' 't'h'e' 'm'o'r'a'l'i't'y' 'o'r' 'i'n't'e'g'r'i't'y' 'o'f' 't'h'e' 'p'u'b'l'i'c'
-'1'6'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'F'u'n'd'a'm'e'n't'a'l' '('c')' 't'h'e' 'i'n't'e'r'e's't' 'o'f' 's'o'v'e'r'e'i'g'n't'y' 'a'n'd' 'i'n't'e'g'-'
-'d'u't'y' 'o'f' 'a'n' 'I'n'd'i'a'n' 'c'i't'i'z'e'n'?' 'r'i't'y' 'o'f' 'I'n'd'i'a' 'o'r' 'p'u'b'l'i'c' 'o'r'd'e'r'
-'('d')' 'p'u'b'l'i'c' 'i'n't'e'r'e's't'
-'('a')' 'T'o' 'c'a's't' 'h'i's' 'v'o't'e' 'd'u'r'i'n'g' 'e'l'e'c't'i'o'n'.'
-'2'4'.' 'N'a'g'a'r' 'P'a'n'c'h'a'y'a't' 'i'n' 'I'n'd'i'a' 'i's' 'c'a'l'l'e'd'
-'('b')' 'T'o' 'd'e'v'e'l'o'p' 's'c'i'e'n't'i'f'i' 'c' 't'e'm'p'e'r' 'a'n'd' 's'p'i'r'i't'
-'('a')' 'M'u'n'i'c'i'p'a'l' 'i'n's't'i't'u't'i'o'n's' 'f'o'r' 't'r'a'n's'i't'i'o'n'a'l'
-'o'f' 'i'n'q'u'i'r'y'.'
-'a'r'e'a'
-'('c')' 'T'o' 'w'o'r'k' 'f'o'r' 'r'e'm'o'v'a'l' 'o'f' 'i'l'l'i't'e'r'a'c'y'.'
-'('b')' 'P'a'n'c'h'a'y'a't' 'f'o'r' 't'r'a'n's'i't'i'o'n'a'l' 'a'r'e'a'
-'('d')' 'T'o' 'h'o'n'o'u'r' 't'h'e' 'e'l'e'c't'e'd' 'l'e'a'd'e'r's'.'
-'('c')' 'T'e'h's'i'l' 'f'o'r' 't'h'e' 't'r'a'n's'i't'i'o'n'a'l' 'a'r'e'a'
-'1'7'.' 'T'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'i's' 'a' 'p'e'r'm'a'n'e'n't' 'h'o'u's'e'
-'('d')' 'B'l'o'c'k' 'h'e'a'd'q'u'a'r't'e'r' 'f'o'r' 't'r'a'n's'i't'i'o'n'a'l'
-'b'u't'
-'a'r'e'a'
-'('a')' 'o'n'e'-'h'a'l'f' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y'
-'2'5'.' 'T'h'e' 'L'o'k' 'A'd'a'l'a't's' 'i'n' 'I'n'd'i'a' 'c'a'n' 'd'e'a'l' 'w'i't'h' 't'h'e'
-'t'w'o' 'y'e'a'r's'
-'m'a't't'e'r' 'o'f'
-'('b')' 'o'n'e'-'f'i' 'f't'h' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y'
-'('a')' 'p'e'n'd'i'n'g' 'c'a's'e's' 'i'n' 't'h'e' 'c'o'u'r't's' 'o'n'l'y'
-'y'e'a'r'
-'('b')' 'n'e'w' 'c'a's'e's' 'i'n' 't'h'e' 'c'o'u'r't's' 'o'n'l'y'
-'('c')' 'o'n'e'-'t'h'i'r'd' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y'
-'('c')' 'a'l'l' 'c'a's'e's' 'w'h'i'c'h' 'p'e'n'd'i'n'g' 'b'e'f'o'r'e' 'c'o'u'r't','
-'t'w'o' 'y'e'a'r's'
-'a'n'd' 'n'e'w' 'c'a's'e's' 'c'o'm'e' 'u'n'd'e'r' 't'h'e' 'j'u'r'i's'-'
-'('d')' 'o'n'e'-'h'a'l'f' 'o'f' 'i't's' 'm'e'm'b'e'r's' 'r'e't'i'r'e' 'e'v'e'r'y'
-'d'i'c't'i'o'n'
-'t'h'r'e'e' 'y'e'a'r's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'1'8'.' 'T'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a'
-'2'6'.' 'H'o'w' 'm'a'n'y' 't'i'm'e's' 'h'a's' 't'h'e' 'P'r'e'a'm'b'l'e' 'o'f' 't'h'e'
-'('a')' 'i's' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't'
-'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'b'e'e'n' 'a'm'e'n'd'e'd' 's'o' 'f'a'r'?'
-'('b')' 'i's' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r's' 'o'f' 'R'a'j'y'a'
-'('a')' 't'h'r'i'c'e' '('b')' 't'w'i'c'e'
-'S'a'b'h'a'
-'('c')' 'o'n'c'e' '('d')' 'n'e'v'e'r'
-'('c')' 'i's' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'-'
-'2'7'.' 'T'h'e' 'b'a's'i'c' 'c'o'n'd'i't'i'o'n' 'i'm'p'o's'e'd' 'o'n' 't'h'e' 'c'i't'i'-'
-'h'a' 'a'n'd' 'R'a'j'y'a' 'S'a'b'h'a' 'j'o'i'n't'l'y'
-'z'e'n'’'s' 'r'i'g'h't' 't'o' 'a's's'e'm'b'l'e' 'i's' 't'h'a't' 't'h'e' 'a's's'e'm'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'b'l'y' 's'h'o'u'l'd' 'b'e'
-'1'9'.' 'I'n' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'p'o'i'n't's' 'i's' 't'h'e' 'I'n'-'
-'('a')' 'p'e'a'c'e'f'u'l'
-'d'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 's'i'm'i'l'a'r' 't'o' 't'h'a't' 'o'f' 'U'S'A'?'
-'('b')' 'n'o'n'-'v'i'o'l'e'n't'
-'('a')' 'R'i'g'i'd' 'C'o'n's't'i't'u't'i'o'n' '('c')' 'p'e'a'c'e'f'u'l' 'a'n'd' 'u'n'a'r'm'e'd'
-'('b')' 'R'u'l'e' 'o'f' 'L'a'w' '('d')' 'f'o'r' 'c'o'n's't'r'u'c't'i'v'e' 'a'i'm's'
-'('c')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't's' '2'8'.' 'W'h'o' 'i's' 't'h'e' 'l'o'n'g'e's't' 's'e'r'v'i'n'g' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'('d')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y' 'i'n' 'I'n'd'i'a'?'
-'2'0'.' 'D'i's'p'u't'e's' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'e'l'e'c't'i'o'n' 'o'f' 't'h'e' '('a')' 'B'h'a'j'a'n' 'L'a'l'
-'V'i'c'e'-'P'r'e's'i'd'e'n't' 'a'r'e' 'd'e'c'i'd'e'd' 'b'y' '('b')' 'H'i't'e's'h'w'a'r' 'S'a'i'k'i'a'
-'('a')' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('c')' 'C'h'i'm'a'n'b'h'a'i' 'P'a't'e'l'
-'('b')' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('d')' 'J'y'o't'i' 'B'a's'u'
-'('c')' 't'h'e' 'S'p'e'a'k'e'r' '2'9'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'v'e's't's' 't'h'e' 'e'x'e'c'u'-'
-'('d')' 't'h'e' 'P'r'e's'i'd'e'n't' 't'i'v'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'U'n'i'o'n' 'i'n'
-'2'1'.' 'T'h'e' 'e'l'e'c't'o'r'a't'e' 'f'o'r' 'a' 'P'a'n'c'h'a'y'a't' 'e'l'e'c't'i'o'n' 'i'n' '('a')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'I'n'd'i'a' 'i's' 't'h'e' '('b')' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('a')' 'T'e'h's'i'l' '('b')' 'P'a'n'c'h'a'y'a't' 'S'a'm'i't'i' '('c')' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's'
-'('c')' 'G'r'a'm' 'S'a'b'h'a' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('d')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'0'7'
-'3'0'.' 'V'o't'e' 'o'n' 'a'c'c'o'u'n't' 'i's' 'm'a'd'e' 'b'y' 't'h'e' 'L'o'k' 'S'a'b'-' '3'5'.' 'O'n' 'w'h'a't' 'b'a's'i's' 'L'o'k' 'S'a'b'h'a' 's'e'a't's' 'i'n' 'P'a'r'-'
-'h'a' 'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'a'r'e' 'a'l'l'o't't'e'd' 'i'n' 'v'a'r'i'o'u's'
-'('a')' 't'o' 'm'e'e't' 'e'x'p'e'n'd'i't'u'r'e' 'o'n' 'u'n'e'x'p'e'c't'e'd' 's't'a't'e's'?'
-'d'e'm'a'n'd' '('a')' 'p'o'p'u'l'a't'i'o'n' '('b')' 't'e'r'r'i't'o'r'y'
-'('b')' 't'o' 'm'e'e't' 'e'x'p'e'n'd'i't'u'r'e' 'o'n' 's'e'c'r'e't' 's'e'r'v'i'c'e' '('c')' 'p'o'v'e'r't'y' 'l'i'n'e' '('d')' 'l'i't'e'r'a'c'y'
-'('c')' 't'o' 'm'e'e't' 't'h'e' 'a'd'd'i't'i'o'n'a'l' 'e'x'p'e'n'd'i't'u'r'e' 'i'n'-' '3'6'.' 'W'h'e'n' 'c'a'n' 'a' 'P'r'e's'i'd'e'n't' 'r'e'f'e'r' 'a' 'm'a't't'e'r' 't'o' 't'h'e'
-'c'u'r'r'e'd' 'b'y' 't'h'e' 'g'o'v'e'r'n'm'e'n't' 'o'n' 'a'n'y' 'a'p'-' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'f'o'r' 'i't's' 'o'p'i'n'i'o'n'?'
-'p'r'o'v'e'd' 'i't'e'm' 'o'f' 'e'x'p'e'n'd'i't'u'r'e' 'd'u'r'i'n'g' 't'h'e' '('a')' 'W'h'e'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'f'e'e'l's' 'l'i'k'e' 'i't'
-'s'u'p'p'l'e'm'e'n't'a'r'y' 'b'u'd'g'e't' '('b')' 'W'h'e'n' 'a' 'm'a't't'e'r' 'i's' 'o'f' 'p'u'b'l'i'c' 'i'm'p'o'r'-'
-'('d')' 't'o' 'm'e'e't' 'e'x'p'e'n'd'i't'u'r'e' 'f'o'r' 'a' 'p'e'r'i'o'd' 'b'e'-' 't'a'n'c'e'
-'f'o'r'e' 'p'a's's'i'n'g' 'o'f' 't'h'e' 'a'n'n'u'a'l' 'b'u'd'g'e't' '('c')' 'W'h'e'n' 't'h'e' 'C'a'b'i'n'e't' 'i's' 'n'o't' 'f'u'n'c't'i'o'n'i'n'g'
-'3'1'.' 'A'r't'i'c'l'e' '3'5'2' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'p'r'o'-' 'p'r'o'p'e'r'l'y'
-'v'i'd'e's' 'f'o'r' '('d')' 'W'h'e'n' 'e'm'e'r'g'e'n'c'y' 'h'a's' 't'o' 'b'e' 'p'r'o'm'u'l'-'
-'('a')' 'N'a't'i'o'n'a'l' 'C'o'm'm'i's's'i'o'n' 'f'o'r' 'S'c'h'e'd'u'l'e'd' 'g'a't'e'd'
-'C'a's't'e's' 'a'n'd' 'S'c'h'e'd'u'l'e'd' 'T'r'i'b'e's' '3'7'.' 'W'h'o' 'i's' 'e'n't'i't'l'e'd' 't'o' 'i'n'i't'i'a't'e' 'a' 'B'i'l'l' 'f'o'r' 'C'o'n's't'i'-'
-'('b')' 'P'r'o'c'l'a'm'a't'i'o'n' 'o'f' 'e'm'e'r'g'e'n'c'y' 't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't's'?'
-'('c')' 'S'p'e'c'i'a'l' 'p'r'o'v'i's'i'o'n' 'f'o'r' 'A'n'g'l'o'-'I'n'd'i'a'n' '('a')' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'i'e's'
-'c'o'm'm'u'n'i't'y' 'i'n' 'c'e'r't'a'i'n' 's'e'r'v'i'c'e's' '('b')' 'L'o'k' 'S'a'b'h'a' 'o'n'l'y'
-'('d')' 'A'p'p'o'i'n't'm'e'n't' 'o'f' 'a' 'C'o'm'm'i's's'i'o'n' 't'o' 'i'n'-' '('c')' 'E'i't'h'e'r' 'H'o'u's'e' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'v'e's't'i'g'a't'e' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'o'f' 'b'a'c'k'w'a'r'd' '('d')' 'R'a'j'y'a' 'S'a'b'h'a' 'o'n'l'y'
-'c'l'a's's'e's' '3'8'.' 'T'h'e' 'w'o'r'd's' '‘'s'o'c'i'a'l',' 's'e'c'u'l'a'r'’' 'a'n'd' '‘'t'h'e' 'u'n'i'-'
-'3'2'.' 'A'r't'i'c'l'e' '2'4' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'p'r'o'h'i'b'-' 't'y' 'a'n'd' 'i'n't'e'g'r'i't'y' 'o'f' 't'h'e' 'n'a't'i'o'n'’' 'h'a'v'e' 'b'e'e'n'
-'i't's' 'e'm'p'l'o'y'm'e'n't' 'o'f' 'c'h'i'l'd'r'e'n' 'i'n' 'f'a'c't'o'r'i'e's'.' 'a'd'd'e'd' 't'o' 't'h'e' 'I'n'd'i'a'n' 'C'o'n's't'i't'u't'i'o'n' 'b'y' 'w'h'i'c'h'
-'A'c'c'o'r'd'i'n'g' 't'o' 'i't' 'a'm'e'n'd'm'e'n't'?'
-'('a')' 'c'h'i'l'd'r'e'n' 'b'e'l'o'w' '1'4' 'y'e'a'r's' 'o'f' 'a'g'e' 's'h'a'l'l' '('a')' '3'8't'h' '('b')' '4'0't'h'
-'n'o't' 'b'e' 'e'm'p'l'o'y'e'd' 'i'n' 'a' 'c'o'a'l' 'm'i'n'e' 'o'r' 'f'a'c'-' '('c')' '4'2'n'd' '('d')' '4'8't'h'
-'t'o'r'y' '3'9'.' 'B'y' 'w'h'i'c'h' 'a'm'e'n'd'm'e'n't' 'w'a's' 't'h'e' 'p'o'w'e'r' 'o'f'
-'('b')' 'a' 'c'h'i'l'd' 'b'e'l'o'w' '1'4' 'y'e'a'r's' 'o'f' 'a'g'e' 's'h'a'l'l' 'n'o't' 't'h'e' 'L'o'k' 'S'a'b'h'a' 't'o' 'a'm'e'n'd' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'b'e' 'e'm'p'l'o'y'e'd' 't'o' 'w'o'r'k' 'i'n' 'a'n'y' 'h'a'z'a'r'd'-' 'a'f'f'i' 'r'm'e'd'?'
-'o'u's' 'e'm'p'l'o'y'm'e'n't' '('a')' '2'4't'h' '('b')' '4'2'n'd'
-'('c')' 'a' 'c'h'i'l'd' 'b'e'l'o'w' '1'4' 'y'e'a'r's' 's'h'a'l'l' 'n'o't' 'b'e' '('c')' '4'3'r'd' '('d')' '3'9't'h'
-'e'm'p'l'o'y'e'd' 'i'n' 'a' 'f'a'c't'o'r'y' 'o'r' 'a' 'm'i'n'e' 'o'r' 'a'n'y' '4'0'.' 'A't' 'p'r'e's'e'n't' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'c'o'n's'i's't's' 'o'f'
-'h'a'z'a'r'd'o'u's' 'e'm'p'l'o'y'm'e'n't' 'h'o'w' 'm'a'n'y' 'j'u'd'g'e's' 'b'e's'i'd'e's' 't'h'e' 'C'h'i'e'f' 'J'u's'-'
-'('d')' 'B'o't'h' '('a')' 'a'n'd' '('b')' 't'i'c'e'?'
-'3'3'.' 'R'i'g'h't' 't'o' 'P'r'o'p'e'r't'y' 'i'n' 'I'n'd'i'a' 'i's' 'a' '('a')' '2'0' '('b')' '1'8'
-'('a')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't' '('c')' '2'4' '('d')' '2'5'
-'('b')' 'L'e'g'a'l' 'r'i'g'h't' 'a'n'd' 'C'o'n's't'i't'u't'i'o'n'a'l' 'R'i'g'h't' '4'1'.' 'A'r't'i'c'l'e' '3'0' '('1')' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 't'h'e'
-'('c')' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'y' 'r'i'g'h't' 't'o' 'e's't'a'b'l'i's'h' 'a'n'd' 'a'd'm'i'n'i's't'e'r' 'e'd'u'c'a'-'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 't'i'o'n'a'l' 'i'n's't'i't'u't'i'o'n' 'b'e'l'o'n'g's' 't'o'
-'3'4'.' 'A's' 'r'e'g'a'r'd's' 't'h'e' 'i'm'p'e'a'c'h'm'e'n't' 'o'f' 't'h'e' 'P'r'e's'i'-' '('a')' 'r'e'l'i'g'i'o'u's' 'a'n'd' 'l'i'n'g'u'i's't'i'c' 'm'i'n'o'r'i't'i'e's'
-'d'e'n't' 'o'f' 'I'n'd'i'a' '('b')' 'm'i'n'o'r'i't'i'e's' 'a's' 'w'e'l'l' 'a's' 'm'a'j'o'r'i't'i'e's'
-'('a')' 'a'n'y' 'c'i't'i'z'e'n' 'c'a'n' 'p'r'e'f'e'r' 't'h'e' 'c'h'a'r'g'e' '('c')' 'a'l'l' 'c'i't'i'z'e'n's' 'o'f' 'I'n'd'i'a'
-'('b')' 'a'n'y' 'c'h'a'r'g'e' 'c'a'n' 'b'e' 'p'r'e'f'e'r'r'e'd' 'o'n'l'y' 'b'y' '('d')' 'a'l'l' 'p'e'o'p'l'e' 'o'f' 'I'n'd'i'a'
-'a' 'r'e's'o'l'u't'i'o'n' 'm'o'v'e'd' 'b'y' 'n'o't' 'l'e's's' 't'h'a'n' '4'2'.' 'T'h'e' 'w'o'r'd' '‘'p'r'a'c't'i'c'e'’' 'm'e'n't'i'o'n'e'd' 'i'n' 'A'r't'i'c'l'e'
-'o'n'e'-'h'a'l'f' 'o'f' 't'h'e' 't'o't'a'l' 'n'u'm'b'e'r' 'o'f' 't'h'e' '2'5' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'd'o'e's' 'n'o't' 'i'n'-'
-'m'e'm'b'e'r's' 'o'f' 't'h'e' 'H'o'u's'e' 's't'r'a'i'g'h't'w'a'y' 'c'l'u'd'e'
-'('c')' 'a' 'r'e's'o'l'u't'i'o'n' 'm'o'v'e'd' 'a'f't'e'r',' 'a't' 'l'e'a's't',' '('a')' 'p'r'o'p'a'g'a't'i'o'n' '('b')' 'r'e'l'i'g'i'o'u's' 'w'o'r's'h'i'p'
-'f'o'u'r't'e'e'n' 'd'a'y's'’' 'n'o't'i'c'e' 'i'n' 'w'r'i't'i'n'g' 's'i'g'n'e'd' '('c')' 'r'i't'u'a'l's' '('d')' 'o'b's'e'r'v'a't'i'o'n's'
-'b'y' 'n'o't' 'l'e's's' 't'h'a'n' 'o'n'e'-'f'o'u'r't'h' 'o'f' 't'h'e' 't'o't'a'l' '4'3'.' 'T'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r' 'r'e'm'a'i'n's' 'i'n' 'o'f'f'i' 'c'e'
-'m'e'm'b'e'r's' 'o'f' 't'h'e' 'H'o'u's'e' 'a'n'd' 'p'a's's'i'n'g' 'o'f' 'a's' 'l'o'n'g' 'a's' 'i't' 'e'n'j'o'y's' 't'h'e' 'c'o'n'f'i' 'd'e'n'c'e' 'o'f'
-'s'u'c'h' 'r'e's'o'l'u't'i'o'n' 'b'y' 'a' 'm'a'j'o'r'i't'y' 'o'f' 'n'o't' '('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'l'e's's' 't'h'a'n' 't'w'o'-'t'h'i'r'd's' 'o'f' 't'h'e' 't'o't'a'l' 'm'e'm'-' '('b')' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'
-'b'e'r's'h'i'p' 'o'f' 't'h'e' 'H'o'u's'e' '('c')' 'L'o'k' 'S'a'b'h'a' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('d')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'o'f' 'I'n'd'i'a'
-'
-'4'4'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'e' 'i'n'c'l'u'd'e'd' 'i'n' 't'h'e' '('a')' 'C'o'n't'r'a'c't' 'o'f' 'g'u'a'r'a'n't'e'e'
-'c'o'n'c'e'p't' 'o'f' '‘'t'h'e' 'S't'a't'e'’' 'u'n'd'e'r' 'A'r't'i'c'l'e' '1'2' 'o'f' '('b')' 'C'o'n't'r'a'c't' 'o'f' 'i'n'd'e'm'n'i't'y'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' '('c')' 'C'o'n't'i'n'g'e'n't' 'c'o'n't'r'a'c't'
-'('a')' 'R'a'i'l'w'a'y' 'B'o'a'r'd' 'a'n'd' 'E'l'e'c't'r'i'c'i't'y' 'B'o'a'r'd' '('d')' 'U'n'l'a'w'f'u'l' 'C'o'n't'r'a'c't'
-'('b')' 'U'n'i'v'e'r's'i't'y' '5'3'.' 'I'n' 'U'n'n'i'k'r'i's'h'n'a'n' 'v's' 'C'a'l'i'c'u't' 'U'n'i'v'e'r's'i't'y','
-'('c')' 'J'u'd'i'c'i'a'r'y' 'U'n'n'i'k'r'i's'h'n'a'n',' 'a' 'c'a'n'd'i'd'a't'e' 'f'o'r' 't'h'e' 'L'.'L'.'B'.'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e' 'P'a'r't'-'I' 'e'x'a'm',' 'w'h'o' 'w'a's' 's'h'o'r't' 'o'f' 'a't't'e'n'd'a'n'c'e','
-'4'5'.' '‘'C'o'u'r't' 'f'e'e'’' 't'a'k'e'n' 'b'y' 'H'i'g'h' 'C'o'u'r't' 'i'n' 'I'n'd'i'a' 'd'i'd' 'n'o't' 'm'e'n't'i'o'n' 't'h'a't' 'f'a'c't' 'h'i'm's'e'l'f' 'i'n' 't'h'e' 'a'd'-'
-'c'o'm'e's' 'u'n'd'e'r' 'm'i's's'i'o'n' 'f'o'r'm' 'f'o'r' 't'h'e' 'e'x'a'm'i'n'a't'i'o'n'.' 'N'e'i't'h'e'r'
-'('a')' 'U'n'i'o'n' 'L'i's't' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 't'h'e' 'H'e'a'd' 'o'f' 't'h'e' 'L'a'w' 'D'e'p'a'r't'm'e'n't' 'n'o'r' 't'h'e'
-'('b')' 'S't'a't'e' 'L'i's't' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'U'n'i'v'e'r's'i't'y' 'a'u't'h'o'r'i't'i'e's' 'm'a'd'e' 'p'r'o'p'e'r' 's'c'r'u'-'
-'('c')' 'C'o'n'c'u'r'r'e'n't' 'L'i's't' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'-' 't'i'n'y' 't'o' 'd'i's'c'o'v'e'r' 't'h'e' 't'r'u't'h'.' 'I't' 'w'a's' 'h'e'l'd' 'b'y'
-'d'i'a' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 't'h'a't'
-'('d')' 'D'e'c'i'd'e'd' 'b'y' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'-' '('a')' 'T'h'e'r'e' 'w'a's' 'f'r'a'u'd' 'b'y' 't'h'e' 'c'a'n'd'i'd'a't'e'
-'d'i'a' '('b')' 'T'h'e'r'e' 'w'a's' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'b'y' 't'h'e'
-'4'6'.' 'W'h'o' 'h'e'a'd's' 't'h'e' 'n'e'w' 'C'o'm'm'i's's'i'o'n' 'o'n' 'C'e'n'-' 'c'a'n'd'i'd'a't'e'
-'t'r'e'–'S't'a't'e' 'r'e'l'a't'i'o'n's' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e' 'g'o'v'-'
-'('c')' 'T'h'e'r'e' 'w'a's' 'n'o' 'f'r'a'u'd' 'b'y' 't'h'e' 'c'a'n'd'i'd'a't'e'
-'e'r'n'm'e'n't' 'i'n' 'A'p'r'i'l' '2'0'0'7'?'
-'('d')' 'N'o'n'e'
-'('a')' 'M'.' 'M'.' 'P'u'n'c'h'h'i'
-'5'4'.' 'A' 'p'r'o'p'o's'a'l' 'c'a'n' 'b'e' 'a'c'c'e'p't'e'd'
-'('b')' 'M'.' 'V'e'e'r'a'p'p'a' 'M'o'i'l'y'
-'('a')' 'B'y' 'p'e'r'f'o'r'm'a'n'c'e' 'o'f' 'c'o'n'd'i't'i'o'n'
-'('c')' 'K'.' 'C'.' 'P'a'n't'
-'('b')' 'B'y' 'n'o't'i'c'e'
-'('d')' 'N'.' 'R'.' 'M'a'd'h'a'v' 'M'e'n'o'n'
-'('c')' 'B'y' 'a'c'c'e'p't'a'n'c'e' 'o'f' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 'a'
-'4'7'.' 'I'n' '2'0'0'6' 'P'r'e's'i'd'e'n't' 'A'b'd'u'l' 'K'a'l'a'm' 's'e'n't' 'b'a'c'k'
-'r'e'c'i'p'r'o'c'a'l' 'p'r'o'm'i's'e'
-'a' 'b'i'l'l' 'p'a's's'e'd' 'b'y' 'P'a'r'l'i'a'm'e'n't' 'f'o'r' 'r'e'c'o'n's'i'd'-'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'e'r'a't'i'o'n'.' 'T'h'e' 'B'i'l'l' 'r'e'l'a't'e'd' 't'o'
-'5'5'.' 'A' 't'e'n'd'e'r' 'i's'
-'('a')' 'r'e's'e'r'v'a't'i'o'n's' 'f'o'r' 't'h'e' 'O'B'C's'
-'('a')' 'A'n' 'a'g'r'e'e'm'e'n't'
-'('b')' '5'6' 'o'f'f'i' 'c'e's' 'o'f' 'p'r'o'f'i' 't'
-'('b')' 'A' 'p'r'o'p'o's'a'l'
-'('c')' 's't'a't'e' 'f'u'n'd'i'n'g' 'o'f' 'e'l'e'c't'i'o'n's'
-'('c')' 'A'n' 'i'n'v'i't'a't'i'o'n' 't'o' 'o'f'f'e'r'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'A'n' 'o'f'f'e'r'
-'4'8'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e's' 'i's' 'r'e'-'
-'5'6'.' 'T'h'e' 'p'e'r's'o'n' 'a'c'c'e'p't'i'n'g' 't'h'e' 'p'r'o'p'o's'a'l' 'i's'
-'g'a'r'd'e'd' 'a's' 't'h'e' 'p'i'o'n'e'e'r' 'o'f' 't'h'e' 'R'i'g'h't' 't'o' 'I'n'-'
-'c'a'l'l'e'd'
-'f'o'r'm'a't'i'o'n' 'i'n' 'I'n'd'i'a'?'
-'('a')' 'P'r'o'm'i's'o'r' '('b')' 'P'r'o'm'i's'e'
-'('a')' 'R'a'j'a's't'h'a'n'
-'('c')' 'A'c'c'e'p't'o'r' '('d')' 'O'f'f'e'r'e'd'
-'('b')' 'W'e's't' 'B'e'n'g'a'l'
-'5'7'.' 'A' 'c'o'n't'r'a'c't's' 't'o' 'p'a'y' 't'o' 'B' '`' '1','0'0'0'/'-' 'i'f' 'B'’'s'
-'('c')' 'H'i'm'a'c'h'a'l' 'P'r'a'd'e's'h'
-'h'o'u's'e' 'i's' 'b'u'r'n't'.' 'T'h'i's' 'i's' 'a'
-'('d')' 'K'e'r'a'l'a'
-'('a')' 'V'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't'
-'4'9'.' 'U'n'd'e'r' 'w'h'o's'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r's'h'i'p' 'w'a's' 't'h'e'
-'('b')' 'W'a'g'e'r'i'n'g' 'c'o'n't'r'a'c't'
-'a'n't'i'-'d'e'f'e'c't'i'o'n' 'l'a'w' 'p'a's's'e'd'?'
-'('c')' 'C'o'n't'i'n'g'e'n't' 'c'o'n't'r'a'c't'
-'('a')' 'R'a'j'i'v' 'G'a'n'd'h'i' '('b')' 'I'n'd'i'r'a' 'G'a'n'd'h'i'
-'('d')' 'N'o'n'e'
-'('c')' 'V'.' 'P'.' 'S'i'n'g'h' '('d')' 'A'.' 'B'.' 'V'a'j'p'a'y'e'e'
-'5'8'.' 'U'l't'r'a' 'v'i'r'e's' 'i'm'p'l'i'e's'
-'5'0'.' 'W'h'a't' 'i's' '‘'c'o'g'n'i'z'a'n'c'e'’'?'
-'('a')' 'A'r'o'u's'i'n'g' 'j'u'd'i'c'i'a'l' 'n'o't'i'c'e' 'o'r' 'k'n'o'w'l'-' '('a')' 'a' 'w'r'i't'
-'e'd'g'e' '('b')' 'p'e'n'd'i'n'g' 'b'e'f'o'r'e' 'c'o'u'r't'
-'('b')' 'I't' 'i's' 'a' 'c'r'i'm'e' '('c')' 'B'e'y'o'n'd' 'o'n'e'’'s' 'p'o'w'e'r'
-'('c')' 'I't' 'm'e'a'n's' 'c'u's't'o'd'y' 'w'i't'h'o'u't' 'w'a'r'r'a'n't' '('d')' 'B'e'y'o'n'd' 'o'n'e'’'s' 'k'n'o'w'l'e'd'g'e'
-'('d')' 'I't' 'm'e'a'n's' 'c'u's't'o'd'y' 'w'i't'h' 'w'a'r'r'a'n't' '5'9'.' '“'L'a'w' 'i's' 'a'n' 'a's's'”' 'w'h'o' 's'a'i'd' 't'h'i's'?'
-'5'1'.' 'W'h'e'n' 't'h'e' 'c'o'n's'e'n't' 'o'f' 'a' 'p'a'r't'y' 't'o' 'a' 'c'o'n't'r'a'c't' '('a')' 'L'o'c'k'e'
-'h'a's' 'b'e'e'n' 'o'b't'a'i'n'e'd' 'b'y' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e',' '('b')' 'M'a'r'x'
-'f'r'a'u'd' 'o'r' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 't'h'e' 'c'o'n't'r'a'c't' 'i's' '('c')' 'C'h'a'r'l'e's' 'D'i'c'k'e'n's'
-'('a')' 'L'e'g'a'l' '('b')' 'V'o'i'd' '('d')' 'A'b'r'a'h'i'm' 'L'i'n'c'o'l'n'
-'('c')' 'V'o'i'd'a'b'l'e' '('d')' 'E'n'f'o'r'c'e'a'b'l'e' '6'0'.' 'T'h'e' 'R'i'g'h't' 't'o' 'I'n'f'o'r'm'a't'i'o'n' 'A'c't',' '2'0'0'5' 'r'e'-'
-'5'2'.' '“'A' 'c'o'n't'r'a'c't' 't'o' 'd'o' 'o'r' 'n'o't' 't'o' 'd'o' 's'o'm'e't'h'i'n'g',' 'p'e'a'l'e'd':'
-'i'f' 's'o'm'e' 'e'v'e'n't' 'c'o'l'l'a't'e'r'a'l' 't'o' 's'u'c'h' 'c'o'n't'r'a'c't' '('a')' 'T'h'e' 'F'r'e'e'd'o'm' 'o'f' 'I'n'f'o'r'm'a't'i'o'n' 'A'c't','
-'d'o'e's' 'o'r' 'd'o'e's' 'n'o't' 'h'a'p'p'e'n'”' 'i's' 'c'a'l'l'e'd' '2'0'0'5'.'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'0'9'
-'('b')' 'T'h'e' 'F'r'e'e'd'o'm' 'o'f' 'I'n'f'o'r'm'a't'i'o'n' 'A'c't',' '('b')' 'B'a'n'k'e'r's' 'B'o'o'k' 'o'f' 'e'v'i'd'e'n'c'e'
-'2'0'0'0'.' '('c')' 'N'e'g'o't'i'a'b'l'e' 'I'n's't'r'u'm'e'n't's' 'A'c't'
-'('c')' 'T'h'e' 'F'r'e'e'd'o'm' 'o'f' 'i'n'f'o'r'm'a't'i'o'n' 'A'c't',' '('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'2'0'0'3'.' '7'1'.' 'I'n'n'u'e'n'd'o' 'h'i'n't's' 'a't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '('a')' 'S'l'a'n'd'e'r' '('b')' 'D'e'f'a'm'a't'i'o'n'
-'6'1'.' 'T'r'a'n's'f'e'r' 'o'f' 'P'r'o'p'e'r't'y' 'A'c't' '1'8'8'2' 'c'o'v'e'r's' '('c')' 'I'n's'u'n'i'a't'i'o'n' '('d')' 'L'i'b'e'l'
-'('a')' 'M'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' '7'2'.' 'W'h'i'c'h' 'c'o'u'r't' 'n'u'l'l'i'f'i' 'e'd' 'M'r's' 'I'n'd'i'r'a' 'G'a'n'd'h'i'’'s'
-'('b')' 'I'm'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'e'l'e'c't'i'o'n' 't'o' 'L'o'k' 'S'a'b'h'a' 'i'n' '1'9'7'5'?'
-'('c')' 'B'o't'h' '('a')' 'a'n'd' '('b')' '('a')' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'o'f' 'I'n'd'i'a'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 'A'l'l'a'h'a'b'a'd' 'H'i'g'h' 'C'o'u'r't'
-'6'2'.' 'S'a'r'a'd'a' 'A'c't' 'i's' 'c'a'l'l'e'd' '('c')' 'D'e'l'h'i' 'H'i'g'h' 'C'o'u'r't'
-'('a')' 'D'o'm'e's't'i'c' 'V'i'o'l'e'n'c'e' 'A'c't' '('d')' 'B'o'm'b'a'y' 'H'i'g'h' 'C'o'u'r't'
-'('b')' 'S'p'e'c'i'a'l' 'M'a'r'r'i'a'g'e' 'A'c't' '7'3'.' 'T'h'e' 'S'h'a'h' 'B'a'n'o' 'c'a's'e' 'r'e'l'a't'e'd' 't'o'
-'('c')' 'D'o'w'r'y' 'P'r'o'h'i'b'i't'i'o'n' 'A'c't' '('a')' 'M'u's'l'i'm' 'w'i'f'e'’'s' 'r'i'g'h't' 't'o' 'd'i'v'o'r'c'e'
-'('d')' 'C'h'i'l'd' 'M'a'r'r'i'a'g'e' 'R'e's't'r'a'i'n't' 'A'c't' '('b')' 'M'u's'l'i'm' 'w'i'f'e'’'s' 'r'i'g'h't' 't'o' 'h'u's'b'a'n'd'’'s'
-'6'3'.' 'W'h'i'c'h' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'C'o'm'm'i't't'e'e' 'i'n' 'I'n'-' 'p'r'o'p'e'r't'y'
-'d'i'a'n' 's'y's't'e'm' 'i's' 'c'h'a'i'r'e'd' 'b'y' 't'h'e' 'm'e'm'b'e'r' 'o'f' '('c')' 'M'u's'l'i'm' 'w'i'f'e'’'s' 'r'i'g'h't' 't'o' 'm'a'i'n't'e'n'a'n'c'e'
-'o'p'p'o's'i't'i'o'n' 'p'a'r't'y'?' 'a'f't'e'r' 'd'i'v'o'r'c'e'
-'('a')' 'J'o'i'n't' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'C'o'm'm'i't't'e'e' '('d')' 'M'u's'l'i'm' 'w'i'f'e'’'s' 'r'i'g'h't' 't'o' 's'e'p'a'r'a't'i'o'n'
-'('b')' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e' '7'4'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'e' 'a's's'o'c'i'a't'e'd'
-'('c')' 'E's't'i'm'a't'e's' 'C'o'm'm'i't't'e'e' 'w'i't'h' 't'h'e' 'p'r'o'c'e's's' 'o'f' 'p'l'a'n'n'i'n'g' 'i'n' 'I'n'd'i'a'?'
-'('d')' 'P'r'i'v'i'l'e'g'e's' 'C'o'm'm'i't't'e'e' '1'.' 'I'n'd'i'a'n' 'P'a'r'l'i'a'm'e'n't'
-'6'4'.' 'A' 's'e'n't'e'n'c'e' 'o'f' 'd'e'a't'h' 'b'y' 'a' 'l'o'w'e'r' 'c'o'u'r't' '2'.' 'P'l'a'n'n'i'n'g' 'C'o'm'm'i's's'i'o'n'
-'('a')' 'M'u's't' 'b'e' 'c'o'n'f'i' 'r'm'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' '3'.' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l'
-'('b')' 'M'u's't' 'b'e' 'c'o'n'f'i' 'r'm'e'd' 'b'y' 'S'u'p'r'e'm'e' 'C'o'u'r't' '4'.' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n'
-'('c')' 'M'u's't' 'b'e' 'c'o'n'f'i' 'r'm'e'd' 'b'y' 'H'i'g'h' 'C'o'u'r't' '('a')' '1' 'a'n'd' '2' '('b')' '1' 'a'n'd' '4'
-'('d')' 'I's' 'o'p'e'r'a't'i'o'n'a'l' 'i'f' 'n'o' 'a'p'p'e'a'l' 'i's' 'm'a'd'e' 't'o' '('c')' '2' 'a'n'd' '3' '('d')' '2' 'a'n'd' '4'
-'h'i'g'h'e'r' 'c'o'u'r't's' '7'5'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'm'o't'i'o'n's' 'i's' 'r'e'-'
-'6'5'.' 'A'l'l' 'p'l'a'n's',' 'f'o'r'm'u'l'a't'e'd' 'b'y' 'P'l'a'n'n'i'n'g' 'C'o'm'-' 'l'a't'e'd' 'w'i't'h' 't'h'e' 'U'n'i'o'n' 'B'u'd'g'e't'?'
-'m'i's's'i'o'n' 'm'u's't' 'b'e' 'a'p'p'r'o'v'e'd' 'b'y' '('a')' 'A'd'j'o'u'r'n'm'e'n't' 'm'o't'i'o'n'
-'('a')' 'P'r'e's'i'd'e'n't' '('b')' 'C'u't' 'm'o't'i'o'n'
-'('b')' 'P'a'r'l'i'a'm'e'n't' '('c')' 'C'e'n's'u'r'e' 'm'o't'i'o'n'
-'('c')' 'N'a't'i'o'n'a'l' 'D'e'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('d')' 'U'n'i'o'n' 'C'a'b'i'n'e't' '7'6'.' 'T'h'e' 'H'o'u's'e' 'o'f' 'P'e'o'p'l'e's' '('L'o'k' 'S'a'b'h'a')' 'c'a'n' 'b'e'
-'6'6'.' 'W'h'a't' 'i's' 'a' 'c'a'v'e'a't'?' 'a'd'j'o'u'r'n'e'd' 's'i'n'e' 'd'i'e' 'b'y'
-'('a')' 'W'r'i't' '('b')' 'C'e'r't'i'o'r'a'r'i' '('a')' 'T'h'e' 'S'p'e'a'k'e'r'
-'('b')' 'A' 'w'a'r'n'i'n'g' '('d')' 'A'n' 'i'n'j'u'n'c't'i'o'n' '('b')' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'6'7'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'm'a'k'e's' 'a'n' 'a'f'f'i' 'd'a'v'i't' 'o'r' 'd'e'p'o'-' '('c')' 'T'h'e' 'P'r'e's'i'd'e'n't'
-'s'i't'i'o'n' 'i'n' 'c'a'l'l'e'd' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'P'l'a'i'n't'i'f'f' '('b')' 'W'i't'n'e's's' '7'7'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 't'r'u'e' 'a'b'o'u't'
-'('c')' 'D'e'p'o'n'e'n't' '('d')' 'D'e'f'e'n'd'a'n't' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'?'
-'6'8'.' 'D'e'c'e'i't' 'i's' '('a')' 'I't' 'h'a's' 'o'n'l'y' 't'h'e' 'A'p'p'e'l'l'a't'e' 'j'u'r'i's'd'i'c't'i'o'n'
-'('a')' 'A' 'c'r'i'm'e' '('b')' 'I't' 'i's' 't'h'e' 'h'i'g'h'e's't' 'f'e'd'e'r'a'l' 'c'o'u'r't' 'o'f' 'I'n'd'i'a'
-'('b')' 'A' 't'o'r't' '('c')' 'I't' 'd'o'e's' 'n'o't' 'h'a'v'e' 't'h'e' 'O'r'i'g'i'n'a'l' 'j'u'r'i's'd'i'c'-'
-'('c')' 'B'o't'h' '('a')' 'a'n'd' '('b')' 't'i'o'n'
-'('d')' 'A' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't' '('d')' 'I't' 'c'a'n' 'a'm'e'n'd' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'6'9'.' '‘'S't'a'y' 'O'r'd'e'r'’' 'h'a's' 't'h'e' 'e'f'f'e'c't' 'o'f' '7'8'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'c'o'r'r'e'c't' 'r'e'g'a'r'd'-'
-'('a')' 'P'r'o' 'r'a't'a' 'i'n'g' 't'h'e' 'G'o'v'e'r'n'o'r' 'o'f' 'a' 'S't'a't'e'?'
-'('b')' 'S't'a't'u's' 'q'u'o' '('a')' 'N'o' 'M'o'n'e'y' 'B'i'l'l' 'c'a'n' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n'
-'('c')' 's't'o'p'p'i'n'g' 'a'n' 'o'r'd'e'r' 'o'f' 'l'o'w'e'r' 'c'o'u'r't' 'f'r'o'm' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'w'i't'h'o'u't' 'h'i's' 'p'r'i'o'r'
-'w'o'r'k'i'n'g' 'p'e'r'm'i's's'i'o'n'
-'('d')' 's'i'n'e' 'd'i'e' '('b')' 'H'e' 'h'a's' 't'h'e' 'p'o'w'e'r' 'o'f' 'i's's'u'i'n'g' 'o'r'd'i'n'a'n'c'-'
-'7'0'.' 'C'h'e'q'u'e' 'i's' 'd'e'f'i' 'n'e'd' 'i'n' 'e's' 'w'h'e'n' 't'h'e' 'L'e'g'i's'l'a't'u'r'e' 'i's' 'n'o't' 'i'n' 's'e's'-'
-'('a')' 'B'a'n'k'i'n'g' 'R'e'g'u'l'a't'i'o'n' 'A'c't' 's'i'o'n'
-'
-'('c')' 'H'e' 'c'a'n' 'r'e'c'o'm'm'e'n'd' 't'o' 't'h'e' 'P'r'e's'i'd'e'n't' 't'o' '('a')' 'T'h'e' 't'w'o' 'H'o'u's'e's' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'i'm'p'o's'e' 'P'r'e's'i'd'e'n't'’'s' 'R'u'l'e' 'i'n' 't'h'e' 'S't'a't'e' 'p'a's's' 'a' 'B'i'l'l' 'b'y' '2'/'3'r'd' 'm'a'j'o'r'i't'y'
-'('d')' 'A'l'l' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'g'e't's' 'a' 'B'i'l'l' 'p'a's's'e'd' 'b'y' 't'h'e'
-'7'9'.' 'I's' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'b'o'u'n'd' 't'o' 'a'd'v'i's'e' 't'h'e' 's'i'm'p'l'e' 'm'a'j'o'r'i't'y' 'o'f' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a'-'
-'P'r'e's'i'd'e'n't' 'o'n' 'm'a't't'e'r's' 'o'n' 'w'h'i'c'h' 'h'i's' 'a'd'v'i'c'e' 't'u'r'e'
-'i's' 's'o'u'g'h't'?' '('c')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'l'l's' 'f'o'r' 't'h'e' 'v'i'e'w's' 'o'f'
-'('a')' 'Y'e's' 't'h'e' 'S't'a't'e' 'a'n'd' 't'h'e'n' 't'h'e' 't'w'o' 'H'o'u's'e's' 'o'f'
-'('b')' 'N'o' 'P'a'r'l'i'a'm'e'n't' 'p'a's's' 'a' 'B'i'l'l' 't'o' 't'h'i's' 'e'f'f'e'c't' 'b'y'
-'s'i'm'p'l'e' 'm'a'j'o'r'i't'y'
-'('c')' 'I't' 'i's' 'd'i's'c'r'e't'i'o'n'a'r'y'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('d')' 'Y'e's',' 'i'f' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 's'o' 'd'e'-'
-'8'6'.' 'T'h'e' 'P'r'e's'i'd'e'n't' 'c'a'n' 'm'a'k'e' 'l'a'w's' 't'h'r'o'u'g'h' 'o'r'-'
-'s'i'r'e's'
-'d'i'n'a'n'c'e's'
-'8'0'.' 'P'u'b'l'i'c' 'I'n't'e'r'e's't's' 'L'i't'i'g'a't'i'o'n' '('P'I'L')',' 'i's' 'o'n'e' 'i'n'
-'('a')' 'o'n'l'y' 'o'n' 's'u'b'j'e'c't's' 'c'o'n't'a'i'n'e'd' 'i'n' 't'h'e' 'C'o'n'-'
-'w'h'i'c'h'
-'c'u'r'r'e'n't' 'L'i's't'
-'('a')' 't'r'i'a'l' 'i's' 'h'e'l'd' '‘'i'n' 'c'a'm'e'r'a'’'
-'('b')' 'o'n' 'c'e'r't'a'i'n' 's'u'b'j'e'c't's' 'e'v'e'n' 'w'h'e'n' 'P'a'r'l'i'a'-'
-'('b')' 'p'r'o'c'e'e'd'i'n'g's' 'o'f' 't'h'e' 't'r'i'a'l' 'a'r'e' 'n'o't' 'r'e'p'o'r't'-'
-'m'e'n't' 'i's' 'i'n' 's'e's's'i'o'n'
-'e'd' 't'o' 't'h'e' 'p'r'e's's'
-'('c')' 'd'u'r'i'n'g' 't'h'e' 'r'e'c'e's's' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'('c')' 'c'o'u'r't' 'g'i'v'e's' 'p'r'e'c'e'd'e'n'c'e' 't'o' 'p'u'b'l'i'c' 'i'n't'e'r'-'
-'('d')' 'u'n'd'e'r' 'n'o' 'c'i'r'c'u'm's't'a'n'c'e's'
-'e's't' 'o'v'e'r' 't'h'e' 'p'o'i'n't's' 'o'f' 'l'a'w'
-'8'7'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'o'm'm'i't't'e'e's'
-'('d')' 'i's's'u'e's' 'o'f' 'p'u'b'l'i'c' 'i'n't'e'r'e's't' 'a'r'e' 'i'n'v'o'l'v'e'd'
-'d'o'e's' 'n'o't' 'c'o'n's'i's't' 'o'f' 'a'n'y' 'm'e'm'b'e'r' 'f'r'o'm' 't'h'e'
-'a'n'd' 'c'a'n' 'b'e' 'b'r'o'u'g'h't' 'b'e'f'o'r'e' 't'h'e' 'c'o'u'r't' 'b'y' 'R'a'j'y'a' 'S'a'b'h'a'?'
-'a'n'y' 'c'i't'i'z'e'n' '('a')' 'E's't'i'm'a't'e's' 'C'o'm'm'i't't'e'e'
-'8'1'.' 'I'n' 'c'a's'e' 'o'f' 'w'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 't'h'e' 'm'e't'h'-' '('b')' 'P'u'b'l'i'c' 'A'c'c'o'u'n't's' 'C'o'm'm'i't't'e'e'
-'o'd' 'o'f' 'r'e'm'o'v'a'l' 'f'r'o'm' 'o'f'f'i' 'c'e' 'i's' 't'h'e' 's'a'm'e'?' '('c')' 'P'u'b'l'i'c' 'G'r'i'e'v'a'n'c'e's' 'C'o'm'm'i't't'e'e'
-'I'.' 'A' 'J'u'd'g'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('d')' 'C'o'm'm'i't't'e'e' 'o'n' 'P'u'b'l'i'c' 'U'n'd'e'r't'a'k'i'n'g's'
-'I'I'.' 'C'h'i'e'f' 'E'l'e'c't'i'o'n' 'C'o'm'm'i's's'i'o'n'e'r' '8'8'.' 'W'h'a't' 'i's' 't'h'e' 'm'i'n'i'm'u'm' 'a'g'e' 'f'o'r' 'a' 'p'e'r's'o'n' 't'o'
-'I'I'I'.' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'b'e'c'o'm'e' 'e'l'i'g'i'b'l'e' 'f'o'r' 't'h'e' 'p'o's't' 'o'f' 'P'r'i'm'e' 'M'i'n'-'
-'('a')' 'I' 'a'n'd' 'I'I' '('b')' 'I'I' 'a'n'd' 'I'I'I' 'i's't'e'r' 'o'f' 'I'n'd'i'a'?'
-'('c')' 'I' 'a'n'd' 'I'I'I' '('d')' 'I',' 'I'I' 'a'n'd' 'I'I'I' '('a')' '2'1' 'y'e'a'r's' '('b')' '2'5' 'y'e'a'r's'
-'8'2'.' 'T'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'd'u't'i'e's' 'a'r'e' '('c')' '3'0' 'y'e'a'r's' '('d')' '3'5' 'y'e'a'r's'
-'('a')' 'e'n'f'o'r'c'e'a'b'l'e' 'a't' 't'h'e' 'p'a'i'n's' 'o'f' 'p'u'n'i's'h'-' '8'9'.' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'c'a'n' 'g'r'a'n't' '‘'s'p'e'c'i'a'l' 'l'e'a'v'e'’'
-'m'e'n't' '‘'t'o' 'a'p'p'e'a'l' 'a'g'a'i'n's't' 'd'e'c'i's'i'o'n's' 'o'f' 'l'o'w'e'r'
-'('b')' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'c'o'u'r't's' 'a'n'd' 't'r'i'b'u'n'a'l's' 'b'y' 'v'i'r't'u'e' 'o'f'
-'('c')' 'u's'e'l'e's's' '('a')' 'S'e'c't'i'o'n' '1'0' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'('d')' 'n'o'n'-'e'n'f'o'r'c'e'a'b'l'e',' 'b'u't' 'o'f' 'e'd'u'c'a't'i'v'e' 'v'a'l'-' 'R'u'l'e's'
-'('b')' 'A'r't'i'c'l'e' '1'3'6' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'u'e'
-'('c')' 'A'r't'i'c'l'e' '2'2'6' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'8'3'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'h'a's' 'h'e'l'd' 'o'f'f'i' 'c'e' 'a's' 'a' 'J'u'd'g'e' 'o'f'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'t'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'9'0'.' 'M'e'm'b'e'r's' 'o'f' 't'h'e' 'L'e'g'i's'l'a't'i'v'e' 'C'o'u'n'c'i'l' '('V'i'd'-'
-'('a')' 'c'a'n' 's't'a'r't' 'l'e'g'a'l' 'p'r'a'c't'i'c'e' 'i'n' 'a'n'y' 'c'o'u'r't' 'i'n'
-'h'a'n' 'P'a'r'i's'h'a'd')' 'a'r'e'
-'I'n'd'i'a' 'a'f't'e'r' 'h'i's' 'r'e't'i'r'e'm'e'n't'
-'('a')' 'd'i'r'e'c't'l'y' 'e'l'e'c't'e'd'
-'('b')' 'c'a'n' 's't'a'r't' 'l'e'g'a'l' 'p'r'a'c't'i'c'e' 'i'n' 'S'u'p'r'e'm'e'
-'('b')' 'c'h'i'e'f'l' 'y' 'n'o'm'i'n'a't'e'd'
-'C'o'u'r't' 'o'n'l'y' 'a'f't'e'r' 'h'i's' 'r'e't'i'r'e'm'e'n't'
-'('c')' 'e'l'e'c't'e'd' 'b'y' 'l'o'c'a'l' 'b'o'd'i'e's',' 'g'r'a'd'u'a't'e's','
-'('c')' 'c'a'n' 's't'a'r't' 'l'e'g'a'l' 'p'r'a'c't'i'c'e' 'i'n' 'a' 'H'i'g'h' 'C'o'u'r't'
-'t'e'a'c'h'e'r's' 'a'n'd' 'p'a'r't'l'y' 'n'o'm'i'n'a't'e'd' 'b'y' 't'h'e'
-'o'n'l'y' 'a'f't'e'r' 'h'i's' 'r'e't'i'r'e'm'e'n't'
-'G'o'v'e'r'n'o'r'
-'('d')' 'c'a'n'n'o't' 's't'a'r't' 'l'e'g'a'l' 'p'r'a'c't'i'c'e' 'i'n' 'a'n'y' 'c'o'u'r't'
-'('d')' 'e'l'e'c't'e'd' 'b'y' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'A's'-'
-'i'n' 'I'n'd'i'a' 'a'f't'e'r' 'h'i's' 'r'e't'i'r'e'm'e'n't'
-'s'e'm'b'l'y'
-'8'4'.' 'T'h'e' 's'a'l'a'r'i'e's' 'a'n'd' 'a'l'l'o'w'a'n'c'e's' 'o'f' 'U'n'i'o'n' '9'1'.' 'O'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'f'e'a't'u'r'e' 'o'f' 'a'
-'M'i'n'i's't'e'r's' 'a'r'e' 'd'e't'e'r'm'i'n'e'd' 'b'y' 'M'o'n'e'y' 'B'i'l'l':'
-'('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('a')' 'I't' 'm'u's't' 'b'e' 'c'e'r't'i'f'i' 'e'd' 'b'y' 't'h'e' 'S'p'e'a'k'e'r' 'o'f'
-'('b')' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n' 't'h'e' 'L'o'k' 'S'a'b'h'a'
-'('c')' 'P'a'r'l'i'a'm'e'n't' '('b')' 'P'r'i'o'r' 'p'e'r'm'i's's'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'i's'
-'('d')' 'M'i'n'i's't'r'y' 'o'f' 'P'a'r'l'i'a'm'e'n't'a'r'y' 'A'f'f'a'i'r's' 'n'e'c'e's's'a'r'y' 'f'o'r' 'i'n't'r'o'd'u'c'i'n'g' 'i't'
-'8'5'.' 'W'h'a't' 'p'r'o'c'e'd'u'r'e' 'i's' 'f'o'l'l'o'w'e'd' 'i'f' 'a' 'n'e'w' 'S't'a't'e' '('c')' 'I't' 'c'a'n' 'b'e' 'i'n't'r'o'd'u'c'e'd' 'i'n' 'L'o'k' 'S'a'b'h'a'
-'i's' 't'o' 'b'e' 'f'o'r'm'e'd' 'b'y' 's'e'p'a'r'a't'i'o'n' 'o'f' 't'e'r'r'i't'o'r'y' 'o'n'l'y'
-'f'r'o'm' 'a'n'y' 'S't'a't'e' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'U'n'i'o'n'?' '('d')' 'I't' 'c'a'n' 'b'e' 's't'a'l'l'e'd' 'b'y' 'R'a'j'y'a' 'S'a'b'h'a'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'1'1'
-'9'2'.' 'A'l'l' 'c'a's'e's' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'i'n't'e'r'p'r'e't'a't'i'o'n' 'o'f' '4'.' 'B'o'o't'h' 'c'a'p't'u'r'e'r's' 'c'a'n' 'b'e' 'a'r'r'e's't'e'd' 'a'n'd'
-'t'h'e' 'C'o'n's't'i't'u't'i'o'n' 'c'a'n' 'b'e' 'b'r'o'u'g'h't' 't'o' 't'h'e' 'S'u'-' 'd'e't'a'i'n'e'd' 'f'o'r' '2' 'y'e'a'r's'
-'p'r'e'm'e' 'C'o'u'r't' 'u'n'd'e'r' 'i't's' 'W'h'i'c'h' 'o'f' 't'h'e' 'a'b'o'v'e' 's't'a't'e'm'e'n't's' 'a'r'e' 't'r'u'e'?'
-'('a')' 'A'p'p'e'l'l'a't'e' 'J'u'r'i's'd'i'c't'i'o'n' '('a')' '1',' '2' 'a'n'd' '3' '('b')' 'A'l'l' 't'h'e' 'f'o'u'r'
-'('b')' 'A'd'v'i's'o'r'y' 'J'u'r'i's'd'i'c't'i'o'n' '('c')' '2' 'a'n'd' '3' '('d')' '1',' '2' 'a'n'd' '4'
-'('c')' 'O'r'i'g'i'n'a'l' 'J'u'r'i's'd'i'c't'i'o'n' '9'7'.' 'U'n'd'e'r' 'w'h'a't' 'h'e'a'd'i'n'g' 'd'o' 't'h'e' 's'a'l'a'r'i'e's' 'o'f'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'G'o'v'e'r'n'm'e'n't' 's'e'r'v'a'n't's' 'c'o'm'e' 'i'n' 't'h'e' 'b'u'd'g'e't'?'
-'9'3'.' 'W'h'i'c'h' 'A'r't'i'c'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 's't'i'p'u'-' '('a')' 'C'a'p'i't'a'l' 'o'u't'l'a'y'
-'l'a't'e's' 't'h'e' 'e's't'a'b'l'i's'h'm'e'n't' 'o'f' 'a' 'P'u'b'l'i'c' 'S'e'r'v'i'c'e' '('b')' 'P'l'a'n' 'e'x'p'e'n'd'i't'u'r'e'
-'C'o'm'm'i's's'i'o'n' 'f'o'r' 't'h'e' 'U'n'i'o'n' 'a'n'd' 'e'a'c'h' 'o'f' 't'h'e'
-'('c')' 'C'u'r'r'e'n't' 'e'x'p'e'n'd'i't'u'r'e'
-'S't'a't'e's'?'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'A'r't'i'c'l'e' '3'6'0' '('b')' 'A'r't'i'c'l'e' '3'1'5'
-'9'8'.' 'T'h'e' 'r'i'g'h't' 't'o' 'v'o't'e' 'i'n' 'a'n' 'e'l'e'c't'i'o'n' 'i's'
-'('c')' 'A'r't'i'c'l'e' '3'9'5' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'C'o'n's't'i't'u't'i'o'n'a'l' '('b')' 'N'a't'u'r'a'l'
-'9'4'.' 'T'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'N'a'g'a'r' 'P'a'l'i'k'a' 'A'c't' 'a'r'e'
-'('c')' 'S't'a't'u't'o'r'y' '('d')' 'M'o'r'a'l'
-'c'o'n't'a'i'n'e'd' 'i'n'
-'9'9'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e'm'e'n't's' 'w'o'u'l'd'
-'('a')' 'T'e'n't'h' 'S'c'h'e'd'u'l'e'
-'a'p't'l'y' 'd'e's'c'r'i'b'e' 't'h'e' 't'r'u'e' 'n'a't'u'r'e' 'o'f' 't'h'e' 'D'i'r'e'c'-'
-'('b')' 'E'l'e'v'e'n't'h' 'S'c'h'e'd'u'l'e'
-'t'i'v'e' 'P'r'i'n'c'i'p'l'e's' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y'?'
-'('c')' 'T'w'e'l'f't'h' 'S'c'h'e'd'u'l'e'
-'('a')' 'N'e'g'a't'i'v'e' 'I'n'j'u'n'c't'i'o'n's'
-'('b')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 'P'o's'i't'i'v'e' 'I'n's't'r'u'c't'i'o'n's'
-'9'5'.' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n' 'c'o'n's'i's't's' 'o'f'
-'('c')' 'U't'o'p'i'a'n' 'I'd'e'a'l's'
-'('a')' 'A' 'C'h'a'i'r'm'a'n' 'a'n'd' 'f'o'u'r' 'm'e'm'b'e'r's'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e'
-'('b')' 'F'i'v'e' 'm'e'm'b'e'r's'
-'1'0'0'.' 'T'h'e' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'w'i'l'l' 'v'a'c'a't'e'
-'('c')' 'C'h'a'i'r'm'a'n' 'a'n'd' 't'h'r'e'e' 'm'e'm'b'e'r's'
-'h'i's' 'o'f'f'i' 'c'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'9'6'.' 'C'o'n's'i'd'e'r' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e'm'e'n't's' 'a'b'o'u't' '('a')' 'a's' 's'o'o'n' 'a's' 't'h'e' 'L'o'k' 'S'a'b'h'a' 'i's' 'd'i's's'o'l'v'e'd'
-'b'o'o't'h' 'c'a'p't'u'r'i'n'g':' '('b')' 'w'h'e'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'a's'k's' 'h'i'm' 't'o' 'v'a'-'
-'1'.' 'R'e'm'o'v'i'n'g' 'o'f' 'b'o'x'e's' 'a'f't'e'r' 'e'l'e'c't'o'r'a't'e's' 'c'a't'e'
-'h'a'v'e' 'v'o't'e'd' '('c')' 'i'm'm'e'd'i'a't'e'l'y' 'b'e'f'o'r'e' 't'h'e' 'f'i' 'r's't' 'm'e'e't'i'n'g'
-'2'.' 'P'r'e'v'e'n't'i'n'g' 'g'e'n'u'i'n'e' 'p'e'r's'o'n's' 'f'r'o'm' 'v'o't'-' 'o'f' 't'h'e' 'n'e'w'l'y' 'e'l'e'c't'e'd' 'L'o'k' 'S'a'b'h'a'
-'i'n'g' '('d')' 'w'h'e'n' 'a' 'v'o't'e' 'o'f' 'n'o'-'c'o'n'f'i' 'd'e'n'c'e' 'i's' 'p'a's's'e'd'
-'3'.' 'A't't'a'c'k'i'n'g' 't'h'e' 'o'p'p'o's'i't'i'o'n' 'c'a'n'd'i'd'a't'e' 'a'g'a'i'n's't' 't'h'e' 'r'u'l'i'n'g' 'p'a'r't'y'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('c')' '2'.' '('d')' '3'.' '('b')' '4'.' '('c')' '5'.' '('a')' '6'.' '('b')' '7'.' '('d')' '8'.' '('d')' '9'.' '('b')' '1'0'.' '('d')'
-'1'1'.' '('a')' '1'2'.' '('b')' '1'3'.' '('b')' '1'4'.' '('a')' '1'5'.' '('c')' '1'6'.' '('b')' '1'7'.' '('c')' '1'8'.' '('b')' '1'9'.' '('c')' '2'0'.' '('a')'
-'2'1'.' '('c')' '2'2'.' '('a')' '2'3'.' '('d')' '2'4'.' '('a')' '2'5'.' '('c')' '2'6'.' '('c')' '2'7'.' '('c')' '2'8'.' '('d')' '2'9'.' '('a')' '3'0'.' '('a')'
-'3'1'.' '('b')' '3'2'.' '('b')' '3'3'.' '('b')' '3'4'.' '('c')' '3'5'.' '('a')' '3'6'.' '('b')' '3'7'.' '('c')' '3'8'.' '('c')' '3'9'.' '('a')' '4'0'.' '('d')'
-'4'1'.' '('a')' '4'2'.' '('d')' '4'3'.' '('c')' '4'4'.' '('d')' '4'5'.' '('b')' '4'6'.' '('a')' '4'7'.' '('b')' '4'8'.' '('b')' '4'9'.' '('a')' '5'0'.' '('a')'
-'5'1'.' '('b')' '5'2'.' '('c')' '5'3'.' '('c')' '5'4'.' '('d')' '5'5'.' '('c')' '5'6'.' '('b')' '5'7'.' '('c')' '5'8'.' '('c')' '5'9'.' '('c')' '6'0'.' '('b')'
-'6'1'.' '('b')' '6'2'.' '('b')' '6'3'.' '('b')' '6'4'.' '('c')' '6'5'.' '('c')' '6'6'.' '('b')' '6'7'.' '('d')' '6'8'.' '('c')' '6'9'.' '('c')' '7'0'.' '('c')'
-'7'1'.' '('b')' '7'2'.' '('b')' '7'3'.' '('a')' '7'4'.' '('c')' '7'5'.' '('b')' '7'6'.' '('a')' '7'7'.' '('c')' '7'8'.' '('d')' '7'9'.' '('a')' '8'0'.' '('d')'
-'8'1'.' '('d')' '8'2'.' '('d')' '8'3'.' '('d')' '8'4'.' '('c')' '8'5'.' '('c')' '8'6'.' '('c')' '8'7'.' '('b')' '8'8'.' '('b')' '8'9'.' '('a')' '9'0'.' '('c')'
-'9'1'.' '('d')' '9'2'.' '('c')' '9'3'.' '('b')' '9'4'.' '('c')' '9'5'.' '('b')' '9'6'.' '('b')' '9'7'.' '('c')' '9'8'.' '('a')' '9'9'.' '('b')' '1'0'0'.' '('c')'
-'
-'P' 'P' '1'0'
-'R'A'C'T'I'C'E' 'A'P'E'R'
-'M'a'x'i'm'u'm' 'M'a'r'k's':' '1'0'0' 'M'a'r'k's' '9'1'–'1'0'0'—'O'u't's't'a'n'd'i'n'g'
-'T'i'm'e':' '3'0' 'M'i'n'u't'e's' 'M'a'r'k's' '8'1'–'9'0'—'E'x'c'e'l'l'e'n't'
-'M'a'r'k's' '7'1'–'8'0'—'I'n't'e'l'l'i'g'e'n't'
-'M'a'r'k's' '6'1'–'7'0'—'G'o'o'd'
-'M'a'r'k's' '5'1'–'6'0'—'A'v'e'r'a'g'e'
-'M'a'r'k's' 'L'e's's' 't'h'a'n' '5'0'—'B'e'l'o'w' 'A'v'e'r'a'g'e'
-'1'.' '‘'U'l't'r'a' 'V'i'r'e's'’' 'i's' 'a' 't'e'r'm' 'u's'e'd' 'f'o'r' '8'.' '“'I'n' 'a'n'y' 'e'v'e'n't',' 'w'h'a't'e'v'e'r' 's'y's't'e'm' 'o'f' 'G'o'v'-'
-'('a')' 'A' 'd'o'c'u'm'e'n't' 'c'o'r'r'u'p't'e'd' 'b'y' 'v'i'r'u's' 'e'r'n'm'e'n't' 'w'e' 'm'a'y' 'e's't'a'b'l'i's'h' 'h'e'r'e' 'm'u's't' 'f'i' 't' 'i'n'
-'('b')' 'A'n' 'a'c't' 'b'e'y'o'n'd' 't'h'e' 'a'u't'h'o'r'i't'y' 'o'f' 'a' 'p'e'r'-' 'w'i't'h' 't'h'e' 't'e'm'p'e'r' 'o'f' 't'h'e' 'p'e'o'p'l'e' 'a'n'd' 'b'e' 'a'c'-'
-'s'o'n' 'c'e'p't'a'b'l'e' 't'o' 't'h'e'm'”'.' 'I'n' 'w'a's' 's'a'i'd' 'b'y'
-'('c')' 'A'n' 'a'c't' 'a'u't'h'o'r'i'z'e'd' 'b'y' 'l'a'w' '('a')' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u'
-'('d')' 'A'n' 'i'l'l'e'g'a'l' 'a'c't' '('b')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'2'.' 'T'o' 'b'e't'r'a'y' 'a' 'n'a't'i'o'n' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'a'n'd' 'p'u'n'-' '('c')' 'D'.' 'D'.' 'B'a's'u'
-'i's'h'a'b'l'e' 'w'i't'h' 'd'e'a't'h',' 't'h'a't' 'i's' '('d')' 'M'.' 'V'.' 'P'y'l'e'e'
-'('a')' 'S'e'd'i't'i'o'n' '('b')' 'T'r'e'a'c'h'e'r'y' '9'.' 'T'h'e' 'e'x'p'r'e's's'i'o'n' '‘'e'v'e'r'y' 'p'e'r's'o'n'’' 'i'n' 'A'r't'i'c'l'e' '5'
-'('c')' 'T'r'e'a's'o'n' '('d')' 'A'n't'i'-'n'a't'i'o'n'a'l'i't'y' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a',' 'i'n'c'l'u'd'e's'
-'('a')' 'p'r'i's'o'n'e'r'
-'3'.' 'T'h'e' 't'e'r'm' 'r'e's' 's'u'b'j'u'd'i'c'e' 'm'e'a'n's'
-'('b')' 'm'e'm'b'e'r' 'o'f' 'a'r'm'e'd' 'f'o'r'c'e's'
-'('a')' 'A' 'c'a's'e' 'h'a's' 'b'e'e'n' 'd'e'c'i'd'e'd' 'b'y' 'a' 'c'o'u'r't'
-'('c')' 'p'e'r's'o'n's' 'l'i'v'i'n'g' 'w'i't'h'i'n' 't'h'e' 't'e'r'r'i't'o'r'y' 'o'f'
-'('b')' 'A' 'c'a's'e' 'i's' 'p'e'n'd'i'n'g' 'b'e'f'o'r'e' 'a' 'c'o'u'r't'
-'I'n'd'i'a'
-'('c')' 'A' 'c'a's'e' 'h'a's' 'b'e'e'n' 'd'i's'm'i's's'e'd' 'b'y' 'a' 'c'o'u'r't'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'1'0'.' 'T'h'e' 't'e'r'm' '“'l'a'w' 'i'n' 'f'o'r'c'e'”' 'i'n' 'c'l'a'u's'e' '('3')' 'o'f'
-'4'.' 'T'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'i'n'…'.'c'a's'e' 'h'e'l'd' 't'h'a't'
-'A'r't'i'c'l'e' '1'3' 'o'f' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'm'e'a'n's'
-'A'r't'i'c'l'e' '2'1' 'i'n'c'l'u'd'e's' 'r'i'g'h't' 't'o' 'd'i'e'
-'('a')' 'o'n'l'y' 's't'a't'u't'o'r'y' 'l'a'w'
-'('a')' 'P'.' 'R'a't'h'i'n'a'm'/'N'a'g'b'h'u's'a'n'P'a't'n'a'i'k' 'v's'
-'('b')' 'c'u's't'o'm's' 'a'n'd' 'u's'a'g'e's' 'o'n'l'y'
-'U'n'i'o'n' 'o'f' 'I'n'd'i'a'
-'('c')' 'b'o't'h' '('a')' 'a'n'd' '('b')'
-'('b')' 'D'r' 'M'.' 'I's'm'a'i'l' 'F'a'r'u'q'u'i' 'v's' 'U'n'i'o'n' 'o'f' 'I'n'-'
-'('d')' 'n'e'w'l'y' 'f'o'r'm'e'd' 'p'u'b'l'i'c' 'o'r'd'e'r' 'o'n'l'y'
-'d'i'a'
-'1'1'.' 'T'h'e' 'c'o'n's't'i't'u't'i'o'n' 'g'i'v'e's' 't'h'e' 'p'o'w'e'r' 'o'f' 's'u'p'e'r'-'
-'('c')' 'K'.' 'K'a'r'u'n'a'k'a'r'a'n' 'v's' 'S't'a't'e' 'o'f' 'U'.'P'.'
-'i'n't'e'n'd'e'n'c'e' 'o'v'e'r' 'a'l'l' 's'u'b'o'r'd'i'n'a't'e' 'c'o'u'r't's' 't'o'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'t'h'e' 'H'i'g'h' 'C'o'u'r't's' 'u'n'd'e'r' 'A'r't'i'c'l'e'
-'5'.' 'P'u'b'l'i'c' 'h'o'l'i'd'a'y's' 'a'r'e' 'd'e'c'l'a'r'e'd' 'u'n'd'e'r'
-'('a')' '2'2'9' '('b')' '2'2'6'
-'('a')' 'N'e'g'o't'i'a'b'l'e' 'I'n's't'r'u'm'e'n't's' 'A'c't',' '1'8'8'1'
-'('c')' '2'2'6' '('d')' '2'2'7'
-'('b')' 'C'o'n't'r'a'c't' 'A'c't',' '1'8'7'2'
-'1'2'.' 'T'h'e' 'H'i'g'h' 'C'o'u'r't's' 'i'n' 'I'n'd'i'a' 'w'e'r'e' 'f'i' 'r's't' 's't'a'r't'e'd'
-'('c')' 'P'u'b'l'i'c' 'E'm'p'l'o'y'e'e's' 'A'c't',' '1'9'6'7' 'a't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('a')' 'M'a'd'r'a's' 'a'n'd' 'B'o'm'b'a'y'
-'6'.' 'T'h'e' 's'o'l'e'm'n' 'r'e's'o'l'u't'i'o'n' 'i'n' 't'h'e' 'P'r'e'a'm'b'l'e' 'o'f' '('b')' 'B'o'm'b'a'y',' 'M'a'd'r'a's',' 'C'a'l'c'u't't'a'
-'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's' 'm'a'd'e' 'i'n' 't'h'e' 'n'a'm'e' '('c')' 'B'o'm'b'a'y',' 'D'e'l'h'i',' 'M'a'd'r'a's'
-'o'f' '('d')' 'D'e'l'h'i' 'a'n'd' 'C'a'l'c'u't't'a'
-'('a')' 'P'e'o'p'l'e' 'o'f' 'I'n'd'i'a' '1'3'.' 'T'h'e' 'H'i'g'h' 'C'o'u'r't' 'e'n'j'o'y's' 't'h'e' 'p'o'w'e'r'
-'('b')' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y' 'o'f' 'f'r'e'e' 'I'n'd'i'a' '('1')' 'T'o' 'i's's'u'e' 'w'r'i't's' 'f'o'r' 't'h'e' 'e'n'f'o'r'c'e'm'e'n't' 'o'f'
-'('c')' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'F'u'n'd'a'm'e'n't'a'l' 'r'i'g'h't's'
-'('d')' 'I'n'd'i'a'n' 'I'n'd'e'p'e'n'd'e'n'c'e' 'A'c't',' '1'9'4'7' '('2')' 'T'o' 'e'x'e'r'c'i's'e' 's'u'p'e'r'i'n't'e'n'd'e'n'c'e' 'o'v'e'r' 't'h'e'
-'7'.' '‘'F'r'a't'e'r'n'i't'y'’' 'm'e'a'n's' 'a' '‘'s'e'n's'e' 'o'f' 'c'o'm'm'o'n' 'w'o'r'k'i'n'g' 'o'f' 'c'o'u'r't's' 'a'n'd' 't'r'i'b'u'n'a'l's' 'u'n'd'e'r'
-'b'r'o't'h'e'r'h'o'o'd' 't'o' 'a'l'l' 'I'n'd'i'a'n's'’' 'a'n'd' 'i's' 't'h'e' 'p'r'i'n'-' 'i't's' 'j'u'r'i's'd'i'c't'i'o'n'
-'c'i'p'l'e' 'w'h'i'c'h' 'g'i'v'e's' 'u'n'i't'y' 'a'n'd' 's'o'l'i'd'a'r'i't'y' 't'o' '('3')' 'T'o' 'm'a'k'e' 'g'e'n'e'r'a'l' 'r'u'l'e's' 'a'n'd' 'p'r'e's'c'r'i'b'e'
-'s'o'c'i'a'l' 'l'i'f'e'.' 'I't' 'w'a's' 's'a'i'd' 'b'y' 'f'o'r'm's' 'r'e'g'u'l'a't'i'n'g' 't'h'e' 'p'r'a'c't'i'c'e's' 'a'n'd'
-'('a')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd' 'p'r'o'c'e'e'd'i'n'g' 'o'f' 'c'o'u'r't's' 'u'n'd'e'r' 'i't's' 'j'u'r'i's'-'
-'('b')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r' 'd'i'c't'i'o'n'
-'('c')' 'J'a'w'a'h'a'r' 'L'a'l' 'N'e'h'r'u' '('a')' '('1')' 'a'n'd' '('3')' '('b')' '('1')',' '('2')' 'a'n'd' '('3')'
-'('d')' 'C'.' 'R'a'j'a'g'o'p'a'l'c'h'a'r'i' '('c')' '('1')' 'a'n'd' '('2')' '('d')' '('2')' 'a'n'd' '('3')'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'1'3'
-'1'4'.' 'T'h'e' 'H'i'g'h' 'C'o'u'r't' 'w'h'i'c'h' 'h'a's' 't'h'e' 'd'i's't'i'n'c't'i'o'n' '2'1'.' 'T'h'e' 'r'e's'i'd'u'a'r'y' 'p'o'w'e'r's' 'm'e'a'n' 't'h'e'
-'o'f' 'h'a'v'i'n'g' 't'h'e' 'f'i' 'r's't' 'w'o'm'a'n' 'C'h'i'e'f' 'J'u's't'i'c'e' 'i's' '('a')' 'p'o'w'e'r's' 's'h'a'r'e'd' 'b'e't'w'e'e'n' 't'h'e' 'U'n'i'o'n' 'a'n'd'
-'('a')' 'G'u'w'a'h'a't'i' 'H'i'g'h' 'C'o'u'r't' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'('b')' 'D'e'l'h'i' 'H'i'g'h' 'C'o'u'r't' '('b')' 'p'o'w'e'r's' 'r'e'l'a't'e'd' 't'o' 'c'o'u'n't'r'y'’'s' 'i'n't'e'r'n'a'l'
-'('c')' 'H'i'm'a'c'h'a'l' 'P'r'a'd'e's'h' 'H'i'g'h' 'C'o'u'r't' 'a'f'f'a'i'r's'
-'('d')' 'A'l'l'a'h'a'b'a'd' 'H'i'g'h' 'C'o'u'r't' '('c')' 'p'o'w'e'r's' 'r'e'l'a't'e'd' 't'o' 'c'o'u'n't'r'y'’'s' 'e'x't'e'r'n'a'l'
-'1'5'.' 'A' 'r'e't'i'r'e'd' 'j'u'd'g'e' 'o'f' 'H'i'g'h' 'C'o'u'r't' 'c'a'n'n'o't' 'a'f'f'a'i'r's'
-'('a')' 'p'r'a'c't'i'c'e' 'i'n' 'a'n'y' 'C'o'u'r't' 'o'f' 'I'n'd'i'a' '('d')' 'p'o'w'e'r's' 'n'o't' 'i'n'c'l'u'd'e'd' 'i'n' 'a'n'y' 'o'f' 't'h'e'
-'('b')' 'p'r'a'c't'i'c'e' 'i'n' 'a'n'y' 'H'i'g'h' 'C'o'u'r't' 'o'f' 'I'n'd'i'a' 't'h'r'e'e' 'l'i's't's'
-'('c')' 'p'r'a'c't'i'c'e' 'i'n' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'f'r'o'm' 'w'h'e'r'e' '2'2'.' 'B'y' 'w'h'i'c'h' 'c'o'n's't'i't'u't'i'o'n'a'l' 'a'm'e'n'd'm'e'n't'
-'h'e' 'h'a's' 'r'e't'i'r'e'd' 'P'a'n'c'h'a'y'a't'i' 'R'a'j' 'w'a's' 'i'n't'r'o'd'u'c'e'd'?'
-'('d')' 'p'r'a'c't'i'c'e' 'i'n' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' '('a')' '7'4't'h' '('b')' '7'3'r'd'
-'1'6'.' 'T'h'e' 'J'u'd'g'e's' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't' 'c'a'n' 'b'e' 'r'e'-' '('c')' '4'2'n'd' '('d')' '4'4't'h'
-'m'o'v'e'd' 'f'r'o'm' 't'h'e'i'r' 'o'f'f'i' 'c'e' 'd'u'r'i'n'g' 't'h'e'i'r' 't'e'n'-' '2'3'.' 'F'r'o'm' 'w'h'i'c'h' 'c'o'u'n't'r'y'’'s' 'C'o'n's't'i't'u't'i'o'n' 't'h'e'
-'u'r'e' 'R'i'g'h't' 't'o' 'E'q'u'a'l'i't'y' 'h'a'v'e' 'b'e'e'n' 'b'o'r'r'o'w'e'd'?'
-'('a')' 'b'y' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' '('a')' 'I'r'i's'h' '('b')' 'C'a'n'a'd'a'
-'t'h'e' 'P'r'e's'i'd'e'n't' '('c')' 'B'r'i't'i's'h' '('d')' 'U'S'
-'('b')' 'b'y' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'n' 't'h'e' 'r'e'c'o'm'm'e'n'-' '2'4'.' 'F'r'o'm' 'w'h'i'c'h' 'c'o'u'n't'r'y'’'s' 'C'o'n's't'i't'u't'i'o'n' 't'h'e' 'J'u'-'
-'d'a't'i'o'n' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'd'i'c'i'a'l' 'R'e'v'i'e'w' 'h'a'v'e' 'b'e'e'n' 'b'o'r'r'o'w'e'd'?'
-'('c')' 'b'y' 't'h'e' 'G'o'v'e'r'n'o'r',' 'i'f' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a'-' '('a')' 'I'r'i's'h' '('b')' 'C'a'n'a'd'a'
-'t'u'r'e' 'p'a's's'e's' 'a' 'r'e's'o'l'u't'i'o'n' 't'o' 't'h'i's' 'e'f'f'e'c't' '('c')' 'B'r'i't'i's'h' '('d')' 'U'S'
-'b'y' 't'w'o'-'t'h'i'r'd's' 'm'a'j'o'r'i't'y' '2'5'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'd'e'f'i' 'n'e's' 'E'q'u'a'l'i't'y' 'b'e'f'o'r'e' 'l'a'w'
-'('d')' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' 'a' 'r'e's'o'-' 'a'n'd' 'e'q'u'a'l' 'p'r'o't'e'c't'i'o'n' 'o'f' 'l'a'w'?'
-'l'u't'i'o'n' 'p'a's's'e'd' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't' 'b'y' '('a')' 'A'r't'i'c'l'e' '1'6' '('b')' 'A'r't'i'c'l'e' '1'4'
-'t'w'o'-'t'h'i'r'd's' 'm'a'j'o'r'i't'y' '('c')' 'A'r't'i'c'l'e' '2'0' '('d')' 'A'r't'i'c'l'e' '2'1'
-'1'7'.' 'A' 'j'u'd'i'c'i'a'l' 'R'e'v'i'e'w' 'm'e'a'n's':' '2'6'.' 'P'a'r'l'i'a'm'e'n't' 'o'r' 'a' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'i'n' 'I'n'd'i'a'
-'('a')' 'P'o'w'e'r's' 'o'f' 't'h'e' 'c'o'u'r't's' 't'o' 'd'e'c'l'a'r'e' 'n'u'l'l' 'c'a'n' 'd'e'c'l'a'r'e' 'a' 's'e'a't' 'v'a'c'a'n't',' 'i'f' 'a' 'm'e'm'b'e'r' 'a'b'-'
-'a'n'd' 'v'o'i'd' 'a'n'y' 'a'c't'i'o'n' 'b'y' 'a'n'y' 'o'r'g'a'n' 'o'f' 's'e'n't's' 'h'i'm's'e'l'f' 'w'i't'h'o'u't' 'n'o't'i'c'e' 'f'r'o'm' 't'h'e' 's'e's'-'
-'t'h'e' 'G'o'v'e'r'n'm'e'n't' 'i'f' 'i't' 'i's' 'b'e'y'o'n'd' 't'h'e' 's'i'o'n' 'f'o'r' 'm'o'r'e' 't'h'a'n'
-'p'o'w'e'r's' 'g'r'a'n't'e'd' 'b'y' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' '('a')' '3'0' 'd'a'y's' '('b')' '6'0' 'd'a'y's'
-'('b')' 'R'e'v'i'e'w' 'o'f' 't'h'e' 'w'o'r'k'i'n'g' 'o'f' 'j'u'd'i'c'i'a'r'y' '('c')' '9'0' 'd'a'y's' '('d')' '1'2'0' 'd'a'y's'
-'('c')' 'P'o'w'e'r' 'o'f' 't'h'e' 'C'o'u'r't' 't'o' 't'r'y' 'c'a's'e's' '2'7'.' 'T'h'e' 'r'i'g'h't' 't'o' 'v'o't'e' 'i'n' 'e'l'e'c't'i'o'n' 'i'n' 'I'n'd'i'a' 'i's'
-'('d')' 'R'e'v'i'e'w' 'o'f' 't'h'e' 'j'u'd'i'c'i'a'l' 'p'o'w'e'r' 'o'f' 't'h'e' '('a')' 'c'o'n's't'i't'u't'i'o'n'a'l' '('b')' 'n'a't'u'r'a'l'
-'j'u'd'g'e's' '('c')' 's't'a't'u't'o'r'y' '('d')' 'm'o'r'a'l'
-'1'8'.' 'W'h'e'n' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'a'c't's' 'a's' 'P'r'e's'i'd'e'n't' '2'8'.' 'M'a't'c'h' 't'h'e' 'f'o'l'l'o'w'i'n'g'
-'h'e' 'g'e't's' 't'h'e' 'e'm'o'l'u'm'e'n't's' 'o'f' 'I'.' 'A'd' 'V'e'r'b'a't'i'm'
-'('a')' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'I'I'.' 'A'u'd'i' 'A'l't'e'r'm' 'P'a'r't'e'm'
-'('b')' 'P'r'e's'i'd'e'n't' 'I'I'I'.' 'P'r'o' 'B'o'n'o' 'P'u'b'l'i'c'o'
-'('c')' 'P'r'e's'i'd'e'n't' 'i'n' 'a'd'd'i't'i'o'n' 't'o' 'w'h'a't' 'h'e' 'g'e't's' 'I'V'.' 'R'e's' 'I'p's'a' 'L'o'q'u'i't'o'r'
-'a's' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'A'.' 'F'a'c't's' 's'p'e'a'k' 'f'o'r' 't'h'e'm's'e'l'v'e's'
-'('d')' 'C'h'a'i'r'm'a'n' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' 'B'.' 'F'o'r' 't'h'e' 'p'u'b'l'i'c'
-'1'9'.' 'T'h'e' 'e'x'e'c'u't'i'v'e' 'p'o'w'e'r' 'i's' 'v'e's't'e'd' 'i'n' 't'h'e' 'P'r'e's'-' 'C'.' 'T'o' 'h'e'a'r'
-'i'd'e'n't' 'b'u't' 'i't' 'i's' 'a'c't'u'a'l'l'y' 'u's'e'd' 'b'y' 'h'i'm' 'o'n' 't'h'e' 'D'.' 'W'o'r'd' 't'o' 'w'o'r'd'
-'a'd'v'i'c'e' 'o'f' 'I' 'I'I' 'I'I'I' 'I'V'
-'('a')' 'T'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' '('a')' 'D' 'C' 'B' 'A'
-'('b')' 'P'a'r'l'i'a'm'e'n't' '('b')' 'A' 'B' 'C' 'D'
-'('c')' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('c')' 'B' 'A' 'C' 'D'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '('d')' 'A' 'C' 'B' 'D'
-'2'0'.' 'W'h'a't' 'i's' 't'h'e' 'p'o'w'e'r' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a' 'w'i't'h' '2'9'.' 'T'h'e' 'C'o'n't'i'n'g'e'n'c'y' 'F'u'n'd' 'o'f' 'I'n'd'i'a' 'h'a's' 'b'e'e'n'
-'r'e'g'a'r'd' 't'o' 'M'o'n'e'y' 'B'i'l'l'?' 'p'l'a'c'e'd' 'a't' 't'h'e' 'd'i's'p'o's'a'l' 'o'f' 't'h'e'
-'('a')' 'I't' 'c'a'n' 'w'i't'h'h'o'l'd' 'i't' '('a')' 'P'r'e's'i'd'e'n't'
-'('b')' 'I't' 'h'a's' 'n'o' 'p'o'w'e'r' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'I't' 'c'a'n' 'a'm'e'n'd' 'i't' '('c')' 'F'i'n'a'n'c'e' 'M'i'n'i's't'e'r'
-'('d')' 'I't' 'c'a'n' 'r'e'j'e'c't' 'i't' '('d')' 'G'o'v'e'r'n'o'r',' 'R'B'I'
-'
-'3'0'.' 'T'h'e' 'g'r'o'u'n'd's' 'u'n'd'e'r' 'w'h'i'c'h' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' '('a')' 'I' 'a'n'd' 'I'I'I' '('b')' 'I'I' 'a'n'd' 'I'I'I'
-'I'n'd'i'a' 'm'a'y' 'r'e'm'o'v'e' 'a' 'G'o'v'e'r'n'o'r' 'f'r'o'm' 'o'f'f'i' 'c'e' '('c')' 'I' 'a'n'd' 'I'V' '('d')' 'I',' 'I'I'I' 'a'n'd' 'I'V'
-'a'r'e' '3'7'.' 'T'h'e' 'A'd'v'i's'o'r'y' 'o'p'i'n'i'o'n' 't'e'n'd'e'r'e'd' 'b'y' 't'h'e' 'S'u'-'
-'('a')' 'l'a'i'd' 'd'o'w'n' 'i'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'p'r'e'm'e' 'C'o'u'r't'
-'('b')' 'n'o't' 'l'a'i'd' 'd'o'w'n' 'i'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' '('a')' 'i's' 'n'o't' 'm'a'd'e' 'p'u'b'l'i'c' 'a't' 'a'l'l'
-'('c')' 'g'o'v'e'r'n'e'd' 'b'y' 'C'o'n'v'e'n't'i'o'n's' '('b')' 'i's' 'b'i'n'd'i'n'g' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n'l'y' 'i'f' 'i't' 'i's'
-'('d')' 'g'o'v'e'r'n'e'd' 'b'y' 'S'u'p'r'e'm'e' 'C'o'u'r't' 'G'u'i'd'e'-' 'u'n'a'n'i'm'o'u's'l'y' 'm'a'd'e'
-'l'i'n'e's' '('c')' 'i's' 'b'i'n'd'i'n'g' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't'
-'3'1'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'p'r'o'v'i's'i'o'n's' 'o'f' 't'h'e' '('d')' 'i's' 'n'o't' 'b'i'n'd'i'n'g' 'o'n' 't'h'e' 'P'r'e's'i'd'e'n't'
-'C'o'n's't'i't'u't'i'o'n' 'c'a'n' 'b'e' 'a'm'e'n'd'e'd' 'b'y' 'P'a'r'l'i'a'-' '3'8'.' 'T'h'e' 'p'h'r'a's'e' '‘'b'i'c'a'm'e'r'a'l' 'l'e'g'i's'l'a't'u'r'e'’' 'm'e'a'n's'
-'m'e'n't' 'b'y' 'a' 's'i'm'p'l'e' 'm'a'j'o'r'i't'y'?' '('a')' 'P'a'r'l'i'a'm'e'n't'a'r'y' 's'y's't'e'm' 'o'f' 'G'o'v'e'r'n'm'e'n't'
-'('a')' 'P'r'o'v'i's'i'o'n' 'c'o'n'c'e'r'n'i'n'g' 'e's't'a'b'l'i's'h'm'e'n't' '('b')' 'a' 'l'e'g'i's'l'a't'u'r'e' 'c'o'n's'i's't'i'n'g' 'o'f' 'l'o'w'e'r' 'a'n'd'
-'o'f' 'H'i'g'h' 'C'o'u'r't' 'a'n' 'u'p'p'e'r' 'c'h'a'm'b'e'r'
-'('b')' 'P'r'o'v'i's'i'o'n' 'c'o'n'c'e'r'n'i'n'g' 'f'e'd'e'r'a'l' 'j'u'd'i'c'i'a'-' '('c')' 'a' 's'i'n'g'l'e' 'a's's'e'm'b'l'y'
-'r'y' '('d')' 'a'n' 'e'l'e'c't'e'd' 'l'e'g'i's'l'a't'u'r'e'
-'('c')' 'P'r'o'v'i's'i'o'n' 'c'o'n'c'e'r'n'i'n'g' 'r'e'p'r'e's'e'n't'a't'i'o'n' '3'9'.' 'T'h'e' 'L'e'g'i's'l'a't'i'v'e' 'C'o'u'n'c'i'l' 'i's' 'e'x'p'e'c't'e'd' 't'o'
-'o'f' 'S't'a't'e's' 'i'n' 'P'a'r'l'i'a'm'e'n't' 'h'a'v'e' 'a' 's't'r'e'n'g't'h' 'e'q'u'a'l' 't'o' 'o'n'e' 't'h'i'r'd' 'o'f' 't'h'e'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'm'e'm'b'e'r's'h'i'p' 'o'f' 't'h'e' 'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'y'.'
-'3'2'.' 'W'h'o',' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g',' 'a'c't's' 'a's' 't'h'e' 'T'h'e' 'm'i'n'i'm'u'm' 's't'r'e'n'g't'h' 'o'f' 't'h'e' 'C'o'u'n'c'i'l' 'h'a's'
-'c'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'N'a't'i'o'n'a'l' 'I'n't'e'g'r'a't'i'o'n' 't'o' 'b'e'
-'C'o'u'n'c'i'l'?' '('a')' '5'0' '('b')' '4'0'
-'('a')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('c')' '1'0'0' '('d')' '3'0'
-'('b')' 't'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' '4'0'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'd'o'e's' 'n'o't' 't'a'k'e'
-'('c')' 't'h'e' 'U'n'i'o'n' 'H'o'm'e' 'M'i'n'i's't'e'r' 'p'a'r't' 'i'n' 't'h'e' 'e'l'e'c't'i'o'n' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't'?'
-'('d')' 't'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a' '('a')' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'3'3'.' 'T'h'e' 'F'i'n'a'n'c'e' 'C'o'm'm'i's's'i'o'n' 's'u'b'm'i't's' 'i't's' 'r'e'-' '('b')' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'l'e'g'i's'l'a't'i'v'e' 'c'o'u'n'c'i'l's'
-'p'o'r't' 't'o' '('c')' 'e'l'e'c't'e'd' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'R'a'j'y'a' 'S'a'b'h'a'
-'('a')' 't'h'e' 'P'r'e's'i'd'e'n't' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('b')' 't'h'e' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'L'o'k' 'S'a'b'h'a' '4'1'.' 'E'c'o'n'o'm'i'c' 'P'l'a'n'n'i'n'g' 'i's' 'a' 's'u'b'j'e'c't' 'i'n'
-'('c')' 't'h'e' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r'-'G'e'n'e'r'a'l' '('a')' 't'h'e' 'U'n'i'o'n' 'L'i's't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 't'h'e' 'S't'a't'e' 'L'i's't'
-'3'4'.' 'I'n' 'I'n'd'i'a',' 'n'e'w' 'A'l'l' 'I'n'd'i'a' 'S'e'r'v'i'c'e's' 'c'a'n' 'b'e' '('c')' 't'h'e' 'C'o'n'c'u'r'r'e'n't' 'L'i's't'
-'c'r'e'a't'e'd' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'l'i's't's'
-'('a')' 't'h'r'o'u'g'h' 'a'n' 'a'm'e'n'd'm'e'n't' 't'o' 't'h'e' 'C'o'n's't'i'-' '4'2'.' 'O'r'i'g'i'n'a'l'l'y' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'r'e'c'o'g'n'i'z'e'd'
-'t'u't'i'o'n' '…'…'…'.' 'l'a'n'g'u'a'g'e's'
-'('b')' 'b'y' 't'h'e' 'U'n'i'o'n' 'G'o'v'e'r'n'm'e'n't' 'i'n' 'c'o'n's'u'l't'a'-' '('a')' '2' '('b')' '1'4'
-'t'i'o'n' 'w'i't'h' 't'h'e' 'U'P'S'C' '('c')' '1'5' '('d')' 'n'o'n'e'
-'('c')' 'b'y' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '4'3'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'P'r'e's'i'd'e'n't's' 'o'f'
-'('d')' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' 't'h'e' 'I'n'd'i'a' 'i's' 'k'n'o'w'n' 'a's' 'P'h'i'l'o's'o'p'h'e'r'-'P'r'e's'i'd'e'n't'?'
-'U'n'i'o'n' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' '('a')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd'
-'3'5'.' 'W'h'o' 'i's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'N'a't'i'o'n'a'l' 'D'e'-' '('b')' 'D'r' 'Z'a'k'i'r' 'H'u's's'a'i'n'
-'v'e'l'o'p'm'e'n't' 'C'o'u'n'c'i'l'?' '('c')' 'D'r' 'S'.' 'R'a'd'h'a'k'r'i's'h'n'a'n'
-'('a')' 'T'h'e' 'P'r'e's'i'd'e'n't' '('d')' 'D'r' 'F'a'k'h'r'u'd'd'i'n' 'A'l'i' 'A'h'm'e'd'
-'('b')' 'T'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' '4'4'.' 'T'h'e' 'U'P'S'C' 'c'o'n'd'u'c't's' 'e'x'a'm'i'n'a't'i'o'n's' 'f'o'r'
-'('c')' 'T'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'I'.' 'C'e'n't'r'a'l' 'S'e'r'v'i'c'e's'
-'('d')' 'T'h'e' 'P'l'a'n'n'i'n'g' 'M'i'n'i's't'e'r' 'I'I'.' 'A'l'l' 'I'n'd'i'a' 'S'e'r'v'i'c'e's'
-'3'6'.' 'T'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'a' 'H'i'g'h' 'C'o'u'r't' 'i's' 'a'p'-' 'I'I'I'.' 'S't'a't'e' 'S'e'r'v'i'c'e's'
-'p'o'i'n't'e'd' 'b'y' 't'h'e' 'P'r'e's'i'd'e'n't' 'i'n' 'c'o'n's'u'l't'a't'i'o'n' 'I'V'.' 'S't'a't'e' 's'e'r'v'i'c'e's' 'f'o'r' 't'w'o' 'o'r' 'm'o'r'e' 'S't'a't'e's'
-'w'i't'h' 'j'o'i'n't'l'y'
-'I'.' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'.' '('a')' 'I',' 'I'I' 'a'n'd' 'I'I'I' '('b')' 'I'I' 'a'n'd' 'I'V'
-'I'I'.' 'F'o'r'm'e'r' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h' '('c')' 'I' 'o'n'l'y' '('d')' 'I' 'a'n'd' 'I'I'
-'c'o'u'r't' '4'5'.' 'T'h'e' 'm'a'i'n' 's'o'u'r'c'e's' 'o'f' 'l'a'w' 'i'n' 'I'n'd'i'a' 'a'r'e'
-'I'I'I'.' 'O't'h'e'r' 'J'u'd'g'e's' 'o'f' 't'h'e' 'H'i'g'h' 'c'o'u'r't' 'I'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'I'V'.' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'S't'a't'e' 'c'o'n'c'e'r'n'e'd' 'I'I'.' 'S't'a't'u'e's'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'1'5'
-'I'I'I'.' 'C'u's't'o'm'a'r'y' 'l'a'w' '('c')' 'I'f' 'P'a'r'l'i'a'm'e'n't' 'd'e'c'r'e'e's' 'i't' 'b'y' 't'w'o'-'t'h'i'r'd's'
-'I'V'.' 'J'u'd'i'c'i'a'l' 'd'e'c'i's'i'o'n's' 'o'f' 's'u'p'e'r'i'o'r' 'c'o'u'r't's' 'm'a'j'o'r'i't'y'
-'('a')' 'I' 'a'n'd' 'I'I' '('b')' 'I',' 'I'I' 'a'n'd' 'I'V' '('d')' 'D'u'r'i'n'g' 'a' 'F'i'n'a'n'c'i'a'l' 'E'm'e'r'g'e'n'c'y'
-'('c')' 'I'I' 'a'n'd' 'I'V' '('d')' 'I',' 'I'I',' 'I'I'I' 'a'n'd' 'I'V' '5'5'.' 'T'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'a'n'd' 'o't'h'e'r' 'J'u'd'g'e's' 'o'f' 't'h'e'
-'4'6'.' 'W'h'a't' 'i's' 't'h'e' 'q'u'a'l'i'f'i' 'c'a't'i'o'n' 'f'o'r' 'o'b't'a'i'n'i'n'g' 'v'o't'-' 'H'i'g'h' 'C'o'u'r't' 'a'r'e' 'a'p'p'o'i'n't'e'd' 'b'y' 't'h'e'
-'i'n'g' 'r'i'g'h't' 'i'n' 'I'n'd'i'a'?' '('a')' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' 'S't'a't'e'
-'('a')' 'C'a's't'e' '('b')' 'P'r'o'p'e'r't'y' '('b')' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' 'S't'a't'e'
-'('c')' 'A'g'e' '('d')' 'E'd'u'c'a't'i'o'n' '('c')' 'P'r'e's'i'd'e'n't'
-'4'7'.' '“'E'q'u'a'l' 'p'a'y' 'f'o'r' 'e'q'u'a'l' 'w'o'r'k' 'f'o'r' 'b'o't'h' 'm'a'l'e's' '('d')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'
-'a'n'd' 'f'e'm'a'l'e's'”'.' 'W'h'i'c'h' 'a'r't'i'c'l'e' 'h'a's' 'p'r'o'p'o's'e'd' '5'6'.' 'I'f' 't'h'e' 'S'p'e'a'k'e'r' 'o'f' 'a' 'S't'a't'e' 'L'e'g'i's'l'a't'i'v'e' 'A's'-'
-'t'h'i's'?' 's'e'm'b'l'y' 'i'n' 'I'n'd'i'a' 'r'e's'i'g'n's',' 'h'e' 'h'a's' 't'o' 's'u'b'm'i't'
-'('a')' 'A'r't'i'c'l'e' '4'8' '('b')' 'A'r't'i'c'l'e' '3'9' 'h'i's' 'r'e's'i'g'n'a't'i'o'n' 't'o' 't'h'e'
-'('c')' 'A'r't'i'c'l'e' '1'4' '('d')' 'A'r't'i'c'l'e' '2'5' '('a')' 'D'e'p'u't'y' 'S'p'e'a'k'e'r' 'o'f' 't'h'e' 'A's's'e'm'b'l'y'
-'4'8'.' 'T'h'e' 'f'i' 'r's't' 'l'e'a'd'e'r' 'o'f' 'o'p'p'o's'i't'i'o'n' 't'o' 'b'e' 'g'i'v'e'n' '('b')' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'c'o'n'c'e'r'n'e'd' 'H'i'g'h'
-'t'h'e' 's't'a't'u's' 'a'n'd' 'r'a'n'k' 'o'f' 'a' 'C'a'b'i'n'e't' 'M'i'n'i's't'e'r' 'C'o'u'r't'
-'w'a's' '('c')' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a'
-'('a')' 'A'.' 'K'.' 'G'o'p'a'l'a'n' '('b')' 'Y'.' 'B'.' 'C'h'a'v'a'n' '('d')' 'G'o'v'e'r'n'o'r' 'o'f' 'S't'a't'e'
-'('c')' 'C'.' 'M'.' 'S't'e'p'h'e'n' '('d')' 'P'.' 'U'p'e'n'd'r'a' '5'7'.' 'T'h'e' 'D'e'p'u't'y' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'C'o'u'n'c'i'l' 'o'f'
-'4'9'.' 'T'h'e' 't'h'r'e'e' 'l'a'n'g'u'a'g'e's' 'i'n'c'l'u'd'e'd' 'i'n' 't'h'e' 'E'i'g'h't'h' 'S't'a't'e's' 'i'n' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e'm'o'v'e'd' 'b'y'
-'S'c'h'e'd'u'l'e' 'o'f' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'b'y' 't'h'e' '7'1's't' '('a')' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e's'
-'a'm'e'n'd'm'e'n't' 'a'r'e' '('b')' 't'h'e' 'P'a'r'l'i'a'm'e'n't' '('b'o't'h' 'H'o'u's'e's')'
-'('a')' 'K'o'n'k'a'n'i',' 'E'n'g'l'i's'h',' 'M'a'n'i'p'u'r'i' '('c')' 'a' 'r'e's'o'l'u't'i'o'n' 'o'f' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'S't'a't'e's'
-'('b')' 'K'o'n'k'a'n'i',' 'N'e'p'a'l'i',' 'M'a'i't'h'i'l'i' 'b'y' 'a' 'm'a'j'o'r'i't'y' 'o'f' 't'h'e' 't'h'e'n' 'm'e'm'b'e'r's' 'o'f'
-'('c')' 'K'o'n'k'a'n'i',' 'M'a'n'i'p'u'r'i',' 'N'e'p'a'l'i' 't'h'e' 'H'o'u's'e' 'p'r'o'v'i'd'e'd',' 'a't' 'l'e'a's't',' '1'4' 'd'a'y's'’'
-'('d')' 'M'a'n'i'p'u'r'i',' 'N'e'p'a'l'i',' 'D'o'g'r'i' 'n'o't'i'c'e' 'h'a's' 'b'e'e'n' 'g'i'v'e'n' 'o'f' 't'h'e' 'i'n't'e'n't'i'o'n'
-'5'0'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'i's' 'n'o't' 'a' 'c'o'n'd'i't'i'o'n' 't'o' 't'h'e' 'r'e's'o'l'u't'i'o'n'
-'f'o'r' 'b'e'c'o'm'i'n'g' 'a' 'c'i't'i'z'e'n' 'o'f' 'I'n'd'i'a'?' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' 'B'i'r't'h' '5'8'.' 'T'h'e' 'A't't'o'r'n'e'y'-'G'e'n'e'r'a'l' 'f'o'r' 'I'n'd'i'a' 's'h'a'l'l' 'h'o'l'd'
-'('b')' 'A'c'q'u'i'r'i'n'g' 'P'r'o'p'e'r't'y' 'o'f'f'i' 'c'e' 'd'u'r'i'n'g' 't'h'e' 'p'l'e'a's'u'r'e' 'o'f' 't'h'e'
-'('c')' 'D'e's'c'e'n't' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'n'd' 'h'i's' 'C'a'b'i'n'e't'
-'('d')' 'N'a't'u'r'a'l'i'z'a't'i'o'n' '('b')' 'P'a'r'l'i'a'm'e'n't'
-'5'1'.' 'T'h'e' 'a'g'e' 'o'f' 'r'e't'i'r'e'm'e'n't' 'o'f' 't'h'e' 'j'u'd'g'e's' 'o'f' '('c')' 'P'r'e's'i'd'e'n't'
-'H'i'g'h' 'C'o'u'r't' 'i's' '…'.'.'.'.'.' 'y'e'a'r's' '('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('a')' '6'5' '('b')' '5'8' '5'9'.' 'W'h'e'n' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'g'i'v'e's' 'a's's'e'n't'
-'('c')' '6'2' '('d')' '6'0' 't'o' 'a' 'l'a'w' 'p'a's's'e'd' 'b'y' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'a'f't'e'r'
-'5'2'.' 'A' 'H'i'g'h' 'C'o'u'r't' 'c'o'n's'i's't's' 'o'f' 'C'h'i'e'f' 'J'u's't'i'c'e' 'b'e'i'n'g' 'r'e's'e'r'v'e'd' 'f'o'r' 'h'i's' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd'
-'a'n'd' 't'h'e'n' 'P'a'r'l'i'a'm'e'n't' 'p'a's's'e's' 'a' 'l'a'w' 'o'n' 't'h'e' 's'a'm'e'
-'('a')' 'S'u'c'h' 'o't'h'e'r' 'j'u'd'g'e's' 'a's' 'd'e't'e'r'm'i'n'e'd' 'b'y' 's'u'b'j'e'c't' 't'h'e'n'
-'P'a'r'l'i'a'm'e'n't' '('a')' 'S't'a't'e' 'l'a'w' 'w'i'l'l' 'p'r'e'v'a'i'l'
-'('b')' 'S'u'c'h' 'o't'h'e'r' 'j'u'd'g'e's' 'a's' 'd'e't'e'r'm'i'n'e'd' 'b'y' '('b')' 'C'e'n't'r'a'l' 'l'a'w' 'w'i'l'l' 'p'r'e'v'a'i'l'
-'t'h'e' 'P'r'e's'i'd'e'n't' '('c')' 'P'r'e's'i'd'e'n't'’'s' 'O'r'd'i'n'a'n'c'e' 'w'i'l'l' 'p'r'e'v'a'i'l'
-'('c')' 'S'u'c'h' 'o't'h'e'r' 'j'u'd'g'e's' 'a's' 's'p'e'c'i'f'i' 'e'd' 'i'n' 't'h'e' '('d')' 'N'o' 'l'a'w' 'w'i'l'l' 'p'r'e'v'a'i'l'
-'C'o'n's't'i't'u't'i'o'n' '6'0'.' 'I'n' 'I'n'd'i'a' 't'h'e' 'h'i's't'o'r'i'c'a'l'l'y' 'i'm'p'o'r't'a'n't' 'o'b'j'e'c't's'
-'('d')' 'A't' 'l'e'a's't' '5' 'o't'h'e'r' 'j'u'd'g'e's' 'a'r'e' 't'o' 'b'e' 'p'r'o't'e'c't'e'd'
-'5'3'.' 'F'i'd'u'c'i'a'r'y' 'r'e'l'a't'i'o'n's'h'i'p' 'm'e'a'n's',' 't'h'e' 'r'e'l'a't'i'o'n'-' '('a')' 'a's' 'i't' 'i's' 't'h'e' 'd'u't'y' 'o'f' 't'h'e' 'S't'a't'e'
-'s'h'i'p' 'i's' 'b'a's'e'd' 'o'n' '('b')' 'a's' 'i't' 'i's' 't'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'D'u't'y'
-'('a')' 'B'l'o'o'd' 'r'e'l'a't'i'o'n' '('b')' 'M'o'n'e'y' '('c')' 'a's' 'i't' 'i's' 'a' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e' 'o'f' 'S't'a't'e'
-'('c')' 'T'r'u's't' '('d')' 'C'o'n't'r'a'c't' 'P'o'l'i'c'y'
-'5'4'.' 'W'h'e'n' 'c'a'n' 't'h'e' 's'a'l'a'r'i'e's' 'o'f' 'H'i'g'h' 'C'o'u'r't' 'j'u'd'g'-' '('d')' 'f'o'r' 'n'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'r'e'a's'o'n's'
-'e's' 'b'e' 'r'e'd'u'c'e'd' '6'1'.' 'T'h'e' 'p'e'r's'o'n' 'a'p'p'o'i'n't'e'd' 't'o' 't'h'e' 'p'o's't' 'o'f' 'J'u'd'g'e'
-'('a')' 'A't' 'n'o' 't'i'm'e' 'o'f' 'H'i'g'h' 'C'o'u'r't' 't'a'k'e's' 'a'n' 'o'a't'h' 'b'e'f'o'r'e'
-'('b')' 'I'f' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'p'a's's'e's' 'a' 'l'a'w' 't'o' '('a')' 'T'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 't'h'e' 'H'i'g'h' 'C'o'u'r't'
-'t'h'e' 'e'f'f'e'c't' '('b')' 'T'h'e' 'C'h'i'e'f' 'J'u's't'i'c'e' 'o'f' 'I'n'd'i'a'
-'
-'('c')' 'T'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('c')' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'('d')' 'T'h'e' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'S't'a't'e' 'o'r' 's'o'm'e' '('d')' 'C'h'i'e'f' 'J'u's't'i'c'e'
-'p'e'r's'o'n' 'a'p'p'o'i'n't'e'd' 'b'y' 'h'i'm' 'f'o'r' 't'h'a't' 'p'u'r'-' '6'8'.' 'T'h'e' 'r'i'g'h't' 't'o' 'v'o't'e' 'i'n' 'I'n'd'i'a' 'i's' 'b'a's'e'd' 'o'n' 't'h'e'
-'p'o's'e' 'p'r'i'n'c'i'p'l'e' 'o'f'
-'6'2'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'f'e'a't'u'r'e's' 'm'a'k'e's' '('a')' 'r'e's't'r'i'c't'e'd' 'f'r'a'n'c'h'i's'e'
-'o'u'r' 'C'o'n's't'i't'u't'i'o'n' 'U'n'i't'a'r'y'?' '('b')' 'h'e'r'e'd'i't'a'r'y' 'p'r'i'v'i'l'e'g'e's'
-'('a')' 'E'm'e'r'g'e'n'c'y' 'P'o'w'e'r's' 'o'f' 't'h'e' 'C'e'n't'r'e' '('c')' 'p'r'o'p'r'i'e't'a'r'y' 'q'u'a'l'i'f'i' 'c'a't'i'o'n's'
-'('b')' 'R'e's'i'd'u'a'r'y' 'P'o'w'e'r's' 'w'i't'h' 't'h'e' 'U'n'i'o'n' 'P'a'r'-' '('d')' 'u'n'i'v'e'r's'a'l' 'a'd'u'l't' 'f'r'a'n'c'h'i's'e'
-'l'i'a'm'e'n't' '6'9'.' '…'…'…'.' 'i's' 't'h'e' 'C'o'm'm'a'n'd'e'r'-'i'n'-'C'h'i'e'f' 'o'f' 't'h'e'
-'('c')' 'U'n'i'o'n' 'G'o'v'e'r'n'm'e'n't'’'s' 'p'o'w'e'r' 't'o' 'i's's'u'e' 'D'e'f'e'n'c'e' 'F'o'r'c'e's' 'o'f' 'I'n'd'i'a'
-'d'i'r'e'c't'i'o'n's' 't'o' 't'h'e' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't's' '('a')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e' '('b')' 'P'r'e's'i'd'e'n't'
-'6'3'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 's't'a't'e'm'e'n't's' '('c')' 'D'e'f'e'n'c'e' 'M'i'n'i's't'e'r'
-'c'o'r'r'e'c't'l'y' 'd'e's'c'r'i'b'e's' 't'h'e' 'F'o'u'r't'h' 'S'c'h'e'd'u'l'e' 'o'f' '('d')' 'A'r'm'y' 'C'h'i'e'f'
-'t'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a'?' '7'0'.' 'T'h'e' 'I'n'd'i'a'n' 'P'a'r'l'i'a'm'e'n't' 'i's' 'b'a's'e'd' 'o'n' 't'h'e'
-'P'r'i'n'c'i'p'l'e' 'o'f'
-'('a')' 'I't' 'l'i's't's' 't'h'e' 'd'i's't'r'i'b'u't'i'o'n' 'o'f' 'p'o'w'e'r's' 'b'e'-'
-'('a')' 'U'n'i'c'a'm'e'r'a'l'i's'm'
-'t'w'e'e'n' 't'h'e' 'U'n'i'o'n' 'a'n'd' 't'h'e' 'S't'a't'e's'
-'('b')' 'N'o'm'i'n'a't'i'o'n'
-'('b')' 'I't' 'c'o'n't'a'i'n's' 't'h'e' 'l'a'n'g'u'a'g'e's' 'l'i's't'e'd' 'i'n' 't'h'e'
-'('c')' 'B'i'c'a'm'e'r'a'l'i's'm'
-'C'o'n's't'i't'u't'i'o'n'
-'('d')' 'H'e'r'e'd'i't'a'r'y' 'p'r'i'n'c'i'p'l'e'
-'('c')' 'I't' 'c'o'n't'a'i'n's' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'r'e'g'a'r'd'i'n'g'
-'7'1'.' 'H'o'w' 'l'o'n'g' 'd'i'd' 't'h'e' 'C'o'n's't'i't'u'e'n't' 'A's's'e'm'b'l'y'
-'t'h'e' 'a'd'm'i'n'i's't'r'a't'i'o'n' 'o'f' 't'r'i'b'a'l' 'a'r'e'a's'
-'t'a'k'e' 't'o' 'f'i' 'n'a'l'l'y' 'p'a's's' 't'h'e' 'c'o'n's't'i't'u't'i'o'n'?'
-'('d')' 'I't' 'a'l'l'o'c'a't'e's' 's'e'a't's' 'i'n' 't'h'e' 'C'o'u'n'c'i'l' 'o'f'
-'('a')' 'a'b'o'u't' '6' 'm'o'n't'h's' 'i'n' '1'9'4'9'
-'S't'a't'e's'
-'('b')' 'e'x'a'c't'l'y' 'a' 'y'e'a'r' 's'i'n'c'e' '2'6' 'N'o'v'e'm'b'e'r'
-'6'4'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'e'm'e'r'g'e'n'c'i'e's' 'h'a'v'e'
-'1'9'4'8'
-'b'e'e'n' 'd'e'c'l'a'r'e'd' 't'h'e' 'm'a'x'i'm'u'm' 'n'u'm'b'e'r' 'o'f'
-'('c')' 'a'b'o'u't' '2' 'y'e'a'r's' 's'i'n'c'e' '1'5' 'A'u'g'u's't' '1'9'4'7'
-'t'i'm'e's' 'i'n' 'I'n'd'i'a'?'
-'('d')' 'a'b'o'u't' '3' 'y'e'a'r's' 's'i'n'c'e' '9' 'D'e'c'e'm'b'e'r' '1'9'4'6'
-'('a')' 'E'm'e'r'g'e'n'c'y' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'5'2' 'd'u'e' 't'o'
-'7'2'.' 'W'h'o' 'w'a's' 't'h'e' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'C'o'n's't'i't'u'e'n't'
-'e'x't'e'r'n'a'l' 'a'g'g'r'e's's'i'o'n'
-'A's's'e'm'b'l'y'?'
-'('b')' 'E'm'e'r'g'e'n'c'y' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'5'2' 'd'u'e' 't'o'
-'('a')' 'P't' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u'
-'a'r'm'e'd' 'r'e'b'e'l'l'i'o'n'
-'('b')' 'D'r' 'R'a'j'e'n'd'r'a' 'P'r'a's'a'd'
-'('c')' 'F'i'n'a'n'c'i'a'l' 'E'm'e'r'g'e'n'c'y' 'u'n'd'e'r' 'A'r't'i'c'l'e'
-'('c')' 'D'r' 'B'.' 'R'.' 'A'm'b'e'd'k'a'r'
-'3'6'0'
-'('d')' 'C'.' 'R'a'j'a'g'o'p'a'l'a'c'h'a'r'i'
-'('d')' 'E'm'e'r'g'e'n'c'y' 'u'n'd'e'r' 'A'r't'i'c'l'e' '3'5'6' 'd'u'e' 't'o'
-'7'3'.' 'I'n'd'i'a' 'b'e'c'a'm'e' 'a' 'S'o'v'e'r'e'i'g'n',' 'd'e'm'o'c'r'a't'i'c' 'r'e'-'
-'b'r'e'a'k'd'o'w'n' 'o'f' 'c'o'n's't'i't'u't'i'o'n'a'l' 'm'a'c'h'i'n'-'
-'p'u'b'l'i'c' 'o'n'
-'e'r'y' 'i'n' 'a' 'S't'a't'e'
-'('a')' '1'5' 'A'u'g'u's't' '1'9'4'7'
-'6'5'.' 'F'o'r' 'r'a'i's'i'n'g' 'a' 'h'a'l'f'-'a'n'-'h'o'u'r' 'd'i's'c'u's's'i'o'n' 'i'n' 'a'
-'('b')' '3'0' 'J'a'n'u'a'r'y' '1'9'4'8'
-'H'o'u's'e' 'o'f' 'P'a'r'l'i'a'm'e'n't',' 't'h'e' 'n'o't'i'c'e' 'i'n' 'w'r'i't'i'n'g'
-'('c')' '2'6' 'J'a'n'u'a'r'y' '1'9'5'0'
-'h'a's' 't'o' 'b'e' 'g'i'v'e'n' 't'o' 't'h'e'
-'('d')' '2'6' 'N'o'v'e'm'b'e'r' '1'9'2'9'
-'('a')' 'P'r'e's'i'd'i'n'g' 'O'f'f'i' 'c'e'r' 'o'f' 't'h'e' 'H'o'u's'e'
-'7'4'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'n'a'm'e's' 'o'u'r' 'c'o'u'n't'r'y' 'a's'
-'('b')' 'S'e'c'r'e't'a'r'y'-'G'e'n'e'r'a'l' 'o'f' 't'h'e' 'H'o'u's'e'
-'('a')' 'B'h'a'r'a't'
-'('c')' 'S'e'c'r'e't'a'r'y' 'o'f' 'D'e'p'a'r't'm'e'n't' 'o'f' 'P'a'r'l'i'a'-' '('b')' 'I'n'd'i'a',' 't'h'a't' 'i's' 'B'h'a'r'a't'
-'m'e'n't'a'r'y' 'A'f'f'a'i'r's' '('c')' 'H'i'n'd'u's't'a'n'
-'('d')' 'M'i'n'i's't'e'r' 'c'o'n'c'e'r'n'e'd' '('d')' 'A'r'y'a'v'a'r't'a'
-'6'6'.' 'A' 'j'u'd'g'm'e'n't' 'p'a's's'e'd' 'b'y' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't' '7'5'.' 'T'h'e' 'C'o'm'p't'r'o'l'l'e'r' 'a'n'd' 'A'u'd'i't'o'r'-'G'e'n'e'r'a'l' 'c'a'n'
-'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e' 'r'e'v'i'e'w'e'd' 'o'n'l'y' 'b'y' 'b'e' 'r'e'm'o'v'e'd' 'f'r'o'm' 'h'i's' 'o'f'f'i' 'c'e' 'b'e'f'o'r'e' 'e'x'p'i'r'y'
-'('a')' 'P'r'e's'i'd'e'n't' 'o'f' 'h'i's' 't'e'r'm' 'b'y'
-'('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('a')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'I'n't'e'r'n'a't'i'o'n'a'l' 'C'o'u'r't' 'o'f' 'J'u's't'i'c'e' '('b')' 't'h'e' 'P'r'e's'i'd'e'n't' 'a't' 'h'i's' 'd'i's'c'r'e't'i'o'n'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('c')' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' 't'h'e'
-'6'7'.' 'T'h'e' 'H'e'a'd' 'o'f' 'a' 'S't'a't'e' 'i'n' 'I'n'd'i'a' 'i's' 'k'n'o'w'n' 'a's' 'C'o'u'n'c'i'l' 'o'f' 't'h'e' 'M'i'n'i's't'e'r's'
-'('a')' 'G'o'v'e'r'n'o'r' 'G'e'n'e'r'a'l' '('d')' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'n' 't'h'e' 'r'e'c'o'm'm'e'n'd'a't'i'o'n'
-'('b')' 'G'o'v'e'r'n'o'r' 'o'f' 't'h'e' 'P'a'r'l'i'a'm'e'n't'
-'
-'M'O'C'K' 'T'E'S'T'S' '3'1'7'
-'7'6'.' 'T'o' 'w'h'o'm' 't'h'e' 'm'e'm'b'e'r' 'o'f' 'L'o'k' 'S'a'b'h'a' 'i'n' 't'h'e' '('a')' 'P'o'l'i't'i'c'a'l' 'R'e'v'i'e'w'
-'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 's'u'b'm'i't's' 'h'i's' 'r'e's'i'g'n'a'-' '('b')' 'J'u'd'i'c'i'a'l' 'R'e'v'i'e'w'
-'t'i'o'n' '('c')' 'L'e'g'a'l' 'R'e'v'i'e'w'
-'('a')' 'P'r'e's'i'd'e'n't' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('c')' 'S'p'e'a'k'e'r' '('d')' 'V'i'c'e'-'P'r'e's'i'd'e'n't' '8'5'.' 'J'y'o't'i' 'B'a's'u' 's't'e'p'p'e'd' 'd'o'w'n' 'f'r'o'm' 't'h'e' 'p'o's't' 'o'f'
-'7'7'.' 'A' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'c'a'n' 'm'a'k'e' 'a'n'y' 'L'a'w' 'C'h'i'e'f' 'M'i'n'i's't'e'r' 'i'n' 'W'e's't' 'B'e'n'g'a'l' 'o'n' '2'9' 'O'c'-'
-'f'o'r' 't'h'e' 'w'h'o'l'e' 'o'r' 'a'n'y' 'p'a'r't' 'o'f' 'I'n'd'i'a' 'f'o'r' 'i'm'-' 't'o'b'e'r' '2'0'0'0' 'a'f't'e'r' 's'e'r'v'i'n'g' 'a's' 'C'h'i'e'f' 'M'i'n'i's't'e'r'
-'p'l'e'm'e'n't'i'n'g' 'i'n't'e'r'n'a't'i'o'n'a'l' 't'r'e'a't'i'e's' 'f'o'r' 'a' 'r'e'c'o'r'd' 'p'e'r'i'o'd' 'o'f'
-'('a')' 'w'i't'h'o'u't' 't'h'e' 'c'o'n's'e'n't' 'o'f' 'a'n'y' 'S't'a't'e' '('a')' '2'1' 'y'e'a'r's' '('b')' '2'3' 'y'e'a'r's'
-'('b')' 'w'i't'h'o'u't' 't'h'e' 'c'o'n's'e'n't' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a' '('c')' '2'4' 'y'e'a'r's' '('d')' '1'9' 'y'e'a'r's'
-'('c')' 'w'i't'h' 'c'o'n's'e'n't' 'o'f' '2'/'3' 'o'f' 'S't'a't'e's' '8'6'.' 'T'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'i's'
-'('d')' 'w'i't'h' 'c'o'n's'e'n't' 'o'f' 'a'l'l' 'S't'a't'e's' '('a')' 'f'l' 'e'x'i'b'l'e'
-'7'8'.' 'R'i'g'h't' 't'o' 'e'd'u'c'a't'i'o'n' 'i'n' 'I'n'd'i'a' 'i's' 'a' '('b')' 'r'i'g'i'd'
-'('a')' 'F'u'n'd'a'm'e'n't'a'l' 'R'i'g'h't' 'a'n'd' 'S't'a't'u't'o'r'y' '('c')' 'p'a'r't'l'y' 'r'i'g'i'd' 'a'n'd' 'p'a'r't'l'y' 'f'l' 'e'x'i'b'l'e'
-'R'i'g'h't' '('d')' 'c'o'n's't'a'n't' 'i'n' 'n'u'm'b'e'r' 'o'f' 'A'r't'i'c'l'e's' 'a'n'd'
-'('b')' 'D'i'r'e'c't'i'v'e' 'P'r'i'n'c'i'p'l'e' 'o'f' 'S't'a't'e' 'P'o'l'i'c'y' 'f'l' 'e'x'i'b'l'e' 'i'n' 'P'a'r't's'
-'('c')' 'L'e'g'a'l' 'R'i'g'h't' '8'7'.' 'T'h'e' 'F'u'n'd'a'm'e'n't'a'l' 'd'u't'i'e's' 'o'f' 'C'o'n's't'i't'u't'i'o'n'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' 'o'f' 'I'n'd'i'a',' 'w'e'r'e' 'a'd'd'e'd' 'i'n' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'i'n'
-'7'9'.' 'P'o'w'e'r' 't'o' 'd'e'c'l'a'r'e' 'a'n' 'a'r'e'a' 'a's' 's'c'h'e'd'u'l'e'd' 'a'r'e'a' 'y'e'a'r'
-'i'n' 'I'n'd'i'a' 'd'e'p'e'n'd's' 'o'n' '('a')' '1'9'7'6' '('b')' '1'9'7'9'
-'('a')' 'P'r'e's'i'd'e'n't' '('b')' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('c')' '1'9'8'3' '('d')' '1'9'9'2'
-'('c')' 'G'o'v'e'r'n'o'r' '('d')' 'C'h'i'e'f' 'M'i'n'i's't'e'r' '8'8'.' 'T'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'd'i's'c'h'a'r'g'e's' 't'h'e'
-'8'0'.' 'W'h'i'c'h' 'a'm'o'n'g' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'A'r't'i'c'l'e's' 'o'f' 'd'u't'i'e's' 'o'f' 'P'r'e's'i'd'e'n't' 'i'n' 't'h'e' 'e'v'e'n't' 'o'f'
-'t'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 'e'm'p'o'w'e'r's' 't'h'e' '('a')' 'a'b's'e'n'c'e' 'd'u'e' 't'o' 'i'l'l'n'e's's'
-'P'r'e's'i'd'e'n't' 't'o' 's'e't' 'u'p' 't'h'e' 'F'i'n'a'n'c'e' 'C'o'm'm'i's'-' '('b')' 'h'i's' 'd'e'a't'h'
-'s'i'o'n'?' '('c')' 'h'i's' 'r'e's'i'g'n'a't'i'o'n'
-'('a')' 'A'r't'i'c'l'e' '2'8'0' '('b')' 'A'r't'i'c'l'e' '2'9'1' '('d')' 'A'l'l' 'o'f' 't'h'e' 'a'b'o'v'e'
-'('c')' 'A'r't'i'c'l'e' '2'9'1' '('d')' 'A'r't'i'c'l'e' '3'5'6' '8'9'.' 'T'h'e' 'V'i'c'e'-'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' 'i's' 'e'l'e'c't'e'd' 'b'y'
-'8'1'.' 'W'h'o' 'w'a's' 't'h'e' 'f'i' 'r's't' 'C'h'a'i'r'm'a'n' 'o'f' 't'h'e' 'P'l'a'n'-' '('a')' 'm'e'm'b'e'r's' 'o'f' 'R'a'j'y'a' 'S'a'b'h'a'
-'n'i'n'g' 'C'o'm'm'i's's'i'o'n'?' '('b')' 'm'e'm'b'e'r's' 'o'f' 'L'o'k' 'S'a'b'h'a'
-'('a')' 'J'a'w'a'h'a'r'l'a'l' 'N'e'h'r'u' '('c')' 'e'l'e'c't'e'd' 'b'y' 'E'l'e'c't'o'r'a'l' 'C'o'l'l'e'g'e'
-'('b')' 'G'u'l'z'a'r'i' 'L'a'i' 'N'a'n'd'a' '('d')' 'd'i'r'e'c't'l'y' 'e'l'e'c't'e'd' 'b'y' 'L'o'k' 'S'a'b'h'a' 'a'n'd' 'R'a'-'
-'('c')' 'K'.' 'C'.' 'N'e'o'g'y' 'j'y'a' 'S'a'b'h'a' 'a't' 'a' 'j'o'i'n't' 's'i't't'i'n'g'
-'('d')' 'S'h'r'i'm'a'n' 'N'a'r'a'y'a'n'a'n' '9'0'.' 'I'n' 'r'e's'p'e'c't' 'o'f' 'c'i't'i'z'e'n's'h'i'p' 't'h'e' 'C'o'n's't'i't'u't'i'o'n'
-'8'2'.' 'T'h'e' 'S'o'l'i'c'i't'o'r'-'G'e'n'e'r'a'l' 'o'f' 'I'n'd'i'a' 'i's' 'o'f' 'I'n'd'i'a' 'p'r'o'v'i'd'e's' 'f'o'r'
-'('a')' 'a' 'l'e'g'a'l' 'a'd'v'i's'o'r' '('a')' 'd'o'u'b'l'e' 'c'i't'i'z'e'n's'h'i'p'
-'('b')' 'a'n' 'a'd'm'i'n'i's't'r'a't'i'v'e' 'o'f'f'i' 'c'e'r' '('b')' 's'i'n'g'l'e' 'c'i't'i'z'e'n's'h'i'p'
-'('c')' 'l'e'g'a'l' 'a'd'v'i's'o'r' 'o'f' 't'h'e' 'P'r'e's'i'd'e'n't' 'o'f' 'I'n'd'i'a' '('c')' 'm'u'l't'i'p'l'e' 'c'i't'i'z'e'n's'h'i'p'
-'('d')' 'a'n' 'a'd'v'i's'o'r' 't'o' 'P'r'i'm'e' 'M'i'n'i's't'e'r' '('d')' 'n'o' 'r'e's't'r'i'c't'i'o'n' 'i's' 'p'r'o'v'i'd'e'd'
-'8'3'.' 'W'h'i'c'h' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'o'r'r'e'c't'l'y' 'r'e'p'r'e'-' '9'1'.' 'T'h'e' 'V'i'd'h'a'n' 'S'a'b'h'a' 'i's'
-'s'e'n't's' 't'h'e' 'v'a'l'u'e' 'o'f' 'v'o't'e' 'o'f' 'a' 'M'e'm'b'e'r' 'o'f' '('a')' 't'h'e' 'p'e'r'm'a'n'e'n't' 'H'o'u's'e' 'o'f' 'S't'a't'e' 'L'e'g'i's'l'a'-'
-'L'e'g'i's'l'a't'i'v'e' 'A's's'e'm'b'l'y' 'i'n' 't'h'e' 'P'r'e's'i'd'e'n't'i'a'l' 't'u'r'e'
-'e'l'e'c't'i'o'n'?' '('b')' 'i'n'd'i'r'e'c't'l'y' 'e'l'e'c't'e'd'
-'('a')' 'P'o'p'u'l'a't'i'o'n'o'f't'h'e'S't'a't'e' '×'1'0'0'0' '('c')' 's'u'b'j'e'c't' 't'o' 'd'i's's'o'l'u't'i'o'n'
-'T'o't'a'l'n'o'.'o'f'm'e'm'b'e'r's'i'n't'h'e'S't'a't'e' '('d')' 'h'a's' 'l'i't't'l'e' 'i'm'p'o'r't'a'n'c'e' 'i'n' 't'h'e' 'S't'a't'e' 'G'o'v'-'
-'L'e'g'i's'l'a't'i'v'e'A'A's's'e'm'b'l'y' 'e'r'n'm'e'n't'
-'('b')' 'P'o'p'u'l'a't'i'o'n'o'f't'h'e'S't'a't'e' '÷'1'0'0'0' '9'2'.' 'T'h'a't' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r' 'a'c't's' 'a's' 'a' 'c'h'a'n'n'e'l'
-'T'o't'a'l'n'o'.'o'f'e'l'e'c't'e'd'm'e'm'b'e'r's'i'n't'h'e' 'o'f' 'c'o'm'm'u'n'i'c'a't'i'o'n' 'b'e't'w'e'e'n' 't'h'e' 'P'r'e's'i'd'e'n't'
-'S't'a't'e'L'e'g'i's's'l'a't'i'v'e'A's's'e'm'b'l'y' 'a'n'd' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's't'e'r's' 'i's' 'p'r'o'v'i'd'e'd'
-'T'o't'a'l'n'o'.'o'f'e'l'e'c't'e'd'm'e'm'b'e'r's'i'n't'h'e' 'b'y'
-'('c')' 'S't'a't'e'L'e'g'i's'l'a't'i'v'e'A's's'e'm'b'l'y' '×'1'0'0'0' '('a')' 'c'o'n'v'e'n't'i'o'n' '('b')' 's't'a't'u't'e'
-'T'o't'a'l'n'n'o'.'o'f'L'o'k'S'a'b'h'a'C'o'n's't'i't'u'e'n'c'i'e's' '('c')' 'A'r't'i'c'l'e' '7'8' '('d')' 'A'r't'i'c'l'e' '7'5'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e's'e' '9'3'.' 'A'n' 'o'r'd'i'n'a'n'c'e' 'c'a'n' 'b'e' 'i's's'u'e'd' 'b'y' 't'h'e' 'P'r'e's'i'-'
-'8'4'.' 'W'h'i'c'h' 'o'n'e' 'o'f' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'p'o'w'e'r' 'i's' 'e'n'-' 'd'e'n't'
-'j'o'y'e'd' 'b'y' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'u'r't'?' '('a')' 'o'n' 'a'n'y' 's'u'b'j'e'c't'
-'
-'('b')' 's'u'b'j'e'c't' 't'o' 's'o'm'e' 'c'o'n's't'i't'u't'i'o'n'a'l' 'l'i'm'i't'a'-' '('b')' 'P'r'e's'i'd'e'n't'
-'t'i'o'n's' 'a's' 'l'e'g'i's'l'a't'i'o'n' 'b'y' 'P'a'r'l'i'a'm'e'n't' '('c')' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('c')' 'i'n' 'h'i's' 'i'n'd'i'v'i'd'u'a'l' 'j'u'd'g'e'm'e'n't' 'a's' 'w'e'l'l' 'a's' '('d')' 'C'h'i'e'f' 'o'f' 'A'i'r'f'o'r'c'e'
-'o'n' 't'h'e' 'a'd'v'i'c'e' 'o'f' 't'h'e' 'C'o'u'n'c'i'l' 'o'f' 'M'i'n'i's'-' '9'7'.' 'T'h'e' 'm'a'x'i'm'u'm' 'd'u'r'a't'i'o'n' 'o'f' 't'h'e' 'z'e'r'o' 'h'o'u'r' 'i'n'
-'t'e'r's' 'L'o'k' 'S'a'b'h'a' 'o'f' 'P'a'r'l'i'a'm'e'n't' 'o'f' 'I'n'd'i'a' 'c'a'n' 'b'e'
-'('d')' 'a't' 'a'n'y' 't'i'm'e' '('a')' 'O'n'e' 'h'o'u'r' '('b')' 'U'n's'p'e'c'i'f'i' 'e'd'
-'('c')' '3'0' 'm'i'n'u't'e's' '('d')' 'T'w'o' 'h'o'u'r's'
-'9'4'.' 'A'n' '‘'o'f'f'i' 'c'e' 'o'f' 'p'r'o'f'i' 't'’' 'w'h'i'c'h' 'd'i's'q'u'a'l'i'f'i' 'e's' 'a'
-'9'8'.' 'W'h'i'c'h' 'S't'a't'e' 'e'n'j'o'y's' 't'h'e' 'd'i's't'i'n'c't'i'o'n' 'o'f' 'b'e'-'
-'p'e'r's'o'n' 'f'r'o'm' 'b'e'i'n'g' 'a' 'm'e'm'b'e'r' 'o'f' 't'h'e' 'U'n'i'o'n'
-'i'n'g' 't'h'e' 'l'a't'e's't' 'S't'a't'e' 'o'f' 't'h'e' 'U'n'i'o'n' 'o'f' 'I'n'd'i'a'?'
-'o'r' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e' 'd'o'e's' 'n'o't' 'i'n'c'l'u'd'e' 'o'f'-'
-'('a')' 'J'h'a'r'k'h'a'n'd' '('b')' 'U't't'a'r'a'n'c'h'a'l'
-'f'i' 'c'e' 'h'e'l'd' 'u'n'd'e'r'
-'('c')' 'C'h'h'a't't'i's'g'a'r'h' '('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('a')' 't'h'e' 'G'o'v'e'r'n'm'e'n't' 'o'f' 'I'n'd'i'a'
-'9'9'.' 'T'h'e' 'G'o'v'e'r'n'o'r' 'o'f' 'a' 'S't'a't'e' 'i'n' 'I'n'd'i'a' 'i's' 'r'e's'p'o'n'-'
-'('b')' 'a' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'s'i'b'l'e' 'f'o'r' 'h'i's' 'a'c't' 't'o'
-'('c')' 'a' 'l'o'c'a'l' 'a'u't'h'o'r'i't'y'
-'('a')' 't'h'e' 'S't'a't'e' 'C'a'b'i'n'e't'
-'('d')' 'A'l'l' 't'h'e' 'a'b'o'v'e'
-'('b')' 't'h'e' 'S't'a't'e' 'L'e'g'i's'l'a't'u'r'e'
-'9'5'.' 'C'a'n' 't'h'e' 'G'o'v'e'r'n'o'r' 'r'e's'e'r'v'e' 'c'e'r't'a'i'n' 'S't'a't'e'
-'('c')' 't'h'e' 'P'r'e's'i'd'e'n't'
-'B'i'l'l' 'f'o'r' 'P'r'e's'i'd'e'n't'i'a'l' 'a's's'e'n't'?'
-'('d')' 't'h'e' 'P'r'i'm'e' 'M'i'n'i's't'e'r'
-'('a')' 'Y'e's' '1'0'0'.' 'U'n'd'e'r' 't'h'e' 'C'o'n's't'i't'u't'i'o'n' 'o'f' 'I'n'd'i'a' 't'h'e' 'S'T's'
-'('b')' 'N'o' 'a'r'e' 'd'e's'i'g'n'a't'e'd' 'a's' 's'u'c'h'
-'('c')' 'C'i'r'c'u'm's't'a'n't'i'a'l' '('a')' 'b'y' 'a'n' 'A'c't' 'o'f' 'P'a'r'l'i'a'm'e'n't'
-'('d')' 'N'o'n'e' 'o'f' 't'h'e' 'a'b'o'v'e' '('b')' 'b'y' 'P'r'e's'i'd'e'n't' 'n'o't'i'f'i' 'c'a't'i'o'n'
-'9'6'.' 'W'h'o' 'i's' 't'h'e' 'S'u'p'r'e'm'e' 'C'o'm'm'a'n'd'e'r' 'o'f' 't'h'e' '('c')' 'b'y' 't'h'e' 'C'o'm'm'i's's'i'o'n'e'r' 'o'f' 'S'c'h'e'd'u'l'e'd'
-'D'e'f'e'n'c'e' 'f'o'r'c'e's' 'o'f' 'I'n'd'i'a'?' 'T'r'i'b'e's'
-'('a')' 'C'h'i'e'f' 'o'f' 'A'r'm'y' '('d')' 'b'y' 'e'a'c'h' 'S't'a't'e' 'G'o'v'e'r'n'm'e'n't'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('b')' '2'.' '('c')' '3'.' '('b')' '4'.' '('a')' '5'.' '('a')' '6'.' '('a')' '7'.' '('b')' '8'.' '('a')' '9'.' '('d')' '1'0'.' '('c')'
-'1'1'.' '('a')' '1'2'.' '('b')' '1'3'.' '('b')' '1'4'.' '('c')' '1'5'.' '('c')' '1'6'.' '('d')' '1'7'.' '('a')' '1'8'.' '('b')' '1'9'.' '('a')' '2'0'.' '('b')'
-'2'1'.' '('d')' '2'2'.' '('b')' '2'3'.' '('c')' '2'4'.' '('d')' '2'5'.' '('b')' '2'6'.' '('c')' '2'7'.' '('a')' '2'8'.' '('a')' '2'9'.' '('a')' '3'0'.' '('b')'
-'3'1'.' '('c')' '3'2'.' '('a')' '3'3'.' '('a')' '3'4'.' '('c')' '3'5'.' '('c')' '3'6'.' '('d')' '3'7'.' '('d')' '3'8'.' '('b')' '3'9'.' '('b')' '4'0'.' '('b')'
-'4'1'.' '('a')' '4'2'.' '('b')' '4'3'.' '('c')' '4'4'.' '('d')' '4'5'.' '('d')' '4'6'.' '('c')' '4'7'.' '('b')' '4'8'.' '('b')' '4'9'.' '('c')' '5'0'.' '('b')'
-'5'1'.' '('c')' '5'2'.' '('a')' '5'3'.' '('c')' '5'4'.' '('a')' '5'5'.' '('c')' '5'6'.' '('a')' '5'7'.' '('c')' '5'8'.' '('c')' '5'9'.' '('b')' '6'0'.' '('b')'
-'6'1'.' '('d')' '6'2'.' '('d')' '6'3'.' '('c')' '6'4'.' '('d')' '6'5'.' '('a')' '6'6'.' '('d')' '6'7'.' '('b')' '6'8'.' '('d')' '6'9'.' '('b')' '7'0'.' '('c')'
-'7'1'.' '('d')' '7'2'.' '('b')' '7'3'.' '('c')' '7'4'.' '('b')' '7'5'.' '('b')' '7'6'.' '('c')' '7'7'.' '('a')' '7'8'.' '('a')' '7'9'.' '('a')' '8'0'.' '('a')'
-'8'1'.' '('c')' '8'2'.' '('a')' '8'3'.' '('b')' '8'4'.' '('b')' '8'5'.' '('a')' '8'6'.' '('c')' '8'7'.' '('a')' '8'8'.' '('d')' '8'9'.' '('c')' '9'0'.' '('b')'
-'9'1'.' '('c')' '9'2'.' '('c')' '9'3'.' '('b')' '9'4'.' '('d')' '9'5'.' '('a')' '9'6'.' '('b')' '9'7'.' '('b')' '9'8'.' '('a')' '9'9'.' '('b')' '1'0'0'.' '('b')'
-'
-'
+Chapter 5
+M T
+OCK ESTS
+P P 1
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. Who is competent to dissolve the Parlia- shall be duty of every parent or guardian
+ment of India? to provide opportunities for education to
+(a) President his child or ward between age of 6 to 14
+(b) Joint Session of Parliament years
+(c) Chairman of Rajya Sabha and Speaker (a) 85th Amendment, 2002
+of Lok Sabha together (b) 86th Amendment, 2002
+(d) None of the above (c) 87th Amendment, 2003
+2. The words “procedure established by (d) 88th Amendment, 2003
+law” in Article 21 in Constitution of India 6. Who headed the Committee on Civil Ser-
+means vice Reforms which submitted its report in
+(a) that due process of law must be fol- July 2004?
+(a) Prof. Satish Chandra
+lowed
+(b) General (Retd) Surinder Singh
+(b) a procedure laid down or enacted by a
+(c) Prof. Yashpal
+competent authority
+(d) P. C. Hota
+(c) the same things as “due process of
+7. Which one of the following Prime Minis-
+law”
+ters headed a minority Government?
+(d) a law which is reasonable, fair and
+(a) V. P. Singh
+just
+(b) I. K. Gujral
+3. The Right to Free and compulsory Edu-
+(c) Chandra Shekhar
+cation to Children Act, 2009 and Right
+(d) All the above
+to Education in the Indian Constitution
+8. Under whose Prime Minstership was the
+provided under the Chapter, Fundamental
+anti-defection law passed?
+Rights pertains to
+(a) Rajiv Gandhi
+(a) Article 21 (b) Article 21 A
+(b) Indira Gandhi
+(c) Article 21 B (d) Article 21 C
+(c) V. P. Singh
+4. President of India is elected
+(d) A. B. Vajpayee
+(a) by way of people representation 9. Which one of the following states is re-
+(b) by an electoral college consisting garded as the pioneer of the Right to In-
+of the elected members of both the formation in India?
+Houses of Parliament and by the (a) Rajasthan
+representatives of Central and State (b) West Bengal
+Legislature (c) Himachal Pradesh
+(c) directly by people (d) Kerala
+(d) Prime Minister appoints him 10. In 2006 President Abdul Kalam sent back
+5. Which among the following Indian Con- a bill passed by Parliament for reconsid-
+stitutional Amendments provides that it eration. The Bill related to
+
+(a) reservations for the OBCs 18. Supreme Court of India recognized sexual
+(b) 56 offi ces of profi t harassment as a human rights violation in
+(c) state funding of elections India in case of
+(d) None of the above (a) Vishaka vs State of Rajasthan
+11. Which of the following jurisdiction of the (b) Birdhichand vs State of Maharashtra
+Supreme Court of India is wrongly listed? (c) Ahmed Khan vs Shah Bano Begum
+(a) Advisory Jurisdiction (d) Takaram vs State of Maharashtra
+(b) Appellate Jurisdiction 19. The maxim ‘Ubi jus’ibi remedium’ means
+(c) Original Jurisdiction (a) Justice should not only be done but
+(d) None of the above should be seen to be done
+12. As per new Policy of Union Government,
+(b) In law there is a remedy for every
+who among the following sects can caste
+wrong
+their vote in 2014 General Elections in In-
+(c) Justice according to law
+dia?
+(d) None of the above
+(a) Prisoners
+20. The largest PIL(Public Interest Litigation)
+(b) Foreign Nationals
+winner
+(c) Both Prisoners and Foreign Nationals
+(a) M. C. Mehta
+(d) Non-Resident Indians (NRIs) and
+(b) Common Cause a registered society
+Overseas Citizens having Indian Pass-
+founded by H. D. Shourie.
+ports
+(c) Helpage India
+13. TRIPs forming part of the World Trade
+(d) M. K. Chawla
+Organization is intended
+21. The “Legal Services Day” falls on
+(a) to promote transnational corporate in-
+(a) 9 November (b) 10 December
+terests
+(b) to provide for strong patent protec- (c) 26 January (d) 13 February
+tion 22. The “Citizens Day” falls on
+(c) to replace World Intellectual Property (a) 18 November (b) 19 November
+Organization (c) 20 November (d) 21 November
+(d) to harmonize intellectual property 23. Sovereignty in India means
+rights internationally (a) Apex Authority or Alternative Author-
+14. When the two Houses of Parliament of In- ity
+dia differ regarding a Bill, then the dead- (b) Lower Authority or Immediate Au-
+lock is solved by thority
+(a) a joint of sitting of the two Houses (c) Authority of Court
+(b) the President of India (d) Authority of Parliament
+(c) Speaker of Lok Sabha 24. There are two classes of Advocates in In-
+(d) Subjects Committee dia
+15. In the Federation established by the Gov- (a) Barristers and Solicitors
+ernment of India Act of 1935, residuary (b) Advocates and Senior Advocates
+powers were given to (c) Lawyers and Attorneys
+(a) Federal Legislature (d) Supreme Court Advocates and High
+(b) Provincial Legislature
+Court Advocates
+(c) Governor General
+25. Who is the personality to Head UNESCO
+(d) Provincial Governors
+for fi rst time in history?
+16. The fi rst Mobile Court of India was
+(a) Ms Irina Bokova
+launched in
+(b) Ms Fatiam Bibi
+(a) Haryana (b) Rajasthan
+(c) Ms Anjali Roy
+(c) Gujarat (d) Madhya Pradesh
+(d) Ms Leela Jethamalani
+17. Who of the following is the Chairperson
+26. ‘Ultra Vires’ is a term used for
+of the National Commission for the Pro-
+(a) A document corrupted by virus
+tection of Child Rights (NCPCR)?
+(b) An act beyond the authority of a per-
+(a) Shiela Dixit
+son
+(b) Savitri Sinha
+(c) An act authorized by law
+(c) Shanta Sinha
+(d) An illegal act
+(d) None of the above
+
+MOCK TESTS 251
+27. Cabinet includes 35. The Chairman of Rajya Sabha in Parlia-
+1. Cabinet Ministers ment of India
+2. Ministers of State (a) enjoys right to vote like other mem-
+3. Deputy Ministers bers
+(a) 1, 2 and 3 (b) 1 and 2 (b) has right to vote in case of a tie
+(c) 1 and 3 (d) 1 only (c) can vote only in case of Constitutional
+28. India is a Republic. It means: amendment
+(a) India is a Union of States (d) does not enjoy any vote
+(b) The Head of the State is not heredi- 36. Fundamental Duties do not enjoy any:
+tary (a) Legal sanction
+(c) India has Parliamentary system of (b) Moral sanction
+government (c) Political sanction
+(d) People have fi nal authority in all the (d) Social sanction
+matters 37. The words “Satyameva Jayate”, inscribed
+29. The Governor does appoint the below the National Emblem, are taken
+1. Judges of the High Court from
+(a) Mundaka Upanishad
+2. Chief Minister
+(b) Jataka
+3. Chairman of the State Public Service
+(c) Puranas
+Commission
+(d) Mahabharata
+4. Advocate-General of the State
+38. In the Indian polity, ultimate sovereignty
+(a) 1, 2, 3, 4 (b) 2, 3, 4 only
+rests with
+(c) 1, 2, 4 only (d) 2, 4 only
+(a) the Parliament
+30. The Term of Rajya Sabha members was
+(b) the Constitution
+fi xed by the
+(c) the President
+(a) Parliament (b) Cabinet
+(d) the People
+(c) President (d) Constitution
+39. A Money Bill can originate in the State
+31. A High Court Judge in India is removed
+Legislature only with the prior consent of
+by
+the
+(a) the President’s Order
+I. Chief Minister
+(b) both Houses of Parliament
+II. President
+(c) the Chief Justice of India
+III. Governor
+(d) President’s Order, after both the
+IV. None of these
+Houses of Parliament pass the im-
+(a) I (b) I and III
+peachment resolution
+(c) II (d) III
+32. Who among the following was the Chair-
+40. Who conducts the State assembly elec-
+man of Commission on Corporate Gover-
+tions?
+nance in India?
+(a) Governor of the state concerned
+(a) J. R. Verma
+(b) Chief Justice of the Supreme Court
+(b) K. C. Pant
+(c) Chief Justice of the High court con-
+(c) P. Chidambaram cerned
+(d) Jaswant Singh (d) Chief Election Commission
+33. Which of the following is not a Financial 41. The President of India appoints Judges of
+Committee of the Parliament of India? the Supreme Court after consultation with
+(a) Public Accounts Committee (a) Chief Justice of India
+(b) Estimates Committee (b) the Prime Minister
+(c) Committee on Public Undertakings (c) Law Minister in the Union Cabinet
+(d) Committee on Private Members’ Bills (d) the Chief Justice of the High Courts
+and Resolutions 42. Which Part of the Constitution of India
+34. Who is considered to be the guardian of seeks to provide economic justice to the
+the Public Purse in India? citizen of India?
+(a) Parliament (a) Preamble
+(b) Comptroller and Auditor General (b) Fundamental Rights
+(c) Public Accounts Committee (c) Directive Principles of State Policy
+(d) President (d) None of the above
+
+43. Who among the following can create a 51. Article 340 of the Indian Constitution
+new State in the Indian Union? deals with
+(a) President (a) Backward Classes Commission
+(b) Parliament (b) Election Commission
+(c) Union Cabinet (c) Law Commission
+(d) any two or more States combined (d) Finance Commission
+44. Who appoints the Chiefs of the Army, 52. A Non Money Bill passed by the Parlia-
+Navy and Air Force in India? ment is returned by the President of India
+(a) President of India to Parliament for reconsideration. It is
+(b) Prime Minister passed once again by the Parliament with-
+(c) Defence Minister out any change. Now
+(d) Parliament (a) President can again withhold his as-
+45. For what period does the judge of a High sent
+Court in India hold offi ce? (b) Bill will automatically lapse
+(a) 6 years till the age of 60 years (c) Bill will be referred to the Supreme
+(b) till the age of 60 years Court
+(c) till the age of 62 years (d) President will give his assent
+(d) till the age of 65 years 53. Decision regarding disqualifi cation of
+46. Part V of the Constitution deals with members of Lok Sabha in Parliament of
+I. Union Executive India are taken by
+II. Parliament (a) Speaker
+III. Supreme Court and High Court (b) Prime Minister
+IV. Comptroller and Auditor-General (c) Minister of Parliamentary Affairs
+(a) I, II and III (b) I, II and IV (d) Parliamentary Secretary
+(c) I and II (d) I only 54. The salaries and other emoluments of the
+47. Which of the following are matched members of Parliament in India are decid-
+wrongly? ed by the
+I. Habeas Corpus—literally means ‘to (a) Prime Minister
+have a body’ (b) Parliament Staff
+II. Mandamus—commands a person to (c) President
+perform a public duty (d) Ministry of Parliamentary Affairs
+III. Quo warranto—issued to a lower 55. Which among the following makes rec-
+court to stop proceedings in a case ommendations to the President of India as
+IV. Prohibition—issued to a lower court to the principles which should govern the
+quashing a decision or order grant in aid of the revenues of the States
+(a) I and II (b) III only out of the Consolidated Fund of India?
+(c) II, III and IV (d) III and IV (a) Finance Commission
+48. Who adopted the Constitution of India on (b) Planning Commission
+the 26 November 1949? (c) National Development Commission
+(a) Parliament of India (d) Ministry of Finance of Government of
+(b) People of India India
+(c) Representative of the people of India 56. Why is the year 1952 important in Indian
+in Constituent Assembly History?
+(d) Cabinet (a) State Reorganization Act was passed
+49. Which article has abolished the child la- (b) Haryana State was split
+bour? (c) First offi cial census in India was held
+(a) 24 (b) 27 (d) First general elections to the Lok Sab-
+(c) 29 (d) 34 ha were held
+50. The Supreme Court Judges cannot prac- 57. Theocracy is
+tise anywhere after retirement (a) an authoritarian regime
+(a) At District and Session Courts (b) the art of stealing
+(b) At High Courts (c) a religious state
+(c) At Supreme Court (d) a state created as a result of coup
+(d) At nowhere d’etat
+
+MOCK TESTS 253
+58. A lawyer appointed by court to represent a 67. The Vice-President is elected by an Elec-
+poor litigant is toral College consisting of members of
+(a) Lok Nyaya Pradayak (a) both Houses of Parliament
+(b) Anucus Curiae (b) Lok Sabha
+(c) Legal Aid Man (c) Rajya Sabha
+(d) None of the above (d) both Houses of Parliament and State
+59. Supreme Court’s advisory jurisdiction is Legislative Assemblies
+provided under Article…. of the Constitu- 68. In India, political parties are given recog-
+tion nition by
+(a) 226 (b) 143 (a) President
+(c) 124 (d) 123 (b) Law Commission
+60. Indira Swahney vs Union of India is a case (c) Speaker of Lok Sabha
+popularly known as (d) Election Commission
+(a) Mandal judgment 69. The Parliament can amend the Constitu-
+(b) Ayodhya judgment tion by way of
+(c) Suicidal judgment (a) addition (b) variation
+(d) Election Commission judgment (c) repeal (d) All of these
+61. Jurisdiction of a High Court in India can 70. The Right to Property ceased to be a fun-
+be restricted or extended by damental Right from
+(a) Chief Justice of India (a) 1975 (b) 1976
+(c) 1978 (d) 1979
+(b) Chief Justice of State
+71. Application to a higher court to examine,
+(c) Parliament
+against a case decided by a lower court
+(d) President
+and possibly giving a different decision is
+62. Central Government in India can assign
+called
+any function to the State with the consent
+(a) petition (b) writ petition
+of
+(c) suit (d) appeal
+(a) Chief Justice of India
+72. Usually laws are made by Legislature.
+(b) Parliament
+Sometimes legislature gives the power of
+(c) State Government
+making orders, rules, etc. to the Executive.
+(d) President
+These orders, rules, etc. are called ……….
+63. The provisions of Criminal Procedure
+They are also called subordinate legisla-
+Code, 1973 provides ‘for arrest of of-
+tion
+fender by police. Whether the Magistrate
+(a) Executive laws
+under this code
+(b) Sub-laws
+(a) can arrest the offender
+(c) Bye-laws
+(b) cannot arrest the offender
+(d) None of the above
+(c) can arrest by police
+73. Which among the following Articles of
+(d) can arrest, himself or direct the police
+Constitution of India States that Governor
+to arrest
+of a State acts on the advice of Council of
+64. Within the meaning of Copyright Act,
+Ministers of the concerned State
+1957, the performer’s right shall subsist
+(a) Article 163 (b) Article 167
+until
+(c) Article 170 (d) Article 171
+(a) 60 years (b) 55 years
+74. What is the time period for which emer-
+(c) 50 years (d) 70 years
+gency is extended once approved by both
+65. The Committee on Prevention of Corrup-
+Houses of Parliament?
+tion in India was headed by
+(a) 6 months (b) 7 months
+(a) K. Santhanam (b) M. S. Phukan
+(c) 9 months (d) one year
+(c) A. S. Anand (d) J. S. Verma
+75. Name the place in Bombay now Mumbai
+66. The Election Commission does not con-
+where the historic quit India Movement
+duct the elections to the
+declaration was made in 1942?
+(a) Lok Sabha (a) Gowalia Tank Maidan
+(b) Rajya Sabha (b) Shiraj Maidan
+(c) A Local bodies (c) Annie Besant Road
+(d) President’s elections (d) Juhu Beach
+
+76. The correct nomenclature of India accord- 83. Which country among the following is the
+ing to the Preamble is fi rst country in Europe to guarantee ani-
+(a) Sovereign, Secular, Democratic Re- mal rights in its Constitution
+public (a) Germany (b) Switzerland
+(b) Sovereign, Democratic republic (c) Belgium (d) Belgrade
+(c) Sovereign, Socialist, Secular, Demo- 84. In the Constitution of India, the name of
+cratic Republic country is ______
+(d) Sovereign, Secular, Socialist Democ- (a) Bharat (b) India
+racy (c) Hindustan (d) Aryavart
+77. The Constitution of India 85. The Prime Minister in India is
+(a) does not provide the Judicial Review (a) appointed by the President
+(b) provides for Judicial Review on USA (b) elected by the People
+pattern (c) elected by the Lok Sabha
+(c) provides for Judicial Review with (d) elected by both the Houses of the Par-
+limited scope liament
+(d) provides for Judicial Review as an in- 86. Which of the following non-members of
+tegral part of it Parliament has the right to address it?
+78. Which of the following is not a Directive (a) Solicitor-General of India
+Principle of the State Policy? (b) Chief Justice of India
+(a) To raise the level of nutrition (c) Attorney General of India
+(b) To develop the scientifi c temper (d) Chief Election Commissioner
+(c) To promote economic interests of (e) Chairman, Finance Commission
+weaker sections 87. Which of the following states does not
+(d) To separate the Judiciary from the Ex- have a bicameral legislature?
+ecutive (a) Bihar (b) Karnataka
+79. Chapter III on the Fundamental Rights (c) Rajasthan (d) Maharashtra
+contains twenty four articles from 88. Which of the following can be abolished,
+(a) Article 12 to 35 but not dissolved?
+(b) Article 14 to 37 (a) Rajya Sabha
+(c) Article 10 to 33 (b) Municipal Bodies
+(d) Article 16 to 19 (c) State Legislative Council
+80. The Rajya Sabha can be dissolved by (d) None of the above
+(a) Lok Sabha 89. The distribution of seats of the Parliament
+(b) Constitutional amendment are based on which of the following cen-
+(c) President sus?
+(d) None of these (a) 1951 (b) 1961
+81. Which of the following statements is not (c) 1971 (d) 1981
+correct about the objectives of the Plan- 90. The Government of India introduced
+ning in India? Bharat Ratna and Padam Shri awards un-
+(a) To raise the standard of living in the der
+people (a) Article 25 of the Constitution
+(b) To open out to the people new oppor- (b) Article 18 of the Constitution
+tunities for a richer and more varied (c) Article 14 of the Constitution
+life (d) None of the above
+(c) To attain economic equality and social 91. “Plebiscite” is a device for democracy
+justice used for
+(d) To establish progressive society (a) ascertaining the views of people on a
+82. The Planning Commission of India was policy matter of public importance
+set up by (b) enactment of law
+(a) the Parliament (c) appointment of civil servants
+(b) joint decision of the Union Govern- (d) appointment of judges
+ment and States 92. Which among the following women suc-
+(c) executive order of the Union Govern- ceeds Ms Condo Leezza Rice to become
+ment the Secretary for State of USA in Barrack
+(d) an Ordinance of the President Obama Government?
+
+MOCK TESTS 255
+(a) Ms Michelle (c) Chief Minister of all States
+(b) Ms Hillary Clinton (d) Prime Minister
+(c) Ms Chelsea 97. Article 78 of the Constitution deals with
+(d) Ms Palin (a) Emergency powers of the President
+93. The name of the Parliament of USA is (b) Prime Minister’s duty regarding keep-
+(a) House of Lords ing the President informed about the
+(b) House of Commons government’s Decisions and policies
+(c) Senate (c) President’s power to send advisory
+messages to the Parliament
+(d) White House
+(d) President’s power to get information
+94. The Election Commission of India is a
+from the Council of Ministers
+(a) political body because it deals with
+98. The Chairman of the Planning Commis-
+election matters
+sion in India is the
+(b) statutory body
+(a) Minister of Planning
+(c) constitutional body
+(b) Finance Minister
+(d) parliamentary body
+(c) President
+95. Which Indian candidate contested the
+(d) Prime Minister
+elections for the prestigious post of Secre-
+99. The minimum age required for becoming
+tary-General of United Nations Organiza-
+the Prime Minister of India is
+tion (UNO)?
+(a) 25 years (b) 30 years
+(a) Shashi Tharoor
+(c) 40 years (d) 35 years
+(b) A. K. Antony 100. Legally speaking who can declare war or
+(c) Ashok Chauhan peace?
+(d) Sonia Gandhi (a) Defence Minister
+96. Under whose advice the President of India (b) President of India
+declares Emergency under Article 352? (c) Prime Minister of India
+(a) Council of Ministers (d) Chiefs of Army, Navy and Air Force
+(b) Cabinet together
+A
+NSWERS
+1. (d) 2. (d) 3. (b) 4. (b) 5. (b) 6. (d) 7. (d) 8. (a) 9. (b) 10. (b)
+11. (d) 12. (d) 13. (c) 14. (a) 15. (a) 16. (a) 17. (c) 18. (a) 19. (b) 20. (a)
+21. (a) 22. (c) 23. (d) 24. (b) 25. (a) 26. (b) 27. (a) 28. (b) 29. (b) 30. (d)
+31. (d) 32. (a) 33. (b) 34. (b) 35. (b) 36. (c) 37. (a) 38. (d) 39. (d) 40. (d)
+41. (a) 42. (c) 43. (b) 44. (c) 45. (c) 46. (d) 47. (d) 48. (c) 49. (a) 50. (d)
+51. (d) 52. (d) 53. (a) 54. (d) 55. (a) 56. (d) 57. (c) 58. (b) 59. (b) 60. (a)
+61. (c) 62. (c) 63. (d) 64. (a) 65. (a) 66. (c) 67. (a) 68. (d) 69. (d) 70. (c)
+71. (d) 72. (c) 73. (d) 74. (d) 75. (b) 76. (c) 77. (d) 78. (b) 79. (a) 80. (d)
+81. (d) 82. (c) 83. (c) 84. (a) 85. (a) 86. (c) 87. (c) 88. (c) 89. (c) 90. (b)
+91. (a) 92. (b) 93. (b) 94. (c) 95. (a) 96. (b) 97. (b) 98. (d) 99. (a) 100. (b)
+
+P P 2
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. “Sovereignty” in India means (c) Lal Bahadur Shastri
+(a) Apex or alternative Authority (d) None of the above
+(b) Lower Authority or Immediate Au- 8. Who heads the new Commission on Cen-
+thority tre–State relations appointed by the gov-
+(c) Authority of Judiciary ernment in April 2007?
+(d) Supreme pre-eminence and indepen- (a) M. M. Punchhi
+dent authority (b) M. Veerappa Moily
+2. Which classes of Advocates are in India? (c) K. C. Pant
+(a) Barristers and Solicitors (d) N. R. Madhav Menon
+(b) Advocates and Senior Advocates 9. Who of the following is the Chairman of
+(c) Lawyers and Attorneys the Thirteenth Finance Commission?
+(d) Supreme Court Advocates and High (a) K. C. Pant
+Court Advocates (b) Vijay Kelkar
+3. Who is present Chief Justice of India? (c) C. Rangarajan
+(a) Justice R. C. Lahoti (d) None of the above
+(b) Justice K. G. Balakrishnan 10. Which one of the following is the high-
+est body concerned with the approval of
+(c) Justice Y. K. Sabharwal
+country’s Five Year Plans?
+(d) Justice Kapadia
+(a) Planning Commission
+4. The Constitution of India provides for
+(b) Union Cabinet
+(a) Right to life
+(c) National Development Council
+(b) Right to work
+(d) The Parliament
+(c) Both right to work and right to life
+11. The Supreme Court of India has declared
+(d) Neither right to life nor right to work
+following services to come under the Con-
+5. Who among the following offi cials in In-
+sumer Protection Act, 1986 recently
+dia appoints Regional Election Commis-
+(a) Government Medical Hospitals
+sioner
+(b) Employee’s Provident Fund
+(a) President in consultation with Elec-
+(c) Government Colleges
+tion Commission of India
+(d) Procuring Bank Loan
+(b) Prime Minister of India
+12. The total number of Ministers including
+(c) Election Commission of concerned
+the Chief Minister, in the Council of Min-
+State
+isters in a State in India shall not exceed
+(d) Governor of the concerned State in
+(a) 15 per cent of total members of Legis-
+consultation with the Chief Minister
+lative Assembly
+6. Who was the Chairman of the fi rst Back-
+(b) 12 per cent of total members of Legis-
+ward Class Committee?
+lative Assembly
+(a) D. P. Mandal
+(c) per cent of total members of Legisla-
+(b) K. R. Narayanan
+tive Assembly
+(c) Kaka Kalelkar
+(d) 93.33 per cent of total members of
+(d) None of the above
+Legislative Assembly
+7. Which one of the following was member 13. In India an election candidate has to ex-
+of Rajya Sabha at the time of appointment press in his nomination paper about his
+as Prime Minister? (a) movable and immovable assets and
+(a) P. V. Narsimha Rao liabilities to government and public
+(b) Charan Singh fi nancial institutions
+
+MOCK TESTS 257
+(b) about his liability only 24. In which famous case, the Supreme Court
+(c) about his assets only of India said, “the President means, for
+(d) None of the above all practical purposes, the Prime Minister
+14. In Indian context which of the following or Council of Ministers and his opinion,
+statements is correct? satisfaction or decision is constitution-
+(a) Any citizen can be appointed as Prime ally secured when Minister arrives at such
+Minister opinion, satisfaction or decision
+(b) Only M.P. can be appointed as Prime (a) Ram Jawaya Kapur vs State of Punjab
+Minister (b) Maneka Gandhi vs Union of India
+(c) Only a member of the Lok Sabha can (c) M.S.M. Sharma vs Sri Krishna
+become Prime Minister (d) None of the above
+(d) Only leader, of the majority party in 25. The highest paid head of the Government
+Lok Sabha can become Prime Minis- in the world at present is in
+ter (a) Singapore (b) USA
+15. Who administers oath of offi ce to the (c) Russia (d) Japan
+Chief Justice of India?
+26. The members of the Rajya Sabha are
+(a) President (b) Prime Minister
+(a) Mostly nominated
+(c) Speaker (d) Vice-President
+(b) Elected indirectly
+16. The fi rst Indian Barrister
+(c) Elected by the members of the Leg-
+(a) Madhusudan Das
+islative Assemblies and Legislative
+(b) Chitranjan Das
+Councils of States
+(c) Subhash Chandra Bose
+(d) Elected directly as well as indirectly
+(d) Jnanendra Mohan Tagore
+27. Which House is better placed with regard
+17. Cruelty to a women by husband or relative
+to control over the executive?
+of husband is defi ned under
+(a) Rajya Sabha
+(a) Section 498A of Indian Penal Code
+(b) Lok Sabha
+(b) Section 498 of Indian Penal Code
+(c) Both are equally placed
+(c) Section 497 of Indian Penal Code
+(d) It depends from which House the
+(d) Section 496 of Indian Penal Code
+Prime Minister comes
+18. Voting right comes under
+28. An ordinance can be issued by the Presi-
+(a) Legal right
+dent
+(b) Fundamental right
+(a) On any subject
+(c) Constitutional right
+(b) At any time
+(d) None of the above
+(c) Subject to the same constitutional lim-
+19. ………. is a general pardon
+itations as legislation by Parliament
+(a) Remission (b) Reprieve
+(d) In his individual judgement as well as
+(c) Amnesty (d) Suspension
+on the advice of the council of Minis-
+20. To betray a nation is an offence and pun-
+ters
+ishable with death, that is
+29. An ‘offi ce of profi t’ which disqualifi es a
+(a) Sedition (b) Treachery
+(c) Treason (d) Anti-nationality person from being a member of the Union
+21. Which amendment to Constitution of In- or State Legislature includes offi ce held
+dia relates to political defection? under
+(a) 52nd (b) 53rd I. The Government of India
+(c) 73rd (d) 90th II. A State Government
+22. ‘A certiorari’ means III. A Local Authority
+(a) at will (a) III only (b) I, II only
+(b) with stronger reason (c) I, II, III (d) None of these
+(c) of the same mind 30. The fi rst Law Offi cer of the Government
+(d) in the meanwhile of India is the
+23. How many methods are prescribed for the (a) Law Minister
+amendment of Indian Constitution? (b) Chief Justice of Supreme Court
+(a) 3 (b) 4 (c) Attorney-General of India
+(c) 5 (d) 7 (d) None of the above
+
+31. Child marriage in India means 37. Which of the following states/union terri-
+(a) a marriage to which either of the con- tories has no legislative council?
+tracting parties is a child (a) Bihar (b) Karnataka
+(b) a marriage to which both of the con- (c) Uttar Pradesh (d) Tripura
+tracting parties is a child 38. Which Article of the Indian Constitution
+(c) is a marriage only when only bride is provides the Parliament, the power to
+a child amend the Constitution?
+(d) is a marriage only when groom is a (a) 390 (b) 368
+child (c) 260 (d) 348
+32. For the trial of a criminal case in India the 39. What is the power of the Rajya Sabha with
+evidence is to be taken regard to Money Bill?
+(a) In the presence of accused in the (a) It can withhold it
+court (b) It has no power
+(b) In the presence of his advocate in the (c) It can amend it
+court (d) It can reject it
+(c) In the presence of accused or when his 40. The position of the Vice-President of India
+personal attendance is dispensed with resembles, to a great extent, the position
+in the presence of his advocate of the Vice-President of
+(d) In the presence of his guardian or near (a) Italy (b) Russia
+relatives (c) New Zealand (d) USA
+33. Securities and Exchange Board of India 41. In the context of Panchayati Raj in India
+has been constituted by which among the following is true about
+(a) Constitutional of India Gram Sabha?
+(b) Securities and Exchange Board of In- (a) It is topmost tier of the Panchayati
+dia Act Raj
+(c) Special Commission by Central Gov- (b) It consists of all the voters resid-
+ernment ing in the jurisdiction of a Village
+(d) Bombay Development Act Panchayat
+34. Which among the following is not a func- (c) It is the exclusive body consisting of
+tion of Parliament of India? selected representatives from Village
+(a) Providing the cabinet and holding Panchayat
+them responsible (d) It consist of all the adult males of Vil-
+(b) Criticizing government policy lage Panchayat
+(c) Formulating policy for national devel- 42. In performance of his duties and in the ex-
+opment ercise of his powers, the Government of a
+(d) Security, relevant information on gov- State in India
+ernment action (a) is answerable in the court of law
+35. The member of Rajya Sabha in Parliament (b) is not answerable in the court of law
+of India are (c) can be impeached by the Vidhan Sab-
+(a) elected indirectly ha
+(b) mostly nominated (d) is answerable to Vidhan Sabha
+(c) elected directly as well as indirectly 43. The President of India has power to de-
+(d) elected by the members of the legisla- clare emergency under Article 352 of
+tive assemblies and legislative council Constitution of India on which of the fol-
+of states lowing grounds
+36. What is Zero hour? 1. War
+(a) Interval between morning and eve- 2. External Aggression
+ning session 3. Internal Disturbance
+(b) When Money Bill is introduced in 4. Armed Rebellion
+Lok Sabha Codes:
+(c) When proposals of Opposition are (a) 1, 2 and 3 (b) 1, 2 and 4
+considered (c) 1, 3 and 4 (d) 2, 3 and 4
+(d) When matters of utmost importance 44. In the First War of India’s Independence,
+are raised which revolutionary fi gure from Bareilly
+
+MOCK TESTS 259
+replaced the Mughal Prince, Mirza Mu- 54. Which among the following pronounces
+ghal, as Commander-in-Chief of the rabel that, “all members (countries) shall settle
+forces in July 1857? their international disputes by peaceful
+(a) Abdul Rahman (b) Rhesus Zai resolutions in such a manner that the inter-
+(c) Akbar Ali (d) Bakht Khan national peace and security and justice are
+45. What is most common name of Paris Stock not endangered”.
+Exchange (a) Article 2 (3) of Charter of United Na-
+(a) Dalal (b) Bourse tions, 1945
+(c) Par Stake (d) Bull and Bear (b) Article 4 (5) of the Covenant of
+46. What is the qualifi cation for obtaining vot- League of Nations, 1919
+ing right in India? (c) Article 4 (2) of the Safety of United
+(a) Caste (b) Property Nations and Associated Personnel,
+(c) Age (d) Education 1946
+47. “Equal pay for equal work for both males (d) None of the above
+and females”. Which article has proposed 55. Which of the following Articles of the
+this? Constitution of India deals with Caretaker
+(a) Article 48 (b) Article 39 Government?
+(c) Article 14 (d) Article 25 (a) 42 (b) 45
+48. The fi rst leader of opposition to be given (c) 350 (d) None of these
+the status and rank of a Cabinet Minister 56. For how many times Financial Emergency
+was has been imposed in India?
+(a) A. K. Gopalan (b) Y. B. Chavan
+(a) Not at all (b) Once
+(c) C. M. Stephen (d) P. Upendra
+(c) Twice (d) Thrice
+49. The three languages included in the Eighth
+57. The Speaker in Lok Sabha of Parliament
+Schedule of the Constitution by the 71st
+of India can be removed from his offi ce
+amendment are
+before the expiry of his term
+(a) Konkani, English, Manipuri
+(a) by the President on the recommenda-
+(b) Konkani, Nepali, Maithili
+tion of the Prime Minister
+(c) Konkani, Manipuri, Nepali
+(b) if the House passes a resolution to the
+(d) Manipuri, Nepali, Dogri
+effect
+50. Which of the following is not a condition
+(c) if the House and the Prime Minister so
+for becoming a citizen of India?
+decide
+(a) Birth
+(d) if both the Houses of Parliament pass
+(b) Acquiring Property
+a resolution
+(c) Descent
+58. The Ordinances issued by the Governor in
+(d) Naturalization
+India are subject to the approval by
+51. Members of the Union Public Service
+(a) Parliament (b) State Legislature
+Commission of India hold offi ce
+(c) President (d) None of these
+(a) for 6 years
+59. The fi rst Indian State to have its Human
+(b) for 8 years
+Development Report prepared and re-
+(c) 6 years or up to the age of 65 years
+leased by Amartya Sen in Delhi is
+whichever is earlier
+(a) Madhya Pradesh
+(d) 5 years or up to the age of 60 years
+(b) Kerala
+whichever is earlier
+(c) Andhra Pradesh
+52. The Union Council of Ministers in India is
+(d) West Bengal
+responsible to
+60. The detailed provisions regarding acquisi-
+(a) Lok Sabha (b) Parliament
+tion and determination of Indian citizen-
+(c) President (d) People
+ship are contained in
+53. To eliminate economic inequality and
+(a) Part II of the Constitution of India
+concentration of wealth, Sarvodaya advo-
+(b) Part VII of the Constitution of India
+cates
+(c) Citizenship Act, 1955 of India
+(a) non-possession
+(d) None of the above
+(b) state run co-operatives
+(c) trusteeship 61. The status of a recognized Opposition par-
+(d) social ownership of wealth ty in the Lok Sabha is secured only when
+
+the percentage of the total seats in the Lok (b) Prime Minister
+Sabha won by the political party is (c) Deputy Prime Minister
+(a) 5 (b) 8 (d) Election Commissioner of concerned
+(c) 10 (d) 15 State
+62. The members of the State PSC retire at 71. For the creation of a new state in India,
+the the amendment of the Constitution will
+(a) age of 60 years require
+(b) age of 62 years (a) simple majority in Parliament
+(c) age of 65 years (b) simple majority in Parliament and ap-
+(d) No specifi c age proval of majority of states
+63. The UPSC consists of a Chairman and (c) two-third majority in Parliament
+(a) six other members (d) two-third majority in each House of
+(b) eight other member Parliament and approval of majority
+(c) eleven other members of states.
+(d) unspecifi ed number of members 72. Who among the following has the Consti-
+64. In which part of the Constitution is the tutional authority to make rules regarding
+State enjoined to establish Panchayati Raj the manner of enforcing the orders of the
+institutions? Supreme Court?
+(a) Directive Principles (a) Chief Justice of India
+(b) Preamble (b) Attorney General of India
+(c) Fundamental Rights (c) President
+(d) Fundamental Rights (d) Union Law Minister
+65. The maximum age prescribed for election 73. Madras High Court has the jurisdiction
+as President is over
+(a) 58 years (b) 60 years (a) Tamil Nadu and Kerala
+(c) 62 years (d) No such limit (b) Tamil Nadu and Pondicherry
+66. Principal laid down in a judgment is (c) Kerala and Lakshadweep
+(a) Res judicata (d) Lakshadweep and Tamil Nadu
+(b) Law 74. Which Article of the Constitution permits
+(c) Ratio decidendi the Supreme Court to have a seat outside
+(d) Obiter dicta Delhi?
+67. Who was the member of Clement Atlee’s (a) 141 (b) 136
+Cabinet to led the Cabinet Mission Plan to (c) 130 (d) 124
+India in 1946? 75. The fi rst state to become bifurcated after
+(a) Lord Curzon independence was
+(b) Lord Cornwallice (a) Bengal (b) Bombay
+(c) Lord Pethick Lawrence (c) Punjab (d) Assam
+(d) Lord William Bentinck 76. The Speaker of Lok Sabha in Parliament
+68. Which among the following Articles of of India is elected/appointed by
+Constitution of India speaks about Ordi- (a) President of India
+nance to be proclaimed by President of (b) Prime Minister of India
+India? (c) Members of Lok Sabha
+(a) Article 123 (b) Article 223 (d) Both members of Lok Sabha and Ra-
+(c) Article 233 (d) Article 243 jya Sabha
+69. Who appoints the Offi cers for Linguistic 77. The President of India appoints the Judges
+Minorities in India? of High Courts
+(a) President (a) the statement is true
+(b) Prime Minister (b) the statement is false
+(c) Governor of State (c) President cannot appoint
+(d) Both (a) and (c) (d) None of these
+70. Who among the following appoints Re- 78. Most of the laws passed by the Parliament
+gional Election Commissioners in India? of India apply to all States except
+(a) President in consultation with Elec- (a) Andaman and Nicobar Islands
+tion Commission of India (b) Pondicherry
+
+MOCK TESTS 261
+(c) Jammu and Kashmir (c) the Vice-President
+(d) Mizoram (d) the Governor
+79. As per constitutional requirement that the 88. A judgment which does not apply to all the
+Parliament of India shall meet at least citizens but applies only to the Litigants is
+(a) twice a year (b) once a year called
+(c) thrice a year (d) four times a year (a) judgment in rem
+80. Which of the following was the main ob- (b) judgment in personam
+jective of Non-Co-operation Movement in (c) judgment per incurium
+Indian freedom struggle? (d) None of the above
+(a) Achievement of complete indepen- 89. Who has the fi nal power as regard with-
+dence of India drawing of a list for SCs, STs, and OBC in
+(b) Attainment of dominion status for In- India?
+dia (a) Parliament
+(c) Introduction of bicameral system in (b) President
+India (c) State Legislatures
+(d) None of the above (d) None of the above
+81. India adopted a federal system with a 90. Who is the present Chairman of the Na-
+strong center from tional Human Rights Commission of In-
+(a) New Zealand (b) Australia dia
+(c) USA (d) Canada (a) Justice A. S. Anand
+(b) Justice K. G. Balakrishanan
+82. In India, power of judicial review is re-
+(c) Justice B. N. Kirpal
+stricted because
+(d) Justice S. Rajendra Babu
+(a) the judges are transferable
+91. The Sikhs in India are permitted to carry
+(b) the Constitution is supreme
+Kirpan. Under which one the following
+(c) the Executive is supreme
+Fundamental Rights are they permitted to
+(d) the Legislature is supreme
+do so?
+83. Who of the following is considered as the
+(a) right to freedom
+custodian of Lok Sabha?
+(b) right to freedom of religion
+(a) The Prime Minister
+(c) right to life and liberty
+(b) The Speaker
+(d) None of the above
+(c) The Chief Whip of the ruling party
+92. The Constitution prescribes the
+(d) The leader of the Opposition
+(a) punishment for the practice of un-
+84. At present, India consists of
+touchability
+(a) 21 states and 11 union territories
+(b) abolition of untouchability as a Fun-
+(b) 28 states and 7 union territories
+damental Right
+(c) 25 states and 9 union territories
+(c) way of detecting the practice of un-
+(d) 24 states and 7 union territories
+touchability
+85. The Prime Minister is
+(d) abolition of untouchability as a Direc-
+(a) appointed by the President in consul-
+tive Principle of State Policy
+tation with the Speaker
+93. Who among the following holds offi ce
+(b) appointed by the President
+during the pleasure of the President?
+(c) elected by the Lok Sabha
+(a) Speaker of the Lok Sabha
+(d) elected by the two Houses of Parlia-
+(b) Prime Minister
+ment at a joint sitting
+(c) Election Commissioner
+86. The terms ‘Law in Force’ in clause (3) of
+(d) Governor
+Article 13 of Constitution of India means
+94. Which of the following is the correct
+(a) only statutory law
+chronological order of the Prime Ministers
+(b) customs and usages only
+in India?
+(c) both (a) and (b)
+I. Indira Gandhi
+(d) newly formed public order only
+II. Jawaharlal Nehru
+87. The Constitution of India does not contain III. Morarji Desai
+any provision for impeachment of IV. Charan Singh
+(a) the President (a) I, II, III, IV (b) II, III, I, IV
+(b) the Chief Justice of India (c) II, I, III, IV (d) III, II, IV, I
+
+95. What is the minimum age for appointment al of India is determined by
+as a Governor? (a) the Council of Ministers
+(a) 25 years (b) 30 years (b) the Constitution
+(c) 35 years (d) 40 years (c) the Parliament
+96. On the death of the President the Vice- (d) the President
+President succeeds him as President for 99. The President of India can be removed
+(a) a maximum period of three years from his offi ce by the
+(b) a maximum period of one year (a) Prime Minister
+(c) a maximum period of six months (b) Lok Sabha
+(d) the remaining period of the term (c) Chief Justice of India
+97. The tenure of the Union Council of Minis- (d) Parliament
+ters is 100. In addition to the powers given in the
+(a) fi ve years Union and Concurrent List, the Union
+(b) uncertain Government has the
+(c) fi xed and co-terminus with the Presi- (a) Residuary power
+dent (b) Federal power
+(d) co-terminus with the Lok Sabha (c) Power to legislate in State list
+98. The remuneration for the Attorney-Gener- (d) None of these
+A
+NSWERS
+1. (d) 2. (b) 3. (d) 4. (a) 5. (d) 6. (a) 7. (a) 8. (a) 9. (b) 10. (c)
+11. (a) 12. (a) 13. (a) 14. (a) 15. (a) 16. (b) 17. (a) 18. (c) 19. (c) 20. (b)
+21. (a) 22. (b) 23. (a) 24. (a) 25. (a) 26. (c) 27. (b) 28. (c) 29. (c) 30. (c)
+31. (a) 32. (c) 33. (b) 34. (c) 35. (a) 36. (a) 37. (d) 38. (b) 39. (b) 40. (d)
+41. (c) 42. (d) 43. (b) 44. (d) 45. (c) 46. (c) 47. (b) 48. (b) 49. (c) 50. (b)
+51. (c) 52. (a) 53. (c) 54. (a) 55. (c) 56. (a) 57. (b) 58. (b) 59. (d) 60. (c)
+61. (d) 62. (b) 63. (d) 64. (a) 65. (d) 66. (c) 67. (c) 68. (a) 69. (a) 70. (a)
+71. (a) 72. (d) 73. (b) 74. (d) 75. (b) 76. (c) 77. (a) 78. (c) 79. (a) 80. (b)
+81. (d) 82. (d) 83. (b) 84. (b) 85. (b) 86. (c) 87. (d) 88. (b) 89. (a) 90. (b)
+91. (b) 92. (b) 93. (d) 94. (b) 95. (c) 96. (c) 97. (d) 98. (d) 99. (d) 100. (a)
+
+MOCK TESTS 263
+P P 3
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. Which Parliamentary Committee in In- (c) the President on the report of the Par-
+dian system is chaired by the member of liament
+opposition party? (d) the President on the report of the Su-
+(a) Joint Parliamentary Committee preme Court of India
+(b) Public Accounts Committee 8. The Parliament can make law on a subject
+(c) Estimates Committee in the State List when
+(d) Privileges Committee I. A Proclamation of Emergency is in
+2. Who administers oath of offi ce of a Gov- force
+ernor of an Indian State? II. Two or more States make a request to
+(a) Chief Justice of High Court the Parliament to make a law on a sub-
+(b) President of India ject
+(c) Chief Justice of Supreme Court III. Rajya Sabha passes a resolution that
+(d) Advocates General of State such subjects have acquired national
+3. WE THE PEOPLE OF INDIA, having importance
+solemnly ………. to constitute India into (a) I, II (b) II and III
+a SOVEREIGN SOCIALIST SECULAR (c) I and III (d) I, II, III
+DEMOCRATIC REPUBLIC in the Pre- 9. A Money Bill can originate in the State
+amble of Constitution of India. Legislature only with the prior consent of
+(a) resolved the
+(b) received I. Chief Minister II. President
+(c) agreed III. Governor IV. None of these
+(d) planned (a) I (b) I and III
+4. A legislation enacted by a State Legisla- (c) II (d) III
+ture in India falls in the category of 10. Generally, the fi rst session of the Parlia-
+(a) subordinate legislation ment starts with an address of the Presi-
+(b) supreme legislation dent in which
+(c) autonomous legislation (a) he makes suggestions to the Govern-
+(d) delegated legislation ment regarding the policy it should
+5. Right to work in India is under follow in the interest of the country
+(a) Directive Principles (b) he outlines the policy and programme
+(b) Fundamental Right of the government during the ensuing
+(c) Constitutional Duty year
+(d) Not a fundamental right but can be (c) he makes a survey of the achieve-
+claimed after employment ments of the Government during the
+6. Which one of the following is not a basic previous year
+feature of the Indian constitution? (d) he does none of the above things
+(a) Federal Government 11. Sovereignty in India under the Constitu-
+(b) Parliamentary tion belongs to
+(c) Independence of the judiciary (a) Parliament (b) the People
+(d) Presidential Government (c) President (d) Supreme Court
+7. The members of the UPSC can be removed 12. In India the International Treaties are rati-
+from their offi ce during their tenure by fi ed by
+(a) the Parliament (a) President
+(b) the President (b) Parliament
+
+(c) Prime Minister (b) Parliament
+(d) Foreign Secretary (c) The Prime Minister
+13. Which of the following rights have been (d) None of these
+described in the Constitution of India? 20. What is the power of the Rajya Sabha with
+(a) Natural rights of the citizens regard to Money Bill?
+(b) Fundamental rights of the citizens (a) It can withhold it.
+(c) Moral rights of the citizens (b) It has no power.
+(d) Hereditary rights of the citizens (c) It can amend it.
+14. Who is responsible for the delimitation of (d) It can reject it.
+territorial constituencies for Lok Sabha 21. Citizenship in India can be lost by all of
+elections in India? the following except
+(a) The Delimitation Commission (a) renunciation
+(b) State Legislature (b) treason
+(c) Regional Election Commissioner (c) termination
+(d) State Law Ministry (d) deprivation
+15. Parliament of India consists of 22. Indians have
+(a) Council of State, the House of People (a) single citizenship
+and the President (b) dual citizenship (One of Union and
+(b) Council of State and President Second of States)
+(c) House of People and President (c) circumstantial citizenship
+(d) None of the above
+(d) Prime Minister and President
+23. Which among the following Union Terri-
+16. The Judges of the High Court can be re-
+tories of India have High Courts of their
+moved from their offi ce during their ten-
+own?
+ure
+(a) Delhi
+(a) by the Chief Justice on the advice of
+(b) Delhi and Daman Diu
+the President
+(c) Pondicherry and Nagar Haveli
+(b) by the Chief Justice on the recommen-
+(d) None of these
+dation of the Parliament
+24. What is the tenure of Governor of a State
+(c) by the Governor, if the State Legisla-
+in India?
+ture passes a resolution to this effect
+(a) No fi xed term
+by two-thirds majority
+(b) 5 years
+(d) by the President on the basis of a reso-
+(c) 4 years
+lution passed by the Parliament by
+(d) At the discretion of State Law Secre-
+two-thirds majority
+tary
+17. A judicial Review means:
+25. Who among the following possesses the
+(a) Powers of the courts to declare null
+authority to set common High Courts for
+and void any action by any organ of
+States in India
+the Government if it is beyond the
+(a) Parliament
+powers granted by the Constitution
+(b) Chief Justice of Supreme Court
+(b) Review of the working of judiciary
+(c) Chief Justice of either High Court
+(c) Power of the Court to try cases
+(d) Constitutional Bench of Supreme
+(d) Review of the judicial power of the
+Court
+judges
+26. Who conducts the State assembly elec-
+18. When the Vice-President acts as President
+tions?
+he gets the emoluments of
+(a) Governor of the state concerned
+(a) Vice-President
+(b) Chief Justice of the Supreme Court
+(b) President
+(c) Chief Justice of the High court con-
+(c) President in addition to what he gets
+cerned
+as Chairman of Rajya Sabha
+(d) Chief Election Commission
+(d) Chairman of Rajya Sabha
+27. Rajya Sabha is less powerful than Lok
+19. The executive power is vested in the Pres- Sabha in terms of its fi nancial powers be-
+ident but it is actually used by him on the cause
+advice of (a) no Money Bill can be introduced in
+(a) The Council of Ministers Rajya Sabha
+
+MOCK TESTS 265
+(b) it does not participate in the passing of 35. A Money Bill in Indian Parliament
+Money Bill (a) cannot be introduced in the Council of
+(c) Both of the above States
+(d) None of the above (b) needs to be certifi ed as such by the
+28. The Tenth Schedule of the Constitution of Speaker
+India relates to (c) can be amended by the Council of
+(a) Administration of scheduled and trib- States
+al areas (d) Both (a) and (b)
+(b) National languages of India 36. Rajya Sabha is also called as….
+(c) Anti-defection law (a) Council of Nominated Members
+(d) Judicial review (b) Council of Representatives
+29. The Constitution (c) Council of States
+(a) Allows re-election of a person to the (d) None of the above
+President’s post 37. National Development Council is a …
+(b) Restricts a person to remain President (a) Creation of the executive body
+(b) Constitutional body
+for only two terms
+(c) Cabinet’s Secretariat
+(c) Has been amended to allow a person
+(d) Joint Right
+only one term as President
+38. Which article has abolished the child la-
+(d) Is silent on the President’s re-election
+bour?
+to the offi ce
+(a) 24 (b) 27
+30. The States reorganization in 1956 created
+(c) 29 (d) 34
+(a) 14 States and 6 Union Territories
+39. Welfare State is the aim of
+(b) 15 States and 9 Union Territories
+(a) Anarchism
+(c) 17 States and 6 Union Territories
+(b) Individualism
+(d) 17 States and 9 Union Territories
+(c) Scientifi c Socialism
+31. The relationship between the President
+(d) Democratic Socialism
+and Prime Minister in India is determined
+40. The fi rst Law Offi cer of the Government
+by
+of India is
+I. Articles 74-78 of the Constitution
+(a) Chief Justice of India
+II. Conventions
+(b) Law Minister
+III. Judicial pronouncements
+(c) Attorney General
+IV. Personal relations
+(d) Auditor General
+(a) I, II (b) II, III
+41. The offi cial language of the Indian Union
+(c) III, IV (d) I, IV
+is
+32. Which of the following Articles of the
+(a) Hindi
+Constitution of India specially guarantees
+(b) English
+freedom of the Press?
+(c) English and Hindi
+(a) 16 (b) 19
+(d) Urdu, Hindi and English
+(c) 22 (d) None of these
+42. The act of adopting a foreigner and mak-
+33. In a Parliamentary democracy ing him a citizen of the country for all pur-
+(a) executive controls the Legislature poses through a legal process is called
+(b) executive and Legislature are strictly (a) dual citizenship
+separate (b) PIO (Persons of Indian Origin) Status
+(c) the Judiciary controls both Legislature (c) naturalization
+and Executive (d) right of re-entry
+(d) the Legislature controls the Executive 43. In India context which of these statements
+34. The Parliament of India consists of is not correct?
+(a) Lok Sabha and Rajya Sabha (a) The President can dissolve the Parlia-
+(b) President, Lok Sabha and Rajya Sab- ment
+ha (b) The President can summon the Parlia-
+(c) President, Ministers and the Two ment
+Houses (c) The President can dissolve the Lok
+(d) None of these Sabha
+
+(d) The President can prorogue the Parlia- 52. The Supreme Court of India
+ment (a) is a court of record and has a power to
+44. In India and Ordinance issued by the Pres- punish for its contempt
+ident or a Governor can remain in force (b) is the only highest court of appeal
+without the approval of Parliament or (c) is like House of Lords on its judicial
+State Assembly for a maximum period of side
+(a) 6 months (b) 3 months (d) as in all respects like Supreme Court
+(c) 2 months (d) 4 months of USA
+45. Which of the following statements relat- 53. In 1740, which agency of the Bombay
+ing to the Rajya Sabha in Parliament of Government was setup to enforce control
+India is not correct? on trade on the Konkan Coast?
+(a) It can be dissolved by the President (a) Bombay-Konkan Empire
+after a term of 5 years (b) Oudh-Bombay Ghat
+(b) It is a permanent body and 1/3rd of its (c) Bombay-Oudh Rule
+members retire every 2 years (d) Bombay Marines
+(c) Its members are elected by the State 54. The area of Lok Sabha for the purpose of
+Assemblies by the method of propor- General Election in India is determined by
+tional representation the
+(d) It has no control over Money Bills ex- (a) Delimitation Commission
+cept to delay them for 14 days (b) Election Commission
+46. Indira Swahney vs Union of India is a case (c) Census Commission
+popularly known as
+(d) President
+(a) Mandal judgment
+55. Term of Lok Sabha in Parliament of India
+(b) Ayodhya judgment
+is
+(c) Suicidal judgment
+(a) fi ve years unless it is dissolved
+(d) Election Commission judgment
+(b) four years from the date of its fi rst ses-
+47. Under the Constitution, the residuary
+sion
+powers vest with the
+(c) fi ve years from the date of oath taken
+(a) President
+by the members
+(b) Supreme Court
+(d) it is a permanent body
+(c) Union government
+56. From which country’s Constitution the Ju-
+(d) State Government
+dicial Review have been borrowed?
+48. Which organ of the Constitution is known
+(a) Irish (b) Canada
+as the ‘Fifth wheel of the Coach’?
+(c) British (d) US
+(a) Planning Commission
+57. Which article defi nes Equality before law
+(b) Finance Commission
+and equal protection of law?
+(c) Public Service Commission
+(a) Article 16 (b) Article 14
+(d) None of the above
+(c) Article 20 (d) Article 21
+49. By which constitutional amendment
+58. Which articles defi nes Protection of life
+Panchayati Raj was introduced?
+and Personal liberty?
+(a) 74th (b) 73rd
+(a) Article 16 (b) Article 14
+(c) 42nd (d) 44th
+(c) Article 20 (d) Article 21
+50. From which country’s Constitution the
+59. Which article defi nes Judicial Review?
+Right to Equality have been borrowed?
+(a) Article 16 (b) Article 13
+(a) Irish (b) Canada
+(c) Article 20 (d) Article 21
+(c) British (d) US
+60. Which article defi nes Protection in respect
+51. Constitution Amending Bill passed by
+of conviction for offences?
+the Parliament of India also requires to be
+(a) Article 16 (b) Article 14
+ratifi ed by the Legislature of not less than
+(c) Article 20 (d) Article 21
+half of the States in regard to the
+61. Members of Rajya Sabha of India are not
+(a) Fundamental Duties
+associated with
+(b) Fundamental Rights
+1. Public Accounts Committee
+(c) Representation of States in Parlia-
+ment 2. Estimates Committee
+(d) Constitutional Remedies 3. Committee on Public Undertaking
+
+MOCK TESTS 267
+(a) 1 and 2 (b) 3 only 71. Generally a judgment of a court consists
+(c) 2 only (d) 1 and 3 of certain observations which lay down
+62. Which House is better placed with regard certain principles of law. Such observa-
+to control over executive in India? tions are called __________
+(a) Lok Sabha (a) obiter dicta (b) stare decisis
+(b) Rajya Sabha (c) ratio decidendi (d) None of these
+(c) Both are equally placed 72. Which of the following is the correct state-
+(d) It depends from which House the ment of law?
+Prime Minister comes (a) Judges make the law
+63. Who among the following is considered (b) Judges do not make the law
+as the Guardian of Public Purse in India? (c) Legislature makes the law and the
+(a) Parliament Judges interpret them
+(b) Comptroller and Auditor-General (d) Legislature makes the law and the
+(c) Public Accounts Committee Judges interpret them but the interpre-
+(d) the President tation also becomes law
+64. A Money Bill in India 73. If there is a confl ict between the Constitu-
+(a) cannot be introduced in the Council of tion and a State Law in India
+States (a) the State Law will prevail
+(b) needs to be certifi ed as such by the (b) the Constitution will prevail
+President (c) the Constitution will prevail and the
+(c) can be amended by the Council of State Law would be called ultra vires
+States (d) None of these
+(d) Both (a) and (b) 74. Can the lower court in India decide on
+65. The Deputy Chairman of the Rajya Saba election issue?
+of Parliament of India is (a) No, only the High Court and Supreme
+(a) nominated by the Chairman Court
+(b) elected by the Parliament (b) Yes
+(c) nominated by the President (c) Yes, only the High Court
+(d) elected by the Rajya Sabha from (d) Yes, only the Supreme Court
+amongst its members 75. Who has the power to create Inter-State
+66. Which article defi nes Prohibition of dis- Councils in India?
+crimination only on grounds of religion, (a) President (b) Parliament
+race, caste, sex or place of birth? (c) Governor (d) Home Minister
+(a) Article 16 (b) Article 14 76. Protection of the interests of the minority
+(c) Article 15 (d) Article 21 is envisaged in which of the following ar-
+67. What are the articles which defi nes Direc- ticles?
+tive Principles of State Policy? (a) 14 (b) 19
+(a) 36 to 51 (b) 36 to 51-A (c) 29 (d) 32
+(c) 39 to 51 (d) 39 to 51-A (e) None of these
+68. Which article says for Uniform Civil 77. Who appoints the Chairman of UPSC of
+Code? India?
+(a) Article 43 (b) Article 40 (a) President
+(c) Article 44 (d) Article 45 (b) Vice-President
+69. Which part of Constitution defi nes Funda- (c) Prime Minister
+mental Duties? (d) Chief Justice of India
+(a) Part I (b) Part II 78. Under which article President can declare
+(c) Part IV (d) Part IV-A National Emergency?
+70. The Preamble of our Constitution includes (a) Article 352 (b) Article 360
+all except (c) Article 350 (d) Article 356
+(a) Adult franchise 79. Under which article President can declare
+(b) Equality of status State Emergency?
+(c) Fraternity (a) Article 352 (b) Article 360
+(d) Justice (c) Article 350 (d) Article 356
+
+80. Under which article President can declare 91. Which one of the following terms is not
+Financial Emergency? the main ingredient of the Preamble of the
+(a) Article 352 (b) Article 360 Constitution of India?
+(c) Article 350 (d) Article 356 (a) Justice (b) Liberty
+81. Who has the power to legislate on the mat- (c) Equality (d) Comity
+ters in the “Concurrent List” of the Consti- 92. The Constitution of India is the
+tution of India? (a) most readable document in the world
+(a) Both Parliament and State Legisla- (b) most largest constitutional document
+tures in the world
+(b) Parliament only (c) most shortest document of the world
+(c) State Legislature only (d) most idealistic document of the world
+(d) President of India only 93. The Preamble of the Constitution of India
+82. What is the number of Judges in the Su- grants three kinds of justice to its citizens.
+preme Court? Which one of the following is not included
+(a) 14 (b) 31 in these three kinds of Justice?
+(c) 13 (d) 11 (a) Social (b) Economic
+83. What is the term of the Lok Sabha in Par- (c) Cultural (d) Political
+liament of India? 94. Which Part of the Constitution of India
+(a) 5 years (b) 6 years contains the State of establish Panchayati
+(c) 4 years (d) 7 years Raj Institutions?
+84. What is the maximum strength of the Ra- (a) Preamble
+jya Sabha? (b) Fundamental Rights
+(a) 250 Members (b) 238 Members
+(c) Directive Principles of State Policy
+(c) 225 Members (d) 552 Members
+(d) Ninth Schedule
+85. A legal authorization to a debtor to post-
+95. The Constituent Assembly has a Drafting
+pone payment for a certain time is called
+Committee whose Chairman was
+(a) moratorium (b) debt facility
+(a) Dr Rajendra Prasad
+(c) barring of debt (d) Probate
+(b) Jawaharlal Nehru
+86. How many times National Emergency has
+(c) Dr B. R. Ambedkar
+been declared in our country?
+(d) K. M. Munshi
+(a) Once
+96. Which Chief Justice of India have per-
+(b) Thrice
+formed the duties of President?
+(c) More than 100 times
+(a) Justice V. N. Khare
+(d) Not even once
+(b) Justice M. M. Punchi
+87. How many times Financial Emergency
+(c) Justice S. P. Barucha
+has been declared in our country?
+(d) Justice M. Hidaytullah
+(a) Once
+97. Which President of India was elected un-
+(b) Thrice
+opposed?
+(c) More than 100 times
+(a) N. S. Reddy
+(d) Not even once
+(b) K. R. Narayanan
+88. Which article describes about the im-
+(c) R. Venkataraman
+peachment of President?
+(d) S. D. Sharma
+(a) Article 53 (b) Article 52
+98. What is the salary of Vice-President of In-
+(c) Article 60 (d) Article 61
+dia?
+89. If both the President and Vice-President
+(a) 45,000 (b) 30,000
+are not available who performs the duties
+(c) 50,000 (d) 1,10,000
+of the President?
+99. Which article says that there should be a
+(a) Chief Justice of India
+Vice-President?
+(b) Supreme Court Judge
+(a) Article 63 (b) Article 62
+(c) Prime Minister
+(c) Article 60 (d) Article 61
+(d) Governor
+100. Which article says that there should be a
+90. How many times Chief Justice of India
+Governor?
+have performed the duties of President?
+(a) Once (b) Twice (a) Article 163 (b) Article 153
+(c) Thrice (d) Not even once (c) Article 160 (d) Article 161
+
+MOCK TESTS 269
+A
+NSWERS
+1. (b) 2. (a) 3. (a) 4. (a) 5. (d) 6. (d). 7. (d). 8. (d). 9. (d). 10. (b)
+11. (b) 12. (a) 13. (b) 14. (a) 15. (a) 16. (d). 17. (a) 18. (b) 19. (a) 20. (b)
+21. (b) 22. (a) 23. (a) 24. (b) 25. (a) 26. (d). 27. (a) 28. (c) 29. (a) 30. (a)
+31. (a) 32. (b) 33. (d). 34. (b) 35. (d) 36. (c) 37. (b) 38. (a) 39. (d). 40. (c)
+41. (b) 42. (c) 43. (a) 44. (a) 45. (a) 46. (a) 47. (c) 48. (a) 49. (b) 50. (c)
+51. (c) 52. (a) 53. (d). 54. (a) 55. (c) 56. (d). 57. (b) 58. (d). 59. (b) 60. (c)
+61. (d). 62. (a) 63. (b) 64. (a) 65. (d) 66. (c) 67. (a) 68. (c) 69. (d). 70. (a)
+71. (a) 72. (d). 73. (c) 74. (a) 75. (b) 76. (c) 77. (a) 78. (a) 79. (b) 80. (b)
+81. (a) 82. (b) 83. (a) 84. (a) 85. (d) 86. (b) 87. (d). 88. (d). 89. (a) 90. (a)
+91. (d). 92. (b) 93. (c) 94. (c) 95. (c) 96. (d). 97. (a) 98. (d). 99. (a) 100. (b)
+
+P P 4
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. Under which circumstances can a court 6. What is the salary of Governor of a State?
+issue a writ in India? (a) ` 45,000 (b) ` 30,000
+(a) Violation of Fundamental Duties (c) ` 36,000 (d) ` 80,000
+(b) Defective procedures in case of Direc- 7. What is the quorum to constitute a meet-
+tive Principles of State Policy ing of either House of the Parliament?
+(c) Violation of Fundamental Right (a) One tenth of the total members of the
+(d) None of the above House
+2. Which statement is most correct in repre- (b) One eighth of the total members of the
+senting the legal structure of India? House
+(a) Supreme Court, High Court, Subordi- (c) One fourth of the total members of the
+nate Courts House
+(b) Supreme Court, High Court, Court of
+(d) One sixth of the total members of the
+District Judge, Court of Additional
+House
+District Judge
+8. The Constitution of India was enacted by
+(c) Supreme Court, High Court, Court of
+a Constituent assembly set up in
+Session, Court of Judicial Magistrate
+(a) July, 1948 (b) July, 1950
+Class I
+(c) July, 1946 (d) August, 1947
+(d) Supreme Court, High Court, Court
+9. Who among the following was the Chair-
+of District Judge, Court of Session,
+man of the Drafting Committee of the In-
+Court of Additional District Judge,
+dian Constitution
+Court of Judicial Magistrate Class I
+(a) Rajendra Prasad
+3. A law made by Parliament of India having
+(b) Tej Bahadur Sapru
+extraterritorial operation
+(c) C. Rajagopalachari
+(a) shall not be deemed invalid
+(d) B. R. Ambedkar
+(b) shall be deemed invalid
+10. The Constituent assembly which framed
+(c) shall be deemed ultravires
+the Constitution for Independent India
+(d) shall be deemed constitutional
+was setup in
+4. The rule of passing resolution by 2/3rd
+majority of total number of members of (a) 1945 (b) 1946
+the House of Parliament of India is appli- (c) 1947 (d) 1949
+cable in case of 11. Which of the Fundamental Right under
+(a) amendment of the Constitution Constitution of India was considered to be
+(b) approval of proclamation of emergen- the heart and soul of the Constitution of
+cy India (Dr Ambedkar view)?
+(c) impeachment of President (a) Right to Property
+(d) disapproval by proclamation of emer- (b) Right to Constitutional Remedies
+gency (c) Right to Life
+5. Prorogation of the House in Parliament of (d) Right to Information
+India means 12. Chairman of Central Sixth Pay Commis-
+(a) a House has been brought in session sion in India was
+(b) the session of the House has been ter- (a) Justice B. N. Srikrishna
+minated (b) Justice R. N. Mishra
+(c) the House itself stands terminated (c) Justice L. K. Majumdar
+(d) None of the above (d) Justice V. N. Khare
+
+MOCK TESTS 271
+13. In which of the following cases the Con- 21. Principal laid down in a judgment is
+stitution of India allows any exception to (a) Res judicata
+the rule of equality? (b) Law
+(a) President and Governor (c) Ratio decidendi
+(b) Prime Minister and Chief Minister (d) Obiter dicta
+(c) Union Law Minister and Law Minis- 22. Who is associated with Drafting of Indian
+ter of a State Penal Code
+(d) Deputy Prime Minister and Deputy (a) Ambedkar
+Chief Minister (b) Sir Woodroof and Amirali
+(c) Lord Macaulay
+14. Which among the following can impose
+(d) Mulla
+reasonable restrictions on the Fundamen-
+23. Culpable homicide is defi ned in the Indian
+tal Rights of Indian Citizens?
+Penal Code, Section
+(a) only Parliament
+(a) 299 (b) 300
+(b) only Supreme Court
+(c) 301 (d) 307
+(c) both Supreme Court and Parliament
+24. Murder is defi ned in the Indian Penal
+(d) only High Court
+Code, Section
+15. The writs of Prohibition and Certiorari are
+(a) 299 (b) 300
+available against
+(c) 301 (d) 307
+(a) Judicial or quasi-judicial authorities
+25. In India an aggrieved public servant of the
+(b) Legal and semi-legal authorities
+Union can challenge the decisions of the
+(c) Implies authorities
+Administrative Tribunal
+(d) Non-statutory authorities
+(a) before the Supreme Court
+16. How long did the Constituent Assembly (b) before the High Court
+take to fi nally pass the constitution? (c) before both (a) and (b)
+(a) About 6 months in 1949 (d) before no court of law
+(b) Exactly a year since 26 November 26. Who among the following is known as the
+1948 Father of the Indian Constitution?
+(c) About 2 years since 15 August 1947 (a) Dr B. R. Ambedkar
+(d) About 3 years since 9 December 1946 (b) Mahatma Gandhi
+17. Who was the Chairman of the Constituent (c) Jawaharlal Nehru
+Assembly? (d) Vallabhbhai Patel
+(a) Pt Jawaharlal Nehru 27. Who proposed the Preamble before the
+(b) Dr Rajendra Prasad Drafting Committee of the Constitution?
+(c) Dr B. R. Ambedkar (a) Jawaharlal Nehru
+(d) C. Rajagopalachari (b) B. R. Ambedkar
+18. India became a Sovereign, democratic re- (c) B. N. Rau
+public on (d) Mahatma Gandhi
+(a) 15 August 1947 28. When did the fi rst linguistic state of
+(b) 30 January 1948 Andhra come into existence?
+(a) 2 October 1953
+(c) 26 January 1950
+(b) 1 October 1953
+(d) 26 November 1929
+(c) 1 April 1953
+19. The Constitution names our country as
+(d) 5 January 1953
+(a) Bharat
+29. Who was the fi rst speaker of the Lok Sab-
+(b) India, that is Bharat
+ha?
+(c) Hindustan
+(a) Malgaonkar
+(d) Aryavarta
+(b) P. Upendra
+20. A constitution is
+(c) Anantha Sayanam Ayyanagar
+(a) a set of ordinary laws
+(d) Hukam Singh
+(b) a set of offi cial laws
+30. The state of Bombay was bifurcated into
+(c) a set of fi nancial laws
+Maharashtra and Gujarat on 1 May in the
+(d) the basic structure defi ning the powers
+year
+of the state and the rights and duties of
+(a) 1958 (b) 1959
+the citizens
+(c) 1962 (d) 1960
+
+31. In Indian context which of the following to avoid legal proceed-
+statements is correct? ings.
+(a) Union Territories are not represented B. Abortion 2. The termination of
+in the Rajya Sabha pregnancy, a miscar-
+(b) It is within the purview of the Chief riage or the premature
+Election Commissioner to adjudicate expulsion of a foetus
+in Election disputes from the womb before
+(c) The Speaker of a Legislature contin- the normal period of
+ues in offi ce even after the House is gestation is complete.
+dissolved and until the Speaker of the C. Absconding 3. Wrongfully taking
+subsequent Legislature is elected away or detaining an-
+(d) According to the Constitution of India other person, usually
+Parliament consist of the Lok Sabha by force or fraud.
+and the Rajya Sabha only A B C
+32. The election in India for Lok Sabha and (a) 3 2 1
+State Assemblies is made on the basis of (b) 1 3 2
+(a) Secret Ballot System (c) 1 2 3
+(b) Open Ballot System 39. A. Accomplice 1. One who is a party to a
+(c) In case of Lok Sabha Secret Ballot crime, either as a prin-
+System and in case of State Assem- cipal or as an acces-
+blies Open Ballot System sory
+(d) In case of Lok Sabha Open Ballot B. Acquittal 2. A decision by a court
+System and in case of State Assem- that a defendant ac-
+blies the Secret Ballot System cused of a crime is not
+33. Power to punish for its contempt makes a guilty
+High Court in India C. Act of God 3. An event due to natural
+(a) a court of record causes (storms, earth-
+(b) a court of contempt quakes, fl oods, etc.) so
+(c) a court of appellant jurisdiction exceptionally severe
+(d) a court of original jurisdiction that no one could rea-
+34. For the purpose of three-tier Panchayat in sonably be expected
+an Indian State, it must have a population to anticipate or guard
+above against it.
+(a) 20 Lakhs (b) 50 Lakhs A B C
+(c) 75 Lakhs (d) 1 Crore (a) 2 1 3
+35. For the purpose of Panchayat election in (b) 3 1 2
+India, a candidate has to attain the age of (c) 1 2 3
+(a) 21 years (b) 25 years 40. A. Adjournment 1. The postponement
+(c) 30 years (d) 35 years or suspensions of the
+36. Which of the following Union Territories hearing of a case until
+attained statehood in February, 1987? a future date
+(a) Goa B. Adjudication 2. The formal judge-
+(b) Arunachal Pradesh ment or decision of a
+(c) Pondicherry court or tribunal
+(d) Daman and Diu C. Admissibility 3. The principles of
+37. The 25th Indian state to achieve statehood evidence determining
+is whether or not partic-
+(a) Goa ular items of evidence
+(b) Arunachal Pradesh may be received by
+(c) Mizoram the court. The central
+(d) Sikkim principle of admis-
+38. A. Abduction 1. The failure of a person sibility is relevance.
+to surrender to the cus- All evidence that is
+tody of a court in order suffi ciently relevant
+
+MOCK TESTS 273
+is admissible and all 47. A. Alienation 1. The transfer of prop-
+that is not suffi ciently erty
+relevant is inadmis- B. Alimony 2. Written statement of
+sible. allegation
+A B C C. Allegation 3. Maintenance charges
+(a) 2 1 3 to wife from husband
+(b) 1 2 3 A B C
+(c) 2 3 1 (a) 1 3 2
+41. Who appoints the Comptroller and Audi- (b) 2 1 3
+tor General of India? (c) 3 2 1
+(a) President 48. A. Amnesty 1. Political pardon
+(b) Prime Minister B. Animus 2. Intention
+(c) Elected by Lok Sabha C. Antecedents 3. Previous character
+(d) Elected by Lok Sabha and Rajya Sab- A B C
+ha (a) 1 2 3
+42. Who appoints the judge of a High Court in (b) 2 1 3
+India?
+(c) 3 2 1
+(a) Governor
+49. A. A posteriori 1. From effect to cause
+(b) Chief Minister
+B. A priori 2. From cause to effect
+(c) President
+C. Arbitration 3. Mediation
+(d) Chief Justice of India
+A B C
+43. Who appoints the Attorney General of In-
+(a) 1 2 3
+dia?
+(b) 2 1 3
+(a) President
+(c) 3 2 1
+(b) Prime Minister
+50. A. Bail 1. Luggage at the railway
+(c) Chief Justice of India
+station
+(d) Elected by the Parliament
+B. Bailiff 2. Court’s offi cer
+44. A person who holds or who has held offi ce
+C. Bailment 3. Release from police
+as President of India shall
+custody
+(a) not be eligible for re-election
+A B C
+(b) be eligible for re-election as President
+(a) 1 3 2
+(c) be eligible for re-election as President
+(b) 2 1 3
+after the gap of one term
+(c) 3 2 1
+(d) be eligible for re-election as President
+51. Time limit for fi ling different kinds of suit
+after 10 years of vacating the offi ce
+is prescribed in
+45. Who appoints members of a State Public
+(a) CPC
+Service Commission in India?
+(b) IPC
+(a) President
+(c) Limitation Act
+(b) Governor
+(d) High Court Rules
+(c) Prime Minister
+52. Members of Lok Sabha of Parliament of
+(d) Chief Minister
+46. A. Admonition 1. Offence of using or India are elected by the way of
+threatening unlawful (a) People’s Representation
+violence. (b) by the State Legislatures
+B. Affi davit 2. A solemn declaration (c) nominations
+true to the best of the (d) by electoral colleges
+knowledge of the de- 53. Which one of the following has been de-
+ponent scribed as the soul of the India Constitu-
+C. Affray 3. A reprimand from a tion?
+judge to a defendant (a) The Preamble
+A B C (b) The Chapter on Fundamental Rights
+(a) 2 3 1 (c) The Chapter on Directive Principles
+(b) 1 2 3 (d) The provisions regarding Judicial Re-
+(c) 3 2 1 view
+
+54. The Constitution of India is A B C
+(a) ledger (b) notebook (a) 3 2 1
+(c) book (d) document (b) 2 1 3
+55. The main objective of the Fundamental (c) 1 2 3
+Rights under Indian Constitution is to 61. A person whose guardian is appointed
+(a) ensure individual liberty during his minority, becomes a major at
+(b) promote a socialism pattern of soci- the age of ____ years
+ety (a) 31 (b) 21
+(c) to promote equality (c) 28 (d) 18
+(d) All the above
+62. When a person to be prosecuted for com-
+56. A. Bankruptcy 1. Insolvency
+mitting a criminal offence the burden of
+B. Battery 2. Actual use of force
+proof is on
+C. Benefi ciary 3. One who benefi ts from
+(a) Court (b) Police
+will
+(c) Himself (d) Prosecution
+A B C
+63. “Courts and their Judgments: Promises,
+(a) 1 2 3
+Requisites and Consequences” is a book
+(b) 2 1 3
+written by
+(c) 3 2 1
+(a) Vikram Seth
+57. A. Bigamy 1. Second marriage when
+(b) Ram Jeth Malani
+fi rst marriage is still
+(c) Arun Shourie
+subsisting
+(d) None
+B. Capacity 2. Competence to enter
+64. Judges for International Court of Justice is
+to contract into a legal contract
+C. Capital 3. Death punishment elected for……years
+punishment (a) 5 (b) 10
+A B C (c) 9 (d) 6
+(a) 3 2 1 65. What is the tenure of the President of In-
+(b) 1 2 3 ternational Court
+(c) 3 1 2 (a) 5 years (b) 2 years
+58. A. Condominium 1. Joint sovereignty (c) 3 years (d) 6 years
+B. Conjugal rights 2. Matrimonial rights 66. A. Extradition 1. Red handed
+C. Consent 3. Agreement by B. Fiduciary 2. Based on mutual inter-
+choice est and faith
+A B C C. Flagrante 3. To extradite a criminal
+(a) 3 2 1 delicto
+(b) 2 1 3 A B C
+(c) 1 2 3 (a) 3 2 1
+59. A. Discharge of 1. The termination of (b) 2 1 3
+contract contractual obliga- (c) 3 1 2
+tion 67. A. Genocide 1. Massive killing
+B. Duress 2. Pressure/undue infl u-
+B. Hijacking 2. Seizing an aircraft
+ence
+C. Homicide 3. Killing of human be-
+C. Embargo 3. The detention of
+ing
+ships in a port: a type
+A B C
+of reprisal.
+(a) 3 2 1
+A B C
+(b) 1 2 3
+(a) 3 2 1
+(c) 3 1 2
+(b) 1 2 3
+68. A. Hostage 1. To indict
+(c) 3 1 2
+B. Hostile 2. Adverse witness
+60. A. Embezzle- 1. Criminal
+witness
+ment misappropriation of
+C. Incriminate 3. One held as a security
+public property
+A B C
+B. Ex gratia 2. Done as a matter of fa-
+(a) 3 2 1
+vour
+(b) 2 1 3
+C. Ex offi cio 3. By virtue of holding an
+(c) 3 1 2
+offi ce
+
+MOCK TESTS 275
+69. A. Innenudo 1. Interim 76. A. Mitigation 1. Reduction in the sever-
+B. Insanity 2. Indirect ity of some penalty
+C. Interlocu- 3. Mental disorder B. Moot 2. A mock trial
+tory C. Mortgage 3. An interest in the prop-
+A B C erty created as a form
+(a) 1 2 3 of security for a loan.
+(b) 3 2 1 A B C
+(c) 2 3 1 (a) 1 2 3
+70. A. Mala fi de 1. Fraudulent or dishon- (b) 2 1 3
+est act (c) 2 3 1
+B. Mens rea 2. Hostile attitude 77. A. Motive 1. Cheque
+C. Malice 3. Guilty mind B. Negligence 2. Gross carelessness
+A B C C. Negotiable 3. Purpose behind instru-
+(a) 1 3 2 ment action
+(b) 3 2 1 A B C
+(a) 1 2 3
+(c) 2 1 3
+(b) 3 2 1
+71. Does Indian Constitution allow any ex-
+(c) 2 1 3
+ception to the rule of equality?
+78. A. Nullity of 1. False evidence
+(a) Yes, in the case of the President and
+marriage
+Governors
+B. Parole 2. Conditional release
+(b) Yes, in the case of Prime Minister and
+C. Perjury 3. Invalid marriage
+Chief Ministers
+A B C
+(c) Yes, in the case of Prime Minister and
+(a) 1 2 3
+Deputy Prime Minister
+(b) 3 2 1
+(d) Yes, in case of Home Minister of
+(c) 2 1 3
+Union and States
+79. A. Provocation 1. Conduct or words
+72. Which among these is not included in the
+causing someone to
+Constitution of India?
+loose his self control
+(a) Social, economic and political justice
+B. Putative 2. A man alleged to be
+(b) Liberty to thought, expression, belief,
+father the father of an illegiti-
+faith and worship
+mate child.
+(c) Equality of status and of opportunity
+C. Quasi 3. A function that resem-
+(d) Right to work
+judicial bles the judicial func-
+73. Which of these is not provided in the Di-
+tion
+rective Principles of State Policy in Con-
+A B C
+stitution of India?
+(a) 1 2 3
+(a) Prohibition of employment of chil-
+(b) 3 2 1
+dren below the age of 14
+(c) 3 1 2
+(b) Fair distribution of wealth
+80. A. Restitution 1. Damage or destruction
+(c) The living wage for workers of property
+(d) Uniform civil code of the citizens B. Revocation 2. withdrawal offer
+74. Which of the following is not a Funda- of offer
+mental Right under Constitution of India? C. Sabotage 3. return/restoration
+(a) Right to equality A B C
+(b) Right to freedom (a) 1 2 3
+(c) Right to property (b) 3 2 1
+(d) Right against exploitation (c) 3 1 2
+75. Under what circumstances can the Funda- 81. The middle lever set up of the Panchayati
+mental Rights be suspended in India? Raj system in India is known as
+(a) During war time (a) Zila Parishad
+(b) When national emergency is in force (b) District Board
+(c) If the Parliament passes a bill (c) Panchayat Samiti
+(d) During fi nancial emergency (d) Taluka Board
+
+82. Which of the following is not the source 89. A. Voidable 1. Capable of being
+of revenue of the Village Panchayats in avoided
+India? B. Ultra vires 2. Within powers
+(a) House tax (b) Teh-bazari C. Intra vires 3. Beyond powers
+(c) Property tax (d) Land revenue A B C
+83. Which of the following is not a function of (a) 1 3 2
+the Village Panchayats in India? (b) 3 2 1
+(a) Sanitation (c) 2 1 3
+(b) Development of agriculture and vil- 90. A. Arrest 1. Refuge granted to ab-
+lage industries sconder
+(c) Relief of the poor B. Arson 2. Reckless destruction
+(d) Co-operatives of property by fi re
+84. In Indian context the executive commit- C. Asylum 3. Apprehension of a per-
+tee of the Gram Sabha known as Gram son by police offi cer
+Panchayat is elected by A B C
+(a) the entire adult population of the vil- (a) 1 2 3
+lage (b) 3 2 1
+(b) the entire population of the village (c) 2 1 3
+(c) the entire male population of the vil- 91. “Roses in December” was written by
+lage (a) Arun Shourie
+(d) the entire male adult population of the (b) M. C. Chagla
+village (c) H. R. Khanna
+85. In India general pattern of the present (d) Hidayatullah
+Panchayati Raj institution is based on the 92. The Finance Commission makes recom-
+Report of the mendation regarding
+(a) Balwant Rai Mehta Committee 1. Determination of and principles guid-
+(b) Local Enquiry Committee ing grant-in-aid
+(c) Taxation Enquiry Committee 2. Economy in expenditure
+(d) Jawaharlal Nehru Report 3. Distribution of net proceeds of taxes
+86. A. Simpliciter 1. A word or a phrase in between Centre and States
+a document is used ab- (a) 1, 3 (b) 1
+solutely/uncondition- (c) 2 (d) 2, 3
+ally 93. Anybody who holds a civil post under a
+B. Sine die 2. Without a date State holds his offi ce during the pleasure
+C. Slander 3. A defamatory state- of the
+ment (a) Governor (b) President
+A B C (c) Parliament (d) State Legislature
+(a) 1 2 3 94. Kothari Commission relates to
+(b) 3 2 1 (a) sports (b) cultural
+(c) 2 1 3 (c) education (d) transport
+87. A. Stare decisis 1. Doctrine of precedent 95. Panchayati Raj received constitutional
+B. Sub judice 2. Pending matter status with which Constitutional Amend-
+C. Sui generis 3. Of its own kind ment Act?
+A B C (a) 72nd (b) 73rd
+(a) 1 2 3 (c) 74th (d) 77th
+(b) 3 2 1 96. The “Legal Services Day” falls on
+(c) 1 3 2 (a) 9 November (b) 10 December
+88. A. Tortfeasor 1. One who commits tort (c) 26 January (d) 13 February
+B. Vandalism 2. Damaging property 97. The “Citizens Day” falls on
+C. Void 3. Having no legal effect (a) 18 November (b) 19 November
+A B C (c) 20 November (d) 21 November
+(a) 1 2 3 98. Sovereignty in India means
+(b) 1 3 2 (a) Apex Authority or Alternative Author-
+(c) 3 2 1 ity
+
+MOCK TESTS 277
+(b) Lower Authority or Immediate Au- (d) Supreme Court Advocates and High
+thority Court Advocates
+(c) Authority of Court 100. Who is the personality to Head UNESCO
+(d) Authority of Parliament
+for fi rst time in history?
+99. There are two classes of Advocates in In-
+(a) Ms Irina Bokova
+dia
+(b) Ms Fatima Bibi
+(a) Barristers and Solicitors
+(c) Ms Anjali Roy
+(b) Advocates and Senior Advocates
+(c) Lawyers and Attorneys (d) Ms Leela Jethamalani
+A
+NSWERS
+1. (c) 2. (d) 3. (b) 4. (c) 5. (b) 6. (d) 7. (a) 8. (c) 9. (d) 10. (b)
+11. (b) 12. (a) 13. (a) 14. (a) 15. (a) 16. (d) 17. (b) 18. (c) 19. (b) 20. (d)
+21. (c) 22. (c) 23. (a) 24. (b) 25. (c) 26. (a) 27. (a) 28. (b) 29. (a) 30. (d)
+31. (c) 32. (a) 33. (a) 34. (a) 35. (a) 36. (a) 37. (a) 38. (a) 39. (c) 40. (b)
+41. (a) 42. (c) 43. (a) 44. (b) 45. (b) 46. (c) 47. (a) 48. (a) 49. (a) 50. (c)
+51. (c) 52. (a) 53. (a) 54. (d) 55. (d) 56. (a) 57. (b) 58. (c) 59. (b) 60. (c)
+61. (b) 62. (d) 63. (c) 64. (c) 65. (d) 66. (a) 67. (b) 68. (a) 69. (c) 70. (a)
+71. (a) 72. (d) 73. (a) 74. (c) 75. (c) 76. (a) 77. (b) 78. (b) 79. (a) 80. (b)
+81. (c) 82. (d) 83. (b) 84. (a) 85. (a) 86. (a) 87. (a) 88. (a) 89. (a) 90. (b)
+91. (b) 92. (a) 93. (a) 94. (c) 95. (b) 96. (a) 97. (c) 98. (d) 99. (b) 100. (a)
+
+P P 5
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. The power to issue the writs in cases in- 7. A Judge of Supreme Court may resign his
+volving Fundamental Rights of Constitu- offi ce by writing under his hand addressed
+tion of India belong to to the
+(a) Supreme Court and High Courts (a) Chief Justice of India
+(b) Supreme Courts only (b) Prime Minister
+(c) High Court only (c) President
+(d) Law Department of Union Ministry of (d) Seniormost judge of the Supreme
+Law Court
+2. The Supreme Court upheld Mandal Com- 8. The concept of the Judicial Review has
+mission Report for Reservation of OBCs been borrowed from the Constitution of
+in government job in case of (a) France (b) UK
+(a) Indra Sawhney vs Union of India (c) USA (d) Switzerland
+(b) Maneka Gandhi vs Union of India 9. The Appellate Jurisdiction of the Supreme
+(c) S. R. Bomani vs Union of India Court does not involve
+(d) Vishakha vs State of Rajasthan (a) Criminal cases
+3. VAT in India which replaced Sales Tax re- (b) Civil Cases
+fers to
+(c) Cases involving interpretation of the
+(a) value added tax
+Constitution
+(b) various added tax
+(d) Disputes rising out of pre-constitution
+(c) valuable additional tax
+treaties and agreements
+(d) value-based additional tax
+10. Judicial Review means
+4. What is true about a retired judge of Su-
+(a) the power of the courts to make laws
+preme Court of India?
+(b) the power of the courts to defi ne laws
+(a) A retired judge can practice in Su-
+(c) the power of the courts to defi ne
+preme Court only
+constitution
+(b) A retired judge cannot practice in Su-
+(d) the power of the courts to annul any
+preme Court
+legislative or executive act which is
+(c) A retired judge is prohibited from prac-
+against the provisions of the constitu-
+ticing law before any court in India
+tion
+(d) A retired judge cannot practice in low-
+11. In India an aggrieved public servant of the
+er courts in India
+Union can challenge the decisions of the
+5. Though the Constitution of India provides
+Administrative Tribunal
+for the federal system of Government, In-
+(a) before the Supreme Court
+dia has
+(b) before the High Court
+(a) dual judicial system
+(c) before both (a) and (b)
+(b) plural judicial system
+(d) before no court of law
+(c) single judicial system
+12. Can the lower court in India decide an
+(d) multiple judicial system
+election issue
+6. For amendment of the Constitution, a Bill
+(a) no
+may be introduced in
+(a) Rajya Sabha (b) yes
+(b) Lok Sabha (c) only (a) is right
+(c) Either House of Parliament (d) None of the above
+(d) Either chamber of State legislature or 13. The Chairman of the Finance Commission
+Union Parliament of India must be
+
+MOCK TESTS 279
+(a) qualifi ed to be a High Court Judge 21. Power to superintend, direct and control
+(b) a person having special knowledge of elections to the Panchayat in India is vest-
+economics ed in
+(c) a person having experience in public (a) State Election Commission
+affairs (b) Election Commission at Centre
+(d) All the above (c) State Legislature
+14. In India the Central Government can as- (d) None of the above
+sign any function of the States 22. If there is breakdown of Constitutional
+(a) on the directive of the President Machinery in the State in India
+(b) on the recommendation of Parliament (a) Governor’s rule is imposed
+(c) any time it wishes to do so (b) President’s rule is imposed
+(d) with the consent of the concerned (c) emergency is declared
+State (d) an administrator is appointed for this
+15. The constitution of India makes provisions purpose
+to ensure the independence of Judges. The 23. Power to establish the common High
+provisions do not include one of the fol- Court for two or more States in India be-
+lowing. Identify it.
+longs to the
+(a) Though appointed by the President,
+(a) Governors of two States
+their removal is a diffi cult process
+(b) Parliament
+(b) Their salaries are charged on the Con-
+(c) Chief Minister of two States
+solidated Fund of India
+(d) Home Minister of two States
+(c) The conduct of a judge cannot be dis-
+24. In India recognition to Political Parties is
+cussed in Parliament except upon a
+accorded by the
+motion regarding his removal
+(a) President
+(d) None of the above
+(b) Law Commission
+16. Railways is a subject on the
+(c) Election Commission
+(a) Concurrent list (b) Union List
+(d) None of the above
+(c) State list (d) Residual List
+25. The Judges of the Supreme Court of India
+17. Under the Constitution, the residuary
+are appointed by the
+powers vest with the
+(a) Prime Minister in consultation with
+(a) President
+the Cabinet
+(b) Supreme Court
+(b) President in consultation with the
+(c) Union Government
+Chief Justice of India
+(d) State Government
+(c) Prime Minister in consultation with
+18. The State according to the Constitution
+the Chief Justice of India
+includes the
+(d) President in consultation with the Law
+(a) Executive (b) Legislature
+Commission of India
+(c) Local Bodies (d) All of the above
+26. In case a President dies while in offi ce, the
+19. Which of the following is the correct
+chronological order of the Prime Ministers Vice-President can act as President for a
+of India? maximum period of
+I. Indira Gandhi (a) 2 years (b) 1 year
+II. Jawahar Lal Nehru (c) 3 months (d) 6 months
+III. Morarji Desai 27. Total number of members in a Legislative
+IV. Charan Singh Council should not exceed that of a Legis-
+(a) I, II, III, IV (b) II, III, I, IV lative Assembly by
+(c) II, I, III, IV (d) III, II, IV, I (a) 1/3 rd (b) 2/3 rd
+20. The Union Council of Ministers consists (c) 1/2 rd (d) 1/4 rd
+of 28. The President of India issues an ordi-
+(a) Prime Minister nance
+(b) Cabinet Ministers (a) if Parliament is not in session
+(c) Cabinet Ministers and Chief Ministers (b) if Parliament is not likely to pass it
+of the States (c) if there is any danger to the nation
+(d) Cabinet Ministers, Ministers of State (d) if there is a deadlock between the two
+and Deputy Ministers Houses of Parliament
+
+29. Who, among the following, is not appoint- (c) It is a mixture of several Constitu-
+ed by the President of India? tions.
+(a) Ambassadors (d) It is original.
+(b) The Prime Minister 37. Who proposed the Preamble before the
+(c) The Attorney-General Drafting Committee of the Constitution?
+(d) The Vice-President of India (a) Jawahar Lal Nehru
+30. For the philosophy underlying our Consti- (b) B. R. Ambedkar
+tution the historic ‘Objectives Resolution’ (c) B. N. Rau
+was moved in the Constituent Assembly (d) Mahatma Gandhi
+on 22 January 1947 by 38. Who among the following is known as the
+(a) Dr B. R. Ambedkar Father of the Indian Constitution?
+(b) Jawahar Lal Nehru (a) Dr B. R. Ambedkar
+(c) Dr Rajendra Prasad (b) Mahatma Gandhi
+(d) Dr S. Radhakrishnan (c) Jawahar Lal Nehru
+31. Number of languages recognized by the (d) Vallabhbhai Patel
+Indian Constitution is 39. The Constituent Assembly became a sov-
+(a) 10 (b) 14 ereign body after
+(c) 22 (d) 13 (a) 26 January 1950
+32. Which of these animals is National Ani- (b) 26 November 1929
+mal of India? (c) 15Augugust 1947
+(a) Elephant (b) Horse (d) 26 Augugust 1949
+(c) Tiger (d) Lion
+40. India became a Sovereign, Democratic
+33. In India the Chairman and the Members of
+Republic on
+the Union Public Service Commission are
+(a) 15 August 1947
+appointed
+(b) 30 January 1948
+(a) by the President
+(c) 26 January 1950
+(b) by the Prime Minister
+(d) 26 November 1948
+(c) by the Parliament
+41. A police offi cer cannot investigate
+(d) None of these
+a______without the orders of a Magis-
+34. Which of the following statements is not
+trate
+correct regarding Supreme Court of In-
+(a) Non bailable case
+dia?
+(b) Bailable case
+(a) It can hear disputes between the Union
+(c) Non cognizable case
+and States under its original jurisdic-
+(d) Cognizable case
+tion.
+42. Which member of the Theosophical Soci-
+(b) It can issue writs for the enforcement
+ety became the fi rst Woman President of
+of Fundamental Rights.
+the Indian National Congress?
+(c) It can grant permission for special
+(a) Usha Erana (b) Uma Banerjee
+appeal against the refusal of a High
+(c) Annie Besant (d) Nandini Gokhale
+Court to grant certifi cate for appeal.
+43. The Directive Principles under Constitu-
+(d) It can accept mercy petition submitted
+tion of India are
+by the convicted persons.
+(a) positive instructions to the Govern-
+35. Who is vested with the power of superin-
+ment to work for the attainment of set
+tendence, direction and control of election
+objectives
+in India?
+(b) negative injuctions to the Govern-
+(a) Supreme Court
+ment to refrain from encroaching on
+(b) President of India
+the freedom of the people
+(c) Election Commission
+(c) directives to the State to enhance the
+(d) Chief Election Commissioner
+international prestige of the country
+36. Which of the following is correct regard-
+(d) None of the above
+ing the Indian Constitution?
+44. Which Congress President described the
+(a) It is completely based on British Con-
+Durbar of 1903 to proclaim Edward VII as
+stitution.
+(b) It is made only on the basis of Gov- Emperor of India, “a Pompous Pegeant to
+ernment of India Act, 1935. a perishing people”?
+
+MOCK TESTS 281
+(a) Lal Mohan Ghosh 52. Under which Article of the Constitution
+(b) W. C. Banerjee of India, Union of India gives direction to
+(c) Motilal Nehru States?
+(d) Sarojini Naidu (a) Article 257 (b) Article 258
+45. Which of the following conditions does (c) Article 259 (d) Article 260
+not contribute to the independence of the 53. Which Act in India laid down the terms
+Judiciary in India? and conditions for registration and carry-
+(a) No change in salary and service con- ing the activities of trade union?
+dition of judges can be made which (a) Trade Union Act, 1926
+operates against their appointment (b) Trade Union Act, 1929
+(b) Once appointed, the judges cannot be (c) Trade Union Act, 1922
+removed from their offi ce before the (d) Trade Union Act, 1924
+date of retirement 54. Jurisdiction to grant anticipatory bail un-
+(c) The salary and allowances of the der section 438 of Cr. P.C. vests with
+judges are charged to the Consolidat- (a) The High Court
+ed Fund of India and are not subject to (b) The Court of Sessions and the High
+Parliament Vote
+Court
+(d) Retired judges are not permitted to
+(c) The Court of Sessions
+carry on practice before any court or
+(d) The Court of Magistrate
+tribunal in India
+55. For the purpose of State Reorganization,
+46. Who was the Chairman of the Constituent
+India has been divided into how many
+Assembly?
+zones?
+(a) Pt Jawahar Lal Nehru
+(a) 5 (b) 7
+(b) Dr Rajendra Prasad
+(c) 9 (d) 12
+(c) Dr B. R. Ambedkar
+56. What type of Constitution in India is
+(d) C. Rajagopalachari
+(a) Flexible
+47. How long did the Constitution Assembly
+(b) Rigid
+take to fi nally pass the Constitution?
+(c) Partly rigid and partly fl exible
+(a) About 6 months in 1949
+(d) None of the above
+(b) Exactly a year since 26 November
+57. Homicide literally means
+1948
+(a) The punishment of death
+(c) About 2 years since 15 August 1947
+(b) Killing of animals
+(d) About 3 years since 9 December 1946
+(c) Murder
+48. The Constitution of India was adopted by
+(d) Killing of a human being by another
+the
+human being
+(a) Governor-General
+58. Which country has largest written in the
+(b) British Parliament
+world?
+(c) Constituent Assembly
+(a) Britain (b) India
+(d) Parliament of India
+(c) Canada (d) South Africa
+49. The Drafting Committee of the Constitu-
+59. The Council of Ministers at the Centre is
+tion, including the Chairman, comprised
+of responsible for its conduct to the
+(a) seven members (b) fi ve members (a) Lok Sabha (b) Parliament
+(c) nine members (d) three members (c) President (d) People
+50. In Indian Constitution, India is considered 60. An individual can contest for the election
+as of the Lok Sabha it he has attained the age
+(a) Confederation of
+(b) Federation of Free States (a) 30 years (b) 21 years
+(c) Union of States (c) 35 years (d) 25 years
+(d) None of the above 61. One whom does the Constitution of India
+51. In which of the following years the Plan- confer special responsibility for the en-
+ning Commission of India was set up? forcement of Fundamental Rights?
+(a) 1950 (b) 1945 (a) President (b) Supreme Court
+(c) 1944 (d) 1943 (c) Parliament (d) Governor
+
+62. With whom are the executive powers of (a) Rajya Sabha (b) Lok Sabha
+the Union of India vested? (c) Gram Sabha (d) Vidhan Sabha
+(a) Prime Minister 71. The structure of the Panchayati Raj in In-
+(b) President dia is based on the level as
+(c) Council of Minister headed by the (a) village, district and State
+Prime Minister (b) village, tehsil and district
+(d) Chief Justice of India (c) village, block and district
+63. In the Constitution of India, the Right to (d) village, block and State
+Equality is granted by Articles. These are 72. For conspiracy, the minimum number of
+__________ persons required is
+(a) 14 to 18 (b) 15 to 20 (a) 5
+(c) 12 to 17 (d) 17 to 22 (b) 1
+64. The Planning Commission of India was (c) 2
+set up as (d) No minimum requirement
+(a) an advisory body 73. Is intention a mental condition?
+(b) an executive body (a) Depends
+(c) a government department
+(b) Yes
+(d) an autonomous corporation
+(c) No
+65. Who administers oath of offi ce to a Gov-
+(d) None of the above
+ernor of a State in India?
+74. The offence of theft is covered by section
+(a) President
+….IPC
+(b) Chief Justice of India
+(a) 393 (b) 378
+(c) Chief Justice of the concerned High
+(c) 365 (d) 324
+Court
+75. A proposal when accepted becomes
+(d) Chief Minister
+(a) Offer (b) Promise
+66. The President of India can be removed
+(c) Contract (d) Agreement
+from offi ce by
+76. A minor’s agreement is void. This propo-
+(a) the Prime Minister of India
+sition is made in
+(b) the Chief Justice of India
+(a) Nihal Chand vs Jan Khan
+(c) the Parliament
+(b) Mohari Beevi vs Dharmodas Ghosh
+(d) the Lok Sabha
+(c) Sreekrishnan vs Kurukshethra Uni-
+67. The President of India has to select the
+versity
+leader of the majority party in Parliament
+(d) Nanjappa vs Muthuswamy
+as Prime Minister because
+77. If a member of Parliament voluntarily ac-
+(a) he enjoys his confi dence
+quires the citizenship of a foreign country
+(b) he commands majority support in the
+(a) he will be penalized
+Lok Sabha
+(b) he will continue to be a member of
+(c) he is the ablest of all the members of
+Parliament
+Parliament
+(c) he will be disqualifi ed from member-
+(d) he is the leader of the party which
+ship
+commands the maximum number of
+Parliament members (d) he will have a choice of renouncing
+68. The Chairman of the Public Accounts either
+Committee of the Parliament is appointed 78. When the Lok Sabha is dissolved, the
+by the Speaker continues in offi ce till a new
+(a) Prime Minister (a) Lok Sabha is formed
+(b) President (b) Speaker is appointed by the President
+(c) Finance Minister (c) Speaker is elected when the new
+(d) Speaker of the Lok Sabha House meets
+69. The Rajya Sabh was fi rst constituted on (d) Government is formed
+(a) 13 May 1952 (b) 2 April 1954 79. Anglo-Indian representatives in the Lok
+(c) 3 April 1952 (d) 1 January 1951 Sabha are nominated in terms of the
+70. Which of the following is also called the (a) Article 331 (b) Article 80
+‘House of Elders’? (c) Article 370 (d) Article 333
+
+MOCK TESTS 283
+80. The maximum strength of Lok Sabha and 88. One feature distinguishing the Rajya Sab-
+Rajya Sabha respectively is ha from the Vidhan Parishad is
+(a) 500 and 250 (b) 525 and 238 (a) power of impeachment
+(c) 537 and 275 (d) 545 and 250 (b) nomination of members
+81. The President can declare National Emer- (c) tenure of members
+gency (d) indirect election
+(a) only in the event of a foreign attack 89. If in a country there happens to be the of-
+(b) only in the event of armed rebellion fi ce of monarchy as well as a Parliamenta-
+(c) due to threat arising on account of for- ry form of government, this monarch will
+eign attack or armed rebellion be called
+(d) None of the above (a) Head of the Government
+82. Which of the following Fundamental (b) Head of the State
+Rights under Constitution of India is re- (c) Both Head of the Government and
+strained by the Preventive Detention State
+Laws? (d) Head of the Cabinet
+(a) Right to Freedom 90. When can a President use his discretion in
+(b) Right to Religion appointing the Prime Minister?
+(c) Right to Equality (a) In all circumstances
+(d) Right to Constitutional Remedies (b) In no circumstances
+83. According to the Constitution of India, (c) Only when Lok Sabha has been dis-
+Amendment of which of the following solved
+cannot be proposed in either House of
+(d) When no political party enjoys a clear
+Parliament?
+majority in the Lok Sabha
+(a) Annual Financial Statement
+91. The name of the candidate for the offi ce of
+(b) Appropriation Bill
+the President of India has to be proposed
+(c) Demand for grant
+by
+(d) Any of them
+(a) any 50 members of the Electoral Col-
+84. Deputy Chairman of the Rajya Sabha in
+lege
+Parliament of India is
+(b) any 50 members of NCT of Delhi
+(a) nominated by the Chairman
+(c) any 50 members of opposition
+(b) elected by Parliament
+(d) any 50 members of Lok Sabha
+(c) nominated by the President
+92. Which among the following Rights is sub-
+(d) elected by Rajya Sabha from amongst
+ject to maximum litigation?
+its members
+(a) Right to Property
+85. The Prime Minister of India acts as a
+(b) Right to Speech
+channel of communication between the
+(c) Right to Constitutional Remedy
+President and Council of Minister is pro-
+(d) None of the above
+vided by the
+93. The Sikhs are permitted to carry Kirpan
+(a) statute
+under the
+(b) article 75 of the Constitution
+(a) right to freedom of religion
+(c) convention
+(b) right to life
+(d) article 78 of the Constitution of India
+(c) right to life and liberty
+86. The representation of States in the Rajya
+(d) right against exploitation
+Sabha is determined by
+94. The Directive Principles of State Policy in
+(a) the size of each State
+Constituent of India aim
+(b) the size and population of the State
+(a) to make the Constitution an instru-
+(c) the population of the State
+ment of social change
+(d) the proportion of number of members
+(b) to reduce the corruption by public of-
+in the State Assemblies
+fi cer
+87. Chief Ministers of all the States are ex-
+(c) to establish supremacy of Constitu-
+offi cio members of the
+tion
+(a) Finance Commission
+(d) None of these
+(b) Planning Commission
+(c) National Development Council 95. Which among the following is a factor for
+(d) Interstate Council basic structure of Constitution of India?
+
+(a) Preamble 99. Which of the following is true in context
+(b) Fundamental Rights of the President?
+(c) Fundamental Duties (a) He addresses the fi rst session of the
+(d) Centre-State Relations Parliament after each general elec-
+96. A person who is not a member of Parlia- tion of the Lok Sabha and at the com-
+ment can be appointed as a Minister by the mencement of the First Session of
+President for a maximum period of each year
+(a) 9 months (b) 6 months (b) He addresses the fi rst session of Par-
+(c) 12 months (d) 3 months liament at the beginning of each year
+97. Who, among the following, enjoys the as well as the last session held at the
+rank of a Cabinet Minister of the Indian end of each year
+Union? (c) He addresses the Parliament daily
+(a) Deputy Chairman, Rajya Sabha (d) None of these
+(b) Deputy Chairman of the Planning 100. Which of the following is the correct
+Commission chronological order of the Prime Ministers
+(c) Secretary to the Government of India of India?
+(d) None of these I. Indira Gandhi
+98. Who administers the oath of offi ce to the II. Jawahar Lal Nehru
+President of India before he enters upon III. Morarji Desai
+the offi ce? IV. Charan Singh
+(a) Vice-President (b) Prime Minister (a) I, II, III, IV (b) II, III, I, IV
+(c) Chief Justice (d) Speaker (c) II, I, III, IV (d) III, II, IV, I
+A
+NSWERS
+1. (a) 2. (a) 3. (a) 4. (c) 5. (c) 6. (c) 7. (a) 8. (c) 9. (d) 10. (d)
+11. (c) 12. (a) 13. (c) 14. (d) 15. (d) 16. (b) 17. (c) 18. (d) 19. (b) 20. (d)
+21. (a) 22. (b) 23. (b) 24. (c) 25. (b) 26. (d) 27. (a) 28. (a) 29. (d) 30. (b)
+31. (c) 32. (d) 33. (a) 34. (d) 35. (d) 36. (c) 37. (a) 38. (a) 39. (a) 40. (c)
+41. (c) 42. (c) 43. (a) 44. (d) 45. (d) 46. (b) 47. (d) 48. (c) 49. (a) 50. (c)
+51. (a) 52. (a) 53. (b) 54. (b) 55. (a) 56. (c) 57. (d) 58. (b) 59. (a) 60. (d)
+61. (b) 62. (b) 63. (a) 64. (a) 65. (c) 66. (c) 67. (b) 68. (b) 69. (a) 70. (a)
+71. (c) 72. (c) 73. (b) 74. (b) 75. (d) 76. (b) 77. (c) 78. (c) 79. (a) 80. (d)
+81. (b) 82. (d) 83. (a) 84. (d) 85. (d) 86. (b) 87. (d) 88. (a) 89. (c) 90. (d)
+91. (a) 92. (a) 93. (a) 94. (a) 95. (a) 96. (b) 97. (b) 98. (c) 99. (a) 100. (b)
+
+MOCK TESTS 285
+P P 6
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. The offi ce of the Prime Minister of India 8. The power to control the expenditure of
+(a) has been created by Parliament the Government of India rests exclusively
+(b) is based on conventions with
+(c) has been created by the Constitution (a) Parliament
+(d) is less powerful than that of the Presi- (b) President
+dent (c) Comptroller and Auditor-General
+2. Fundamental Duties do not enjoy any (d) Union Finance Minister
+(a) Legal sanction 9. In India Final decision whether a member
+(b) Moral sanction of the Lok Sabha has incurred disqualifi -
+(c) Political sanction cation under the Anti-Defection Law rests
+(d) social sanction with
+3. In the Indian polity, ultimate sovereignty (a) Speaker
+(b) Election Commission
+rests with
+(c) President
+(a) the Parliament
+(d) Supreme Court or High Court
+(b) the Constitution
+10. What happens when a Money Bill by Lok
+(c) the President
+Sabha is partially amended by Rajya Sab-
+(d) the People
+ha?
+4. A Money Bill can originate in the State
+(a) Lok Sabha can proceed with the Bill
+Legislature only with the prior consent of
+without the amendment proposed by
+the
+Rajya Sabha
+I. Chief Minister II. President
+(b) Bill can be lapsed
+III. Governor IV. None of these
+(c) Bill can be postponed for next ses-
+(a) I (b) I and III
+sion
+(c) II (d) III
+(d) None of the above
+5. A dispute between two houses of the Par-
+11. Rajya Sabha is also called as….
+liament can be resolved by
+(a) Council of Nominated Members
+(a) joint sitting of both houses summoned
+(b) Council of Representatives
+by the President
+(c) Council of States
+(b) ruling of the Lok Sabha Speaker
+(d) None of the above
+(c) ruling of the Rajya Sabha chairperson
+12. Which part of the Constitution is justicia-
+(d) None of these
+ble?
+6. Right to education is added as Article 21A
+(a) Fundamental Rights
+in the Constitution of India by (b) Preamble
+(a) 86th Constitution Amendment, 2002 (c) Fundamental Duties
+(b) 88th Constitution Amendment, 2003 (d) Directive Principles
+(c) 89th Constitution Amendment, 2003 13. An Obiter dicta by a judge is a
+(d) 90th Constitution Amendment, 2004 (a) Statement of opinions made, by the
+7. The Constitution of India has vested the judge, while deciding the point at is-
+executive power of the Union of India in sue
+(a) Prime Minister (b) Statement within the orbit of mores of
+(b) Council of Minister the society
+(c) President (c) Statement within the orbit of facts of
+(d) Deputy Prime Minister the case
+
+(d) Statement not covered by any of the 22. The four pillars of democracy are
+above classifi cations (a) The President, the Prime Minister, the
+14. In a Parliamentary system the executive is people and the Press
+responsible to (b) The Parliament, the President, the Ju-
+(a) The legislature diciary and the Press
+(b) The judiciary (c) The Parliament, the Executive, the Ju-
+(c) The people directly diciary and the Press
+(d) None of the above (d) None of the above
+15. “Equal pay for equal work for both males 23. Who among the following is fourth Pillar
+and females”. Which article has proposed of Indian Constitution
+this? (a) Attorney General
+(a) Article 48 (b) Article 39 (b) Lieutenant General
+(c) Article 14 (d) Article 25 (c) Advocate General
+16. Who is responsible for the registration of (d) Comptroller and Auditor General
+the voters in India? 24. A sentence of death by a lower Sessions
+(a) Voters court
+(b) Political parties (a) is operational if no appeal is made to
+(c) Election commission higher courts
+(d) None of the above (b) must be confi rmed by the High Court
+17. Term of Rajya Sabha members in Indian (c) must be confi rmed by the Supreme
+Parliament was fi xed by the Court
+(a) Constitution (b) Cabinet (d) must be confi rmed by the President
+(c) President (d) Parliament 25. In….supreme Court held that Judicial Re-
+18. What fi nancial power is enjoyed by the view is a basic feature of Constitution and
+President of India? cannot be amended
+(a) Certain Money Bills can originate in (a) Minerva Mills case
+Parliament only on the recommenda- (b) Golaknath case
+tion of the President (c) Keshvananda Bharti case
+(b) He can advance money out of the (d) None of the above
+Contingency Fund of India 26. A Panchayat Samiti at the block level in
+(c) He can appoint the Finance Commis- India is only
+sion to recommend distribution of tax- (a) an advisory body
+es between the Centre and the State (b) a consultative committee
+(d) All the above (c) a co-ordinate and supervisory author-
+19. The members of Rajya Sabha in Parlia- ity
+ment of India are (d) an administrative authority
+(a) nominated by the Governors of the re- 27. The Legislative power of the President of
+spective states India includes all the following but not
+(b) elected by elected members of the (a) the power to summon or prorogue the
+Lok Sabha Houses of Parliament
+(c) elected by elected members of the (b) power to summon a joint sitting of
+State Legislative Assemblies both the Houses to resolve a deadlock
+(d) All the above (c) power to nominate the members to the
+20. The salaries and allowances of Union Lok Sabha
+Ministers in India are determined by (d) right to address either House at any
+(a) President of India time and to require the attendance of
+(b) Finance Commission members for this purpose
+(c) Parliament 28. Who among the following jurists was the
+(d) Ministry of Parliamentary Affairs Chairman of “Committee for Implement-
+21. Who among the following had the longest ing Legal Aid Schemes” (CILAS)?
+tenure as the Chief Justice of India? (a) A. S. Anand (b) P. N. Bhagwati
+(a) P. N. Bhagwati (c) R. S. Pathak (d) Kuldeep Singh
+(b) M. H. Beg 29. Democracy does not stand for
+(c) Y. V. Chandrachud (a) rule of law
+(d) H. J. Kania (b) equal right for all
+
+MOCK TESTS 287
+(c) liberty of the individual (b) Chairman of Rajya Sabha
+(d) unrestricted freedom of the people (c) Speaker of Lok Sabha
+30. On the basis of the Government of India (d) Chairman of Public Accounts Com-
+Act, 1935 which introduced the political mittee
+autonomy elections took place in the prov- 38. Match the following in Indian context
+inces in the year I. Upper Chamber
+(a) 1937 (b) 1939 II. Lower Chamber
+(c) 1940 (d) 1938 III. Fourth Pillar
+31. The UPSC consists of a Chairman and IV. Head of Government
+(a) six other members A. Rajya Sabha B. Lok Sabha
+(b) eight other members C. CAG D. Prime Minister
+(c) eleven other members (a) I – A, II – B, III – C, IV – D
+(d) unspecifi ed number of members (b) I – B, II – C, III – D, IV – A
+32. The Electorate means (c) I – C, II – D, III – A, IV – B
+(a) Those people who do not have the (d) I – C, II – D, III – B, IV – A
+right to elect their representatives 39. The present Director-General of the World
+(b) All the citizens who possess the right Trade Organization is
+to vote and elect their representatives (a) Pascal Lamy
+in an election (b) Oliver Long
+(c) Those people who have the right to be (c) Arthur Dunkell
+elected (d) Renalto Ruggiero
+(d) Those people who have the right to 40. Which of the following writs is the bul-
+live in a country wark of the personal freedom?
+33. The delimitation of the territorial constitu- (a) Mandamus
+encies in India is the responsibility of (b) Habeus Corpus
+(a) President (c) Quo Warranto
+(b) Governor (d) Certiorary
+(c) Election Commission 41. In which of the following does the Rajya
+(d) Parliament Sabha enjoy exclusive right?
+34. In India, political parties are given recog- (a) Initiating impeachment proceedings
+nition by against the President
+(a) President (b) Taking initiative for the removal of
+(b) Law Commission the Vice-President
+(c) Speaker of Lok Sabha (c) Recommending creation of new All
+(d) Election Commission India Services
+35. If India decides to have a Presidential (d) In all the above matters
+form of government, the fi rst and foremost 42. Who is entitled to initiate a Bill for Consti-
+amendment has to be made affecting the tutional amendments?
+(a) system of judiciary (a) State Legislative Assemblies
+(b) composition of Parliament (b) Lok Sabha only
+(c) executive-legislature relationship (c) Either House of Parliament
+(d) provisions pertaining to fundamental (d) Rajya Sabha only
+Rights 43. The Chief Justice of a High Court is ap-
+36. Power to dissolve Rajya Sabha in Parlia- pointed by the President in consultation
+ment of India is vested in ………. with
+(a) Prime Minister I. Chief Justice of the Supreme Court
+(b) President II. Former Chief Justice of the High
+(c) President on advice of Prime Minis- Court
+ter III. Other Judges of the High Court
+(d) Not possible IV. Governor of the State concerned
+37. Whether a Bill is a Money Bill in Lok (a) I and II (b) II and III
+Sabha or not is certifi ed by the ………. (c) I and IV (d) I, III and IV
+and his decision is conclusive 44. The Judges and magistrates of the Civil
+(a) President Courts are appointed by the
+
+(a) Subordinate Judge (c) powers related to country’s external
+(b) Chief Justice of the High Court affairs
+(c) Governor (d) powers not included in any of the
+(d) District Magistrate three lists
+45. The Judges of the Supreme Court can be 52. Planning in India derives its objectives
+removed from offi ce by the from
+(a) President (a) Fundamental Rights
+(b) Prime Minister (b) Directive Principles
+(c) President on request of Parliament (c) Fundamental Duties
+(d) Chief Justice of India (d) None of these
+46. In India the main areas of confl ict between 53. Who can dissolve the Lok Sabha before
+the legislature and the judiciary is/are the expiry of its term?
+(a) Existence, extent and scope of Parlia- (a) The President
+mentary privileges and power of Leg- (b) Prime Minister
+islatures to punish for contempt
+(c) The President on the advice of the
+(b) Interference in the proceedings of Par-
+Prime Minister
+liament/Legislature
+(d) None of these
+(c) Decision given by the presiding of-
+54. The remuneration for the Attorney-Gener-
+fi cers of legislatures under the Anti-
+al of India is determined by
+Defection Law
+(a) the Council of Ministers
+(d) All the above
+(b) the Constitution
+47. The interpretation of Constitution of India
+(c) the Parliament
+comes under which jurisdiction of Su-
+(d) the President
+preme Court
+55. How long is the tenure of the Prime Min-
+(a) Appellate Jurisdiction
+ister in India?
+(b) Civil Jurisdiction
+(a) It depends on the President’s direc-
+(c) Special Leave
+tion
+(d) Both (a) and (b)
+(b) So long as he enjoys the confi dence of
+48. The present Solicitor-General of India is
+the Lok Sabha
+(a) Gopal Subramaniam
+(c) So long as he is leader of the majority
+(b) A. Parameswaran
+party in the Lok Sabha
+(c) Deepankar Gupta
+(d) 5 years
+(d) Milon Banerjee
+56. In the 86th Constitutional Amendment
+49. To adjudicate any dispute relating to Inter-
+State rivers or Inter-State river valley in Act, 2002 of India the Article 21A viz.,
+India, the Right to education is added to the lists of
+(a) Supreme Court only is empowered Fundamental Rights. Which among the
+under Article 131 of the Constitution following is a guardian of such Funda-
+(b) High Court of concerned State enjoy mental Rights?
+concurrent jurisdiction (a) Supreme Court and High Courts
+(c) President of India has only power to (b) High Court only
+decide (c) Supreme Court only
+(d) Parliament is empowered to establish (d) Lower courts and High Courts
+Tribunal and to that extent jurisdiction 57. Article I of the Constitution of India de-
+of Supreme Court may be extended clares India as
+50. Which among the following Constitution- (a) Federal State
+al amendments in India is otherwise called (b) Quasi Federal State
+the “Mini Constitution”? (c) Unitary State
+(a) 42nd Amendment (d) Union of States
+(b) 24th Amendment 58. Which functionaries can be invited to give
+(c) 14th Amendment his opinion in the Parliament of India?
+(d) 20th Amendment (a) Attorney General of India
+51. The residuary powers mean the (b) Chief Justice of India
+(a) powers shared between the Union and (c) Chief Election Commissioner of In-
+State Governments dia
+(b) powers related to country’s internal (d) Comptroller and Auditor General of
+affairs India
+
+MOCK TESTS 289
+59. Which of the following is the bulwark of 67. Expression ‘socialist’ in the Preamble of
+personal freedom? India has been added by taking the views
+(a) Mandamus of
+(b) Habeaus Corpus (a) Marx and Loski
+(c) Quo Warranto (b) Marx and Gandhi
+(d) Certiorari (c) Rousseau and Gandhi
+60. In India, the “right to free education” in (d) Gandhi and Hegel
+Constitution emanates from 68. The main objective of the Regulating Act,
+(a) Article 29 and 30 1773 for India was to
+(a) bring the management of the company
+(b) Article 14
+under the control of the British Parlia-
+(c) Articles 21 and 21A
+ment and the British Crown
+(d) Article 19
+(b) introduce reforms in the Company’s
+61. The Constitution of India vests the execu-
+Government in India
+tive power of the Indian Union in
+(c) provide remedies against illegalities
+(a) the President
+and anarchy committed by the Com-
+(b) the Parliament
+pany’s servants in India
+(c) the Council of Ministers
+(d) All of the above
+(d) the Prime Minister
+69. Under which plan separation between rev-
+62. The writ of prohibition issued by the Su-
+enue and judicial function was maintained
+preme Court or a High Court is issued
+in India?
+against
+(a) Plan of 1772 (b) Plan of 1774
+(a) administrative and judicial authorities
+(c) Plan of 1780 (d) Plan of 1782
+(b) administrative authorities and govern- 70. The special status of Jammu and Kashmir
+ment in Indian Union implies that the State has
+(c) judicial or quasi-judicial authorities (a) a separate defence force
+(d) administrative authorities only (b) a separate constitution
+63. The right which is available even to a non- (c) a separate judiciary
+citizen is (d) All the above
+(a) Freedom to acquire property or to 71. Who is competent to prescribe conditions
+carry on any occupation, trade or busi- for acquisition of citizenship?
+ness (a) Parliament and state legislatures joint-
+(b) Freedom to move, reside and settle in ly
+any part of the territory of India (b) Election Commission
+(c) Freedom of speech, assembly and as- (c) Parliament
+sociation (d) President
+(d) Right to Constitutional Remedies 72. The Indian Constitution declares that pro-
+64. The proclamation of National Emergency tection of life and liberty
+ceases to operate unless approved by the (a) can be taken away during the Emer-
+Parliament within gency through President order
+(b) can be taken away only according to
+(a) three months (b) two months
+procedure established by law
+(c) one month (d) six months
+(c) can never be taken away in my condi-
+65. Who is the ex-offi cio Chairman of the
+tion
+Council of States?
+(d) None of above
+(a) President
+73. The basic condition imposed on the citi-
+(b) Speaker
+zen’s right to assemble is that the assem-
+(c) Prime Minister
+bly should be
+(d) Vice-President
+(a) peaceful
+66. The Preamble of the Constitution of India
+(b) non-violent
+provides equality of status and opportu-
+(c) peaceful and unarmed
+nity in
+(d) for constructive aims
+(a) Public Services
+74. Who administers the oath of offi ce to the
+(b) Social and Economic affair only members of council of ministers in the
+(c) Social, Political and Economic state?
+(d) Both (a) and (b) (a) the Attorney-General of the state
+
+(b) the Governor (a) the presiding offi cers of both the
+(c) the Chief Justice of the State High Houses of Parliament
+Court (b) the legislatures of the states con-
+(d) None of the above cerned
+75. Who of the following is the executive (c) Supreme Court
+head of a state? (d) President
+(a) the President 82. In Parliamentary government, Ministers
+(b) the Governor remain in offi ce so long as they enjoy
+(c) the Chief Minister (a) confi dence of the upper house of the
+(d) None of the above legislature
+76. Can the courts inquire into proceedings of (b) support of the armed forces
+the Legislature under Article 212 of the (c) confi dence of the popular chamber of
+Constitution of India? legislature
+(a) Yes (d) popular support
+(b) No 83. Parliament of India is composed of
+(a) Lok Sabha only
+(c) with the permission of the Speaker
+(b) Rajya Sabha only
+(d) with the permission of the Governor
+(c) Lok Sabha and Rajya Sabha
+77. In case of vacancy in the offi ce of the
+(d) Lok Sabha, Rajya Sabha and Presi-
+Vice-President during his function as of-
+dent
+fi ciating President of India who among the
+84. The Chairman of the Rajya Sabha is
+following will act as President of India?
+(a) elected by the members of Rajya Sab-
+(a) Speaker of Lok Sabha
+ha
+(b) Deputy Chairman of Rajya Sabha
+(b) nominated by the President
+(c) Chief Justice of India
+(c) elected by members of both Houses of
+(d) Chief Election Commissioner
+Parliament
+78. Who among the following can prescribe
+(d) elected by Parliament and State Legis-
+an authority for delimitation of constitu-
+latures jointly
+encies of India?
+85. In the case of a deadlock between the two
+(a) Parliament
+Houses of the Parliament, the joint sitting
+(b) State Legislative Assemblies
+is presided over by the
+(c) Election Commission
+(a) President
+(d) None of the above
+(b) Vice-President
+79. Right to Education viz., Article 21A was
+(c) Speaker of Lok Sabha
+added in Constitution by the
+(d) Member of the Lok Sabha specifi cally
+(a) Constitution 86th Amendment Act,
+elected for the purpose
+2002
+86. ‘Damages’ are awarded except in one
+(b) Constitution 85th Amendment Act,
+case
+2001 (a) Tort
+(c) Constitution 84th Amendment Act, (b) Breach of contract
+2001 (c) Libel Suit
+(d) Constitution 83rd Amendment Act, (d) Criminal conduct
+2000 87. India is unitary because it has
+80. The power to dissolve the Lok Sabha is (a) single Constitution for Union and
+vested in the States
+(a) President who exercises it on the ad- (b) single Constitution for Union
+vice of the Prime Minister (c) single Constitution for States
+(b) President at his absolute discretion (d) Union of States
+(c) Prime Minister without whose advice 88. Bhairon Singh Shekhawat the former
+the Lok Sabha cannot be dissolved at Vice-President of India to whom Hamid
+all Ansari succeeded was
+(d) Joint opinion of the President, Vice- (a) former Chief Minister of Rajasthan
+President and the Speaker (b) former Chief Minister of Kerala
+81. A bill for alteration of boundaries of state (c) former Chief Minister of Karnataka
+should not be introduced in the Parliament (d) former Chief Minister of Maharashtra
+without the recommendation of 89. In India a Bill to change the boundaries of
+
+MOCK TESTS 291
+a State has to be passed by __________ (c) Speaker of Lok Sabha
+majority in __________ to become a law (d) Select Parliamentary Committee
+(a) Simple; Parliament 95. The Council of Ministers has to tender its
+(b) Simple; State Legislature resignation if a vote of no-confi dence is
+(c) Two third; Parliament passed against it
+(d) Two third; State Legislature (a) by the Lok Sabha
+90. Citizenship by descent in India means (b) by the Rajya Sabha
+(a) a person born outside India on or after (c) by the two houses at a joint sitting
+26th January, 1950 and 10th Decem- (d) by the two houses of Parliament by
+ber, 1992 and if father is Indian citi- two thirds majority
+zen 96. The only woman member of the Consti-
+(b) on or after 10th December, 1992, if ei- tution Review Committee of India which
+ther of the parents is an Indian citizen submitted Report in 2002 was
+at the time of his birth (a) Mohini Giri
+(c) Either (a) or (b) (b) Sumitra Kulkarni
+(d) Only (a) is correct (c) Subhashilli Ali
+91. Lok Sabha is superior to the Rajya Sabha (d) Vibha Parthasarathi
+because 97. The Constituent Assembly of India was
+(a) it alone controls the purse formed under the provisions of
+(b) it is directly elected (a) Cabinet Mission Plan
+(c) it can cast the Council of Ministers (b) Cripps Commission
+through a vote of no-confi dence (c) Mountbatten Plan
+(d) of all the above reasons (d) None of the above
+92. What can be the maximum gap between 98. In India, a person can be a member of
+the two sessions of Parliament? State Council of Ministers without being
+(a) nine months (b) six months a member of State Legislature for
+(c) three months (d) four months (a) a maximum period of 9 months
+93. The Rajya Sabha is a permanent house (b) a maximum period of 6 months
+but (c) a maximum period of 12 months
+(a) one-half of its members retire every (d) a maximum period of 2 months
+two years 99. An Act of Parliament is called
+(b) one-fi fth of its members retire every (a) bill (b) legislation
+year (c) statute (d) public policy
+(c) one-third of its members retire every 100. The doctrine of separation of power signi-
+two years fi es
+(d) one-half of its members retire every (a) a division of power between Centre
+three years and State Government
+94. Who decides whether a bill is a Money (b) distribution of power between branch-
+Bill or not? es of Government
+(a) President (c) providing for judicial supremacy
+(b) Prime Minister (d) None of the above
+A
+NSWERS
+1. (c) 2. (c) 3. (d) 4. (d) 5. (a) 6. (a) 7. (c) 8. (d) 9. (a) 10. (a)
+11. (c) 12. (a) 13. (a) 14. (a) 15. (b) 16. (c) 17. (a) 18. (d) 19. (c) 20. (c)
+21. (c) 22. (c) 23. (d) 24. (b) 25. (c) 26. (c) 27. (d) 28. (a) 29. (d) 30. (b)
+31. (d) 32. (b) 33. (c) 34. (d) 35. (c) 36. (d) 37. (c) 38. (a) 39. (d) 40. (b)
+41. (b) 42. (c) 43. (d) 44. (c) 45. (c) 46. (b) 47. (a) 48. (a) 49. (a) 50. (a)
+51. (d) 52. (b) 53. (c) 54. (d) 55. (b) 56. (a) 57. (d) 58. (a) 59. (b) 60. (c)
+61. (a) 62. (b) 63. (d) 64. (d) 65. (d) 66. (a) 67. (b) 68. (d) 69. (d) 70. (b)
+71. (c) 72. (c) 73. (c) 74. (c) 75. (b) 76. (b) 77. (c) 78. (c) 79. (a) 80. (a)
+81. (d) 82. (c) 83. (d) 84. (c) 85. (c) 86. (d) 87. (a) 88. (a) 89. (a) 90. (b)
+91. (d) 92. (b) 93. (c) 94. (c) 95. (a) 96. (a) 97. (a) 98. (b) 99. (b) 100. (a)
+
+P P 7
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. Overseas citizenship of India is granted to tain the people’s verdict in his favour in a
+people of Indian origin bye-election within
+(a) in any country (a) 15 days (b) one month
+(b) in select countries (c) three months (d) six months
+(c) provided their home countries allowed 7. Part V of the Constitution deals with
+them to do so I. Union Executive
+(d) in all countries except Sri Lanka II. Parliament
+2. India is a federal; political system. How- III. Supreme Court and High Court
+ever, all powers have not been divided be- IV. Comptroller and Auditor-General
+tween the Union and the States. Which of (a) I, II and III (b) I, II and IV
+the following is/are not so divided? (c) I and II (d) I only
+1. Legislative 2. Executive 8. India has been described by the Constitu-
+3. Judicial 4. Financial tion as:
+(a) 1 and 2 (b) 3 and 4 (a) A Union of States
+(c) 3 only (d) 4 only (b) Quasi-federal
+3. The fundamental rights under the Consti- (c) A Federation of States
+tution of India have (d) None of these
+(a) retrospective effect 9. The Indian Constitution establishes a sec-
+(b) no effect under Article 13(1) or 13(3) ular State, meaning
+(b) I. The State treats all religious equally
+(c) only future effect II. Freedom of faith and worship is al-
+(d) None of the above lowed to the people
+4. In India the fi rst Constitutional Amend- III. Educational institutions, without ex-
+ment was made in 1951. The main object ception, are free to impart religious
+was instruction
+(a) to secure constitutional validity of rul- IV. The State makes no discrimination on
+ing by kings the basis of the religion in matters of
+(b) to add Article 31A and 31B and employment
+Schedule 9 (a) I, II, III and IV (b) I, II and IV
+(c) both (a) and (b) (c) II, III and IV (d) I and II
+(d) None of the above 10. National Development Council is a …
+5. Keshvananda Bharti case, overruled Go- (a) Creation of the executive body
+laknath case, and said (b) Constitutional body
+(a) Fundamental Rights can be amended (c) Cabinet’s Secretariat
+(b) All provision of the Constitution can (d) Joint Right
+be amended 11. The Liberhan Commission relates to
+(c) Parliament can amend any part of the (a) Anti-Terrorism Commission
+Constitution so long as the amend- (b) Demolition of Babri Masjid
+ment does not take away or abridge (c) Pollution in Country
+any of the basic features of the Con- (d) None of the above
+stitution amendments 12. What is the maximum strength prescribed
+(d) None of the above in Constitution of India for Lok Sabha?
+6. A minister, who is not a member of the (a) 543 (b) 545
+Legislative Assembly, is required to ob- (c) 550 (d) 552
+
+MOCK TESTS 293
+13. The Constitution of India guarantees right (a) Population
+against exploitation to (b) territorial jurisdiction
+(a) Children and Women (c) number of Prime Ministers sending to
+(b) Men and Women Parliament
+(c) Children and Oldmen (d) None of the above
+(d) Factory Workers only 23. The minimum age of a person required to
+14. Name the Commission which organized be Prime Minister in India is
+States on the basis of languages (a) 25 years
+(a) J. Fazal Ali Commission (b) 30 years
+(b) Dharam Vir Commission (c) 35 years specifi ed
+(c) Ashok Mehta Commission (d) no age required
+(d) Sanathan Commission 24. The defeat of government in Rajya Sabha
+15. Which of the following is not necessary of Parliament of India leads to
+attribute of federalism? (a) Prime Minister’s resignation
+(a) An independent court to arbitrate on (b) Resignation of President
+disputes between the Federation and (c) Resignation of Chairman
+Federal States (d) None of the above
+(b) A written Constitution 25. In India fi rst BJP ministry under Mr Atal
+(c) Division of powers between the Fed- Behari Vajpayee held offi ce for a period
+eration and Federal Unit of
+(d) Dual citizenship of Federation and (a) 13 days (b) 45 days
+Federal Unit
+(c) 10 days (d) 3 months
+16. In the interim government formed in 1946,
+26. The President can promulgate an ordi-
+the Vice-President of the Executive Coun-
+nance
+cil was
+(a) when the Lok Sabha has been dis-
+(a) Dr Rajendra Prasad
+solved
+(b) C. Rajagopalachari
+(b) when there is confl ict between the two
+(c) Jawaharlal Nehru
+Houses regarding a particular bill
+(d) Dr S. Radhakrishnan
+(c) when a bill passed by the Lok Sabha is
+17. Golden Jubilee of Parliament of India was
+not passed by the Rajya Sabha
+celebrated on
+(d) when both the Houses of the Parlia-
+(a) 13 May 2002 (b) 8 May 2002
+ment are not in session
+(c) 26 April 2002 (d) 18 May 2002
+27. Which of the following best defi nes the
+18. Which language was added as the 15th of-
+Parliamentary term ‘Crossing the Floor’?
+fi cial language to the 8th Schedule of the
+(a) Leaving the opposition to join the
+Constitution?
+party in power or vice-versa by a Par-
+(a) Hindi (b) Urdu
+liamentarian
+(c) Sindhi (d) Marathi
+(b) An attempt to occupy the seat of some
+19. Which article of Indian constitution pre-
+other Parliamentarian
+scribes Hindi in Devanagri script as the
+(c) Leaving a House by minister in be-
+offi cial language of the union?
+tween in order to attend the other
+(a) 341 (b) 342
+House
+(c) 343 (d) 346
+(d) Walk out by some Parliamentarians
+20. The reference to Hindus in Article 25 of
+in order to boycott the proceedings of
+the Constitution does not include
+the House
+(a) Buddhists (b) Jains
+(e) None of these
+(c) Parsees (d) Sikhs
+28. An ordinance promulgated by the Presi-
+21. The Speaker of Lok Sabha uses his vote in
+dent
+case of
+(a) will lapse automatically after 2
+(a) a tie, when votes are equally divided
+months
+(b) amendment of Constitution
+(b) will lapse on the expiration of 6 weeks
+(c) emergency
+from the meeting of the Parliament
+(d) in no case
+22. Seats are allocated to various States in the (c) will automatically become a law after
+Lok Sabha on the basis of 6 months
+
+(d) will continue to be in force till it is su- I. Chief Justice of the Supreme Court.
+perseded by an Act of the Parliament. II. Former Chief Justice of the High
+29. Indira Swahney vs Union of India is a case court
+popularly known as III. Other Judges of the High court
+(a) Mandal judgment IV. Governor of the State concerned
+(b) Ayodhya judgment (a) I and III (b) II and III
+(c) Suicidal judgment (c) I and IV (d) I, III and IV
+(d) Election Commission judgment 37. The Advisory opinion tendered by the Su-
+30. The status of a recognized Opposition par- preme Court
+ty in the Lok Sabha is secured only when (a) is not made public at all
+the percentage of the total seats in the Lok (b) is binding on the President only if it is
+Sabha won by the political party is unanimously made
+(a) 5 (b) 8 (c) is binding on the President
+(c) 10 (d) 15 (d) is not binding on the President
+31. The writ of Certiorari is issued by a Supe- 38. The phrase ‘bicameral legislature’ means
+rior Court (a) Parliamentary system of Government
+(a) to an inferior court to transfer the re- (b) a legislature consisting of lower and
+cord of case for review an upper chamber
+(b) to a public authority to produce a per- (c) a single assembly
+son detained by it before the court (d) an elected legislature
+within 24 hours 39. The Legislative Council is expected to
+(c) to an inferior court to stop further pro- have a strength equal to one third of the
+ceeding of case membership of the Legislative Assembly.
+(d) None of the above The minimum strength of the Council has
+32. Who decides the disputes regarding elec- to be
+tion of President of India? (a) 50 (b) 40
+(a) Supreme Court (c) 100 (d) 30
+(b) High Court 40. Which one of the following does not take
+(c) Parliament part in the election of the President?
+(d) Supreme Court or High Courts (a) elected members of Lok Sabha
+33. In India there are (b) members of the legislative councils
+(a) 3 types of emergencies in Constitu- (c) elected members of the Rajya Sabha
+tion (d) None of the above
+(b) 4 types of emergencies in Constitu- 41. When the offi ces of both the President and
+tion Vice-President of India are vacant, then
+(c) 6 types of emergencies in Constitu- their function will be discharged by
+tion (a) Prime Minister
+(d) 12 types of emergencies in Constitu- (b) Home Minister
+tion (c) Chief Justice of India
+34. In case the offi ce of President of India (d) Speaker
+falls vacant the same must be fi lled within 42. The appellate jurisdiction of a High Court
+__________ in India is
+(a) 1 year (b) 18 months (a) civil
+(c) 3 months (d) 6 months (b) criminal
+35. A National Emergency in India remains in (c) both civil and criminal
+operation, with the approval of Parliament (d) None of the above
+for 43. __________ is an order of a Court to a
+(a) maximum of 1 year person to appear before it
+(b) indefi nite period (a) Warrant (b) Subpoena
+(c) maximum of 2 years (c) Call (d) Remand
+(d) maximum of 4 years 44. Which one of the following writs is a bul-
+36. The Chief Justice of a High Court is ap- wark of personal freedoms?
+pointed by the President in consultation (a) Mandamus (b) Habeas Corpus
+with (c) Quo Warranto (d) Certiorari
+
+MOCK TESTS 295
+45. Sonali Kapoor is a school teacher. The 52. Who has designed the layout of Indian
+management of the school terminates her Constitution?
+without giving her a show cause notice. (a) Nandlal Bose
+She fi les a writ petition before the High (b) Jamini Roy
+Court. Most likely the High Court may set (c) K. C. S. Panicker
+aside the termination by issuing writ in the (d) Rabindra Nath Tagore
+nature of 53. Subhash Chandra Bose, established Gov-
+(a) Mandamus (b) Certiorari ernment of Free India before Indepen-
+(c) Quo Warranto (d) Prohibition dence of India in
+46. Which of the following is not true about (a) Hong Kong (b) Japan
+the Supreme Court? (c) Singapore (d) Rangoon
+(a) It has only the Appellate Jurisdiction 54. President of India has position similar to
+(b) It is the highest federal court of India (a) German Chancellor
+(c) It does not have the Original Jurisdic- (b) American President
+tion (c) British Queen
+(d) It can amend the Constitution (d) Japanese Prime Minister
+47. What is meant by a ‘Court of Record’?
+55. The concept of Public Interest Litigation
+(a) The court that preserves all its re-
+which has become quite popular in India
+cords
+originated in
+(b) The court that maintains records of all
+(a) USA (b) Australia
+lower courts
+(c) Canada (d) UK
+(c) The court that can punish for its con-
+56. A main characteristic of the cabinet sys-
+cept
+tem is
+(d) The court that is competent to give di-
+(a) leadership of the Prime Minister
+rections
+(b) inclusion of the President
+48. Judicial Review function of the Supreme
+(c) cabinet decisions are not binding on
+Court
+all Ministers
+(a) review its own judgment
+(d) All the above
+(b) review the functioning of judiciary in
+57. Which one of the following emergencies
+the country
+can be declared by the President on his
+(c) examine the constitutional validity of
+own?
+the laws
+(a) Emergency due to threat to the fi nan-
+(d) undertake periodic review of the Con-
+cial stability or credit of India
+stitution
+(b) Emergency due to external aggression
+49. Which is not an eligibility criterion for ap-
+or internal disturbances
+pointment as a Judge of the High Court?
+(c) Emergency due to failure of the con-
+(a) Must have been a High Court Judge
+stitutional machinery in a state
+for at last 5 years
+(d) None of the above
+(b) Must have attained the age of 55
+years 58. The tenure of the Union Council of Minis-
+(c) Must have been an advocate of a High ters is
+Court for not less than 10 years (a) fi ve years
+(d) Must be, in the opinion of the Presi- (b) uncertain
+dent, a distinguished jurist (c) fi xed and co-terminus with the Presi-
+50. Under the Constitution, the residuary dent
+powers vest with the (d) co-terminus with the Lok Sabha
+(a) President 59. In the election to the post of the President
+(b) Supreme Court (a) M.Ps and M.L.As of a State have the
+(c) Union government same number of votes
+(d) State government (b) M.L.As of different States have dif-
+51. In India Commission which submitted the ferent number of votes
+fi rst report on backward classes was head- (c) Each elected M.P. or M.L.A. has an
+ed by equal number of votes
+(a) B. P. Mandal (b) L. G. Haranur (d) All M.Ps and M.L.As have one vote
+(c) Kaka Kalekar (d) Chinnapa Reddy each
+
+60. In the election of the President (b) Deputy Chairman, Planning commis-
+(a) parity between the Centre and the sion
+States has been maintained (c) Chief Minister of a Union Territory
+(b) the States are given greater weight- 69. Which is true regarding the President of
+age India?
+(c) the Centre enjoys greater weightage I. He is the Chief Executive
+(d) None of the above II. He is the Supreme Commander of the
+61. Under which Article of the Constitution armed forces
+of India has the untouchability been abol- III. He is the titular head of the State
+ished and its practice prohibited? IV. He is part of the Union Legislature
+(a) Article 19 (b) Article 21 (a) I and III (b) I and II
+(c) Article 17 (d) Article 20 (c) II, III and IV (d) I, II, III and IV
+62. Article 21 of the Constitution of India 70. The President of India made use of his
+guarantees the life and liberty of the indi- veto power once in
+vidual which cannot be deprived of except (a) the Dowry Prohibition Bill
+(b) the Indian Post Offi ce (Amendment)
+according to the procedure established by
+Bill
+_____
+(c) the Hindu Code Bill
+(a) Parliament (b) Law
+(d) the PEPSU Appropriation Bill
+(c) Judiciary (d) President
+71. International Court of Justice is one of the
+63. The Fundamental Rights in India are en-
+principal organs of the United Nations.
+forceable by the _____
+The statement is
+(a) President (b) Prime Minister
+(a) true (b) false
+(c) Courts (d) Parliament
+(c) partly true (d) None of the above
+64. The Fundamental Rights guaranteed un-
+72. Freedom of movement in India throughout
+der the Constitution to the People of India
+the territory of India can be restricted in
+are not absolute because the Constitution
+the interest of
+of India imposes
+(a) general public or for the protection of
+(a) reasonable restrictions on their use
+the interest of any Scheduled Castes
+(b) arbitrary limitations on their use
+and Scheduled Tribes
+(c) parliamentary checks on them
+(b) protection of cows and birds
+(d) statutory restrictions on them
+(c) public morality, order and public in-
+65. The essential freedoms enjoyed by the
+terest
+People of India are called the Fundamen-
+(d) sovereignty and integrity of India and
+tal Rights which are enshrined in
+wild life
+(a) Part V of the Constitution of India
+73. The Indian Constitution
+(b) Part IV of the Constitution of India
+(a) recognizes ‘natural rights’ but does
+(c) Part I of the Constitution of India
+not embody it
+(d) Part III of the Constitution of India
+(b) leaves no scope for natural rights be-
+66. The Chairman and members of State Pub-
+cause it enumerates the Fundamental
+lic Service Commission are appointed by Rights exhaustively
+the (c) is fl exible about Fundamental Rights
+(a) President and Duties
+(b) Prime Minister (d) says that the Judiciary will decide the
+(c) Governor Fundamental Rights based on natural
+(d) Chairman, UPSC justice
+67. The Rajya Sabha can be dissolved by 74. The Fundamental Rights as per Constitu-
+(a) Lok Sabha tion of India are
+(b) Constitutional amendment (a) not justiciable
+(c) President (b) justiciable
+(d) None of these (c) dependent on the law made by the
+68. Who among the following are appointed State
+by the President of India? (d) not enforceable at all and it depends
+(a) Chairman, fi nance Commission on the court in each case
+
+MOCK TESTS 297
+75. When the President of India has to resign, (a) Right to Property
+he has to address his resignation letter to (b) Right to Equality
+(a) Prime Minister (c) Right to Freedom
+(b) Speaker of Lok Sabha (d) None of the above
+(c) Vice-President 85. Reservation of seats for Scheduled Castes
+(d) Chief Justice of Supreme Court and Scheduled Tribes in the House of Peo-
+76. The Constituent Assembly of India took ple has been provided for in the Constitu-
+all decisions by tion of India under Article
+(a) consensus (a) 330 (b) 331
+(b) simple majority (c) 332 (d) 333
+(c) two-thirds majority 86. When a bill passed by Parliament is sent to
+(d) All the above methods the President for his assent, which option
+77. Which of the following can be abolished, is not true to him?
+but not dissolved? (a) He may sign it
+(a) Rajya Sabha (b) He may decline to sign it
+(b) Municipal Bodies (c) He may return it to Parliament for re-
+(c) State Legislative Council
+consideration
+(d) None of the above
+(d) He may amend it
+78. How many times can the President of In-
+87. Who presides over the Lok Sabha if nei-
+dia return a non-money Bill, passed by
+ther the Speaker nor the Deputy Speaker
+parliament?
+is available?
+(a) Twice (b) Once
+(a) A member of the House of People ap-
+(c) Thrice (d) Never
+pointed by the President
+79. Which of the following states does not
+(b) A member chosen by Council of Min-
+have a bicameral legislature?
+isters
+(a) Bihar (b) Karnataka
+(c) The senior most member of the Rajya
+(c) Rajasthan (d) Maharashtra
+Sabha
+80. The Constitution of India does not men-
+(d) The senior most member of the Lok
+tion the post of
+Sabha
+(a) the Deputy Chairman of the Rajya
+88. Disputes regarding the election of the
+Sabha
+Vice-President are decided by
+(b) the Deputy Prime Minister
+(a) the Supreme Court
+(c) the Deputy Speaker of the Lok Sabha
+(b) the Parliament
+(d) the Deputy Speaker of the State Leg-
+(c) the Speaker
+islative Assemblies
+(d) the President
+81. To be appointed a judge of the Supreme
+89. India is a secular State because
+Court of India, a person should have been
+(a) state has no religion of its own
+an advocate of a High Court for at least
+(b) all religions are equally protected
+(a) 10 years (b) 12 years
+(c) there will be no discrimination on
+(c) 13 years (d) 15 years
+grounds of religion or caste
+82. India is federal, because it has
+(a) a bicameral legislature at the centre (d) All the above
+(b) an Election Commission 90. The administrators of Union Territories
+(c) Supreme Court and High Court are designated as
+(d) Prime Minister and Chief Minister (a) Administrators
+83. Provision for equal justice and free legal (b) Lieutenant Governor
+aid was added to the Constitution of India (c) Chief Commissioners
+by (d) All these
+(a) 42nd Amendment 91. The ……… decided in May 1949 that In-
+(b) 44th Amendment dia should become a Republic
+(c) 41st Amendment (a) Union Parliament
+(d) None of the above (b) President of India
+84. Which among the following is not Funda- (c) Constituent Assembly of India
+mental Right under Constitution of India (d) Prime Minister of India
+
+92. Is there provision in the Indian Constitu- (a) the Vice-President
+tion for post of Deputy Prime Minister (b) the Prime Minister
+(a) Yes (c) the President
+(b) No (d) the Deputy Speaker of the Lok Sabha
+(c) Yes, during an emergency 97. India adopted a federal system with a
+(d) None of the above strong center from
+93. In India a candidate is declared to be using (a) New Zealand (b) Australia
+illegal means in elections, if he (c) USA (d) Canada
+I. gives presents etc., to the voters, to 98. From which country’s Constitution the
+cast their votes in his favour Distribution of Powers between Union
+II. threatens the voters to cast their votes
+and the State have been borrowed?
+in his favour
+(a) Germany (b) British
+III. appeals for votes on ground of his
+(c) US (d) Canada
+own religion
+99. What is ‘zero hour’?
+IV. tries to criticize other candidates
+(a) When the proposals of the opposition
+(a) I, II, III and IV are correct
+are considered
+(b) I, II and III are correct
+(b) When matters of utmost importance
+(c) I, III and IV are correct
+are raised
+(d) II, III and IV are correct
+(c) Interval between the morning and af-
+94. Election Commission of India is a
+ternoon sessions
+(a) Constitutional body
+(d) When a Money Bill is introduced in
+(b) Political body
+the Lok Sabha
+(c) Quasi-Judicial and Quasi-Political
+(e) None of these
+body
+100. In the case of a confl ict between the Centre
+(d) Both (a) and (b)
+95. There was a Constitutional amendment in and a State in respect of a subject included
+India arising out of the Shah Bano case– in the Concurrent List
+Muslim Women (Protection of Rights) on (a) the State Law prevails
+Divorce Act, 1986 (b) the Union Law prevails
+(a) True (b) False (c) the matter is resolved by the Supreme
+(c) Partly true (d) None of the above Court
+96. The Speaker of the Lok Sabha has to ad- (d) the law which had been passed fi rst
+dress his letter of resignation to would prevail
+A
+NSWERS
+1. (b) 2. (c) 3. (d) 4. (c) 5. (c) 6. (d) 7. (d) 8. (a) 9. (a) 10. (b)
+11. (b) 12. (d) 13. (a) 14. (a) 15. (d) 16. (b) 17. (a) 18. (c) 19. (c) 20. (c)
+21. (a) 22. (a) 23. (a) 24. (d) 25. (a) 26. (d) 27. (a) 28. (b) 29. (a) 30. (d)
+31. (c) 32. (a) 33. (a) 34. (d) 35. (a) 36. (d) 37. (d) 38. (b) 39. (b) 40. (b)
+41. (c) 42. (c) 43. (a) 44. (b) 45. (c) 46. (d) 47. (a) 48. (c) 49. (b) 50. (c)
+51. (a) 52. (b) 53. (c) 54. (b) 55. (a) 56. (d) 57. (d) 58. (d) 59. (b) 60. (a)
+61. (c) 62. (a) 63. (c) 64. (a) 65. (d) 66. (c) 67. (d) 68. (a) 69. (d) 70. (b)
+71. (a) 72. (c) 73. (b) 74. (b) 75. (c) 76. (a) 77. (c) 78. (b) 79. (c) 80. (b)
+81. (a) 82. (a) 83. (c) 84. (a) 85. (a) 86. (d) 87. (d) 88. (a) 89. (d) 90. (d)
+91. (c) 92. (b) 93. (b) 94. (a) 95. (a) 96. (d) 97. (d) 98. (d) 99. (c) 100. (b)
+
+MOCK TESTS 299
+P P 8
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. Principal laid down in a judgment is (a) 5 years (b) 2 years
+(a) Res judicata (c) 3 years (d) 6 years
+(b) Law 11. Which article of the Constitution disqual-
+(c) Ratio decidendi ify the holders of offi ce of profi t from be-
+(d) Obiter dicta ing the member of Parliament
+2. Who is associated with Drafting of Indian (a) 100 (b) 102
+Penal Code (c) 110 (d) 120
+(a) Ambedkar 12. Decree means
+(b) Sir Woodroof and Amirali (a) Informal expression of adjudication
+(c) Lord Macaulay (b) Formal expression of an adjudication
+(d) Mulla but shall not include any adjudication
+3. Culpable homicide is defi ned in the Indian from which an appeal lies
+Penal Code, Section (c) Formal expression of adjudication
+(a) 299 (b) 300 (d) All the above
+(c) 301 (d) 307 13. Cognizable offence has been defi ned in
+4. Murder is defi ned in the Indian Penal the Code of Criminal Procedure
+Code, Section (a) Under Section 2(a)
+(a) 299 (b) 300 (b) Under Section 2(i)
+(c) 301 (d) 307 (c) Under Section 2(c)
+5. Time limit for fi ling different kinds of suit (d) Not defi ned
+is prescribed in 14. A Magistrate can direct the investigation
+(a) CPC (b) IPC into a cognizable offence by
+(c) Limitation Act (d) High Court Rules (a) Any Police offi cer
+6. A person whose guardian is appointed (b) Superior Police offi cer under Sec.36
+during his minority, becomes a major at of Cr. P.C.
+the age of ____ years (c) Station House Offi cer
+(a) 31 (b) 21 (d) C.B.I.
+(c) 28 (d) 18 15. In a bailable offence, the bail granted as a
+7. When a person to be prosecuted for com- matter of right
+mitting a criminal offence, the burden of (a) By the court
+proof is on (b) By the police offi cer and the court
+(a) Court (b) Police (c) By the police offi cer
+(c) Himself (d) Prosecution (d) Either (a) or (b)
+8. “Courts and their Judgments: Promises, 16. Every sentence of death passed by the
+Requisites and Consequences” is a book Court of Sessions shall be submitted to the
+written by High Court
+(a) Vikram Seth (b) Ram Jeth Malani (a) For review
+(c) Arun Shourie (d) None (b) For revision
+9. Judges for International Court of Justice is (c) For confi rmation
+elected for……years (d) None of these
+(a) 5 (b) 10 17. When any person is sentenced to death,
+(c) 9 (d) 6 the sentence shall direct that he be
+10. What is the tenure of the President of In- (a) hanged till he is dead
+ternational Court (b) hanged by neck till death
+
+(c) hanged by neck (a) Offence (b) Both
+(d) None of these (c) Prosecution (d) None
+18. “Roses in December” was written by 29. In which of the following cases the Su-
+(a) Arun Shourie (b) M. C. Chagla preme Court has held that right to fair trial
+(c) H. R. Khanna (d) Hidayatullah is a part of Article 21 of Constitutions of
+19. A police offi cer cannot investigate a India
+______ without the orders of a Magistrate (a) Mohammed Ahmad Khan vs Shah
+(a) Non bailable case Bano Begum
+(b) Bailable case (b) Joginder Nahak vs State of Orissa
+(c) Non cognizable case (c) A. R. Antulay vs R. S. Naik
+(d) Cognizable case (d) Samta Singh vs State of Punjab
+20. Jurisdiction to grant anticipatory bail un- 30. A person can be summoned as a witness
+der section 438 of Cr. P.C. vests with under section 160 of Cr. P.C. by;
+(a) The High Court (a) any Police Offi cer
+(b) The Court of Sessions and the High (b) An Investigation Offi cer
+Court (c) The Station House Offi cer
+(c) The Court of Sessions (d) A Magistrate
+(d) The Court of Magistrate 31. A sessions Judge can pass
+21. A Magistrate can take cognizance of an of- (a) Sentence up to life imprisonment
+fence (b) Any sentence
+(a) Upon a complaint (c) Any sentence except death sentence
+(b) Suo Moto
+(d) Sentence up to 10 years
+(c) Upon a police report
+32. In kidnapping, the consent of minor is
+(d) Any of the above
+(a) Partly material
+22. Right to speedy trial is guaranteed under
+(b) Wholly material
+(a) Cr. P.C.
+(c) Wholly immaterial
+(b) Article 22 of the Constitution of India
+(d) Party immaterial
+(c) Article 21 of the Constitution of India
+33. Use of violence by a member of assembly
+(d) In special laws
+consisting of 12 persons in furtherance of
+23. Grievous hurt is defi ned in section
+their common object will constitute
+(a) 319 (b) 320
+(a) Unlawful assembly
+(c) 338 (d) 351
+(b) Assault
+24. Permanent deprivation of the sight of ei-
+(c) Rioting
+ther eye is an offence of
+(d) Affray
+(a) Grievous hurt (b) Assault
+34. A person who consents, suffer no injury is
+(c) Hurt (d) None of these
+known as
+25. The guidelines have been laid down by the
+(a) Sensus verborem est anima legis
+Supreme Court regarding the rights of ac-
+(b) Actus non facit reum nisi mens sit rea
+cused at the stage of arrest in
+(c) Res judicata pro veritate accipitur
+(a) A. K. Gopalan vs State of Mardar
+(d) Volenti non fi t injuria
+(b) A. R. Antuly vs R. S. Naik
+35. Offence of theft is related to
+(c) State of Haryana vs Bajanlal
+(a) Property only
+(d) D. K. Basu vs State of West Bengal
+(b) Movable property only
+26. The inherent powers of the High Court are
+(c) Immovable property only
+contained in
+(d) All of these
+(a) Section 492 of CrPc
+36. A instigates B to murder D. B refuses to
+(b) Section 472 of CrPc
+do so. Murder did not take place. What of-
+(c) Section 482 of Cr.Pc
+fence is A is guilty of?
+(d) Section 462 of Cr.Pc
+(a) No offence
+27. Which of the following forms part of the
+(b) Murder
+substantive law
+(c) A abetting B to commit
+(a) Prosecution (b) Offence
+(d) Conspiracy
+(c) Both (d) None
+28. Which of the following forms part of the 37. The essential ingredients of a crime are
+procedural law (a) Knowledge, intention and action
+
+MOCK TESTS 301
+(b) Motive, intention and knowledge 48. The offence of theft is covered by section
+(c) Motive, means rea and actus reus ….IPC
+(d) Actus reus and mens rea (a) 393 (b) 378
+38. The involvement of fi ve or more persons (c) 365 (d) 324
+is essential for 49. A proposal when accepted becomes
+(a) Robbery (b) Dacoity (a) Offer (b) Promise
+(c) Extortion (d) Theft (c) Contract (d) Agreement
+39. Robbery becomes dacoity when commit- 50. A minor’s agreement is void. This propo-
+ted conjointly by sition is made in
+(a) At least ten persons (a) Nihal Chand vs Jan Khan
+(b) More than two persons but less than (b) Mohari Beevi vs Dharmodas Ghosh
+fi ve persons (c) Sreekrishnan vs Kurukshethra Uni-
+(c) Five persons or more versity
+(d) Two persons (d) Nanjappa vs Muthuswamy
+40. Homicide literally means 51. ‘Damages’ are awarded except in one
+(a) The punishment of death case
+(b) Killing of animals (a) Tort
+(c) Murder (b) Breach of contract
+(d) Killing of a human being by another (c) Libel Suit
+human being (d) Criminal conduct
+41. What is the punishment in the IPC substi- 52. Deceit is
+tuted for ‘transportation for life
+(a) A tort
+(a) Rigorous imprisonment
+(b) A crime
+(b) Death
+(c) A breach of contract
+(c) Imprisonment for life
+(d) Both (a) and (b)
+(d) Fine
+53. What is mean by affi davit?
+42. Murder is punishable with
+(a) Evidentiary Document
+(a) imprisonment for 10 years
+(b) Document
+(b) imprisonment for life or imprison-
+(c) Letter of oath
+ment for 10 years
+(d) A request made to the court
+(c) death or imprisonment for life
+54. The doctrine of stare decisis is a feature of
+(d) death
+Common Law. This means that
+43. Attempt to commit suicide is an offence
+(a) the decision stares at the judge
+under section of IPC
+(b) precedents possess law quality in
+(a) 360 (b) 405
+themselves and are binding
+(c) 309 (d) 300
+(c) decision of High Court is ‘Law’ even
+44. ‘Dowry death’ has been explained in sec-
+through it is not binding on any Court
+tion of IPC
+except those subordinate to it
+(a) 302 (b) 303
+(d) None of the above defi nitions are cor-
+(c) 310 (d) 304-B
+rect
+45. There are____ sections in Indian Penal
+55. A ratio decidendi means
+Code
+(a) The proportion of justice in a case
+(a) 155 (b) 716
+(b) The principle upon which a case was
+(c) 511 (d) 617
+decided
+46. For conspiracy, the minimum number of
+(c) The decisive facts of the case
+persons required is
+(d) None of these
+(a) 5
+56. Central Ordinance is the Law making
+(b) 1
+power of President of India during
+(c) 2
+(a) recess of Parliament
+(d) No minimum requirement
+(b) recess of State Legislature
+47. Is intention a mental condition?
+(c) any time
+(a) Depends
+(d) during emergency
+(b) Yes
+(c) None of the above 57. How many times has the President of In-
+(d) No dia declared Financial Emergency so far?
+
+(a) Once (b) Thrice (b) Prime Minister
+(c) 4 times (d) Never (c) International Court of Justice
+58. Any person in case of violation of funda- (d) None of the above
+mental right under the Constitution of In- 67. The Head of a State in India is known as
+dia can go to the High Court under (a) Governor General
+(a) Article 222 of Constitution (b) Governor
+(b) Article 226 of Constitution (c) Chief Minister
+(c) Article 220 of Constitution (d) Chief Justice
+(d) Article 32 of Constitution 68. The right to vote in India is based on the
+59. In the case of violation of fundamental principle of
+rights under the Constitution of India any (a) restricted franchise
+person can go to Supreme Court (b) hereditary privileges
+(a) under Article 332 of the Constitution (c) proprietary qualifi cations
+of India (d) universal adult franchise
+(b) under Article 226 of the Constitution 69. ………. is the Commander-in-Chief of the
+of India Defence Forces of India
+(c) under Article 32 of the Constitution of (a) Prime Minister
+India (b) President
+(d) under Article 19 of the Constitution of (c) Defence Minister
+India (d) Army Chief
+60. The Preamble of Constitution of India is 70. The Indian Parliament is based on the
+also always subjected for comments by Principle of
+Supreme Court for next to be amended. (a) Unicameralism
+But how many times the Preamble of Con- (b) Nomination
+stitution has been amended so far? (c) Bicameralism
+(a) Once (42nd Amendment) (d) Hereditary principle
+(b) Twice 71. ….. is an inquiry into cause of death
+(c) Thrice (a) Coronation (b) Inquest
+(d) 4 times (c) Investigation (d) Subpoena
+61. Rape is provided as an offence under I.P.C. 72. Justice is the ………….
+Section (a) Means, end (b) Cause, effect
+(a) 375 (b) 378 (c) Effect, cause (d) End, means
+(c) 403 (d) 405 73. Audi aultrem paltrem means
+62. Sexual intercourse by a man with his own (a) No one should be condemned un-
+wife is a rape if she is below the age of heard
+(a) 18 years (b) 15 years (b) When the thing speaks for itself
+(c) 16 years (d) 17 years (c) It is a principle of extradition law
+63. Theft is defi ned in the I.P.C. Section (d) None of these
+(a) 375 (b) 377 74. Res ispa loquitur means
+(c) 378 (d) 383 (a) No one should be condemned un-
+64. Theft is offence against heard
+(a) Movable property only (b) When the thing speaks for itself
+(b) Immovable property only (c) It is a principle of extradition law
+(c) Movable and immovable both (d) None of these
+(d) None of these 75. Volenti non fi t injuria means
+65. What is a ‘congnizance’? (a) No wrong is done to one who con-
+(a) Arousing judicial notice or knowl- sents
+edge (b) No one should be condemned un-
+(b) It is a crime heard
+(c) It means custody without warrant (c) When the thing speaks for itself
+(d) It means custody with warrant (d) It is a principle of extradition law
+66. A judgment passed by the Supreme Court 76. Under which Act in India it was provided
+of India can be reviewed only by that women doing similar work to men,
+(a) President would qualify for equal pay?
+
+MOCK TESTS 303
+(a) Protection of Women’s Rights Act, to avoid legal proceed-
+1980 ings.
+(b) Equal Remuneration Act, 1976 B. Abortion 2. The termination of a
+(c) Workmen’s Compensation Act, 1948 pregnancy, a miscar-
+(d) Gender Equality Act, 1976 riage or the premature
+77. How many members have to support a no- expulsion of a foetus
+confi dence motion to move in Parliament from the womb before
+of India the normal period of
+(a) 45 members (b) 50 members gestation is complete.
+(c) 100 members (d) 150 members C. Absconding 3. Wrongfully taking
+78. Who decides on the holding of elections to away or detaining an-
+the Panchayat in India? other person, usually
+(a) Central Government by force or fraud.
+(b) State Government A B C
+(c) Election Commission (a) 3 2 1
+(d) Regional Election Commissioner (b) 1 3 2
+79. Attorney-General for India shall receive (c) 1 2 3
+such remunerations as (d) 2 3 1
+(a) prescribed by law 86. Parliament of India cannot amend
+(b) determined by the President (a) fundamental rights
+(c) determined by the Parliament (b) basic structure of the Constitution
+(d) None of the above (c) powers of the Supreme Court
+80. What is true with the Speaker of Parlia- (d) None of the above
+ment of India in case of equality of votes 87. The Chairman of the Drafting Committee
+in joint sitting was
+(a) Speaker can cast his vote in case of (a) C. D. Deshmukh
+tie (b) B. N. Rau
+(b) Speaker cannot cast his vote (c) Dr B. R. Ambedkar
+(c) Speaker will permit any member to (d) Jaiprakash Narayan
+recast 88. The Constitution of India is
+(d) Speaker will request to Prime Minis- (a) wholly written Constitution
+ter to cast his vote (b) partly based on judicial decision
+81. The Prime Minister of India is (c) unwritten Constitution based on cus-
+(a) defecto head toms
+(b) de jure head (d) based on ancient Indian traditions ad-
+(c) neither (a) nor (b) opted by the Constituent Assembly
+(d) real head 89. The country that does not have a written
+82. Delegates non potest delegare Constitution is
+(a) Delegated legislation cannot be fur- (a) Britain (b) Pakistan
+ther delegated (c) Canada (d) India
+(b) Delegated legislation is meant to be 90. Which among the following can authorize
+further delegated Panchayats to Levy Local Taxes in India?
+(c) Neither (a) nor (b) (a) State Legislature
+(d) Both (a) and (b) (b) Central Government
+83. A person who is capable of wrong is (c) Central Board of Direct Taxes
+known as (d) Central Board of Indirect Taxes
+(a) doli capax (b) doli incapax 91. Among which of the following case the
+(c) neither (a) nor (b) Supreme Court held that, there is no mor-
+84. A person who is incapable of wrong is al, fundamental or legal rights or equitable
+known as jurisdiction to go on strike by the govern-
+(a) doli capax (b) doli incapax ment employees?
+(c) neither (a) nor (b) (a) T. K. Rangarajan vs Government of
+85. A. Abduction 1. The failure of a person Tamil Nadu
+to surrender to the cus- (b) Dwarka Prasad Agarwal vs B.D.
+tody of a court in order Agarwal
+
+(c) Union of India vs Rajiv Kumar, (d) Leader of opposition party
+A.I.T.U.C. vs Union of India 97. The Prime Minister of India is the head of
+(d) A. K. Puriwar vs T. N. Muthy (a) State
+92. In which case, Supreme Court held the (b) Government
+Parliament has no power to amend Funda- (c) Both (a) and (b)
+mental Rights? (d) None of the above
+(a) Golaknath case 98. Who among the following presides over
+(b) Sajjan Singh case the meetings of Council of Minister in
+(c) Shankri Prasad case Parliament of India?
+(d) None of the above (a) President
+93. In ….. Supreme Court held that Preamble (b) Prime Minister
+is a basic feature of Constitution and can- (c) Cabinet Secretary
+not be amended. (d) Vice-President
+(a) Keshvanand Bharti case 99. Which among the following Vice-Presi-
+(b) Golaknath case dents in India resigned from his offi ce to
+(c) Minerva Mills case contest for the post of President?
+(d) None of the above (a) N. Sanjeeva Reddy
+94. ‘Ultra Vires’ is a term used for (b) V. V. Giri
+(a) A document corrupted by virus (c) Fakhruddin Ali Ahmad
+(b) An act beyond the authority of a per- (d) R. Venkataraman
+son 100. Give response to the true statement
+(c) An act authorized by law (a) No court has power to compel the
+(d) An illegal act Governor to exercise or not to exer-
+95. To betray a nation is an offence and pun- cise any power or to perform or not to
+ishable with death, that is perform any duty
+(a) Sedition (b) Treachery (b) The Governor cannot be prosecuted in
+(c) Treason (d) Anti-nationality a civil and criminal court for any act
+96. Prime Minister of India is of omission or commission during the
+(a) leader of majority party in the Lok period he holds offi ce
+Sabha (c) Both above statements are correct
+(b) senior most Member of Lok Sabha (d) Statement (a) is correct while (b) is
+(c) President’s nominee not
+A
+NSWERS
+1. (c) 2. (c) 3. (a) 4. (b) 5. (c) 6. (b) 7. (d) 8. (c) 9. (d) 10. (c)
+11. (b) 12. (b) 13. (a) 14. (b) 15. (b) 16. (c) 17. (a) 18. (b) 19. (c) 20. (b)
+21. (d) 22. (c) 23. (b) 24. (a) 25. (d) 26. (c) 27. (b) 28. (c) 29. (c) 30. (d)
+31. (b) 32. (c) 33. (d) 34. (d) 35. (b) 36. (c) 37. (c) 38. (a) 39. (a) 40. (d)
+41. (a) 42. (c) 43. (c) 44. (d) 45. (c) 46. (c) 47. (b) 48. (b) 49. (d) 50. (b)
+51. (d) 52. (d) 53. (c) 54. (b) 55. (b) 56. (a) 57. (d) 58. (b) 59. (c) 60. (a)
+61. (a) 62. (c) 63. (c) 64. (a) 65. (a) 66. (d) 67. (b) 68. (d) 69. (b) 70. (c)
+71. (c) 72. (d) 73. (a) 74. (b) 75. (a) 76. (d) 77. (c) 78. (d) 79. (b) 80. (a)
+81. (a) 82. (a) 83. (a) 84. (b) 85. (a) 86. (b) 87. (c) 88. (a) 89. (a) 90. (a)
+91. (a) 92. (b) 93. (a) 94. (b) 95. (c) 96. (a) 97. (b) 98. (b) 99. (b) 100. (c)
+
+MOCK TESTS 305
+P P 9
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. What among the following relates to main (b) We, the people of Constituent Assem-
+sanction behind the Fundamental Duties bly…. adopt, enact and give to India
+in Constitution of India? this Constitution
+(a) Legal Sanction (c) We, the citizens of India….adopt, en-
+(b) Social Sanction act and give to ourselves this Consti-
+(c) Moral Sanction tution
+(d) Fundamental Sanction (d) We, the people of India….in our Con-
+2. Zonal Councils in India are stituent Assembly…adopt, enact and
+(a) law making bodies give to ourselves this constitution
+(b) dispute settling agencies 9. The insertion of ‘Liberty, Equality and
+(c) administrative bodies Fraternity’ was derived from
+(d) advisory bodies (a) American revolution
+3. Which is the most active Committee of the (b) French revolution
+Cabinet of Government of India
+(c) Russian revolution
+(a) Committee on Economic Affairs
+(d) None of these
+(b) Committee on Political Affairs
+10. What is the salary of President?
+(c) Committee on Appointments
+(a) ` 45,000 (b) ` 50,000
+(d) None of the above
+(c) ` 30,000 (d) ` 1,20,000
+4. India consists of
+11. Which among the following Indian Con-
+(a) 21 States (b) 24 States
+stitutional Amendments included 4 more
+(c) 28 States (d) 25 States
+languages in the Eighth Schedule to the
+5. Who among the following appoints mem-
+Constitution of India?
+bers of Union Public Service Commission
+(a) 92nd Amendment, 2003
+in India?
+(b) 91st Amendment, 2003
+(a) President of India
+(c) 90th Amendment, 2003
+(b) Prime Minister of India
+(d) 89th Amendment, 2003
+(c) Chief Justice of India
+12. The ideals of liberty, equality and frater-
+(d) Law Minister of India
+nity enshrined in the Constitution of India.
+6. The Constituent Assembly for undivided
+This was followed from
+India fi rst met on
+(a) American Revolution
+(a) 6 December 1946
+(b) French Revolution
+(b) 9 December 1946
+(c) 20 February 1947 (c) 1957 Indian Revolt
+(d) 3 June 1947 (d) Russian Revolution
+7. Secularism means 13. Constitution of India was inaugurated on
+(a) Suppression of all religions 26 January 1950. What was exact status of
+(b) Freedom of worship to minorities India on that day?
+(c) Separation of religion from State (a) A Democratic Republic
+(d) A system of political and social phi- (b) Sovereign Democratic Republic
+losophy that does not favour any par- (c) Sovereign, Socialistic, Secular Demo-
+ticular religious faith cratic Republic
+8. The Preamble to the Indian Constitution (d) Sovereign, Secular, Democratic Re-
+reads public
+(a) We, the people of India….adopt, enact 14. The languages “Maithili” and “Santhali”
+and give to India this Constitution are
+
+(a) recognized in Constitution of India 22. Residuary power of legislation in India in
+(b) not recognized in Constitution of In- the case of Jammu and Kashmir belongs
+dia to
+(c) recognized in the Citizenship Act, (a) State
+1955 (b) Union
+(d) recognized in Citizenship Act, 1955 (c) Supreme Court
+15. Which among the following is not a con- (d) Election Commission
+dition for becoming a citizen of India? 23. In India while imposing reasonable re-
+(a) citizenship by descent strictions on the right to assemble peace-
+(b) citizenship by birth fully and without arms, one of the follow-
+(c) citizenship through acquisition of ing considerations is material
+property (a) the security of the President
+(d) citizenship by naturalization (b) the morality or integrity of the public
+16. Which of the following is Fundamental (c) the interest of sovereignty and integ-
+duty of an Indian citizen? rity of India or public order
+(d) public interest
+(a) To cast his vote during election.
+24. Nagar Panchayat in India is called
+(b) To develop scientifi c temper and spirit
+(a) Municipal institutions for transitional
+of inquiry.
+area
+(c) To work for removal of illiteracy.
+(b) Panchayat for transitional area
+(d) To honour the elected leaders.
+(c) Tehsil for the transitional area
+17. The Rajya Sabha is a permanent house
+(d) Block headquarter for transitional
+but
+area
+(a) one-half of its members retire every
+25. The Lok Adalats in India can deal with the
+two years
+matter of
+(b) one-fi fth of its members retire every
+(a) pending cases in the courts only
+year
+(b) new cases in the courts only
+(c) one-third of its members retire every
+(c) all cases which pending before court,
+two years
+and new cases come under the juris-
+(d) one-half of its members retire every
+diction
+three years
+(d) None of the above
+18. The Chairman of the Rajya Sabha
+26. How many times has the Preamble of the
+(a) is nominated by the President
+Indian Constitution been amended so far?
+(b) is elected by the members of Rajya
+(a) thrice (b) twice
+Sabha
+(c) once (d) never
+(c) is elected by the members of Lok Sab-
+27. The basic condition imposed on the citi-
+ha and Rajya Sabha jointly
+zen’s right to assemble is that the assem-
+(d) None of the above
+bly should be
+19. In which of the following points is the In-
+(a) peaceful
+dian Constitution similar to that of USA?
+(b) non-violent
+(a) Rigid Constitution (c) peaceful and unarmed
+(b) Rule of Law (d) for constructive aims
+(c) Fundamental Rights 28. Who is the longest serving Chief Minister
+(d) Directive Principles of State Policy in India?
+20. Disputes regarding the election of the (a) Bhajan Lal
+Vice-President are decided by (b) Hiteshwar Saikia
+(a) the Supreme Court (c) Chimanbhai Patel
+(b) the Parliament (d) Jyoti Basu
+(c) the Speaker 29. The Constitution of India vests the execu-
+(d) the President tive power of the Indian Union in
+21. The electorate for a Panchayat election in (a) the President
+India is the (b) the Parliament
+(a) Tehsil (b) Panchayat Samiti (c) the Council of Ministers
+(c) Gram Sabha (d) None of the above (d) the Prime Minister
+
+MOCK TESTS 307
+30. Vote on account is made by the Lok Sab- 35. On what basis Lok Sabha seats in Par-
+ha liament of India are allotted in various
+(a) to meet expenditure on unexpected states?
+demand (a) population (b) territory
+(b) to meet expenditure on secret service (c) poverty line (d) literacy
+(c) to meet the additional expenditure in- 36. When can a President refer a matter to the
+curred by the government on any ap- Supreme Court for its opinion?
+proved item of expenditure during the (a) When the President feels like it
+supplementary budget (b) When a matter is of public impor-
+(d) to meet expenditure for a period be- tance
+fore passing of the annual budget (c) When the Cabinet is not functioning
+31. Article 352 of Constitution of India pro- properly
+vides for (d) When emergency has to be promul-
+(a) National Commission for Scheduled gated
+Castes and Scheduled Tribes 37. Who is entitled to initiate a Bill for Consti-
+(b) Proclamation of emergency tutional amendments?
+(c) Special provision for Anglo-Indian (a) State Legislative Assemblies
+community in certain services (b) Lok Sabha only
+(d) Appointment of a Commission to in- (c) Either House of Parliament
+vestigate the conditions of backward (d) Rajya Sabha only
+classes 38. The words ‘social, secular’ and ‘the uni-
+32. Article 24 of Constitution of India prohib- ty and integrity of the nation’ have been
+its employment of children in factories. added to the Indian Constitution by which
+According to it amendment?
+(a) children below 14 years of age shall (a) 38th (b) 40th
+not be employed in a coal mine or fac- (c) 42nd (d) 48th
+tory 39. By which amendment was the power of
+(b) a child below 14 years of age shall not the Lok Sabha to amend the Constitution
+be employed to work in any hazard- affi rmed?
+ous employment (a) 24th (b) 42nd
+(c) a child below 14 years shall not be (c) 43rd (d) 39th
+employed in a factory or a mine or any 40. At present the Supreme Court consists of
+hazardous employment how many judges besides the Chief Jus-
+(d) Both (a) and (b) tice?
+33. Right to Property in India is a (a) 20 (b) 18
+(a) Fundamental Right (c) 24 (d) 25
+(b) Legal right and Constitutional Right 41. Article 30 (1) of Constitution of India the
+(c) Fundamental Duty right to establish and administer educa-
+(d) None of the above tional institution belongs to
+34. As regards the impeachment of the Presi- (a) religious and linguistic minorities
+dent of India (b) minorities as well as majorities
+(a) any citizen can prefer the charge (c) all citizens of India
+(b) any charge can be preferred only by (d) all people of India
+a resolution moved by not less than 42. The word ‘practice’ mentioned in Article
+one-half of the total number of the 25 of Constitution of India does not in-
+members of the House straightway clude
+(c) a resolution moved after, at least, (a) propagation (b) religious worship
+fourteen days’ notice in writing signed (c) rituals (d) observations
+by not less than one-fourth of the total 43. The Council of Minister remains in offi ce
+members of the House and passing of as long as it enjoys the confi dence of
+such resolution by a majority of not (a) President of India
+less than two-thirds of the total mem- (b) Parliament of India
+bership of the House (c) Lok Sabha of Parliament of India
+(d) None of the above (d) Prime Minister of India
+
+44. Which of the following are included in the (a) Contract of guarantee
+concept of ‘the State’ under Article 12 of (b) Contract of indemnity
+Constitution of India (c) Contingent contract
+(a) Railway Board and Electricity Board (d) Unlawful Contract
+(b) University 53. In Unnikrishnan vs Calicut University,
+(c) Judiciary Unnikrishnan, a candidate for the L.L.B.
+(d) All the above Part-I exam, who was short of attendance,
+45. ‘Court fee’ taken by High Court in India did not mention that fact himself in the ad-
+comes under mission form for the examination. Neither
+(a) Union List of Constitution of India the Head of the Law Department nor the
+(b) State List of Constitution of India University authorities made proper scru-
+(c) Concurrent List of Constitution of In- tiny to discover the truth. It was held by
+dia the Supreme Court that
+(d) Decided by the Supreme Court of In- (a) There was fraud by the candidate
+dia (b) There was misrepresentation by the
+46. Who heads the new Commission on Cen- candidate
+tre–State relations appointed by the gov-
+(c) There was no fraud by the candidate
+ernment in April 2007?
+(d) None
+(a) M. M. Punchhi
+54. A proposal can be accepted
+(b) M. Veerappa Moily
+(a) By performance of condition
+(c) K. C. Pant
+(b) By notice
+(d) N. R. Madhav Menon
+(c) By acceptance of consideration for a
+47. In 2006 President Abdul Kalam sent back
+reciprocal promise
+a bill passed by Parliament for reconsid-
+(d) All the above
+eration. The Bill related to
+55. A tender is
+(a) reservations for the OBCs
+(a) An agreement
+(b) 56 offi ces of profi t
+(b) A proposal
+(c) state funding of elections
+(c) An invitation to offer
+(d) None of the above
+(d) An offer
+48. Which one of the following states is re-
+56. The person accepting the proposal is
+garded as the pioneer of the Right to In-
+called
+formation in India?
+(a) Promisor (b) Promise
+(a) Rajasthan
+(c) Acceptor (d) Offered
+(b) West Bengal
+57. A contracts to pay to B ` 1,000/- if B’s
+(c) Himachal Pradesh
+house is burnt. This is a
+(d) Kerala
+(a) Voidable contract
+49. Under whose Prime Ministership was the
+(b) Wagering contract
+anti-defection law passed?
+(c) Contingent contract
+(a) Rajiv Gandhi (b) Indira Gandhi
+(d) None
+(c) V. P. Singh (d) A. B. Vajpayee
+58. Ultra vires implies
+50. What is ‘cognizance’?
+(a) Arousing judicial notice or knowl- (a) a writ
+edge (b) pending before court
+(b) It is a crime (c) Beyond one’s power
+(c) It means custody without warrant (d) Beyond one’s knowledge
+(d) It means custody with warrant 59. “Law is an ass” who said this?
+51. When the consent of a party to a contract (a) Locke
+has been obtained by undue infl uence, (b) Marx
+fraud or misrepresentation the contract is (c) Charles Dickens
+(a) Legal (b) Void (d) Abrahim Lincoln
+(c) Voidable (d) Enforceable 60. The Right to Information Act, 2005 re-
+52. “A contract to do or not to do something, pealed:
+if some event collateral to such contract (a) The Freedom of Information Act,
+does or does not happen” is called 2005.
+
+MOCK TESTS 309
+(b) The Freedom of Information Act, (b) Bankers Book of evidence
+2000. (c) Negotiable Instruments Act
+(c) The Freedom of information Act, (d) None of these
+2003. 71. Innuendo hints at
+(d) None of these (a) Slander (b) Defamation
+61. Transfer of Property Act 1882 covers (c) Insuniation (d) Libel
+(a) Movable property 72. Which court nullifi ed Mrs Indira Gandhi’s
+(b) Immovable property election to Lok Sabha in 1975?
+(c) Both (a) and (b) (a) Supreme Court of India
+(d) None of the above (b) Allahabad High Court
+62. Sarada Act is called (c) Delhi High Court
+(a) Domestic Violence Act (d) Bombay High Court
+(b) Special Marriage Act 73. The Shah Bano case related to
+(c) Dowry Prohibition Act (a) Muslim wife’s right to divorce
+(d) Child Marriage Restraint Act (b) Muslim wife’s right to husband’s
+63. Which Parliamentary Committee in In- property
+dian system is chaired by the member of (c) Muslim wife’s right to maintenance
+opposition party? after divorce
+(a) Joint Parliamentary Committee (d) Muslim wife’s right to separation
+(b) Public Accounts Committee 74. Which of the following are associated
+(c) Estimates Committee with the process of planning in India?
+(d) Privileges Committee 1. Indian Parliament
+64. A sentence of death by a lower court 2. Planning Commission
+(a) Must be confi rmed by the President 3. National Development Council
+(b) Must be confi rmed by Supreme Court 4. Finance Commission
+(c) Must be confi rmed by High Court (a) 1 and 2 (b) 1 and 4
+(d) Is operational if no appeal is made to (c) 2 and 3 (d) 2 and 4
+higher courts 75. Which one of the following motions is re-
+65. All plans, formulated by Planning Com- lated with the Union Budget?
+mission must be approved by (a) Adjournment motion
+(a) President (b) Cut motion
+(b) Parliament (c) Censure motion
+(c) National Development Council (d) None of the above
+(d) Union Cabinet 76. The House of Peoples (Lok Sabha) can be
+66. What is a caveat? adjourned sine die by
+(a) Writ (b) Certiorari (a) The Speaker
+(b) A warning (d) An injunction (b) The Prime Minister
+67. A person who makes an affi davit or depo- (c) The President
+sition in called (d) None of the above
+(a) Plaintiff (b) Witness 77. Which of the following is not true about
+(c) Deponent (d) Defendant the Supreme Court?
+68. Deceit is (a) It has only the Appellate jurisdiction
+(a) A crime (b) It is the highest federal court of India
+(b) A tort (c) It does not have the Original jurisdic-
+(c) Both (a) and (b) tion
+(d) A breach of contract (d) It can amend the Constitution
+69. ‘Stay Order’ has the effect of 78. Which of the following is correct regard-
+(a) Pro rata ing the Governor of a State?
+(b) Status quo (a) No Money Bill can be introduced in
+(c) stopping an order of lower court from the State Legislature without his prior
+working permission
+(d) sine die (b) He has the power of issuing ordinanc-
+70. Cheque is defi ned in es when the Legislature is not in ses-
+(a) Banking Regulation Act sion
+
+(c) He can recommend to the President to (a) The two Houses of the Parliament
+impose President’s Rule in the State pass a Bill by 2/3rd majority
+(d) All of the above (b) The President gets a Bill passed by the
+79. Is the Prime Minister bound to advise the simple majority of the State Legisla-
+President on matters on which his advice ture
+is sought? (c) The President calls for the views of
+(a) Yes the State and then the two Houses of
+(b) No Parliament pass a Bill to this effect by
+simple majority
+(c) It is discretionary
+(d) None of these
+(d) Yes, if the Council of Ministers so de-
+86. The President can make laws through or-
+sires
+dinances
+80. Public Interests Litigation (PIL), is one in
+(a) only on subjects contained in the Con-
+which
+current List
+(a) trial is held ‘in camera’
+(b) on certain subjects even when Parlia-
+(b) proceedings of the trial are not report-
+ment is in session
+ed to the press
+(c) during the recess of the Parliament
+(c) court gives precedence to public inter-
+(d) under no circumstances
+est over the points of law
+87. Which one of the following committees
+(d) issues of public interest are involved
+does not consist of any member from the
+and can be brought before the court by Rajya Sabha?
+any citizen (a) Estimates Committee
+81. In case of which of the following the meth- (b) Public Accounts Committee
+od of removal from offi ce is the same? (c) Public Grievances Committee
+I. A Judge of the Supreme Court (d) Committee on Public Undertakings
+II. Chief Election Commissioner 88. What is the minimum age for a person to
+III. President of India become eligible for the post of Prime Min-
+(a) I and II (b) II and III ister of India?
+(c) I and III (d) I, II and III (a) 21 years (b) 25 years
+82. The Fundamental duties are (c) 30 years (d) 35 years
+(a) enforceable at the pains of punish- 89. Supreme Court can grant ‘special leave’
+ment ‘to appeal against decisions of lower
+(b) not enforceable courts and tribunals by virtue of
+(c) useless (a) Section 10 of the Supreme Court
+(d) non-enforceable, but of educative val- Rules
+(b) Article 136 of the Constitution
+ue
+(c) Article 226 of the Constitution
+83. A person who has held offi ce as a Judge of
+(d) None of the above
+the Supreme Court
+90. Members of the Legislative Council (Vid-
+(a) can start legal practice in any court in
+han Parishad) are
+India after his retirement
+(a) directly elected
+(b) can start legal practice in Supreme
+(b) chiefl y nominated
+Court only after his retirement
+(c) elected by local bodies, graduates,
+(c) can start legal practice in a High Court
+teachers and partly nominated by the
+only after his retirement
+Governor
+(d) cannot start legal practice in any court
+(d) elected by the State Legislative As-
+in India after his retirement
+sembly
+84. The salaries and allowances of Union 91. One of the following is not a feature of a
+Ministers are determined by Money Bill:
+(a) President of India (a) It must be certifi ed by the Speaker of
+(b) Finance Commission the Lok Sabha
+(c) Parliament (b) Prior permission of the President is
+(d) Ministry of Parliamentary Affairs necessary for introducing it
+85. What procedure is followed if a new State (c) It can be introduced in Lok Sabha
+is to be formed by separation of territory only
+from any State of the Indian Union? (d) It can be stalled by Rajya Sabha
+
+MOCK TESTS 311
+92. All cases regarding the interpretation of 4. Booth capturers can be arrested and
+the Constitution can be brought to the Su- detained for 2 years
+preme Court under its Which of the above statements are true?
+(a) Appellate Jurisdiction (a) 1, 2 and 3 (b) All the four
+(b) Advisory Jurisdiction (c) 2 and 3 (d) 1, 2 and 4
+(c) Original Jurisdiction 97. Under what heading do the salaries of
+(d) None of the above Government servants come in the budget?
+93. Which Article of the Constitution stipu- (a) Capital outlay
+lates the establishment of a Public Service (b) Plan expenditure
+Commission for the Union and each of the
+(c) Current expenditure
+States?
+(d) None of the above
+(a) Article 360 (b) Article 315
+98. The right to vote in an election is
+(c) Article 395 (d) None of the above
+(a) Constitutional (b) Natural
+94. The provisions of Nagar Palika Act are
+(c) Statutory (d) Moral
+contained in
+99. Which of the following statements would
+(a) Tenth Schedule
+aptly describe the true nature of the Direc-
+(b) Eleventh Schedule
+tive Principles of State Policy?
+(c) Twelfth Schedule
+(a) Negative Injunctions
+(b) None of the above
+(b) Positive Instructions
+95. Finance Commission consists of
+(c) Utopian Ideals
+(a) A Chairman and four members
+(d) None of these
+(b) Five members
+100. The Speaker of the Lok Sabha will vacate
+(c) Chairman and three members
+his offi ce
+(d) None of the above
+96. Consider the following statements about (a) as soon as the Lok Sabha is dissolved
+booth capturing: (b) when the President asks him to va-
+1. Removing of boxes after electorates cate
+have voted (c) immediately before the fi rst meeting
+2. Preventing genuine persons from vot- of the newly elected Lok Sabha
+ing (d) when a vote of no-confi dence is passed
+3. Attacking the opposition candidate against the ruling party
+A
+NSWERS
+1. (c) 2. (d) 3. (b) 4. (c) 5. (a) 6. (b) 7. (d) 8. (d) 9. (b) 10. (d)
+11. (a) 12. (b) 13. (b) 14. (a) 15. (c) 16. (b) 17. (c) 18. (b) 19. (c) 20. (a)
+21. (c) 22. (a) 23. (d) 24. (a) 25. (c) 26. (c) 27. (c) 28. (d) 29. (a) 30. (a)
+31. (b) 32. (b) 33. (b) 34. (c) 35. (a) 36. (b) 37. (c) 38. (c) 39. (a) 40. (d)
+41. (a) 42. (d) 43. (c) 44. (d) 45. (b) 46. (a) 47. (b) 48. (b) 49. (a) 50. (a)
+51. (b) 52. (c) 53. (c) 54. (d) 55. (c) 56. (b) 57. (c) 58. (c) 59. (c) 60. (b)
+61. (b) 62. (b) 63. (b) 64. (c) 65. (c) 66. (b) 67. (d) 68. (c) 69. (c) 70. (c)
+71. (b) 72. (b) 73. (a) 74. (c) 75. (b) 76. (a) 77. (c) 78. (d) 79. (a) 80. (d)
+81. (d) 82. (d) 83. (d) 84. (c) 85. (c) 86. (c) 87. (b) 88. (b) 89. (a) 90. (c)
+91. (d) 92. (c) 93. (b) 94. (c) 95. (b) 96. (b) 97. (c) 98. (a) 99. (b) 100. (c)
+
+P P 10
+RACTICE APER
+Maximum Marks: 100 Marks 91–100—Outstanding
+Time: 30 Minutes Marks 81–90—Excellent
+Marks 71–80—Intelligent
+Marks 61–70—Good
+Marks 51–60—Average
+Marks Less than 50—Below Average
+1. ‘Ultra Vires’ is a term used for 8. “In any event, whatever system of Gov-
+(a) A document corrupted by virus ernment we may establish here must fi t in
+(b) An act beyond the authority of a per- with the temper of the people and be ac-
+son ceptable to them”. In was said by
+(c) An act authorized by law (a) Jawahar Lal Nehru
+(d) An illegal act (b) Dr B. R. Ambedkar
+2. To betray a nation is an offence and pun- (c) D. D. Basu
+ishable with death, that is (d) M. V. Pylee
+(a) Sedition (b) Treachery 9. The expression ‘every person’ in Article 5
+(c) Treason (d) Anti-nationality of Constitution of India, includes
+(a) prisoner
+3. The term res subjudice means
+(b) member of armed forces
+(a) A case has been decided by a court
+(c) persons living within the territory of
+(b) A case is pending before a court
+India
+(c) A case has been dismissed by a court
+(d) All the above
+(d) None of the above
+10. The term “law in force” in clause (3) of
+4. The Supreme Court in….case held that
+Article 13 of Constitution of India means
+Article 21 includes right to die
+(a) only statutory law
+(a) P. Rathinam/NagbhusanPatnaik vs
+(b) customs and usages only
+Union of India
+(c) both (a) and (b)
+(b) Dr M. Ismail Faruqui vs Union of In-
+(d) newly formed public order only
+dia
+11. The constitution gives the power of super-
+(c) K. Karunakaran vs State of U.P.
+intendence over all subordinate courts to
+(d) None of the above
+the High Courts under Article
+5. Public holidays are declared under
+(a) 229 (b) 226
+(a) Negotiable Instruments Act, 1881
+(c) 226 (d) 227
+(b) Contract Act, 1872
+12. The High Courts in India were fi rst started
+(c) Public Employees Act, 1967 at
+(d) None of the above (a) Madras and Bombay
+6. The solemn resolution in the Preamble of (b) Bombay, Madras, Calcutta
+Constitution of India is made in the name (c) Bombay, Delhi, Madras
+of (d) Delhi and Calcutta
+(a) People of India 13. The High Court enjoys the power
+(b) Constituent Assembly of free India (1) To issue writs for the enforcement of
+(c) Constitution of India Fundamental rights
+(d) Indian Independence Act, 1947 (2) To exercise superintendence over the
+7. ‘Fraternity’ means a ‘sense of common working of courts and tribunals under
+brotherhood to all Indians’ and is the prin- its jurisdiction
+ciple which gives unity and solidarity to (3) To make general rules and prescribe
+social life. It was said by forms regulating the practices and
+(a) Dr Rajendra Prasad proceeding of courts under its juris-
+(b) Dr B. R. Ambedkar diction
+(c) Jawahar Lal Nehru (a) (1) and (3) (b) (1), (2) and (3)
+(d) C. Rajagopalchari (c) (1) and (2) (d) (2) and (3)
+
+MOCK TESTS 313
+14. The High Court which has the distinction 21. The residuary powers mean the
+of having the fi rst woman Chief Justice is (a) powers shared between the Union and
+(a) Guwahati High Court State Government
+(b) Delhi High Court (b) powers related to country’s internal
+(c) Himachal Pradesh High Court affairs
+(d) Allahabad High Court (c) powers related to country’s external
+15. A retired judge of High Court cannot affairs
+(a) practice in any Court of India (d) powers not included in any of the
+(b) practice in any High Court of India three lists
+(c) practice in the High Court from where 22. By which constitutional amendment
+he has retired Panchayati Raj was introduced?
+(d) practice in the Supreme Court (a) 74th (b) 73rd
+16. The Judges of the High Court can be re- (c) 42nd (d) 44th
+moved from their offi ce during their ten- 23. From which country’s Constitution the
+ure Right to Equality have been borrowed?
+(a) by the Chief Justice on the advice of (a) Irish (b) Canada
+the President (c) British (d) US
+(b) by the Chief Justice on the recommen- 24. From which country’s Constitution the Ju-
+dation of the Parliament dicial Review have been borrowed?
+(c) by the Governor, if the State Legisla- (a) Irish (b) Canada
+ture passes a resolution to this effect (c) British (d) US
+by two-thirds majority 25. Which article defi nes Equality before law
+(d) by the President on the basis of a reso- and equal protection of law?
+lution passed by the Parliament by (a) Article 16 (b) Article 14
+two-thirds majority (c) Article 20 (d) Article 21
+17. A judicial Review means: 26. Parliament or a State Legislature in India
+(a) Powers of the courts to declare null can declare a seat vacant, if a member ab-
+and void any action by any organ of sents himself without notice from the ses-
+the Government if it is beyond the sion for more than
+powers granted by the Constitution (a) 30 days (b) 60 days
+(b) Review of the working of judiciary (c) 90 days (d) 120 days
+(c) Power of the Court to try cases 27. The right to vote in election in India is
+(d) Review of the judicial power of the (a) constitutional (b) natural
+judges (c) statutory (d) moral
+18. When the Vice-President acts as President 28. Match the following
+he gets the emoluments of I. Ad Verbatim
+(a) Vice-President II. Audi Alterm Partem
+(b) President III. Pro Bono Publico
+(c) President in addition to what he gets IV. Res Ipsa Loquitor
+as Chairman of Rajya Sabha A. Facts speak for themselves
+(d) Chairman of Rajya Sabha B. For the public
+19. The executive power is vested in the Pres- C. To hear
+ident but it is actually used by him on the D. Word to word
+advice of I II III IV
+(a) The Council of Ministers (a) D C B A
+(b) Parliament (b) A B C D
+(c) The Prime Minister (c) B A C D
+(d) None of these (d) A C B D
+20. What is the power of the Rajya Sabha with 29. The Contingency Fund of India has been
+regard to Money Bill? placed at the disposal of the
+(a) It can withhold it (a) President
+(b) It has no power (b) Prime Minister
+(c) It can amend it (c) Finance Minister
+(d) It can reject it (d) Governor, RBI
+
+30. The grounds under which the President of (a) I and III (b) II and III
+India may remove a Governor from offi ce (c) I and IV (d) I, III and IV
+are 37. The Advisory opinion tendered by the Su-
+(a) laid down in the Constitution preme Court
+(b) not laid down in the Constitution (a) is not made public at all
+(c) governed by Conventions (b) is binding on the President only if it is
+(d) governed by Supreme Court Guide- unanimously made
+lines (c) is binding on the President
+31. Which of the following provisions of the (d) is not binding on the President
+Constitution can be amended by Parlia- 38. The phrase ‘bicameral legislature’ means
+ment by a simple majority? (a) Parliamentary system of Government
+(a) Provision concerning establishment (b) a legislature consisting of lower and
+of High Court an upper chamber
+(b) Provision concerning federal judicia- (c) a single assembly
+ry (d) an elected legislature
+(c) Provision concerning representation 39. The Legislative Council is expected to
+of States in Parliament have a strength equal to one third of the
+(d) None of the above membership of the Legislative Assembly.
+32. Who, among the following, acts as the The minimum strength of the Council has
+chairman of the National Integration to be
+Council? (a) 50 (b) 40
+(a) the Prime Minister (c) 100 (d) 30
+(b) the Vice-President 40. Which one of the following does not take
+(c) the Union Home Minister part in the election of the President?
+(d) the Chief Justice of India (a) elected members of Lok Sabha
+33. The Finance Commission submits its re- (b) members of the legislative councils
+port to (c) elected members of the Rajya Sabha
+(a) the President (d) None of the above
+(b) the Speaker of the Lok Sabha 41. Economic Planning is a subject in
+(c) the Comptroller and Auditor-General (a) the Union List
+(d) None of the above (b) the State List
+34. In India, new All India Services can be (c) the Concurrent List
+created (d) None of the above lists
+(a) through an amendment to the Consti- 42. Originally the Constitution recognized
+tution ………. languages
+(b) by the Union Government in consulta- (a) 2 (b) 14
+tion with the UPSC (c) 15 (d) none
+(c) by the Parliament 43. Which one of the following Presidents of
+(d) by the President on the advice of the India is known as Philosopher-President?
+Union Council of Ministers (a) Dr Rajendra Prasad
+35. Who is the Chairman of the National De- (b) Dr Zakir Hussain
+velopment Council? (c) Dr S. Radhakrishnan
+(a) The President (d) Dr Fakhruddin Ali Ahmed
+(b) The Vice-President 44. The UPSC conducts examinations for
+(c) The Prime Minister I. Central Services
+(d) The Planning Minister II. All India Services
+36. The Chief Justice of a High Court is ap- III. State Services
+pointed by the President in consultation IV. State services for two or more States
+with jointly
+I. Chief Justice of the Supreme Court. (a) I, II and III (b) II and IV
+II. Former Chief Justice of the High (c) I only (d) I and II
+court 45. The main sources of law in India are
+III. Other Judges of the High court I. The Constitution
+IV. Governor of the State concerned II. Statues
+
+MOCK TESTS 315
+III. Customary law (c) If Parliament decrees it by two-thirds
+IV. Judicial decisions of superior courts majority
+(a) I and II (b) I, II and IV (d) During a Financial Emergency
+(c) II and IV (d) I, II, III and IV 55. The Chief Justice and other Judges of the
+46. What is the qualifi cation for obtaining vot- High Court are appointed by the
+ing right in India? (a) Chief Minister of the concerned State
+(a) Caste (b) Property (b) Governor of the concerned State
+(c) Age (d) Education (c) President
+47. “Equal pay for equal work for both males (d) Chief Justice of the Supreme Court
+and females”. Which article has proposed 56. If the Speaker of a State Legislative As-
+this? sembly in India resigns, he has to submit
+(a) Article 48 (b) Article 39 his resignation to the
+(c) Article 14 (d) Article 25 (a) Deputy Speaker of the Assembly
+48. The fi rst leader of opposition to be given (b) Chief Justice of the concerned High
+the status and rank of a Cabinet Minister Court
+was (c) President of India
+(a) A. K. Gopalan (b) Y. B. Chavan (d) Governor of State
+(c) C. M. Stephen (d) P. Upendra 57. The Deputy Chairman of the Council of
+49. The three languages included in the Eighth States in India can be removed by
+Schedule of the Constitution by the 71st (a) the Chairman of the Council of States
+amendment are (b) the Parliament (both Houses)
+(a) Konkani, English, Manipuri (c) a resolution of the Council of States
+(b) Konkani, Nepali, Maithili by a majority of the then members of
+(c) Konkani, Manipuri, Nepali the House provided, at least, 14 days’
+(d) Manipuri, Nepali, Dogri notice has been given of the intention
+50. Which of the following is not a condition to the resolution
+for becoming a citizen of India? (d) None of the above
+(a) Birth 58. The Attorney-General for India shall hold
+(b) Acquiring Property offi ce during the pleasure of the
+(c) Descent (a) Prime Minister and his Cabinet
+(d) Naturalization (b) Parliament
+51. The age of retirement of the judges of (c) President
+High Court is …..... years (d) None of the above
+(a) 65 (b) 58 59. When the President of India gives assent
+(c) 62 (d) 60 to a law passed by State Legislature after
+52. A High Court consists of Chief Justice being reserved for his consideration and
+and then Parliament passes a law on the same
+(a) Such other judges as determined by subject then
+Parliament (a) State law will prevail
+(b) Such other judges as determined by (b) Central law will prevail
+the President (c) President’s Ordinance will prevail
+(c) Such other judges as specifi ed in the (d) No law will prevail
+Constitution 60. In India the historically important objects
+(d) At least 5 other judges are to be protected
+53. Fiduciary relationship means, the relation- (a) as it is the duty of the State
+ship is based on (b) as it is the Fundamental Duty
+(a) Blood relation (b) Money (c) as it is a Directive Principle of State
+(c) Trust (d) Contract Policy
+54. When can the salaries of High Court judg- (d) for none of the above reasons
+es be reduced 61. The person appointed to the post of Judge
+(a) At no time of High Court takes an oath before
+(b) If the State Legislature passes a law to (a) The Chief Justice of the High Court
+the effect (b) The Chief Justice of India
+
+(c) The President of India (c) Chief Minister
+(d) The Governor of the State or some (d) Chief Justice
+person appointed by him for that pur- 68. The right to vote in India is based on the
+pose principle of
+62. Which of the following features makes (a) restricted franchise
+our Constitution Unitary? (b) hereditary privileges
+(a) Emergency Powers of the Centre (c) proprietary qualifi cations
+(b) Residuary Powers with the Union Par- (d) universal adult franchise
+liament 69. ………. is the Commander-in-Chief of the
+(c) Union Government’s power to issue Defence Forces of India
+directions to the State Governments (a) Prime Minister
+(d) All the above (b) President
+63. Which one of the following statements (c) Defence Minister
+correctly describes the Fourth Schedule of (d) Army Chief
+the Constitution of India? 70. The Indian Parliament is based on the
+Principle of
+(a) It lists the distribution of powers be-
+(a) Unicameralism
+tween the Union and the States
+(b) Nomination
+(b) It contains the languages listed in the
+(c) Bicameralism
+Constitution
+(d) Hereditary principle
+(c) It contains the provisions regarding
+71. How long did the Constituent Assembly
+the administration of tribal areas
+take to fi nally pass the constitution?
+(d) It allocates seats in the Council of
+(a) about 6 months in 1949
+States
+(b) exactly a year since 26 November
+64. Which of the following emergencies have
+1948
+been declared the maximum number of
+(c) about 2 years since 15 August 1947
+times in India?
+(d) about 3 years since 9 December 1946
+(a) Emergency under Article 352 due to
+72. Who was the Chairman of the Constituent
+external aggression
+Assembly?
+(b) Emergency under Article 352 due to
+(a) Pt Jawaharlal Nehru
+armed rebellion
+(b) Dr Rajendra Prasad
+(c) Financial Emergency under Article
+(c) Dr B. R. Ambedkar
+360
+(d) C. Rajagopalachari
+(d) Emergency under Article 356 due to
+73. India became a Sovereign, democratic re-
+breakdown of constitutional machin-
+public on
+ery in a State
+(a) 15 August 1947
+65. For raising a half-an-hour discussion in a
+(b) 30 January 1948
+House of Parliament, the notice in writing
+(c) 26 January 1950
+has to be given to the
+(d) 26 November 1929
+(a) Presiding Offi cer of the House
+74. The Constitution names our country as
+(b) Secretary-General of the House
+(a) Bharat
+(c) Secretary of Department of Parlia- (b) India, that is Bharat
+mentary Affairs (c) Hindustan
+(d) Minister concerned (d) Aryavarta
+66. A judgment passed by the Supreme Court 75. The Comptroller and Auditor-General can
+of India can be reviewed only by be removed from his offi ce before expiry
+(a) President of his term by
+(b) Prime Minister (a) the Prime Minister
+(c) International Court of Justice (b) the President at his discretion
+(d) None of the above (c) the President on the advice of the
+67. The Head of a State in India is known as Council of the Ministers
+(a) Governor General (d) the President on the recommendation
+(b) Governor of the Parliament
+
+MOCK TESTS 317
+76. To whom the member of Lok Sabha in the (a) Political Review
+Parliament of India submits his resigna- (b) Judicial Review
+tion (c) Legal Review
+(a) President (b) Prime Minister (d) All the above
+(c) Speaker (d) Vice-President 85. Jyoti Basu stepped down from the post of
+77. A Parliament of India can make any Law Chief Minister in West Bengal on 29 Oc-
+for the whole or any part of India for im- tober 2000 after serving as Chief Minister
+plementing international treaties for a record period of
+(a) without the consent of any State (a) 21 years (b) 23 years
+(b) without the consent of Rajya Sabha (c) 24 years (d) 19 years
+(c) with consent of 2/3 of States 86. The Constitution of India is
+(d) with consent of all States (a) fl exible
+78. Right to education in India is a (b) rigid
+(a) Fundamental Right and Statutory (c) partly rigid and partly fl exible
+Right (d) constant in number of Articles and
+(b) Directive Principle of State Policy fl exible in Parts
+(c) Legal Right 87. The Fundamental duties of Constitution
+(d) None of the above of India, were added in the Constitution in
+79. Power to declare an area as scheduled area year
+in India depends on (a) 1976 (b) 1979
+(a) President (b) Prime Minister (c) 1983 (d) 1992
+(c) Governor (d) Chief Minister 88. The Vice-President of India discharges the
+80. Which among the following Articles of duties of President in the event of
+the Constitution of India empowers the (a) absence due to illness
+President to set up the Finance Commis- (b) his death
+sion? (c) his resignation
+(a) Article 280 (b) Article 291 (d) All of the above
+(c) Article 291 (d) Article 356 89. The Vice-President of India is elected by
+81. Who was the fi rst Chairman of the Plan- (a) members of Rajya Sabha
+ning Commission? (b) members of Lok Sabha
+(a) Jawaharlal Nehru (c) elected by Electoral College
+(b) Gulzari Lai Nanda (d) directly elected by Lok Sabha and Ra-
+(c) K. C. Neogy jya Sabha at a joint sitting
+(d) Shriman Narayanan 90. In respect of citizenship the Constitution
+82. The Solicitor-General of India is of India provides for
+(a) a legal advisor (a) double citizenship
+(b) an administrative offi cer (b) single citizenship
+(c) legal advisor of the President of India (c) multiple citizenship
+(d) an advisor to Prime Minister (d) no restriction is provided
+83. Which of the following correctly repre- 91. The Vidhan Sabha is
+sents the value of vote of a Member of (a) the permanent House of State Legisla-
+Legislative Assembly in the Presidential ture
+election? (b) indirectly elected
+(a) PopulationoftheState ×1000 (c) subject to dissolution
+Totalno.ofmembersintheState (d) has little importance in the State Gov-
+LegislativeAAssembly ernment
+(b) PopulationoftheState ÷1000 92. That the Prime Minister acts as a channel
+Totalno.ofelectedmembersinthe of communication between the President
+StateLegisslativeAssembly and the Council of Ministers is provided
+Totalno.ofelectedmembersinthe by
+(c) StateLegislativeAssembly ×1000 (a) convention (b) statute
+Totalnno.ofLokSabhaConstituencies (c) Article 78 (d) Article 75
+(d) None of these 93. An ordinance can be issued by the Presi-
+84. Which one of the following power is en- dent
+joyed by the Supreme Court? (a) on any subject
+
+(b) subject to some constitutional limita- (b) President
+tions as legislation by Parliament (c) Prime Minister
+(c) in his individual judgement as well as (d) Chief of Airforce
+on the advice of the Council of Minis- 97. The maximum duration of the zero hour in
+ters Lok Sabha of Parliament of India can be
+(d) at any time (a) One hour (b) Unspecifi ed
+(c) 30 minutes (d) Two hours
+94. An ‘offi ce of profi t’ which disqualifi es a
+98. Which State enjoys the distinction of be-
+person from being a member of the Union
+ing the latest State of the Union of India?
+or State Legislature does not include of-
+(a) Jharkhand (b) Uttaranchal
+fi ce held under
+(c) Chhattisgarh (d) All the above
+(a) the Government of India
+99. The Governor of a State in India is respon-
+(b) a State Government
+sible for his act to
+(c) a local authority
+(a) the State Cabinet
+(d) All the above
+(b) the State Legislature
+95. Can the Governor reserve certain State
+(c) the President
+Bill for Presidential assent?
+(d) the Prime Minister
+(a) Yes 100. Under the Constitution of India the STs
+(b) No are designated as such
+(c) Circumstantial (a) by an Act of Parliament
+(d) None of the above (b) by President notifi cation
+96. Who is the Supreme Commander of the (c) by the Commissioner of Scheduled
+Defence forces of India? Tribes
+(a) Chief of Army (d) by each State Government
+A
+NSWERS
+1. (b) 2. (c) 3. (b) 4. (a) 5. (a) 6. (a) 7. (b) 8. (a) 9. (d) 10. (c)
+11. (a) 12. (b) 13. (b) 14. (c) 15. (c) 16. (d) 17. (a) 18. (b) 19. (a) 20. (b)
+21. (d) 22. (b) 23. (c) 24. (d) 25. (b) 26. (c) 27. (a) 28. (a) 29. (a) 30. (b)
+31. (c) 32. (a) 33. (a) 34. (c) 35. (c) 36. (d) 37. (d) 38. (b) 39. (b) 40. (b)
+41. (a) 42. (b) 43. (c) 44. (d) 45. (d) 46. (c) 47. (b) 48. (b) 49. (c) 50. (b)
+51. (c) 52. (a) 53. (c) 54. (a) 55. (c) 56. (a) 57. (c) 58. (c) 59. (b) 60. (b)
+61. (d) 62. (d) 63. (c) 64. (d) 65. (a) 66. (d) 67. (b) 68. (d) 69. (b) 70. (c)
+71. (d) 72. (b) 73. (c) 74. (b) 75. (b) 76. (c) 77. (a) 78. (a) 79. (a) 80. (a)
+81. (c) 82. (a) 83. (b) 84. (b) 85. (a) 86. (c) 87. (a) 88. (d) 89. (c) 90. (b)
+91. (c) 92. (c) 93. (b) 94. (d) 95. (a) 96. (b) 97. (b) 98. (a) 99. (b) 100. (b)
 
 ---
 

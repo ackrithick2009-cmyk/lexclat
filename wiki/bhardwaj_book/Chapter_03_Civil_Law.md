@@ -1,2184 +1,2180 @@
 # 📘 Chapter 3: Civil Law
 
 > **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: Theory (p. 83–85) | MCQs (p. 86–113)
-> **CLAT Relevance**: Contracts, Torts, Family Law — principle-application questions
+> **Book Pages**: Theory + MCQs
+> **CLAT Relevance**: Core legal aptitude material
 
 ---
 
-## 📖 Theory Section: Civil Law
+## 📖 Theory Section
 
-'C'h'a'p't'e'r' '3'
-'C' 'L'
-'I'V'I'L' 'A'W'
-'C'O'N'T'R'A'C'T' 'A'N'D' 'A'G'R'E'E'M'E'N'T' 'I't' 'h'a's' 'b'e'e'n' 'n'o't'e'd' 'a'b'o'v'e' 't'h'a't' 'a'n' 'a'g'r'e'e'm'e'n't'
-'e'n'f'o'r'c'e'a'b'l'e' 'b'y' 'l'a'w' 'i's' 'a' 'c'o'n't'r'a'c't'.' 'A'l'l' 's'u'c'h' 'a'g'r'e'e'-'
-'m'e'n't's' 'w'h'i'c'h' 's'a't'i's'f'y' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'm'e'n't'i'o'n'e'd' 'i'n'
-'C'o'n't'r'a'c't'
-'S'e'c't'i'o'n' '1'0' 'o'f' 't'h'e' 'A'c't' 'a'r'e' 'c'o'n't'r'a'c't's'.'
-'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '2'('h')' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n't'r'a'c't'
-'A'c't',' '“'A'n' 'a'g'r'e'e'm'e'n't' 'e'n'f'o'r'c'e'a'b'l'e' 'b'y' 'l'a'w' 'i's' 'a' 'S'e'c't'i'o'n' '1'0' 'i's' 'a's' 'u'n'd'e'r':'
-'c'o'n't'r'a'c't'.'”' '“'A'l'l' 'a'g'r'e'e'm'e'n't's' 'a'r'e' 'c'o'n't'r'a'c't's' 'i'f' 't'h'e'y' 'a'r'e' 'm'a'd'e'
-'A'l'l' 'a'g'r'e'e'm'e'n't's' 'a'r'e' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'b'y' 'l'a'w' 'b'y' 't'h'e' 'f'r'e'e' 'c'o'n's'e'n't' 'o'f' 'p'a'r't'i'e's' 'c'o'm'p'e't'e'n't' 't'o' 'c'o'n'-'
-'a'n'd' 't'h'e'r'e'f'o'r'e',' 'a'l'l' 'a'g'r'e'e'm'e'n't's' 'a'r'e' 'n'o't' 'c'o'n't'r'a'c't's'.' 't'r'a'c't',' 'f'o'r' 'a' 'l'a'w'f'u'l' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd' 'w'i't'h' 'a' 'l'a'w'-'
-'S'o'm'e' 'a'g'r'e'e'm'e'n't's' 'm'a'y' 'b'e' 'e'n'f'o'r'c'e'a'b'l'e' 'b'y' 'f'u'l' 'o'b'j'e'c't' 'a'n'd' 'a'r'e' 'n'o't' 'h'e'r'e'b'y' 'e'x'p'r'e's's'l'y' 'd'e'c'l'a'r'e'd'
-'l'a'w' 'a'n'd' 'o't'h'e'r's' 'm'i'g'h't' 'n'o't' 'b'e'.' 'F'o'r' 'e'x'a'm'p'l'e',' 'a'n' 't'o' 'b'e' 'v'o'i'd'.'”'
-'a'g'r'e'e'm'e'n't' 't'o' 's'e'l'l' 'a' 'r'a'd'i'o' 's'e't' 'm'a'y' 'b'e' 'a' 'c'o'n't'r'a'c't',' 'T'h'e' 'e's's'e'n't'i'a'l's' 'n'e'e'd'e'd' 'f'o'r' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't','
-'b'u't' 'a'n' 'a'g'r'e'e'm'e'n't' 't'o' 'g'o' 't'o' 's'e'e' 'a' 'm'o'v'i'e' 'm'a'y' 'b'e' 'a' 't'h'e'r'e'f'o'r'e',' 'a'r'e' 'a's' 'u'n'd'e'r':'
-'m'e'r'e' 'a'g'r'e'e'm'e'n't' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'b'y' 'l'a'w'.' '1'.' 'A'n' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 't'h'e' 't'w'o' 'p'a'r't'i'e's'.'
-'T'h'u's' 'a'l'l' 'a'g'r'e'e'm'e'n't's' 'a'r'e' 'n'o't' 'c'o'n't'r'a'c't's'.' 'A'n' 'a'g'r'e'e'm'e'n't' 'i's' 't'h'e' 'r'e's'u'l't' 'o'f' 'a' 'p'r'o'p'o's'a'l'
-'O'n'l'y' 't'h'o's'e' 'a'g'r'e'e'm'e'n't's' 'w'h'i'c'h' 's'a't'i's'f'y' 't'h'e' 'e's's'e'n'-' 'o'r' 'a'n' 'o'f'f'e'r' 'b'y' 'o'n'e' 'p'a'r't'y' 'f'o'l'l'o'w'e'd' 'b'y' 'i't's'
-'t'i'a'l's' 'm'e'n't'i'o'n'e'd' 'i'n' 's'e'c't'i'o'n' '1'0' 'b'e'c'o'm'e' 'c'o'n't'r'a'c't's'.' 'a'c'c'e'p't'a'n'c'e' 'b'y' 't'h'e' 'o't'h'e'r'.'
-'H'o'w'e'v'e'r',' 'a'l'l' 'c'o'n't'r'a'c't's' 'a'r'e' 'a'g'r'e'e'm'e'n't's'.' '2'.' 'A'g'r'e'e'm'e'n't' 's'h'o'u'l'd' 'b'e' 'b'e't'w'e'e'n' 't'h'e' 'p'a'r't'i'e's'
-'w'h'o' 'a'r'e' 'c'o'm'p'e't'e'n't' 't'o' 'c'o'n't'r'a'c't'.'
-'A'g'r'e'e'm'e'n't'
-'3'.' 'T'h'e'r'e' 's'h'o'u'l'd' 'b'e' 'a' 'l'a'w'f'u'l' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd'
-'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '2'('e')':' '“'E'v'e'r'y' 'p'r'o'm'i's'e' 'a'n'd' 'l'a'w'f'u'l' 'o'b'j'e'c't' 'i'n' 'r'e's'p'e'c't' 'o'f' 't'h'a't' 'a'g'r'e'e'm'e'n't'.'
-'e'v'e'r'y' 's'e't' 'o'f' 'p'r'o'm'i's'e's' 'f'o'r'm'i'n'g' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' '4'.' 'T'h'e'r'e' 's'h'o'u'l'd' 'b'e' 'f'r'e'e' 'c'o'n's'e'n't' 'o'f' 't'h'e' 'p'a'r't'i'e's','
-'f'o'r' 'e'a'c'h' 'o't'h'e'r' 'i's' 'a'n' 'a'g'r'e'e'm'e'n't'.'”' 'w'h'e'n' 't'h'e'y' 'e'n't'e'r' 'i'n't'o' 't'h'e' 'a'g'r'e'e'm'e'n't'.'
-'I'n' 'a'n' 'a'g'r'e'e'm'e'n't' 't'h'e'r'e' 'i's' 'a' 'p'r'o'm'i's'e' 'f'r'o'm' '5'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'm'u's't' 'n'o't' 'b'e' 'o'n'e',' 'w'h'i'c'h' 'h'a's'
-'b'o't'h' 's'i'd'e's'.' 'F'o'r' 'e'x'a'm'p'l'e',' 'A' 'p'r'o'm'i's'e's' 't'o' 'd'e'l'i'v'e'r' 'b'e'e'n' 'e'x'p'r'e's's'l'y' 'd'e'c'l'a'r'e'd' 't'o' 'b'e' 'v'o'i'd'.'
-'h'i's' 'w'a't'c'h' 't'o' 'B' 'a'n'd' 'i'n' 'r'e't'u'r'n' 'B' 'p'r'o'm'i's'e's' 't'o' 'p'a'y'
-'P'r'o'p'o's'a'l' 'o'r' 'O'f'f'e'r'
-'a' 's'u'm' 'o'f' 'R's' '2','0'0'0' 't'o' 'A',' 't'h'e'r'e' 'i's' 's'a'i'd' 't'o' 'b'e' 'a'n'
-'T'h'e' 't'e'r'm' '‘'p'r'o'p'o's'a'l' 'h'a's' 'b'e'e'n' 'd'e'f'i' 'n'e'd' 'i'n' 's'e'c't'i'o'n'
-'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B'.'
-'2'('a')' 'a's' 'f'o'l'l'o'w's':'
-'A' 'p'r'o'm'i's'e' 'i's' 'a' 'r'e's'u'l't' 'o'f' 'a'n' 'o'f'f'e'r' '('p'r'o'p'o's'a'l')'
-'“'W'h'e'n' 'o'n'e' 'p'e'r's'o'n' 's'i'g'n'i'f'i' 'e's' 't'o' 'a'n'o't'h'e'r'
-'b'y' 'o'n'e' 'p'e'r's'o'n' 'a'n'd' 'i't's' 'a'c'c'e'p't'a'n'c'e' 'b'y' 't'h'e' 'o't'h'e'r'.'
-'h'i's' 'w'i'l'l'i'n'g'n'e's's' 't'o' 'd'o' 'o'r' 't'o' 'a'b's't'a'i'n' 'f'r'o'm' 'd'o'i'n'g'
-'F'o'r' 'e'x'a'm'p'l'e',' 'w'h'e'n' 'A' 'm'a'k'e's' 'a' 'p'r'o'p'o's'a'l' 't'o' 's'e'l'l'
-'a'n'y't'h'i'n'g',' 'w'i't'h' 'a' 'v'i'e'w' 't'o' 'o'b't'a'i'n'i'n'g' 't'h'e' 'a's's'e'n't' 'o'f'
-'h'i's' 'w'a't'c'h' 't'o' 'B' 'f'o'r' 'R's' '2','0'0'0' 'a'n'd' 'B' 'a'c'c'e'p't's' 'h'i's'
-'t'h'a't' 'o't'h'e'r' 't'o' 's'u'c'h' 'a'c't' 'o'r' 'a'b's't'i'n'e'n'c'e',' 'h'e' 'i's' 's'a'i'd' 't'o'
-'p'r'o'p'o's'a'l',' 't'h'e'r'e' 'r'e's'u'l't's' 'a' 'p'r'o'm'i's'e' 'b'e't'w'e'e'n' 't'h'e'
-'m'a'k'e' 'a' 'p'r'o'p'o's'a'l'.'”'
-'t'w'o' 'p'e'r's'o'n's'.'
-'A'c'c'e'p't'a'n'c'e'
-'S'e'c't'i'o'n' '2'('b')' 'o'f' 't'h'e' 'A'c't' 'd'e'f'i' 'n'e's' 'p'r'o'm'i's'e' 'a's'
-'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '2'('b')':' 'W'h'e'n' 't'h'e' 'p'e'r's'o'n' 't'o'
-'u'n'd'e'r':'
-'w'h'o'm' 't'h'e' 'p'r'o'p'o's'a'l' 'i's' 'm'a'd'e' 's'i'g'n'i'f'i' 'e's' 'h'i's' 'a's's'e'n't'
-'“'W'h'e'n' 't'h'e' 'p'e'r's'o'n' 't'o' 'w'h'o'm' 't'h'e' 'p'r'o'p'o's'a'l' 'i's' 'm'a'd'e'
-'t'h'e'r'e't'o',' 't'h'e' 'p'r'o'p'o's'a'l' 'i's' 's'a'i'd' 't'o' 'b'e' 'a'c'c'e'p't'e'd'.' 'A'
-'s'i'g'n'i'f'i' 'e's' 'h'i's' 'a's's'e'n't' 't'h'e'r'e't'o',' 't'h'e' 'p'r'o'p'o's'a'l' 'i's' 's'a'i'd'
-'p'r'o'p'o's'a'l',' 'w'h'e'n' 'a'c'c'e'p't'e'd',' 'b'e'c'o'm'e's' 'a' 'p'r'o'm'i's'e'.'”'
-'t'o' 'b'e' 'a'c'c'e'p't'e'd'.' 'A' 'p'r'o'p'o's'a'l',' 'w'h'e'n' 'a'c'c'e'p't'e'd',' 'b'e'-'
-'c'o'm'e's' 'a' 'p'r'o'm'i's'e'.'”' 'E's's'e'n't'i'a'l's' 'o'f' 'a' 'v'a'l'i'd' 'a'c'c'e'p't'a'n'c'e'
-'T'h'u's',' 'w'h'e'n' 't'h'e'r'e' 'i's' 'a' 'p'r'o'p'o's'a'l' 'f'r'o'm' 'o'n'e' 'I'n' 'o'r'd'e'r' 't'h'a't' 'a'c'c'e'p't'a'n'c'e' 'o'f' 'a'n' 'o'f'f'e'r' 'r'e's'u'l't's'
-'s'i'd'e' 'a'n'd' 't'h'e' 'a'c'c'e'p't'a'n'c'e' 'o'f' 't'h'a't' 'p'r'o'p'o's'a'l' 'b'y' 't'h'e' 'i'n' 'a' 'c'o'n't'r'a'c't',' 't'h'e' 'a'c'c'e'p't'a'n'c'e' 'm'u's't' 's'a't'i's'f'y' 't'h'e'
-'o't'h'e'r' 's'i'd'e',' 'i't' 'r'e's'u'l't's' 'i'n' 'a' 'p'r'o'm'i's'e'.' 'T'h'i's' 'p'r'o'm'i's'e' 'f'o'l'l'o'w'i'n'g' 'r'e'q'u'i'r'e'm'e'n't's':'
-'f'r'o'm' 't'h'e' 't'w'o' 'p'a'r't'i'e's' 't'o' 'o'n'e' 'a'n'o't'h'e'r' 'i's' 'k'n'o'w'n' 'a's' '1'.' 'A'c'c'e'p't'a'n'c'e' 's'h'o'u'l'd' 'b'e' 'c'o'm'm'u'n'i'c'a't'e'd' 'b'y'
-'a'n' 'a'g'r'e'e'm'e'n't'.' 't'h'e' 'o'f'f'e'r'e'e' 't'o' 't'h'e' 'o'f'f'e'r'o'r'.'
-'
-'2'.' 'A'c'c'e'p't'a'n'c'e' 's'h'o'u'l'd' 'b'e' 'a'b's'o'l'u't'e' 'a'n'd' 'A'l't'h'o'u'g'h' 't'h'e' 'a'b'o'v'e' 's't'a't'e'd' 'c'a't'e'g'o'r'i'e's' 'o'f'
-'u'n'q'u'a'l'i'f'i' 'e'd'.' 'p'e'r's'o'n's' 'a'r'e' 'n'o't' 'c'o'm'p'e't'e'n't' 't'o' 'c'o'n't'r'a'c't',' 'y'e't' 't'h'e'y'
-'3'.' 'A'c'c'e'p't'a'n'c'e' 's'h'o'u'l'd' 'b'e' 'm'a'd'e' 'i'n' 's'o'm'e' 'u's'u'a'l' 'm'a'y' 's'o'm'e't'i'm'e's' 'b'e' 'm'a'k'i'n'g' 's'o'm'e' 'b'a'r'g'a'i'n's',' 't'a'k'-'
-'a'n'd' 'r'e'a's'o'n'a'b'l'e' 'm'a'n'n'e'r',' 'u'n'l'e's's' 't'h'e' 'p'r'o'p'o's'a'l' 'i'n'g' 's'o'm'e' 'l'o'a'n's',' 'o'r' 'b'e' 's'u'p'p'l'i'e'd' 'w'i't'h' 's'o'm'e' 'g'o'o'd's'
-'p'r'e's'c'r'i'b'e's' 't'h'e' 'm'a'n'n'e'r' 'o'f' 'a'c'c'e'p't'a'n'c'e'.' 'b'y' 't'h'i'r'd' 'p'a'r't'i'e's',' 'o'r' 'b'e' 'c'o'n'f'e'r'r'e'd' 'w'i't'h' 's'o'm'e' 'b'e'n'-'
-'4'.' 'A'c'c'e'p't'a'n'c'e' 's'h'o'u'l'd' 'b'e' 'm'a'd'e' 'w'h'i'l'e' 't'h'e' 'e'f'i' 't's',' 'e't'c'.'
-'o'f'f'e'r' 'i's' 's't'i'l'l' 's'u'b's'i's't'i'n'g'.'
-'F'r'e'e' 'C'o'n's'e'n't'
-'C'o'n's'i'd'e'r'a't'i'o'n' 'W'h'a't' 'i's' 'f'r'e'e' 'c'o'n's'e'n't'?'
-'S'e'c't'i'o'n' '2' '('d')',' 'I'n'd'i'a'n' 'c'o'n't'r'a'c't' 'A'c't' 'd'e'f'i' 'n'e's' 'O'n'e' 'o'f' 't'h'e' 'e's's'e'n't'i'a'l's' 'o'f' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'
-'C'o'n's'i'd'e'r'a't'i'o'n' 'a's' 'u'n'd'e'r':' 'm'e'n't'i'o'n'e'd' 'i'n' 'S'e'c't'i'o'n' '1'0' 'i's' 't'h'a't' 't'h'e' 'p'a'r't'i'e's' 's'h'o'u'l'd'
-'“'W'h'e'n',' 'a't' 't'h'e' 'd'e's'i'r'e' 'o'f' 't'h'e' 'p'r'o'm'i's'o'r',' 't'h'e' 'p'r'o'm'-' 'e'n't'e'r' 'i'n't'o' 't'h'e' 'c'o'n't'r'a'c't' 'w'i't'h' 't'h'e'i'r' 'f'r'e'e' 'c'o'n's'e'n't'.'
-'i's'e'e' 'o'r' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n' 'h'a's' 'd'o'n'e' 'o'r' 'a'b's't'a'i'n'e'd' 'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '1'4',' 'c'o'n's'e'n't' 'i's' 's'a'i'd' 't'o'
-'f'r'o'm' 'd'o'i'n'g',' 'o'r' 'd'o'e's' 'o'r' 'a'b's't'a'i'n's' 'f'r'o'm' 'd'o'i'n'g',' 'o'r' 'b'e' 'f'r'e'e' 'w'h'e'n' 'i't' 'i's' 'n'o't' 'c'a'u's'e'd' 'b'y'
-'p'r'o'm'i's'e's' 't'o' 'd'o' 'o'r' 't'o' 'a'b's't'a'i'n' 'f'r'o'm' 'd'o'i'n'g' 's'o'm'e'-' '1'.' 'c'o'e'r'c'i'o'n',' 'a's' 'd'e'f'i' 'n'e'd' 'i'n' 'S'e'c't'i'o'n' '1'5',' 'o'r'
-'t'h'i'n'g',' 's'u'c'h' 'a'c't' 'o'r' 'a'b's't'i'n'e'n'c'e' 'o'r' 'p'r'o'm'i's'e' 'i's' 'c'a'l'l'e'd' '2'.' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e',' 'a's' 'd'e'f'i' 'n'e'd' 'i'n' 's'e'c't'i'o'n'
-'a' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 't'h'e' 'p'r'o'm'i's'e'.'”' '1'6',' 'o'r'
-'T'h'e' 'd'e'f'i' 'n'i't'i'o'n' 'r'e'q'u'i'r'e's' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'e's'-' '3'.' 'f'r'a'u'd',' 'a's' 'd'e'f'i' 'n'e'd' 'i'n' 'S'e'c't'i'o'n' '1'7',' 'o'r'
-'s'e'n't'i'a'l's' 't'o' 'b'e' 's'a't'i's'f'i' 'e'd' 'i'n' 'o'r'd'e'r' 't'h'a't' 't'h'e'r'e' 'i's' 'v'a'l'i'd' '4'.' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n',' 'a's' 'd'e'f'i' 'n'e'd' 'i'n' 'S'e'c'-'
-'c'o'n's'i'd'e'r'a't'i'o'n':' 't'i'o'n' '1'8',' 'o'r'
-'1'.' 'C'o'n's'i'd'e'r'a't'i'o'n' 't'o' 'b'e' 'g'i'v'e'n' '‘'a't' 't'h'e' 'd'e'-' '5'.' 'm'i's't'a'k'e',' 's'u'b'j'e'c't' 't'o' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f'
-'s'i'r'e' 'o'f' 't'h'e' 'p'r'o'm'i's'o'r'’'.' 'S'e'c't'i'o'n's' '2'0',' '2'1' 'a'n'd' '2'2'.'
-'2'.' 'C'o'n's'i'd'e'r'a't'i'o'n' 't'o' 'b'e' 'g'i'v'e'n' '‘'b'y' 't'h'e' 'C'o'n's'e'n't' 'i's' 's'a'i'd' 't'o' 'b'e' 's'o' 'c'a'u's'e'd' 'w'h'e'n' 'i't'
-'p'r'o'm'i's'e'e' 'o'r' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n'’'.' 'w'o'u'l'd' 'n'o't' 'h'a'v'e' 'b'e'e'n' 'g'i'v'e'n' 'b'u't' 'b'y' 't'h'e' 'e'x'i's't'e'n'c'e'
-'3'.' 'C'o'n's'i'd'e'r'a't'i'o'n' 'm'a'y' 'b'e' 'p'a's't',' 'p'r'e's'e'n't' 'o'r' 'o'f' 's'u'c'h' 'c'o'e'r'c'i'o'n',' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e',' 'f'r'a'u'd',' 'm'i's'-'
-'f'u't'u'r'e',' 'i'n' 's'o' 'f'a'r' 'a's' 'd'e'f'i' 'n'i't'i'o'n' 's'a'y's' 't'h'a't' 'r'e'p'r'e's'e'n't'a't'i'o'n' 'o'r' 'm'i's't'a'k'e'.'
-'t'h'e' 'p'r'o'm'i's'e':' 'I'f' 't'h'e' 'c'o'n's'e'n't' 'o'f' 'o'n'e' 'o'f' 't'h'e' 'p'a'r't'i'e's' 'i's' 'n'o't'
-'('i')' 'h'a's' 'd'o'n'e' 'o'r' 'a'b's't'a'i'n'e'd' 'f'r'o'm' 'd'o'i'n'g',' 'f'r'e'e' 'c'o'n's'e'n't',' 'i'.'e'.',' 'i't' 'h'a's' 'b'e'e'n' 'c'a'u's'e'd' 'b'y' 'o'n'e' 'o'r'
-'o'r' 't'h'e' 'o't'h'e'r' 'o'f' 't'h'e' 'a'b'o'v'e' 's't'a't'e'd' 'f'a'c't'o'r's',' 't'h'e' 'c'o'n't'r'a'c't'
-'('i'i')' 'd'o'e's' 'o'r' 'a'b's't'a'i'n'e'd' 'f'r'o'm' 'd'o'i'n'g',' 'o'r' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'o'n'e'.' 'W'h'e'n' 'c'o'n's'e'n't' 't'o' 'a'n' 'a'g'r'e'e'm'e'n't'
-'('i'i'i')' 'p'r'o'm'i's'e's' 't'o' 'd'o' 'o'r' 't'o' 'a'b's't'a'i'n' 'f'r'o'm' 'i's' 'c'a'u's'e'd' 'b'y' 'c'o'e'r'c'i'o'n',' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e' 'f'r'a'u'd' 'o'r'
-'d'o'i'n'g',' 's'o'm'e't'h'i'n'g'.' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n',' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'a' 'c'o'n't'r'a'c't'
-'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 't'h'e' 'p'a'r't'y' 'w'h'o's'e' 'c'o'n'-'
-'4'.' 'T'h'e'r'e' 's'h'o'u'l'd' 'b'e' 's'o'm'e' 'a'c't',' 'a'b's't'i'n'e'n'c'e'
-'s'e'n't' 'w'a's' 's'o' 'c'a'u's'e'd'.' 'I'f',' 'h'o'w'e'v'e'r',' 't'h'e' 'c'o'n's'e'n't' 'i's'
-'o'r' 'p'r'o'm'i's'e' 'b'y' 't'h'e' 'p'r'o'm'i's'e',' 'w'h'i'c'h' 'c'o'n'-'
-'c'a'u's'e'd' 'b'y' 'm'i's't'a'k'e',' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.'
-'s't'i't'u't'e's' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 't'h'e' 'p'r'o'm'i's'e'.'
-'L'e'g'a'l'i't'y' 'o'f' 'O'b'j'e'c't' 'a'n'd' 'C'o'n's'i'd'e'r'a't'i'o'n'
-'C'a'p'a'c'i't'y' 't'o' 'C'o'n't'r'a'c't'
-'O'n'e' 'o'f' 't'h'e' 'e's's'e'n't'i'a'l's' 'o'f' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'i's' 't'h'a't'
-'O'n'e' 'o'f' 't'h'e' 'e's's'e'n't'i'a'l's' 'o'f' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't','
-'t'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd' 't'h'e' 'o'b'j'e'c't' 's'h'o'u'l'd' 'b'e'
-'m'e'n't'i'o'n'e'd' 'i'n' 'S'e'c't'i'o'n' '1'0',' 'i's' 't'h'a't' 't'h'e' 'p'a'r't'i'e's' 't'o'
-'l'a'w'f'u'l'.' 'E'v'e'r'y' 'a'g'r'e'e'm'e'n't' 'o'f' 'w'h'i'c'h' 't'h'e' 'o'b'j'e'c't' 'o'r'
-'t'h'e' 'c'o'n't'r'a'c't' 's'h'o'u'l'd' 'b'e' 'c'o'm'p'e't'e'n't' 't'o' 'm'a'k'e' 't'h'e'
-'c'o'n's'i'd'e'r'a't'i'o'n' 'i's' 'u'n'l'a'w'f'u'l' 'i's' 'v'o'i'd'.'
-'c'o'n't'r'a'c't'.'
-'S'e'c't'i'o'n' '2'3' 'm'e'n't'i'o'n's' 't'h'e' 'c'i'r'c'u'm's't'a'n'c'e's'
-'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '1'1':' 'w'h'e'n' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'o'r' 'o'b'j'e'c't' 'o'f' 'a'n' 'a'g'r'e'e'-'
-'“'E'v'e'r'y' 'p'e'r's'o'n' 'i's' 'c'o'm'p'e't'e'n't' 't'o' 'c'o'n't'r'a'c't' 'w'h'o' 'i's' 'm'e'n't' 'i's' 'n'o't' 'l'a'w'f'u'l'.' 'T'h'e' 's'e'c't'i'o'n' 'r'e'a'd's' 'a's' 'u'n'd'e'r':'
-'o'f' 't'h'e' 'a'g'e' 'o'f' 'm'a'j'o'r'i't'y' 'a'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'l'a'w' 't'o'
-'W'h'a't' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd' 'o'b'j'e'c't's' 'a'r'e' 'l'a'w'f'u'l','
-'w'h'i'c'h' 'h'e' 'i's' 's'u'b'j'e'c't',' 'a'n'd' 'w'h'o' 'i's' 'o'f' 's'o'u'n'd' 'm'i'n'd','
-'a'n'd' 'w'h'a't' 'n'o't'.'
-'a'n'd' 'i's' 'n'o't' 'd'i's'q'u'a'l'i'f'i' 'e'd' 'f'r'o'm' 'c'o'n't'r'a'c't'i'n'g' 'b'y' 'a'n'y'
-'T'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'o'r' 'o'b'j'e'c't' 'o'f' 'a'n' 'a'g'r'e'e'm'e'n't' 'i's'
-'l'a'w' 't'o' 'w'h'i'c'h' 'h'e' 'i's' 's'u'b'j'e'c't'.'”'
-'l'a'w'f'u'l',' 'u'n'l'e's's':'
-'I't' 'm'e'a'n's' 't'h'a't' 't'h'e' 'f'o'l'l'o'w'i'n'g' 't'h'r'e'e' 'c'a't'e'g'o'r'i'e's'
-'('c'i'd':'1'2'1')' 'i't' 'i's' 'f'o'r'b'i'd'd'e'n' 'b'y' 'l'a'w',' 'o'r'
-'o'f' 'p'e'r's'o'n's' 'a'r'e' 'n'o't' 'c'o'm'p'e't'e'n't' 't'o' 'c'o'n't'r'a'c't':'
-'('c'i'd':'1'2'1')' 'i's' 'o'f' 's'u'c'h' 'a' 'n'a't'u'r'e' 't'h'a't',' 'i'f' 'p'e'r'm'i't't'e'd','
-'1'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'h'a's' 'n'o't' 'a't't'a'i'n'e'd' 't'h'e' 'a'g'e' 'i't' 'w'o'u'l'd' 'd'e'f'e'a't' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'l'a'w';'
-'o'f' 'm'a'j'o'r'i't'y',' 'i'.'e'.',' 'o'n'e' 'w'h'o' 'i's' 'a' 'm'i'n'o'r'.' 'o'r'
-'2'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'i's' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd'.' '('c'i'd':'1'2'1')' 'i's' 'f'r'a'u'd'u'l'e'n't';' 'o'r'
-'3'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'h'a's' 'b'e'e'n' 'd'i's'q'u'a'l'i'f'i' 'e'd' '('c'i'd':'1'2'1')' 'i'n'v'o'l'v'e's' 'o'r' 'i'm'p'l'i'e's' 'i'n'j'u'r'y' 't'o' 't'h'e' 'p'e'r'-'
-'f'r'o'm' 'c'o'n't'r'a'c't'i'n'g' 'b'y' 's'o'm'e' 'l'a'w'.' 's'o'n' 'o'r' 'p'r'o'p'e'r't'y' 'o'f' 'a'n'o't'h'e'r','
-'
-'C'I'V'I'L' 'L'A'W' '8'5'
-'('c'i'd':'1'2'1')' 'o'r' 't'h'e' 'C'o'u'r't' 'r'e'g'a'r'd's' 'i't' 'a's' 'i'm'm'o'r'a'l',' 'o'r' 'a'g'r'e'e's' 'f'o'r' 'm'o'n'e'y',' 'w'i't'h'o'u't' 't'h'e' 'k'n'o'w'l'e'd'g'e'
-'o'p'p'o's'e'd' 't'o' 'p'u'b'l'i'c' 'p'o'l'i'c'y'.' 'o'f' 'h'i's' 'p'r'i'n'c'i'p'a'l',' 't'o' 'o'b't'a'i'n' 'f'o'r' 'B' 'a' 'l'e'a's'e'
-'I'n' 'e'a'c'h' 'o'f' 't'h'e's'e' 'c'a's'e's',' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'o'r' 'o'f' 'l'a'n'd' 'b'e'l'o'n'g'i'n'g' 't'o' 'h'i's' 'p'r'i'n'c'i'p'a'l'.' 'T'h'e'
-'o'b'j'e'c't' 'o'f' 'a'n' 'a'g'r'e'e'm'e'n't' 'i's' 's'a'i'd' 't'o' 'b'e' 'u'n'l'a'w'f'u'l'.' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's' 'v'o'i'd',' 'a's' 'i't'
-'E'v'e'r'y' 'a'g'r'e'e'm'e'n't' 'o'f' 'w'h'i'c'h' 't'h'e' 'o'b'j'e'c't' 'o'r' 'c'o'n's'i'd'-' 'i'm'p'l'i'e's' 'a' 'f'r'a'u'd' 'b'y' 'c'o'n'c'e'a'l'm'e'n't' 'b'y' 'A',' 'o'n'
-'e'r'a't'i'o'n' 'i's' 'u'n'l'a'w'f'u'l' 'i's' 'v'o'i'd'.' 'h'i's' 'p'r'i'n'c'i'p'a'l'.'
-'('h')' 'A' 'p'r'o'm'i's'e's' 'B' 't'o' 'd'r'o'p' 'a' 'p'r'o's'e'c'u't'i'o'n' 'w'h'i'c'h'
-'I'l'l'u's't'r'a't'i'o'n's'
-'h'e' 'h'a's' 'i'n's't'i't'u't'e'd' 'a'g'a'i'n's't' 'B' 'f'o'r' 'r'o'b'b'e'r'y','
-'('a')' 'A' 'a'g'r'e'e's' 't'o' 's'e'l'l' 'h'i's' 'h'o'u's'e' 't'o' 'B' 'f'o'r' '1'0','0'0'0' 'a'n'd' 'B' 'p'r'o'm'i's'e's' 't'o' 'r'e's't'o'r'e' 't'h'e' 'v'a'l'u'e' 'o'f' 't'h'e'
-'r'u'p'e'e's'.' 'H'e'r'e' 'B'’'s' 'p'r'o'm'i's'e' 't'o' 'p'a'y' 't'h'e' 's'u'm' 'o'f' 't'h'i'n'g's' 't'a'k'e'n'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd',' 'a's' 'i't's'
-'1'0','0'0'0' 'r'u'p'e'e's' 'i's' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 'A'’'s' 'o'b'j'e'c't' 'i's' 'u'n'l'a'w'f'u'l'.'
-'p'r'o'm'i's'e' 't'o' 's'e'l'l' 't'h'e' 'h'o'u's'e',' 'a'n'd' 'A'’'s' 'p'r'o'm'i's'e' '('i')' 'A'’'s' 'e's't'a't'e' 'i's' 's'o'l'd' 'f'o'r' 'a'r'r'e'a'r's' 'o'f' 'r'e'v'e'n'u'e'
-'t'o' 's'e'l'l' 't'h'e' 'h'o'u's'e' 'i's' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 'u'n'd'e'r' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'a'n' 'A'c't' 'o'f' 't'h'e'
-'B'’'s' 'p'r'o'm'i's'e' 't'o' 'p'a'y' '1'0','0'0'0' 'r'u'p'e'e's'.' 'T'h'e's'e' 'L'e'g'i's'l'a't'u'r'e',' 'b'y' 'w'h'i'c'h' 't'h'e' 'd'e'f'a'u'l't'e'r' 'i's'
-'a'r'e' 'l'a'w'f'u'l' 'c'o'n's'i'd'e'r'a't'i'o'n's'.' 'p'r'o'h'i'b'i't'e'd' 'f'r'o'm' 'p'u'r'c'h'a's'i'n'g' 't'h'e' 'e's't'a't'e',' 'B','
-'('b')' 'A' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'B' '1','0'0'0' 'r'u'p'e'e's' 'a't' 't'h'e' 'u'p'o'n' 'a'n' 'u'n'd'e'r's't'a'n'd'i'n'g' 'w'i't'h' 'A',' 'b'e'c'o'm'e's'
-'e'n'd' 'o'f' 's'i'x' 'm'o'n't'h's' 'i'f' 'C',' 'w'h'o' 'o'w'e's' 't'h'e' 's'u'm' 't'h'e' 'p'u'r'c'h'a's'e'r',' 'a'n'd' 'a'g'r'e'e's' 't'o' 'c'o'n'v'e'y' 't'h'e'
-'t'o' 'B' 'f'a'i'l's' 't'o' 'p'a'y' 'i't'.' 'B' 'p'r'o'm'i's'e's',' 't'o' 'g'r'a'n't' 'e's't'a't'e' 't'o' 'A',' 'u'p'o'n' 'r'e'c'e'i'v'i'n'g' 'f'r'o'm' 'h'i'm' 't'h'e'
-'t'i'm'e' 't'o' 'C',' 'a'c'c'o'r'd'i'n'g'l'y'.' 'H'e'r'e' 't'h'e' 'p'r'o'm'i's'e' 'p'r'i'c'e' 'w'h'i'c'h' 'B' 'h'a's' 'p'a'i'd'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's'
-'o'f' 'e'a'c'h' 'p'a'r't'y' 'i's' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 't'h'e' 'v'o'i'd',' 'a's' 'i't' 'r'e'n'd'e'r's' 't'h'e' 't'r'a'n's'a'c't'i'o'n' 'i'n' 'e'f'f'e'c't','
-'p'r'o'm'i's'e' 'o'f' 't'h'e' 'o't'h'e'r' 'p'a'r't'y',' 'a'n'd' 't'h'e'y' 'a'r'e' 'a' 'p'u'r'c'h'a's'e' 'b'y' 't'h'e' 'd'e'f'a'u'l't'e'r',' 'a'n'd' 'w'o'u'l'd' 's'o'
-'l'a'w'f'u'l' 'c'o'n's'i'd'e'r'a't'i'o'n's'.' 'd'e'f'e'a't' 't'h'e' 'o'b'j'e'c't' 'o'f' 't'h'e' 'l'a'w'.'
-'('c')' 'A' 'p'r'o'm'i's'e's' 'f'o'r' 'a' 'c'e'r't'a'i'n' 's'u'm' 'p'a'i'd' 't'o' 'h'i'm'
-'('j')' 'A',' 'w'h'o' 'i's' 'B'’'s' 'm'u'k'h't'a'r',' 'p'r'o'm'i's'e's' 't'o'
-'b'y' 'B' 't'o' 'm'a'k'e' 'g'o'o'd' 't'o' 'B' 't'h'e' 'v'a'l'u'e' 'o'f' 'h'i's'
-'e'x'e'r'c'i's'e' 'h'i's' 'i'n'f'l' 'u'e'n'c'e',' 'a's' 's'u'c'h' 'w'i't'h' 'B' 'i'n'
-'s'h'i'p' 'i'f' 'i't' 'i's' 'w'r'e'c'k'e'd' 'o'n' 'a' 'c'e'r't'a'i'n' 'v'o'y'a'g'e'.'
-'f'a'v'o'u'r' 'o'f' 'C' 'a'n'd' 'C' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' '1','0'0'0'
-'H'e'r'e',' 'A'’'s' 'p'r'o'm'i's'e' 'i's' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'r'u'p'e'e's' 't'o' 'A'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd' 'b'e'c'a'u's'e'
-'f'o'r' 'B'’'s' 'p'a'y'm'e'n't',' 'a'n'd' 'B'’'s' 'p'a'y'm'e'n't' 'i's' 't'h'e'
-'i't' 'i's' 'i'm'm'o'r'a'l'.'
-'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 'A'’'s' 'p'r'o'm'i's'e' 'a'n'd' 't'h'e's'e'
-'('k')' 'A' 'a'g'r'e'e's' 't'o' 'l'e't' 'h'e'r' 'd'a'u'g'h't'e'r' 't'o' 'h'i'r'e' 't'o' 'B'
-'a'r'e' 'l'a'w'f'u'l' 'c'o'n's'i'd'e'r'a't'i'o'n's'.'
-'f'o'r' 'c'o'n'c'u'b'i'n'a'g'e'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd','
-'('d')' 'A' 'p'r'o'm'i's'e's' 't'o' 'm'a'i'n't'a'i'n' 'B'’'s' 'c'h'i'l'd',' 'a'n'd'
-'b'e'c'a'u's'e' 'i't' 'i's' 'i'm'm'o'r'a'l',' 't'h'o'u'g'h' 't'h'e' 'l'e't't'i'n'g'
-'B' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' '1','0'0'0' 'r'u'p'e'e's' 'y'e'a'r'l'y'
-'m'a'y' 'n'o't' 'b'e' 'p'u'n'i's'h'a'b'l'e' 'u'n'd'e'r' 't'h'e' 'I'n'd'i'a'n'
-'f'o'r' 't'h'e' 'p'u'r'p'o's'e'.' 'H'e'r'e',' 't'h'e' 'p'r'o'm'i's'e' 'o'f'
-'P'e'n'a'l' 'C'o'd'e'.'
-'e'a'c'h' 'p'a'r't'y' 'i's' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 't'h'e'
-'I'n' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a's'e's',' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'p'r'o'm'i's'e' 'o'f' 't'h'e' 'o't'h'e'r' 'p'a'r't'y'.' 'T'h'e'y' 'a'r'e' 'l'a'w'f'u'l'
-'o'r' 'o'b'j'e'c't' 'h'a's' 'b'e'e'n' 'c'o'n's'i'd'e'r'e'd' 't'o' 'b'e' 'u'n'l'a'w'f'u'l' 'b'y'
-'c'o'n's'i'd'e'r'a't'i'o'n's'.'
-'S'e'c't'i'o'n' '2'3':'
-'('e')' 'A',' 'B' 'a'n'd' 'C' 'e'n't'e'r' 'i'n't'o' 'a'n' 'a'g'r'e'e'm'e'n't' 'f'o'r' 't'h'e'
-'1'.' 'I't' 'i's' 'f'o'r'b'i'd'd'e'n' 'b'y' 'l'a'w'
-'d'i'v'i's'i'o'n' 'a'm'o'n'g' 't'h'e'm' 'o'f' 'g'a'i'n's' 'a'c'q'u'i'r'e'd',' 'o'r'
-'2'.' 'I't' 'w'o'u'l'd' 'd'e'f'e'a't' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'a'n'y' 'l'a'w'
-'t'o' 'b'e' 'a'c'q'u'i'r'e'd',' 'b'y' 'f'r'a'u'd',' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's'
-'3'.' 'I't' 'i's' 'f'r'a'u'd'u'l'e'n't'
-'v'o'i'd',' 'a's' 'i't's' 'o'b'j'e'c't' 'i's' 'u'n'l'a'w'f'u'l'.'
-'('f')' 'A' 'p'r'o'm'i's'e's' 't'o' 'o'b't'a'i'n' 'f'o'r' 'B' 'a'n' 'e'm'p'l'o'y'm'e'n't' '4'.' 'I't' 'i'n'v'o'l'v'e's' 'o'r' 'i'm'p'l'i'e's' 'i'n'j'u'r'y' 't'o' 't'h'e' 'p'e'r's'o'n'
-'i'n' 't'h'e' 'p'u'b'l'i'c' 's'e'r'v'i'c'e',' 'a'n'd' 'B' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'o'r' 'p'r'o'p'e'r't'y' 'o'f' 'a'n'o't'h'e'r'
-'1','0'0'0' 'r'u'p'e'e's' 't'o' 'A'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd',' '5'.' 'T'h'e' 'C'o'u'r't' 'r'e'g'a'r'd's' 'i't' 'a's' 'i'm'm'o'r'a'l' 'o'r'
-'a's' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'o'r' 'i't' 'i's' 'u'n'l'a'w'f'u'l'.' '6'.' 'T'h'e' 'C'o'u'r't' 'r'e'g'a'r'd's' 'i't' 'a's' 'o'p'p'o's'e'd' 't'o' 'p'u'b'l'i'c'
-'('g')' 'A' 'b'e'i'n'g' 'a'n' 'a'g'e'n't' 'f'o'r' 'a' 'l'a'n'd'e'd' 'p'r'o'p'r'i'e't'o'r',' 'p'o'l'i'c'y'
-'
-'
+Chapter 3
+C L
+IVIL AW
+CONTRACT AND AGREEMENT It has been noted above that an agreement
+enforceable by law is a contract. All such agree-
+ments which satisfy the conditions mentioned in
+Contract
+Section 10 of the Act are contracts.
+According to Section 2(h) of the Indian Contract
+Act, “An agreement enforceable by law is a Section 10 is as under:
+contract.” “All agreements are contracts if they are made
+All agreements are not enforceable by law by the free consent of parties competent to con-
+and therefore, all agreements are not contracts. tract, for a lawful consideration and with a law-
+Some agreements may be enforceable by ful object and are not hereby expressly declared
+law and others might not be. For example, an to be void.”
+agreement to sell a radio set may be a contract, The essentials needed for a valid contract,
+but an agreement to go to see a movie may be a therefore, are as under:
+mere agreement not enforceable by law. 1. An agreement between the two parties.
+Thus all agreements are not contracts. An agreement is the result of a proposal
+Only those agreements which satisfy the essen- or an offer by one party followed by its
+tials mentioned in section 10 become contracts. acceptance by the other.
+However, all contracts are agreements. 2. Agreement should be between the parties
+who are competent to contract.
+Agreement
+3. There should be a lawful consideration and
+According to Section 2(e): “Every promise and lawful object in respect of that agreement.
+every set of promises forming the consideration 4. There should be free consent of the parties,
+for each other is an agreement.” when they enter into the agreement.
+In an agreement there is a promise from 5. The agreement must not be one, which has
+both sides. For example, A promises to deliver been expressly declared to be void.
+his watch to B and in return B promises to pay
+Proposal or Offer
+a sum of Rs 2,000 to A, there is said to be an
+The term ‘proposal has been defi ned in section
+agreement between A and B.
+2(a) as follows:
+A promise is a result of an offer (proposal)
+“When one person signifi es to another
+by one person and its acceptance by the other.
+his willingness to do or to abstain from doing
+For example, when A makes a proposal to sell
+anything, with a view to obtaining the assent of
+his watch to B for Rs 2,000 and B accepts his
+that other to such act or abstinence, he is said to
+proposal, there results a promise between the
+make a proposal.”
+two persons.
+Acceptance
+Section 2(b) of the Act defi nes promise as
+According to Section 2(b): When the person to
+under:
+whom the proposal is made signifi es his assent
+“When the person to whom the proposal is made
+thereto, the proposal is said to be accepted. A
+signifi es his assent thereto, the proposal is said
+proposal, when accepted, becomes a promise.”
+to be accepted. A proposal, when accepted, be-
+comes a promise.” Essentials of a valid acceptance
+Thus, when there is a proposal from one In order that acceptance of an offer results
+side and the acceptance of that proposal by the in a contract, the acceptance must satisfy the
+other side, it results in a promise. This promise following requirements:
+from the two parties to one another is known as 1. Acceptance should be communicated by
+an agreement. the offeree to the offeror.
+
+2. Acceptance should be absolute and Although the above stated categories of
+unqualifi ed. persons are not competent to contract, yet they
+3. Acceptance should be made in some usual may sometimes be making some bargains, tak-
+and reasonable manner, unless the proposal ing some loans, or be supplied with some goods
+prescribes the manner of acceptance. by third parties, or be conferred with some ben-
+4. Acceptance should be made while the efi ts, etc.
+offer is still subsisting.
+Free Consent
+Consideration What is free consent?
+Section 2 (d), Indian contract Act defi nes One of the essentials of a valid contract
+Consideration as under: mentioned in Section 10 is that the parties should
+“When, at the desire of the promisor, the prom- enter into the contract with their free consent.
+isee or any other person has done or abstained According to Section 14, consent is said to
+from doing, or does or abstains from doing, or be free when it is not caused by
+promises to do or to abstain from doing some- 1. coercion, as defi ned in Section 15, or
+thing, such act or abstinence or promise is called 2. undue infl uence, as defi ned in section
+a consideration for the promise.” 16, or
+The defi nition requires the following es- 3. fraud, as defi ned in Section 17, or
+sentials to be satisfi ed in order that there is valid 4. misrepresentation, as defi ned in Sec-
+consideration: tion 18, or
+1. Consideration to be given ‘at the de- 5. mistake, subject to the provisions of
+sire of the promisor’. Sections 20, 21 and 22.
+2. Consideration to be given ‘by the Consent is said to be so caused when it
+promisee or any other person’. would not have been given but by the existence
+3. Consideration may be past, present or of such coercion, undue infl uence, fraud, mis-
+future, in so far as defi nition says that representation or mistake.
+the promise: If the consent of one of the parties is not
+(i) has done or abstained from doing, free consent, i.e., it has been caused by one or
+or the other of the above stated factors, the contract
+(ii) does or abstained from doing, or is not a valid one. When consent to an agreement
+(iii) promises to do or to abstain from is caused by coercion, undue infl uence fraud or
+doing, something. misrepresentation, the agreement is a contract
+voidable at the option of the party whose con-
+4. There should be some act, abstinence
+sent was so caused. If, however, the consent is
+or promise by the promise, which con-
+caused by mistake, the agreement is void.
+stitutes consideration for the promise.
+Legality of Object and Consideration
+Capacity to Contract
+One of the essentials of a valid contract is that
+One of the essentials of a valid contract,
+the consideration and the object should be
+mentioned in Section 10, is that the parties to
+lawful. Every agreement of which the object or
+the contract should be competent to make the
+consideration is unlawful is void.
+contract.
+Section 23 mentions the circumstances
+According to Section 11: when the consideration or object of an agree-
+“Every person is competent to contract who is ment is not lawful. The section reads as under:
+of the age of majority according to the law to
+What consideration and objects are lawful,
+which he is subject, and who is of sound mind,
+and what not.
+and is not disqualifi ed from contracting by any
+The consideration or object of an agreement is
+law to which he is subject.”
+lawful, unless:
+It means that the following three categories
+(cid:121) it is forbidden by law, or
+of persons are not competent to contract:
+(cid:121) is of such a nature that, if permitted,
+1. A person who has not attained the age it would defeat the provisions of law;
+of majority, i.e., one who is a minor. or
+2. A person who is of unsound mind. (cid:121) is fraudulent; or
+3. A person who has been disqualifi ed (cid:121) involves or implies injury to the per-
+from contracting by some law. son or property of another,
+
+CIVIL LAW 85
+(cid:121) or the Court regards it as immoral, or agrees for money, without the knowledge
+opposed to public policy. of his principal, to obtain for B a lease
+In each of these cases, the consideration or of land belonging to his principal. The
+object of an agreement is said to be unlawful. agreement between A and B is void, as it
+Every agreement of which the object or consid- implies a fraud by concealment by A, on
+eration is unlawful is void. his principal.
+(h) A promises B to drop a prosecution which
+Illustrations
+he has instituted against B for robbery,
+(a) A agrees to sell his house to B for 10,000 and B promises to restore the value of the
+rupees. Here B’s promise to pay the sum of things taken. The agreement is void, as its
+10,000 rupees is the consideration for A’s object is unlawful.
+promise to sell the house, and A’s promise (i) A’s estate is sold for arrears of revenue
+to sell the house is the consideration for under the provisions of an Act of the
+B’s promise to pay 10,000 rupees. These Legislature, by which the defaulter is
+are lawful considerations. prohibited from purchasing the estate, B,
+(b) A promises to pay B 1,000 rupees at the upon an understanding with A, becomes
+end of six months if C, who owes the sum the purchaser, and agrees to convey the
+to B fails to pay it. B promises, to grant estate to A, upon receiving from him the
+time to C, accordingly. Here the promise price which B has paid. The agreement is
+of each party is the consideration for the void, as it renders the transaction in effect,
+promise of the other party, and they are a purchase by the defaulter, and would so
+lawful considerations. defeat the object of the law.
+(c) A promises for a certain sum paid to him
+(j) A, who is B’s mukhtar, promises to
+by B to make good to B the value of his
+exercise his infl uence, as such with B in
+ship if it is wrecked on a certain voyage.
+favour of C and C promises to pay 1,000
+Here, A’s promise is the consideration
+rupees to A. The agreement is void because
+for B’s payment, and B’s payment is the
+it is immoral.
+consideration for A’s promise and these
+(k) A agrees to let her daughter to hire to B
+are lawful considerations.
+for concubinage. The agreement is void,
+(d) A promises to maintain B’s child, and
+because it is immoral, though the letting
+B promises to pay 1,000 rupees yearly
+may not be punishable under the Indian
+for the purpose. Here, the promise of
+Penal Code.
+each party is the consideration for the
+In the following cases, the consideration
+promise of the other party. They are lawful
+or object has been considered to be unlawful by
+considerations.
+Section 23:
+(e) A, B and C enter into an agreement for the
+1. It is forbidden by law
+division among them of gains acquired, or
+2. It would defeat the provisions of any law
+to be acquired, by fraud, the agreement is
+3. It is fraudulent
+void, as its object is unlawful.
+(f) A promises to obtain for B an employment 4. It involves or implies injury to the person
+in the public service, and B promises to pay or property of another
+1,000 rupees to A. The agreement is void, 5. The Court regards it as immoral or
+as the consideration for it is unlawful. 6. The Court regards it as opposed to public
+(g) A being an agent for a landed proprietor, policy
 
 ---
 
 ## 📝 Multiple Choice Questions (MCQs)
 
-'M' '-'C' 'Q'
-'U'L'T'I'P'L'E' 'H'O'I'C'E' 'U'E'S'T'I'O'N'S'
-'1'.' 'F'a'c't':' 'M'r' 'M'u'k'e's'h' 'i'n'v'i't'e's' 'M'r' 'V'i'j'a'y' 't'o' 'a' '('b')' 'T'h'e' 's'e'l'l'e'r' 'a'r'e' 'n'o't' 'l'i'a'b'l'e' 'a's' 't'h'e'r'e' 'w'a's'
-'d'i'n'n'e'r' 'a't' 'a' 'h'o't'e'l'.' 'M'r' 'V'i'j'a'y' 'a'c'c'e'p't's' 't'h'e' 'n'o' 'c'o'n't'r'a'c't' 'a's' 't'h'e' 'p'a'r't'i'e's' 'n'e'v'e'r' 'i'n'-'
-'i'n'v'i't'a't'i'o'n'.' 'I't' 'i's' 'p'u'r'e'l'y' 'a' 's'o'c'i'a'l' 'a'g'r'e'e'm'e'n't'.' 't'e'n'd'e'd' 't'o' 'c'r'e'a't'e' 'l'e'g'a'l' 'r'e'l'a't'i'o'n's'h'i'p' 'b'e'-'
-'M'r' 'V'i'j'a'y' 'f'a'i'l's' 't'o' 'a'r'r'i'v'e' 'a't' 't'h'e' 'd'i'n'n'e'r' 'o'r' 'c'a'u's'e' 't'h'e'y' 'h'a'd' 'c'l'e'a'r'l'y' 'm'e'n't'i'o'n'e'd' 't'h'a't'
-'M'r' 'M'u'k'e's'h' 'h'a's' 't'o' 'g'o' 'o'u't' 'a'n'd' 'i's' 'n'o't' 'a'v'a'i'l'-' 't'h'e'i'r' 'a'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'a' 'l'e'g'a'l' 'd'o'c'u'-'
-'a'b'l'e' 'a't' 'h'i's' 'p'l'a'c'e' 'a't' 't'h'e' 'd'i'n'n'e'r' 't'i'm'e' 'd'u'e' 't'o' 'm'e'n't' 'n'o'r' 'a' 'm'e'm'o'r'a'n'd'u'm' 'n'o'r' 's'u'b'j'e'c't'
-'s'o'm'e' 'i'm'p'o'r't'a'n't' 'w'o'r'k'.' 't'o' 't'h'e' 'j'u'r'i's'd'i'c't'i'o'n' 'o'f' 'l'a'w' 'c'o'u'r't's'.'
-'I's's'u'e':' 'I's' 'M'r' 'V'i'j'a'y' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'n'o'n'-'p'e'r'-' '('c')' 'T'h'e' 'f'i' 'r'm's' 'm'a'y' 'm'a'k'e' 'm'u't'u'a'l' 'a'd'j'u'd'i'c'a'-'
-'f'o'r'm'a'n'c'e' 'o'f' 'c'o'n't'r'a'c't' 'w'i't'h' 'M'u'k'e's'h'.' 't'i'o'n'.'
-'D'e'c'i's'i'o'n':' '4'.' 'F'a'c't':' 'A' 'w'h'o' 'o'w'n's' 't'w'o' 'c'a'r's',' 'o'n'e' 'M'a'r'u't'i'
-'('a')' 'V'i'j'a'y' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'h'e' 'h'a's' 'n'o't' 'p'e'r'-' 'a'n'd' 't'h'e' 'o't'h'e'r' 'S'a'n't'r'o',' 'o'f'f'e'r's' 't'o' 's'e'l'l' 'B' 'o'n'e'
-'f'o'r'm'e'd' 't'h'e' 'c'o'n't'r'a'c't'.' 'c'a'r'.' 'A' 'i'n't'e'n'd'i'n'g' 'i't' 't'o' 'b'e' 't'h'e' 'M'a'r'u't'i' 'c'a'r'.' 'B'
-'('b')' 'V'i'j'a'y' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e'r'e' 'w'a's' 'a'c'c'e'p't's' 't'h'e' 'o'f'f'e'r' 't'h'i'n'k'i'n'g' 't'h'a't' 'i't' 'i's' 't'h'e' 'S'a'n'-'
-'n'o' 'c'o'n't'r'a'c't',' 'i't' 'w'a's' 'j'u's't' 'a' 's'o'c'i'a'l' 'a'g'r'e'e'-' 't'r'o'.'
-'m'e'n't'.' 'I's's'u'e':' 'I's' 'A' 'l'i'a'b'l'e'?'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.' 'D'e'c'i's'i'o'n':'
-'('a')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n'-'
-'2'.' 'F'a'c't':' 'M'r' 'B'a'l'f'o'u'r' 'w'a's' 'e'm'p'l'o'y'e'd' 'i'n' 'C'e'y'-' 's'e'n's'u's' 'a'n'd' 'h'e'n'c'e' 'n'o' 'c'o'n't'r'a'c't'.'
-'l'o'n'.' 'M'r's' 'B'a'l'f'o'u'r' 'o'w'i'n'g' 't'o' 'i'l'l' 'h'e'a'l't'h',' 'h'a'd' '('b')' 'A' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'o'n'c'e' 'h'e' 'h'a'd' 'o'f'-'
-'t'o' 's't'a'y' 'i'n' 'E'n'g'l'a'n'd' 'a'n'd' 'c'o'u'l'd' 'n'o't' 'a'c'c'o'm'-' 'f'e'r'e'd' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'c'o'm'p'l'e't'e'.'
-'p'a'n'y' 'h'i'm' 't'o' 'C'e'y'l'o'n'.' 'M'r' 'B'a'l'f'o'u'r' 'p'r'o'm'-' '('c')' 'I't' 'i's' 'u'p't'o' 't'h'e' 'c'o'u'r't' 't'o' 'd'e'c'i'd'e' 't'h'e' 'l'i'a'b'i'l'-'
-'i's'e'd' 't'o' 's'e'n'd' 'h'e'r' '£' '3'0' 'p'e'r' 'm'o'n't'h' 'w'h'i'l'e' 'h'e' 'i't'y'.'
-'w'a's' 'a'b'r'o'a'd'.' 'B'u't' 'M'r' 'B'a'l'f'o'u'r' 'f'a'i'l'e'd' 't'o' 'p'a'y' '5'.' 'F'a'c't':' 'A',' 'a' 'p'e'r's'o'n' 'o'f' 'w'e'a'k' 'i'n't'e'l'l'i'g'e'n'c'e'
-'t'h'a't' 'a'm'o'u'n't'.' 'S'o' 'M'r's' 'B'a'l'f'o'u'r' 'f'i' 'l'e'd' 'a' 's'u'i't' 'm'a'd'e' 'a' 'g'i'f't' 'o'f' 'h'i's' 'e'n't'i'r'e' 'p'r'o'p'e'r't'y' 't'o' 'B','
-'a'g'a'i'n's't' 'h'e'r' 'h'u's'b'a'n'd' 'f'o'r' 'r'e'c'o'v'e'r'i'n'g' 't'h'e' 'w'h'o' 'w'a's' 'i'n' 'a' 'p'o's'i't'i'o'n' 't'o' 'd'o'm'i'n'a't'e' 'h'i'm'.'
-'s'a'i'd' 'a'm'o'u'n't'.' 'T'h'e' 'g'i'f't' 'h'a'v'i'n'g' 'b'e'e'n' 'o'b't'a'i'n'e'd' 'b'y' 'u'n'd'u'e'
-'I's's'u'e':' 'I's' 'B'a'l'f'o'u'r' 'l'i'a'b'l'e' 'f'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n'-' 'i'n'f'l' 'u'e'n'c'e' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 'A'.'
-'t'r'a'c't'?' 'I's's'u'e':' 'I's' 't'h'i's' 'c'o'n't'r'a'c't' 'v'a'l'i'd'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'M'r' 'B'a'l'f'o'u'r' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e' '('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a's' 'A' 'v'o'l'u'n't'a'r'i'l'y'
-'i'n't'e'n't'i'o'n' 'n'o't' 't'o' 'c'r'e'a't'e' 'a' 'l'e'g'a'l' 'o'b'l'i'g'a'-' 'm'a'd'e' 'a' 'g'i'f't'.'
-'t'i'o'n' 'w'a's' 'c'l'e'a'r' 'f'r'o'm' 't'h'e' 'c'o'n'd'u'c't' 'o'f' 't'h'e' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'b'e'c'a'u's'e' 'A'
-'p'a'r't'i'e's'.' 'm'a'd'e' 'a' 'g'i'f't' 'u'n'd'e'r' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e' 's'o'
-'('b')' 'M'r' 'B'a'l'f'o'u'r' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n'-' 'i't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 'A'.'
-'t'r'a'c't'.' '('c')' 'I't' 'i's' 'v'o'i'd' 'a'b'i'n'i't'i'o'.'
-'('c')' 'N'o' 'c'o'n'c'l'u's'i'v'e' 'd'e'c'i's'i'o'n' 'c'a'n' 'b'e' 'd'r'a'w'n' '6'.' 'F'a'c't':' 'S',' 'i'n't'e'n'd'i'n'g' 't'o' 'd'e'c'e'i'v'e' 'Y',' 'f'a'l's'e'l'y'
-'a's' 'i't' 'i's' 'a' 'p'r'i'v'a't'e' 'a'f'f'a'i'r' 'o'f' 'h'u's'b'a'n'd' 'a'n'd' 'r'e'p'r'e's'e'n't's' 't'h'a't' '5'0'0' 'm'a'u'n'd's' 'o'f' 'i'n'd'i'g'o' 'a'r'e'
-'w'i'f'e'.' 'm'a'd'e' 'a'n'n'u'a'l'l'y' 'a't' 'X'’'s' 'f'a'c't'o'r'y' 'a'n'd' 't'h'e'r'e'b'y'
-'3'.' 'F'a'c't':' 'T'w'o' 'f'i' 'r'm's' 'e'n't'e'r'e'd' 'i'n't'o' 'a' 'w'r'i't't'e'n' 'i'n'd'u'c'e's' 'Y' 't'o' 'b'u'y' 't'h'e' 'f'a'c't'o'r'y'.'
-'c'o'n't'r'a'c't' 'f'o'r' 't'h'e' 's'a'l'e' 'a'n'd' 'p'u'r'c'h'a's'e' 'o'f' 't'i's's'u'e' 'I's's'u'e':' 'I's' 'i't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'?'
-'p'a'p'e'r'.' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'c'o'n't'a'i'n'e'd' 'a' 'c'l'a'u's'e' 'D'e'c'i's'i'o'n':'
-'t'o' 't'h'e' 'e'f'f'e'c't' 't'h'a't' '“'t'h'i's' 'a'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'e'n'-' '('a')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'t'e'r'e'd' 'i'n't'o',' 'n'o'r' 'i's' 't'h'i's' 'm'e'm'o'r'a'n'd'u'm' 'w'r'i't'-' '('b')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'t'e'n',' 'a's' 'a' 'f'o'r'm'a'l' 'o'r' 'a' 'l'e'g'a'l' 'd'o'c'u'm'e'n't',' 'a'n'd' 'o'f' 'Y' 'b'e'c'a'u's'e' 'h'e' 'h'a's' 'b'e'e'n' 'f'a'l's'e'l'y' 'm'i's'-'
-'s'h'a'l'l' 'n'o't' 'b'e' 's'u'b'j'e'c't' 't'o' 'l'e'g'a'l' 'j'u'r'i's'd'i'c't'i'o'n' 'i'n' 'r'e'p'r'e's'e'n't'a't'e'd'.'
-'t'h'e' 'l'a'w' 'c'o'u'r't's'”'.' 'S'i'n'c'e' 't'h'e' 'g'o'o'd's' 'w'e'r'e' 'n'o't' '('c')' 'I't' 'i's' 'v'o'i'd' 'a'b'i'n'i't'i'o'.'
-'d'e'l'i'v'e'r'e'd',' 't'h'e' 'b'u'y'e'r's' 'b'r'o'u'g'h't' 'a'n' 'a'c't'i'o'n' 'f'o'r' '7'.' 'F'a'c't':' 'X' 'b'o'r'r'o'w's' 'R's' '5'0','0'0'0' 'f'r'o'm' 'Y' 'f'o'r' 't'h'e'
-'n'o'n'-'d'e'l'i'v'e'r'y'.' 'p'u'r'p'o's'e' 'o'f' 's'm'u'g'g'l'i'n'g' 'g'o'o'd's'.' 'Y' 'k'n'o'w's' 'o'f'
-'I's's'u'e':' 'A'r'e' 't'h'e' 's'e'l'l'e'r's' 'l'i'a'b'l'e'?' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 't'h'e' 'l'o'a'n'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'I's' 't'h'i's' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'('a')' 'T'h'e' 's'e'l'l'e'r's' 'a'r'e' 'l'i'a'b'l'e' 'a's' 't'h'e'y' 'h'a'd' 'e'n'-' 'D'e'c'i's'i'o'n':'
-'t'e'r'e'd' 'i'n't'o' 'a' 'w'r'i't't'e'n' 'a'g'r'e'e'm'e'n't'.' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'
-'C'I'V'I'L' 'L'A'W' '8'7'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'X' 'a'n'd' 'Y' 'D'e'c'i's'i'o'n':'
-'i's' 'c'o'l'l'a't'e'r'a'l' 't'o' 't'h'e' 'm'a'i'n' 'a'g'r'e'e'm'e'n't' '('a')' 'Y'e's',' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'B'
-'w'h'i'c'h' 'i's' 'i'l'l'e'g'a'l' 's'o' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'i'f' 't'h'e' 'h'o'r's'e' 'd'i'd'n'’'t' 'p'r'o'v'e'
-'a'l's'o' 'i'l'l'e'g'a'l' 'b'e'c'a'u's'e' 'a'n'y't'h'i'n'g' 'd'o'n'e' 'l'u'c'k'y'.'
-'w'h'i'c'h' 'i's' 'u'n'l'a'w'f'u'l',' 'i'm'm'o'r'a'l' 'a'g'a'i'n's't' '('b')' 'T'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a's' 't'h'e' 't'e'r'm's'
-'p'u'b'l'i'c' 'p'o'l'i'c'y' 'c'a'n' 'n'e'v'e'r' 'r'e's'u'l't' 'i'n't'o' 'a' 'o'f' 'c'o'n't'r'a'c't' 'a'r'e' 's'o' 'v'a'g'u'e' 'a'n'd' 'l'o'o's'e'.'
-'v'a'l'i'd' 'a'g'r'e'e'm'e'n't'.' '('c')' 'I't' 'i's' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'('c')' 'N'o't'h'i'n'g' 'c'o'n'c'l'u's'i'v'e' 'c'a'n' 'b'e' 's'a'i'd'.' 'A'.'
-'8'.' 'F'a'c't':' 'T'h'e' 'C'a'r'b'o'l'i'c' 'S'm'o'k'e' 'B'a'l'l' 'C'o'.' 'o'f'-' '1'1'.' 'F'a'c't':' 'D' 's'e'n't' 'h'i's' 's'e'r'v'a'n't' 'P' 't'o' 't'r'a'c'e' 'h'i's'
-'f'e'r'e'd' 'b'y' 'a'd'v'e'r't'i's'e'm'e'n't',' 'a' 'r'e'w'a'r'd' 'o'f' '£' '1'0'0' 'm'i's's'i'n'g' 'n'e'p'h'e'w'.' 'D' 'i'n' 't'h'e' 'm'e'a'n't'i'm'e' 'a'n'-'
-'t'o' 'a'n'y' 'p'e'r's'o'n' 'w'h'o' 's'h'o'u'l'd' 'c'o'n't'r'a'c't' 'i'n'f'l' 'u'e'n'-' 'n'o'u'n'c'e'd' 'a' 'r'e'w'a'r'd' 'f'o'r' 'p'r'o'v'i'd'i'n'g' 'i'n'f'o'r'm'a'-'
-'z'a' 'a'f't'e'r' 'h'a'v'i'n'g' 'u's'e'd' 't'h'e' 's'm'o'k'e'-'b'a'l'l' 't'h'r'e'e' 't'i'o'n' 'a'b'o'u't' 't'h'e' 'm'i's's'i'n'g' 'b'o'y'.' 'P',' 'i'n' 'i'g'n'o'r'a'n'c'e'
-'t'i'm'e's' 'd'a'i'l'y' 'f'o'r' 't'w'o' 'w'e'e'k's' 'a'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'o'f' 't'h'e' 'a'n'n'o'u'n'c'e'm'e'n't' 't'r'a'c'e'd' 't'h'e' 'b'o'y' 'a'n'd'
-'p'r'i'n't'e'd' 'd'i'r'e'c't'i'o'n's'.' 'I't' 'a'l's'o' 'a'd'd'e'd' 't'h'a't' '£' '1'0'0' 'i'n'f'o'r'm'e'd' 'D'.' 'P' 'l'a't'e'r' 'o'n' 'c'a'm'e' 't'o' 'k'n'o'w' 'a'n'd'
-'h'e' 'c'l'a'i'm'e'd' 'i't'.'
-'h'a'v'e' 'b'e'e'n' 'd'e'p'o's'i't'e'd' 'i'n' 't'h'e' 'b'a'n'k' 's'h'o'w'i'n'g'
-'I's's'u'e':' 'I's' 't'h'e' 's'e'r'v'a'n't' 'e'n't'i't'l'e'd' 't'o' 'r'e'w'a'r'd'?'
-'i't's' 's'i'n'c'e'r'i't'y' 'i'n' 't'h'e' 'p'r'o'm'i's'e'.' 'T'h'e' 'p'l'a'i'n't'i'f'f'
-'D'e'c'i's'i'o'n':'
-'M'r's' 'C'a'r'l'i'l'l' 'u's'e'd' 't'h'e' 's'm'o'k'e'-'b'a'l'l' 'a'c'c'o'r'd'i'n'g'
-'('a')' 'S'e'r'v'a'n't' 'i's' 'e'n't'i't'l'e'd' 't'o' 'c'l'a'i'm'.'
-'t'o' 't'h'e' 'd'i'r'e'c't'i'o'n's' 't'o' 't'h'e' 'c'o'm'p'a'n'y' 'b'u't' 'c'o'n'-'
-'('b')' 'S'e'r'v'a'n't' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 't'o' 'c'l'a'i'm' 'b'e'-'
-'t'r'a'c't'e'd' 'i'n'f'l' 'u'e'n'z'a'.'
-'c'a'u's'e' 'h'e' 'w'a's' 'i'g'n'o'r'a'n't' 'o'f' 't'h'e' 'o'f'f'e'r' 'o'f'
-'I's's'u'e':' 'I's' 'c'o'm'p'a'n'y' 'l'i'a'b'l'e' 't'o' 'g'i'v'e' 't'h'e' 'r'e'-'
-'r'e'w'a'r'd' 's'o' 't'h'e'r'e' 'w'a's' 'n'o' 'a'g'r'e'e'm'e'n't' 'b'e'-'
-'w'a'r'd' 'a'n'd' 'M'r's' 'C'a'r'l'i'l'l' 'i's' 'e'n't'i't'l'e'd' 't'o' 'a'w'a'r'd'?'
-'c'a'u's'e' 't'h'e'r'e' 'w'a's' 'n'o' 'a'c'c'e'p't'a'n'c'e'.'
-'D'e'c'i's'i'o'n':'
-'('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'('a')' 'Y'e's',' 'c'o'm'p'a'n'y' 'i's' 'l'i'a'b'l'e'.' 'M'r's' 'C'a'r'l'i'l'l' 'i's'
-'o'f' 't'h'e' 's'e'r'v'a'n't'.'
-'e'n't'i't'l'e'd' 't'o' 't'h'e' 'r'e'w'a'r'd' 'b'e'c'a'u's'e' 't'h'e' 'p'e'r'-'
-'1'2'.' 'F'a'c't':' 'N' 'a'd'v'e'r't'i's'e'd' 'i'n' 't'h'e' 'n'e'w's'p'a'p'e'r' 't'o' 'e'f'-'
-'f'o'r'm'a'n'c'e' 'o'f' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'i's' 'a' 's'u'f'f'i' '-'
-'f'e'c't' 's'a'l'e' 'o'f' 'h'i's' 'g'o'o'd's' 'o'n' 'a' 'p'a'r't'i'c'u'l'a'r' 'd'a'y' 'a't'
-'c'i'e'n't' 'a'c'c'e'p't'a'n'c'e' 'w'i't'h'o'u't' 'n'o't'i'f'i' 'c'a't'i'o'n'.'
-'a' 'p'a'r't'i'c'u'l'a'r' 'p'l'a'c'e'.' 'H' 't'r'a'v'e'l'l'e'd' 'a' 'l'o'n'g' 'd'i's'-'
-'('b')' 'C'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e'.'
-'t'a'n'c'e' 't'o' 'b'i'd' 'f'o'r' 't'h'e' 't'h'i'n'g's'.' 'O'n' 'a'r'r'i'v'a'l',' 'h'e'
-'('c')' 'M'r's' 'C'a'r'l'i'l'l' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 'b'e'c'a'u's'e'
-'f'o'u'n'd' 't'h'a't' 't'h'e' 's'a'l'e' 'w'a's' 'c'a'n'c'e'l'l'e'd'.' 'H'e' 's'u'e'd'
-'t'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'N' 'f'o'r' 't'h'e' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.'
-'9'.' 'F'a'c't':' 'A' 'a'g'r'e'e'd' 't'o' 't'a'k'e' 'B'’'s' 'h'o'u's'e' 'o'n' 'r'e'n't'
-'I's's'u'e':' 'I's' 'N' 'l'i'a'b'l'e'?'
-'f'o'r' 't'h'r'e'e' 'y'e'a'r's' 'a't' 't'h'e' 'r'e'n't' 'o'f' '£' '8'5' 'p'e'r' 'a'n'-'
-'D'e'c'i's'i'o'n':'
-'n'u'm' 'p'r'o'v'i'd'e'd' 't'h'e' 'h'o'u's'e' 'w'a's' 'p'u't' 't'o' 't'h'o'r'-'
-'('a')' 'N' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'a'd'v'e'r't'i's'e'm'e'n't'
-'o'u'g'h' 'r'e'p'a'i'r' 'a'n'd' 't'h'e' 'd'r'a'w'i'n'g' 'r'o'o'm's' 'w'e'r'e'
-'w'a's' 'm'e'r'e'l'y' 'e'x'p'r'e's's'i'o'n' 'o'f' 'a'n' 'i'n't'e'n'-'
-'d'e'c'o'r'a't'e'd' '“'a'c'c'o'r'd'i'n'g' 't'o' 'p'r'e's'e'n't' 's't'y'l'e'”'.'
-'t'i'o'n' 'a'n'd' 'n'o't' 'a'n' 'o'f'f'e'r' 'w'h'i'c'h' 'c'o'u'l'd' 'b'e'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A'
-'a'c'c'e'p't'e'd' 'b'y' 't'r'a'v'e'l'l'i'n'g' 't'o' 't'h'e' 'p'l'a'c'e' 'o'f'
-'a'n'd' 'B'?'
-'i'n't'e'n'd'e'd' 's'a'l'e'.'
-'D'e'c'i's'i'o'n':'
-'('b')' 'N' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'a'l'l' 't'h'e' 'e'x'p'e'n's'e's' 'i'n'-'
-'('a')' 'T'h'e'r'e' 'i's' 'n'o't' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'c'u'r'r'e'd' 'b'y' 'H' 'f'o'r' 't'r'a'v'e'l'i'n'g' 's'u'c'h' 'a' 'l'o'n'g'
-'i't' 'i's' 'a' 'v'a'g'u'e' 't'e'r'm',' 'b'e'c'a'u's'e' 't'h'e' 't'e'r'm' 'd'i's't'a'n'c'e'.'
-'“'p'r'e's'e'n't' 's't'y'l'e'”' 'm'a'y' 'm'e'a'n' 'o'n'e' 't'h'i'n'g' 't'o' '('c')' 'I't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 'H'.'
-'A' 'a'n'd' 'a'n'o't'h'e'r' 't'o' 'B'.' 'H'e'n'c'e',' 't'h'e' 'a'g'r'e'e'-' '1'3'.' 'F'a'c't':' 'T',' 'w'h'o' 'c'o'u'l'd' 'n'o't' 'r'e'a'd',' 't'o'o'k' 'a'n' 'e'x'-'
-'m'e'n't' 'w'a's' 'v'o'i'd' 'o'n' 't'h'e' 'g'r'o'u'n'd' 't'h'a't' 't'h'e' 'c'u'r's'i'o'n' 't'i'c'k'e't' 'o'n' 't'h'e' 'r'a'i'l'w'a'y'.' 'O'n' 't'h'e' 'f'r'o'n't'
-'t'e'r'm's' 'o'f' 'o'f'f'e'r' 'w'e'r'e' 'v'a'g'u'e' 'a'n'd' 'u'n'c'e'r'-' 'o'f' 'r'a'i'l'w'a'y' 't'i'c'k'e't' 'w'a's' 'w'r'i't't'e'n' 't'h'a't' 't'h'e' 'c'o'm'-'
-'t'a'i'n'.' 'p'a'n'y' 'w'o'u'l'd' 'n'o't' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'p'e'r's'o'n'a'l' 'i'n'-'
-'('b')' 'T'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e'r'e' 'j'u'r'i'e's' 't'o' 'p'a's's'e'n'g'e'r's'.' 'T' 'w'a's' 'i'n'j'u'r'e'd' 'b'y' 'a'
-'i's' 'a'n' 'o'f'f'e'r' 'f'r'o'm' 't'h'e' 's'i'd'e' 'o'f' 'A' 'a'n'd' 'a'c'-' 'r'a'i'l'w'a'y' 'a'c'c'i'd'e'n't'.'
-'c'e'p't'a'n'c'e' 'f'r'o'm' 't'h'e' 's'i'd'e' 'o'f' 'B'.' 'I's's'u'e':' 'I's' 't'h'e' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'l'i'a'b'l'e'?'
-'('c')' 'I't' 'i's' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 'D'e'c'i's'i'o'n':'
-'A'.' '('a')' 'Y'e's' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e'
-'1'0'.' 'F'a'c't':' 'A' 'p'u'r'c'h'a's'e'd' 'a' 'h'o'r's'e' 'f'r'o'm' 'B' 'a'n'd' 't'h'e' 't'r'a'v'e'l'e'r' 'c'o'u'l'd' 'n'o't' 'r'e'a'd'.'
-'p'r'o'm'i's'e'd' 't'h'a't' 'i'f' 't'h'e' 'h'o'r's'e' 'w'a's' 'l'u'c'k'y' 't'o' '('b')' 'R'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'-'
-'h'i'm',' 'h'e' 'w'o'u'l'd' 'g'i'v'e' 'R's' '5'0' 'm'o'r'e' 'o'r' 'h'e' 'c'a'u's'e' 'T' 'w'a's' 'b'o'u'n'd' 'b'y' 't'h'e' 'c'o'n'd'i't'i'o'n's'
-'w'o'u'l'd' 'p'u'r'c'h'a's'e' 'a'n'o't'h'e'r' 'h'o'r's'e'.' 'a'n'd' 'c'o'u'l'd' 'n'o't' 'r'e'c'o'v'e'r' 'a'n'y' 'd'a'm'a'g'e's'.'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' '('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'a'n'd' 'B'?' 'o'f' 'T'.'
-'
-'1'4'.' 'F'a'c't':' 'M' 'd'e'l'i'v'e'r'e'd' 'o'n'e' 'n'e'w' 's'a'r'e'e' 't'o' 'a' 'a's'k'i'n'g' 'w'h'e't'h'e'r' 'h'i's' 'o'f'f'e'r' 'w'a's' 'a'c'c'e'p't'e'd'.'
-'l'a'u'n'd'r'y' 'f'o'r' 'w'a's'h'i'n'g'.' 'O'n' 't'h'e' 'b'a'c'k' 'o'f' 't'h'e' 'H'e' 'a'l's'o' 'a'd'd'e'd' 't'h'a't' 'h'e' 'w'a's' 'r'e'a'd'y' 't'o' 'a'c'c'e'p't'
-'p'r'i'n't'e'd' 'r'e'c'e'i'p't' 'i't' 'w'a's' 's't'a't'e'd' 't'h'a't' 't'h'e' 'c'u's'-' 'a'n'y' 'h'i'g'h'e'r' 'p'r'i'c'e' 'i'f' 'f'o'u'n'd' 'r'e'a's'o'n'a'b'l'e'.' 'T'h'e'
-'t'o'm'e'r' 'w'o'u'l'd' 'b'e' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'e'r' 'o'n'l'y' 'a'g'e'n't' 'r'e'p'l'i'e'd',' '“'w'o'u'l'd' 'n'o't' 'a'c'c'e'p't' 'l'e's's' 't'h'a'n'
-'1'5'%' 'o'f' 't'h'e' 'm'a'r'k'e't' 'p'r'i'c'e' 'o'f' 't'h'e' 'a'r't'i'c'l'e' 'i'n' 'R's' '1'0','0'0'0'”'.' 'D' 'a'c'c'e'p't'e'd' 't'h'i's' 'a'n'd' 'b'r'o'u'g'h't' 'a'
-'c'a's'e' 'o'f' 'l'o's's'.' 'T'h'e' 's'a'r'e'e' 'w'a's' 'l'o's't' 'o'w'i'n'g' 't'o' 's'u'i't' 'f'o'r' 's'p'e'c'i'f'i' 'c' 'p'e'r'f'o'r'm'a'n'c'e'.'
-'t'h'e' 'n'e'g'l'i'g'e'n'c'e' 'o'f' 't'h'e' 'l'a'u'n'd'r'y'.' 'I's's'u'e':' 'I's' 'P' 'l'i'a'b'l'e' 'f'o'r' 's'p'e'c'i'f'i' 'c' 'p'e'r'f'o'r'-'
-'I's's'u'e':' 'I's' 'M' 'e'n't'i't'l'e'd' 't'o' 'c'l'a'i'm' 't'h'e' 'l'o's's'?' 'm'a'n'c'e'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'M' 'i's' 'e'n't'i't'l'e'd' 't'o' 'c'l'a'i'm' 't'h'e' 'l'o's's' 'a'n'd' 't'h'e' '('a')' 'P' 'i's' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 's'p'e'c'i'f'i' 'c' 'p'e'r'f'o'r'm'a'n'c'e'
-'l'a'u'n'd'r'y' 's'h'o'p' 'i's' 'l'i'a'b'l'e'.' 'o'f' 't'h'e' 'c'o'n't'r'a'c't' 'e'n't'e'r'e'd' 'i'n't'o' 'D' 'a'n'd' 'P'.'
-'('b')' 'M' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 'b'e'c'a'u's'e' 't'h'e' 'c'o'n'd'i'-' '('b')' 'P' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'o'n'l'y'
-'t'i'o'n' 'w'a's' 'p'r'i'n't'e'd' 'o'n' 't'h'e' 'b'a'c'k' 'o'f' 't'h'e' 'o'f'f'e'r' 'o'r' 'c'o'u'n't'e'r' 'o'f'f'e'r' 'b'u't' 'n'o' 'f'o'r'm'a'l'/'
-'r'e'c'e'i'p't'.' 'l'e'g'a'l' 'o'f'f'e'r' 'a'n'd' 'a'c'c'e'p't'a'n'c'e'.' 'H'e'n'c'e' 'n'o'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'v'a'l'i'd' 'c'o'n't'r'a'c't',' 'h'e'n'c'e' 'P' 'n'o't' 'l'i'a'b'l'e'.'
-'1'5'.' 'F'a'c't':' 'A' 'w'r'i't'e's' 't'o' 'B',' '“'I' 'o'f'f'e'r' 't'o' 's'e'l'l' 'm'y' '('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'h'o'u's'e' 'f'o'r' 'R's' '4'0','0'0'0'.' 'I'f' 'I' 'd'o' 'n'o't' 'r'e'c'e'i'v'e' 'a' 'o'f' 'D'.'
-'r'e'p'l'y' 'b'y' 'M'o'n'd'a'y' 'n'e'x't',' 'I' 's'h'a'l'l' 'a's's'u'm'e' 't'h'a't' '1'8'.' 'F'a'c't':' 'A' 'o'f'f'e'r'e'd' 't'o' 's'e'l'l' 'a' 'f'a'r'm' 'f'o'r' '£' '1','0'0'0','
-'y'o'u' 'h'a'v'e' 'a'c'c'e'p't'e'd' 't'h'e' 'o'f'f'e'r'”'.' 'X' 's'a'i'd' 'h'e' 'w'o'u'l'd' 'g'i'v'e' '£' '9'5'0'.' 'A' 'r'e'f'u's'e'd' 'a'n'd'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'X' 't'h'e'n' 's'a'i'd' 'h'e' 'w'o'u'l'd' 'g'i'v'e' '£' '1','0'0'0',' 'a'n'd'
-'w'h'e'n' 'A' 'd'e'c'l'i'n'e'd' 't'o' 'a'd'h'e'r'e' 't'o' 'h'i's' 'o'r'i'g'i'n'a'l'
-'a'n'd' 'B'?'
-'o'f'f'e'r' 't'r'i'e'd' 't'o' 'o'b't'a'i'n' 's'p'e'c'i'f'i' 'c' 'p'e'r'f'o'r'm'a'n'c'e'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A'
-'('a')' 'Y'e's',' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'a'n'd' 'X'?'
-'('b')' 'N'o',' 't'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'D'e'c'i's'i'o'n':'
-'A' 'm'a'd'e' 'a' 'o'f'f'e'r' 'b'u't' 'd'i'd'n'’'t' 'a'c'c'e'p't' 'i't'.'
-'('a')' 'T'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a's' 'X'’'s' 'o'f'f'e'r'
-'('c')' 'B'e'c'a'u's'e' 'A' 'h'a'd' 'm'a'd'e' 'a'n' 'o'f'f'e'r' 's'o' 't'h'e'
-'t'o' 'p'a'y' '£' '9'5'0' 'i's' 'a' 'r'e'f'u's'a'l' 'o'f' 't'h'e' 'o'f'f'e'r'
-'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'a'n'd' 'a' 'c'o'u'n't'e'r' 'o'f'f'e'r'.'
-'A'.'
-'('b')' 'T'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'A' 'i's' 'l'i'-'
-'1'6'.' 'F'a'c't':' 'H'a'r'v'e'y' 's'e'n't' 'a' 't'e'l'e'g'r'a'm' 't'o' 'F'a'c'e'y'
-'a'b'l'e' 'f'o'r' 's'p'e'c'i'f'i' 'c' 'p'e'r'f'o'r'm'a'n'c'e'.'
-'s't'a't'i'n'g' '“'w'i'l'l' 'y'o'u' 's'e'l'l' 'u's' 't'h'e' 'E's't'a't'e' 'o'f' 'B'u'm'-'
-'('c')' 'I't' 'i's' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'b'e'r' 'H'a'l'l' 'P'e'n' 'f'o'r' '£' '9'0'0'”'?'
-'X'.'
-'H'a'r'v'e'y' 's'e'n't' 'a'n'o't'h'e'r' 't'e'l'e'g'r'a'm' 't'o' 'F'a'c'e'y'
-'1'9'.' 'F'a'c't':' 'P' 'b'o'u'g'h't' 'a' 's't'e'a'm'e'r' 't'i'c'k'e't' 'o'n' 't'h'e' 'f'a'c'e'
-'s't'a't'i'n'g' '‘'W'e' 'a'g'r'e'e' 't'o' 'b'u'y' 'B'u'm'p'e'r' 'H'a'l'l'
-'o'f' 'w'h'i'c'h' 'w'e'r'e' 't'h'e's'e' 'w'o'r'd's' 'o'n'l'y',' '“'D'u'b'l'i'n'
-'P'e'n' 'f'o'r' 's'u'm' 'o'f' '£' '9'0'0' 'a's'k'e'd' 'b'y' 'y'o'u'.' 'P'l'e'a's'e'
-'t'o' 'W'h'i't'e'h'a'v'e'n'.'”' 'O'n' 't'h'e' 'b'a'c'k' 'w'e'r'e' 'p'r'i'n't'e'd'
-'s'e'n'd' 'u's' 'y'o'u'r' 't'i't'l'e' 'd'e'e'd's' 'i'n' 'o'r'd'e'r' 't'h'a't' 'w'e'
-'c'e'r't'a'i'n' 'c'o'n'd'i't'i'o'n's' 'o'n'e' 'o'f' 'w'h'i'c'h' 'e'x'c'l'u'd'e'd'
-'m'a'y' 'g'e't' 'e'a'r'l'y' 'p'o's's'e's's'i'o'n'.'’'
-'t'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 't'h'e' 'c'o'm'p'a'n'y' 'f'o'r' 'l'o's's',' 'i'n'j'u'r'y'
-'B'u't' 'F'a'c'e'y' 'd'i'd' 'n'o't' 's'e'n'd' 'a'n'y' 'r'e'p'l'y' 't'o' 't'h'e'
-'o'r' 'd'e'l'a'y' 't'o' 't'h'e' 'p'a's's'e'n'g'e'r' 'o'r' 'h'i's' 'l'u'g'g'a'g'e'.' 'P'
-'l'a's't' 't'e'l'e'g'r'a'm' 's'e'n't' 'b'y' 'H'a'r'v'e'y'.' 'H'e'n'c'e',' 'H'a'r'-'
-'h'a'd' 'n'o't' 's'e'e'n' 't'h'e' 'b'a'c'k' 'o'f' 't'h'e' 't'i'c'k'e't',' 'n'o'r' 'w'a's'
-'v'e'y' 'f'i' 'l'e'd' 'a' 'c'a's'e' 'a'g'a'i'n's't' 'F'a'c'e'y' 'c'l'a'i'm'i'n'g' 't'h'e'
-'t'h'e'r'e' 'a'n'y' 'i'n'd'i'c'a't'i'o'n' 'o'n' 'h'e' 'f'a'c'e' 'a'b'o'u't' 't'h'e'
-'B'u'm'b'e'r' 'H'a'l'l' 'P'e'n' 'E's't'a't'e'.'
-'c'o'n'd'i't'i'o'n's' 'o'n' 't'h'e' 'b'a'c'k'.' 'P'’'s' 'l'u'g'g'a'g'e' 'w'a's'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'H'a'r'-'
-'l'o's't' 'o'n' 't'h'e' 'w'a'y' 'd'u'e' 't'o' 't'h'e' 'n'e'g'l'i'g'e'n'c'e' 'o'f'
-'v'e'y' 'a'n'd' 'F'a'c'e'y'?'
-'t'h'e' 'c'o'm'p'a'n'y'’'s' 's'e'r'v'a'n't's'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'm'p'a'n'y' 'l'i'a'b'l'e'?'
-'('a')' 'Y'e's',' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'D'e'c'i's'i'o'n':'
-'H'a'r'v'e'y' 'm'a'd'e' 'a'n' 'o'f'f'e'r' 'f'o'r' 't'h'r'e'e' 't'i'm'e's'
-'('a')' 'C'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'c'o'm'-'
-'a'n'd' 'F'a'c'e'y' 'd'i'd'n'’'t' 'r'e's'p'o'n'd' 'w'h'i'c'h'
-'p'a'n'y' 'h'a'd' 'p'r'i'n't'e'd' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'o'n' 't'h'e'
-'a'm'o'u'n't's' 't'o' 'h'i's' 'a'c'c'e'p't'a'n'c'e'.'
-'b'a'c'k' 'o'f' 't'h'e' 't'i'c'k'e't' 't'h'a't' 'c'o'm'p'a'n'y' 'i's' 'n'o't'
-'('b')' 'T'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'l'o's's',' 'i'n'j'u'r'y' 'o'r' 'd'e'l'a'y'.'
-'t'h'e'r'e' 'i's' 'n'o' 'a'c'c'e'p't'a'n'c'e' 'o'f' 't'h'e' 'o'f'f'e'r'.'
-'('b')' 'C'o'm'p'a'n'y' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'i't' 'w'a's'
-'('c')' 'I't' 'i's' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n'
-'p'r'i'n't'e'd' 'o'n' 't'h'e' 'f'r'o'n't' 's'i'd'e' 't'h'a't' 't'h'e' 'c'o'n'-'
-'o'f' 'H'a'r'v'e'y' 'b'e'c'a'u's'e' 'H'a'r'v'e'y' 'h'a'd' 'm'a'd'e'
-'d'i't'i'o'n's' 'a'r'e' 'p'r'i'n't'e'd' 'o'n' 't'h'e' 'b'a'c'k' 's'i'd'e'.'
-'r'e'p'e'a't'e'd' 'o'f'f'e'r's'.' '('c')' 'C'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'i't' 'i's' 't'h'e'
-'1'7'.' 'F'a'c't':' 'D' 'o'f'f'e'r'e'd' 't'o' 'p'u'r'c'h'a's'e' 'a' 'l'o'd'g'e' 'o'w'n'e'd' 'd'u't'y' 'o'f' 't'h'e' 't'r'a'v'e'l'l'e'r' 't'o' 't'a'k'e' 'c'a'r'e' 'o'f' 'i't's'
-'b'y' 'P' 'f'o'r' 'R's' '6','0'0'0'.' 'H'e' 'w'r'o't'e' 't'o' 'P'’'s' 'a'g'e'n't' 'l'u'g'g'a'g'e'.'
-'
-'C'I'V'I'L' 'L'A'W' '8'9'
-'2'0'.' 'F'a'c't':' 'P' 'd'e'p'o's'i't'e'd' 'h'i's' 'b'a'g' 'a't' 't'h'e' 'c'l'o'c'k' 't'h'e' 'c'o'n'd'i't'i'o'n' 'l'i'm'i't'i'n'g' 't'h'e' 'c'o'm'p'a'n'y'’'s'
-'r'o'o'm' 'a't' 'a' 'r'a'i'l'w'a'y' 's't'a't'i'o'n' 'a'n'd' 'r'e'c'e'i'v'e'd' 'a' 'l'i'a'b'i'l'i't'y'.'
-'t'i'c'k'e't' 'c'o'n't'a'i'n'i'n'g' 'o'n' 'i't's' 'f'a'c'e',' 't'h'e' 'w'o'r'd's' '“'s'e'e' '('c')' 'I't' 'w'i'l'l' 'b'e' 'a't' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e'
-'b'a'c'k'.'”' 'O'n' 't'h'e' 'b'a'c'k' 'o'f' 't'h'e' 't'i'c'k'e't' 't'h'e'r'e' 'w'a's' 'c'o'u'r't'.'
-'a' 'c'o'n'd'i't'i'o'n' 't'h'a't',' '“'t'h'e' 'c'o'm'p'a'n'y' 'w'i'l'l' 'n'o't' 'b'e' '2'3'.' 'F'a'c't':' 'P' 'a'n'd' 'h'e'r' 'h'u's'b'a'n'd' 'h'i'r'e'd' 'a' 'r'o'o'm' 'a't'
-'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 'a'n'y' 'p'a'c'k'a'g'e' 'e'x'c'e'e'd'i'n'g' 't'h'e' 'a' 'h'o't'e'l' 'a'n'd' 'p'a'i'd' 'a' 'w'e'e'k'’'s' 'r'e'n't' 'i'n' 'a'd'v'a'n'c'e'.'
-'v'a'l'u'e' 'o'f' '£' '1'0'.'”' 'A' 'n'o't'i'c'e' 't'o' 't'h'e' 's'a'm'e' 'e'f'f'e'c't' 'W'h'e'n' 't'h'e'y' 'w'e'n't' 'u'p' 't'o' 'o'c'c'u'p'y' 't'h'e' 'r'o'o'm'
-'w'a's' 'h'u'n'g' 'u'p' 'i'n' 't'h'e' 'c'l'o'a'k' 'r'o'o'm'.' 'P'’'s' 'b'a'g' 't'h'e'r'e' 'w'a's' 'a' 'n'o't'i'c'e' 'o'n' 'o'n'e' 'o'f' 't'h'e' 'w'a'l'l's' 'd'i's'-'
-'w'a's' 'l'o's't' 'a'n'd' 'h'e' 'c'l'a'i'm'e'd' 't'h'e' 'a'c't'u'a'l' 'v'a'l'u'e' 'c'l'a'i'm'i'n'g' 't'h'e' 'o'w'n'e'r's' 'l'i'a'b'i'l'i't'y' 'f'o'r' 'd'a'm'a'g'e','
-'o'f' 't'h'e' 'l'o's't' 'b'a'g',' '£' '2'4',' '1'0' 's'.' 'T'h'e' 'c'l'a'i'm' 'w'a's' 'l'o's's' 'o'r' 't'h'e'f't' 'o'f' 'a'r't'i'c'l'e's' 'i'n' 't'h'e' 'r'o'o'm'.' 'A' 't'h'i'e'f'
-'n'e'g'a't'i'v'e'd' 'a'n'd' 'o'n'l'y' '£' '1'0' 'w'a's' 'a'w'a'r'd'e'd'.' 'e'n't'e'r'e'd' 't'h'e' 'r'o'o'm' 'd'u'e' 't'o' 't'h'e' 'n'e'g'l'i'g'e'n'c'e' 'o'f'
-'I's's'u'e':' 'I's' 't'h'e' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'l'i'a'b'l'e'?' 't'h'e' 'h'o't'e'l' 's'e'r'v'a'n't's'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'I's' 't'h'e' 'o'w'n'e'r' 'o'f' 't'h'e' 'h'o't'e'l' 'l'i'a'b'l'e'?'
-'('a')' 'T'h'e' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e'.' 'D'e'c'i's'i'o'n':'
-'('b')' 'T'h'e' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'i's' 'l'i'a'b'l'e'.' '('a')' 'N'o',' 'h'e' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'i't' 'i's' 'c'l'e'a'r'l'y'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'w'r'i't't'e'n' 'o'n' 't'h'e' 'w'a'l'l' 't'h'a't' 'h'o't'e'l' 'a'u't'h'o'r'i'-'
-'2'1'.' 'F'a'c't':' 'P' 'p'u'r'c'h'a's'e'd' 'f'r'o'm' 'D' 'c'o'm'p'a'n'y',' 'a' 't'i'e's' 'w'i'l'l' 'n'o't' 'b'e' 'l'i'a'b'l'e' 'd'a'm'a'g'e',' 'l'o's's' 'o'r'
-'s't'e'a'm'e'r' 't'i'c'k'e't' 'c'o'n't'a'i'n'i'n'g' 'c'o'n'd'i't'i'o'n's' 'p'r'i'n't'-' 't'h'e'f't'.'
-'e'd' 'i'n' 't'h'e' 'F'r'e'n'c'h' 'L'a'n'g'u'a'g'e'.' 'A't' 't'h'e' 'f'o'o't' 'o'f' '('b')' 'O'w'n'e'r' 'o'f' 't'h'e' 'h'o't'e'l' 'i's' 'l'i'a'b'l'e' 's'i'n'c'e' 't'h'e'
-'t'h'e' 't'i'c'k'e't',' 't'h'e'r'e' 'w'a's' 'a'n' 'i'n't'i'm'a't'i'o'n' 'i'n' 'r'e'd' 'n'o't'i'c'e' 'w'a's' 'n'o't' 'a' 'p'a'r't' 'o'f' 't'h'e' 'a'g'r'e'e'm'e'n't'
-'l'e't't'e'r's' 't'h'a't' 't'h'e' 't'i'c'k'e't' 'w'a's' 'i's's'u'e'd' 's'u'b'j'e'c't' 't'o' 'a's' 'i't' 'c'a'm'e' 't'o' 't'h'e' 'k'n'o'w'l'e'd'g'e' 'o'f' 't'h'e' 'c'l'i'-'
-'t'h'e' 'c'o'n'd'i't'i'o'n's' 'p'r'i'n't'e'd' 'o'n' 't'h'e' 'b'a'c'k'.' 'O'n'e' 'o'f' 'e'n't' 'a'f't'e'r' 't'h'e' 'c'o'n't'r'a'c't' 'h'a'd' 'b'e'e'n' 'e'n't'e'r'e'd'
-'t'h'e's'e' 'c'o'n'd'i't'i'o'n's' 'w'a's' 't'h'a't' 't'h'e' 'c'o'm'p'a'n'y' 'i'n'-' 'i'n't'o'.'
-'c'u'r'r'e'd' 'n'o' 'l'i'a'b'i'l'i't'y' 'f'o'r' 'a'n'y' 'd'a'm'a'g'e' 'w'h'i'c'h' '('c')' 'T'h'e' 'd'e'c'i's'i'o'n' 'w'i'l'l' 'b'e' 'i'n' 't'h'e' 'h'a'n'd's' 'o'f'
-'t'h'e' 'l'u'g'g'a'g'e' 'm'i'g'h't' 's'u's't'a'i'n'.' 'T'h'e' 'v'e's's'e'l' 'w'a's' 'c'l'i'e'n't' 'b'e'c'a'u's'e' 'i't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't'
-'w'r'e'c'k'e'd' 'b'y' 't'h'e' 'f'a'u'l't' 'o'f' 't'h'e' 'c'o'm'p'a'n'y'’'s' 's'e'r'-' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 't'h'e' 's'u'f'f'e'r'i'n'g' 'p'a'r't'y'.'
-'v'a'n't's' 'a'n'd' 'P'’'s' 'b'a'g'g'a'g'e' 'w'a's' 'l'o's't'.' 'P' 's'u'e'd' 'D' '2'4'.' 'F'a'c't':' 'D' 'w'r'o't'e' 't'o' 'P' 'o'n' '2'8' 'N'o'v'e'm'b'e'r'
-'f'o'r' 'd'a'm'a'g'e's' 'a'n'd' 'c'l'a'i'm'e'd' 't'h'a't' 'h'e' 'w'a's' 'n'o't' '1'9'7'1',' 'o'f'f'e'r'i'n'g' 't'o' 's'e'l'l' '8'0'0' 't'o'n'n'e's' 'o'f' 'i'r'o'n' 'a't'
-'b'o'u'n'd' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'b'e'i'n'g' 'u'n'a'b'l'e' 't'o' 'r'e'a'd' 'R's' '6'9'0'0' 'p'e'r' 't'o'n'.' 'O'n' 't'h'e' 's'a'm'e' 'd'a'y' 'P' 'w'r'o't'e'
-'F'r'e'n'c'h'.' 't'o' 'D' 'o'f'f'e'r'i'n'g' 't'o' 'b'u'y' '8'0'0' 't'o'n'n'e's' 'o'f' 'i'r'o'n'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'm'p'a'n'y' 'l'i'a'b'l'e'?' 'R's' '6'9'0'0' 'p'e'r' 't'o'n'.' 'T'h'e' 't'w'o' 'l'e't't'e'r's' 'c'r'o's's'e'd'
-'D'e'c'i's'i'o'n':' 'i'n' 'p'o's't' 'a'n'd' 'n'e'i't'h'e'r' 'o'f' 't'h'e'm' 'k'n'e'w' 'a'n'y't'h'i'n'g'
-'('a')' 'C'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'P' 'h'a'd' 'a'b'o'u't' 't'h'e' 'o'f'f'e'r' 't'o' 't'h'e' 'o't'h'e'r'.' 'P' 'c'o'n't'e'n'd'e'd'
-'r'e'a's'o'n'a'b'l'e' 'n'o't'i'c'e' 'o'f' 't'h'e' 'c'o'n'd'i't'i'o'n's' 't'h'a't' 't'h'e'r'e' 'w'a's' 'a' 'g'o'o'd' 'c'o'n't'r'a'c't'.'
-'a'n'd' 'i't' 'w'a's' 'h'i's' 'o'w'n' 'f'a'u'l't' 'i'f' 'h'e' 'h'a'd' 'n'o't' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't' 'a'n'd'
-'m'a'd'e' 'h'i'm's'e'l'f' 'a'c'q'u'a'i'n't'e'd' 'w'i't'h' 't'h'e'm'.' 'l'i'a'b'i'l'i't'i'e's' 'o'f' 't'h'e' 'p'a'r't'i'e's'?'
-'('b')' 'C'o'm'p'a'n'y' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'c'o'm'p'a'n'y' 'D'e'c'i's'i'o'n':'
-'h'a'd' 'u's'e'd' 't'h'e' 'l'a'n'g'u'a'g'e' 'w'h'i'c'h' 'w'a's' 'n'o't' '('a')' 'T'h'e'r'e' 'w'a's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'e'a's'i'l'y' 'u'n'd'e'r's't'a'n'd'a'b'l'e' 't'o' 'e'v'e'r'y'b'o'd'y'.' 'a'n' 'a'g'r'e'e'm'e'n't' 'r'e's'u'l't's' 'i'n't'o' 'a' 'c'o'n't'r'a'c't'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'w'h'e'n' 't'h'e'r'e' 'i's' 'a'n' 'o'f'f'e'r' 'f'r'o'm' 'o'n'e' 's'i'd'e'
-'2'2'.' 'F'a'c't':' 'T',' 'a'n' 'i'l'l'i't'e'r'a't'e' 'l'a'd'y',' 't'o'o'k' 'a' 't'i'c'k'e't' 'f'o'r' 'a'n'd' 'i't's' 'a'c'c'e'p't'a'n'c'e' 'f'r'o'm' 't'h'e' 'o't'h'e'r' 's'i'd'e'
-'a' 'j'o'u'r'n'e'y' 'f'r'o'm' 'a' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y'.' 'O'n' 't'h'e' 's'o' 'n'o' 'q'u'e's't'i'o'n' 'o'f' 'a'n'y' 'l'i'a'b'i'l'i't'y' 'r'i's'e's'.'
-'f'a'c'e' 'o'f' 't'h'e' 't'i'c'k'e't' 'w'e'r'e' 't'h'e' 'w'o'r'd's',' '“'f'o'r' 'c'o'n'-' '('b')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n'
-'d'i't'i'o'n's' 's'e'e' 'b'a'c'k'.'”' 'O'n'e' 'o'f' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'o'f' 'D' 'b'e'c'a'u's'e' 'D' 'h'a'd' 'o'f'f'e'r'e'd' 't'o' 's'e'l'l' 't'h'e'
-'a'b's'o'l'v'e'd' 't'h'e' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'f'r'o'm' 'l'i'a'b'i'l'-' 'p'r'o'd'u'c't'.'
-'i't'y' 'f'o'r' 'p'e'r's'o'n'a'l' 'i'n'j'u'r'i'e's' 't'o' 'p'a's's'e'n'g'e'r'.' '('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n'
-'I's's'u'e':' 'I's' 'c'o'm'p'a'n'y' 'l'i'a'b'l'e'?' 'o'f' 'P' 'b'e'c'a'u's'e' 'P' 'h'a'd' 'o'f'f'e'r'e'd' 't'o' 'b'u'y' 't'h'e'
-'D'e'c'i's'i'o'n':' 'p'r'o'd'u'c't'.'
-'('a')' 'Y'e's',' 'c'o'm'p'a'n'y' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e' '2'5'.' 'F'a'c't':' 'D' 's'e'n't' 'a'n' 'o'f'f'e'r' 't'o' 'a' 'f'i' 'r'm' 'w'i't'h' 'w'h'o'm'
-'l'a'd'y' 'w'a's' 'i'l'l'i't'e'r'a't'e' 's'o' 's'h'e' 'i's' 'e'n't'i't'l'e'd' 't'o' 'h'e' 'h'a'd' 'a'c'c'o'u'n't's'.' 'P' 'w'h'o' 'h'a'd' 'j'u's't' 't'a'k'e'n' 'o'v'e'r'
-'d'a'm'a'g'e's'.' 't'h'e' 's'a'i'd' 'f'i' 'r'm' 'g'o't' 't'h'e' 'l'e't't'e'r' 'a'd'd'r'e's's'e'd' 't'o' 't'h'e'
-'('b')' 'C'o'm'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'T' 'o'l'd' 'f'i' 'r'm',' 'a'c'c'e'p't'e'd' 't'h'e' 'o'f'f'e'r' 'a'n'd' 's'e'n't' 't'h'e'
-'c'o'u'l'd' 'n'o't' 'r'e'c'o'v'e'r' 'd'a'm'a'g'e's' 'f'o'r' 't'h'e' 'g'o'o'd's'.' 'P' 's'u'e'd' 'f'o'r' 't'h'e' 'p'r'i'c'e' 'o'f' 't'h'e' 'g'o'o'd's'.'
-'i'n'j'u'r'y' 'r'e'c'e'i'v'e'd' 'a's' 's'h'e' 'w'a's' 'b'o'u'n'd' 'b'y' 'T'h'e' 'c'o'u'r't' 'h'e'l'd' 't'h'a't' 't'h'e'r'e' 'w'a's' 'n'o' 'c'o'n't'r'a'c't'
-'
-'s'i'n'c'e' 't'h'e' 'o'r'd'e'r' 'w'a's' 't'o' 't'h'e' 'h'e'l'd' 'f'i' 'r'm' 'a'n'd' 't'h'e' 'r'e's'o'l'v'e'd' 't'o' 'a'p'p'o'i'n't' 'P' 'a's' 'h'e'a'd'm'a's't'e'r'.' 'O'n'e'
-'a'c'c'e'p't'a'n'c'e' 'w'a's' 'b'y' 't'h'e' 'n'e'w' 'f'i' 'r'm'.' 'o'f' 't'h'e' 'm'a'n'a'g'e'r's',' 'i'n' 'h'i's' 'i'n'd'i'v'i'd'u'a'l' 'c'a'p'a'c'i't'y','
-'A'n' 'o'f'f'e'r' 'm'a'y' 'a'l's'o' 'b'e' 'm'a'd'e' 't'o' 't'h'e' 'w'o'r'l'd' 'i'n'f'o'r'm'e'd' 'P' 'o'f' 't'h'e' 's'a'm'e'.' 'B'u't' 't'h'e'r'e' 'w'a's' 'n'o'
-'a't' 'l'a'r'g'e',' 'a's' 't'h'e' 'i'n's't'a'n'c'e' 'b'y' 'a'n' 'a'd'v'e'r't'i's'e'm'e'n't' 'f'o'r'm'a'l' 'c'o'm'm'u'n'i'c'a't'i'o'n' 'o'f' 't'h'e' 'r'e's'o'l'u't'i'o'n'
-'i'n' 't'h'e' 'n'e'w's'p'a'p'e'r'.' 'I'n' 's'u'c'h' 'a' 'c'a's'e' 'o'n'l'y' 'p'e'r's'o'n' 'b'y' 't'h'e' 'b'o'a'r'd'.' 'T'h'e' 'b'o'a'r'd' 'l'a't'e'r' 'r'e's'c'i'n'd'e'd'
-'o'r' 'p'e'r's'o'n's' 'w'i't'h' 'n'o't'i'c'e' 'o'f' 't'h'e' 'o'f'f'e'r' 'c'a'n' 'c'o'm'e' 't'h'e' 'r'e's'o'l'u't'i'o'n'.'
-'f'o'r'w'a'r'd' 'a'n'd' 'a'c'c'e'p't' 't'h'e' 'o'f'f'e'r'.' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't' 'a'n'd'
-'I's's'u'e':' 'A'r'e' 't'h'e' 'c'l'a'i'm's' 'o'f' 'P' 'g'e'n'u'i'n'e'?' 'l'i'a'b'i'l'i't'y' 'o'f' 't'h'e' 'b'o'a'r'd' 'o'f' 'm'a'n'a'g'e'r's'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'D' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'a'l'l' 't'h'e' 'c'l'a'i'm's' 'm'a'd'e' 'b'y' '('a')' 'T'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'a's' 't'h'e'r'e' 'i's' 'n'o'
-'P' 'b'e'c'a'u's'e' 'D' 'w'a's' 'a'n' 'o'l'd' 'c'u's't'o'm'e'r' 'o'f' 'c'o'm'm'u'n'i'c'a't'i'o'n' 'f'r'o'm' 't'h'e' 's'i'd'e' 'o'f' 'b'o'a'r'd'
-'t'h'e' 'f'i' 'r'm'.' 'o'f' 'm'a'n'a'g'e'r's'.'
-'('b')' 'A's' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'P' 'a'n'd' '('b')' 'T'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a's' 'o'n'e' 'o'f' 't'h'e'
-'D' 's'o' 'n'o' 'l'i'a'b'i'l'i't'y'.' 'm'a'n'a'g'e'r's' 'h'a'd' 'i'n'f'o'r'm'e'd' 'i'n' 'h'i's' 'i'n'd'i'-'
-'('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'v'i'd'u'a'l' 'c'a'p'a'c'i't'y'.'
-'o'f' 'D'.' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'2'6'.' 'F'a'c't':' 'M' 'o'f'f'e'r'e'd' 't'o' 's'e'l'l' 'l'a'n'd' 't'o' 'N' 'a't' '$' '2'8'0'.' '2'9'.' 'F'a'c't':' 'T'h'e' 'm'a'n'a'g'e'r' 'o'f' 'a' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y'
-'N' 'r'e'p'l'i'e'd' 'a'c'c'e'p't'i'n'g' 't'h'e' 'o'f'f'e'r' 'a'n'd' 'e'n'c'l'o'i'n'g' 'r'e'c'e'i'v'e'd' 'a'n' 'o'f'f'e'r' 'b'y' 'a' 'l'e't't'e'r' 'r'e'l'a't'i'n'g' 't'o' 't'h'e'
-'$' '3'0' 'a'n'd' 'p'r'o'm'i's'i'n'g' 't'o' 'p'a'y' 'b'a'l'a'n'c'e' 'a'm'o'u'n't' 's'u'p'p'l'y' 'o'f' 'c'o'a'l';' 'h'e' 'w'r'o't'e' 'o'n' 't'h'e' 'l'e't't'e'r' '‘'a'c'-'
-'b'y' 'm'o'n't'h'l'y' 'i'n's't'a'l'm'e'n't's' 'o'f' '$' '5'0' 'e'a'c'h'.' 'c'e'p't'e'd'’' 'a'n'd' 'k'e'p't' 'i't' 'i'n' 'h'i's' 'd'r'a'w'e'r' 'a'n'd' 'f'o'r'g'e't'
-'a'l'l' 'a'b'o'u't' 'i't'.'
-'S'i'n'c'e' 'N' 'a'c'c'e'p't'e'd' 't'h'e' 'o'f'f'e'r' 's'u'b'j'e'c't' 't'o' 'm'a'k'-'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'i'n'g' 'p'a'y'm'e'n't's' 'i'n' 'i'n's't'a'l'm'e'n't's'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'?'
-'('a')' 'O'n'c'e' 'i't' 'h'a's' 'b'e'e'n' 'w'r'i't't'e'n' '“'A'C'C'E'P'T'-'
-'D'e'c'i's'i'o'n':'
-'E'D'”',' 'i't' 'm'e'a'n's' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'
-'('a')' 'I't' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e'
-'a'n'd' 't'h'e' 'c'o'a'l' 'c'o'm'p'a'n'y' 'c'a'n' 's'u'e' 't'h'e' 'r'a'i'l'-'
-'a'c'c'e'p't'a'n'c'e' 'i's' 'c'o'n'd'i't'i'o'n'a'l' 'a'n'd' 'q'u'a'l'i'-'
-'w'a'y' 'c'o'm'p'a'n'y'.'
-'f'i' 'e'd'.' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p'-'
-'('b')' 'T'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'t'i'o'n' 'o'f' 'M' 'w'h'o' 'h'a'd' 'm'a'd'e' 'a'n' 'o'f'f'e'r' 'a'n'd'
-'t'h'e'r'e' 'i's' 'n'o' 'c'o'm'm'u'n'i'c'a't'i'o'n' 'o'f' 't'h'e' 'a'c'-'
-'N' 's'e'n't' 't'h'e' 'c'o'n'd'i't'i'o'n'a'l' 'a'c'c'e'p't'a'n'c'e'.'
-'c'e'p't'a'n'c'e'.'
-'('b')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a's' 'M' 'h'a'd' 'm'a'd'e'
-'('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n'
-'t'h'e' 'o'f'f'e'r' 'a'n'd' 'N' 'a'c'c'e'p't'e'd' 'i't'.'
-'o'f' 't'h'e' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y'.'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd' 'a'b'i'n'i't'i'o'.'
-'3'0'.' 'F'a'c't':' 'A'n' 'o'f'f'e'r' 'w'a's' 'm'a'd'e' 'i'n' 't'h'e' 'f'o'l'l'o'w'-'
-'2'7'.' 'F'a'c't':' 'F' 'o'f'f'e'r'e'd' 't'o' 'b'u'y' 'h'i's' 'n'e'p'h'e'w'’'s' 'h'o'r's'e'
-'i'n'g' 't'e'r'm's'.' '“'I' 'i'n't'e'n'd' 't'o' 's'e'l'l' 'm'y' 'h'o'u's'e' 'f'o'r'
-'f'o'r' '£' '3'0' '1'5' 's',' 'a'd'd'i'n'g',' '“'I'f' 'I' 'h'e'a'r' 'n'o' 'm'o'r'e','
-'R's' '1','0'0'0'.' 'I'f' 'y'o'u' 'a'r'e' 'w'i'l'l'i'n'g' 't'o' 'h'a'v'e' 'i't','
-'I' 's'h'a'l'l' 'c'o'n's'i'd'e'r' 't'h'e' 'h'o'r's'e' 'a's' 'm'i'n'e' 'a't' '£' '3'0'
-'w'r'i't'e' 't'o' 'F' 'a't' 'h'i's' 'a'd'd'r'e's's'”'.' 'I'n's't'e'a'd' 'o'f' 'w'r'i't'-'
-'1'5' 's'.'”' 'T'h'e' 'n'e'p'h'e'w' 'd'i'd' 'n'o't' 'r'e'p'l'y',' 'b'u't' 't'o'l'd'
-'i'n'g' 't'o' 'F',' 't'h'e' 'p'u'r'c'h'a's'e'r' 's'e'n't' 'a'n' 'a'g'e'n't' 't'o' 'F'
-'h'i's' 'a'u'c't'i'o'n'e'e'r' 'n'o't' 't'o' 's'e'l'l' 't'h'e' 'h'o'r's'e',' 'a's' 'i't'
-'a'n'd' 'a'g'r'e'e'd' 't'o' 'p'u'r'c'h'a's'e'.'
-'w'a's' 's'o'l'd' 't'o' 'h'i's' 'u'n'c'l'e'.' 'B'u't' 't'h'e' 'a'u'c't'i'o'n'e'e'r'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't' 'a'n'd'
-'s'o'l'd' 'i't' 'b'y' 'm'i's't'a'k'e' 't'o' 'a' 't'h'i'r'd' 'p'a'r't'y'.' 'F' 's'u'e'd'
-'l'i'a'b'i'l'i't'y' 'o'f' 't'h'e' 's'e'l'l'e'r'?'
-'f'o'r' 'c'o'n'v'e'r's'i'o'n' 'o'f' 'h'i's' 'p'r'o'p'e'r't'y'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'n'e'p'h'e'w'?'
-'('a')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e' 'p'u'r'-'
-'D'e'c'i's'i'o'n':'
-'c'h'a's'e'r' 'h'a's' 'c'o'm'm'u'n'i'c'a't'e'd' 'h'i's' 'a'c'c'e'p'-'
-'('a')' 'N'e'p'h'e'w' 'i's' 'l'i'a'b'l'e' 'a's' 'h'i's' 'a'c't'i'o'n' 'o'f' 't'e'l'l'-'
-'t'a'n'c'e' 'i'n' 'p'e'r's'o'n'.'
-'i'n'g' 'h'i's' 'a'u'c't'i'o'n'e'e'r' 'n'o't' 't'o' 's'e'l'l' 't'h'e' 'h'o'r's'e'
-'('b')' 'I't' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 's'e'l'l'e'r'
-'a's' 'i't' 'w'a's' 's'o'l'd' 't'o' 'h'i's' 'u'n'c'l'e' 'h'a'd' 'r'e's'u'l't'e'd'
-'h'a'd' 'c'l'e'a'r'l'y' 'w'r'i't't'e'n' 't'h'a't' 'i'f' 't'h'e' 'o'f'f'e'r' 'i's'
-'i'n't'o' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'a'c'c'e'p't'a'b'l'e' 't'h'e'n' 't'h'e' 'a'c'c'e'p't'a'n'c'e' 's'h'o'u'l'd'
-'('b')' 'N'e'p'h'e'w' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e' 'm'e'r'e'
-'b'e' 'c'o'm'm'u'n'i'c'a't'e'd' 't'h'r'o'u'g'h' 'w'r'i't'i'n'g'.'
-'m'e'n't'a'l' 'a'c'c'e'p't'a'n'c'e' 'a'n'd' 'u'n'c'o'm'm'u'n'i'-'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd' 'a'b' 'i'n'i't'i'o'.'
-'c'a't'e'd' 'a'c'c'e'p't'a'n'c'e' 'd'o'e's' 'n'o't' 'r'e's'u'l't' 'i'n't'o'
-'3'1'.' 'F'a'c't':' 'A' 's'o'l'd' 'h'i's' 'b'u's'i'n'e's's' 't'o' 'h'i's' 'm'a'n'a'g'e'r' 'B'
-'c'o'n't'r'a'c't'.'
-'w'i't'h'o'u't' 'd'i's'c'l'o's'i'n'g' 't'h'e' 'f'a'c't' 't'o' 'h'i's' 'c'u's't'o'm'e'r'
-'('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n'
-'C',' 'w'h'o' 'h'a'd' 'a' 'r'u'n'n'i'n'g' 'a'c'c'o'u'n't' 'w'i't'h' 'A',' 's'e'n't'
-'o'f' 'F' 'a'n'd' 't'o' 'd'e't'e'r'm'i'n'e' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'a'n' 'o'r'd'e'r' 'f'o'r' 't'h'e' 's'u'p'p'l'y' 'o'f' 'g'o'o'd's' 't'o' 'A' 'b'y'
-'n'e'p'h'e'w' 'i's' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.' 'n'a'm'e'.' 'B' 'r'e'c'e'i'v'e'd' 't'h'e' 'o'r'd'e'r' 'a'n'd' 'e'x'e'c'u't'e'd'
-'2'8'.' 'F'a'c't':' 'T'h'e' 'b'o'a'r'd' 'o'f' 'm'a'n'a'g'e'r's' 'o'f' 'a' 's'c'h'o'o'l' 't'h'e' 's'a'm'e'.' 'C' 'r'e'f'u's'e'd' 't'o' 'p'a'y' 't'h'e' 'p'r'i'c'e'.'
-'
-'C'I'V'I'L' 'L'A'W' '9'1'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't' 'a'n'd' 'c'a'u's'e' 'r'e'v'o'c'a't'i'o'n' 'o'f' 'o'f'f'e'r' 'i's' 'c'o'm'p'l'e't'e'
-'l'i'a'b'i'l'i't'y' 'o'f' 'C'?' 'a's' 'a'g'a'i'n's't' 'A' 'w'h'e'n' 't'h'e' 't'e'l'e'g'r'a'm' 'i's' 'd'i's'-'
-'D'e'c'i's'i'o'n':' 'p'a't'c'h'e'd'.'
-'('a')' 'A's' 't'h'e'r'e' 'w'a's' 'n'o' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'B' '('b')' 'R'e'v'o'c'a't'i'o'n' 'o'f' 'o'f'f'e'r' 'i's' 'n'o't' 'v'a'l'i'd' 'b'e'-'
-'a'n'd' 'C' 'b'e'c'a'u's'e' 'C' 'n'e'v'e'r' 'm'a'd'e' 'a'n'y' 'o'f'-' 'c'a'u's'e' 'i't' 'i's' 'n'o't' 'c'o'm'p'l'e't'e'.'
-'f'e'r' 't'o' 'B' 'a'n'd' 'a's' 's'u'c'h' 'C' 'w'a's' 'n'o't' 'l'i'a'b'l'e' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'t'o' 'p'a'y' 't'h'e' 'p'r'i'c'e' 't'o' 'B'.' '3'5'.' 'F'a'c't':' 'J'o'n'e's' 'h'a'd' 'a'p'p'l'i'e'd' 'f'o'r' 's'h'a'r'e's' 'o'f'
-'('b')' 'T'h'e'r'e' 'w'a's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 't'h'o'u'g'h' 'i'n'-' 'B'a'n'k',' 'o'n' '2'6' 'O'c't'o'b'e'r' 'h'e' 'w'i't'h'd'r'e'w' 'h'i's' 'o'f'-'
-'d'i'r'e'c't' 'a'n'd' 'C' 'i's' 'l'i'a'b'l'e'.' 'f'e'r'.' 'T'h'e' 'l'e't't'e'r' 'r'e'v'o'k'i'n'g' 't'h'e' 'o'f'f'e'r' 'w'a's' 'r'e'-'
-'('c')' 'I't' 'i's' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't' 't'o' 'd'e'-' 'c'e'i'v'e'd' 'b'y' 't'h'e' 'c'o'm'p'a'n'y' 'a't' '8'.'3'0' 'A'.'M'.' 'o'n'
-'t'e'r'm'i'n'e' 't'h'e' 'v'a'l'i'd'i't'y' 'o'f' 'c'o'n't'r'a'c't'.' '2'7't'h' 'O'c't'o'b'e'r' 'b'u't' 'b'e'f'o'r'e' 't'h'a't',' 't'h'e' 'b'a'n'k' 'a'n'd'
-'3'2'.' 'F'a'c't':' 'A' 'l'a'n'd'l'o'r'd' 's'e'r'v'e'd' 'a' 'n'o't'i'c'e' 'o'n' 't'h'e' 'a'l'r'e'a'd'y' 'm'a'd'e' 't'h'e' 'a'l'l'o't'm'e'n't' 'a't' '7'.'3'0' 'A'.'M'.'
-'t'e'n'a'n't' 'd'e'm'a'n'd'i'n'g' 'e'n'c'h'a'n'c'e'm'e'n't' 'o'f' 'r'e'n't'.' 'W'h'e'n' 'J'o'n'e's' 'r'e'f'u's'e'd' 't'o' 't'a'k'e' 't'h'e' 's'h'a'r'e's' 'o'f'
-'T'h'e' 't'e'n'a'n't' 'd'i'd' 'n'o't' 'p'r'o't'e's't' 'a'g'a'i'n's't' 'i't' 'a'n'd' 't'h'e' 'c'o'm'p'a'n'y',' 'b'a'n'k' 'f'i' 'l'e'd' 'a' 's'u'i't' 'f'o'r' 's'p'e'c'i'f'i' 'c'
-'c'o'n't'i'n'u'e'd' 't'o' 'o'c'c'u'p'y' 't'h'e' 'p'r'e'm'i's'e's'.' 'T'h'e' 'p'e'r'f'o'r'm'a'n'c'e' 'o'f' 't'h'e' 'c'o'n't'r'a'c't'.'
-'c'o'n'd'u'c't' 'o'f' 't'h'e' 't'e'n'a'n't' 'a'm'o'u'n't's' 't'o' 'a'c'c'e'p'-' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'J'o'n'e's'?'
-'t'a'n'c'e' 'o'f' 't'h'e' 'o'f'f'e'r' 't'o' 'p'a'y' 't'h'e' 'r'e'n't' 'a't' 'a' 'h'i'g'h'e'r' 'D'e'c'i's'i'o'n':'
-'r'a't'e'.' '('a')' 'M'r' 'J'o'n'e's' 'i's' 'n'o't' 'b'o'u'n'd' 't'o' 'a'c'c'e'p't' 't'h'e'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 't'e'n'a'n't'?' 's'h'a'r'e's' 'b'e'c'a'u's'e' 'o'f'f'e'r' 'w'a's' 'r'e'v'o'k'e'd' 'b'e'-'
-'D'e'c'i's'i'o'n':' 'f'o'r'e' 't'h'e' 'l'e't't'e'r' 'o'f' 'a'l'l'o't'm'e'n't' 'w'a's' 'a'c't'u'-'
-'a'l'l'y' 'p'o's't'e'd'.'
-'('a')' 'T'h'e' 't'e'n'a'n't' 'i's' 'l'i'a'b'l'e' 't'o' 'p'a'y' 't'h'e' 'h'i'g'h'e'r'
-'('b')' 'M'r' 'J'o'n'e's' 'i's' 'l'i'a'b'l'e'
-'r'e'n't'.'
-'('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'f'r'a'u'd' 'b'y' 'M'r' 'J'o'n'e's' 'w'i't'h'
-'('b')' 'T'e'n'a'n't' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'e'n'a'n't' 'd'i'd'
-'t'h'e' 'c'o'm'p'a'n'y'.'
-'n'o't' 's'e'n'd' 'h'i's' 'a'c'c'e'p't'a'n'c'e' 'o'f' 'e'n'h'a'n'c'e'd'
-'3'6'.' 'F'a'c't':' 'A't' 'a'n' 'a'u'c't'i'o'n' 's'a'l'e',' 'A' 'm'a'd'e' 't'h'e' 'h'i'g'h'-'
-'r'e'n't'.'
-'e's't' 'b'i'd' 'f'o'r' 'B'’'s' 'g'o'o'd's'.' 'H'e' 'w'i't'h'd'r'e'w' 't'h'e' 'b'i'd'
-'('c')' 'T'h'e' 't'e'n'a'n't' 'i's' 'l'i'a'b'l'e' 't'o' 'b'e' 'e'v'a'c'u'a't'e'd'.'
-'b'e'f'o'r'e' 't'h'e' 'f'a'l'l' 'o'f'f' 't'h'e' 'h'a'm'm'e'r'.' 'B' 'k'n'o'c'k'e'd'
-'3'3'.' 'F'a'c't':' 'D',' 'i'n' 'a'n' 'a'n's'w'e'r' 't'o' 'e'n'q'u'i'r'y' 'a's' 't'o' 't'h'e'
-'d'o'w'n' 't'h'e' 'g'o'o'd's' 'i'n' 'f'a'v'o'u'r' 'o'f' 'A'.' 'B' 's'u'e'd' 'A'
-'p'r'i'c'e' 'o'f' 'p'i'g' 'i'r'o'n' 'w'r'o't'e' 't'o' 'H',' '“'W'e' 's'h'a'l'l' 'b'e'
-'f'o'r' 't'h'e' 'p'r'i'c'e' 'o'f' 'g'o'o'd's'.'
-'g'l'a'd' 't'o' 's'u'p'p'l'y' 'y'o'u' 'w'i't'h' '2'0'0'0' 't'o'n'n'e's' 'o'f' 'p'i'g'
-'I's's'u'e':' 'I's' 'A' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'p'r'i'c'e' 'o'f' 'g'o'o'd's'?'
-'i'r'o'n' 'a't' '6'5's' 'p'e'r' 't'o'n'”',' 'a'n'd' 'a'f't'e'r' 'f'u'r't'h'e'r' 'c'o'r'-'
-'D'e'c'i's'i'o'n':'
-'r'e's'p'o'n'd'e'n'c'e' 'w'r'o't'e' 'o'n' 't'h'e' '2'8't'h' 'J'a'n'u'a'r'y','
-'('a')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'p'r'i'c'e' 'o'f' 'g'o'o'd's' 'a's'
-'t'h'a't' 't'h'e' 'p'r'i'c'e' 'w'a's' '6'5's' 'n'e't'.' 'H'e' 'r'e'c'e'i'v'e'd' 't'h'i's'
-'w'e'l'l' 'a's' 'd'a'm'a'g'e's' 'c'o's't' 't'o' 'B'.'
-'l'e't't'e'r' 'o'n' 't'h'e' '3'0't'h' 'J'a'n'u'a'r'y' 'a'n'd' 'o'n' 't'h'e' 's'a'm'e'
-'('b')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'a's' 'A'’'s' 'b'i'd' 'w'a's' 'n'o' 'm'o'r'e'
-'d'a'y' 'w'r'o't'e' '“'W'e' 'w'i'l'l' 't'a'k'e' 't'h'e' '2'0'0'0' 't'o'n'n'e's'
-'t'h'a'n' 'o'f'f'e'r' 'a'n'd' 'h'e' 'w'a's' 'e'n't'i't'l'e'd' 't'o' 'w'i't'h'-'
-'p'i'g' 'i'r'o'n' 'y'o'u' 'o'f'f'e'r' 'u's'”'.' 'T'h'e' 'p'o's't' 'w'a's' 't'h'e'n'
-'d'r'a'w' 't'h'e' 's'a'm'e' 'b'e'f'o'r'e' 'i't' 'w'a's' 'a'c'c'e'p't'e'd'.'
-'d'e'l'a'y'e'd' 'a'n'd' 't'h'e' 'a'c'c'e'p't'a'n'c'e' 'w'a's' 'r'e'c'e'i'v'e'd'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'s'i'x' 'h'o'u'r's' 'l'a't'e'r' 't'h'a'n' 't'h'e' 's'c'h'e'd'u'l'e'd' 'h'o'u'r'.'
-'3'7'.' 'F'a'c't':' 'D' 'o'f'f'e'r'e'd' 't'o' 's'e'l'l' 'w'o'o'l' 't'o' 'H' 'o'n'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'D'?'
-'T'h'u'r's'd'a'y' 'a'n'd' 'a'g'r'e'e'd' 't'o' 'g'i'v'e' 'h'i'm' 't'h'r'e'e'
-'D'e'c'i's'i'o'n':'
-'d'a'y's' 't'i'm'e' 't'o' 'a'c'c'e'p't'.' 'H' 'a'c'c'e'p't'e'd' 't'h'e' 'o'f'f'e'r'
-'('a')' 'D' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'h'e' 'd'i'd' 'n'o't' 'r'e'-'
-'o'n' 'M'o'n'd'a'y',' 'b'u't' 'b'y' 't'h'a't' 't'i'm'e' 'D' 'h'a'd' 's'o'l'd'
-'c'e'i'v'e' 't'h'e' 'a'c'c'e'p't'a'n'c'e'.'
-'t'h'e' 'w'o'o'l'.'
-'('b')' 'D' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'o'n'c'e' 't'h'e' 'l'e't't'e'r' 'o'f'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't' 'a'n'd'
-'a'c'c'e'p't'a'n'c'e' 'i's' 'p'o's't'e'd',' 't'h'e' 'p'r'o'c'e's's' 'o'f'
-'l'i'a'b'i'l'i't'y'?'
-'a'c'c'e'p't'a'n'c'e' 'i's' 'c'o'm'p'l'e't'e' 'a'n'd' 'u'n'q'u'a'l'i'-'
-'D'e'c'i's'i'o'n':'
-'f'i' 'e'd' 's'o' 'D' 'i's' 'l'i'a'b'l'e'.'
-'('a')' 'T'h'e'r'e' 'w'a's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'D' 'i's'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'l'i'a'b'l'e'
-'o'f' 'D'.'
-'('b')' 'A's' 't'h'e'r'e' 'w'a's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 's'o' 'D' 'i's'
-'3'4'.' 'F'a'c't':' 'A' 'p'r'o'p'o's'e's' 'b'y' 'l'e't't'e'r',' 't'o' 's'e'l'l' 'a' 'h'o'u's'e'
-'n'o't' 'l'i'a'b'l'e'.'
-'t'o' 'B' 'a't' 'a' 'c'e'r't'a'i'n' 'p'r'i'c'e'.' 'A' 'r'e'v'o'k'e's' 'h'i's' 'p'r'o'-'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'p'o's'a'l' 'b'y' 't'e'l'e'g'r'a'm'.'
-'o'f' 't'h'e' 'H'.'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'r'e'v'o'c'a't'i'o'n' 'o'f' 'a'n' 'o'f'f'e'r'
-'3'8'.' 'F'a'c't':' 'A' 'o'f'f'e'r's' 't'o' 's'e'l'l' 'h'i's' 'h'o'u's'e' 't'o' 'B' 'f'o'r'
-'i's' 'v'a'l'i'd'?' 'R's' '1','0'0'0'.' 'B' 'r'e'p'l'i'e's' 'o'f'f'e'r'i'n'g' 't'o' 'p'a'y' 'R's' '9'5'0'.'
-'D'e'c'i's'i'o'n':' 'A' 'r'e'f'u's'e's'.' 'S'u'b's'e'q'u'e'n't'l'y' 'B' 'w'r'i't'e's' 'a'c'c'e'p't'-'
-'('a')' 'Y'e's',' 'r'e'v'o'c'a't'i'o'n' 'o'f' 'o'f'f'e'r' 'i's' 'v'a'l'i'd' 'b'e'-' 'i'n'g' 't'h'e' 'o'r'i'g'i'n'a'l' 'o'f'f'e'r'.'
-'
-'I's's'u'e':' 'I's' 't'h'e' 'o'f'f'e'r' 's'u's't'a'i'n'i'n'g' 'o'r' 'l'a'p's'e'd'?' 'c'a'u's'e' 'D' 'w'h'o' 'm'a'd'e' 't'h'e' 'p'r'o'm'i's'e' 'g'a'i'n'e'd'
-'D'e'c'i's'i'o'n':' 'n'o't'h'i'n'g' 'i'n' 'r'e't'u'r'n' 'f'o'r' 't'h'e' 'p'r'o'm'i's'e'
-'('a')' 'T'h'e' 'o'f'f'e'r' 'i's' 's't'i'l'l' 's'u's't'a'i'n'i'n'g' 'a'n'd' 'A' 'i's' 'm'a'd'e'.' 'T'h'e' 's'e'c'r'e't'a'r'y' 'o'f' 't'h'e' 'c'o'm'm'i't'-'
-'l'i'a'b'l'e' 't'o' 's'e'l'l' 'h'i's' 'h'o'u's'e'.' 't'e'e' 't'o' 'w'h'o'm' 't'h'e' 'p'r'o'm'i's'e' 'w'a's' 'm'a'd'e'
-'('b')' 'O'n'c'e' 'B' 'h'a's' 'm'a'd'e' 'a' 'c'o'u'n't'e'r' 'o'f'f'e'r',' 'h'e' 's'u'f'f'e'r'e'd' 'n'o't'h'i'n'g' 'a's' 'n'o't'h'i'n'g' 'h'a'd' 'b'e'e'n'
-'h'a's' 'n'o' 'r'i'g'h't' 't'o' 'm'a'k'e' 'a' 's'u'b's'e'q'u'e'n't' 'a'c'-' 'd'o'n'e' 't'o' 'c'a'r'r'y' 'o'u't' 't'h'e' 'r'e'p'a'i'r's'.'
-'c'e'p't'a'n'c'e',' 's'o' 't'h'e'r'e' 'i's' 'n'o' 'o'f'f'e'r',' 'n'o' 'a'c'-' '('b')' 'D' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'h'e' 'h'a'd' 'p'r'o'm'i's'e'd'
-'c'e'p't'a'n'c'e',' 'n'o' 'c'o'n't'r'a'c't' 'a'n'd' 'n'o' 'l'i'a'b'i'l'i't'y' '('c')' 'D' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e' 'p'r'o'm'i's'e' 'm'a'd'e'
-'b'e'c'a'u's'e' 't'h'e' 'o'f'f'e'r' 'h'a's' 'a'l'r'e'a'd'y' 'l'a'p's'e'd'.' 'b'y' 'D' 'w'a's' 'd'u'l'y' 'a'c'c'e'p't'e'd'.'
-'('c')' 'B' 'c'a'n' 'c'o'm'p'e'l' 'A' 'f'o'r' 's'p'e'c'i'f'i' 'c' 'p'e'r'f'o'r'-' '4'2'.' 'F'a'c't':' 'X',' 'Y' 'a'n'd' 'Z' 'e'n't'e'r' 'i'n't'o' 'a'n' 'a'g'r'e'e'm'e'n't'
-'m'a'n'c'e' 'o'f' 't'h'e' 'c'o'n't'r'a'c't'.' 'u'n'd'e'r' 'w'h'i'c'h' 'X' 'p'a'y's' 'R's' '4','0'0','0'0'0' 't'o' 'Y' 'a'n'd'
-'3'9'.' 'F'a'c't':' 'A' 'y'o'u'n'g' 'b'o'y' 'r'a'n' 'a'w'a'y' 'f'r'o'm' 'h'i's' 'f'a'-' 'Y' 'a'g'r'e'e'd' 't'o' 'b'u'i'l'd' 'a' 'h'o'u's'e' 'f'o'r' 'Z'.'
-'t'h'e'r'’'s' 'h'o'm'e'.' 'T'h'e' 'f'a't'h'e'r' 'i's's'u'e'd' 'a' 'p'a'm'p'h'l'e't' 'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'e'n'f'o'r'c'e'a'b'l'e'?'
-'o'f'f'e'r'i'n'g' 'a' 'r'e'w'a'r'd' 'i'n' 't'h'e's'e' 't'e'r'm's'.' '“'A'n'y'-' 'D'e'c'i's'i'o'n':'
-'b'o'd'y' 'w'h'o' 'f'i' 'n'd's' 'a' 't'r'a'c'e' 'o'f' 't'h'e' 'b'o'y' 'a'n'd' '('a')' 'C'o'n't'r'a'c't' 'i's' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'b'e'c'a'u's'e' 'Z'
-'b'r'i'n'g's' 'h'o'm'e' 'w'i'l'l' 'g'e't' 'R's' '5'0'0'”'.' 'P' 'w'a's' 'a't' 't'h'e' 'i's' 'n'o't' 'a' 'p'a'r't'y' 't'o' 't'h'e' 'c'o'n't'r'a'c't'.'
-'D'h'a'r'm's'a'l'a' 'o'f' 'a' 'r'a'i'l'w'a'y' 's't'a't'i'o'n'.' 'T'h'e'r'e' 'h'e' '('b')' 'H'e'r'e' 'Z' 'i's' 'a' 'p'a'r't'y' 't'o' 't'h'e' 'c'o'n't'r'a'c't' 'b'u't'
-'s'a'w' 'a' 'b'o'y',' 'o'v'e'r'h'e'a'r'd' 'a' 'p'a'r't' 'o'f' 't'h'e' 'c'o'n'v'e'r'-' 's't'r'a'n'g'e'r' 't'o' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd' 'c'a'n' 'e'n'-'
-'s'a't'i'o'n',' 'r'e'a'l'i'z'e'd' 't'h'a't' 't'h'i's' 'b'o'y' 'w'a's' 'm'i's's'i'n'g' 'f'o'r'c'e' 't'h'e' 'c'o'n't'r'a'c't'.'
-'b'o'y' 'a'n'd' 'p'r'o'm'p't'l'y' 't'o'o'k' 'h'i'm' 't'o' 't'h'e' 'r'a'i'l'w'a'y' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'p'o'l'i'c'e' 's't'a't'i'o'n',' 'w'h'e'r'e' 'h'e' 'm'a'd'e' 'a' 'r'e'p'o'r't' 'a'n'd'
-'4'3'.' 'F'a'c't':' 'A' 'l'a'w'y'e'r' 'g'a'v'e' 'u'p' 'h'i's' 'p'r'a'c't'i'c'e' 'a'n'd'
-'s'e'n't' 'a' 't'e'l'e'g'r'a'm' 't'o' 't'h'e' 'b'o'y'’'s' 'f'a't'h'e'r' 's'a'y'i'n'g'
-'s'e'r'v'e'd' 'a's' 'm'a'n'a'g'e'r' 'o'f' 'a' 'l'a'n'd'-'o'w'n'e'r' 'a't' 't'h'e'
-'t'h'a't' 'h'e' 'h'a'd' 'f'o'u'n'd' 'h'i's' 's'o'n'.'
-'l'a't't'e'r'’'s' 'r'e'q'u'e's't' 'i'n' 'l'i'e'u' 'o'f' 'w'h'i'c'h' 't'h'e' 'l'a'n'd'
-'I's's'u'e':' 'I's' 'P' 'e'n't'i't'l'e'd' 't'o' 't'h'e' 'r'e'w'a'r'd'?'
-'o'w'n'e'r' 's'u'b's'e'q'u'e'n't'l'y' 'p'r'o'm'i's'e'd' 'a' 'p'e'n's'i'o'n'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 't'h'e' 'c'o'n't'r'a'c't'?'
-'('a')' 'Y'e's',' 'P' 'i's' 'e'n't'i't'l'e'd' 't'o' 'r'e'w'a'r'd' 'b'e'c'a'u's'e'
-'D'e'c'i's'i'o'n':'
-'t'h'e' 'm'e'r'e' 'p'e'r'f'o'r'm'a'n'c'e' 'o'f' 'a'n'y' 'c'o'n'd'i'-'
-'('a')' 'T'h'e'r'e' 'w'a's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a's' 't'h'e'r'e'
-'t'i'o'n' 'o'f' 't'h'e' 'c'o'n't'r'a'c't' 'r'e's'u'l't's' 'i'n't'o' 't'h'e'
-'w'a's' 'a' 'g'o'o'd' 'p'a's't' 'c'o'n's'i'd'e'r'a't'i'o'n'.'
-'e'n't'e'r'i'n'g' 'i'n't'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'('b')' 'S'u'c'h' 'v'a'g'u'e' 'p'r'o'm'i's'e's' 'd'o' 'n'o't' 'r'e's'u'l't'
-'('b')' 'P' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 'b'e'c'a'u's'e' 'h'e' 'w'a's' 'n'o't'
-'i'n't'o' 'a' 'c'o'n't'r'a'c't'.'
-'a'w'a'r'e' 'o'f' 't'h'e' 'o'f'f'e'r'.'
-'('c')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'('c')' 'P' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 'b'e'c'a'u's'e' 'h'e' 'd'i'd' 'n'o't'
-'l'a'n'd'-'o'w'n'e'r'.'
-'s'e'n'd' 'h'i's' 'a'c'c'e'p't'a'n'c'e'.'
-'4'4'.' 'F'a'c't':' 'P' 'r'e'n'd'e'r'e'd' 's'e'r'v'i'c'e's' 't'o' 'D' 'd'u'r'i'n'g' 'h'i's'
-'4'0'.' 'F'a'c't':' 'D' 'p'r'o'm'i's'e'd' 't'o' 'p'a'y' 'P' 'a' 'c'o'm'm'i's'-'
-'m'i'n'o'r'i't'y' 'a't' 'D'’'s' 'r'e'q'u'e's't',' 'w'h'i'c'h' 'w'e'r'e' 'c'o'n'-'
-'s'i'o'n' 'o'n' 'a'r't'i'c'l'e's' 's'o'l'd' 'b'y' 'h'i'm' 'i'n' 'a' 'b'a'z'a'a'r' 'i'n'
-'t'i'n'u'e'd' 'a'f't'e'r' 'D' 'c'e'a's'e'd' 't'o' 'b'e' 'a' 'm'i'n'o'r'.' 'A'f't'e'r'
-'w'h'i'c'h' 'h'e' 'o'c'c'u'p'i'e'd' 'a' 's'h'o'p' 'i'n' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'a't't'a'i'n'i'n'g' 'm'a'j'o'r'i't'y' 'D' 'p'r'o'm'i's'e'd' 't'o' 'p'a'y' 'a'n'
-'o'f' 'P' 'h'a'v'i'n'g' 'e'x'p'e'n'd'e'd' 'm'o'n'e'y' 'i'n' 't'h'e' 'c'o'n'-'
-'a'n'n'u'i't'y' 't'o' 'P' 'f'o'r' 't'h'e' 's'e'r'v'i'c'e's' 'r'e'n'd'e'r'e'd' 'i'n'
-'s't'r'u'c't'i'o'n' 'o'f' 's'u'c'h' 'b'a'z'a'a'r'.' 'T'h'e' 'm'o'n'e'y' 'h'a'd'
-'t'h'e' 'p'a's't'.'
-'n'o't' 'b'e'e'n' 's'p'e'n't' 'b'y' 'P' 'a't' 't'h'e' 'r'e'q'u'e's't' 'o'f' 'D' 'b'u't'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't' 'a'n'd'
-'w'a's' 's'p'e'n't' 'b'y' 'h'i'm' 'a't' 't'h'e' 'd'e's'i'r'e' 'o'f' 't'h'e' 'C'o'l'-'
-'w'h'e't'h'e'r' 'P' 'c'a'n' 'r'e'c'o'v'e'r' 't'h'e' 'm'o'n'e'y'?'
-'l'e'c't'o'r' 'o'f' 't'h'e' 'D'i's't'r'i'c't'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'('a')' 'I't' 'w'a's' 'a' 'g'o'o'd' 'c'o'n't'r'a'c't' 'a'n'd' 'P' 'c'a'n' 'r'e'-'
-'D'e'c'i's'i'o'n':'
-'c'o'v'e'r' 't'h'e' 'm'o'n'e'y'.'
-'('a')' 'I't' 'w'a's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'P' 'i's' 'l'i'a'b'l'e'.'
-'('b')' 'I't' 'w'a's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e'
-'('b')' 'T'h'e'r'e' 'w'a's' 'n'o' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a'n'd' 'h'e'n'c'e'
-'c'o'n't'r'a'c't' 'w'i't'h' 't'h'e' 'm'i'n'o'r' 'i's' 'v'o'i'd' 'a'b' 'i'n'i'-'
-'n'o' 'c'o'n't'r'a'c't',' 'n'o' 'l'i'a'b'i'l'i't'y'.'
-'t'i'o'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'('c')' 'I't' 'i's' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'4'1'.' 'F'a'c't':' 'D' 'p'r'o'm'i's'e'd' 'R's' '5'0'0' 't'o' 'a' 'f'u'n'd' 'P' 'f'o'r'
-'m'i'n'o'r'.'
-'r'e'-'b'u'i'l'd'i'n'g' 'a' 'M'o's'q'u'e'.' 'N'o't'h'i'n'g' 'h'a'd' 'b'e'e'n'
-'4'5'.' 'F'a'c't':' 'D'u'e' 't'o' 'B'’'s' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g',' 'a' 'l'a'd'y'
-'d'o'n'e' 't'o' 'c'a'r'r'y' 'o'u't' 'r'e'p'a'i'r's' 'a'n'd' 'r'e'c'o'n's't'r'u'c'-'
-'w'a's' 'i'n'j'u'r'e'd'.' 'S'h'e' 's'i'g'n'e'd' 'a' 'r'e'l'e'a's'e' 'a'g'r'e'e'-'
-'t'i'o'n'.' 'T'h'e' 's'e'c'r'e't'a'r'y' 'o'f' 't'h'e' 'm'o's'q'u'e' 'f'i' 'l'e'd' 'a'
-'s'u'i't' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f' 'R's' '5'0'0'.' 'm'e'n't' 'w'i't'h' 'i'n's'u'r'a'n'c'e' 'c'o'm'p'a'n'y' 'o'f' 'a'l'l' 'h'e'r'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'D'?' 'c'l'a'i'm's' 'f'o'r' 'j'u's't' '$' '2'1','0'0'0'.' 'S'h'e' 'w'a's' 'n'o't' 'h'e'l'd'
-'D'e'c'i's'i'o'n':' 't'o' 'b'e' 'b'o'u'n'd' 'b'y' 't'h'e' 'a'g'r'e'e'm'e'n't' 'd'u'e' 't'o' 'i'n'-'
-'('a')' 'T'h'e' 'p'r'o'm'i's'e' 'w'a's' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'b'e'-' 'a'd'e'q'u'a't'e' 'a'm'o'u'n't' 'o'f' 'e'a'r'l'i'e'r' 'c'l'a'i'm' 'a'n'd' 'i'n'-'
-'
-'C'I'V'I'L' 'L'A'W' '9'3'
-'e'q'u'a'l'i't'y' 'o'f' 'h'e'r' 'b'a'r'g'a'i'n'i'n'g' 'p'o'w'e'r' 'w'i't'h' 'p'r'o'-' 's'u'r'a'b'l'e' 'i'n't'e'r'e's't' 'i'n' 't'h'e' 'l'i'f'e' 'o'f' 'M'.' 'T'h'u's'
-'f'e's's'i'o'n'a'l' 'i'n's'u'r'a'n'c'e' 'c'o'm'p'a'n'y'.' 't'h'e' 'c'o'n't'r'a'c't' 'o'f' 'i'n's'u'r'a'n'c'e' 'w'a's' 'i'n' 't'h'e'
-'I's's'u'e':' 'W'i'l'l' 's'h'e' 'b'e' 'e'n't'i't'l'e'd' 't'o' 'h'e'r' 'c'l'a'i'm' 'f'o'r' 'n'a't'u'r'e' 'o'f' 'a' 'w'a'g'e'r'i'n'g' 'c'o'n't'r'a'c't' 'a'n'd' 't'h'u's'
-'s'u'b's'e'q'u'e'n't' 'd'a'm'a'g'e's'?' 'v'o'i'd'.'
-'D'e'c'i's'i'o'n':' '('b')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 't'h'e' 'c'o'm'p'a'n'y'
-'('a')' 'Y'e's',' 'l'a'w' 'd'o'e's' 'n'o't' 'd'e'b'a'r' 'h'e'r'.' 'i's' 'l'i'a'b'l'e'.'
-'('b')' 'S'h'e' 'c'a'n'n'o't',' 'b'e'c'a'u's'e' 'l'a'w' 'o'f' 'e's't'o'p'p'e'l' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'a'p'p'l'i'e's' 'a'g'a'i'n's't' 'h'e'r'.' '4'8'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 't'o' 'o'b't'a'i'n' 'f'o'r' 'B',' 'a'n'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'e'm'p'l'o'y'm'e'n't' 'i'n' 't'h'e' 'p'u'b'l'i'c' 's'e'r'v'i'c'e' 'a'n'd' 'B'
-'4'6'.' 'F'a'c't':' 'A' 'b'o'r'r'o'w'e'd' 'R's' '5'0','0'0'0' 'a't' '1'2' 'p'e'r' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'R's' '1','0'0'0' 't'o' 'A'.'
-'c'e'n't' 'p'e'r' 'a'n'n'u'm' 'i'n't'e'r'e's't' 'f'r'o'm' 'B',' 'r'e'p'a'y'a'b'l'e' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'o'n' 'd'e'm'a'n'd'.' 'B' 'm'a'd'e' 't'h'e' 'd'e'm'a'n'd' 'a'n'd' 'o'n' 'D'e'c'i's'i'o'n':'
-'f'a'i'l'u'r'e' 'o'f' 'A' 't'o' 'p'a'y' 'b'a'c'k',' 'h'e' 'w'a's' 'a'b'o'u't' 't'o' '('a')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'s'u'e' 'A' 't'o' 'g'e't' 'b'a'c'k' 'h'i's' 'm'o'n'e'y'.' 'A' 'r'e'q'u'e's't'e'd' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd' 'a's' 't'h'e' 'c'o'n's'i'd'e'r'-'
-'B' 't'o' 'p'o's't'p'o'n'e' 't'h'e' 'f'i' 'l'i'n'g' 'o'f' 's'u'i't' 'a'n'd' 'a'g'r'e'e'd' 'a't'i'o'n' 'f'o'r' 'i't' 'i's' 'u'n'l'a'w'f'u'l'.'
-'t'o' 'p'a'y' 'i'n't'e'r'e's't' 'a't' 't'h'e' 'r'a't'e' 'o'f' 'e'i'g'h't'e'e'n' 'p'e'r' '('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't'.'
-'c'e'n't' 'p'e'r' 'a'n'n'u'm'.' 'O'n' 'r'e'f'u's'a'l' 't'o' 'p'a'y' 'i'n't'e'r'e's't'
-'4'9'.' 'A'n' 'o'l'd' 'l'a'd'y',' 'L'a'x'm'i' 'R'a'n'i' 'g'i'f't'e'd' 'h'e'r' 'p'r'o'p'-'
-'a't' '1'8' 'p'e'r' 'c'e'n't' 'B' 'f'i' 'l'e'd' 'a' 's'u'i't'.'
-'e'r't'y' 't'o' 'h'e'r' 'o'w'n' 'd'a'u'g'h't'e'r' 'R'a'm'a'y'y'a',' 'w'i't'h'
-'I's's'u'e':' 'W'h'e't'h'e'r' 'B' 'w'i'l'l' 's'u'c'c'e'e'd' 'i'n' 'h'i's'
-'t'h'e' 'd'i'r'e'c't'i'o'n' 't'o' 'p'a'y' 'a' 'c'e'r't'a'i'n' 's'u'm' 'o'f' 'm'o'n'-'
-'s'u'i't'?'
-'e'y' 'a'n'n'u'a'l'l'y' 't'o' 'C'h'i'n'a'y'y'a',' 'h'e'r' 'm'a't'e'r'n'a'l' 'u'n'-'
-'D'e'c'i's'i'o'n':'
-'c'l'e'.' 'O'n' 't'h'e' 's'a'm'e' 'd'a'y' 'R'a'm'a'y'y'a' 'e'x'e'c'u't'e'd'
-'('a')' 'N'o',' 'h'e' 'w'i'l'l' 'n'o't' 's'u'c'c'e'e'd' 'b'e'c'a'u's'e' 'h'e'
-'a'n' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 'C'h'i'n'a'y'y'a' 'a'g'r'e'e'i'n'g' 't'o'
-'h'i'm's'e'l'f' 'o'f'f'e'r'e'd' 't'o' 'p'a'y' '1'8'%' 'i'n't'e'r'e's't'
-'p'a'y' 't'h'e' 'a'm'o'u'n't' 'a'n'n'u'a'l'l'y'.' 'L'a't'e'r',' 'R'a'm'a'y'y'a'
-'p'e'r' 'a'n'n'u'm'.'
-'r'e'f'u's'e'd' 't'o' 'h'o'n'o'u'r' 't'h'e' 'a'g'r'e'e'm'e'n't' 'o'n' 't'h'e'
-'('b')' 'H'e' 'w'i'l'l' 's'u'c'c'e'e'd' 'i'n' 'h'i's' 's'u'i't' 'b'e'c'a'u's'e' 'h'e'
-'g'r'o'u'n'd' 't'h'a't' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n's'i'd'e'r'a't'i'o'n'.' 'C'h'i'-'
-'w'a's' 'f'o'r'c'e'd' 't'o' 'p'a'y' '1'8'%' 'u'n'd'e'r' 'u'n'd'u'e'
-'n'a'y'y'a' 's'u'e'd' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f' 't'h'e' 'a'n'n'u'-'
-'i'n'f'l' 'u'e'n'c'e' 'w'h'i'c'h' 'v'i't'i'a't'e's' 't'h'e' 'v'a'l'i'd'i't'y'
-'i't'y'.'
-'o'f' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'o'n'e' 'o'f' 't'h'e' 'b'a's'i'c'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'e's's'e'n't'i'a'l' 'f'e'a't'u'r'e's' 'o'f' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'i's'
-'D'e'c'i's'i'o'n':'
-'t'h'a't' 'i't' 's'h'o'u'l'd' 'b'e' 'e'n't'e'r'e'd' 'i'n't'o',' 'w'i't'h' 'f'r'e'e'
-'('a')' 'T'h'e'r'e' 'w'a's' 's'u'f'f'i' 'c'i'e'n't' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'c'o'n's'e'n't'.'
-'i'.'e'.',' 't'h'e' 'p'r'o'p'e'r't'y' 'g'i'v'e'n' 't'o' 'h'e'r' 'b'y' 't'h'e'
-'('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 's'o' 'B' 'w'i'l'l' 'n'o't'
-'s'i's't'e'r' 'o'f' 'C'h'i'n'a'y'y'a' 's'o' 'R'a'm'a'y'y'a' 'w'a's' 'l'i'-'
-'s'u'c'c'e'e'd'.'
-'a'b'l'e' 't'o' 'p'a'y'.'
-'4'7'.' 'F'a'c't':' 'O'n' '1'5' 'J'a'n'u'a'r'y' '1'9'5'1' 'M',' 't'h'e' 'd'e'-'
-'('b')' 'T'h'e'r'e' 'w'a's' 'n'o' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n'
-'c'e'a's'e'd' 'u'n'c'l'e' 'o'f' 'A' 'm'a'd'e' 'a'n' 'a'p'p'l'i'c'a't'i'o'n' 'f'o'r'
-'C'h'i'n'a'y'y'a' 'a'n'd' 'R'a'm'a'y'y'a' 's'o' 'R'a'm'a'y'y'a'
-'i'n's'u'r'a'n'c'e' 'f'o'r' 'R's' '3'5','0'0'0'.' 'I'n' 't'h'a't' 'a'p'p'l'i'c'a'-'
-'i's' 'n'o't' 'l'i'a'b'l'e'.'
-'t'i'o'n',' 'M' 's't'a't'e'd' 'h'i's' 'o'c'c'u'p'a't'i'o'n' 'a's' 'l'a'n'd'l'o'r'd'
-'('c')' 'T'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't'.'
-'a'n'd' 'm'i'l'l'-'o'w'n'e'r'.' 'O'n' 't'h'e' 'b'a's'i's' 'o'f' 't'h'e' 'a'p'p'l'i'-'
-'5'0'.' 'F'a'c't':' 'A'n' 'a'r'r'a'n'g'e'm'e'n't' 'w'a's' 'm'a'd'e' 'b'e't'w'e'e'n'
-'c'a't'i'o'n',' 't'h'e' 'c'o'm'p'a'n'y' 'i's's'u'e'd' 'a' 'p'o'l'i'c'y' 't'o' 'M'
-'t'h'e' 'f'a't'h'e'r's' 'o'f' 'a' 'g'r'o'o'm' 'a'n'd' 'a' 'b'r'i'd'e' 'b'e'f'o'r'e'
-'o'n' '1'9' 'J'a'n'u'a'r'y' '1'9'5'1'.' 'I'n' 't'h'e' 'p'o'l'i'c'y',' 'A' 'w'a's'
-'t'h'e'i'r' 'm'a'r'r'i'a'g'e' 't'h'a't' 'e'a'c'h' 'w'o'u'l'd' 'p'a'y' 'a' 'c'e'r'-'
-'m'e'n't'i'o'n'e'd' 'a's' 'n'o'm'i'n'e'e'.' 'T'h'e' 'f'i' 'r's't' 't'w'o' 'q'u'a'r'-'
-'t'e'r'l'y' 'p'r'e'm'i'u'm's' 'o'n' 't'h'e' 'p'o'l'i'c'y' 'w'e'r'e' 'p'a'i'd' 'b'y' 't'a'i'n' 's'u'm' 'o'f' 'm'o'n'e'y' 't'o' 't'h'e' 'h'u's'b'a'n'd'.' 'F'a't'h'e'r'
-'A'.' 'M' 'd'i'e'd' 'o'n' 't'h'e' 'n'i'g'h't' 'o'f' '1'9't'h' 'a'n'd' '2'0't'h' 'o'f' 't'h'e' 'b'o'y' 'p'a'i'd' 't'h'e' 'p'r'o'm'i's'e'd' 'a'm'o'u'n't' 'b'u't'
-'A'u'g'u's't' '1'9'5'1',' 'a'n'd' 't'h'e' 'n'o't'i'c'e' 'o'f' 'h'i's' 'd'e'a't'h',' 't'h'e' 'b'r'i'd'e'’'s' 'f'a't'h'e'r' 'f'a'i'l'e'd' 't'o' 'p'a'y' 't'h'e' 'a'm'o'u'n't'.'
-'a'n'd' 't'h'a't' 'o'f' 't'h'e' 'c'l'a'i'm' 'w'a's' 's'e'n't' 't'o' 't'h'e' 'c'o'm'-' 'T'h'e' 'b'o'y' 's'u'e'd' 'h'i's' 'f'a't'h'e'r'-'i'n'-'l'a'w' 'f'o'r' 't'h'e' 'r'e'-'
-'p'a'n'y' 'o'n' '1'5' 'S'e'p't'e'm'b'e'r' '1'9'5'1'.' 'A'f't'e'r' 'm'a'k'i'n'g' 'c'o'v'e'r'y' 'o'f' 't'h'e' 'p'r'o'm'i's'e'd' 'a'm'o'u'n't' 'o'f' 'm'o'n'e'y'.'
-'i'n'q'u'i'r'i'e's',' 't'h'e' 'i'n's'u'r'a'n'c'e' 'c'o'm'p'a'n'y' 'r'e'f'u's'e'd' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'b'o'y' 'c'a'n' 'r'e'c'o'v'e'r' 't'h'e'
-'c'l'a'i'm'.' 'A' 'b'r'o'u'g'h't' 'a' 's'u'i't' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f' 'm'o'n'e'y'.'
-'R's' '3'5','0'0'0'.' 'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' '('a')' 'H'e' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't'.'
-'D'e'c'i's'i'o'n':' '('b')' 'H'e' 'c'a'n' 'r'e'c'o'v'e'r' 'b'e'c'a'u's'e' 't'h'e'y' 'h'a'd' 'e'n'-'
-'('a')' 'T'h'e' 'p'o'l'i'c'y' 'i'n' 'q'u'e's't'i'o'n' 'w'a's' 'e'f'f'e'c't'e'd' 't'e'r'e'd' 'i'n't'o' 'a' 'c'o'n't'r'a'c't' 'b'e'f'o'r'e' 't'h'e' 'm'a'r'-'
-'b'y' 'A' 'i'n' 't'h'e' 'n'a'm'e' 'o'f' 'M' 'f'o'r' 'h'i's' 'o'w'n' 'u's'e' 'r'i'a'g'e'.'
-'a'n'd' 'b'e'n'e'f'i' 't' 'a'n'd' 'f'u'r't'h'e'r' 'A' 'h'a'd' 'n'o' 'i'n'-' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'
-'5'1'.' 'F'a'c't':' 'A' 's'o'l'd' 'a' 'l'a'r'g'e' 'q'u'a'n't'i't'y' 'o'f' 't'y'r'e's' 't'o' 'B' 'e'c'u't'e'd' 'a' 'm'o'r't'g'a'g'e' 'i'n' 'h'i's' 'f'a'v'o'u'r'.' 'H'e' 'b'e'-'
-'a't' 'a' 'c'e'r't'a'i'n' 'p'r'i'c'e' 'o'n' 'e'n't'e'r'i'n'g' 'i'n't'o' 'a' 'c'o'v'-' 'c'a'm'e' 'a' 'm'a'j'o'r' 'a' 'f'e'w' 'm'o'n't'h's' 'l'a't'e'r' 'a'n'd' 'f'i' 'l'e'd'
-'e'n'a'n't' 'n'o't' 't'o' 's'e'l'l' 't'h'e' 't'y'r'e's' 'b'e'l'o'w' 't'h'e' 'p'r'i'c'e' 'a' 's'u'i't' 'f'o'r' 't'h'e' 'd'e'c'l'a'r'a't'i'o'n' 't'h'a't' 't'h'e' 'm'o'r't'g'a'g'e'
-'m'e'n't'i'o'n'e'd' 'i'n' 'p'r'i'c'e' 'l'i's't' 's'u'p'p'l'i'e'd' 'b'y' 'A'.' 'B' 'e'x'e'c'u't'e'd' 'b'y' 'h'i'm' 'd'u'r'i'n'g' 'h'i's' 'm'i'n'o'r'i't'y' 'w'a's'
-'s'o'l'd' 't'h'e' 't'y'r'e's' 't'o' 'C' 'a' 'r'e't'a'i'l' 'd'e'a'l'e'r' 'u'n'd'e'r' 'a' 'v'o'i'd' 'a'n'd' 's'h'o'u'l'd' 'b'e' 'c'a'n'c'e'l'l'e'd'.'
-'c'o'n't'r'a'c't' 's't'i'p'u'l'a't'i'n'g' 't'h'e' 's'a'm'e' 'c'o'v'e'n'a'n't' 'a's' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'o'i'd' 'o'r' 'v'a'l'i'd'?'
-'b'e't'w'e'e'n' 'A' 'a'n'd' 'B'.' 'C' 's'o'l'd' 't'h'e' 't'y'r'e's' 'a't' 'a' 'D'e'c'i's'i'o'n':'
-'p'r'i'c'e' 'l'e's's' 't'h'a'n' 't'h'e' 'l'i's't'e'd' 'p'r'i'c'e'.' 'A' 's'u'e'd' 'C' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'a'n'd' 't'h'e' 'm'i'n'o'r'
-'f'o'r' 't'h'e' 'b'r'e'a'c'h'.' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 't'o' 't'h'e' 'r'e'p'a'y'm'e'n't' 'o'f'
-'I's's'u'e':' 'C'a'n' 'A' 's'u'e' 'C'?' 'm'o'n'e'y'.'
-'D'e'c'i's'i'o'n':' '('b')' 'A' 'm'o'r't'g'a'g'e' 'b'y' 'a' 'm'i'n'o'r' 'w'a's' 'v'o'i'd' 'a'n'd'
-'('a')' 'Y'e's',' 'A' 'c'a'n' 'b'e'c'a'u's'e' 'A' 'h'a'd' 'c'o'n't'r'a'c't' 'B' 'w'a's' 'n'o't' 'e'n't'i't'l'e'd' 't'o' 'r'e'p'a'y'm'e'n't' 'o'f'
-'w'i't'h' 'B' 'a'n'd' 'C' 'a'u't'o'm'a't'i'c'a'l'l'y' 'b'e'c'o'm'e's' 'm'o'n'e'y'.'
-'a' 't'h'i'r'd' 'p'a'r't'y'.' '('c')' 'I't' 'i's' 'a' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.'
-'('b')' 'A' 'c'o'u'l'd' 'n'o't' 's'u'e' 'C' 'a's' 'A' 'w'a's' 'n'o't' 'a' 'p'a'r't'y' '5'5'.' 'F'a'c't':' 'I'n' 'o'r'd'e'r' 't'o' 'p'a'y'-'o'f'f' 't'h'e' 'p'r'o'm'i's's'o'r'y'
-'t'o' 't'h'e' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'B' 'a'n'd' 'C'.' 'n'o't'e' 'a'n'd' 't'h'e' 'm'o'r't'g'a'g'e' 'd'e'b't' 'o'f' 'h'i's' 'f'a't'h'e'r','
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 't'h'e' 'm'i'n'o'r' 's'o'n' 'a'n'd' 'h'i's' 'm'o't'h'e'r' 's'o'l'd' 'a' 'p'i'e'c'e'
-'5'2'.' 'F'a'c't':' 'U' 'w'a's' 'a'p'p'o'i'n't'e'd' 'b'y' 'h'i's' 'f'a't'h'e'r' 'a's' 'h'i's' 'o'f' 'l'a'n'd' 't'o' 't'h'e' 'h'o'l'd'e'r's' 'o'f' 't'h'e' 'p'r'o'm'i's's'o'r'y'
-'s'u'c'c'e's's'o'r' 'a'n'd' 'w'a's' 'p'u't' 'i'n' 'p'o's's'e's's'i'o'n' 'o'f' 'h'i's' 'n'o't'e' 'i'n' 's'a't'i's'f'a'c't'i'o'n' 'o'f' 't'h'e' 'n'o't'e' 'a'n'd' 'm'o'r't'-'
-'e'n't'i'r'e' 'p'r'o'p'e'r't'y'.' 'I'n' 'c'o'n's'i'd'e'r'a't'i'o'n' 't'h'e'r'e'o'f' 'U' 'g'a'g'e' 'd'e'b't'.' 'L'a't'e'r' 't'h'e' 'm'i'n'o'r' 'b'r'o'u'g'h't' 'a'n' 'a'c'-'
-'a'g'r'e'e'd' 'w'i't'h' 'h'i's' 'f'a't'h'e'r' 't'o' 'p'a'y' 'a' 'c'e'r't'a'i'n' 's'u'm' 't'i'o'n' 't'o' 'r'e'c'o'v'e'r' 'b'a'c'k' 't'h'e' 'l'a'n'd'.'
-'o'f' 'm'o'n'e'y' 'a'n'd' 't'o' 'g'i'v'e' 'a' 'v'i'l'l'a'g'e' 't'o' 'J',' 't'h'e' 'I's's'u'e':' 'I's' 't'h'e' 'a'c't'i'o'n' 'f'o'r' 'r'e'c'o'v'e'r'y' 'o'f' 'l'a'n'd'
-'i'l'l'e'g'i't'i'm'a't'e' 's'o'n' 'o'f' 'h'i's' 'f'a't'h'e'r',' 'o'n' 'h'i's' 'a't't'a'i'n'-' 'v'a'l'i'd'?'
-'i'n'g' 'm'a'j'o'r'i't'y'.' 'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' '('a')' 'T'h'e' 'a'c't'i'o'n' 'w'i'l'l' 'b'e' 'r'e'j'e'c't'e'd' 'o'n' 't'h'e'
-'D'e'c'i's'i'o'n':' 'g'r'o'u'n'd' 't'h'a't' 't'h'e' 's'a'l'e' 'o'f' 't'h'e' 'l'a'n'd' 'i'n'
-'('a')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.' 'A's' 't'h'e'r'e' 'w'a's' 'a' 'q'u'e's't'i'o'n' 'w'a's' 'v'a'l'i'd' 'a's' 'i't' 'w'a's' 'd'o'n'e' 'b'y'
-'c'o'n'c'r'e't'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'b'e't'w'e'e'n' 'U' 'a'n'd' 't'h'e' 'm'o't'h'e'r' 'f'o'r' 'h'e'r' 'm'i'n'o'r' 's'o'n' 'a'n'd' 'o'n'
-'h'i's' 'f'a't'h'e'r' 'a'n'd' 'i'f' 'U' 'd'o'e's' 'n'o't' 'f'u'l'f'i' 'l'l' 'a'n'y' 'h'i's' 'b'e'h'a'l'f'.'
-'c'o'n'd'i't'i'o'n' 't'h'e'n' 'J' 'i's' 'e'n't'i't'l'e'd' 't'o' 's'u'e' 'U'.' '('b')' 'T'h'e' 'a'c't'i'o'n' 'f'o'r' 'r'e'c'o'v'e'r'y' 'o'f' 'l'a'n'd' 'i's' 'v'a'l'-'
-'('b')' 'A's' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'U' 'a'n'd' 'i'd' 'a'n'd' 't'h'e' 'm'i'n'o'r' 'w'i'l'l' 'b'e' 'e'n't'i't'l'e'd' 't'o' 't'h'e'
-'J' 's'o' 'J' 'h'a's' 'n'o' 'c'l'a'i'm's' 'a'g'a'i'n's't' 'U'.' 'r'e'c'o'v'e'r'y' 'o'f' 'l'a'n'd'.'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd' 'a'b' 'i'n'i't'i'o' 'b'e'c'a'u's'e' '('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'
-'c'o'n's'i'd'e'r'a't'i'o'n' 'a'g'r'e'e'd' 'u'p'o'n' 'i's' 'f'o'r' 'i'l'l'e'-' 'b'e'c'a'u's'e' 't'h'e' 'p'r'e's'e'n't' 'p'r'o'p'o's'i't'i'o'n' 'i's' 'n'o't'
-'g'i't'i'm'a't'e' 's'o'n' 'w'h'i'c'h' 'g'o'e's' 'a'g'a'i'n's't' 't'h'e' 'c'o'v'e'r'e'd' 'b'y' 't'h'e' 'b'a'r'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'I'n'-'
-'m'o'r'a'l'i't'y'.' 'd'i'a'n' 'C'o'n't'r'a'c't' 'A'c't'.'
-'5'3'.' 'F'a'c't':' 'D' 'a'g'r'e'e'd' 'w'i't'h' 'P'’'s' 'f'a't'h'e'r' 't'h'a't' 'h'e' '5'6'.' 'F'a'c't':' 'A' 'm'i'n'o'r' 'b'o'r'r'o'w'e'd' 'a' 's'u'm' 'o'f' 'm'o'n'e'y'
-'w'o'u'l'd' 'p'a'y' 'P',' 'R's' '5'0'0' 'p'e'r' 'm'o'n't'h' 'a's' 'k'h'a'r'c'h'-' 'e'x'e'c'u't'i'n'g' 'a' 's'i'm'p'l'e' 'b'o'n'd' 'f'o'r' 'i't',' 'a'n'd' 'a'f't'e'r'
-'i'-'p'a'n'd'a'n' 'i'f' 's'h'e' 'm'a'r'r'i'e's' 'D'’'s' 's'o'n'.' 'T'h'e' 'a'l'-' 'a't't'a'i'n'i'n'g' 'm'a'j'o'r'i't'y' 'e'x'e'c'u't'e'd' 'a' 's'e'c'o'n'd' 'b'o'n'd'
-'l'o'w'a'n'c'e' 'w'a's' 's't'o'p'p'e'd' 's'o'm'e't'i'm'e' 'a'f't'e'r' 't'h'e' 'i'n' 'r'e's'p'e'c't' 'o'f' 't'h'e' 'o'r'i'g'i'n'a'l' 'l'o'a'n' 'a'n'd' 'i'n't'e'r'-'
-'c'e'l'e'b'r'a't'i'o'n' 'o'f' 'm'a'r'r'i'a'g'e'.' 'P' 's'u'e'd' 'h'e'r' 'f'a't'h'e'r'-' 'e's't'.'
-'i'n'-'l'a'w' 'f'o'r' 'R's' '1','5'0'0' 'a's' 'a'r'r'e'a'r's' 'o'f' 'a'l'l'o'w'-' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'a'n'c'e'.' 'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'C'a'n' 'P' 's'u'e' 't'h'e' 'D' 'a'n'd' 'w'a's' 't'h'e'r'e' 'a'n'y' '('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e' 'm'i'-'
-'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'P' 'a'n'd' 'D'?' 'n'o'r' 'h'a'd' 'e'x'e'c'u't'e'd' 't'h'e' 's'e'c'o'n'd' 'a'f't'e'r' 'a't'-'
-'D'e'c'i's'i'o'n':' 't'a'i'n'i'n'g' 'm'a'j'o'r'i't'y'.'
-'('a')' 'Y'e's' 'P' 'c'a'n' 's'u'e' 't'h'e' 'D' 'a's' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e'
-'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'D' 'h'a'd' 'a'l'r'e'a'd'y' 'p'e'r'-' 'c'o'n't'r'a'c't' 'w'a's' 't'h'e' 'r'e'n'e'w'a'l' 'o'f' 'f'i' 'r's't' 'b'o'n'd'
-'f'o'r'm'e'd' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'o'f' 'c'o'n't'r'a'c't'.' 'w'h'i'c'h' 'w'a's' 'd'o'n'e' 'b'y' 'm'i'n'o'r'.'
-'('b')' 'T'h'e'r'e' 'i's' 'n'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 's'o' 'P' 'c'a'n'n'o't' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'s'u'e' 'D'.' '5'7'.' 'F'a'c't':' 'X',' 'a' 'm'i'n'o'r',' 'i'n's'u'r'e'd' 'h'i's' 'g'o'o'd's' 'w'i't'h'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'a'n' 'i'n's'u'r'a'n'c'e' 'c'o'm'p'a'n'y'.' 'T'h'e' 'g'o'o'd's' 'w'e'r'e'
-'5'4'.' 'F'a'c't':' '“'A's' 'a' 'm'i'n'o'r' 'b'o'r'r'o'w'e'd' 'R's' '2'0','0'0'0' 'd'a'm'a'g'e'd'.' 'X' 'f'i' 'l'e'd' 'a' 's'u'i't' 'f'o'r' 'c'l'a'i'm'.' 'T'h'e'
-'f'r'o'm' 'B' 'a'n'd' 'a's' 'a' 's'e'c'u'r'i't'y' 'f'o'r' 't'h'e' 's'a'm'e' 'e'x'-' 'i'n's'u'r'a'n'c'e' 'c'o'm'p'a'n'y' 't'o'o'k' 't'h'e' 'p'l'e'a' 't'h'a't' 't'h'e'
-'
-'C'I'V'I'L' 'L'A'W' '9'5'
-'p'e'r's'o'n' 'o'n' 'w'h'o's'e' 'b'e'h'a'l'f' 't'h'e' 'g'o'o'd's' 'w'e'r'e' 'i'n'-' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e'
-'s'u'r'e'd' 'w'a's' 'a' 'm'i'n'o'r'.' 'T'h'e' 'c'o'u'r't' 'r'e'j'e'c't'e'd' 't'h'e' 'a'p'p'l'i'c'a't'i'o'n' 'o'f' 'c'o'e'r'c'i'o'n' 'v'i't'i'a't'e's' 't'h'e' 'v'a'-'
-'p'l'e'a' 'a'n'd' 'a'l'l'o'w'e'd' 't'h'e' 'm'i'n'o'r' 't'o' 'r'e'c'o'v'e'r' 't'h'e' 'l'i'd'i't'y' 'o'f' 'c'o'n't'r'a'c't'.'
-'i'n's'u'r'a'n'c'e' 'm'o'n'e'y'.' '('c')' 'I't' 'i's' 'a' 'q'u'i't'e' 'c'o'n'f'u's'i'n'g' 's'i't'u'a't'i'o'n' 's'o' 'i't'
-'I's's'u'e':' 'W'i'l'l' 't'h'e' 'm'i'n'o'r' 'b'e' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'-' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.'
-'e'r' 't'h'e' 'i'n's'u'r'a'n'c'e' 'm'o'n'e'y'?' '6'0'.' 'F'a'c't':' 'A' 'g'i'r'l' 'o'f' '1'3',' 'l'o's't' 'h'e'r' 'h'u's'b'a'n'd' 'a'n'd'
-'D'e'c'i's'i'o'n':' 'h'e'r' 'h'u's'b'a'n'd'’'s' 'r'e'l'a't'i'v'e's' 'r'e'f'u's'e'd' 't'o' 'h'a'v'e'
-'('a')' 'N'o',' 'h'e' 'w'i'l'l' 'n'o't' 'b'e' 'e'n't'i't'l'e'd' 'a's' 'h'e' 'i's' 'm'i'-' 't'h'e' 'h'u's'b'a'n'd'’'s' 'c'o'r'p's'e' 'r'e'm'o'v'e'd' 'u'n'l'e's's' 's'h'e'
-'n'o'r'.' 'a'd'o'p't'e'd' 'o'n'e' 'c'h'i'l'd' 'o'f' 't'h'e'i'r' 'c'h'o'i'c'e'.' 'I't' 'w'a's'
-'('b')' 'H'e' 'w'i'l'l' 'b'e' 'e'n't'i't'l'e'd' 't'h'o'u'g'h' 'h'e' 'w'a's' 'm'i'-' 'h'e'l'd' 't'h'a't' 't'h'e' 'a'd'o'p't'i'o'n' 'w'a'd' 'n'o't' 'b'i'n'd'i'n'g' 'o'n'
-'n'o'r' 'a't' 't'h'e' 't'i'm'e' 'h'e' 'i'n's'u'r'e'd' 'h'i's' 'g'o'o'd's' 'h'e'r' 'a's' 'h'e'r' 'c'o'n's'e'n't' 'w'a's' 'o'b't'a'i'n'e'd' 'u'n'd'e'r' 'c'o'-'
-'w'i't'h' 't'h'e' 'c'o'm'p'a'n'y'.' 'T'h'e' 'c'o'n't'r'a'c't' 'w'i't'h' 'e'r'c'i'o'n' 'w'i't'h'i'n' 't'h'e' 'm'e'a'n'i'n'g' 'o'f' 'S'e'c't'i'o'n' '1'5'
-'t'h'e' 'm'i'n'o'r' 'h'a's' 'b'e'e'n' 'h'e'l'd' 't'o' 'b'e' 'v'o'i'd' 't'o' 's'i'n'c'e' 'a'n'y' 'p'e'r's'o'n' 'w'h'o' 'o'b's't'r'u'c't'e'd' 'a' 'd'e'a'd'
-'p'r'o't'e'c't' 't'h'e' 'i'n't'e'r'e's't' 'o'f' 'm'i'n'o'r' 'b'u't' 't'h'i's' 'b'o'd'y' 'f'r'o'm' 'b'e'i'n'g' 'r'e'm'o'v'e'd' 'w'o'u'l'd' 'b'e' 'g'u'i'l't'y'
-'p'r'o'v'i's'i'o'n' 'c'a'n'n'o't' 'b'e' 'm'i's'u's'e'd' 'a'g'a'i'n's't' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' '2'9'7' 'o'f' 't'h'e' 'I'n'-'
-'t'h'e' 'i'n't'e'r'e's't' 'o'f' 'm'i'n'o'r'.' 'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'.'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't' 'a's' 'I's's'u'e':' 'I's' 't'h'e' 'a'd'o'p't'i'o'n' 'v'a'l'i'd'?'
-'s'u'c'h' 'c'o'n't'r'a'c't's' 'a'r'e' 'n'o't' 'c'o'v'e'r'e'd' 'b'y' 't'h'e' 'D'e'c'i's'i'o'n':'
-'I'n'd'i'a'n' 'C'o'n't'r'a'c't' 'A'c't'.' '('a')' 'N'o',' 't'h'e' 'a'd'o'p't'i'o'n' 'i's' 'n'o't' 'v'a'l'i'd' 'a's' 'i't' 'w'a's'
-'5'8'.' 'F'a'c't':' 'A'n' 'i'l'l'i't'e'r'a't'e' 'w'o'm'a'n' 'e'x'e'c'u't'e'd' 'a' 'd'e'e'd' 'i'm'p'o's'e'd' 't'h'r'o'u'g'h' 'c'o'e'r'c'i'o'n'.'
-'u'n'd'e'r' 't'h'e' 'i'm'p'r'e's's'i'o'n',' 't'h'a't' 's'h'e' 'w'a's' 'e'x'e'c'u't'-' '('b')' 'T'h'e' 'a'd'o'p't'i'o'n' 'i's' 'v'a'l'i'd'.'
-'i'n'g' 'a' 'd'e'e'd' 'a'u't'h'o'r'i'z'i'n'g' 'h'e'r' 'n'e'p'h'e'w' 't'o' 'm'a'n'-'
-'('c')' 'T'h'e' 'a'd'o'p't'i'o'n' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'a'g'e' 'h'e'r' 'l'a'n'd's',' 'w'h'i'l'e' 'i'n' 'f'a'c't' 'i't' 'w'a's' 'a' 'd'e'e'd' 'o'f'
-'o'f' 't'h'e' 'g'i'r'l'.'
-'g'i'f't' 'i'n' 'f'a'v'o'u'r' 'o'f' 'h'e'r' 'n'e'p'h'e'w'.' 'T'h'e' 'e'v'i'd'e'n'c'e'
-'6'1'.' 'F'a'c't':' 'B'y' 't'h'r'e'a't' 'o'f' 's'u'i'c'i'd'e',' 'a' 'H'i'n'd'u' 'i'n'-'
-'s'h'o'w'e'd' 't'h'a't' 't'h'e' 'w'o'm'a'n' 'n'e'v'e'r' 'i'n't'e'n'd'e'd' 't'o'
-'d'u'c'e'd' 'h'i's' 'w'i'f'e' 'a'n'd' 's'o'n' 't'o' 'e'x'e'c'u't'e' 'a' 'r'e'l'e'a's'e'
-'e'x'e'c'u't'e' 's'u'c'h' 'a' 'd'e'e'd' 'o'f' 'g'i'f't' 'n'o'r' 'w'a's' 't'h'e'
-'i'n' 'f'a'v'o'u'r' 'o'f' 'h'i's' 'b'r'o't'h'e'r' 'i'n' 'r'e's'p'e'c't' 'o'f' 'c'e'r'-'
-'d'e'e'd' 'r'e'a'd' 'o'r' 'e'x'p'l'a'i'n'e'd' 't'o' 'h'e'r'.'
-'t'a'i'n' 'p'r'o'p'e'r't'i'e's' 'w'h'i'c'h' 't'h'e'y' 'c'l'a'i'm'e'd' 'a's' 't'h'e'i'r'
-'I's's'u'e':' 'I's' 't'h'e' 'd'e'e'd' 'v'a'l'i'd' 'a'n'd' 'i's' 'o'p'e'r'a't'i'v'e'?'
-'o'w'n'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'I's' 't'h'e' 'd'e'e'd' 'v'a'l'i'd'?'
-'('a')' 'T'h'e' 'd'e'e'd' 'i's' 'v'a'l'i'd' 'a'n'd' 'o'p'e'r'a't'i'v'e'.'
-'D'e'c'i's'i'o'n':'
-'('b')' 'T'h'e' 'd'e'e'd' 'i's' 'n'o't' 'v'a'l'i'd' 'a'n'd' 'n'o't' 'o'p'e'r'a't'i'v'e'
-'('a')' 'T'h'e' 't'h'r'e'a't' 'o'f' 's'u'i'c'i'd'e' 'a'm'o'u'n't'e'd' 't'o'
-'b'e'c'a'u's'e' 'a'n'y' 'c'o'n't'r'a'c't' 'd'o'n'e' 'u'n'd'e'r' 't'h'e'
-'c'o'e'r'c'i'o'n' 'w'i't'h'i'n' 's'e'c't'i'o'n' '1'5' 'a'n'd' 't'h'e' 'r'e'-'
-'w'r'o'n'g' 'i'm'p'r'e's's'i'o'n',' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n','
-'l'e'a's'e' 'd'e'a'd' 'w'a's' 'v'o'i'd'a'b'l'e'.'
-'m'i's't'a'k'e',' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e',' 't'h'r'e'a't',' 'f'o'r'c'e'
-'('b')' 'T'h'e' 'd'e'e'd' 'i's' 'v'a'l'i'd' 'a'n'd' 'c'a'n' 'b'e' 'e'x'e'c'u't'-'
-'o'r' 'c'o'e'r'c'i'o'n' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a's'
-'e'd'.'
-'p'e'r' 't'h'e' 'S'e'c't'i'o'n' '1'4' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n'-'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'t'r'a'c't' 'A'c't'.'
-'6'2'.' 'F'a'c't':' 'A' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'r'e'f'u's'e's' 't'o' 'd'e'-'
-'('c')' 'A's' 'I'n'd'i'a'n' 'C'o'n't'r'a'c't' 'A'c't' 'd'o'e's' 'n'o't' 'c'o'v'e'r'
-'l'i'v'e'r' 'c'e'r't'a'i'n' 'g'o'o'd's' 't'o' 't'h'e' 'c'o'n's'i'g'n'e'e',' 'e'x'-'
-'s'u'c'h' 's'i't'u'a't'i'o'n's' 's'o' 'i't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e'-'
-'c'e'p't' 'u'p'o'n' 't'h'e' 'p'a'y'm'e'n't' 'o'f' 'i'l'l'e'g'a'l' 'c'h'a'r'g'e's'
-'t'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.'
-'f'o'r' 'c'a'r'r'i'a'g'e'.' 'T'h'e' 'c'o'n's'i'g'n'e'e' 'p'a'y's' 't'h'e' 's'u'm'
-'5'9'.' 'F'a'c't':' 'A',' 'o'n' 'b'o'a'r'd' 'a'n' 'E'n'g'l'i's'h' 's'h'i'p' 'o'n' 't'h'e'
-'c'h'a'r'g'e'd' 'i'n' 'o'r'd'e'r' 't'o' 'o'b't'a'i'n' 't'h'e' 'g'o'o'd's'.'
-'h'i'g'h' 's'e'a's',' 'c'a'u's'e's' 'B' 't'o' 'e'n't'e'r' 'i'n't'o' 'a'n' 'a'g'r'e'e'-'
-'I's's'u'e':' 'A'r'e' 't'h'e' 'c'l'a'i'm's' 'o'f' 'c'o'n's'i'g'n'e'e' 'm'a'i'n'-'
-'m'e'n't' 'b'y' 'a'n' 'a'c't' 'a'm'o'u'n't'i'n'g' 't'o' 'c'r'i'm'i'n'a'l' 'i'n'-'
-'t'a'i'n'a'b'l'e'?'
-'t'i'm'i'd'a't'i'o'n' 'u'n'd'e'r' 't'h'e' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'.' 'A'
-'D'e'c'i's'i'o'n':'
-'a'f't'e'r'w'a'r'd's' 's'u'e's' 'B' 'f'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'
-'('a')' 'T'h'e' 'c'l'a'i'm's' 'o'f' 'c'o'n's'i'g'n'e'e' 'a'r'e' 'm'a'i'n't'a'i'n'-'
-'a't' 'C'a'l'c'u't't'a'.' 'A' 'h'a's' 'e'm'p'l'o'y'e'd' 'c'o'e'r'c'i'o'n' 'a'l'-'
-'a'b'l'e' 'a'n'd' 'h'e' 'i's' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'e'r' 's'o'
-'t'h'o'u'g'h' 'h'i's' 'a'c't' 'i's' 'n'o't' 'a'n' 'o'f'f'e'n'c'e' 'b'y' 't'h'e' 'l'a'w'
-'m'u'c'h' 'o'f' 't'h'e' 'c'h'a'r'g'e's' 'a's' 'w'a's' 'i'l'l'e'g'a'l'l'y'
-'o'f' 'E'n'g'l'a'n'd',' 'a'n'd' 'a'l't'h'o'u'g'h' 'S'e'c't'i'o'n' '5'0'6' 'o'f'
-'e'x'c'e's's'i'v'e'.'
-'t'h'e' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e' 'w'a's' 'n'o't' 'i'n' 'f'o'r'c'e' 'a't'
-'('b')' 'I't' 'i's' 'a' 'm'a't't'e'r' 'o'f' 'm'u't'u'a'l' 'u'n'd'e'r's't'a'n'd'-'
-'t'h'e' 't'i'm'e' 'w'h'e'n' 'o'r' 'w'h'e'r'e' 't'h'a't' 'a'c't' 'w'a's' 'd'o'n'e'.'
-'i'n'g' 'b'e't'w'e'e'n' 't'h'e' 'c'o'm'p'a'n'y' 'a'n'd' 't'h'e'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd' 'a'n'd' 'i's' 'b'o'u'n'd' 't'o'
-'c'o'n's'i'g'n'e'e' 's'o' 't'h'e' 'c'l'a'i'm's' 'o'f' 'c'o'n's'i'g'n'e'e'
-'b'e' 'p'e'r'f'o'r'm'e'd'?'
-'w'i'l'l' 'n'o't' 'b'e' 'm'a'i'n't'a'i'n'a'b'l'e' 'i'n' 't'h'e' 'c'o'u'r't'
-'D'e'c'i's'i'o'n':'
-'('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a'n'd' 'b'o'u'n'd' 't'o' 'b'e' 'o'f' 'l'a'w'.'
-'p'e'r'f'o'r'm'e'd'.' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'
-'6'3'.' 'F'a'c't':' 'A',' 'a' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r' 'p'u'r'c'h'a's'e'd' 'a' '6'6'.' 'F'a'c't':' 'A',' 'a' 'm'o'n'e'y' 'l'e'n'd'e'r',' 'a'd'v'a'n'c'e's' 'R's' '1'0'0'
-'p'r'o'p'e'r't'y' 'w'o'r't'h' 'R's' '2' 'l'a'k'h's' 'f'o'r' 'R's' '2'0','0'0'0' 't'o' 'B',' 'a'n' 'a'g'r'i'c'u'l't'u'r'i's't' 'a'n'd' 'b'y' 'u'n'd'u'e' 'i'n'f'l' 'u'-'
-'f'r'o'm' 'B',' 'a'n' 'a'c'c'u's'e'd' 'u'n'd'e'r' 'h'i's' 'c'u's't'o'd'y'.' 'B'u't' 'e'n'c'e' 'i'n'd'u'c'e's' 't'o' 'B' 't'o' 'e'x'e'c'u't'e' 'a' 'b'o'n'd' 'f'o'r'
-'l'a't'e'r' 'o'n' 'B' 'w'a'n't's' 't'o' 'c'a'n'c'e'l' 't'h'e' 's'a'l'e' 'o'n' 't'h'e' 'R's' '2'0'0' 'w'i't'h' 'i'n't'e'r'e's't' 'a't' '6' 'p'e'r' 'c'e'n't' 'p'e'r'
-'g'r'o'u'n'd' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.' 'm'o'n't'h'.'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'o'f' 's'a'l'e' 'i's' 'v'a'l'i'd'?' 'I's's'u'e':' 'I's' 'i't' 'a' 'c'a's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'C'o'n't'r'a'c't' 'o'f' 's'a'l'e' 'i's' 'v'a'l'i'd' 'a'n'd' 'B' 'w'i'l'l' 'n'o't' '('a')' 'I't' 'i's' 'n'o't' 'a' 'c'a's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'
-'b'e' 'e'n't'i't'l'e'd' 't'o' 'c'l'a'i'm' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f' 'b'e'c'a'u's'e' 'i't' 'i's' 'p'u'r'e'l'y' 'a'n'd' 't'e'c'h'n'i'c'a'l'l'y' 'a'
-'l'a'n'd'.' 'b'u's'i'n'e's's' 'd'e'a'l' 'a'n'd' 't'h'e' 'm'o't'i'v'e' 'o'f' 'b'u's'i'-'
-'('b')' 'A',' 't'h'e' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r' 'i's' 'i'n' 'a' 'p'o's'i't'i'o'n' 't'o' 'n'e's's' 'i's' 't'o' 'e'a'r'n' 'p'r'o'f'i' 't'.'
-'d'o'm'i'n'a't'e' 't'h'e' 'w'i'l'l' 'o'f' 'B' 'a'n'd' 't'h'e' 'e'x'i's'-' '('b')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e' 'b'e'c'a'u's'e'
-'t'e'n'c'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e' 'c'a'n' 'b'e' 'p'r'e'-' 'i't' 'i's' 'a' 'm'e'r'e' 'e'x'p'l'o'i't'a't'i'o'n' 'o'f' 'o'n'e'’'s' 'c'o'n'-'
-'s'u'm'e'd' 's'o' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'a'n'd' 'd'i't'i'o'n's' 'a'n'd' 'a' 'c'l'e'a'r' 'c'u't' 'c'a's'e' 'o'f' 'i'n'd'u'c'e'-'
-'B' 'w'i'l'l' 'b'e' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'e'r'y' 'o'f' 'l'a'n'd'.' 'm'e'n't' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'6'4'.' 'F'a'c't':' 'A' 's'o'l'i'c'i't'o'r' 's'o'l'd' 'c'e'r't'a'i'n' 'p'r'o'p'e'r't'y' 't'o' '6'7'.' 'F'a'c't':' 'A' 'y'o'u't'h' 'o'f' '1'8' 'y'e'a'r's' 'o'f' 'a'g'e',' 's'p'e'n'd'
-'o'n'e' 'o'f' 'h'i's' 'c'l'i'e'n't's'.' 'T'h'e' 'c'l'i'e'n't' 's'u'b's'e'q'u'e'n't'l'y' 't'h'r'i'f't' 'a'n'd' 'a' 'd'r'u'n'k'a'r'd',' 'b'o'r'r'o'w'e'd' 'R's' '9'0'0' 'o'n'
-'a'l'l'e'g'e'd' 't'h'a't' 't'h'e' 'p'r'o'p'e'r't'y' 'w'a's' 'c'o'n's'i'd'e'r'a'b'l'y' 'a' 'b'o'n'd' 'b'e'a'r'i'n'g' 'c'o'm'p'o'u'n'd' 'i'n't'e'r'e's't' 'a't' '2'%'
-'o'v'e'r'v'a'l'u'e'd' 'a'n'd' 'h'i's' 'c'o'n's'e'n't' 'w'a's' 'c'a'u's'e'd' 'b'y' 'p'e'r' 'm'e'n's'e'm'.'
-'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.'
-'I's's'u'e':' 'I's' 'i't' 'a' 'c'a's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'?'
-'I's's'u'e':' 'I's' 'i't' 'a' 'c'a's'e' 'o'f' 'i'm'p'o's'i'n'g' 'u'n'd'u'e' 'i'n'f'l' 'u'-'
-'D'e'c'i's'i'o'n':'
-'e'n'c'e' 'a'n'd' 'w'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'('a')' 'N'o',' 'i't' 'i's' 'n'o't' 'a' 'c'a's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'-'
-'D'e'c'i's'i'o'n':'
-'e'n'c'e'.'
-'('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 's'i'n'c'e' 't'h'e' 'r'e'-'
-'('b')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.'
-'l'a't'i'o'n's'h'i'p' 'o'f' 's'o'l'i'c'i't'o'r' 'a'n'd' 'c'l'i'e'n't' 'i's' 'o'f'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'f'i' 'd'u'c'i'a'r'y' 'n'a't'u'r'e',' 't'h'e' 'e'x'i's't'e'n'c'e' 'o'f' 'u'n'-'
-'o'f' 't'h'e' 'y'o'u't'h'.'
-'d'u'e' 'i'n'f'l' 'u'e'n'c'e' 'c'a'n' 'b'e' 'p'r'e's'u'm'e'd' 't'o' 'e'x'-'
-'6'8'.' 'F'a'c't':' 'A',' 'a' 'h'o'r's'e' 'd'e'a'l'e'r' 's'o'l'd' 'a' 'm'a'r'e' 't'o' 'B'.'
-'i's't' 'a'n'd' 't'h'e' 'c'l'i'e'n't' 'w'i'l'l' 'b'e' 'e'n't'i't'l'e'd' 't'o' 't'h'e'
-'A' 'k'n'e'w' 't'h'a't' 't'h'e' 'm'a'r'e' 'h'a'd' 'a' 'c'r'a'c'k'e'd' 'h'o'o'f','
-'r'e'c'o'v'e'r'y' 'o'f' 'p'r'o'p'e'r't'y'.'
-'w'h'i'c'h' 'h'e' 'f'i' 'l'l'e'd' 'u'p' 'i'n' 's'u'c'h' 'a' 'w'a'y' 'a's' 't'o' 'd'e'f'y'
-'('b')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'i't' 'c'a'n'n'o't'
-'d'e't'e'c't'i'o'n'.' 'T'h'e' 'd'e'f'e'c't' 'w'a's' 's'u'b's'e'q'u'e'n't'l'y'
-'b'e' 'p'r'e's'u'm'e'd' 't'h'a't' 's'u'c'h' 'a' 'l'e'a'r'n'e'd' 's'o'-'
-'d'i's'c'o'v'e'r'e'd' 'b'y' 'B'.'
-'l'i'c'i't'o'r' 'c'a'n' 'r'e's'o'r't' 't'o' 'a'n'y' 'i'l'l'e'g'a'l' 'm'e'a'n's'.'
-'I's's'u'e':' 'I's' 'i't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'?'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't' 't'o'
-'D'e'c'i's'i'o'n':'
-'d'e'c'i'd'e' 'o'n' 't'h'e' 'b'a's'i's' 'o'f' 'a'v'a'i'l'a'b'l'e' 'e'v'i'-'
-'('a')' 'Y'e's',' 'i't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'d'e'n'c'e' 'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's'.'
-'('b')' 'I't' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e'
-'6'5'.' 'F'a'c't':' 'A' 'p'o'o'r' 'H'i'n'd'u' 'w'i'd'o'w' 'w'h'o' 'w'a's' 'i'n'
-'c'o'n's'e'n't' 'o'f' 't'h'e' 'B' 'h'a's' 'b'e'e'n' 'o'b't'a'i'n'e'd' 'b'y'
-'d'i'r'e' 'n'e'e'd' 'o'f' 'm'o'n'e'y',' 'w'a's' 'f'o'r'c'e'd' 'b'y' 'a' 'm'o'n'-'
-'f'r'a'u'd' 'a'n'd' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n'.' 'I't' 'c'a'n' 'b'e'
-'e'y' 'l'e'n'd'e'r' 't'o' 'a'g'r'e'e' 't'o' 'p'a'y' '1'0'0'%' 'r'a't'e' 'o'f' 'i'n'-'
-'a'v'o'i'd'e'd' 'b'y' 'B'.'
-'t'e'r'e's't'.'
-'('c')' 'I't' 'c'a'n'n'o't' 'b'e' 'a'v'o'i'd'e'd' 'b'y' 'B' 't'h'o'u'g'h' 'i't' 'i's'
-'I's's'u'e':' 'I's' 'i't' 'a' 'c'a's'e' 'o'f' 'u's'i'n'g' 'u'n'd'u'e' 'i'n'f'l' 'u'-'
-'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'e'n'c'e'?'
-'6'9'.' 'F'a'c't':' 'T'h'e' 'd'i'r'e'c't'o'r' 'o'f' 'a' 'c'o'm'p'a'n'y' 'i's's'u'e'd'
-'D'e'c'i's'i'o'n':'
-'a' 'p'r'o's'p'e'c't'u's' 'c'o'n't'a'i'n'i'n'g' 'f'a'l's'e' 'r'e'p'r'e's'e'n't'a'-'
-'('a')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'e'x'e'r't'i'n'g' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'
-'t'i'o'n' 'o'n' 't'h'e' 'f'a'i't'h' 'o'f' 'w'h'i'c'h' 'Z' 'a'g'r'e'e'd' 't'o' 'b'u'y'
-'u'p'o'n' 'a' 'p'e'r's'o'n' 'o'f' 'm'e'n't'a'l' 'd'i's't'r'e's's'.' 'S'o'
-'s'o'm'e' 's'h'a'r'e's' 'f'r'o'm' 't'h'e' 'c'o'm'p'a'n'y'.'
-'t'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'a'n'd' 't'h'e' 'm'o'n'-'
-'I's's'u'e':' 'C'a'n' 't'h'e' 'Z' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't'?'
-'e'y' 'l'e'n'd'e'r' 'c'a'n'n'o't' 'p'l'e'a'd' 'f'o'r' 't'h'e' 's'p'e'c'i'f'i' 'c'
-'D'e'c'i's'i'o'n':'
-'p'e'r'f'o'r'm'a'n'c'e' 'o'f' 't'h'e' 'c'o'n't'r'a'c't'.'
-'('a')' 'Z' 'm'a'y' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e'
-'('b')' 'T'h'e' 'm'o'n'e'y' 'l'e'n'd'e'r' 'c'a'n' 'a's'k' 'f'o'r' 't'h'e' 's'p'e'-'
-'d'i'r'e'c't'o'r's' 'a'r'e' 'd'e'e'm'e'd' 't'o' 'b'e' 't'h'e' 'a'g'e'n't's'
-'c'i'f'i' 'c' 'p'e'r'f'o'r'm'a'n'c'e' 'o'f' 'c'o'n't'r'a'c't' 'a's' 't'h'e'r'e'
-'o'f' 't'h'e' 'c'o'm'p'a'n'y'.'
-'i's' 'n'o' 'i'n'd'i'c'a't'i'o'n' 'o'f' 'a'n'y' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'
-'b'e'c'a'u's'e' 'l'a'd'y' 'h'e'r's'e'l'f' 'h'a'd' 'a'p'p'r'o'a'c'h' 't'h'e' '('b')' 'Z' 'c'a'n'n'o't' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't'.'
-'m'o'n'e'y' 'l'e'n'd'e'r' 'a'n'd' 'v'o'l'u'n't'a'r'i'l'y' 'a'g'r'e'e'd' '('c')' 'T'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'a's' 's'u'c'h' 's'o' 'c'o'm'-'
-'t'o' 'p'a'y' '1'0'0'%' 'i'n't'e'r'e's't'.' 'p'a'n'y' 'i's' 'n'o't' 'l'i'a'b'l'e'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '7'0'.' 'F'a'c't':' 'A' 'b'r'o'k'e'r' 'w'a's' 'a's'k'e'd' 't'o' 'b'u'y' 's'h'a'r'e's'
-'
-'C'I'V'I'L' 'L'A'W' '9'7'
-'f'o'r' 'c'l'i'e'n't'.' 'H'e' 's'o'l'd' 'h'i's' 'o'w'n' 's'h'a'r'e's' 'w'i't'h'o'u't' 't'r'a'c't' 'o'f' 's'a'l'e' 'w'a's' 's'i'g'n'e'd'.' 'D'u'r'i'n'g' 't'h'i's' 'p'e'r'i'o'd'
-'d'i's'c'l'o's'i'n'g' 't'h'i's' 'f'a'c't'.' 't'h'e' 's'a'l'e's' 'c'a'm'e' 'd'o'w'n' 't'o' 'R's' '5'0'0'0' 'a' 'm'o'n't'h'.'
-'I's's'u'e':' 'C'a'n' 'c'l'i'e'n't' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't'?' 'A' 'u'n'i'n't'e'n't'i'o'n'a'l'l'y' 'k'e'e'p's' 'q'u'i't'e'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'I's' 't'h'e'r'e' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'a'n'd' 'B' 'i's'
-'('a')' 'N'o',' 'c'l'i'e'n't' 'c'a'n'n'o't' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't'.' 'e'n't'i't'l'e'd' 't'o' 'r'e's'c'i'n'd' 't'h'e' 'c'o'n't'r'a'c't'?'
-'('b')' 'T'h'e' 'c'l'i'e'n't' 'w'a's' 'e'n't'i't'l'e'd' 't'o' 'a'v'o'i'd' 't'h'e' 'D'e'c'i's'i'o'n':'
-'c'o'n't'r'a'c't' 'o'r' 'a'f'f'i' 'r'm' 'i't' 'w'i't'h' 'a' 'r'i'g'h't' 't'o' '('a')' 'T'h'e'r'e' 'w'a's' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'a'n'd' 'B'
-'c'l'a'i'm' 's'e'c'r'e't' 'p'r'o'f'i' 't' 'm'a'd'e' 'b'y' 'b'r'o'k'e'r' 'o'n' 'w'a's' 'e'n't'i't'l'e'd' 't'o' 'r'e's'c'i'n'd' 't'h'e' 'c'o'n't'r'a'c't'.'
-'t'h'e' 't'r'a'n's'a'c't'i'o'n' 's'i'n'c'e' 't'h'e' 'r'e'l'a't'i'o'n's'h'i'p' '('b')' 'T'h'e'r'e' 'w'a's' 'n'o' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'a'n'd'
-'b'e't'w'e'e'n' 't'h'e' 'b'r'o'k'e'r' 'a'n'd' 't'h'e' 'c'l'i'e'n't' 'w'a's' 'B' 'w'a's' 'n'o't' 'e'n't'i't'l'e'd' 't'o' 'r'e's'c'i'n'd' 't'h'e' 'c'o'n'-'
-'r'e'l'a't'i'o'n's'h'i'p' 'o'f' 'u't'm'o's't' 'f'a'i't'h'.' 't'r'a'c't'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('c')' 'T'h'e' 'f'l' 'u'c't'u'a't'i'o'n's' 'i'n' 't'h'e' 'p'r'o'f'i' 't's' 'i's' 't'h'e'
-'7'1'.' 'F'a'c't':' 'A' 'i'n't'e'n'd's' 't'o' 's'e'l'l' 'h'i's' 'h'o'r's'e' 't'o' 'B' 'a'n'd' 'm'a't't'e'r' 'o'f' 'f'a'c't',' 'n'o' 'o'n'e' 'c'a'n' 'b'e' 'h'e'l'd' 'l'i'-'
-'s'a'y's',' '“'M'y' 'h'o'r's'e' 'i's' 'p'e'r'f'e'c't'l'y' 's'o'u'n'd'”'.' 'A' 'a'b'l'e' 'f'o'r' 't'h'a't'.'
-'g'e'n'u'i'n'e'l'y' 'b'e'l'i'e'v'e's' 't'h'e' 'h'o'r's'e' 't'o' 'b'e' 's'o'u'n'd',' '7'4'.' 'F'a'c't':' 'X',' 'a' 'w'i'd'o'w' 'i's' 'e'n't'i't'l'e'd' 't'o' 'c'e'r't'a'i'n' 'o'c'-'
-'a'l't'h'o'u'g'h' 'h'e' 'd'o'e's' 'n'o't' 'k'n'o'w' 't'h'a't' 't'h'e' 'h'o'r's'e' 'c'u'p'a'n'c'y' 'r'i'g'h't's'.' 'X' 'r'e'm'a'r'r'i'e's' 'a'n'd' 'b'e'l'i'e'v'i'n'g'
-'h'a's' 'f'a'l'l'e'n' 'i'l'l' 'y'e's't'e'r'd'a'y'.' 'B' 't'h'e'r'e' 'u'p'o'n' 'b'u'y's' 't'h'a't' 's'h'e' 'h'a's' 'l'o's't' 'h'e'r' 'o'c'c'u'p'a'n'c'y' 'r'i'g'h't's' 'b'y'
-'t'h'e' 'h'o'r's'e'.' 'r'e'a's'o'n' 'o'f' 'h'e'r' 's'e'c'o'n'd' 'm'a'r'r'i'a'g'e',' 'a'g'r'e'e's' 't'o'
-'I's's'u'e':' 'I's' 't'h'e'r'e' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'o'n' 't'h'e' 't'a'k'e' 't'h'e' 'l'a'n'd' 'f'r'o'm' 'Y',' 'h'e'r' 'z'a'm'i'n'd'a'r',' 'o'n' 'a'n'
-'p'a'r't' 'o'f' 'A'?' 'i'n'c'r'e'a's'e'd' 'r'a't'e' 'o'f' 'r'e'n't'.' 'B'o't'h' 'X' 'a'n'd' 'Y' 'h'o'n'-'
-'D'e'c'i's'i'o'n':' 'e's't'l'y' 'b'e'l'i'e'v'e' 't'h'a't' 'X' 'h'a's' 'l'o's't' 'h'e'r' 'o'c'c'u'p'a'n'c'y'
-'('a')' 'T'h'e'r'e' 'i's' 'n'o' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'b'e'c'a'u's'e' 'r'i'g'h't's'.'
-'i't'’'s' 'a' 'b'u's'i'n'e's's' 'a'n'd' 'e'v'e'r'y't'h'i'n'g' 'i's' 'f'a'i'r'.' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?'
-'('b')' 'T'h'e'r'e' 'i's' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'o'n' 't'h'e' 'p'a'r't' 'D'e'c'i's'i'o'n':'
-'o'f' 'A' 'b'e'c'a'u's'e' 'n'o' 'b'u's'i'n'e's's' 'c'a'n' 'b'e' 'c'o'n'-' '('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'d'u'c't'e'd' 'w'h'i'c'h' 'i'n'v'o'l'v'e's' 'f'r'a'u'd',' 'm'i's'p'r'e'-' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'o'i'd'a'b'l'e'.'
-'s'e'n't'a't'i'o'n',' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e',' 'f'o'r'c'e' 'o'r' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'c'o'e'r'c'i'o'n'.' '7'5'.' 'F'a'c't':' 'A' 'b'y' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n' 'l'e'a'd's' 'B' 'e'r'-'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'r'o'n'e'o'u's'l'y' 't'o' 'b'e'l'i'e'v'e' 't'h'a't' '5'0'0' 'm'a'u'n'd's' 'o'f'
-'7'2'.' 'F'a'c't':' 'A' 'c'o'm'p'a'n'y'’'s' 'p'r'o's'p'e'c't'u's' 'c'o'n't'a'i'n'e'd' 'a' 'i'n'd'i'g'o' 'a'r'e' 'm'a'd'e' 'a'n'n'u'a'l'l'y' 'a't' 'A'’'s' 'f'a'c't'o'r'y'.'
-'r'e'p'r'e's'e'n't'a't'i'o'n' 't'h'a't' 't'h'e' 'c'o'm'p'a'n'y' 'h'a'd' 'b'e'e'n' 'B' 'e'x'a'm'i'n'e's' 't'h'e' 'a'c'c'o'u'n't's' 'o'f' 't'h'e' 'f'a'c't'o'r'y','
-'a'u't'h'o'r'i'z'e'd' 'b'y' 'a' 'S'p'e'c'i'a'l' 'A'c't' 'o'f' 'P'a'r'l'i'a'-' 'w'h'i'c'h' 's'h'o'w' 't'h'a't' 'o'n'l'y' '4'0'0' 'm'a'u'n'd's' 'o'f' 'i'n'-'
-'m'e'n't' 't'o' 'r'u'n' 't'r'a'n's' 'b'y' 's't'e'a'm' 'o'r' 'm'e'c'h'a'n'i'c'a'l' 'd'i'g'o' 'h'a'v'e' 'b'e'e'n' 'm'a'd'e'.' 'A'f't'e'r' 't'h'i's',' 'B' 'b'u'y's'
-'p'o'w'e'r'.' 'T'h'e' 'a'u't'h'o'r'i't'y' 't'o' 'u's'e' 's't'e'a'm' 'w'a's',' 'i'n' 't'h'e' 'f'a'c't'o'r'y'.'
-'f'a'c't',' 's'u'b'j'e'c't' 't'o' 't'h'e' 'a'p'p'r'o'v'a'l' 'o'f' 't'h'e' 'b'o'a'r'd' 'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'o'i'd'?'
-'o'f' 'T'r'a'd'e',' 'b'u't' 'n'o' 'm'e'n't'i'o'n' 'w'a's' 'm'a'd'e' 'o'f' 't'h'i's'.' 'D'e'c'i's'i'o'n':'
-'T'h'e' 'B'o'a'r'd' 'r'e'f'u's'e'd' 'c'o'n's'e'n't' 'a'n'd' 'c'o'n's'e'-' '('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'o'i'd'a'b'l'e' 'o'n' 'a'c'-'
-'q'u'e'n't'l'y' 't'h'e' 'c'o'm'p'a'n'y' 'w'a's' 'w'o'u'n'd' 'u'p'.' 'T'h'e' 'c'o'u'n't' 'o'f' 'A'’'s' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n',' 'b'e'-'
-'p'l'a'i'n't'i'f'f' 'h'a'v'i'n'g' 'b'o'u'g'h't' 's'o'm'e' 's'h'a'r'e's',' 's'u'e'd' 'c'a'u's'e' 'A' 'h'a'd' 't'h'e' 'm'e'a'n's' 'o'f' 'd'i's'c'o'v'e'r'i'n'g'
-'t'h'e' 'd'i'r'e'c't'o'r's' 'f'o'r' 'f'r'a'u'd'.' 't'h'e' 't'r'u't'h' 'w'i't'h' 'o'r'd'i'n'a'r'y' 'd'i'l'i'g'e'n'c'e'.'
-'I's's'u'e':' 'A'r'e' 't'h'e' 'd'i'r'e'c't'o'r's' 'l'i'a'b'l'e'?' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd' 'a's' 'i't' 'i's' 'a' 'c'l'e'a'r' 'c'u't'
-'D'e'c'i's'i'o'n':' 'c'a's'e' 'o'f' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n'.'
-'('a')' 'T'h'e'y' 'a'r'e' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'w'h'a't'e'v'e'r' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'t'h'e'y' 's't'a't'e'd' 'i'n' 't'h'e'i'r' 'p'r'o's'p'e'c't'u's' 'w'a's' 'n'o't' '7'6'.' 'F'a'c't':' 'A' 'm'a'n' 'a'n'd' 'a' 'w'o'm'a'n' 'm'a'd'e' 'a' 's'e'p'a'r'a'-'
-'a't' 'a'l'l' 'i'n't'e'n'd'e'd' 't'o' 'm'i's'r'e'p'r'e's'e'n't' 'a'n'y'-' 't'i'o'n' 'd'e'e'd' 'u'n'd'e'r' 'w'h'i'c'h' 't'h'e' 'm'a'n' 'a'g'r'e'e'd' 't'o'
-'b'o'd'y'.' 'p'a'y' 'a' 'w'e'e'k'l'y' 'a'l'l'o'w'a'n'c'e' 't'o' 't'h'e' 'w'o'm'a'n' 'u'n'-'
-'('b')' 'T'h'e'y' 'a'r'e' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'm'i's'r'e'p'r'e's'e'n'-' 'd'e'r' 'a' 'm'i's't'a'k'e'n' 'a's's'u'm'p't'i'o'n' 't'h'a't' 't'h'e'y' 'w'e'r'e'
-'t'a't'i'o'n' 'i's' 't'h'e'r'e' 'w'h'e't'h'e'r' 'i't' 'i's' 'i'n't'e'n't'i'o'n'a'l' 'l'a'w'f'u'l'l'y' 'm'a'r'r'i'e'd'.'
-'o'r' 'u'n'i'n't'e'n't'i'o'n'a'l'.' 'I's's'u'e':' 'I's' 'i't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'e'n'f'o'r'c'e'-'
-'('c')' 'T'h'e' 'p'l'a'i'n't'i'f'f' 'i's' 'e'q'u'a'l'l'y' 'l'i'a'b'l'e'.' 'a'b'l'e' 'i'n' 't'h'e' 'c'o'u'r't' 'o'f' 'l'a'w'?'
-'7'3'.' 'F'a'c't':' 'A',' 'b'e'f'o'r'e' 's'i'g'n'i'n'g' 'a' 'c'o'n't'r'a'c't' 'w'i't'h' 'B' 'D'e'c'i's'i'o'n':'
-'f'o'r' 's'a'l'e' 'o'f' 'b'u's'i'n'e's's',' 'c'o'r'r'e'c't'l'y' 's't'a't'e's' 't'h'a't' '('a')' 'Y'e's',' 'i't' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'e'n'f'o'r'c'e'-'
-'t'h'e' 'm'o'n't'h'l'y' 's'a'l'e's' 'a'r'e' 'R's' '5'0','0'0'0' 'N'e'g'o't'i'a'-' 'a'b'l'e' 'i'n' 't'h'e' 'c'o'u'r't' 'o'f' 'l'a'w'.'
-'t'i'o'n's' 'l'a's't'e'd' 'f'o'r' 'f'i' 'v'e' 'm'o'n't'h's',' 'w'h'e'n' 't'h'e' 'c'o'n'-' '('b')' 'I't' 'i's' 'a' 'v'o'i'd' 'a'g'r'e'e'm'e'n't' 'a's' 't'h'e'r'e' 'w'a's' 'a'
-'
-'c'o'm'm'o'n' 'm'i's't'a'k'e' 'o'n' 't'h'e' 'p'o'i'n't' 'o'f' 'f'a'c't' 'f'r'o'm' 'B',' 't'h'o'u'g'h' 'c'o'n't'r'a'r'y' 't'o' 't'h'e' 'b'e'l'i'e'f' 'o'f'
-'w'h'i'c'h' 'w'a's' 'm'a't'e'r'i'a'l' 't'o' 't'h'e' 'e'x'i's't'e'n'c'e' 'o'f' 'b'o't'h' 'p'a'r't'i'e's' 'a't' 't'h'a't' 't'i'm'e',' 'A' 'w'a's' 'a'l'r'e'a'd'y' 'a'
-'a'g'r'e'e'm'e'n't'.' 't'e'n'a'n't' 'f'o'r' 'l'i'f'e' 'b'y' 'i'n'h'e'r'i't'a'n'c'e' 'o'f' 't'h'e' 'f'i' 's'h'e'r'y'
-'('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't'.' 'a'n'd' 'B' 'h'a'd' 'n'o' 't'i't'l'e' 'a't' 'a'l'l'.'
-'7'7'.' 'F'a'c't':' 'T'h'e'r'e' 'i's' 'a'n' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'a'n'd' 'B' 'f'o'r' 't'h'e' 'p'u'r'c'h'a's'e' 'o'f' 'a' 'c'e'r't'a'i'n' 'h'o'r's'e'.' 'D'e'c'i's'i'o'n':'
-'B'u't' 't'h'e' 'h'o'r's'e' 'i's' 'd'e'a'd' 'a't' 't'h'e' 't'i'm'e' 'o'f' 't'h'e' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'c'o'n't'r'a'c't'.' '('b')' 'T'h'e' 's'a'i'd' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'D'e'c'i's'i'o'n':' '8'2'.' 'F'a'c't':' 'H' 'c'o'n't'r'a'c't'e'd' 'w'i't'h' 't'h'e' 'N' 'C'o'r'p'o'r'a'-'
-'('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a'n'd' 'e'n'f'o'r'c'e'a'b'l'e' 't'i'o'n' 't'o' 'b'u'i'l'd' 'a' 'n'u'm'b'e'r' 'o'f' 'h'o'u's'e's'.' 'I'n' 'c'a'l'-'
-'i'n' 't'h'e' 'c'o'u'r't' 'o'f' 'l'a'w'.' 'c'u'l'a't'i'n'g' 't'h'e' 'c'o's't' 'o'f' 't'h'e' 'h'o'u's'e's',' 'H',' 'b'y' 'm'i's'-'
-'('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'.' 't'a'k'e' 'd'e'd'u'c't'e'd' 'a' 'p'a'r't'i'c'u'l'a'r' 's'u'm' 't'w'i'c'e' 'a'n'd'
-'('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e'.' 's'u'b'm'i't't'e'd' 'h'i's' 'e's't'i'm'a't'e's' 'a'c'c'o'r'd'i'n'g'l'y'.' 'T'h'e'
-'7'8'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 's'e'l'l' 't'o' 'B' 'a' 's'p'e'c'i'f'i' 'c' 'c'a'r'g'o' 'C'o'r'p'o'r'a't'i'o'n' 'a'g'r'e'e'd' 't'o' 't'h'e' 't'e'r'm's' 'w'h'i'c'h'
-'o'f' 'g'o'o'd's' 's'u'p'p'o's'e'd' 't'o' 'b'e' 'o'n' 'i't's' 'w'a'y' 'f'r'o'm' 'w'e'r'e' 'n'a't'u'r'a'l'l'y' 'l'o'w'e'r' 't'h'a'n' 't'h'e' 'a'c't'u'a'l' 'c'o's't'.'
-'E'n'g'l'a'n'd' 't'o' 'B'o'm'b'a'y'.' 'I't' 't'u'r'n'e'd' 'o'u't' 't'h'a't' 'b'e'-' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'b'i'n'd'i'n'g'?'
-'f'o'r'e' 't'h'e' 'd'a'y' 'o'f' 't'h'e' 'b'a'r'g'a'i'n',' 't'h'e' 's'h'i'p' 'c'a'r'r'y'-' 'D'e'c'i's'i'o'n':'
-'i'n'g' 't'h'e' 'c'a'r'g'o' 'h'a'd' 'b'e'e'n' 'c'a's't' 'a'w'a'y' 'a'n'd' 't'h'e' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'w'a's' 'b'i'n'd'i'n'g' 'e'v'e'n'
-'g'o'o'd's' 'l'o's't'.' 'N'e'i't'h'e'r' 'p'a'r't'y' 'w'a's' 'a'w'a'r'e' 'o'f' 't'h'e' 't'h'o'u'g'h' 'i't' 'w'a's' 'b'a's'e'd' 'u'p'o'n' 'e'r'r'o'n'e'o'u's'
-'f'a'c't's'.' 'e's't'i'm'a't'e's'.'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.'
-'D'e'c'i's'i'o'n':' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a'n'd' 'A' 'i's' 'l'i'a'b'l'e'.' '8'3'.' 'F'a'c't':' 'A',' 'a'n' 'i'l'l'i't'e'r'a't'e' 'o'l'd' 'm'a'n',' 'w'a's' 'm'a'd'e' 't'o'
-'('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'p'u't' 'h'i's' 's'i'g'n'a't'u'r'e' 'o'n' 'a' 'd'o'c'u'm'e'n't' 'w'h'i'c'h' 'w'a's'
-'o'f' 'B'.' 'a' 'p'r'o'n'o't'e'.' 'A' 't'h'o'u'g'h't' 't'h'e' 'd'o'c'u'm'e'n't' 't'o' 'b'e' 'a'
-'('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'.' 'w'i'l'l' 'w'h'e'r'e' 'h'i's' 's'i'g'n'a't'u'r'e' 'w'a's' 'r'e'q'u'i'r'e'd' 'a's' 'a'
-'7'9'.' 'F'a'c't':' 'A' 'a'g'r'e'e'd' 't'o' 'b'u'y' 'f'r'o'm' 'B',' '1'2'5' 'b'a'l'e's' 'w'i't'n'e's's'.' 'U'n'd'e'r' 't'h'i's' 'p'r'e's'u'm'p't'i'o'n' 'h'e' 's'i'g'n'e'd'
-'o'f' 'c'o't't'o'n' '“'t'o' 'a'r'r'i'v'e' 'e'x' 'p'e'a'r'l'e's's' 'f'r'o'm' 'B'o'm'-' 't'h'e' 'd'o'c'u'm'e'n't' 'w'h'i'c'h' 'w'a's' 'i'n' 'f'a'c't' 'a' 'p'r'o'n'o't'e'.'
-'b'a'y'”'.' 'T'h'e'r'e' 'w'e'r'e' 't'w'o' 's'h'i'p's' 'o'f' 't'h'a't' 'n'a'm'e' 'S'u'b's'e'q'u'e'n't'l'y' 'B' 'e'n'd'o'r's'e'd' 't'h'e' 'p'r'o'n'o't'e' 't'o' 'C'
-'s'a'i'l'i'n'g' 'f'r'o'm' 'B'o'm'b'a'y'.' 'O'n'e' 'o'f' 'w'h'i'c'h' 'w'a's' 'w'h'o' 'p'a'i'd' 'v'a'l'u'e' 'f'o'r' 'i't' 'i'n' 'g'o'o'd' 'f'a'i't'h'.' 'C' 's'u'e'd'
-'i'n' 't'h'e' 'm'i'n'd' 'o'f' 'A' 'a'n'd' 't'h'e' 'o't'h'e'r' 'i'n' 't'h'e' 'm'i'n'd' 'A' 'o'n' 't'h'e' 'p'r'o'n'o't'e'.'
-'o'f' 'B'.' 'I's's'u'e':' 'I's' 'A' 'l'i'a'b'l'e'?'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'a'g'r'e'e'm'e'n't'?' 'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':' '('a')' 'A' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e' 'p'r'o'n'o't'e' 'w'a's'
-'('a')' 'I't' 'i's' 'a' 'v'a'l'i'd' 'a'g'r'e'e'm'e'n't'.' 's'i'g'n'e'd' 'b'y' 'h'i'm'.'
-'('b')' 'T'h'a't' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.' '('b')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'A' 'h'a'd' 'n'o't'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.' 's'i'g'n'e'd' 't'h'e' 'p'r'o'n'o't'e' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n'
-'8'0'.' 'F'a'c't':' 'D' 'w'r'o't'e' 't'o' 'P' 'a's'k'i'n'g' 'f'o'r' 'a' 'q'u'o't'a't'i'o'n' 'o'f' 'e'n'd'o'r's'e'm'e'n't' 't'o' 'C'.'
-'o'f' '5'0' 'r'i'f'l' 'e's'.' 'L'a't'e'r' 'h'e' 't'e'l'e'g'r'a'p'h'e'd',' '“'S'e'n'd' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'t'h'r'e'e' 'r'i'f'l' 'e's'”'.' 'T'h'e' 't'e'l'e'g'r'a'p'h' 'c'l'e'r'k' 'b'y' 'm'i's'-' '8'4'.' 'F'a'c't':' 'A' 'f'r'a'u'd'u'l'e'n't' 'p'e'r's'o'n' 'n'a'm'e'd' 'B'l'e'n'-'
-'t'a'k'e' 's'e'n't' 't'h'e' 'm'e's's'a'g'e' 'w'r'o'n'g'l'y' 'a's' '“'S'e'n'd' 'k'a'r'n' 'b'y' 'i'm'i't'a't'i'n'g' 't'h'e' 's'i'g'n'a't'u'r'e' 'o'f' 'a' 'r'e'-'
-'t'h'e' 'r'i'f'l' 'e's'”'.' 'P' 's'e'n't' '5'0' 'r'i'f'l' 'e's' 'a'n'd' 'u'p'o'n' 'D'’'s' 's'p'e'c't'a'b'l'e' 'f'i' 'r'm' 'B'l'e'n'k' '&' 'C'o'.',' 's'e'n't' 'a'n' 'o'r'd'e'r'
-'r'e'f'u's'a'l' 't'o' 'a'c'c'e'p't',' 'f'i' 'l'e'd' 'a' 's'u'i't' 'f'o'r' 'd'a'm'a'g'e's'.' 'f'o'r' 'g'o'o'd's',' 'w'h'i'c'h' 'w'e'r'e' 'd'u'l'y' 'd'e'l'i'v'e'r'e'd' 't'o'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' 'h'i'm' 'b'y' 'L'i'n'd's'a'y'.' 'B'l'e'n'k'a'r'n' 's'o'l'd' 't'h'e' 'g'o'o'd's'
-'D'e'c'i's'i'o'n':' 't'o' 'C'u'n'd'y' 'w'h'o' 'a'c't'e'd' 'a's' 'a' 'b'o'n'a'f'i' 'd'e'.'
-'('a')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd' 'e'v'e'n' 'i'f' 't'h'e' 'm'i's't'a'k'e' 'I's's'u'e':' 'S'h'o'u'l'd' 'C'u'n'd'y' 'r'e't'u'r'n's' 't'h'e' 'g'o'o'd's' 't'o'
-'w'a's' 'c'a'u's'e'd' 'b'y' 't'h'e' 't'h'i'r'd' 'p'a'r't'y'.' 'L'i'n'd's'a'y'?'
-'('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e' 'm'i's'-' 'D'e'c'i's'i'o'n':'
-'t'a'k'e' 'w'a's' 'm'a'd'e' 'b'y' 't'h'e' 'c'l'e'r'k' 'w'h'o' 'w'a's' '('a')' 'C'u'n'd'y' 'm'u's't' 'r'e't'u'r'n' 't'h'e' 'g'o'o'd's' 't'o' 'L'i'n'd'-'
-'n'o't' 'a' 'p'a'r't'y' 't'o' 't'h'e' 'c'o'n't'r'a'c't'.' 's'a'y',' 'a's' 'a'l't'h'o'u'g'h' 'C'u'n'd'y' 'w'a's' 'a'n' 'i'n'-'
-'('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'n'o'c'e'n't' 'p'u'r'c'h'a's'e'r',' 'h'e' 'h'a'd' 'n'o' 't'i't'l'e' 't'o'
-'o'f' 'D'.' 't'h'e'm',' 't'h'e' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'L'i'n'd's'a'y'
-'8'1'.' 'F'a'c't':' 'A' 'a'g'r'e'e'd' 't'o' 't'a'k'e' 'a' 'l'e'a's'e' 'o'f' 'f'i' 's'h'e'r'y' 'a'n'd' 'B'l'e'n'k'a'r'n' 'b'e'i'n'g' 'v'o'i'd'.'
-'
-'C'I'V'I'L' 'L'A'W' '9'9'
-'('b')' 'C'u'n'd'y' 'i's' 'n'o't' 'l'i'a'b'l'e',' 'B'l'e'n'k'a'r'n' 'i's' 'l'i'-' 'G'e'o'r'g'e' 'B'u'l'l'o'u'g'h' '('a' 'n'a'm'e' 'k'n'o'w'n' 't'o' 'P' 'a's' 'a'
-'a'b'l'e'.' 'm'a'n' 'o'f' 'g'o'o'd' 'c'r'e'd'i't')'.' 'N' 'p'l'e'd'g'e'd' 't'h'e' 'j'e'w'e'l's'
-'('c')' 'N'e'i't'h'e'r' 'B'l'e'n'k'a'r'n' 'n'o'r' 'C'u'n'd'y' 'a'r'e' 'l'i'-' 'w'i't'h' 'D' 'f'o'r' '£' '3'5'0'.' 'P' 's'u'e'd' 'D' 'f'o'r' 't'h'e' 'r'e't'u'r'n'
-'a'b'l'e',' 'i't' 'i's' 't'h'e' 'n'e'g'l'i'g'e'n'c'e' 'o'f' 't'h'e' 'c'o'm'-' 'o'f' 't'h'e' 'j'e'w'e'l's' 'p'l'e'a'd'i'n'g' 't'h'a't' 'n'o' 't'i't'l'e' 'p'a's's'e'd'
-'p'a'n'y' 's'o' 't'h'e'y' 's'h'o'u'l'd' 's'u'f'f'e'r'.' 't'o' 'N' 'a's' 'h'e' 'w'a's' 'n'o't' 'S'i'r' 'G'e'o'r'g'e' 'B'u'l'l'o'u'g'h'.'
-'8'5'.' 'F'a'c't':' 'B'o'u'l't'o'n' 'h'a'd' 't'a'k'e'n' 'o'v'e'r' 't'h'e' 'b'u's'i'n'e's's' 'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd'/'v'o'i'd'?'
-'o'f' 'B'r'o'c'k'l'e'h'u'r's't',' 'w'i't'h' 'w'h'o'm' 'J'o'n'e's' 'h'a'd' 'D'e'c'i's'i'o'n':'
-'b'e'e'n' 'i'n' 't'h'e' 'h'a'b'i't' 'o'f' 'd'e'a'l'i'n'g' 'a'n'd' 'a'g'a'i'n's't' '('a')' 'T'h'e'r'e' 'w'a's' 'n'o' 'm'i's't'a'k'e' 'a's' 't'o' 't'h'e' 'i'd'e'n't'i'-'
-'w'h'o'm' 'h'e' 'h'a'd' 'a' 's'e't' 'o'f'f'.' 'J'o'n'e's' 's'e't' 'a'n' 'o'r'd'e'r' 't'y' 'o'f' 't'h'e' 'p'e'r's'o'n' 'a'n'd' 'h'e'n'c'e' 't'h'e' 'c'o'n't'r'a'c't'
-'f'o'r' 'g'o'o'd's' 't'o' 'B'r'o'c'k'l'e'h'u'r's't'.' 'B'o'u'l't'o'n' 'e'x'-' 'w'a's' 'n'o't' 'v'o'i'd'.'
-'e'c'u't'e'd' 't'h'e' 'o'r'd'e'r' 'w'i't'h'o'u't' 'n'o't'i'f'y'i'n'g' 'J'o'n'e's' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'w'a's' 'v'o'i'd'.'
-'o'f' 't'h'e' 'c'h'a'n'g'e' 'i'n' 't'h'e' 'o'w'n'e'r's'h'i'p' 'o'f' 't'h'e' 'b'u's'i'-' '('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'w'a's' 'v'o'i'd'a'b'l'e'.'
-'n'e's's'.' '8'9'.' 'F'a'c't':' 'A'’'s' 'e's't'a't'e' 'i's' 's'o'l'd' 'f'o'r' 'a'r'r'e'a'r's' 'o'f'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd'?' 'r'e'v'e'n'u'e' 'u'n'd'e'r' 't'h'e' 'p'r'o'v'i's'i'o'n' 'o'f' 'a'n' 'A'c't' 'o'f'
-'D'e'c'i's'i'o'n':' 't'h'e' 'l'e'g'i's'l'a't'u'r'e' 'b'y' 'w'h'i'c'h' 't'h'e' 'd'e'f'a'u'l't'e'r' 'i's'
-'('a')' 'C'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a'n'd' 'J'o'n'e's' 'i's' 'l'i'a'b'l'e'.' 'p'r'o'h'i'b'i't'e'd' 'f'r'o'm' 'p'u'r'c'h'a's'i'n'g' 't'h'e' 'e's't'a't'e'.' 'B','
-'('b')' 'J'o'n'e's' 'w'a's' 'n'o't' 'l'i'a'b'l'e' 't'o' 'p'a'y' 'f'o'r' 't'h'e' 'u'p'o'n' 'a'n' 'u'n'd'e'r's't'a'n'd'i'n'g' 'w'i't'h' 'A' 'b'e'c'o'm'e's'
-'g'o'o'd's' 'a's' 't'h'e' 'c'o'n't'r'a'c't' 'w'a's' 'v'o'i'd'.' 't'h'e' 'p'u'r'c'h'a's'e'r',' 'a'n'd' 'a'g'r'e'e's' 't'o' 'c'o'n'v'e'y' 't'h'e'
-'('c')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e'.' 'e's't'a't'e' 't'o' 'A' 'u'p'o'n' 'r'e'c'e'i'v'i'n'g' 'f'r'o'm' 'h'i'm' 't'h'e'
-'8'6'.' 'F'a'c't':' 'X' 'f'a'l's'e'l'y' 'r'e'p'r'e's'e'n't'i'n'g' 'h'e'r's'e'l'f' 'a's' 't'h'e' 'p'r'i'c'e' 'w'h'i'c'h' 'B' 'h'a's' 'p'a'i'd'.'
-'w'i'f'e' 'o'f' 'a' 'w'e'l'l' 'k'n'o'w'n' 'm'i'l'l'i'o'n'a'i'r'e' 't'a'k'e's' 'a' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'r'i'n'g' 'f'r'o'm' 'a' 'j'e'w'e'l'l'e'r's' 's'h'o'p' 'f'o'r' 't'h'e' 'a'p'p'r'o'v'a'l' 'D'e'c'i's'i'o'n':'
-'o'f' 'h'e'r' 'h'u's'b'a'n'd'.' 'S'h'e' 'p'l'e'd'g'e's' 'i't' 'w'i't'h' 'a' 'p'a'w'n' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'a'n'd' 't'h'e' 't'r'a'n's'-'
-'b'r'o'k'e'r',' 'w'h'o' 'i's' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'a'n'd' 'w'i't'h'o'u't' 'a'c't'i'o'n' 'i's' 'w'o'r'k'a'b'l'e' 'a'n'd' 's'e'l'l'e'r' 'a'n'd' 'p'u'r'-'
-'n'o't'i'c'e' 'o'f' 't'h'e' 'f'i' 'r's't' 't'r'a'n's'a'c't'i'o'n' 'p'a'y's' 'h'e'r' 'c'h'a's'e' 'a'r'e' 'l'i'a'b'l'e'.'
-'R's' '1'0','0'0'0'.' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd',' 'a's' 'i't' 'r'e'n'd'e'r's'
-'I's's'u'e':' 'C'a'n' 't'h'e' 'j'e'w'e'l'l'e'r' 'r'e'c'o'v'e'r' 'h'i's' 'r'i'n'g'?' 't'h'e' 't'r'a'n's'a'c't'i'o'n',' 'i'n' 'e'f'f'e'c't' 'a' 'p'u'r'c'h'a's'e' 'b'y'
-'D'e'c'i's'i'o'n':' 't'h'e' 'd'e'f'a'u'l't'e'r' 'a'n'd' 'w'o'u'l'd' 's'o' 'd'e'f'e'a't' 't'h'e'
-'('a')' 'T'h'e' 'j'e'w'e'l'l'e'r' 'c'o'u'l'd' 'r'e'c'o'v'e'r' 't'h'e' 'r'i'n'g' 'o'b'j'e'c't' 'o'f' 't'h'e' 'l'a'w'.'
-'f'r'o'm' 't'h'e' 'p'a'w'n' 'b'r'o'k'e'r' 'a's' 't'h'e'r'e' 'w'a's' 'n'o' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 't'h'e' 'j'e'w'e'l'l'e'r' 'a'n'd' 't'h'e' '9'0'.' 'F'a'c't':' 'A' 'a's'k's' 'a'n' 'e'd'i't'o'r' 'o'f' 'a' 'n'e'w's'p'a'p'e'r' 't'o'
-'l'a'd'y'.' 'p'u'b'l'i's'h' 'a' 'd'e'f'a'm'a't'o'r'y' 'a'r't'i'c'l'e' 'a'g'a'i'n's't' 'B' 'a'n'd'
-'('b')' 'T'h'e' 'j'e'w'e'l'l'e'r' 'c'o'u'l'd' 'n'o't' 'r'e'c'o'v'e'r' 't'h'e' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'R's' '4'0'0'0' 'f'o'r' 't'h'e' 'w'o'r'k'.'
-'r'i'n'g' 'f'r'o'm' 't'h'e' 'p'a'w'n' 'b'r'o'k'e'r' 'I's's'u'e':' 'C'a'n' 't'h'e' 'e'd'i't'o'r' 's'u'e' 'A'?'
-'('c')' 'T'h'e' 'j'e'w'e'l'l'e'r' 'c'a'n' 's'u'e' 't'h'e' 'l'a'd'y'.' 'D'e'c'i's'i'o'n':'
-'8'7'.' 'F'a'c't':' 'S' 'w'a's' 'a' 'c'i'n'e'm'a' 'c'r'i't'i'c',' 'w'h'o' 'a'l'w'a'y's' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd' 'a's' 'i't' 'i'n'v'o'l'v'e's'
-'w'r'o't'e' 'a'd'v'e'r's'e' 'c'r'i't'i'c'i's'm's' 'a'b'o'u't' 'a'l'l' 't'h'e' 'i'n'j'u'r'y' 't'o' 't'h'e' 'p'e'r's'o'n' 'o'f' 'B' 'a'n'd' 't'h'e'r'e'-'
-'p'i'c't'u'r'e' 'h'e' 's'a'w'.' 'A',' 't'h'e' 'o'w'n'e'r' 'o'f' 'a' 't'h'e'a't'r'e' 'f'o'r'e',' 'a' 's'u'i't' 'c'a'n'n'o't' 'b'e' 'b'r'o'u'g'h't' 't'o' 'r'e'-'
-'a'd'v'e'r't'i's'e'd' 'n'e'w' 'p'i'c't'u'r'e' 'i'n' 't'h'e' 't'h'e'a't'r'e' 'a'n'd' 'c'o'v'e'r' 'R's' '4'0'0'0' 'b'y' 't'h'e' 'e'd'i't'o'r'.'
-'g'a'v'e' 'i'n's't'r'u'c't'i'o'n's' 't'h'a't' 'n'o' 't'i'c'k'e't' 's'h'o'u'l'd' 'b'e' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'a'n'd' 't'h'e' 'e'd'i'-'
-'i's's'u'e'd' 't'o' 'S'.' 'S' 'o'b't'a'i'n'e'd' 't'i'c'k'e't' 'f'o'r' 'a' 'f'i' 'r's't' 't'o'r' 'c'a'n' 's'u'e' 'A' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f'
-'n'i'g'h't' 'p'e'r'f'o'r'm'a'n'c'e' 't'h'r'o'u'g'h' 'a' 'f'r'i'e'n'd'.' 'B'u't' 'a't' 'R's' '4'0'0'0'.'
-'t'h'e' 'g'a't'e' 'S' 'w'a's' 'r'e'f'u's'e'd' 'a'd'm'i's's'i'o'n'.' 'S' 's'u'e'd' '('c')' 'B' 'c'a'n' 's'u'e' 'A' 'a'n'd' 'e'd'i't'o'r' 'b'o't'h'.'
-'f'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.' '9'1'.' 'F'a'c't':' 'P' 'a'd'v'a'n'c'e'd' 'm'o'n'e'y' 't'o' 'D',' 'a' 'm'a'r'r'i'e'd'
-'I's's'u'e':' 'C'a'n' 'S' 's'u'e' 't'h'e' 't'h'e'a't'r'e' 'o'w'n'e'r'?' 'w'o'm'a'n' 't'o' 'e'n'a'b'l'e' 'h'e'r' 't'o' 'o'b't'a'i'n' 'a' 'd'i'v'o'r'c'e'
-'D'e'c'i's'i'o'n':' 'f'r'o'm' 'h'e'r' 'h'u's'b'a'n'd' 'a'n'd' 'D' 'a'g'r'e'e'd' 't'o' 'm'a'r'r'y'
-'('a')' 'S' 'c'a'n' 's'u'e' 't'h'e' 't'h'e'a't'r'e' 'o'w'n'e'r'.' 'h'e'r' 'a's' 's'o'o'n' 'a's' 's'h'e' 'o'b't'a'i'n'e'd' 'a' 'd'i'v'o'r'c'e'.'
-'('b')' 'S' 'c'a'n'n'o't' 's'u'e' 't'h'e' 't'h'e'a't'r'e' 'o'w'n'e'r' 'a's' 'I's's'u'e':' 'C'a'n' 'P' 's'u'e' 'D' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f'
-'t'h'e'r'e' 'w'a's' 'n'o' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 't'h'e' 't'h'e'-' 'm'o'n'e'y'?'
-'a't'r'e' 'o'w'n'e'r' 'a'n'd' 'S'.' 'D'e'c'i's'i'o'n':'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('a')' 'P' 'c'a'n' 's'u'e' 'D' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f' 'm'o'n'-'
-'8'8'.' 'F'a'c't':' 'O'n'e' 'N' 'e'n't'e'r'e'd' 'P'’'s' 's'h'o'p',' 's'e'l'e'c't'e'd' 'e'y'.'
-'j'e'w'e'l'l'e'r'y' 'a'n'd' 'w'r'o't'e' 'o'u't' 'a' 'c'h'e'q'u'e' 'f'o'r' '('b')' 'P' 'w'a's' 'n'o't' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'e'r' 'b'a'c'k' 't'h'e'
-'£' '3'0'0'0' 'r'e'p'r'e's'e'n't'i'n'g' 'h'i'm's'e'l'f' 't'o' 'b'e' 'S'i'r' 'a'm'o'u'n't' 'a's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'h'a'd' 'f'o'r' 'i't's'
-'
-'o'b'j'e'c't' 't'h'e' 'd'i'v'o'r'c'e' 'o'f' 'D' 'f'r'o'm' 'h'e'r' 'h'u's'-' 's'u'm' 'o'f' 'R's' '2'0'0'0'.' 'M'i's's' 'B' 's'u'e'd' 'A' 'f'o'r' 't'h'e'
-'b'a'n'd' 'w'h'i'c'h' 'i's' 'u'n'l'a'w'f'u'l' 'a'n'd' 'a'g'a'i'n's't' 'r'e'c'o'v'e'r'y' 'o'f' 't'h'a't' 's'u'm' 'o'n' 't'h'e' 'g'r'o'u'n'd' 't'h'a't' 'A'
-'m'o'r'a'l'i't'y' 'a'n'd' 'p'u'b'l'i'c' 'p'o'l'i'c'y'.' 'm'a'r'r'i'e'd' 's'o'm'e'o'n'e' 'e'l's'e'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 't'h'e' 'a'g'r'e'e'-'
-'9'2'.' 'F'a'c't':' 'A' 'b'a'n'k' 'f'o'u'n'd' 't'h'a't' 't'h'e' 'g'o'o'd's' 'i'n' 'a' 'm'e'n't'?'
-'g'o'd'o'w'n' 'w'h'i'c'h' 'w'e'r'e' 'p'l'e'd'g'e'd' 't'o' 'i't' 'a'g'a'i'n's't' 'D'e'c'i's'i'o'n':'
-'a' 'l'o'a'n',' 'w'e'r'e' 'e'i't'h'e'r' 'f'r'a'u'd'u'l'e'n't'l'y' 'o'v'e'r'v'a'l'-' '('a')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'a'n'd' 'B' 'c'a'n' 's'u'e' 'A'.'
-'u'e'd' 'o'r' 'w'i't'h'd'r'a'w'n' 'i'n' 'c'o'l'l'u's'i'o'n' 'w'i't'h' 'b'a'n'k' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p'-'
-'o'f'f'i' 'c'i'a'l's'.' 'T'h'e' 'b'o'r'r'o'w'e'r' 'a'g'r'e'e'd' 't'o' 'm'a'k'e' 'u'p' 't'i'o'n' 'o'f' 'B'.'
-'f'o'r' 't'h'e' 'd'e'f'i' 'c'i'e'n'c'y' 'b'y' 'h'y'p'o't'h'e'c'a't'i'n'g' 'm'o'r'e' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'w'a's' 'i'n' 'r'e's't'r'a'i'n't' 'o'f'
-'p'r'o'p'e'r't'y'.' 'S'o'm'e' 'd'e'l'a'y' 'h'a'v'i'n'g' 't'a'k'e'n' 'p'l'a'c'e' 'm'a'r'r'i'a'g'e' 'a'n'd' 'a's' 's'u'c'h' 'v'o'i'd'.'
-'i'n' 't'h'e' 'h'y'p'o't'h'e'c'a't'i'o'n',' 't'h'e' 'b'a'n'k' 'f'i' 'l'e'd' 'a' 'c'o'm'-' '9'7'.' 'F'a'c't':' 'D' 'a'g'r'e'e'd' 'w'i't'h' 'P',' 'n'o't' 't'o' 'c'a'r'r'y' 'o'n' 't'h'e'
-'p'l'a'i'n't' 'w'h'i'c'h' 'w'a's' 'w'i't'h'd'r'a'w'n' 'a'f't'e'r' 't'h'e' 'h'y'-' 's'a'm'e' 'b'u's'i'n'e's's' 'o'f' 'd'r'e's's' 'm'a'k'e'r's' 'o'n' 't'h'e' 'e'x'-'
-'p'o't'h'e'c'a't'i'o'n' 'w'a's' 'c'o'm'p'l'e't'e'd'.' 'p'i'r'y' 'o'f' 't'h'e' 'p'e'r'i'o'd' 'o'f' 'h'i's' 's'e'r'v'i'c'e' 'a'n'y'w'h'e'r'e'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?' 'w'i't'h'i'n' '8'0'0' 'm'i'l'e's' 'o'f' 'M'a'd'r'a's'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'a'g'r'e'e'm'e'n't'?'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'w'a's' 'v'a'l'i'd'.' 'D'e'c'i's'i'o'n':'
-'('b')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'('c')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.'
-'9'3'.' 'F'a'c't':' 'A' 'p'a'i'd' 'B',' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'a' 'c'e'r't'a'i'n' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'a'm'o'u'n't' 'i'n'd'u'c'i'n'g' 'h'i'm' 't'o' 'r'e't'i'r'e' 'f'r'o'm' 's'e'r'-' '9'8'.' 'F'a'c't':' 'A' 'c'o'n't'r'a'c't's' 't'o' 's'e'l'l' 't'o' 'B' 't'h'e' 'g'o'o'd'-'
-'v'i'c'e',' 't'h'u's' 'p'a'v'i'n'g' 't'h'e' 'w'a'y' 'f'o'r' 'A' 't'o' 'b'e' 'a'p'-' 'w'i'l'l' 'o'f' 'a' 'b'u's'i'n'e's's'.' 'A' 't'h'e'n' 's'e't's' 'u'p' 'a' 's'i'm'i'l'a'r'
-'p'o'i'n't'e'd' 'i'n' 'h'i's' 'p'l'a'c'e'.' 'b'u's'i'n'e's's' 'c'l'o's'e'-'b'y' 'B'’'s' 's'h'o'p' 'a'n'd' 's'o'l'i'c'i't's'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?' 'h'i's' 'c'u's't'o'm'e'r's'.' 'T'h'i's' 'i's' 'c'o'n't'r'a'r'y' 't'o' 't'h'e' 'c'o'n'-'
-'D'e'c'i's'i'o'n':' 't'r'a'c't'.'
-'('a')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.' 'I's's'u'e':' 'C'a'n' 'B' 'o'b't'a'i'n' 'a'n' 'i'n'j'u'n'c't'i'o'n' 't'o' 'r'e'-'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.' 's't'r'a'i'n' 'A' 'f'r'o'm' 's'o'l'i'c'i't'i'n'g' 'c'u's't'o'm'e'r's'?'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.' 'D'e'c'i's'i'o'n':'
-'9'4'.' 'F'a'c't':' 'A' 'p'r'o'p'o's'e'd' 't'h'e' 'm'a'r'r'i'a'g'e' 'o'f' 'h'i's' 'w'i'd'-' '('a')' 'B' 'c'a'n' 'o'b't'a'i'n' 'a'n' 'i'n'j'u'n'c't'i'o'n'.'
-'o'w' 'n'i'e'c'e' 't'o' 'B' 'a'n'd' 'o'f'f'e'r'e'd' 't'o' 'g'i'v'e' 'h'e'r' 'g'o'l'd' '('b')' 'B' 'c'a'n'n'o't' 'o'b't'a'i'n' 'a'n' 'i'n'j'u'n'c't'i'o'n'.'
-'a'n'd' 'j'e'w'e'l's' 'a'n'd' 'l'a'n'd'.' 'T'h'e' 'm'a'r'r'i'a'g'e' 't'o'o'k' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'p'l'a'c'e',' 'b'u't' 'A' 'r'e'f'u's'e'd' 't'o' 'f'u'l'f'i' 'l' 't'h'e' 'r'e's't' 'o'f' 'h'i's' '9'9'.' 'F'a'c't':' 'A' 'a'g'r'e'e'd' 't'o' 'b'e'c'o'm'e' 'a'n' 'a's's'i's't'a'n't' 'f'o'r'
-'p'r'o'm'i's'e'.' '3' 'y'e'a'r's' 't'o' 'B' 'w'h'o' 'w'a's' 'a' 'd'o'c't'o'r' 'p'r'a'c't'i's'i'n'g'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'e'n'f'o'r'c'e'a'b'l'e'?' 'a't' 'Z'a'n'z'i'b'a'r'.' 'I't' 'w'a's' 'a'g'r'e'e'd' 't'h'a't' 'd'u'r'i'n'g' 't'h'e'
-'D'e'c'i's'i'o'n':' 't'e'r'm' 'o'f' 't'h'e' 'a'g'r'e'e'm'e'n't' 'A' 'w'a's' 'n'o't' 't'o' 'p'r'a'c'-'
-'('a')' 'I't' 'i's' 'e'n'f'o'r'c'e'a'b'l'e' 'a's' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 't'i'c'e' 'o'n' 'h'i's' 'o'w'n' 'a'c'c'o'u'n't' 'i'n' 'Z'a'n'z'i'b'a'r'.' 'A't' 't'h'e'
-'a'g'r'e'e'm'e'n't'.' 'e'n'd' 'o'f' 'o'n'e' 'y'e'a'r',' 'A' 'c'e'a's'e'd' 't'o' 'a'c't' 'a's' 'B'’'s' 'a's'-'
-'('b')' 'I't' 'i's' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e'.' 's'i's't'a'n't' 'a'n'd' 'b'e'g'a'n' 't'o' 'p'r'a'c't'i'c'e' 'o'n' 'h'i's' 'o'w'n'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'a'c'c'o'u'n't'.'
-'9'5'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 'B',' 't'h'e' 'o'w'n'e'r' 'o'f' 'a' 'n'e'w's'-' 'I's's'u'e':' 'C'a'n' 'A' 'b'e' 'r'e's't'r'a'i'n'e'd'?'
-'p'a'p'e'r' 'R's' '5'0'0' 'i'n' 'c'o'n's'i'd'e'r'a't'i'o'n' 'o'f' 't'h'e' 'p'u'b'-' 'D'e'c'i's'i'o'n':'
-'l'i'c'a't'i'o'n' 'b'y' 'B',' 'i'n' 'h'i's' 'n'e'w's'p'a'p'e'r' 'o'f' 'f'a'l's'e' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'w'a's' 'v'a'l'i'd' 'a'n'd' 'A' 'c'o'u'l'd'
-'s't'a't'e'm'e'n't's' 'i'n' 'r'e'g'a'r'd' 't'o' 'a' 'c'a'n'd'i'd'a't'e' 'f'o'r' 'b'e' 'r'e's't'r'a'i'n'e'd' 'b'y' 'a'n' 'i'n'j'u'n'c't'i'o'n' 'f'r'o'm'
-'e'l'e'c't'i'o'n'.' 'B' 'p'u'b'l'i's'h'e'd' 't'h'e'm'.' 'd'o'i'n'g' 's'o'.'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'a'g'r'e'e'm'e'n't'?' '('b')' 'A' 'c'a'n'n'o't' 'b'e' 'r'e's't'r'a'i'n'e'd'.'
-'D'e'c'i's'i'o'n':' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p'-' '1'0'0'.' 'F'a'c't':' 'A' 'c'o'm'p'a'n'y' 'm'a'n'u'f'a'c't'u'r'i'n'g' 's'p'e'c'i'a'l'
-'t'i'o'n' 'o'f' 'B'.' 'y'a'r'n' 'w'a's' 'o'f'f'e'r'e'd' 'c'o'l'l'a'b'o'r'a't'i'o'n' 'b'y' 'a' 'f'o'r'-'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'a'n'd' 'B' 'c'a'n' 's'u'e' 'e'i'g'n' 'p'r'o'd'u'c'e'r' 'o'n' 't'h'e' 'c'o'n'd'i't'i'o'n' 't'h'a't' 't'h'e'
-'A'.' 'c'o'm'p'a'n'y' 's'h'a'l'l' 'm'a'i'n't'a'i'n' 's'e'c'r'e'c'y' 'o'f' 'a'l'l' 't'h'e'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd' 'a's' 'i't' 'i's' 'a'g'a'i'n's't' 't'e'c'h'n'i'c'a'l' 'i'n'f'o'r'm'a't'i'o'n' 'a'n'd' 't'h'a't' 'i't' 's'h'o'u'l'd'
-'t'h'e' 'p'u'b'l'i'c' 'p'o'l'i'c'y'.' 'o'b't'a'i'n' 'c'o'r'r'e's'p'o'n'd'i'n'g' 's'e'c'r'e'c'y' 'a'r'r'a'n'g'e'-'
-'9'6'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e'd' 't'o' 'm'a'r'r'y' 'n'o'n'e' 'e'l's'e' 'e'x'-' 'm'e'n't' 'f'r'o'm' 'i't's' 'e'm'p'l'o'y'e'e's'.' 'O'n'e' 'e'm'p'l'o'y'e'e'
-'c'e'p't' 'M'i's's' 'B',' 'a'n'd' 'i'n' 'd'e'f'a'u'l't' 't'o' 'p'a'y' 'h'e'r' 'a' 'w'a's' 'a'p'p'o'i'n't'e'd' 'f'o'r' 'f'i' 'v'e' 'y'e'a'r's' 'w'i't'h' 't'h'e' 'c'o'n'-'
-'
-'C'I'V'I'L' 'L'A'W' '1'0'1'
-'d'i't'i'o'n' 't'h'a't' 'd'u'r'i'n'g' 't'h'i's' 'p'e'r'i'o'd' 'h'e' 'w'o'u'l'd' 'n'o't' 'a'n'd' 'B' 'h'a's' 'a'c'c'e'p't'e'd',' 't'h'e'n' 'B' 'i's' 'l'e'g'a'l'l'y'
-'t'a'k'e' 's'e'r'v'i'c'e' 'a'n'y'w'h'e'r'e' 'e'v'e'n' 'i'f' 'h'e' 'l'e'f't' 't'h'i's' 'b'o'u'n'd',' 'i'f' 'h'e' 'd'o'e's'n'’'t' 't'u'r'n' 'u'p' 'i't' 'a'm'o'u'n't's'
-'s'e'r'v'i'c'e'.' 't'o' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?' '('b')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'D'e'c'i's'i'o'n':' 'o'f' 'A'.' 'i't' 'w'i'l'l' 'b'e' 'o'p't'i'o'n' 'a'v'a'i'l'a'b'l'e' 't'o' 'A' 't'o'
-'('a')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.' 's'u'e' 'B' 'o'r' 'n'o't' 't'o' 's'u'e' 'B'.'
-'('b')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.' '('c')' 'N'o',' 'A' 'c'a'n'n'o't' 's'u'e' 'B' 'b'e'c'a'u's'e' 't'h'e' 'a'g'r'e'e'-'
-'('c')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.' 'm'e'n't' 'w'a's' 'p'u'r'e'l'y' 's'o'c'i'a'l' 'i'n' 'n'a't'u'r'e' 'a'n'd'
-'1'0'1'.' 'F'a'c't':' 'M'o'h'a'n' 'p'o'l'i's'h'e'd' 'M'r' 'R'a'm' 'P'r'a's'a'd'’'s' 't'h'e'r'e' 'w'a's' 'n'o' 'i'n't'e'n't'i'o'n' 't'o' 'c'r'e'a't'e' 'l'e'g'a'l'
-'s'h'o'e's' 'w'i't'h'o'u't' 'u's'i'n'g' 'a's'p'e'c't' 't'o' 'd'o' 's'o'.' 'r'e'l'a't'i'o'n's'h'i'p'.' 'A'g'r'e'e'm'e'n't's' 'p'u'r'e'l'y' 's'o'-'
-'M'r' 'R'a'm' 'd'i'd' 'n'o't' 'm'a'k'e' 'a'n'y' 'a't't'e'm'p't' 't'o' 's't'o'p' 'c'i'a'l' 'a'n'd' 'd'o'm'e's't'i'c' 'i'n' 'n'a't'u'r'e' 'a'r'e' 'n'o't'
-'M'o'h'a'n' 'f'r'o'm' 'p'o'l'i's'h'i'n'g' 'h'i's' 's'h'o'e's'.' 'e'n'f'o'r'c'e'a'b'l'e' 'b'y' 'l'a'w'.'
-'I's's'u'e':' 'C'a'n' 'M'o'h'a'n' 'm'a'k'e' 'M'r' 'R'a'm' 'l'i'a'b'l'e' '1'0'4'.' 'F'a'c't':' 'X' 'i'n'v'i't'e'd' 'Y' 'a'n'd' 't'h'i's' 'f'a'm'i'l'y' 't'o' 'd'i'n'-'
-'f'o'r' 'p'a'y'm'e'n't' 'f'o'r' 'h'i's' 's'e'r'v'i'c'e's'?' 'n'e'r' 'o'n' 'a' 'c'e'r't'a'i'n' 'n'i'g'h't'.' 'Y' 'a'c'c'e'p't'e'd' 'X'’'s' 'i'n'-'
-'D'e'c'i's'i'o'n':' 'v'i't'a't'i'o'n'.' 'O'n' 't'h'e' 'd'a't'e' 'f'i' 'x'e'd' 'Y' 'd'r'o'v'e' 'w'i't'h'
-'('a')' 'M'r' 'R'a'm' 'i's' 'l'i'a'b'l'e' 't'o' 'p'a'y' 'b'e'c'a'u's'e' 'h'e' 'h'i's' 'f'a'm'i'l'y' 'f'r'o'm' 'S'e'c't'o'r' '1'4' 't'o' 'I'n'd'u's't'r'i'a'l'
-'a'c'c'e'p't'e'd' 'M'o'h'a'n'’'s' 'I'm'p'l'i'e'd' 'o'f'f'e'r' 'b'y' 'A'r'e'a' 'a'n'd' 'f'o'u'n'd' 'h'i's' 'h'o'u's'e' 'l'o'c'k'e'd'.' 'T'h'e'y'
-'n'o't' 's't'o'p'p'i'n'g' 'h'i'm' 'f'r'o'm' 'p'o'l'i's'h'i'n'g' 'h'i's' 'w'a'i't'e'd' 'u'p't'o' '9'.'3'0' 'p'.'m'.' 'b'u't' 't'h'e' 'h'o's't's' 'd'i'd' 'n'o't'
-'s'h'o'e's'.' 't'u'r'n' 'u'p'.' 'T'h'e'y' 'l'e'f't' 't'h'e' 'p'l'a'c'e' 'a'n'd' 'h'a'd' 't'h'e'i'r'
-'('b')' 'R'a'm' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e' 'p'r'e's'e'n't' 'm'e'a'l's' 'i'n' 'P'i'c'c'a'd'i'l'l'y' 'i'n' 'S'e'c't'o'r' '1'7'.' 'T'h'e' 'c'o's't'
-'s'i't'u'a't'i'o'n' 'd'o'e's' 'n'o't' 'i'n'd'i'c'a't'e' 'a'n'y' 'o'f'f'e'r' 'o'r' 'o'f' 'm'e'a'l' 'c'a'm'e' 't'o' 'R's' '1'0'0'.'
-'i't's' 'a'c'c'e'p't'a'n'c'e'.' 'H'e'n'c'e' 'n'o' 'c'o'n't'r'a'c't',' 'n'o' 'I's's'u'e':' 'C'a'n' 'Y' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't'?'
-'v'a'l'i'd'i't'y',' 'n'o' 'l'i'a'b'i'l'i't'y'.' 'D'e'c'i's'i'o'n':'
-'('c')' 'I't' 'i's' 'a' 'v'a'g'u'e' 'c'o'n't'r'a'c't',' 'i't' 'w'i'l'l' 'b'e' 'd'i's'c'r'e'-' '('a')' 'N'o',' 'Y' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't'
-'t'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't' 't'o' 'i'n't'e'r'p'r'e't' 'i't' 'a't' 'i't's' 'f'r'o'm' 'X' 'b'e'c'a'u's'e' 'a'g'r'e'e'm'e'n't' 'w'a's' 'p'u'r'e'l'y'
-'w'i'l'l'.' 's'o'c'i'a'l' 'i'n' 'n'a't'u'r'e' 'a'n'd' 't'h'e'r'e' 'w'a's' 'n'o' 'i'n'-'
-'1'0'2'.' 'F'a'c't':' 'S't'a't'e' 'w'h'e't'h'e'r' 't'h'e'r'e' 'i's' 'a'n'y' 'c'o'n't'r'a'c't' 't'e'n't'i'o'n' 't'o' 'c'r'e'a't'e' 'a' 'l'e'g'a'l' 'r'e'l'a't'i'o'n's'h'i'p'.'
-'i'n' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'a's'e's':' '('a')' 'A' 'a'n'd' 'B' 'a'g'r'e'e' '('b')' 'Y' 'c'a'n' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't' 'b'e'c'a'u's'e' 'X'
-'t'o' 'g'o' 'f'o'r' 'h'u'n't'i'n'g'.' '('b')' 'A' 'a'n'd' 'B' 'a'g'r'e'e' 't'o' 'i's' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 'a'l'l' 't'h'e' 'b'o't'h'e'r'a't'i'o'n'
-'m'a'r'r'y' 'e'a'c'h' 'o't'h'e'r'.' '('c')' 'A' 'a'g'r'e'e's' 't'o' 's'e'l'l' 's'o'm'e' 'c'a'u's'e'd' 't'o' 'Y',' 's'o' 'X' 'i's' 'l'i'a'b'l'e'.'
-'g'o'o'd's' 't'o' 'B' 'a't' 'a' 'p'r'i'c'e' 't'o' 'b'e' 'f'i' 'x'e'd' 'b'y' 'C'.' '('d')' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'A' 't'a'k'e's' 'f'o'o'd' 'i'n' 'a' 'r'e's't'a'u'r'a'n't'.' '('e')' 'A' 't'a'k'e's' 'a' '1'0'5'.' 'F'a'c't':' 'A' 'a'g'r'e'e'd' 'o'r'a'l'l'y' 't'o' 's'e'l'l' 'h'i's' 'h'o'u's'e'
-'s'e'a't' 'i'n' 'a' 'l'o'c'a'l' 'b'u's'.' 't'o' 'B' 'f'o'r' 'R's' '5','0'0'0',' '“'S'u'b'j'e'c't' 't'o' 'c'o'n't'r'a'c't'”'.'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' 'T'h'e' 'n'e'x't' 'd'a'y' 'C' 'o'f'f'e'r'e'd' 'A' 'R's' '6','0'0'0' 'f'o'r' 't'h'e'
-'D'e'c'i's'i'o'n':' 'h'o'u's'e' 'a'n'd' 'A' 'a'c'c'e'p't'e'd' 't'h'i's' 'o'f'f'e'r' 'a'n'd' 's'o'l'd'
-'('a')' 'A'l'l' 't'h'e' 's'a'i'd' 'c'o'n't'r'a'c't's' 'a'r'e' 'v'o'i'd' 'c'o'n'-' 't'h'e' 'h'o'u's'e' 't'o' 'C'.' 'C'a'n' 'B' 's'u'e' 'A' 'f'o'r' 'b'r'e'a'c'h' 'o'f'
-'t'r'a'c't's'.' 'c'o'n't'r'a'c't'?' 'W'o'u'l'd' 'i't' 'm'a'k'e' 'a'n'y' 'd'i'f'f'e'r'e'n'c'e' 't'o'
-'('b')' 'T'h'e'r'e' 'i's' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'i'n' 'a'l'l' 'c'a's'e's' 'e'x'-' 'y'o'u'r' 'a'n's'w'e'r' 'i'f' 't'h'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A'
-'c'e'p't' '('a')' 'b'e'c'a'u's'e' 'a'g'r'e'e'm'e'n't' 't'o' 'g'o' 'f'o'r' 'a'n'd' 'B' 'w'a's' 'i'n' 'w'r'i't'i'n'g'?'
-'h'u'n't'i'n'g' 'i's' 'a' 'p'u'r'e'l'y' 's'o'c'i'a'l' 'a'g'r'e'e'm'e'n't' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A' 'a'n'd' 'C'?'
-'n'o't' 'i'n't'e'n'd'i'n'g' 't'o' 'c'r'e'a't'e' 'l'e'g'a'l' 'r'e'l'a't'i'o'n's'.' 'D'e'c'i's'i'o'n':'
-'I'n' '('b')' 'a'n'd' '('c')',' 't'h'e'r'e' 'i's' 'i'n't'e'n't'i'o'n' 't'o' 'c'r'e'-' '('a')' 'A' 'a'n'd' 'C' 'b'o't'h' 'a'r'e' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'i't'
-'a't'e' 'l'e'g'a'l' 'r'e'l'a't'i'o'n's'h'i'p' 'w'h'e'r'e'a's' '('d')' 'a'n'd' 'd'o'e's' 'n'o't' 'm'a't't'e'r' 'w'h'e't'h'e'r' 't'h'e' 'a'g'r'e'e'-'
-'('e')' 'a'm'o'u'n't' 't'o' 'i'm'p'l'i'e'd' 'c'o'n't'r'a'c't's'.' 'm'e'n't' 'i's' 'o'r'a'l' 'o'r' 'w'r'i't't'e'n'.'
-'('c')' 'I'n' 'a'l'l' 't'h'e' 'a'b'o'v'e' 's't'a't'e'm'e'n't's' 't'h'e'r'e' 'i's' 'n'o' '('b')' 'A'n' 'o'r'a'l' 'c'o'n't'r'a'c't' 'i's' 'p'e'r'f'e'c't'l'y' 'v'a'l'i'd' 'e'x'-'
-'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e' 'o'f'f'e'r's' 'a'n'd' 'a'c'c'e'p'-' 'c'e'p't' 'w'h'e'r'e' 'w'r'i't'i'n'g',' 'r'e'g'i's't'r'a't'i'o'n' 'e't'c'.','
-'t'a'n'c'e's' 'a'r'e' 'v'e'r'y' 'v'a'g'u'e'.' 'i's' 'r'e'q'u'i'r'e'd' 'b'y' 's'o'm'e' 's't'a't'u't'e'.' 'B' 'c'a'n'n'o't'
-'1'0'3'.' 'F'a'c't':' 'A' 'i'n'v'i't'e's' 'B' 't'o' 'd'i'n'n'e'r'.' 'B' 'a'c'c'e'p't's' 't'h'e' 's'u'e' 'A' 'f'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'i'n'v'i't'a't'i'o'n' 'b'u't' 'd'o'e's' 'n'o't' 't'u'r'n' 'u'p' 'a't' 't'h'e' 'd'i'n'-' 't'h'e' 'f'o'r'm'a'l'i't'i'e's' 'r'e'q'u'i'r'e'd' 'u'n'd'e'r' 't'h'e'
-'n'e'r'.' 'T'r'a'n's'f'e'r' 'o'f' 'P'r'o'p'e'r't'y' 'A'c't' '1'8'8'2' 'h'a'd'
-'I's's'u'e':' 'C'a'n' 'A' 's'u'e' 'B' 'f'o'r' 't'h'e' 'l'o's's' 'h'e' 'h'a's' 's'u'f'-' 'n'o't' 'b'e'e'n' 'c'o'm'p'l'e't'e'd'.' 'H'a'd' 't'h'i's' 'a'g'r'e'e'-'
-'f'e'r'e'd'?' 'm'e'n't' 'b'e'e'n' 'i'n' 'w'r'i't'i'n'g' 'a'n'd' 'r'e'g'i's't'e'r'e'd',' 'B'
-'D'e'c'i's'i'o'n':' 'c'o'u'l'd' 'h'a'v'e' 's'u'e'd' 'A'.'
-'('a')' 'A' 'c'a'n' 's'u'e' 'b'e'c'a'u's'e' 'o'n'c'e' 'A' 'h'a's' 'o'f'f'e'r'e'd' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'
-'1'0'6'.' 'F'a'c't':' 'A',' 'e'n'g'a'g'e's' 'B' 'f'o'r' 'd'o'i'n'g' 's'o'm'e' 'w'o'r'k' '1'0'9'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 'm'a'r'r'y' 'B'.' 'B'u't' 'B' 'd'i'e's' 'b'e'-'
-'a'n'd' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 's'u'c'h' 'r'e'm'u'n'e'r'a't'i'o'n' 'a's' 'f'o'r'e' 't'h'e' 'm'a'r'r'i'a'g'e' 't'o'o'k' 'p'l'a'c'e'.'
-'s'h'a'l'l' 'b'e' 'f'i' 'x'e'd' 'b'y' 'a' 't'h'i'r'd' 'p'e'r's'o'n' 'C'.' 'B' 'd'o'e's' 'I's's'u'e':' 'I's' 't'h'i's' 'a' 'v'o'i'd' 'a'g'r'e'e'm'e'n't'?'
-'t'h'e' 'w'o'r'k'.' 'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'w'i'l'l' 'B' 'g'e't'?' '('a')' 'I't' 'i's' 'n'o't' 'a' 'v'o'i'd' 'a'g'r'e'e'm'e'n't' 'b'u't' 'a' 'v'o'i'd'-'
-'D'e'c'i's'i'o'n':' 'a'b'l'e' 'a'g'r'e'e'm'e'n't'.'
-'('a')' 'B' 'w'i'l'l' 'n'o't' 'g'e't' 'a'n'y't'h'i'n'g' 'b'e'c'a'u's'e' 'A' 'd'i'd' '('b')' 'I't' 'i's' 'a' 'a'g'r'e'e'm'e'n't' 'v'o'i'd' 'a'b' 'i'n'i't'i'o'.'
-'n'o't' 'p'r'o'm'i's'e' 't'o' 'p'a'y' 'r'e'm'u'n'e'r'a't'i'o'n'.' '('c')' 'I't' 'i's' 'n'o't' 'a' 'v'o'i'd' 'a'g'r'e'e'm'e'n't',' 'b'u't' 'a' 'v'o'i'd'
-'('b')' 'C' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'i'f' 'B' 'p'r'o'v'e's' 't'h'e' 'c'o'n'-' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'i't' 'w'a's' 'a'b's'o'l'u't'e'l'y' 'v'a'l'-'
-'t'r'a'c't' 'w'i't'h' 'C'.' 'i'd' 'w'h'e'n' 'e'n't'e'r'e'd' 'i'n't'o' 'b'u't' 's'u'b's'e'q'u'e'n't'l'y'
-'('c')' 'T'h'e'r'e' 'i's' 'a' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'b'e'c'a'm'e' 'v'o'i'd'.'
-'a'n'd' 'A' 'i's' 'b'o'u'n'd' 't'o' 'p'a'y' 't'h'e' 'r'e'm'u'n'e'r'a'-' '1'1'0'.' 'F'a'c't':' 'R'o'm'e'o' 'p'r'o'm'i's'e'd' 'a' 'g'o'l'd' 'n'e'c'k'l'a'c'e' 't'o'
-'t'i'o'n' 'a's' 'f'i' 'x'e'd' 'b'y' 'C'.' 'I'f' 'C' 'd'o'e's' 'n'o't' 'f'i' 'x' 'o'r' 'J'u'l'i'e't' 'a't' 't'h'e' 't'i'm'e' 'o'f' 't'h'e'i'r' 'm'a'r'r'i'a'g'e'.' 'R'o'm'e'o'
-'r'e'f'u's'e's' 't'o' 'f'i' 'x' 't'h'e' 'r'e'm'u'n'e'r'a't'i'o'n',' 't'h'e'n' 'A' 'f'a'i'l's' 't'o' 'b'r'i'n'g' 't'h'e' 'n'e'c'k'l'a'c'e'.'
-'i's' 'b'o'u'n'd' 't'o' 'p'a'y' 't'h'e' 'r'e'a's'o'n'a'b'l'e' 'r'e'm'u'-' 'I's's'u'e':' 'C'a'n' 'J'u'l'i'e't' 'c'l'a'i'm' 't'h'e' 'n'e'c'k'l'a'c'e'?'
-'n'e'r'a't'i'o'n'.' 'D'e'c'i's'i'o'n':'
-'1'0'7'.' 'F'a'c't':' 'X' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'Y',' 'h'i's' 'w'i'f'e' 'a' '('a')' 'J'u'l'i'e't' 'c'a'n'n'o't' 'c'l'a'i'm' 't'h'e' 'n'e'c'k'l'a'c'e' 'a's'
-'p'o'c'k'e't' 'm'o'n'e'y' 'R's' '5'0'0' 'p'e'r' 'm'o'n't'h'.' 'A'f't'e'r' '2' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'r'o'm' 'J'u'l'i'e't'.'
-'m'o'n't'h's' 'h'e' 's't'o'p's' 't'h'e' 'p'o'c'k'e't' 'm'o'n'e'y'.' '('b')' 'J'u'l'i'e't' 'c'a'n' 'c'l'a'i'm' 't'h'e' 'n'e'c'k'l'a'c'e'.'
-'I's's'u'e':' 'C'a'n' 'Y' 's'u'e' 'X'?' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'D'e'c'i's'i'o'n':' '1'1'1'.' 'F'a'c't':' 'A',' 'a'n' 'a'u'c't'i'o'n'e'e'r' 'g'i'v'e's' 'a'd'v'e'r't'i's'e'm'e'n't'
-'('a')' 'N'o',' 'b'e'c'a'u's'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'X' 'i'n' 't'h'e' 'n'e'w's'p'a'p'e'r' 'w'h'e'r'e'i'n' 'h'e' 'm'e'n't'i'o'n's' 't'h'a't'
-'a'n'd' 'Y' 'i's' 'd'o'm'e's't'i'c' 'a'g'r'e'e'm'e'n't' 'w'h'i'c'h' 'i's' 'c'e'r't'a'i'n' 'f'u'r'n'i't'u'r'e' 'w'o'u'l'd' 'b'e' 's'o'l'd' 'a't' 'J'a'i'p'u'r'
-'n'o't' 'i'n't'e'n'd'e'd' 't'o' 'b'e' 'e'n'f'o'r'c'e'a'b'l'e' 'a't' 'l'a'w'.' 'o'n' 'a' 'c'e'r't'a'i'n' 'd'a'y'.' 'M'r' 'B',' 'a' 'p'r'o's'p'e'c't'i'v'e' 'b'u'y'-'
-'('b')' 'Y' 'c'a'n' 's'u'e' 'X' 'b'e'c'a'u's'e' 't'h'e' 'm'a't'r'i'm'o'n'i'a'l' 'e'r' 'o'f' 'D'e'l'h'i',' 'o'n' 'r'e'a'd'i'n'g' 't'h'e' 'a'd'v'e'r't'i's'e'm'e'n't'
-'i's' 'p'u'r'e'l'y' 'a'n'd' 't'e'c'h'n'i'c'a'l'l'y' 'a' 'l'e'g'a'l' 'r'e'l'a'-' 'r'e'a'c'h'e's' 'J'a'i'p'u'r' 'o'n' 't'h'e' 'f'i' 'x'e'd' 'd'a't'e'.' 'B'u't' 't'h'e'
-'t'i'o'n's'h'i'p'.' 'T'h'e' 'b'r'e'a'c'h' 'o'f' 'a'n'y' 'c'o'n'd'i't'i'o'n'/' 'a'u'c't'i'o'n'e'e'r' 'c'a'n'c'e'l's' 't'h'e' 'a'u'c't'i'o'n' 's'a'l'e'.'
-'p'r'o'm'i's'e' 'r'e's'u'l't's' 'i'n't'o' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't' 'I's's'u'e':' 'C'a'n' 'B' 's'u'e' 'A',' 'f'o'r' 'n'o't' 'c'o'n'd'u'c't'i'n'g' 't'h'e'
-'a'n'd' 'h'e'n'c'e' 'a'm'o'u'n't's' 't'o' 'l'i'a'b'i'l'i't'y'.' 'a'u'c't'i'o'n' 's'a'l'e' 'a'n'd' 'c'a'n' 'h'e' 'c'l'a'i'm' 'd'a'm'a'g'e's' 'f'o'r'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'u't'y' 'o'f' 't'h'e' 'c'o'u'r't' 't'o' 'd'e'-' 'l'o's's' 'o'f' 'h'i's' 't'i'm'e' 'a'n'd' 'e'x'p'e'n's'e's'?'
-'d'u'c'e' 't'h'e' 'r'e'l'e'v'a'n't' 'f'a'c't's' 'a'n'd' 'g'i'v'e' 'j'u'd'g'e'-' 'D'e'c'i's'i'o'n':'
-'m'e'n't'.' '('a')' 'Y'e's',' 'h'e' 'c'a'n' 'b'e'c'a'u's'e' 'o'n'c'e' 't'h'e' 'a'u'c't'i'o'n'-'
-'1'0'8'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 'p'a'y' 'R's' '5'0','0'0'0' 't'o' 'B' 'i'f' 'B' 'e'e'r' 'g'a'v'e' 'a'n' 'a'd'v'e'r't'i's'e'm'e'n't' 'a'n'd' 'B' 'r'e'a'd'
-'k'i'l'l's' 'C'.' 'T'o' 'p'a'y' 't'o' 'B',' 'A' 'b'o'r'r'o'w'e's' 'R's' '5'0','0'0'0' 'i't',' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'c'o'm'p'l'e't'e'.'
-'f'r'o'm' 'D' 'w'h'o' 'i's' 'a'l's'o' 'a'w'a'r'e' 'o'f' 't'h'e' 'p'u'r'p'o's'e' '('b')' 'N'o',' 'b'e'c'a'u's'e' 'a'd'v'e'r't'i's'e'm'e'n't' 'w'a's' 'o'n'l'y'
-'o'f' 'l'o'a'n'.' 'B' 'k'i'l'l's' 'C' 'b'u't' 'A' 'r'e'f'u's'e's' 't'o' 'p'a'y'.' 'A' 'a'n' 'i'n'v'i't'a't'i'o'n' 't'o' 'o'f'f'e'r' 'a'n'd' 'n'o't' 'o'f'f'e'r'.'
-'a'l's'o' 'r'e'f'u's'e's' 't'o' 'r'e'p'a'y' 't'h'e' 'l'o'a'n' 't'o' 'D'.' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'n'a't'u'r'e' 'o'f' 'c'o'n't'r'a'c't'?' '1'1'2'.' 'F'a'c't':' 'A' 'o'f'f'e'r's',' 'b'y' 'a' 'l'e't't'e'r',' 't'o' 's'e'l'l' 'c'e'r't'a'i'n'
-'D'e'c'i's'i'o'n':' 'a'r't'i'c'l'e' 't'o' 'B' 'w'h'o' 'r'e'c'e'i'v'e's' 't'h'e' 'l'e't't'e'r' 't'h'e'
-'('a')' 'A' 'i's' 'l'i'a'b'l'e' 't'o' 'p'a'y' 'R's' '5'0','0'0'0' 't'o' 'B' 'n'e'x't' 'd'a'y' 'B' 'i'm'm'e'd'i'a't'e'l'y' 'p'o's't's' 'h'i's' 'l'e't't'e'r'
-'t'h'o'u'g'h' 'B' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'-' 'o'f' 'a'c'c'e'p't'a'n'c'e'.' 'T'h'e' 's'a'm'e' 'e'v'e'n'i'n'g' 'A' 'p'o's't's'
-'d'e'r'.' 'B'u't' 't'h'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'a'n'o't'h'e'r' 'l'e't't'e'r' 'r'e'v'o'k'i'n'g' 'h'i's' 'o'f'f'e'r'.' 'A'’'s' 'l'e't'-'
-'B' 'i's' 'v'a'l'i'd' 'a'n'd' 'h'e'n'c'e' 'e'n'f'o'r'c'e'a'b'l'e'.' 't'e'r' 'r'e'v'o'c'a't'i'o'n' 'a'n'd' 'B'’'s' 'l'e't't'e'r' 'o'f' 'a'c'c'e'p't'a'n'c'e'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's' 'a'n' 'c'r'o's's' 'i'n' 't'h'e' 'p'o's't'.'
-'i'l'l'e'g'a'l' 'a'g'r'e'e'm'e'n't' 'b'e'c'a'u's'e' 'i't's' 'o'b'j'e'c't' 'I's's'u'e':' 'I's' 't'h'e'r'e' 'a'n'y' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd'
-'i's' 'u'n'l'a'w'f'u'l'.' 'H'e'n'c'e' 'B' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 'B'?'
-'a'n'y't'h'i'n'g' 'f'r'o'm' 'A'.' 'S'i'n'c'e' 'm'a'i'n' 'a'g'r'e'e'-' 'D'e'c'i's'i'o'n':'
-'m'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's' 'i'l'l'e'g'a'l' 't'h'e' '('a')' 'N'o',' 'B' 'c'a'n'n'o't' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n'-'
-'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'D' 'w'h'i'c'h' 't'r'a'c't' 'a's' 't'h'e'r'e' 'i's' 'n'o' 'r'e'c'e'i'p't' 'o'f' 'o'f'f'e'r' 'a'n'd'
-'i's' 'c'o'l'l'a't'e'r'a'l' 't'o' 't'h'e' 'm'a'i'n' 'a'g'r'e'e'm'e'n't' 'i's' 'a'c'c'e'p't'a'n'c'e' 'b'y' 'A' 'a'n'd' 'B'.'
-'a'l's'o' 'v'o'i'd' 'a'n'd' 'h'e'n'c'e' 'D' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' '('b')' 'I't' 'i's' 'a'n' 'a'g'r'e'e'm'e'n't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p'-'
-'a'n'y't'h'i'n'g' 'f'r'o'm' 'A'.' 't'i'o'n' 'o'f' 'B'.'
-'('c')' 'A' 'i's' 'l'i'a'b'l'e' 't'o' 'p'a'y' 'a'm'o'u'n't' 't'o' 'D' 'b'e'c'a'u's'e' '('c')' 'Y'e's',' 'a' 'c'o'n't'r'a'c't' 'c'o'm'e's' 'i'n't'o' 'e'x'i's't'e'n'c'e'
-'D' 'h'a's' 'n'o' 'i'n'v'o'l'v'e'm'e'n't' 'i'n' 't'h'e' 'o'f'f'e'n'c'e' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'a's' 'p'e'r' 'S'e'c't'i'o'n' '4' 'a'n'd'
-'o'f' 'm'u'r'd'e'r'.' 'S'e'c't'i'o'n' '5' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'C'o'n't'r'a'c't' 'A'c't','
-'
-'C'I'V'I'L' 'L'A'W' '1'0'3'
-'b'e'c'a'u's'e' 'o'n'c'e' 't'h'e' 'l'e't't'e'r' 'f'o'r' 'o'f'f'e'r' 'a'n'd' '1'1'6'.' 'F'a'c't':' 'A' 'o'f'f'e'r's' 't'o' 's'e'l'l' 'h'i's' 'h'o'u's'e' 't'o' 'B' 'f'o'r'
-'l'e't't'e'r' 'f'o'r' 'a'c'c'e'p't'a'n'c'e' 'a'r'e' 'p'o's't'e'd' 't'h'e' 'R's' '5' 'l'a'k'h's'.' 'B' 's'a'y's',' '“'I' 'a'c'c'e'p't' 'y'o'u'r' 'o'f'f'e'r'.'
-'c'o'n't'r'a'c't' 'i's' 'c'o'm'p'l'e't'e' 'a'n'd' 't'h'e' 'p'a'r't'i'e's' 'H'e'r'e' 'i's' 'R's' '2' 'l'a'k'h's' 'i'n' 'c'a's'h' 'a'n'd' 'a' '3' 'm'o'n't'h'
-'a'r'e' 'b'o'u'n'd' 'a'n'd' 'l'i'a'b'l'e'.' 'p'r'o'm'i's's'o'r'y' 'n'o't'e' 'f'o'r' 't'h'e' 'b'a'l'a'n'c'e'.'”'
-'1'1'3'.' 'F'a'c't':' 'A' 'm'a'k'e's' 'a'n' 'o'f'f'e'r' 't'o' 'B' 'b'y' 'l'e't't'e'r' 'I's's'u'e':' 'I's' 't'h'e'r'e' 'a'n'y' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd'
-'w'h'e'r'e'i'n' 'h'e' 'm'e'n't'i'o'n's' 't'h'a't' 'a'c'c'e'p't'a'n'c'e' 'c'a'n' 'B'?'
-'b'e' 'm'a'd'e' 'b'y' 'B' 'p'o's't'i'n'g' 'a' 'l'e't't'e'r' 't'o' 'A'.' 'A' 'g'i'v'e's' 'D'e'c'i's'i'o'n':'
-'t'h'e' 'l'e't't'e'r' 't'o' 'h'i's' 'p'e'o'n' 'f'o'r' 'p'o's't'i'n'g' 't'h'e' 's'a'm'e' '('a')' 'N'o',' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd'
-'b'u't' 'p'e'o'n' 'w'h'o' 'g'e't's' 't'o' 'p'o's't' 'i't' 'i'm'm'e'd'i'a't'e'l'y',' 'B' 'b'e'c'a'u's'e' 'a'c'c'e'p't'a'n'c'e' 'i's' 'c'o'n'd'i't'i'o'n'a'l'.'
-'p'o's't's' 'i't' 'a'f't'e'r' '7' 'd'a'y's'.' 'I'n' 't'h'e' 'm'e'a'n't'i'm'e',' 'o'n' '('b')' 'Y'e's',' 't'h'e'r'e' 'i's' 'c'o'n't'r'a'c't',' 'p'a'y'm'e'n't' 'o'f' 'R's' '2'
-'n'o't' 'r'e'c'e'i'v'i'n'g' 'a'n'y' 'r'e'p'l'y' 'f'r'o'm' 'B',' 'A' 's'e'l'l's' 't'h'e' 'l'a'k'h' 'a'm'o'u'n't's' 't'o' 't'h'e' 'p'e'r'f'o'r'm'a'n'c'e' 'o'f'
-'g'o'o'd's' 't'o' 'C'.' 'B'u't' 'B' 'a's' 's'o'o'n' 'a's' 't'h'e' 'r'e'c'e'i'v'e's' 'c'o'n't'r'a'c't' 'a'n'd' 'h'e'n'c'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd'.'
-'A' 'l'e't't'e'r',' 'g'i'v'e's' 'h'i's' 'a'c'c'e'p't'a'n'c'e' 'b'y' 'p'o's't'i'n'g' 'a' '('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'o'f' 'A'.'
-'l'e't't'e'r'.'
-'1'1'7'.' 'F'a'c't':' 'A'n' 'a'u'c't'i'o'n'e'e'r' 'a'd'v'e'r't'i's'e'd' 'i'n' 'a' 'n'e'w's'-'
-'I's's'u'e':' 'W'h'a't' 'a'r'e' 't'h'e' 'l'e'g'a'l' 'r'e'm'e'd'i'e's' 'a'v'a'i'l'-'
-'p'a'p'e'r' 't'h'a't' 'a' 's'a'l'e' 'o'f' 'o'f'f'i' 'c'e' 'f'u'r'n'i't'u'r'e' 'w'i'l'l'
-'a'b'l'e' 't'o' 'B',' 'i'f' 'a'n'y'?'
-'b'e' 'h'e'l'd' 'a't' 'B'a'n'g'a'l'o'r'e'.' 'A'j'a'y',' 'a' 'b'r'o'k'e'r' 'o'f'
-'D'e'c'i's'i'o'n':'
-'M'u'm'b'a'i' 'r'e'a'c'h'e'd' 'B'a'n'g'a'l'o'r'e' 'o'n' 't'h'e' 'a'p'-'
-'('a')' 'T'h'e'r'e' 'i's' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd'
-'p'o'i'n't'e'd' 'd'a't'e' 'a'n'd' 't'i'm'e'.' 'B'u't' 't'h'e' 'a'u'c't'i'o'n'e'e'r'
-'B'.' 'B'u't' 's'i'n'c'e' 'A' 'h'a's' 'a'l'r'e'a'd'y' 's'o'l'd' 't'h'e'
-'w'i't'h'd'r'e'w' 'a'l'l' 't'h'e' 'o'f'f'i' 'c'e' 'f'u'r'n'i't'u'r'e' 'f'r'o'm' 't'h'e'
-'g'o'o'd's',' 'B' 'c'a'n' 'r'e'c'o'v'e'r' 'd'a'm'a'g'e's' 'f'r'o'm'
-'a'u'c't'i'o'n' 's'a'l'e'.' 'T'h'e' 'b'r'o'k'e'r' 's'u'e'd' 'f'o'r' 'h'i's' 'l'o's's'
-'A'.'
-'o'f' 't'i'm'e' 'a'n'd' 'e'x'p'e'n's'e's'.'
-'('b')' 'T'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B'
-'I's's'u'e':' 'W'i'l'l' 'b'e' 's'u'c'c'e'e'd'?'
-'b'e'c'a'u's'e' 't'h'e' 'l'e't't'e'r' 'w'a's' 'p'o's't'e'd' 'a'f't'e'r' 't'h'e'
-'D'e'c'i's'i'o'n':'
-'g'o'o'd's' 'w'e'r'e' 's'o'l'd' 's'o' 'B' 'c'a'n'n'o't' 's'u'e' 'f'o'r'
-'('a')' 'T'h'e' 'b'r'o'k'e'r' 'w'i'l'l' 's'u'c'c'e'e'd' 'a'n'd' 'f'o'r' 't'h'e'
-'d'a'm'a'g'e's'.'
-'l'o's's' 'o'f' 't'i'm'e' 'a'n'd' 'e'x'p'e'n's'e's' 'h'e' 'w'i'l'l' 'g'e't'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'t'h'e' 'd'a'm'a'g'e's'.'
-'1'1'4'.' 'F'a'c't':' 'M'r' 'A' 's't'o'p's' 'a' 't'a'x'i' 'a'n'd' 's't'e'p's' 'i'n' 't'o'
-'('b')' 'I'n' 's'a'l'e' 'b'y' 'a'u'c't'i'o'n',' 'g'o'o'd's' 'a'r'e' 's'o'l'd' 'b'y'
-'i't' 'a'n'd' 'a's'k's' 't'h'e' 'd'r'i'v'e'r' 't'o' 't'a'k'e' 'h'i'm' 't'o' 'c'e'r'-'
-'i'n'v'i't'i'n'g' 'b'i'd's' 'f'r'o'm' 't'h'e' 'p'r'o's'p'e'c't'i'v'e'
-'t'a'i'n' 'd'e's't'i'n'a't'i'o'n'.' 'T'h'e' 'd'r'i'v'e'r' 'r'e'f'u's'e's' 'o'n' 't'h'e'
-'b'u'y'e'r's'.' 'T'h'e' 'b'i'd's' 'a'r'e' 'o'f'f'e'r's' 'a'n'd' 'i'n'v'i'-'
-'g'r'o'u'n'd' 't'h'a't' 't'h'e' 't'r'i'p' 'i's' 'v'e'r'y' 's'h'o'r't' 'a'n'd' 'n'o't'
-'t'a't'i'o'n' 't'o' 'p'e'o'p'l'e' 't'o' 'p'a'r't'i'c'i'p'a't'e' 'i'n' 'a'u'c'-'
-'p'r'o'f'i' 't'a'b'l'e' 'f'o'r' 'h'i'm'.'
-'t'i'o'n' 's'a'l'e' 't'h'r'o'u'g'h' 'a'd'v'e'r't'i's'e'm'e'n't' 'i's' 'n'o't'
-'I's's'u'e':' 'W'h'a't' 'c'a'n' 'M'r' 'A' 'd'o'?' 'a' 'p'r'o'p'o's'a'l' 'b'u't' 'm'e'r'e'l'y' 'a'n' 'i'n'v'i't'a't'i'o'n' 't'o'
-'D'e'c'i's'i'o'n':' 'o'f'f'e'r'.' 'T'h'e'r'e'f'o'r'e',' 't'h'e' 'b'r'o'k'e'r's' 'w'i'l'l' 'n'o't'
-'('a')' 'A' 'c'a'n'n'o't' 'd'o' 'a'n'y't'h'i'n'g'.' 's'u'c'c'e'e'd' 'i'n' 'c'l'a'i'm'i'n'g' 'c'o'm'p'e'n's'a't'i'o'n' 'f'o'r'
-'('b')' 'M'r' 'A' 'c'a'n' 'f'o'r'c'e' 't'h'e' 'd'r'i'v'e'r' 't'o' 't'a'k'e' 'h'i'm' 'l'o's's' 'o'f' 't'i'm'e' 'a'n'd' 'e'x'p'e'n's'e' 'i'n' 'r'e'a'c'h'i'n'g'
-'t'o' 't'h'e' 'd'e's't'i'n'a't'i'o'n',' 'a's' 'a' 'c'o'n't'r'a'c't' 'c'o'm'e's' 'B'a'n'g'a'l'o'r'e' 'f'o'r' 'a'd'v'e'r't'i's'e'd' 'a'u'c't'i'o'n' 's'a'l'e'
-'i'n't'o' 'e'x'i's't'e'n'c'e' 'b'e't'w'e'e'n' 'M'r' 'A' 'a'n'd' 't'a'x'i' 'c'a'n'c'e'l'l'e'd' 'l'a't'e'r' 'o'n'.'
-'d'r'i'v'e'r' 'a's' 's'o'o'n' 'a's' 'A' 's't'e'p's' 'i'n't'o' 't'a'x'i'.' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' '1'1'8'.' 'F'a'c't':' 'M'r' 'A' 'i's' 'a' 'm'e'r'c'h'a'n't' 'o'f' 'D'e'l'h'i'.' 'H'e'
-'o'f' 'd'r'i'v'e'r'.' 's'e'n'd's' 'h'i's' 's'o'n' 'B' 't'o' 'M'u'm'b'a'i' 'w'i't'h' 'a' 'l'e't't'e'r'
-'1'1'5'.' 'F'a'c't':' 'A'n' 'a'r't'i'c'l'e' 'i's' 'o'n' 'd'i's'p'l'a'y' 'i'n' 'a' 's'h'o'w'-' 'a'd'd'r'e's's'e'd' 't'o' 'a' 'm'e'r'c'h'a'n't' 'o'f' 'M'u'm'b'a'i'.' 'B'
-'r'o'o'm' 'w'i't'h' 'p'r'i'c'e' 't'a'g' 'o'f',' '“'R's' '1'0'0'”'.' 'M'r' 'A' 'h'a'n'd's' 'o'v'e'r' 't'h'e' 'l'e't't'e'r' 't'o' 'C' 'a'n'd' 'k'e'e'p's' 'w'a'i't'-'
-'o'f'f'e'r's' 'R's' '1'0'0' 't'o' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 'f'o'r' 't'h'e' 'i'n'g' 't'h'e'r'e'.' 'C' 'r'e'a'd's' 't'h'e' 'l'e't't'e'r' 'w'h'i'c'h' 'c'o'n't'a'i'n's'
-'a'r't'i'c'l'e',' 'b'u't' 's'h'o'p'k'e'e'p'e'r' 'r'e'f'u's'e's' 't'o' 's'e'l'l' 'i't'.' 'a'n' 'o'f'f'e'r' 'f'r'o'm' 'A' 'f'o'r' 's'a'l'e' 'o'f' 'c'e'r't'a'i'n' 'q'u'a'n't'i't'y'
-'I's's'u'e':' 'C'a'n' 'M'r' 'A' 's'u'e' 'B' 'f'o'r' 'n'o't' 's'e'l'l'i'n'g' 't'h'e' 'o'f' 'r'i'c'e'.' 'T'h'e' 'l'e't't'e'r' 'a'l's'o' 'c'o'n't'a'i'n's' 't'h'a't' 'i'f' 'C'
-'a'r't'i'c'l'e'?' 'a'c'c'e'p't's' 't'h'e' 'o'f'f'e'r',' 't'h'e'n' 'h'e' 'm'u's't' 'g'i'v'e' 'h'i's'
-'D'e'c'i's'i'o'n':' 'r'e'p'l'y' 't'o' 'B'.' 'C' 's'e'n'd's' 'B' 'w'i't'h'o'u't' 'a'n'y' 'r'e'p'l'y','
-'('a')' 'A' 'c'a'n' 's'u'e' 'B' 'b'e'c'a'u's'e' 'd'i's'p'l'a'y' 'o'f' 'a'r't'i'c'l'e' 'b'u't' 'l'a't'e'r' 'd'e'c'i'd'e's' 't'o' 'a'c'c'e'p't' 'A'’'s' 'o'f'f'e'r' 'b'y'
-'i's' 'a'n' 'o'f'f'e'r' 'a'n'd' 'B' 'h'a's' 'a'c'c'e'p't'e'd' 'i't' 'f'o'r' 't'e'l'e'g'r'a'm'.' 'T'h'e' 't'e'l'e'g'r'a'm' 'r'e'a'c'h'e's' 'A' 'b'e'f'o'r'e'
-'t'h'e' 'p'r'i'c'e' 't'a'g'g'e'd' 'o'n' 'i't'.' 'B' 'r'e't'u'r'n's'.'
-'('b')' 'M'r' 'A' 'c'a'n' 'n'o't' 'f'o'r'c'e' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 't'o' 'I's's'u'e':' 'H'a's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'c'o'm'e' 'i'n't'o' 'e'x'i's'-'
-'s'e'l'l' 't'h'e' 'a'r't'i'c'l'e',' 'b'e'c'a'u's'e' 'd'i's'p'l'a'y' 'o'f' 't'h'e' 't'e'n'c'e'?'
-'a'r't'i'c'l'e' 'i's' 'o'n'l'y' 'i'n'v'i't'a't'i'o'n' 't'o' 'o'f'f'e'r' 'a'n'd' 'D'e'c'i's'i'o'n':'
-'n'o't' 'o'f'f'e'r'.' '('a')' 'T'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'o'n'c'e' 't'h'e' 'C'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 's'e'n'd's' 't'h'e' 't'e'l'e'g'r'a'm'.'
-'
-'('b')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'I's's'u'e':' 'I's' 'A' 'b'o'u'n'd' 'b'y' 'h'i's' 'p'r'o'm'i's'e'?'
-'o'f' 'A'.' 'D'e'c'i's'i'o'n':'
-'('c')' 'N'o',' 'B'u't' 'A' 'm'u's't' 'i'n'f'o'r'm' 'C' 'w'i't'h'i'n' 'r'e'a'-' '('a')' 'Y'e's',' 'S'e'c't'i'o'n' '2'5'('2')' 'i's' 'a'p'p'l'i'c'a'b'l'e',' 'b'e'-'
-'s'o'n'a'b'l'e' 't'i'm'e' 't'h'a't' 'a'c'c'e'p't'a'n'c'e' 'i's' 'n'o't' 'c'a'u's'e' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'m'a'd'e' 'a'c'c'o'r'd'i'n'g' 't'o' 't'h'e' 'p'r'e's'c'r'i'b'e'd' 'a'n'd' 'i'n' 'r'e't'u'r'n' 'f'o'r' 't'h'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'B'
-'m'o'd'e'.' 'h'a's' 'p'e'r'f'o'r'm'e'd' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'o'f' 'c'o'n'-'
-'1'1'9'.' 'F'a'c't':' 'M'r' 'A' 't'e'l'l's' 'B' 'd'u'r'i'n'g' 'c'o'n'v'e'r's'a't'i'o'n',' 't'r'a'c't'.'
-'t'h'a't' 'h'e' 'w'i'l'l' 'g'i'v'e' 'R's' '1'0','0'0'0' 't'o' 'a'n'y'o'n'e' 'w'h'o' '('b')' 'A' 'i's' 'n'o't' 'b'o'u'n'd' 'b'y' 't'h'e' 'p'r'o'm'i's'e' 'b'e'c'a'u's'e'
-'m'a'r'r'i'e's' 'h'i's' 'd'a'u'g'h't'e'r' 'w'i't'h' 'h'i's' 'c'o'n's'e'n't'.' 'B' 'i't' 'i's' 'a'n' 'o'r'a'l' 'c'o'n't'r'a'c't'.'
-'m'a'r'r'i'e's' 'A'’'s' 'd'a'u'g'h't'e'r' 'w'i't'h' 'A'’'s' 'c'o'n's'e'n't'.' '('c')' 'A' 'i's' 'n'o't' 'b'o'u'n'd' 'b'y' 't'h'e' 'p'r'o'm'i's'e' 'b'e'c'a'u's'e'
-'I's's'u'e':' 'I's' 'B' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'e'r' 't'h'e' 'm'o'n'e'y' 't'h'e' 'a'c't'i'o'n' 'o'f' 'B' 'i's' 'j'u's't' 'o'f' 'p'h'i'l'a'n't'h'r'o'p'i'c'
-'f'r'o'm' 'A'?' 'n'a't'u'r'e'.'
-'D'e'c'i's'i'o'n':' '1'2'3'.' 'F'a'c't':' 'A',' 'p'r'o'm'i's'e's' 't'o' 'c'o'n't'r'i'b'u't'e' 'R's' '5','0'0'0'
-'('a')' 'B' 'c'a'n'’'t' 'r'e'c'o'v'e'r' 't'h'e' 'm'o'n'e'y' 'f'r'o'm' 'A' 'b'e'-' 'f'o'r' 'r'e'p'a'i'r's' 'o'f' 'a' 't'e'm'p'l'e'.' 'T'h'e' 't'r'u's't'e'e' 'o'f'
-'c'a'u's'e' 'w'h'a't' 'A' 's'a'y's' 'i's' 'o'n'l'y' 'a' 's't'a't'e'm'e'n't' 't'e'm'p'l'e',' 'r'e'l'y'i'n'g' 'o'n' 'A'’'s' 'p'r'o'm'i's'e' 'i'n'c'u'r'e' 'c'e'r'-'
-'o'f' 'i'n't'e'n't'i'o'n' 'a'n'd' 'n'o't' 'o'f'f'e'r'.' 't'a'i'n' 'l'i'a'b'i'l'i't'i'e's'.' 'A' 'l'a't't'e'r' 'o'n' 'd'o'e's' 'n'o't' 'p'a'y' 't'h'e'
-'('b')' 'Y'e's',' 'B' 'c'a'n' 'r'e'c'o'v'e'r' 't'h'e' 'm'o'n'e'y' 'b'e'c'a'u's'e' 'a'm'o'u'n't'.'
-'o'n'c'e' 't'h'e' 'o'f'f'e'r' 'w'a's' 'm'a'd'e' 'a'n'd' 'a'c'c'e'p't'e'd' 'I's's'u'e':' 'C'a'n' 't'r'u's't'e'e' 't'a'k'e' 'a'c't'i'o'n' 'a'g'a'i'n's't' 'A'?'
-'i't' 'h'a'd' 'r'e's'u'l't'e'd' 'i'n't'o' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 'D'e'c'i's'i'o'n':'
-'l'i'a'b'i'l'i't'y' 'a'r'i's'e's'.' '('a')' 'T'r'u's't'e'e' 'c'a'n'n'o't' 't'a'k'e' 'a'c't'i'o'n' 'a'g'a'i'n's't' 'A'
-'b'e'c'a'u's'e' 't'h'e' 'm'e'r'e' 'p'r'o'm'i's'e' 'b'y' 'A' 'd'o'e's'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'n'o't' 'b'i'n'd' 'h'i'm'.'
-'1'2'0'.' 'F'a'c't':' 'A' 'i's' 'i'n' 'd'i'r'e' 'n'e'e'd' 'o'f' 'm'o'n'e'y',' 's'o' 's'e'l'l's'
-'('b')' 'Y'e's',' 't'h'e' 't'r'u's't'e'e' 'c'a'n' 't'a'k'e' 'a'c't'i'o'n' 'b'e'-'
-'h'i's' 'n'e'w'l'y' 'p'u'r'c'h'a's'e'd' 'c'a'r' 'w'o'r't'h' 'R's' '3' 'l'a'k'h's'
-'c'a'u's'e' 't'h'e' 'p'r'o'm'i's'e' 'b'y' 'A' 'l'e'a'd'i'n'g' 't'o'
-'f'o'r' 'R's' '5'0','0'0'0'.' 'L'a't'e'r' 'o'n',' 'h'e' 'w'a'n't's' 't'o' 's'e't'
-'t'h'e' 't'r'u's't'e'e' 'i'n'c'u'r'r'i'n'g' 'c'e'r't'a'i'n' 'l'i'a'b'i'l'i't'i'e's'
-'a's'i'd'e' 't'h'e' 'c'o'n't'r'a'c't' 'o'n' 't'h'e' 'g'r'o'u'n'd' 'o'f' 'i'n'a'd'-'
-'m'a'k'e' 'A' 'l'i'a'b'l'e'.'
-'e'q'u'a'c'y' 'o'f' 'c'o'n's'i'd'e'r'a't'i'o'n'?'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'I's's'u'e':' 'C'a'n' 'h'e' 'd'o' 's'o'?'
-'1'2'4'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 't'o' 'c'o'n't'r'i'b'u't'e' 'R's' '2'0','0'0'0'
-'D'e'c'i's'i'o'n':'
-'t'o'w'a'r'd's' 'N'a't'i'o'n'a'l' 'D'e'f'e'n'c'e' 'F'u'n'd'.' 'H'e' 'd'o'e's'
-'('a')' 'Y'e's',' 'h'e' 'c'a'n' 'd'o' 's'o' 'o'n' 't'h'e' 'g'r'o'u'n'd' 'o'f' 'i'n'-'
-'n'o't' 'p'a'y' 't'h'e' 'p'r'o'm'i's'e'd' 'm'o'n'e'y'.'
-'a'd'e'q'u'a'c'y' 'o'f' 'c'o'n's'i'd'e'r'a't'i'o'n'.'
-'I's's'u'e':' 'C'a'n' 'a'n'y' 'l'e'g'a'l' 'a'c't'i'o'n' 'b'e' 't'a'k'e'n'
-'('b')' 'N'o',' 'h'e' 'c'a'n'n'o't' 'd'o' 's'o' 'b'e'c'a'u's'e' 't'h'e'r'e' 'w'a's'
-'a'g'a'i'n's't' 'h'i'm'?'
-'n'o' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e' 'a'n'd' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'D'e'c'i's'i'o'n':'
-'w'a's' 'v'a'l'i'd'.'
-'('a')' 'Y'e's',' 'h'e' 'c'a'n' 'b'e' 's'u'e'd'.'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')'.'
-'o'f' 'A'.'
-'('c')' 'N'o'.' 'T'h'e' 'm'e'r'e' 'p'r'o'm'i's'e' 'b'y' 'A' 'd'o'e's' 'n'o't'
-'1'2'1'.' 'F'a'c't':' 'W'h'e'n' 'A' 'i's' 'o'u't' 'o'f' 's't'a't'i'o'n' 'o'n' 'h'o'l'i'd'a'y','
-'r'e's'u'l't' 'i'n't'o' 'a'n'y' 'c'o'n't'r'a'c't'.'
-'a' 's't'o'r'm' 'd'a'm'a'g'e's' 't'h'e' 'r'o'o'f' 'h'i's' 'h'o'u's'e'.' 'B' 'h'i's'
-'1'2'5'.' 'F'a'c't':' 'A' 'w'a's' 'b'a'd'l'y' 'i'n' 'n'e'e'd' 'o'f' 'm'o'n'e'y',' 's'o'
-'n'e'i'g'h'b'o'u'r' 'a'n'd' 'f'r'i'e'n'd' 'c'a'r'r'i'e's' 'o'u't' 't'h'e' 'n'e'c'e's'-'
-'h'e' 'o'f'f'e'r'e'd' 't'o' 's'e'l'l' 'h'i's' 'm'o't'o'r' 'c'y'c'l'e' 'w'o'r't'h'
-'s'a'r'y' 'r'e'p'a'i'r's'.' 'O'n' 'c'o'm'i'n'g' 'b'a'c'k',' 'A' 'p'r'o'm'i's'e's'
-'R's' '5'0','0'0'0' 't'o' 'B' 'f'o'r' 'R's' '2'5','0'0'0'.' 'B' 'r'e'f'u's'e'd'
-'t'o' 'p'a'y' 'R's' '1'0','0'0'0' 'f'o'r' 't'h'e' 'e'x'p'e'n's'e's' 'i'n'c'u'r'r'e'd'
-'t'o' 'b'u'y'.' 'A' 'f'u'r't'h'e'r' 'l'o'w'e'r'e'd' 't'h'e' 'p'r'i'c'e' 'u'n't'i'l' 'B'
-'a'n'd' 't'i'm'e' 's'p'e'n't' 'b'y' 'B'.'
-'a'g'r'e'e'd' 't'o' 'p'a'y' 'R's' '2'0','0'0'0'.' 'B'e'f'o'r'e' 't'h'e' 'd'e'l'i'v'-'
-'I's's'u'e':' 'C'a'n' 'B' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't' 'i'f' 'A' 'd'o'e's'
-'e'r'y' 'o'f' 'm'o't'o'r' 'c'y'c'l'e' 't'o' 'B',' 'A' 'r'e'c'e'i'v'e'd' 'a'n'o't'h'-'
-'n'o't' 'p'a'y' 'i't' 'l'a't'e'r' 'o'n'?'
-'e'r' 'a't't'r'a'c't'i'v'e' 'o'f'f'e'r' 'f'r'o'm' 'C',' 'f'o'r' 't'h'e' 'p'u'r'c'h'a's'e'
-'D'e'c'i's'i'o'n':'
-'o'f' 'm'o't'o'r'c'y'c'l'e' 'f'o'r' 'R's' '3'0','0'0'0'.' 'A' 'r'e'f'u's'e'd' 't'o'
-'('a')' 'B' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o'
-'d'e'l'i'v'e'r' 't'h'e' 'm'o't'o'r'c'y'c'l'e' 't'o' 'B' 'a'r'g'u'i'n'g' 't'h'a't'
-'v'a'l'i'd' 'c'o'n't'r'a'c't'.'
-'t'h'e' 'p'u'r'c'h'a's'e' 'p'r'i'c'e' 'w'a's' 'i'n'a'd'e'q'u'a't'e' 'a'n'd'
-'('b')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.'
-'s'e'l'l's' 'i't' 't'o'.'
-'('c')' 'Y'e's',' 'B' 'c'a'n' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't' 'f'r'o'm'
-'I's's'u'e':' 'C'a'n' 'B' 's'u'e' 'A' 'f'o'r' 'd'a'm'a'g'e's'?'
-'A' 'a's' 'p'e'r' 'c'o'n'd'i't'i'o'n's' 'b'e'i'n'g' 'f'u'l'f'i' 'l'l'e'd' 'o'f'
-'D'e'c'i's'i'o'n':'
-'S'e'c't'i'o'n' '2'5'('2')'.'
-'('a')' 'Y'e's',' 'b'e'c'a'u's'e' 'i'n'a'd'e'q'u'a'c'y' 'o'f' 'c'o'n's'i'd'e'r'-'
-'1'2'2'.' 'F'a'c't':' 'A' 'c'a'r' 'b'r'e'a'k's' 'd'o'w'n' 'o'n' 'a' 'r'o'a'd'.' 'A' 'a's'k's'
-'a't'i'o'n' 'i's' 'n'o' 'g'r'o'u'n'd' 'f'o'r' 'a'v'o'i'd'i'n'g' 'a' 'c'o'n'-'
-'B',' 'a' 'p'a's's'e'r'-'b'y',' 't'o' 'h'e'l'p' 'h'i'm' 't'o'w' 'h'i's' 'c'a'r' 't'o' 'a' 't'r'a'c't'.'
-'n'e'a'r'b'y' 'g'a'r'a'g'e'.' 'B' 't'o'w's' 't'h'e' 'c'a'r' 'a'n'd' 'i'n' 'r'e't'u'r'n' '('b')' 'N'o',' 'b'e'c'a'u's'e' 'B' 'w'a's' 'a'l'r'e'a'd'y' 'e'x'p'l'o'i't'i'n'g'
-'A' 'p'r'o'm'i's'e's' 't'o' 'B' 'a't' 't'h'e' 'g'a'r'a'g'e' 'R's' '1'0'0'.' 't'h'e' 's'i't'u'a't'i'o'n' 'o'f' 'A'.'
-'
-'C'I'V'I'L' 'L'A'W' '1'0'5'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'I's's'u'e':' 'C'a'n' 't'h'e' 'V'a'k'i'l' 'c'l'a'i'm' 'R's' '1'0'0'0'?'
-'o'f' 'B' 's'o' 'A' 'i's' 'l'i'a'b'l'e'.' 'D'e'c'i's'i'o'n':'
-'1'2'6'.' 'F'a'c't':' 'A' 'a'n'd' 'B' 'a'r'e' 'f'r'i'e'n'd's'.' 'B' 't'r'e'a't's' 'A' 'd'u'r'-' '('a')' 'Y'e's',' 'V'a'k'i'l' 'c'a'n' 'c'l'a'i'm'.'
-'i'n'g' 'A'’'s' 'i'l'l'n'e's's'.' 'B' 'd'o'e's' 'n'o't' 'a'c'c'e'p't' 'p'a'y'm'e'n't' '('b')' 'V'a'k'i'l' 'c'a'n'n'o't' 'c'l'a'i'm'.'
-'f'r'o'm' 'A' 'f'o'r' 't'h'e' 't'r'e'a't'm'e'n't' 'a'n'd' 'A' 'p'r'o'm'i's'e's' '('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't' 't'o'
-'B'’'s' 's'o'n' 'X' 't'o' 'p'a'y' 'h'i'm' 'R's' '1','0'0'0'.' 'A' 'b'e'i'n'g' 'd'e'c'i'd'e'.'
-'i'n' 'p'o'o'r' 'c'i'r'c'u'm's't'a'n'c'e's' 'i'n' 'u'n'a'b'l'e' 't'o' 'p'a'y'.' 'X' '1'3'0'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 'B' 'h'i's' 'n'e'p'h'e'w',' 'a' 'r'e'w'a'r'd'
-'s'u'e's' 'A' 'f'o'r' 'm'o'n'e'y'.' 'o'f' 'R's' '5'0'0' 'i'f' 'h'e' 'r'e'f'r'a'i'n'e'd' 'f'r'o'm' 's'm'o'k'i'n'g' 'f'o'r'
-'I's's'u'e':' 'C'a'n' 'X' 'r'e'c'o'v'e'r'?' 't'w'o' 'y'e'a'r's'.' 'B' 'd'o'e's' 's'o'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'I's' 'h'e' 'e'n't'i't'l'e'd' 't'o' 't'h'e' 'r'e'w'a'r'd'?'
-'('a')' 'Y'e's',' 'X' 'c'a'n' 'r'e'c'o'v'e'r' 'a's' 'h'i's' 'f'a't'h'e'r' 'B' 'h'a's' 'D'e'c'i's'i'o'n':'
-'a'l'r'e'a'd'y' 'p'e'r'f'o'r'm'e'd' 't'h'e' 'c'o'n'd'i't'i'o'n's' 'o'f' '('a')' 'Y'e's',' 'B' 'i's' 'e'n't'i't'l'e'd' 't'o' 'r'e'w'a'r'd' 'b'e'c'a'u's'e'
-'c'o'n't'r'a'c't' 'f'o'r' 'w'h'i'c'h' 't'h'e' 'p'a'y'm'e'n't' 'i's' 't'o' 'h'e' 'h'a's',' 'a't' 't'h'e' 'd'e's'i'r'e' 'o'f' 'u'n'c'l'e' 'r'e'f'r'a'i'n'e'd'
-'b'e' 'm'a'd'e'.' 'f'r'o'm' 's'm'o'k'i'n'g' 'f'o'r' '2' 'y'e'a'r's'.' 'T'h'i's' 'i's' 'a'
-'('b')' 'X' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 'a'm'o'u'n't' 'f'r'o'm' 'A' 'b'e'-' 'v'a'l'i'd' 'c'o'n's'i'd'e'r'a't'i'o'n' 'a's' 'p'e'r' 'd'e'f'i' 'n'i't'i'o'n'
-'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'i'n' 'S'e'c't'i'o'n' '2'('d')' 'i'n' 't'h'e' 'f'o'r'm' 'o'f' 'a'b's't'i'-'
-'X' 'a'n'd' 'A' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n's'i'd'-' 'n'e'n'c'e'.'
-'e'r'a't'i'o'n'.' 'H'e'n'c'e',' 'n'o' 'c'o'n's'i'd'e'r'a't'i'o'n' 'n'o' '('b')' 'N'o',' 'h'e' 'i's' 'n'o't' 'e'n't'i't'l'e'd' 'b'e'c'a'u's'e' 't'h'e'
-'c'o'n't'r'a'c't'.' 'p'r'o'm'i's'e' 'b'y' 'u'n'c'l'e' 'i's' 'j'u's't' 'a'n' 'i'n'v'i't'a't'i'o'n'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')'.' 't'o' 'o'f'f'e'r' 'a'n'd' 'd'o'e's' 'n'o't' 'a'm'o'u'n't' 'i'n't'o' 'a'n'y'
-'1'2'7'.' 'F'a'c't':' 'X' 'g'i'v'e's' 't'o' 'Y' 'R's' '3'0'0' 't'o' 'b'e' 'g'i'v'e'n' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'n'd' 't'h'e'r'e' 'w'a's' 'n'o' 'v'a'l'i'd'
-'t'o' 'Z'.' 'Y' 'i'n'f'o'r'm's' 'Z' 't'h'a't' 'h'e' 'i's' 'h'o'l'd'i'n'g' 't'h'e'
-'c'o'n's'i'd'e'r'a't'i'o'n'.'
-'m'o'n'e'y' 'f'o'r' 'h'i'm'.' 'B'u't' 'a'f't'e'r'w'a'r'd's' 'Y' 'r'e'f'u's'e's'
-'('c')' 'I't' 'i's' 'a' 'c'o'n't'r'a'c't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'t'o' 'p'a'y' 't'h'e' 'm'o'n'e'y'.' 'Z' 's'u'e's' 'Y' 'f'o'r' 't'h'e' 'm'o'n'e'y'.'
-'o'f' 'u'n'c'l'e'.'
-'Y' 'c'o'n't'e'n'd's' 't'h'a't' 'Z' 'c'a'n'n'o't' 's'u'e' 'a's' 'h'e' 'w'a's'
-'1'3'1'.' 'F'a'c't':' 'A',' 'a' 'M'u's'l'i'm' 'l'a'd'y' 's'u'e's' 'h'e'r' 'f'a't'h'e'r'-'i'n'-'
-'n'o't' 'a' 'p'a'r't'y' 't'o' 't'h'e' 'c'o'n't'r'a'c't'.'
-'l'a'w' 'f'o'r' 't'h'e' 'a'r'r'e'a'r's' 'o'f' 'a'l'l'o'w'a'n'c'e' 'p'a'y'a'b'l'e' 't'o'
-'I's's'u'e':' 'W'i'l'l' 't'h'e' 'c'o'n't'e'n't'i'o'n' 'o'f' 'Y' 'b'e' 'u'p'-'
-'h'e'r' 'b'y' 'h'i'm',' 'u'n'd'e'r' 'a'n' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n'
-'h'e'l'd'?'
-'h'i'm' 'a'n'd' 'h'e'r' 'o'w'n' 'f'a't'h'e'r',' 'i'n' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'D'e'c'i's'i'o'n':'
-'o'n' 'm'a'r'r'i'a'g'e'.'
-'('a')' 'Y'’'s' 'c'o'n't'e'n't'i'o'n' 'w'i'l'l' 'n'o't' 'b'e' 'u'p'h'e'l'd' 'b'e'-'
-'I's's'u'e':' 'W'i'l'l' 's'h'e' 's'u'c'c'e'e'd'?'
-'c'a'u's'e' 'X' 'h'a's' 'c'r'e'a't'e'd' 'p'r'i'v'i't'y' 'o'f' 'c'o'n't'r'a'c't'
-'D'e'c'i's'i'o'n':'
-'b'y' 'h'i's' 'c'o'n'd'u'c't'.'
-'('a')' 'N'o'
-'('b')' 'Y'’'s' 'c'o'n't'e'n't'i'o'n' 'w'i'l'l' 'b'e' 'u'p'h'e'l'd' 'b'e'c'a'u's'e'
-'('b')' 'Y'e's',' 'b'e'c'a'u's'e' 'a'l't'h'o'u'g'h' 's'h'e' 'i's' 'a' 's't'r'a'n'g'e'r'
-'h'e' 'w'a's' 'n'o't' 'p'a'r't'y' 't'o' 'c'o'n't'r'a'c't'.'
-'t'o' 'c'o'n't'r'a'c't',' 'b'u't' 's'h'e' 'c'a'n' 's'u'e' 'a's' 'c'o'n't'r'a'c't'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'.'
-'w'a's' 'm'a'd'e' 'f'o'r' 'h'e'r' 'b'e'n'e'f'i' 't'.'
-'1'2'8'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 't'o' 'g'i'v'e' 'M'r' 'B' 'R's' '5'0'0' 'a's'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'b'i'r't'h'd'a'y' 'p'r'e's'e'n't' 'o'n' 'B'’'s' 'b'i'r't'h'd'a'y'.' 'A' 'f'a'i'l's'
-'1'3'2'.' 'F'a'c't':' 'X' 'w'h'o' 'i's' 'a' 'm'a'j'o'r',' 'p'e'r'f'o'r'm's' 's'o'm'e'
-'t'o' 'f'u'l'f'i' 'l's' 't'h'i's' 'p'r'o'm'i's'e'.' 'M'r' 'B' 'w'a'n't's' 't'o'
-'s'e'r'v'i'c'e's' 'f'o'r' 'B',' 'a' 'm'a'j'o'r' 'a't' 'B'’'s' 'r'e'q'u'e's't'.' 'B' 'o'n'
-'f'i' 'l'e' 'a' 's'u'i't' 'a'g'a'i'n's't' 'A' 'f'o'r' 't'h'e' 'r'e'a'l'i'z'a't'i'o'n' 'o'f'
-'a't't'a'i'n'i'n'g' 't'h'e' 'a'g'e' 'o'f' 'm'a'j'o'r'i't'y',' 'p'r'o'm'i's'e'd' 't'o'
-'a'm'o'u'n't'.'
-'c'o'm'p'e'n's'a't'e' 'X' 'b'y' 'g'i'v'i'n'g' 'h'i'm' 'a' 'p'r'o'm'i's's'o'r'y'
-'I's's'u'e':' 'C'a'n' 'B' 's'u'e' 'A'?'
-'n'o't'e'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'I's' 't'h'e' 'p'r'o'm'i's's'o'r'y' 'n'o't'e' 'v'a'l'i'd'?'
-'('a')' 'B' 'c'a'n'n'o't' 's'u'e' 'A' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o'
-'D'e'c'i's'i'o'n':'
-'c'o'n't'r'a'c't',' 't'h'e' 'm'e'r'e' 'p'r'o'm'i's'e' 'o'f' 'b'i'r't'h'-'
-'('a')' 'N'o',' 'b'e'c'a'u's'e' 'a' 'm'i'n'o'r' 'c'a'n'’'t' 'r'a't'i'f'y' 'a'n' 'a'c't'
-'d'a'y' 'p'r'e's'e'n't' 'o'u't' 'o'f' 'l'o'v'e' 'a'n'd' 'a'f'f'e'c't'i'o'n'
-'d'o'n'e' 'd'u'r'i'n'g' 'm'i'n'o'r'i't'y',' 'e'v'e'n' 'o'n' 'a't't'a'i'n'-'
-'d'o' 'n'o't' 'r'e's'u'l't' 'i'n't'o' 'a'n'y' 'l'e'g'a'l' 'a'g'r'e'e'm'e'n't'
-'i'n'g' 't'h'e' 'a'g'e' 'o'f' 'm'a'j'o'r'i't'y'.'
-'a'n'd' 'h'e'n'c'e' 'n'o' 'l'i'a'b'i'l'i't'y'.'
-'('b')' 'Y'e's',' 't'h'e' 'p'r'o'm'i's's'o'r'y' 'n'o't'e' 'i's' 'v'a'l'i'd' 'o'n'c'e'
-'('b')' 'B' 'c'a'n' 's'u'e' 'A' 'b'e'c'a'u's'e' 'o'n'c'e' 't'h'e' 'p'r'o'm'i's'e'
-'i't' 'h'a's' 'b'e'e'n' 'r'a't'i'f'i' 'e'd' 'a'f't'e'r' 'a't't'a'i'n'i'n'g' 'm'a'-'
-'i's' 'm'a'd'e' 't'h'e' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'a'r'i's'e's'.'
-'j'o'r'i't'y'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.'
-'1'2'9'.' 'F'a'c't':' 'A'f't'e'r' 't'h'e' 'V'a'k'i'l' 'h'a'd' 'a'c'c'e'p't'e'd' 't'h'e'
-'1'3'3'.' 'F'a'c't':' 'A',' 'a' 'm'i'n'o'r',' 'b'o'r'r'o'w'e'd' 'R's' '5'0','0'0'0'
-'c'a's'e' 'a'n'd' 't'h'e' 's'i'g'n'e'd' 't'h'e' 'V'a'k'a'l'a't'n'a'm'a',' 't'h'e'
-'c'l'i'e'n't' 's'a'y's'.' '‘'I'f' 'y'o'u' 'd'o' 'y'o'u'r' 'u't'm'o's't' 't'o' 'w'i'n' 'f'r'o'm' 'B' 'b'y' 'e'x'e'c'u't'i'n'g' 'a' 'm'o'r't'g'a'g'e' 'o'f' 'h'i's'
-'t'h'e' 'c'a's'e'.' 'I' 'w'i'l'l' 'g'i'v'e' 'y'o'u' 'r'u'p'e'e's' 'o'n'e' 't'h'o'u'-' 'p'r'o'p'e'r't'y' 'i'n' 'f'a'v'o'u'r' 'o'f' 'B'.' 'S'u'b's'e'q'u'e'n't'l'y',' 't'h'e'
-'s'a'n'd' 'm'o'r'e'”' 'T'h'e' 'c'a's'e' 'i's' 'w'o'n'.' 'm'i'n'o'r' 's'u'e'd' 'f'o'r' 's'e't't'i'n'g' 'a's'i'd'e' 't'h'e' 'm'o'r't'g'a'g'e'.'
-'
-'I's's'u'e':' 'D'o' 'y'o'u' 't'h'i'n'k' 't'h'a't' 't'h'e' 'm'o'r't'g'a'g'e' 'i's' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't' 'o'n' 't'h'e' 'p'l'e'a' 'o'f' 'h'i's' 'm'i'-'
-'v'a'l'i'd'?' 'C'a'n' 'B' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't' 'a'd'v'a'n'c'e'd' 'n'o'r'i't'y'.' 'C'a'n' 'h'e' 'd'o' 's'o'?'
-'t'o' 'A'?' 'I's's'u'e':' 'W'h'a't' 'a'r'e' 't'h'e' 'o'p't'i'o'n's' 'a'v'a'i'l'a'b'l'e' 't'o'
-'D'e'c'i's'i'o'n':' 'L'?'
-'('a')' 'M'i'n'o'r' 'i's' 'n'o't' 'c'o'm'p'e't'e'n't' 't'o' 'c'o'n't'r'a'c't',' 'D'e'c'i's'i'o'n':'
-'s'o' 'm'i'n'o'r'’'s' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'.' 'T'h'u's' 't'h'e' '('a')' 'A'n' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 'm'i'n'o'r' 'i's' 'v'o'i'd'.'
-'m'o'r't'g'a'g'e' 'e'x'e'c'u't'e'd' 'b'y' 'A' 'i's' 'n'o't' 'v'a'l'i'd' 'B'u't' 'a' 'm'i'n'o'r' 'c'a'n'n'o't' 'd'e'f'r'a'u'd' 'a' 'p'e'r's'o'n'
-'a'n'd' 'B' 'c'a'n'’'t' 'r'e'c'o'v'e'r' 't'h'e' 'm'o'n'e'y' 'l'e'n't' 't'o' 'o'n' 't'h'e' 'p'r'e't'e'x't' 'o'f' 'h'i's' 'm'i'n'o'r'i't'y'.' 'I'n' 't'h'i's'
-'A'.' 'c'a's'e',' 'c'o'u'r't' 'm'a'y' 'd'i'r'e'c't' 't'h'e' 'm'i'n'o'r' 't'o' 'r'e'-'
-'('b')' 'T'h'e' 'B' 'c'a'n' 'r'e'c'o'v'e'r' 't'h'e' 'a'm'o'u'n't' 'o'n'c'e' 's't'o'r'e' 't'h'e' 'c'a'r' 't'o' 'L'.'
-'t'h'e' 'm'i'n'o'r' 'w'i'l'l' 'a't't'a'i'n' 'm'a'j'o'r'i't'y'.' '('b')' 'A'n' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 'm'i'n'o'r' 'i's' 'v'o'i'd' 's'o'
-'('c')' 'I't' 'i's' 'a' 'v'o'i'd'a'b'l'e' 'c'o'n't'r'a'c't' 'a't' 't'h'e' 'o'p't'i'o'n' 'm'i'n'o'r' 'd'o'e's' 'n'o't' 'h'a'v'e' 'a'n'y' 'l'i'a'b'i'l'i't'y'.'
-'o'f' 'm'i'n'o'r'.' '('c')' 'A'n' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'1'3'4'.' 'F'a'c't':' 'A',' 'a'g'e'd' '1'6',' 'a'g'r'e'e'd' 't'o' 'p'u'r'c'h'a's'e' '1'3'7'.' 'F'a'c't':' 'A',' 'a' 'm'i'n'o'r' 'w'h'o' 'w'i's'h'e'd' 't'o' 'b'e'c'o'm'e' 'a'
-'a' 's'e'c'o'n'd' 'h'a'n'd' 'm'o't'o'r'c'y'c'l'e' 'f'r'o'm' 'B' 'f'o'r' 'p'r'o'f'e's's'i'o'n'a'l' 'b'i'l'l'i'a'r'd's' 'p'l'a'y'e'r',' 'e'n't'e'r'e'd' 'i'n' 't'o'
-'R's' '1'2','0'0'0'.' 'H'e' 'p'a'i'd' 'R's' '2','0'0'0' 'a's' 'a'd'v'a'n'c'e' 'a' 'c'o'n't'r'a'c't' 'w'i't'h' 'B',' 'a' 'n'o't'e'd' 'b'i'l'l'i'a'r'd' 'p'a'y'e'r','
-'a'n'd' 'a'g'r'e'e'd' 't'o' 'p'a'y' 't'h'e' 'b'a'l'a'n'c'e' 't'h'e' 'n'e'x't' 'd'a'y' 't'o' 'p'a'y' 'h'i'm' '('B')' 'a' 'c'e'r't'a'i'n' 's'u'm' 'o'f' 'm'o'n'e'y' 't'o'
-'a'n'd' 'c'o'l'l'e'c't' 't'h'e' 'm'o't'o'r'c'y'c'l'e'.' 'W'h'e'n' 'A' 'c'a'm'e' 'l'e'a'r'n' 't'h'e' 'g'a'm'e' 'a'n'd' 'p'l'a'y' 'm'a't'c'h'e's' 'w'i't'h' 'h'i'm'
-'w'i't'h' 't'h'e' 'm'o'n'e'y' 't'h'e' 'n'e'x't' 'd'a'y',' 'B' 's'a'y's' 't'h'a't' 'd'u'r'i'n'g' 'h'i's' 'w'o'r'l'd' 't'o'u'r'.' 'B' 's'p'e'n't' 't'i'm'e' 'a'n'd'
-'h'e' 'h'a's' 'c'h'a'n'g'e'd' 'h'i's' 'm'i'n'd' 'a'n'd' 'o'f'f'e'r'e'd' 't'o' 'r'e'-' 'm'o'n'e'y' 'i'n' 'm'a'k'i'n'g' 'a'r'r'a'n'g'e'm'e'n't's' 'f'o'r' 'b'i'l'-'
-'t'u'r'n' 't'h'e' 'a'd'v'a'n'c'e'.' 'l'i'a'r'd's' 'm'a't'c'h'e's'.'
-'I's's'u'e':' 'C'a'n' 'B' 'd'o' 's'o'?' 'I's's'u'e':' 'I's' 'A' 'l'i'a'b'l'e' 't'o' 'p'a'y'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'Y'e's',' 'b'e'c'a'u's'e' 't'h'e' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 'm'i'-' '('a')' 'N'o',' 'b'e'c'a'u's'e' 't'h'e' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 'm'i'-'
-'n'o'r' 'i's' 'v'o'i'd'.' 'n'o'r' 'i's' 'v'o'i'd'.'
-'('b')' 'N'o',' 'B' 'c'a'n'’'t' 'a'v'o'i'd' 't'h'e' 'a'g'r'e'e'm'e'n't' 's'i'm'-' '('b')' 'Y'e's',' 'a's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'w'a's' 'f'o'r' 'n'e'c'e's'-'
-'p'l'y' 'b'e'c'a'u's'e' 'A' 'i's' 'a' 'm'i'n'o'r' 'a'n'd' 'a'n' 'a'g'r'e'e'-' 's'a'r'i'e's'.' 'N'e'c'e's's'a'r'i'e's' 'i'n'c'l'u'd'e' 'e'd'u'c'a't'i'o'n','
-'m'e'n't' 'w'i't'h' 'm'i'n'o'r' 'i's' 'v'o'i'd' 'a'l't'h'o'u'g'h' 'A' 'i's' 't'r'a'i'n'i'n'g' 'f'o'r' 't'r'a'd'e',' 'm'e'd'i'c'a'l' 's'e'r'v'i'c'e's'
-'a' 'm'i'n'o'r' 'b'u't' 'l'a'w' 'd'o'e's' 'n'o't' 'p'r'e'v'e'n't' 'h'i'm' 'e't'c'.'
-'f'r'o'm' 'b'e'c'o'm'i'n'g' 'a' 'p'r'o'm'i's'e' 'o'r' 'b'e'n'e'f'i' '-' '('c')' 'T'h'i's' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p'-'
-'c'i'a'r'y'.' 't'i'o'n' 'o'f' 'B'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'.' '1'3'8'.' 'F'a'c't':' 'X',' 'a' 'm'i'n'o'r' 'b'o'r'r'o'w'e'd' 'f'r'o'm' 'Y',' 'a' 's'u'm'
-'1'3'5'.' 'F'a'c't':' 'M',' 'a' 'm'i'n'o'r',' 'a' 'u'n'd'e'r' 'a' 'c'o'n't'r'a'c't' 'o'f' 'o'f' 'R's' '1'0','0'0'0' 't'h'e' 'p'a'y'm'e'n't' 'o'f' 't'h'e' 'l'o'a'n' 'w'a's'
-'s'a'l'e' 'd'e'l'i'v'e'r'e'd' 'g'o'o'd's' 't'o' 't'h'e' 'b'u'y'e'r'.' 'T'h'e' 'g'u'a'r'a'n't'e'e'd' 'b'y' 'Z' 'w'h'o' 'i's' 'm'a'j'o'r'.' 'X' 'r'e'f'u's'e's'
-'b'u'y'e'r' 'l'a't'e'r' 'o'n' 's'a'i'd',' '“'I' 'w'i'l'l' 'n'o't' 'p'a'y' 'y'o'u' 't'h'e' 't'o' 'p'a'y'.'
-'p'r'i'c'e'.' 'Y'o'u' 'a'r'e' 'a' 'm'i'n'o'r' 'a'n'd' 'y'o'u' 'c'a'n'n'o't' 's'u'e' 'I's's'u'e':' 'C'a'n' 'Y' 'h'o'l'd' 'Z' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'm'o'n'-'
-'m'e'.'”' 'e'y'?'
-'I's's'u'e':' 'I's' 't'h'e' 'b'u'y'e'r' 'r'i'g'h't' 'i'n' 's'a'y'i'n'g' 's'o'?' 'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':' '('a')' 'N'o',' 'Y' 'c'a'n'n'o't' 'h'o'l'd' 'Z' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'Z'
-'('a')' 'N'o',' 'b'e'c'a'u's'e' 'a'l't'h'o'u'g'h' 'a'n' 'a'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'p'a'r't'y' 't'o' 'c'o'n't'r'a'c't'.'
-'w'i't'h' 'o'r' 'b'y' 'm'i'n'o'r' 'i's' 'v'o'i'd' 'b'u't' 'a' 'm'i'n'o'r' '('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')'
-'c'a'n' 'b'e' 'a' 'p'r'o'm'i's'e' 'o'r' 'b'e'n'e'f'i' 'c'i'a'r'y'.' '('c')' 'Y'e's',' 'Y' 'c'a'n' 'h'o'l'd' 'Z' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'm'o'n'-'
-'('b')' 'Y'e's',' 'b'e'c'a'u's'e' 't'h'e' 'a'g'r'e'e'm'e'n't' 'o'f' 't'h'e' 'e'y'.' 'T'h'e' 'r'u'l'e' 'i's':' 'I'f' 'a'n' 'a'd'u'l't' 's't'a'n'd's' 's'u'r'e'-'
-'m'i'n'o'r' 'i's' 'v'o'i'd' 'h'e'n'c'e' 't'h'e'r'e' 'i's' 'n'o' 'a'g'r'e'e'-' 't'y' 'f'o'r' 'a' 'm'i'n'o'r',' 't'h'e' 'a'd'u'l't' 'i's' 'l'i'a'b'l'e' 't'o' 't'h'e'
-'m'e'n't',' 'n'o' 'l'i'a'b'i'l'i't'y'.' 'c'r'e'd'i't'o'r's' 't'h'o'u'g'h' 'm'i'n'o'r' 'i's' 'n'o't' 'p'e'r's'o'n'-'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'.' 'a'l'l'y' 'l'i'a'b'l'e'.'
-'1'3'6'.' 'F'a'c't':' 'S',' 'a' 'm'i'n'o'r' 'b'y' 'f'r'a'u'd'u'l'e'n't'l'y' 'r'e'p'r'e'-' '1'3'9'.' 'F'a'c't':' 'S',' 'a' 'm'i'n'o'r' 'a'g'r'e'e'd' 't'o' 't'a'k'e' '5'0'0' 's'h'a'r'e's'
-'s'e'n't'i'n'g' 'h'i'm's'e'l'f' 't'o' 'b'e' 'f'u'l'l' 'a'g'e',' 'e'n't'e'r's' 'i'n't'o' 'o'f' 'r'u'p'e'e's' 't'e'n' 'e'a'c'h' 'i'n' 'a' 'c'o'm'p'a'n'y' 'a'n'd' 'p'a'i'd'
-'a'n' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 'L',' 'f'o'r' 's'e'l'l'i'n'g' 'h'i's' '('S'’'s')' 'r'u'p'e'e's' 'f'i' 'v'e' 'o'n' 'e'a'c'h' 's'h'a'r'e'.' 'H'e' 'r'e'c'e'i'v'e'd' 'n'o'
-'p'r'o'p'e'r't'l'y'.' 'U'n'd'e'r' 't'h'e' 'a'g'r'e'e'm'e'n't' 'S' 'r'e'c'e'i'v'e's' 'd'i'v'i'd'e'n'd' 'o'n' 't'h'e' 's'h'a'r'e's'.' 'W'h'i'l'e' 's't'i'l'l' 'a' 'm'i'-'
-'t'h'e' 'f'u'l'l' 'a'm'o'u'n't' 'o'f' 'R's' '5' 'l'a'k'h's' 'i'n' 'a'd'v'a'n'c'e' 'n'o'r' 'h'e' 'r'e'p'u'd'i'a't'e'd' 't'h'e' 'c'o'n't'r'a'c't' 'a'n'd' 'b'r'o'u'g'h't'
-'f'r'o'm' 'L' 'a'n'd' 'u's'e's' 'i't' 'f'o'r' 'p'u'r'c'h'a's'i'n'g' 'a' 'n'e'w' 'a'n' 'a'c't'i'o'n' '('i')' 't'o' 'r'e'c'o'v'e'r' 't'h'e' 'm'o'n'e'y' 'h'e' 'h'a'd'
-'c'a'r' 'w'o'r't'h' 'R's' '3' 'l'a'k'h's' 'a'n'd' 's'p'e'n'd's' 't'h'e' 'b'a'l'-' 'p'a'i'd',' 'a'n'd' '('i'i')' 'f'o'r' 'd'e'c'l'a'r'a't'i'o'n' 't'h'a't' 'h'e' 'w'a's'
-'a'n'c'e' 'o'n' 'a' 'w'o'r'l'd' 't'o'u'r'.' 'L'a't'e'r' 'o'n',' 'S' 't'r'i'e's' 't'o' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'f'u't'u'r'e' 'c'a'l'l's'.'
-'
-'C'I'V'I'L' 'L'A'W' '1'0'7'
-'I's's'u'e':' 'W'i'l'l' 'h'e' 's'u'c'c'e'e'd'?' '('c')' 'Y'e's',' 'b'u't' 'o'n'l'y' 'm'i'n'o'r'’'s' 'p'r'o'p'e'r't'y' 'i's' 'l'i'-'
-'D'e'c'i's'i'o'n':' 'a'b'l'e'.'
-'('a')' 'S' 'a' 'm'i'n'o'r' 'w'i'l'l' 's'u'c'c'e'e'd' 'b'e'c'a'u's'e' 'm'i'-' '1'4'3'.' 'F'a'c't':' 'A' 'g'r'o'c'e'r' 's'u'p'p'l'i'e'd' 'c'e'r't'a'i'n' 'n'e'c'e's's'a'r'-'
-'n'o'r' 'c'a'n'n'o't' 'a'p'p'l'y' 'f'o'r' 's'h'a'r'e's' 'a'n'd' 'm'a'k'e' 'i'e's' 't'o' 'M',' 'a' 'm'i'n'o'r' 'm'a'k'e's' 'a' 'p'r'o'm'i's's'o'r'y' 'n'o't'e'
-'h'i'm's'e'l'f' 'l'i'a'b'l'e' 'f'o'r' 'f'u't'u'r'e' 'c'a'l'l's'.' 'H'o'w'e'v'-' 'i'n' 'f'a'v'o'u'r' 'o'f' 'g'r'o'c'e'r'.'
-'e'r',' 'f'u'l'l'y' 'p'a'i'd' 's'h'a'r'e's' 'c'a'n' 'b'e' 't'r'a'n's'f'e'r'r'e'd' 'I's's'u'e':' 'C'a'n' 't'h'e' 'g'r'o'c'e'r' 'c'l'a'i'm' 'p'a'y'm'e'n't' 'f'r'o'm'
-'i'n' 'h'i's' 'n'a'm'e'.' 'M' 'u'n'd'e'r' 't'h'e' 'p'r'o'm'i's's'o'r'y' 'n'o't'e'?'
-'('b')' 'S' 'w'i'l'l' 'n'o't' 's'u'c'c'e'e'd' 'b'e'c'a'u's'e' 't'h'e' 'm'i'n'o'r' 'D'e'c'i's'i'o'n':'
-'c'a'n'n'o't' 't'a'k'e' 'd'i's'a'd'v'a'n't'a'g'e' 'o'f' 'h'i's' 'm'i'-' '('a')' 'G'r'o'c'e'r' 'c'a'n' 'c'l'a'i'm' 'p'a'y'm'e'n't' 'o'n'l'y' 'f'r'o'm'
-'n'o'r'i't'y'.' 'M'’'s' 'e's't'a't'e' 'a'n'd' 'n'o't' 'f'r'o'm' 'm'i'n'o'r' 'p'e'r's'o'n'-'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'.' 'a'l'l'y'.'
-'1'4'0'.' 'F'a'c't':' 'A'n' 'i'n'f'a'n't' 'm'a'd'e' 't'h'e' 'f'o'l'l'o'w'i'n'g' 'c'o'n'-' '('b')' 'N'o',' 't'h'e' 'g'r'o'c'e'r' 'c'a'n'n'o't' 'c'l'a'i'm' 'a'n'y' 'p'a'y'-'
-'t'r'a'c't's':' '('i')' 'a'n' 'e'n'g'a'g'e'm'e'n't' 't'o' 'm'a'r'r'y' 'a' 'g'i'r'l',' 'm'e'n't' 'b'e'c'a'u's'e' 'a'g'r'e'e'm'e'n't' 'w'i't'h' 't'h'e' 'm'i'-'
-'('i'i')' 'a' 'c'r'e'd'i't' 'p'u'r'c'h'a's'e' 'o'f' 'a'n' 'e'n'g'a'g'e'm'e'n't' 'n'o'r' 'i's' 'v'o'i'd'.'
-'r'i'n'g' 'f'o'r' 'h'i's' 'f'i' 'a'n'c'e'e' '('i'i'i')' 'a' 'h'i'r'e'-'p'u'r'c'h'a's'e' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'c'o'n't'r'a'c't' 'f'o'r' 'a' 's'e't' 'o'f' 'g'o'l'd' 'c'l'u'b's'.' 'H'e' 'n'o'w' '1'4'4'.' 'F'a'c't':' 'A' 'p'u'r'c'h'a's'e'd' 'a' 'm'a'c'h'i'n'e' 'f'r'o'm' 'd'e'a'l'e'r','
-'w'i's'h'e's' 't'o' 'c'a'l'l' 'o'f'f' 'h'i's' 'e'n'g'a'g'e'm'e'n't'.' 'r'e'l'y'i'n'g' 'o'n' 't'h'e' 'd'e'a'l'e'r'’'s' 'r'e'p'r'e's'e'n't'a't'i'o'n' 't'h'a't'
-'I's's'u'e':' 'I's' 'h'e' 'l'i'a'b'l'e' 'u'p'o'n' 'a'n'y' 'o'f' 't'h'e' 'a'b'o'v'e' 'i't' 'w'a's' 'a' 'n'e'w' 'm'o'd'e'l'.' 'A'f't'e'r' 'p'a'y'i'n'g' 't'h'e' 'p'u'r'-'
-'c'o'n't'r'a'c't's'?' 'c'h'a's'e' 'p'r'i'c'e',' 'A' 'c'a'm'e' 't'o' 'k'n'o'w' 't'h'a't' 't'h'e' 'm'a'-'
-'D'e'c'i's'i'o'n':' 'c'h'i'n'e' 'w'a's' 'n'o't' 'n'e'w' 'b'u't' 'a'n' 'o'l'd' 'o'n'e'.'
-'I's's'u'e':' 'W'h'a't' 'a'r'e' 't'h'e' 'l'e'g'a'l' 'r'i'g'h't's' 'o'f' 'A'?'
-'('a')' 'H'e' 'i's' 'n'o't' 'l'i'a'b'l'e' 'u'p'o'n' 'a'n'y' 'o'f' 't'h'e's'e'
-'D'e'c'i's'i'o'n':'
-'c'o'n't'r'a'c't's'.' '('i')' 'i's' 'i'n'v'a'l'i'd' 'b'e'c'a'u's'e' 'i't' 'i's'
-'('a')' 'A' 'c'a'n'n'o't' 's'u'e' 't'h'e' 'd'e'a'l'e'r' 'b'e'c'a'u's'e' 't'h'e'
-'p'r'o'h'i'b'i't'e'd' 'u'n'd'e'r' 'C'h'i'l'd' 'M'a'r'r'i'a'g'e' 'R'e'-'
-'m'a'x'i'm' 'o'f' 'c'a'v'e'a't' 'e'm'p't'o'r' 'a'p'p'l'i'e's' 'o'n'
-'s't'r'a'i'n't' 'A'c't'.' '('2')' 'a'n'd' '('3')' 'a'r'e' 'n'o't' 'n'e'c'e's'-'
-'h'i'm' 'a'n'd' 'i't' 'd'e'b'a'r's' 'h'i'm' 't'o' 's'u'e' 't'h'e' 'd'e'a'l'-'
-'s'a'r'i'e's' 'o'f' 'l'i'f'e'.' 'S'o',' 'h'e' 'i's' 'n'o't' 'l'i'a'b'l'e' 'u'p'o'n'
-'e'r'.'
-'a'n'y' 'c'o'n't'r'a'c't'.'
-'('b')' 'A' 'c'a'n' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't' 'o'n' 't'h'e' 'g'r'o'u'n'd'
-'('b')' 'H'e' 'c'a'n' 'b'e' 'h'e'l'd' 'l'i'a'b'l'e' 'f'o'r' 'e'n'g'a'g'e'm'e'n't'
-'o'f' 'f'r'a'u'd' 'a'n'd' 'g'e't' 't'h'e' 'd'a'm'a'g'e's' 'f'r'o'm' 't'h'e'
-'w'i't'h' 'm'i'n'o'r' 'g'i'r'l'.'
-'d'e'a'l'e'r'.'
-'('c')' 'T'h'o'u'g'h' 'h'e' 'c'a'n'n'o't' 'b'e' 'h'e'l'd' 'l'i'a'b'l'e' 'f'o'r'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'e'n'g'a'g'e'm'e'n't' 'w'i't'h' 'g'i'r'l' 'b'u't' 'h'e' 'c'a'n' 'b'e'
-'1'4'5'.' 'F'a'c't':' 'A' 'a'd'v'a'n'c'e's' 'a' 's'u'm' 'o'f' 'm'o'n'e'y' 't'o'
-'h'e'l'd' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'c'r'e'd'i't' 'o'f' 'r'i'n'g' 'a'n'd'
-'h'i's' 's'o'n',' 'B' 'd'u'r'i'n'g' 'h'i's' 'm'i'n'o'r'i't'y'.' 'W'h'e'n' 'B'
-'t'h'e' 'c'o'n't'r'a'c't' 'f'o'r' 'h'i'g'h'e'r' 'p'u'r'c'h'a's'e' 'o'f'
-'b'e'c'o'm'e's' 'm'a'j'o'r',' 'A' 'b'y' 'm'i's'u's'i'n'g' 'h'i's' 'p'a'-'
-'g'o'l'd' 'c'l'u'b's'.'
-'r'e'n't'a'l' 'i'n'f'l' 'u'e'n'c'e',' 'g'e't's' 'a' 'b'o'n'd' 'f'r'o'm' 'B',' 'o'f'
-'1'4'1'.' 'F'a'c't':' 'M',' 'a' 'g'u'a'r'd'i'a'n' ',' 'o'n' 'b'e'h'a'l'f' 'o'f' 'a' 'm'i'n'o'r','
-'a'n' 'a'm'o'u'n't' 'm'o'r'e' 't'h'a'n' 't'h'e' 'a'm'o'u'n't' 'd'u'e'.' 'B'
-'L' 'e'n't'e'r'e'd' 'i'n't'o' 'a' 'c'o'n't'r'a'c't' 'w'i't'h' 'S' 'f'o'r' 'p'u'r'-'
-'r'e'f'u's'e's' 't'o' 'g'i'v'e' 't'h'e' 'a'm'o'u'n't' 's't'a't'e'd' 'i'n' 't'h'e'
-'c'h'a's'e' 'o'f' 'c'e'r't'a'i'n' 'p'r'o'p'e'r't'y' 'f'o'r' 't'h'e' 'b'e'n'e'f'i' 't' 'o'f'
-'b'o'n'd'.'
-'L'.'
-'I's's'u'e':' 'I's' 'B' 'b'o'u'n'd' 'b'y' 't'h'e' 'b'o'n'd'?'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd'?'
-'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':'
-'('a')' 'N'o',' 'B' 'i's' 'n'o't' 'b'o'u'n'd' 'b'y' 't'h'e' 'b'o'n'd'.' 'C'o'n'-'
-'('a')' 'N'o',' 'i't' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'t'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f' 'B' 'b'e'-'
-'a'n'y' 'c'o'n't'r'a'c't' 'w'i't'h' 't'h'e' 'm'i'n'o'r' 'o'r' 'o'n' 'h'i's'
-'i'n'g' 'c'a'u's'e'd' 'b'y' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.'
-'b'e'h'a'l'f' 'i's' 'v'o'i'd'.'
-'('b')' 'B' 'i's' 'b'o'u'n'd' 'b'y' 't'h'e' 'b'o'n'd'.'
-'('b')' 'Y'e's',' 'p'r'o'v'i'd'e'd' 'i't' 'i's' 'w'i't'h'i'n' 't'h'e' 's'c'o'p'e' 'o'f'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't' 't'o'
-'g'u'a'r'd'i'a'n'’'s' 'a'u't'h'o'r'i't'y'.'
-'d'e'c'i'd'e'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'.'
-'1'4'6'.' 'F'a'c't':' 'L' 'w'a's' 't'h'e' 'h'i'g'h'e's't' 'b'i'd'd'e'r' 'a't' 'a'n' 'a'u'c'-'
-'1'4'2'.' 'F'a'c't':' 'A' 'm'i'n'o'r' 'b'r'o'k'e' 'h'i's' 'e'l'b'o'w' 'w'h'i'l'e' 'p'l'a'y'-'
-'t'i'o'n' 's'a'l'e' 'o'f' 'a' 'p'u'b'l'i'c' 'p'l'o't'.' 'A't' 't'h'e' 't'i'm'e' 'o'f'
-'i'n'g' 'f'o'o't'b'a'l'l' 'g'a'm'e'.' 'H'e' 'w'e'n't' 't'o' 't'h'e' 'd'o'c't'o'r'
-'m'a'k'i'n'g' 't'h'e' 'b'i'd',' 'L' 'b'e'l'i'e'v'e'd' 't'h'a't' 'c'e'r't'a'i'n'
-'f'o'r' 't'r'e'a't'm'e'n't'.'
-'f'i' 'e'l'd' 'w'a's' 't'h'e' 'p'a'r't' 'o'f' 'p'l'o't' 'o'f'f'e'r'e'd' 'f'o'r' 's'a'l'e'.'
-'I's's'u'e':' 'D'o'e's' 't'h'e' 'd'o'c't'o'r' 'h'a's' 'a'n'y' 'c'l'a'i'm' 'f'o'r'
-'L'a't'e'r' 'h'e' 'f'o'u'n'd' 'o'u't' 't'h'a't' 'i't' 'w'a's' 'n'o't' 't'h'e' 'p'a'r't'
-'h'i's' 's'e'r'v'i'c'e's'?'
-'o'f' 'p'l'o't' 'a'n'd' 't'h'e' 's'e'l'l'e'r' 'n'e'v'e'r' 's'a'i'd' 's'o'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'L' 'w'a'n't's' 't'o' 'c'a'n'c'e'l' 't'h'e' 'c'o'n't'r'a'c't',' 'c'a'n'
-'('a')' 'N'o',' 'b'e'c'a'u's'e' 't'h'e' 'm'i'n'o'r' 'd'o'e's' 'n'o't' 'o'w'e' 'h'e' 'd'o' 's'o'?'
-'a'n'y' 'l'i'a'b'i'l'i't'y'.' 'D'e'c'i's'i'o'n':'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')'.' '('a')' 'L' 'c'a'n' 'n'o't' 'c'a'n'c'e'l' 't'h'e' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e'
-'
-'i'n' 't'h'i's' 'c'a's'e' 'o'n'l'y' 'L' 'i's' 'm'i's't'a'k'e'n'.' 'T'h'u's' 'i't' 'p'r'e't'e'x't' 'o'f' 's'h'o'w'i'n'g' 't'h'e'm' 't'o' 'h'e'r' 'h'u's'b'a'n'd'
-'i's' 'a' 'c'a's'e' 'o'f' 'u'n'i'l'a't'e'r'a'l' 'm'i's't'a'k'e'.' 'b'e'f'o'r'e' 'b'u'y'i'n'g'.' 'S'h'e' 'l'a't'e'r' 'o'n' 'p'l'e'd'g'e's' 't'h'e'm'
-'('b')' 'L' 'c'a'n' 'c'a'n'c'e'l' 'a's' 'i't' 'i's' 'n'o't' 'a' 'v'a'l'i'd' 'c'o'n'-' 'w'i't'h' 'a' 'b'r'o'k'e'r',' 'w'h'o' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'g'i'v'e's' 'R's' '5'
-'t'r'a'c't' 'b'e'c'a'u's'e' 't'h'e' 'c'o'n't'r'a'c't' 'e'n't'e'r'e'd' 'i'n't'o' 'l'a'k'h' 't'o' 't'h'e' 'l'a'd'y'.' 'T'h'e' 'j'e'w'e'l'l'e'r' 'o'n' 'k'n'o'w'i'n'g'
-'w'a's' 'm'i's't'a'k'e'n'.' 't'h'i's',' 'f'i' 'l'e's' 'a' 's'u'i't' 'a'g'a'i'n's't' 't'h'e' 'b'r'o'k'e'r'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' 'I's's'u'e':' 'W'h'a't' 'w'i'l'l' 'b'e' 't'h'e' 'l'e'g'a'l' 'p'o's'i't'i'o'n' 'i'n'
-'1'4'7'.' 'F'a'c't':' 'A',' 'c'o'n't'r'a'c't's' 'w'i't'h' 'B' 't'o' 'b'u'y' 'a' 'n'e'c'k'-' 't'h'i's' 'c'a's'e'?'
-'l'a'c'e',' 'b'e'l'i'e'v'i'n'g' 'i't' 't'o' 'b'e' 'm'a'd'e' 'o'f' 'v'e'r'y' 'c'o's't'l'y' 'D'e'c'i's'i'o'n':'
-'r'a'r'e' 'p'e'a'r'l's',' 'w'h'i'l'e' 'i'n' 'r'e'a'l'i't'y',' 't'h'e' 'p'e'a'r'l's' 'a'r'e' '('a')' 'T'h'e' 'j'e'w'e'l'l'e'r's' 'c'a'n'n'o't' 'g'e't' 'b'a'c'k' 't'h'e'
-'o'n'l'y' 'a'n' 'i'm'i't'a't'i'o'n' 'h'a'v'i'n'g' 'v'e'r'y' 'l'i't't'l'e' 'v'a'l'u'e'.' 'n'e'c'k'l'a'c'e' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o' 'p'r'i'v'i't'y' 'o'f'
-'B' 'k'n'o'w's' 't'h'a't' 'A' 'i's' 'm'i's't'a'k'e'n' 'b'u't' 'd'o'e's' 'n'o't' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 't'h'e' 'j'e'w'e'l'l'e'r' 'a'n'd' 't'h'e'
-'d'i's'c'l'o's'e' 't'h'e' 'f'a'c't'.' 'b'r'o'k'e'r'.'
-'I's's'u'e':' 'I's' 'A' 'b'o'u'n'd' 'b'y' 't'h'e' 'c'o'n't'r'a'c't'?' '('b')' 'T'h'e' 'b'r'o'k'e'r' 'd'o'e's' 'n'o't' 'g'e't' 'g'o'o'd' 't'i't'l'e'
-'D'e'c'i's'i'o'n':' 'o'v'e'r' 't'h'e' 'j'e'w'e'l'l'e'r'y',' 's'o' 'j'e'w'e'l'l'e'r' 'c'a'n' 'g'e't'
-'('a')' 'N'o',' 'A' 'i's' 'n'o't' 'b'o'u'n'd' 'b'y' 't'h'e' 'c'o'n't'r'a'c't' 'b'e'-' 'b'a'c'k' 't'h'e' 'n'e'c'k'l'a'c'e' 'f'r'o'm' 't'h'e' 'b'r'o'k'e'r'.'
-'c'a'u's'e' 'i't' 'i's' 'n'o't' 'a' 'u'n'i'l'a't'e'r'a'l' 'm'i's't'a'k'e'.' '('c')' 'T'h'e' 'j'e'w'e'l'l'e'r' 'c'a'n' 's'u'e' 't'h'e' 'l'a'd'y'.'
-'1'5'1'.' 'F'a'c't':' 'A',' 'i's' 'a'n' 'i'l'l'i't'e'r'a't'e' 'o'l'd' 'm'a'n' 'o'f' 'a'b'o'u't'
-'('b')' 'Y'e's',' 'b'e'c'a'u's'e' 't'h'e' 'r'u'l'e' 'o'f' 'c'a'v'e'a't' 'e'm'p't'o'r'
-'9'0' 'y'r's',' 'p'h'y's'i'c'a'l'l'y' 'i'n'f'i' 'r'm' 'a'n'd' 'm'e'n't'a'l'l'y' 'i'n'
-'w'i'l'l' 'a'p'p'l'y'.'
-'d'i's't'r'e's's'.' 'H'e' 'm'a'd'e' 'a' 'g'i'f't' 'o'f' 'h'i's' 'e'n't'i'r'e' 'p'r'o'p'-'
-'('c')' 'N'o',' 'A' 'i's' 'n'o't' 'b'o'u'n'd' 'b'y' 't'h'e' 'c'o'n't'r'a'c't' 'b'e'-'
-'e'r't'y' 'i'n' 'f'a'v'o'u'r' 'o'f' 'B',' 'h'i's' 'n'e'a'r'e's't' 'r'e'l'a't'i'v'e'
-'c'a'u's'e' 't'h'e' 'r'u'l'e' 'o'f' 'c'a'v'e'a't' 'v'e'n'd'i't'o'r' 'a'p'-'
-'w'h'o' 'w'a's' 'l'o'o'k'i'n'g' 'a'f't'e'r' 'h'i'm' '('A')' 'a'n'd' 'h'i's'
-'p'l'i'e's' 'o'n' 'B'.'
-'b'u's'i'n'e's's'.'
-'1'4'8'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 'b'u'y' 'c'e'r't'a'i'n' 'h'o'r's'e' 'f'r'o'm'
-'I's's'u'e':' 'C'a'n' 'A' 's'u'b's'e'q'u'e'n't'l'y' 'a'v'o'i'd' 't'h'e' 'c'o'n'-'
-'B' 'f'o'r' 'R's' '1'0','0'0'0' 'a'n'd' 'p'a'y's' 'R's' '5','0'0'0' 'a's' 'a'd'-'
-'t'r'a'c't' 'o'f' 'g'i'f't'?' 'I'f' 's'o',' 'o'n' 'w'h'a't' 'g'r'o'u'n'd'?'
-'v'a'n'c'e's'.' 'I't' 't'u'r'n's' 'o'u't' 't'h'a't' 't'h'e' 'h'o'r's'e' 'w'a's' 'd'e'a'd'
-'D'e'c'i's'i'o'n':'
-'a't' 't'h'e' 't'i'm'e' 'o'f' 'b'a'r'g'a'i'n',' 't'h'o'u'g'h' 'n'e'i't'h'e'r' 'p'a'r't'y'
-'('a')' 'N'o',' 'A' 'c'a'n'n'o't' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't' 'o'f' 'g'i'f't'
-'k'n'e'w' 't'h'i's' 'f'a'c't'.'
-'b'e'c'a'u's'e' 't'h'e' 'g'i'f't' 'h'a's' 'b'e'e'n' 'm'a'd'e' 'v'o'l'u'n'-'
-'I's's'u'e':' 'C'a'n' 'A' 'r'e'c'o'v'e'r' 't'h'e' 'a'd'v'a'n'c'e' 'm'o'n'e'y'
-'t'a'r'i'l'y'.'
-'g'i'v'e'n'?'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')'
-'D'e'c'i's'i'o'n':'
-'('c')' 'Y'e's',' 'A' 'c'a'n' 'a'v'o'i'd' 't'h'e' 'c'o'n't'r'a'c't' 'o'f' 'g'i'f't'
-'('a')' 'N'o',' 'A' 'c'a'n'n'o't' 'g'e't' 't'h'e' 'm'o'n'e'y' 'b'a'c'k' 'b'e'-'
-'o'n' 't'h'e' 'p'l'e'a' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e',' 'S'e'c'-'
-'c'a'u's'e' 'm'o'n'e'y' 'a'd'v'a'n'c'e'd' 'i's' 'n'o't' 'r'e't'u'r'n'-'
-'t'i'o'n' '1'6'('2')'.'
-'a'b'l'e'.'
-'1'5'2'.' 'F'a'c't':' 'A' 'r'a'i'l'w'a'y' 'c'o'm'p'a'n'y' 'r'e'f'u's'e's' 't'o' 'd'e'-'
-'('b')' 'A' 'c'a'n'n'o't' 'g'e't' 't'h'e' 'm'o'n'e'y' 'b'a'c'k' 'b'e'c'a'u's'e'
-'l'i'v'e'r' 'c'e'r't'a'i'n' 'g'o'o'd's' 't'o' 't'h'e' 'c'o'n's'i'g'n'e'e' 'u'n'-'
-'t'h'e' 'r'u'l'e' 'o'f' 'c'a'v'e'a't' 'e'm'p't'o'r' 'a'p'p'l'i'e's' 'o'n'
-'l'e's's' 't'h'e' 'c'o'n's'i'g'n'e'e' 'p'a'y's' 'a'n' 'i'l'l'e'g'a'l' 'c'h'a'r'g'e'
-'h'i'm'.'
-'f'o'r' 't'h'e' 'c'a'r'r'i'a'g'e'.' 'T'h'e' 'c'o'n's'i'g'n'e'e' 'p'a'y's' 't'h'e'
-'('c')' 'Y'e's',' 'A' 'c'a'n' 'g'e't' 't'h'e' 'm'o'n'e'y' 'p'a'i'd' 'i'n'
-'a'm'o'u'n't' 'd'e'm'a'n'd'e'd' 't'o' 'g'e't' 't'h'e' 'g'o'o'd's'.'
-'a'd'v'a'n'c'e' 'b'e'c'a'u's'e' 'i'n' 't'h'i's' 'c'a's'e' 't'h'e'r'e' 'i's'
-'I's's'u'e':' 'C'a'n' 'c'o'n's'i'g'n'e'e' 'g'e't' 'b'a'c'k' 't'h'e'
-'b'i'l'a't'e'r'a'l' 'm'i's't'a'k'e' 'a's' 't'o' 't'h'e' 's'u'b'j'e'c't' 'm'a't'-'
-'a'm'o'u'n't'?'
-'t'e'r'.'
-'D'e'c'i's'i'o'n':'
-'1'4'9'.' 'F'a'c't':' 'M' 'b'u'y's' 'a' 'p'a'i'n't'i'n'g' 'f'r'o'm' 'N',' 'w'h'i'c'h' '('a')' 'Y'e's',' 't'h'e' 'c'o'n's'i'g'n'e'e' 'c'a'n' 'g'e't' 'h'i's' 'm'o'n'e'y'
-'b'o't'h' 'b'e'l'i'e'v'e' 't'o' 'b'e' 't'h'e' 'o'r'i'g'i'n'a'l' 'w'o'r'k' 'o'f' 'a' 'b'a'c'k' 'b'e'c'a'u's'e' 'c'o'e'r'c'i'o'n' 'w'a's' 'a'p'p'l'i'e'd' 'f'o'r'
-'g'r'e'a't' 'a'r't'i's't'.' 'M' 't'h'e'r'e'f'o'r'e' 'p'a'y's' 'a' 'h'i'g'h' 'p'r'i'c'e' 'g'e't't'i'n'g' 'i'l'l'e'g'a'l' 'c'h'a'r'g'e's'.'
-'f'o'r' 't'h'e' 'p'a'i'n't'i'n'g' 'b'u't' 'l'a't'e'r' 'o'n' 'd'i's'c'o'v'e'r' 't'h'a't' '('b')' 'N'o' 't'h'e' 'c'o'n's'i'g'n'e'e' 'c'a'n'n'o't' 'g'e't' 'h'i's' 'm'o'n'-'
-'i't' 'i's' 'o'n'l'y' 'a' 'm'o'd'e'r'n' 'c'o'p'y' 'o'f' 'a'n' 'o'l'd' 'o'n'e'.' 'e'y' 'b'a'c'k' 'b'e'c'a'u's'e' 't'h'e' 'm'o'n'e'y' 'g'i'v'e'n' 'f'o'r'
-'I's's'u'e':' 'W'h'a't' 'c'a'n' 'M' 'd'o' 'n'o'w'?' 'i'l'l'e'g'a'l' 'p'u'r'p'o's'e's' 'c'a'n'n'o't' 'b'e' 'r'e't'u'r'n'e'd'
-'D'e'c'i's'i'o'n':' 'b'a'c'k'.'
-'('a')' 'M' 'c'a'n' 'd'o' 'n'o't'h'i'n'g' 'b'e'c'a'u's'e' 't'h'e' 'd'o'c'-' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'t'r'i'n'e' 'o'f' 'c'a'v'e'a't' 'e'm'p't'o'r' 'w'i'l'l' 'a'p'p'l'y'.' '1'5'3'.' 'F'a'c't':' 'A' 't'h'r'e'a't'e'n's' 't'o' 's'h'o'o't' 'C' '('B'’'s' 's'o'n')','
-'('b')' 'M' 'c'a'n' 's'u'e' 'N'.' 'i'f' 'B' 'd'o'e's' 'n'o't' 'r'e'l'e'a's'e' 'h'i'm' '('A')' 'f'r'o'm' 'a' 'd'e'b't'
-'('c')' 'I't' 'i's' 'a'n' 'a'g'r'e'e'm'e'n't' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p'-' 'w'h'i'c'h' 'A' 'o'w'e's' 't'o' 'B'.' 'B' 's'i'g'n's' 'n'e'c'e's's'a'r'y'
-'t'i'o'n' 'o'f' 'M'.' 'd'o'c'u'm'e'n't's' 'a'n'd' 't'h'u's' 'r'e'l'e'a's'e's' 'A' 'u'n'd'e'r' 't'h'e'
-'1'5'0'.' 'F'a'c't':' 'A' 'l'a'd'y' 'b'y' 'f'a'l's'e'l'y' 'r'e'p'r'e's'e'n't'i'n'g' 'h'e'r'-' 't'h'r'e'a't'.'
-'s'e'l'f' 't'o' 'b'e' 'w'i'f'e' 'o'f' 'a' 'm'i'l'l'i'o'n'a'i'r'e',' 'o'b't'a'i'n's' 'I's's'u'e':' 'C'a'n' 'B' 'g'e't' 'b'a'c'k' 'h'i's' 'l'o'a'n' 'a'f't'e'r'-'
-'c'o's't'l'y' 'n'e'c'k'l'a'c'e's' 'f'r'o'm' 'a' 'j'e'w'e'l'l'e'r',' 'o'n' 't'h'e' 'w'a'r'd's'?'
-'
-'C'I'V'I'L' 'L'A'W' '1'0'9'
-'D'e'c'i's'i'o'n':' 'c'a's'e' 'a'r'e' 's'u'c'h' 't'h'a't',' 'i't' 'i's' 't'h'e' 'd'u't'y' 'o'f' 't'h'e'
-'('a')' 'B' 'c'a'n' 'g'e't' 'b'a'c'k' 'h'i's' 'l'o'a'n' 'a'm'o'u'n't',' 'a's' 'h'i's' 'p'e'r's'o'n' 'k'e'e'p'i'n'g' 's'i'l'e'n'c'e' 't'o' 's'p'e'a'k',' 't'h'e'
-'c'o'n's'e'n't' 'f'o'r' 'r'e'l'e'a's'e' 'w'a's' 'o'b't'a'i'n'e'd' 'b'y' 's'i'l'e'n'c'e' 'i's' '‘'c'o'n's't'r'u'c't'i'v'e' 'f'r'a'u'd'’' 'e'.'g'.',' 'i'n'
-'c'o'e'r'c'i'o'n'.' 'c'o'n't'r'a'c't's' 'o'f' '‘'u't'm'o's't' 'g'o'o'd' 'f'a'i't'h'’'.' 'S'i'n'c'e'
-'('b')' 'N'o',' 'B' 'c'a'n'n'o't' 'g'e't' 'b'a'c'k' 'h'i's' 'l'o'a'n' 'a'f't'e'r'-' 't'h'e' 'r'e'l'a't'i'o'n's'h'i'p' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's'
-'w'a'r'd's'.' 'f'i' 'd'u'c'i'a'r'y' 'i'n' 'n'a't'u'r'e'.' 'A' 'i's' 'u'n'd'e'r' 'd'u't'y' 't'o'
-'('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.' 'd'i's'c'l'o's'e' 'a'l'l' 'f'a'c't's' 't'o' 'B'.'
-'1'5'4'.' 'F'a'c't':' 'A' 's'e'l'l's' 'a' 'h'o'r's'e' 't'o' 'B' 'k'n'o'w'i'n'g' 't'h'a't' 't'h'e' '('c')' 'A' 'c'a'n'n'o't' 'b'e' 'h'e'l'd' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 't'h'e'
-'h'o'r's'e' 'i's' 'v'i'c'i'o'u's'.' 'A' 'd'o'e's' 'n'o't' 'd'i's'c'l'o's'e' 't'h'e' 'r'u'l'e' 'o'f' 'c'a'v'e'a't' 'e'm'p't'o'r' 'a'p'p'l'i'e's' 'o'n' 'B'.'
-'n'a't'u'r'e' 'o'f' 't'h'e' 'h'o'r's'e' 't'o' 'B'.' '1'5'7'.' 'F'a'c't':' 'X',' 'a' 'p'a't'i'e'n't' 'o'f' 'T'.'B'.' 'i's' 'i'n'd'u'c'e'd' 'b'y'
-'I's's'u'e':' 'I's' 't'h'e' 's'a'l'e' 'v'a'l'i'd'?' 'Y' 'h'i's' 'm'e'd'i'c'a'l' 'a't't'e'n'd'a'n't' 't'o' 'a'g'r'e'e' 't'o' 'p'a'y' 'Y'
-'D'e'c'i's'i'o'n':' 'a'n' 'u'n'r'e'a's'o'n'a'b'l'e' 's'u'm' 'f'o'r' 'h'i's' 'p'r'o'f'e's's'i'o'n'a'l'
-'('a')' 'Y'e's',' 't'h'e' 's'a'l'e' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 'A' 'i's' 'u'n'-' 's'e'r'v'i'c'e's'.'
-'d'e'r' 'n'o' 'o'b'l'i'g'a't'i'o'n' 't'o' 'd'i's'c'l'o's'e' 't'h'e' 'n'a'-' 'I's's'u'e':' 'C'a'n' 'Y' 'e'n'f'o'r'c'e' 't'h'e' 'a'g'r'e'e'm'e'n't'?'
-'t'u'r'e' 'o'f' 'h'o'r's'e' 't'o' 'B',' 't'h'e' 'r'u'l'e' 'o'f' '‘'C'a'v'e'a't' 'D'e'c'i's'i'o'n':'
-'E'm'p't'o'r'’' 'b'e'i'n'g' 'a'p'p'l'i'c'a'b'l'e'.' '('a')' 'Y'e's' 'Y' 'c'a'n' 'e'n'f'o'r'c'e' 't'h'e' 'a'g'r'e'e'm'e'n't' 'b'e'-'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')' 'c'a'u's'e' 'i't' 'i's' 'a' 'p'r'o'f'e's's'i'o'n'a'l' 'd'e'a'l' 'a'n'd' 'Y'
-'('c')' 'N'o' 's'a'l'e' 'i's' 'n'o't' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e'r'e' 'h'a's' 'h'a's' 'd'e'm'a'n'd'e'd' 'f'o'r' 'h'i's' 's'e'r'v'i'c'e's' 't'o' 'b'e'
-'b'e'e'n' 'm'i's'r'e'p'r'e's'e'n't'a't'i'o'n'.' 'r'e'n'd'e'r'e'd'.'
-'1'5'5'.' 'F'a'c't':' 'A' 'f'r'a'u'd'u'l'e'n't'l'y' 'i'n'f'o'r'm's' 'B' 't'h'a't' 'A'’'s' '('b')' 'T'h'i's' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p'-'
-'h'o'u's'e' 'i'f' 'f'r'e'e' 'f'r'o'm' 'e'n'c'u'm'b'r'a'n'c'e's'.' 'B' 't'h'e'r'e'-' 't'i'o'n' 'o'f' 'X',' 'a' 'T'.'B'.' 'p'a't'i'e'n't'.' 'Y' 'w'i'l'l' 'h'a'v'e'
-'u'p'o'n' 'b'u'y's' 't'h'e' 'h'o'u's'e'.' 'T'h'e' 'h'o'u's'e' 'i's' 's'u'b'j'e'c't' 't'o' 'p'r'o'v'e' 't'h'a't' 'c'o'n't'r'a'c't' 'w'a's' 'n'o't' 'i'n'd'u'c'e'd'
-'t'o' 'a' 'm'o'r't'g'a'g'e'.' 'b'y' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.'
-'I's's'u'e':' 'W'h'a't' 'a'r'e' 't'h'e' 'r'i'g'h't's' 'o'f' 'B'?' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'D'e'c'i's'i'o'n':' '1'5'8'.' 'F'a'c't':' 'A' 'b'e'i'n'g' 'i'n'd'e'b't'e'd' 't'o' 'B',' 't'h'e' 'm'o'n'e'y'
-'('a')' 'B' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 'b'a'c'k' 't'h'e' 'm'o'n'e'y' 'l'e'n'd'e'r' 'o'f' 'h'i's' 'v'i'l'l'a'g'e',' 'c'o'n't'r'a'c't's' 'a' 'f'r'e's'h' 'l'o'a'n'
-'n'o'r' 'c'a'n' 'r'e's'c'i'n'd' 't'h'e' 'c'o'n't'r'a'c't' 'n'o'r' 'c'a'n' 'o'n' 't'e'r'm's' 'w'h'i'c'h' 'a'p'p'e'a'r' 't'o' 'b'e' 'u'n'c'o'n's'c'i'o'-'
-'a's'k' 't'h'e' 's'e'l'l'e'r' 't'o' 'r'e'd'e'e'm' 't'h'e' 'm'o'r't'g'a'g'e' 'n'a'b'l'e'.'
-'b'e'c'a'u's'e' 't'h'e' 'r'u'l'e' 'o'f' 'c'a'v'e'a't' 'e'm'p't'o'r' 'a'p'-' 'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd'?'
-'p'l'i'e's' 'o'n' 'h'i'm'.' 'D'e'c'i's'i'o'n':'
-'('b')' 'B' 'c'a'n' 'e'i't'h'e'r' 'r'e's'c'i'n'd' 't'h'e' 'c'o'n't'r'a'c't' 'o'r' 'h'e' '('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd'.'
-'c'a'n' 'a's'k' 'f'o'r' 'r'e's't'i't'u't'i'o'n' 'a'n'd' 'i'n's'i's't' 't'h'a't' '('b')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd'.'
-'t'h'e' 'c'o'n't'r'a'c't' 's'h'a'l'l' 'b'e' 'p'e'r'f'o'r'm'e'd'.' 'B' 'c'a'n' '('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'i'f' 't'h'e' 'c'r'e'd'i't'o'r'
-'a's'k' 't'h'e' 's'e'l'l'e'r' 't'o' 'r'e'd'e'e'm' 't'h'e' 'm'o'r't'g'a'g'e' 'r'e'b'u't's' 't'h'e' 'a's's'u'm'p't'i'o'n' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'-'
-'a'n'd' 'c'a'r'r'y' 'o'u't' 't'h'e' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'a'c'-' 'e'n'c'e'.'
-'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '1'7' '‘'f'r'a'u'd'’' 'm'e'a'n's' '1'5'9'.' 'F'a'c't':' 'A' 'a'p'p'l'i'e's' 't'o' 'a' 'b'a'n'k'e'r' 'f'o'r' 'a' 'l'o'a'n' 'a't'
-'a'n'd' 'i'n'c'l'u'd'e's' 'a'n'y' 'a'c't' 'o'r' 'o'm'i's's'i'o'n' 'a's' 'a' 't'i'm'e' 'w'h'e'n' 't'h'e'r'e' 'i's' 'a' 's't'r'i'n'g'e'n'c'y' 'i'n' 't'h'e'
-'t'h'e' 'l'a'w' 's'p'e'c'i'a'l'l'y' 'd'e'c'l'a'r'e's' 't'o' 'b'e' 'f'r'a'u'd'-' 'm'o'n'e'y' 'm'a'r'k'e't'.' 'T'h'e' 'b'a'n'k'e'r' 'r'e'f'u's'e's' 't'o'
-'u'l'e'n't'.' 'U'n'd'e'r' 's'e'c't'i'o'n' '5'5' 'o'f' 'T'r'a'n's'f'e'r' 'o'f' 'm'a'k'e' 't'h'e' 'l'o'a'n' 'e'x'p'e'c't' 'a't' 'a'n' 'u'n'u's'u'a'l'l'y' 'h'i'g'h'
-'P'r'o'p'e'r't'y' 'A'c't',' 's'e'l'l'e'r' 'o'f' 'i'm'm'o'v'e'a'b'l'e' 'r'a't'e' 'o'f' 'i'n't'e'r'e's't'.' 'A' 'a'c'c'e'p't's' 't'h'e' 'l'o'a'n' 'o'n' 't'h'e's'e'
-'p'r'o'p'e'r't'y' 'i's' 'b'o'u'n'd' 't'o' 'd'i's'c'l'o's'e' 't'o' 't'h'e' 't'e'r'm's'.'
-'b'u'y'e'r' 'a'l'l' 'm'a't'e'r'i'a'l' 'd'e'f'e'c't's' 'i'n' 't'h'e' 'p'r'o'p'-' 'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'i'n'd'u'c'e'd' 'b'y' 'u'n'd'u'e'
-'e'r't'y' 'o'r' 'i'n' 's'e'l'l'e'r'’'s' 't'i't'l'e' '('e'.'g'.',' 't'h'e' 'p'r'o'p'-' 'i'n'f'l' 'u'e'n'c'e'?'
-'e'r't'y' 'i's' 'm'o'r't'g'a'g'e'd')'.' 'D'e'c'i's'i'o'n':'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('a')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd'.'
-'1'5'6'.' 'F'a'c't':' 'B',' 'A'’'s' 'd'a'u'g'h't'e'r' 'h'a's' 'j'u's't' 'c'o'm'e' 't'o' '('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'b'e'c'a'u's'e' 'i't'
-'a'g'e'.' 'A' 's'e'l'l's' 't'o' 'B' 'a' 'h'o'r's'e' 'w'h'i'c'h' 'A' 'k'n'o'w's' 'h'a's' 'b'e'e'n' 'c'a'u's'e'd' 'b'y' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.'
-'t'o' 'b'e' 'u'n's'o'u'n'd'.' 'A' 's'a'y's' 'n'o't'h'i'n'g' 't'o' 'B' 'a'b'o'u't' '('c')' 'N'o',' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'i'n'f'l' 'u'e'n'c'e'd' 'b'y'
-'t'h'e' 'h'o'r's'e'’'s' 'u'n's'o'u'n'd'n'e's's'.' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.' 'I't' 'i's' 'a' 't'r'a'n's'a'c't'i'o'n' 'i'n'
-'I's's'u'e':' 'D'o'e's' 'A'’'s' 's'i'l'e'n'c'e' 'a'm'o'u'n't' 't'o' 'f'r'a'u'd'?' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'b'u's'i'n'e's's' 'a'n'd'
-'D'e'c'i's'i'o'n':' 'd'o'e's' 'n'o't' 'f'a'l'l' 'i'n' 't'h'e' 'c'a't'e'g'o'r'y' 'o'f' 'u'n'c'o'n'-'
-'('a')' 'N'o',' 'm'e'r'e' 's'i'l'e'n'c'e' 'i's' 'n'o't' 'f'r'a'u'd'.' 's'c'i'o'n'a'b'l'e' 't'r'a'n's'a'c't'i'o'n's'.'
-'('b')' 'A's' 'a' 'r'u'l'e',' 'm'e'r'e' 's'i'l'e'n'c'e' 'i's' 'n'o't' 'f'r'a'u'd'.' '1'6'0'.' 'F'a'c't':' 'A'n' 'a'g'e'n't' 'r'e'f'u's'e'd' 't'o' 'h'a'n'd' 'o'v'e'r' 't'h'e'
-'H'o'w'e'v'e'r',' 'i'f' 't'h'e' 'c'i'r'c'u'm's't'a'n'c'e's' 'o'f' 't'h'e' 'a'c'c'o'u'n't' 'b'o'o'k's' 'o'f' 't'h'e' 'b'u's'i'n'e's's' 'a't' 't'h'e' 'e'n'd'
-'
-'o'f' 't'h'e' 't'e'r'm' 'o'f' 'o'f'f'i' 'c'e' 't'o' 'a' 'n'e'w' 'a'g'e'n't' 's'e'n't' 'h'a's' 'b'e'e'n' 'a' 't'a'n'g'i'b'l'e' 'c'o'n's'i'd'e'r'a't'i'o'n' 'f'r'o'm'
-'i'n' 'h'i's' 'p'l'a'c'e' 'u'n'l'e's's' 't'h'e' 'p'r'i'n'c'i'p'a'l' 'g'a'v'e' 'h'i'm' 'b'o't'h' 't'h'e' 's'i'd'e's'.'
-'a' 'r'e'l'e'a's'e' 'f'r'o'm' 'a'l'l' 'l'i'a'b'i'l'i't'i'e's'.' 'T'h'e' 'p'r'i'n'c'i'p'a'l' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'g'a'v'e' 'h'i'm' 't'h'e' 'r'e'l'e'a's'e' 'i'n' 'o'r'd'e'r' 't'o' 'g'e't' 't'h'e' '1'6'4'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 'p'a'y' 'B' 'R's' '1'0','0'0'0' 'i'f' 'B'
-'b'o'o'k's'.' 'm'a'r'r'i'e's' 'C'.' 'C' 'w'a's' 'a'l'r'e'a'd'y' 'm'a'r'r'i'e'd' 't'o' 'D' 'a't'
-'I's's'u'e':' 'I's' 't'h'e' 'r'e'l'e'a's'e' 'v'a'l'i'd'?' 't'h'e' 't'i'm'e' 'o'f' 'a'g'r'e'e'm'e'n't'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'a't' 'w'i'l'l' 'b'e' 't'h'e' 'l'e'g'a'l' 'p'o's'i't'i'o'n'?'
-'('a')' 'T'h'e' 'r'e'l'e'a's'e' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'o' 'd'e'm'a'n'd' 'D'e'c'i's'i'o'n':'
-'o'n'e'’'s' 'o'w'n' 'r'i'g'h't's' 'i's' 'n'o't' 'u'n'l'a'w'f'u'l'.' '('a')' 'A'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's' 'v'o'i'd'.'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')' '('b')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'('c')' 'T'h'e' 'r'e'l'e'a's'e' 'd'e'e'd' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' '('c')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'o'p't'i'o'n' 'o'f' 'p'r'i'n'c'i'p'a'l' 'b'e'c'a'u's'e' 'i't' 'w'a's' 'B'.'
-'o'b't'a'i'n'e'd' 'b'y' 'e'm'p'l'o'y'i'n'g' 'c'o'e'r'c'i'o'n'.' 'T'h'e' '1'6'5'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 's'e'l'l' 't'o' 'B' '“'1'0'0' 't'o'n'n'e's' 'o'f'
-'a'g'e'n't' 'h'a'd' 't'h'r'e'a't'e'n'e'd' 't'o' 'd'e't'a'i'n' 'a'c'c'o'u'n't' 'o'i'l'”'.' 'A' 'd'e'a'l's' 'i'n' 'a' 'w'i'd'e' 'v'a'r'i'e't'y' 'o'f' 'o'i'l's' 'a'n'd'
-'b'o'o'k's' 'b'e'l'o'n'g'i'n'g' 't'o' 't'h'e' 'p'r'i'n'c'i'p'a'l'.' 't'h'e'r'e' 'i's' 'n'o't'h'i'n'g' 't'o' 's'h'o'w' 'w'h'a't' 'k'i'n'd' 'o'f' 'o'i'l'
-'1'6'1'.' 'F'a'c't':' 'A'’'s' 's'o'n' 'h'a'd' 'B'’'s' 'n'a'm'e' 'o'n' 'a' 'p'r'o'm'i's'-' 'w'a's' 'i'n't'e'n'd'e'd'.'
-'I's's'u'e':' 'I's' 'i't' 'a' 'c'o'n't'r'a'c't'?'
-'s'o'r'y' 'n'o't'e'.' 'B' 'u'n'd'e'r' 't'h'r'e'a't' 'o'f' 'p'r'o's'e'c't'i'n'g' 'A'’'s'
-'D'e'c'i's'i'o'n':'
-'s'o'n' 'o'b't'a'i'n's' 'a' 'b'o'n'd' 'f'r'o'm' 'A' 'f'o'r' 't'h'e' 'a'm'o'u'n't'
-'('a')' 'Y'e's',' 't'h'e'r'e' 'i's' 'a' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 't'h'e'
-'o'f' 't'h'e' 'f'o'r'g'e'd' 'n'o't'e'.' 'B' 's'u'e's' 'o'n' 't'h'i's' 'b'o'n'd'.'
-'m'e'r'e' 's'p'e'c'i'f'i' 'c'a't'i'o'n' 'o'r' 'n'o'n'-'s'p'e'c'i'f'i' 'c'a'-'
-'I's's'u'e':' 'W'i'l'l' 'h'e' 's'u'c'c'e'e'd'?'
-'t'i'o'n' 'r'e'g'a'r'd'i'n'g' 't'h'e' 'p'u'r'c'h'a's'e' 'o'f' 'a' 'p'a'r'-'
-'D'e'c'i's'i'o'n':'
-'t'i'c'u'l'a'r' 'o'i'l' 'd'o'e's' 'n'o't' 'v'i't'i'a't'e' 't'h'e' 'v'a'l'i'd'i't'y'
-'('a')' 'N'o',' 'c'o'u'r't' 'w'i'l'l' 's'e't' 'a's'i'd'e' 't'h'e' 'b'o'n'd' 'o'b'-'
-'o'f' 'c'o'n't'r'a'c't' 's'o' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a'n'd'
-'t'a'i'n'e'd' 'b'y' 'B' 'f'r'o'm' 'A' 'u'n'd'e'r' 'S'e'c't'i'o'n' '1'9'
-'e'n'f'o'r'c'e'a'b'l'e'.'
-'A'.' 'W'h'e'n' 'c'o'n's'e'n't' 'o'f' 'o'n'e' 'p'a'r't'y' 'h'a's' 'b'e'e'n'
-'('b')' 'N'o',' 't'h'e'r'e' 'i's' 'n'o' 'c'o'n't'r'a'c't' 'b'e'c'a'u's'e' 'u'n'-'
-'o'b't'a'i'n'e'd' 'b'y' 'c'o'e'r'c'i'o'n',' 'f'r'a'u'd' 'o'r' 'm'i's'r'e'p'-'
-'c'e'r't'a'i'n'i't'y' 'i's' 'i'n'v'o'l'v'e'd'.'
-'r'e's'e'n't'a't'i'o'n',' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't'
-'('c')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n' 'o'f'
-'t'h'e' 'o'p't'i'o'n' 'o'f' 't'h'e' 'a'g'g'r'i'e'v'e'd' 'p'a'r't'y'.'
-'B'.'
-'('b')' 'Y'e's',' 'B' 'w'i'l'l' 'w'i'n' 't'h'e' 'c'a's'e'.'
-'1'6'6'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 's'e'l'l' 'a' 'h'o'r's'e' 't'o' 'B' 'f'o'r'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'R's' '1'0','0'0'0' 'i'f' 'i't' 'w'i'n's' 'a' 'r'a'c'e' 'a'n'd' 'R's' '1'0'0' 'i'f' 'i't'
-'1'6'2'.' 'F'a'c't':' 'M' 'a'n' 'o'l'd' 'm'a'n' 'o'f' 'p'o'o'r' 's'i'g'h't' 'e'n'd'o'r's'e'd'
-'d'o'e's' 'n'o't'.' 'T'h'e' 'h'o'r's'e' 'w'i'n's' 't'h'e' 'r'a'c'e' 'b'u't' 'B' 'r'e'-'
-'a' 'b'i'l'l' 'o'f' 'e'x'c'h'a'n'g'e' 'o'f' 'R's' '3','0'0'0' 't'h'i'n'k'i'n'g'
-'f'u's'e's' 't'o' 'p'a'y' 'R's' '1'0','0'0'0' 'a'n'd' 'b'u'y' 't'h'e' 'h'o'r's'e'.'
-'t'h'a't' 'i't' 'w'a's' 'a' 'g'u'a'r'a'n't'e'e'.'
-'I's's'u'e':' 'C'a'n' 'A' 'c'o'm'p'e'l' 'B' 't'o' 'b'u'y' 't'h'e' 'h'o'r's'e'?'
-'I's's'u'e':' 'I's' 'M' 'l'i'a'b'l'e' 't'o' 'p'a'y' 't'h'e' 'a'm'o'u'n't'?'
-'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':'
-'('a')' 'C'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'a'n'd' 'h'e'n'c'e' 'e'n'f'o'r'c'e'-'
-'('a')' 'N'o',' 'M' 'i's' 'n'o't' 'l'i'a'b'l'e' 't'o' 'p'a'y' 't'h'e'
-'a'b'l'e'.'
-'a'm'o'u'n't'.'
-'('b')' 'A'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's' 'a' 'w'a'-'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')'
-'g'e'r' 's'o' 't'h'e' 'c'o'n't'r'a'c't' 'i's' 'n'o't' 'v'a'l'i'd' 'a'n'd'
-'('c')' 'Y'e's',' 'M' 'i's' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'i'g'n'o'r'a'n'c'e' 'o'f'
-'h'e'n'c'e' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e'.'
-'l'a'w' 'i's' 'n'o' 'e'x'c'u's'e'.'
-'('c')' 'C'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'1'6'3'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e'd' 't'o' 'p'a'y' 'R's' '1'5'0' 'p'e'r' 'm'o'n't'h'
-'1'6'7'.' 'F'a'c't':' 'M' 'p'r'o'm'i's'e's' 't'o' 'm'a'r'r'y' 'S' 'a'n'd' 'n'o' 'o'n'e'
-'t'o' 'h'i's' 'w'i'f'e' 's'o' 'l'o'n'g' 's'h'e' 'r'e'm'a'i'n'e'd' 'a'w'a'y' 'e'l's'e' 'a'n'd' 't'o' 'p'a'y' 'R's' '2' 'l'a'k'h's' 'i'n' 'c'a's'e' 'o'f' 'd'e'-'
-'f'r'o'm' 'h'i'm' 'a'n'd' 'd'i'd' 'n'o't' 'o'b'j'e'c't' 't'o' 'h'i's' 'l'i'v'i'n'g' 'f'a'u'l't'.' 'M' 'm'a'r'r'i'e's' 'R',' 'S' 's'u'e's' 'M' 'f'o'r' 't'h'e'
-'i'n' 'a'd'u'l't'e'r'y'.' 'p'r'o'm'i's'e'd' 'm'o'n'e'y' 'b'u't' 'M' 'r'e'f'u's'e's' 't'o' 'p'a'y'.'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?' 'I's's'u'e':' 'W'h'a't' 'w'i'l'l' 'b'e' 't'h'e' 'l'e'g'a'l' 'p'o's'i't'i'o'n'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'N'o',' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd',' 'b'e'c'a'u's'e' 't'h'e' '('a')' 'S' 'c'a'n'n'o't' 'r'e'c'o'v'e'r' 'a'n'y't'h'i'n'g' 'f'r'o'm' 'A',' 'b'e'-'
-'c'o'n's'i'd'e'r'a't'i'o'n' 'i's' 's'u'c'h' 't'h'a't' 'i't' 'd'e'f'e'a't's' 'c'a'u's'e' 't'h'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'M' 'a'n'd' 'S'
-'t'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'H'i'n'd'u' 'L'a'w'.' 'U'n'd'e'r' 'w'a's' 'i'n' 'r'e's't'r'a'i'n't' 'o'f' 'm'a'r'r'i'a'g'e'.'
-'H'i'n'd'u' 'L'a'w',' 'a'f't'e'r' 'm'a'r'r'i'a'g'e' 'h'u's'b'a'n'd' '('b')' 'S' 'c'a'n' 's'u'e' 'b'e'c'a'u's'e' 'M' 'h'a's' 'm'a'd'e' 'a' 'f'r'a'u'd'
-'a'n'd' 'w'i'f'e' 'a'r'e' 't'o' 'l'i'v'e' 't'o'g'e't'h'e'r' 'a'n'd' 'a'd'u'l'-' 'u'p'o'n' 'S'.'
-'t'e'r'y' 'i's' 'p'u'n'i's'h'a'b'l'e' 'u'n'd'e'r' 'I'n'd'i'a'n' 'P'e'n'a'l' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'C'o'd'e'.' '1'6'8'.' 'F'a'c't':' 'A' 'a' 'd'e'b't'o'r' 'a'g'r'e'e's' 'w'i't'h' 'h'i's' 'm'o'n'e'y'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e'r'e' 'l'e'n'd'e'r' 't'h'a't' 'h'e' 'w'o'u'l'd' 'n'o't',' 'w'i't'h'o'u't' 't'h'e' 'm'o'n'-'
-'
-'C'I'V'I'L' 'L'A'W' '1'1'1'
-'e'y' 'l'e'n'd'e'r'’'s' 'w'r'i't't'e'n' 'c'o'n's'e'n't',' 'l'e'a'v'e' 'h'i's' 'j'o'b',' 'D'e'c'i's'i'o'n':'
-'o'r' 'b'o'r'r'o'w' 'm'o'n'e'y' 'o'r' 'd'i's'p'o's'e' 'o'f' 'h'i's' 'p'r'o'p'-' '('a')' 'N'o',' 'b'e'c'a'u's'e' 'i't' 'i's' 'o'p'p'o's'e'd' 't'o' 'p'u'b'l'i'c'
-'e'r't'y' 'o'r' 'c'h'a'n'g'e' 'h'i's' 'r'e's'i'd'e'n'c'e'.' 'p'o'l'i'c'y'.'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?' '('b')' 'Y'e's',' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'a' 'v'a'l'i'd' 'c'o'n's'i'd'e'r'-'
-'D'e'c'i's'i'o'n':' 'a't'i'o'n'.'
-'('a')' 'A'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'v'a'l'i'd'.' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'('b')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.' '1'7'3'.' 'F'a'c't':' 'A' 'b'o'r'r'o'w's' 'R's' '5'0','0'0'0' 'f'r'o'm' 'B' 'f'o'r'
-'('c')' 'A'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.' 'd'o'i'n'g' 'g'a'm'b'l'i'n'g'.' 'A' 's'u'b's'e'q'u'e'n't'l'y' 'd'o'e's' 'n'o't'
-'1'6'9'.' 'F'a'c't':' 'A',' 'a' 't'a'i'l'o'r',' 'e'm'p'l'o'y's' 'B' 'a's' 'h'i's' 'a's's'i's'-' 'r'e't'u'r'n' 't'h'e' 'm'o'n'e'y'.'
-'t'a'n't' 'u'n'd'e'r' 'a' 'c'o'n't'r'a'c't' 'b'y' 'w'h'i'c'h' 'B' 'a'g'g'r'e's's' 'I's's'u'e':' 'C'a'n' 'B' 's'u'e' 'A'?'
-'n'o't' 't'o' 'c'a'r'r'y' 'o'n' 't'h'e' 'b'u's'i'n'e's's' 'a's' 'a' 't'a'i'l'o'r' 'D'e'c'i's'i'o'n':'
-'w'i't'h'i'n' '6' 'k'm' 'o'f' 'A' 's'h'o'p',' 'o'n' 't'h'e' 't'e'r'm'i'n'a't'i'o'n' '('a')' 'B' 'c'a'n' 'd'o' 'n'o't'h'i'n'g',' 'b'e'c'a'u's'e' 'B' 'k'n'e'w' 't'h'e'
-'o'f' 'h'i's' 'e'm'p'l'o'y'm'e'n't'.' 'p'u'r'p'o's'e' 'f'o'r' 'w'h'i'c'h' 'A' 't'o'o'k' 't'h'e' 'm'o'n'e'y'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd'?' 'w'a's' 'u'n'l'a'w'f'u'l' 'a'n'd' 'a'g'a'i'n's't' 't'h'e' 'p'u'b'l'i'c'
-'D'e'c'i's'i'o'n':' 'p'o'l'i'c'y'.'
-'('a')' 'T'h'e' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'B' 'i's' 'n'o't' '('b')' 'B' 'c'a'n' 's'u'e' 'A' 'b'e'c'a'u's'e' 'i't' 'd'o'e's' 'n'o't' 'm'a't'-'
-'v'a'l'i'd' 'b'e'i'n'g' 'a'n' 'a'g'r'e'e'm'e'n't' 'i'n' 'r'e's't'r'a'i'n't' 't'e'r' 'f'o'r' 'w'h'i'c'h' 't'h'e' 'm'o'n'e'y' 'h'a's' 'b'e'e'n' 'b'o'r'-'
-'o'f' 't'r'a'd'e'.' 'r'o'w'e'd'.'
-'('b')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 't'h'e'r'e' 'i's' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'n'o' 'u's'e' 'o'f' 'u'n'd'u'e' 'i'n'f'l' 'u'e'n'c'e'.' '1'7'4'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 'B' 't'o' 'd'r'o'p' 'a' 'p'r'o's'e'c'u't'i'o'n'
-'('c')' 'T'h'e' 'c'o'n't'r'a'c't' 'i's' 'v'o'i'd'a'b'l'e'.' 'w'h'i'c'h' 'h'e' 'h'a's' 'i'n's't'i't'u't'e'd' 'a'g'a'i'n's't' 'B' 'f'o'r' 't'h'e'f'-'
-'1'7'0'.' 'F'a'c't':' 'X' 'l'e'n'd's' 'R's' '2'0','0'0'0' 't'o' 'Y' 't'o' 'e'n'a'b'l'e' 'Y' 't'a'n'd' 'i'n' 'r'e't'u'r'n' 'B' 's'h'a'l'l' 'r'e's't'o'r'e' 't'h'e' 'g'o'o'd's' 't'o'
-'t'o' 'o'b't'a'i'n' 'd'i'v'o'r'c'e' 'f'r'o'm' 'h'e'r' 'h'u's'b'a'n'd'.' 'Y' 'i'n' 'A'.'
-'t'u'r'n' 'p'r'o'm'i's'e's' 't'h'a't' 's'h'e' 'w'i'l'l' 'm'a'r'r'y' 'X' 'a'f't'e'r' 'I's's'u'e':' 'C'a'n' 'A' 'e'n'f'o'r'c'e' 't'h'i's' 'p'r'o'm'i's'e'?'
-'g'e't't'i'n'g' 't'h'e' 'd'i'v'o'r'c'e'.' 'Y' 'o'b't'a'i'n's' 'd'i'v'o'r'c'e' 'a'n'd' 'D'e'c'i's'i'o'n':'
-'r'e'f'u's'e's' 't'o' 'm'a'r'r'y' 'X'.' '('a')' 'Y'e's',' 'A' 'c'a'n' 'e'n'f'o'r'c'e' 't'h'i's' 'p'r'o'm'i's'e'
-'I's's'u'e':' 'C'a'n' 'X' 's'u'e' 'Y'?' '('b')' 'N'o',' 'A' 'c'a'n'’'t' 'e'n'f'o'r'c'e' 't'h'i's' 'p'r'o'm'i's'e' 'b'e'-'
-'D'e'c'i's'i'o'n':' 'c'a'u's'e' 'i't'’'s' 'o'b'j'e'c't',' 't'h'a't' 'i's',' 'd'r'o'p'i'n'g' 'a'
-'('a')' 'Y'e's' 'p'r'o's'e'c'u't'i'o'n' 'a'l'r'e'a'd'y' 'i'n's't'i't'u't'e'd' 'f'o'r' 't'h'e'f't'
-'('b')' 'N'o' 'i's' 'f'o'r'b'i'd'd'e'n' 'b'y' 'l'a'w'.'
-'('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')' '('c')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('b')'
-'1'7'1'.' 'F'a'c't':' 'M'r' 'X',' 't'h'e' 'f'a't'h'e'r' 'o'f' 'a' 'm'i'n'o'r' 's'o'n',' '1'7'5'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 't'o' 'l'o'o'k' 'a'f't'e'r' 'o'n' 'b'e'h'a'l'f'
-'a'g'r'e'e's' 't'o' 't'r'a'n's'f'e'r' 't'h'e' 'g'u'a'r'd'i'a'n's'h'i'p' 'o'f' 'h'i's' 'o'f' 'B',' 'a' 'l'e'g'a'l' 'm'a'n'u'f'a'c't'u'r'e' 'o'f' 'l'i'q'u'o'r's' 'a'n'd'
-'s'o'n' 'i'n' 'f'a'v'o'u'r' 'o'f' 'M'r' 'Y' 'a'n'd' 'a'l's'o' 'a'g'r'e'e's' 't'h'a't' 'a'n' 'i'l'l'e'g'a'l' 't'r'a'f'f'i' 'c' 'i'n' 'o't'h'e'r' 'n'a'r'c'o't'i'c' 'd'r'u'g's'.' 'B'
-'h'e' 'w'i'l'l' 'n'e'v'e'r' 'r'e'v'o'k'e' 't'h'e' 't'r'a'n's'f'e'r'.' 'B'u't' 'a'f't'e'r' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'A' 's'a'l'a'r'y' 'o'f' 'R's' '2','0'0'0' 'p'e'r'
-'a' 'f'e'w' 'd'a'y's',' 'M'r' 'X' 'w'a'n't's' 't'o' 'g'e't' 'b'a'c'k' 't'h'e' 'm'e'n's'u'm'.'
-'g'u'a'r'd'i'a'n's'h'i'p' 'o'f' 'h'i's' 's'o'n' 'a'n'd' 'f'i' 'l'e's' 'a' 's'u'i't' 'f'o'r' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'t'h'e' 's'a'm'e'.' 'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'w'i'l'l' 'b'e' 't'h'e' 'l'e'g'a'l' 'p'o's'i't'i'o'n' 'i'n' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd' 'a'n'd' 'i'l'l'e'g'a'l','
-'t'h'i's' 'c'a's'e'?' 'b'e'c'a'u's'e' 'a' 'p'a'r't' 'o'f' 'o'b'j'e'c't' 'i's' 'l'e'g'a'l' 'a'n'd'
-'D'e'c'i's'i'o'n':' 'a'n'o't'h'e'r' 'p'a'r't' 'i's' 'u'n'l'a'w'f'u'l' 'a'n'd' 'b'o't'h' 't'h'e'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'b'e't'w'e'e'n' 'M'r' 'X' 'a'n'd' 'p'a'r't's' 'a'r'e' 'i'n's'e'p'a'r'a'b'l'e' 'b'e'c'a'u's'e' 'c'o'n's'i'd'-'
-'M'r' 'Y' 'i's' 'v'o'i'd' 'b'e'c'a'u's'e' 'i't' 'i's' 'i'n' 'r'e's't'r'a'i'n't' 'e'r'a't'i'o'n' 'o'f' 'R's' '2','0'0'0' 'p'.'m'.' 'i's' 'f'o'r' 'b'o't'h'
-'o'f' 'p'a'r'e'n't'a'l' 'r'i'g'h't's' 'a'n'd' 't'h'u's' 'o'p'p'o's'e'd' 't'o' 'p'r'o'm'i's'e's'.' 'W'h'e'r'e' 'a' 'l'e'g'a'l' 'p'a'r't' 'c'a'n'-'
-'p'u'b'l'i'c' 'p'o'l'i'c'y'.' 'T'h'u's' 'M'r' 'X' 'c'a'n' 'g'e't' 'b'a'c'k' 'n'o't' 'b'e' 's'e'p'a'r'a't'e'd' 'f'r'o'm' 'i'l'l'e'g'a'l' 'p'a'r't',' 'i'n'
-'t'h'e' 'g'u'a'r'd'i'a'n's'h'i'p' 'o'f' 'h'i's' 's'o'n'.' 'p'r'o'm'i's'e' 'f'o'r' 's'i'n'g'l'e' 'm'o'n'e'y',' 't'h'e' 'w'h'o'l'e'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')' 'a'g'r'e'e'm'e'n't' 'i's' 'i'l'l'e'g'a'l' 'a'n'd' 'v'o'i'd'.'
-'('c')' 'H'e' 'c'a'n'n'o't' 'g'e't' 'b'a'c'k' 't'h'e' 'g'u'a'r'd'i'a'n's'h'i'p' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd' 'b'e'c'a'u's'e' 'b'o't'h'
-'o'f' 'h'i's' 's'o'n' 'b'e'c'a'u's'e' 'h'e' 'h'a's' 'v'o'l'u'n't'a'r'i'l'y' 't'h'e' 'f'u'n'c't'i'o'n's' 'a'r'e' 'n'o't' 'u'n'l'a'w'f'u'l' 'a'n'd' 'A'
-'t'r'a'n's'f'e'r'r'e'd' 't'h'e' 'g'u'a'r'd'i'a'n's'h'i'p'.' 'c'a'n' 's'u'e' 'B' 'f'o'r' 't'h'e' 'r'e'c'o'v'e'r'y' 'o'f' 'p'a'y'm'e'n't'
-'1'7'2'.' 'F'a'c't':' 'X',' 'p'r'o'm'i's'e's' 't'o' 'p'a'y' 'R's' '5' 'l'a'k'h's' 't'o' 'f'o'r' 'l'a'w'f'u'l' 'p'u'r'p'o's'e's'.'
-'Y',' 'i'f' 'Y' 's'e'c'u'r'e's' 'f'o'r' 'X' 'a'n' 'e'm'p'l'o'y'm'e'n't' 'i'n' 'a' '('c')' 'I't' 'w'i'l'l' 'b'e' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e' 'c'o'u'r't'.'
-'p'u'b'l'i'c' 'o'f'f'i' 'c'e'.' '1'7'6'.' 'F'a'c't':' 'A' 'i'n's't'r'u'c't's' 'B' 't'o' 'e'n't'e'r' 'o'n' 'h'i's' 'b'e'h'a'l'f'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?' 'i'n't'o' 'a' 'w'a'g'e'r'i'n'g' 't'r'a'n's'a'c't'i'o'n'.' 'B' 'l'o's'e's' 'i'n' 't'h'e'
-'
-'t'r'a'n's'a'c't'i'o'n' 'a'n'd' 'p'a'y's' 'f'r'o'm' 'h'i's' 'p'o'c'k'e't'.' 'H'e' 'D'e'c'i's'i'o'n':'
-'t'h'e'r'e'a'f't'e'r' 's'u'e's' 'A' 'f'o'r' 'r'e'i'm'b'u'r's'e'm'e'n't'.' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'g'u'e' 'a'n'd' 'h'e'n'c'e' 'n'o't'
-'I's's'u'e':' 'C'a'n' 'A' 'r'a'i's'e' 't'h'e' 'p'l'e'a' 'o'f' 'w'a'g'e'r'?' 'e'n'f'o'r'c'e'a'b'l'e'.'
-'D'e'c'i's'i'o'n':' '('b')' 'H'e'r'e',' 't'h'e' 'p'r'i'c'e' 'i's' 'c'a'p'a'b'l'e' 'o'f' 'b'e'i'n'g'
-'('a')' 'Y'e's',' 'A' 'c'a'n' 'r'a'i's'e' 't'h'e' 'p'l'e'a' 'o'f' 'w'a'g'e'r' 'b'e'-' 'm'a'd'e' 'c'e'r't'a'i'n'.' 'S'o',' 't'h'e'r'e' 'i's' 'n'o' 'u'n'c'e'r'-'
-'c'a'u's'e' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i'n' 'i't's'e'l'f' 'w'a's' 't'o' 't'a'i'n't'y' 'o'r' 'v'a'g'u'e'n'e's's' 'i'n' 't'e'r'm's'.' 'T'h'e'
-'e'n't'e'r' 'i'n't'o' 'a' 'w'a'g'e'r'i'n'g' 't'r'a'n's'a'c't'i'o'n'.' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'('b')' 'N'o',' 'A' 'c'a'n'n'o't' 'r'a'i's'e' 't'h'e' 'p'l'e'a' 'o'f' '‘'w'a'-' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'g'e'r'’'.' 'T'h'o'u'g'h' '‘'a'g'r'e'e'm'e'n't's' 'b'y' 'w'a'y' 'o'f' '1'8'0'.' 'F'a'c't':' 'A' 'a'g'g'r'e's's' 't'o' 's'e'l'l' 'B',' '“'M'y' 'W'h'i't'e'
-'w'a'g'e'r'’' 'a'r'e' 'v'o'i'd' 'a'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' 'H'o'u's'e'”' 'f'o'r' 'R's' '5'0'0' 'o'r' '1','0'0'0'.'
-'3'0' 'o'f' 't'h'e' 'C'o'n't'r'a'c't' 'A'c't' 'b'u't' 't'r'a'n's'a'c't'i'o'n's' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'c'o'l'l'a't'e'r'a'l' 't'o' 't'h'e' 'v'o'i'd' 'a'g'r'e'e'm'e'n't's' 'a'r'e' 'D'e'c'i's'i'o'n':'
-'v'a'l'i'd'.' 'S'o',' 'B' 'i's' 'e'n't'i't'l'e'd' 't'o' 'r'e'c'o'v'e'r' 't'h'e' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'i'n'v'a'l'i'd' 'b'e'c'a'u's'e'
-'a'm'o'u'n't' 'f'r'o'm' 'A'.' 't'h'e'r'e' 'i's' 'n'o't'h'i'n'g' 't'o' 's'h'o'w' 'a's' 't'o' 'w'h'i'c'h'
-'('c')' 'S'u'c'h' 'p'r'o'p'o's'i't'i'o'n's' 'o'f' 'l'a'w' 'a'r'e' 'n'o't' 'c'o'v'-' 'o'f' 't'h'e' 't'w'o' 'p'r'i'c'e's' 'i's' 't'o' 'b'e' 'p'a'i'd'.' 'T'h'e'r'e'
-'e'r'e'd' 'u'n'd'e'r' 't'h'e' 'b'a'r'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'l'a'w'.' 'i's' 'n'o' 'c'e'r't'a'i'n't'y' 'o'f' 'p'r'i'c'e's'.'
-'H'e'n'c'e' 'i't' 'i's' 'n'o't' 't'e'n'a'b'l'e' 'a'n'd' 'n'o't' 'e'n'-' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'f'o'r'c'e'a'b'l'e'.' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'1'7'7'.' 'F'a'c't':' 'A' 'm'a'c'h'i'n'e'g'u'n' 'm'a'n'u'f'a'c't'u'r'e'r' 's'o'l'd' '1'8'1'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 'B' 'i'n' 'c'o'n's'i'd'e'r'a't'i'o'n' 'o'f'
-'h'i's' 'b'u's'i'n'e's's' 't'o' 'a' 'c'o'm'p'a'n'y' 'i'n' 'c'o'n's'i'd'e'r'a't'i'o'n' 'R's' '1','0'0'0' 'n'e'v'e'r' 't'o' 'm'a'r'r'y' 'a' 'p'a'r't'i'c'u'l'a'r' 'i'n'd'i'-'
-'v'i'd'u'a'l'.'
-'o'f' 's'o'm'e' 'a'm'o'u'n't' 'o'f' 'g'o'o'd'w'i'l'l' 'a'n'd' 'c'o'n'v'e'-'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'n'a'n't'e'd' 't'h'a't' 'h'e' 'w'o'u'l'd' 'n'o't' 'c'a'r'r'y' 'o'n' 'a' 's'i'm'i'l'a'r'
-'D'e'c'i's'i'o'n':'
-'b'u's'i'n'e's's' 'f'o'r' 'a' 'c'e'r't'a'i'n' 't'i'm'e' 'a'n'y'w'h'e'r'e' 'i'n' 't'h'e'
-'('a')' 'N'o',' 'a'n' 'a'g'r'e'e'm'e'n't' 'r'e's't'r'a'i'n'i'n'g' 'a' 'p'e'r's'o'n'
-'w'o'r'l'd'.'
-'f'r'o'm' 'm'a'r'r'y'i'n'g' 'a'n'y'b'o'd'y' 'o'r' 'f'r'o'm' 'm'a'r'-'
-'I's's'u'e':' 'I's' 's'u'c'h' 'a' 'c'o'v'e'n'a'n't' 'b'i'n'd'i'n'g' 'u'p'o'n'
-'r'y'i'n'g' 'a'n'y'b'o'd'y' 'e'x'c'e'p't' 'a' 'p'a'r't'i'c'u'l'a'r' 'p'e'r'-'
-'h'i'm'?'
-'s'o'n' 'i's' 'i'n'v'a'l'i'd'.'
-'D'e'c'i's'i'o'n':'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'('a')' 'T'h'e' 'c'o'v'e'n'a'n't' 'i's' 'n'o't' 'b'i'n'd'i'n'g' 'u'p'o'n' 'h'i'm'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'b'e'c'a'u's'e' 't'h'e' 'r'e's't'r'i'c't'i'o'n's' 'a'r'e' 'u'n'r'e'a's'o'n'-'
-'1'8'2'.' 'F'a'c't':' 'A' 'p'r'o'm'i's'e's' 'B' 'i'n' 'c'o'n's'i'd'e'r'a't'i'o'n' 'o'f'
-'a'b'l'e'.'
-'R's' '1','0'0'0' 'n'e'v'e'r' 't'o' 'm'a'r'r'y' 't'h'r'o'u'g'h'o'u't' 'h'i's'
-'('b')' 'T'h'e' 'c'o'v'e'n'a'n't' 'i's' 'b'i'n'd'i'n'g' 'b'e'c'a'u's'e' 't'h'e'
-'l'i'f'e'.'
-'r'e's't'r'i'c't'i'o'n's' 'i'm'p'o's'e'd' 'a'r'e' 't'h'e' 'o'u't'c'o'm'e'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'o'f' 't'h'e' 'm'u't'u'a'l' 'u'n'd'e'r's't'a'n'd'i'n'g' 'b'e't'w'e'e'n'
-'D'e'c'i's'i'o'n':'
-'t'h'e' 't'w'o' 'p'a'r't'i'e's'.'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'('c')' 'T'h'e' 'c'o'v'e'n'a'n't' 'i's' 'v'o'i'd'a'b'l'e' 'a't' 't'h'e' 'o'p't'i'o'n'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.'
-'o'f' 'b'u'y'e'r' 'c'o'm'p'a'n'y'.'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'1'7'8'.' 'F'a'c't':' 'A' 'a'n'd' 'B' 'm'a'd'e' 'a'n' 'a'g'r'e'e'm'e'n't' 't'o' 'e'n't'e'r'
-'1'8'3'.' 'F'a'c't':' 'X',' 'a' 's'h'o'p'k'e'e'p'e'r' 'a'g'r'e'e's' 't'o' 'p'a'y' 'Y','
-'i'n't'o' 'w'r'e's't'l'i'n'g' 'c'o'n't'e's't' 'i'n' 'w'h'i'c'h' 't'h'e' 'w'i'n'n'e'r'
-'w'h'o' 'i's' 'h'i's' 'r'i'v'a'l' 'i'n' 't'h'e' 'b'u's'i'n'e's's',' 'a' 's'u'm' 'o'f'
-'w'a's' 't'o' 'b'e' 'a'w'a'r'd'e'd' 't'h'e' 'w'h'o'l'e' 'o'f' 't'h'e' 'p'r'o'-'
-'m'o'n'e'y' 'a's' 'c'o'm'p'e'n's'a't'i'o'n' 'i'f' 'Y' 'c'l'o's'e's' 'h'i's'
-'c'e'e'd's' 'o'f' 't'h'e' 's'a'l'e' 'o'f' 't'i'c'k'e't's' 'a'n'd' 't'h'e' 'p'a'r't'y'
-'b'u's'i'n'e's's'.' 'Y' 'c'l'o's'e's' 'h'i's' 'b'u's'i'n'e's's'.'
-'f'a'i'l'i'n'g' 't'o' 'a'p'p'e'a'r' 'o'n' 't'h'a't' 'd'a'y' 'w'a's' 't'o' 'f'o'r'f'e'i't'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'R's' '5'0'0' 't'o' 't'h'e' 'o't'h'e'r'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'e'n'f'o'r'c'e'a'b'l'e'?'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'D'e'c'i's'i'o'n':'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'e'n'f'o'r'c'e'a'b'l'e' 'b'e'c'a'u's'e'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'.'
-'i't' 'i's' 'n'o't' 'a' 'w'a'g'e'r'i'n'g' 'a'g'r'e'e'm'e'n't'.'
-'1'8'4'.' 'F'a'c't':' 'A' 's'e'l'l's' 'g'o'o'd'w'i'l'l' 'o'f' 'h'i's' 'b'u's'i'n'e's's' 't'o'
-'('b')' 'N'e'i't'h'e'r' '('a')' 'n'o'r' '('c')' 'b'e'c'a'u's'e' 't'h'e' 'n'a't'u'r'e'
-'B',' 'a'n'd' 'a'g'r'e'e's' 'w'i't'h' 'h'i'm' 't'o' 'r'e'f'r'a'i'n' 'f'r'o'm'
-'o'f' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'c'l'e'a'r'.'
-'c'a'r'r'y'i'n'g' 'o'n' 'a' 's'i'm'i'l'a'r' 'b'u's'i'n'e's's' 'w'i't'h'i'n' 't'h'e'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'e'n'f'o'r'c'e'a'b'l'e' 'b'e'-'
-'s'p'e'c'i'f'i' 'e'd' 'l'o'c'a'l' 'l'i'm'i't's'.'
-'c'a'u's'e' 'i't' 'i's' 'a' 'w'a'g'e'r'i'n'g' 'a'g'r'e'e'm'e'n't'.'
-'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'1'7'9'.' 'F'a'c't':' 'A' 'a'g'r'e'e's' 't'o' 's'e'l'l' 't'o' 'B',' '1','0'0'0' 'm'a'u'n'd's'
-'D'e'c'i's'i'o'n':'
-'o'f' 'r'i'c'e' 'a't' 'a' 'p'r'i'c'e' 'f'i' 'x'e'd' 'b'y' 'C'.' '('a')' 'Y'e's',' 't'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'v'a'l'i'd'i't'y' 'o'f' 't'h'e' 'a'g'r'e'e'-' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'n'o't' 'v'a'l'i'd'.'
-'m'e'n't'?' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'
-'C'I'V'I'L' 'L'A'W' '1'1'3'
-'1'8'5'.' 'F'a'c't':' 'M'i's's' 'R'i't'a' 'a'g'r'e'e'd' 't'o' 's'i'n'g' 'a't' 'B'a'l'r'a'm'’'s' 'y'e'a'r's' 'o'n' 'c'o'n'd'i't'i'o'n' 't'h'a't' 'a'f't'e'r' 't'h'e' 'e'x'p'i'r'y' 'o'f'
-'t'h'e'a't'r'e' 'f'o'r' 'a' 'p'e'r'i'o'd' 'o'f' 's'i'x' 'm'o'n't'h's' 'b'e'g'i'n'-' 't'h'r'e'e' 'y'e'a'r's',' 'Y' 'i's' 'n'o't' 't'o' 'p'r'a'c't'i'c'e' 'i'n' 'C'h'a'n'-'
-'n'i'n'g' 'f'r'o'm' '1' 'J'a'n'u'a'r'y' '1'9'7'2'.' 'S'h'e' 'f'u'r't'h'e'r' 'd'i'g'a'r'h' 'o'n' 'h'i's' 'o'w'n' 'f'o'r' 'a' 'p'e'r'i'o'd' 'o'f' '5' 'y'e'a'r's'.'
-'a'g'r'e'e'd' 'n'o't' 't'o' 's'i'n'g' 'a't' 'a'n'y' 'o't'h'e'r' 't'h'e'a't'r'e' 'd'u'r'-' 'A'f't'e'r' 't'h'e' 'f'i' 'r's't' 't'h'r'e'e' 'y'e'a'r's' 'h'a'd' 'e'x'p'i'r'e'd',' 'Y' 'i'n'
-'i'n'g' 't'h'i's' 'p'e'r'i'o'd'.' 'b'r'e'a'c'h' 'o'f' 'h'i's' 'a'g'r'e'e'm'e'n't' 's't'a'r't's' 'p'r'a'c't'i'c'i'n'g'
-'I's's'u'e':' 'I's' 't'h'e' 'c'o'n't'r'a'c't' 'v'a'l'i'd'?' 'i'n' 'C'h'a'n'd'i'g'a'r'h'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'I's' 't'h'e' 'a'g'r'e'e'm'e'n't' 'v'a'l'i'd'?'
-'('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.' 'D'e'c'i's'i'o'n':'
-'('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.' '('a')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'a'l'i'd'.'
-'('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'u'n'r'e'a's'o'n'a'b'l'e'.' '('b')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'i'n'v'a'l'i'd'.'
-'1'8'6'.' 'F'a'c't':' 'X',' 'a' 'd'o'c't'o'r' 'i'n' 'C'h'a'n'd'i'g'a'r'h' 'e'n'g'a'g'e's' '('c')' 'T'h'e' 'a'g'r'e'e'm'e'n't' 'i's' 'v'o'i'd'a'b'l'e'.'
-'Y' 'a's' 'h'i's' 'a's's'i's't'a'n'c'e' 'f'o'r' 'a' 'p'e'r'i'o'd' 'o'f' 't'h'r'e'e'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('b')' '2'.' '('a')' '3'.' '('b')' '4'.' '('a')' '5'.' '('b')' '6'.' '('b')' '7'.' '('b')' '8'.' '('a')' '9'.' '('a')' '1'0'.' '('b')'
-'1'1'.' '('b')' '1'2'.' '('a')' '1'3'.' '('b')' '1'4'.' '('a')' '1'5'.' '('b')' '1'6'.' '('b')' '1'7'.' '('b')' '1'8'.' '('a')' '1'9'.' '('b')' '2'0'.' '('a')'
-'2'1'.' '('a')' '2'2'.' '('b')' '2'3'.' '('b')' '2'4'.' '('a')' '2'5'.' '('b')' '2'6'.' '('a')' '2'7'.' '('b')' '2'8'.' '('a')' '2'9'.' '('b')' '3'0'.' '('a')'
-'3'1'.' '('a')' '3'2'.' '('a')' '3'3'.' '('b')' '3'4'.' '('a')' '3'5'.' '('a')' '3'6'.' '('b')' '3'7'.' '('b')' '3'8'.' '('b')' '3'9'.' '('a')' '4'0'.' '('b')'
-'4'1'.' '('a')' '4'2'.' '('b')' '4'3'.' '('a')' '4'4'.' '('b')' '4'5'.' '('a')' '4'6'.' '('b')' '4'7'.' '('a')' '4'8'.' '('b')' '4'9'.' '('a')' '5'0'.' '('a')'
-'5'1'.' '('b')' '5'2'.' '('a')' '5'3'.' '('a')' '5'4'.' '('b')' '5'5'.' '('a')' '5'6'.' '('a')' '5'7'.' '('b')' '5'8'.' '('b')' '5'9'.' '('b')' '6'0'.' '('a')'
-'6'1'.' '('a')' '6'2'.' '('a')' '6'3'.' '('b')' '6'4'.' '('a')' '6'5'.' '('a')' '6'6'.' '('b')' '6'7'.' '('b')' '6'8'.' '('b')' '6'9'.' '('a')' '7'0'.' '('b')'
-'7'1'.' '('b')' '7'2'.' '('a')' '7'3'.' '('a')' '7'4'.' '('b')' '7'5'.' '('a')' '7'6'.' '('b')' '7'7'.' '('b')' '7'8'.' '('c')' '7'9'.' '('b')' '8'0'.' '('a')'
-'8'1'.' '('b')' '8'2'.' '('a')' '8'3'.' '('b')' '8'4'.' '('a')' '8'5'.' '('b')' '8'6'.' '('a')' '8'7'.' '('b')' '8'8'.' '('a')' '8'9'.' '('b')' '9'0'.' '('a')'
-'9'1'.' '('b')' '9'2'.' '('a')' '9'3'.' '('c')' '9'4'.' '('b')' '9'5'.' '('b')' '9'6'.' '('c')' '9'7'.' '('b')' '9'8'.' '('b')' '9'9'.' '('a')' '1'0'0'.' '('a')'
-'1'0'1'.' '('a')' '1'0'2'.' '('b')' '1'0'3'.' '('c')' '1'0'4'.' '('a')' '1'0'5'.' '('b')' '1'0'6'.' '('c')' '1'0'7'.' '('a')' '1'0'8'.' '('b')' '1'0'9'.' '('c')' '1'1'0'.' '('a')'
-'1'1'1'.' '('b')' '1'1'2'.' '('c')' '1'1'3'.' '('a')' '1'1'4'.' '('c')' '1'1'5'.' '('b')' '1'1'6'.' '('a')' '1'1'7'.' '('b')' '1'1'8'.' '('c')' '1'1'9'.' '('a')' '1'2'0'.' '('b')'
-'1'2'1'.' '('c')' '1'2'2'.' '('a')' '1'2'3'.' '('b')' '1'2'4'.' '('c')' '1'2'5'.' '('a')' '1'2'6'.' '('b')' '1'2'7'.' '('a')' '1'2'8'.' '('a')' '1'2'9'.' '('b')' '1'3'0'.' '('a')'
-'1'3'1'.' '('b')' '1'3'2'.' '('a')' '1'3'3'.' '('a')' '1'3'4'.' '('b')' '1'3'5'.' '('a')' '1'3'6'.' '('a')' '1'3'7'.' '('b')' '1'3'8'.' '('c')' '1'3'9'.' '('a')' '1'4'0'.' '('a')'
-'1'4'1'.' '('b')' '1'4'2'.' '('a')' '1'4'3'.' '('a')' '1'4'4'.' '('b')' '1'4'5'.' '('a')' '1'4'6'.' '('a')' '1'4'7'.' '('b')' '1'4'8'.' '('c')' '1'4'9'.' '('a')' '1'5'0'.' '('b')'
-'1'5'1'.' '('c')' '1'5'2'.' '('a')' '1'5'3'.' '('a')' '1'5'4'.' '('a')' '1'5'5'.' '('b')' '1'5'6'.' '('b')' '1'5'7'.' '('b')' '1'5'8'.' '('c')' '1'5'9'.' '('c')' '1'6'0'.' '('c')'
-'1'6'1'.' '('a')' '1'6'2'.' '('a')' '1'6'3'.' '('a')' '1'6'4'.' '('a')' '1'6'5'.' '('b')' '1'6'6'.' '('b')' '1'6'7'.' '('a')' '1'6'8'.' '('a')' '1'6'9'.' '('a')' '1'7'0'.' '('b')'
-'1'7'1'.' '('a')' '1'7'2'.' '('a')' '1'7'3'.' '('a')' '1'7'4'.' '('b')' '1'7'5'.' '('a')' '1'7'6'.' '('b')' '1'7'7'.' '('a')' '1'7'8'.' '('a')' '1'7'9'.' '('b')' '1'8'0'.' '('a')'
-'1'8'1'.' '('a')' '1'8'2'.' '('b')' '1'8'3'.' '('c')' '1'8'4'.' '('a')' '1'8'5'.' '('a')' '1'8'6'.' '('b')'
-'
-'
+M -C Q
+ULTIPLE HOICE UESTIONS
+1. Fact: Mr Mukesh invites Mr Vijay to a (b) The seller are not liable as there was
+dinner at a hotel. Mr Vijay accepts the no contract as the parties never in-
+invitation. It is purely a social agreement. tended to create legal relationship be-
+Mr Vijay fails to arrive at the dinner or cause they had clearly mentioned that
+Mr Mukesh has to go out and is not avail- their agreement is not a legal docu-
+able at his place at the dinner time due to ment nor a memorandum nor subject
+some important work. to the jurisdiction of law courts.
+Issue: Is Mr Vijay liable for the non-per- (c) The fi rms may make mutual adjudica-
+formance of contract with Mukesh. tion.
+Decision: 4. Fact: A who owns two cars, one Maruti
+(a) Vijay is liable because he has not per- and the other Santro, offers to sell B one
+formed the contract. car. A intending it to be the Maruti car. B
+(b) Vijay is not liable because there was accepts the offer thinking that it is the San-
+no contract, it was just a social agree- tro.
+ment. Issue: Is A liable?
+(c) It will be the discretion of the court. Decision:
+(a) A is not liable because there is no con-
+2. Fact: Mr Balfour was employed in Cey- sensus and hence no contract.
+lon. Mrs Balfour owing to ill health, had (b) A is liable because once he had of-
+to stay in England and could not accom- fered the contract is complete.
+pany him to Ceylon. Mr Balfour prom- (c) It is upto the court to decide the liabil-
+ised to send her £ 30 per month while he ity.
+was abroad. But Mr Balfour failed to pay 5. Fact: A, a person of weak intelligence
+that amount. So Mrs Balfour fi led a suit made a gift of his entire property to B,
+against her husband for recovering the who was in a position to dominate him.
+said amount. The gift having been obtained by undue
+Issue: Is Balfour liable for breach of con- infl uence is voidable at the option of A.
+tract? Issue: Is this contract valid?
+Decision: Decision:
+(a) Mr Balfour is not liable because the (a) The contract is valid as A voluntarily
+intention not to create a legal obliga- made a gift.
+tion was clear from the conduct of the (b) The contract is not valid because A
+parties. made a gift under undue infl uence so
+(b) Mr Balfour is liable for breach of con- it is voidable at the option of A.
+tract. (c) It is void abinitio.
+(c) No conclusive decision can be drawn 6. Fact: S, intending to deceive Y, falsely
+as it is a private affair of husband and represents that 500 maunds of indigo are
+wife. made annually at X’s factory and thereby
+3. Fact: Two fi rms entered into a written induces Y to buy the factory.
+contract for the sale and purchase of tissue Issue: Is it a valid contract?
+paper. The agreement contained a clause Decision:
+to the effect that “this agreement is not en- (a) It is a valid contract.
+tered into, nor is this memorandum writ- (b) It is a contract voidable at the option
+ten, as a formal or a legal document, and of Y because he has been falsely mis-
+shall not be subject to legal jurisdiction in representated.
+the law courts”. Since the goods were not (c) It is void abinitio.
+delivered, the buyers brought an action for 7. Fact: X borrows Rs 50,000 from Y for the
+non-delivery. purpose of smuggling goods. Y knows of
+Issue: Are the sellers liable? the purpose of the loan.
+Decision: Issue: Is this agreement valid?
+(a) The sellers are liable as they had en- Decision:
+tered into a written agreement. (a) The agreement is valid.
+
+CIVIL LAW 87
+(b) The agreement between X and Y Decision:
+is collateral to the main agreement (a) Yes, there is a valid contract and B
+which is illegal so the agreement is will be liable if the horse didn’t prove
+also illegal because anything done lucky.
+which is unlawful, immoral against (b) There is no valid contract as the terms
+public policy can never result into a of contract are so vague and loose.
+valid agreement. (c) It is voidable contract at the option of
+(c) Nothing conclusive can be said. A.
+8. Fact: The Carbolic Smoke Ball Co. of- 11. Fact: D sent his servant P to trace his
+fered by advertisement, a reward of £ 100 missing nephew. D in the meantime an-
+to any person who should contract infl uen- nounced a reward for providing informa-
+za after having used the smoke-ball three tion about the missing boy. P, in ignorance
+times daily for two weeks according to the of the announcement traced the boy and
+printed directions. It also added that £ 100 informed D. P later on came to know and
+he claimed it.
+have been deposited in the bank showing
+Issue: Is the servant entitled to reward?
+its sincerity in the promise. The plaintiff
+Decision:
+Mrs Carlill used the smoke-ball according
+(a) Servant is entitled to claim.
+to the directions to the company but con-
+(b) Servant is not entitled to claim be-
+tracted infl uenza.
+cause he was ignorant of the offer of
+Issue: Is company liable to give the re-
+reward so there was no agreement be-
+ward and Mrs Carlill is entitled to award?
+cause there was no acceptance.
+Decision:
+(c) The contract is voidable at the option
+(a) Yes, company is liable. Mrs Carlill is
+of the servant.
+entitled to the reward because the per-
+12. Fact: N advertised in the newspaper to ef-
+formance of the conditions is a suffi -
+fect sale of his goods on a particular day at
+cient acceptance without notifi cation.
+a particular place. H travelled a long dis-
+(b) Company is not liable.
+tance to bid for the things. On arrival, he
+(c) Mrs Carlill is not entitled because
+found that the sale was cancelled. He sued
+there is no valid contract.
+N for the breach of contract.
+9. Fact: A agreed to take B’s house on rent
+Issue: Is N liable?
+for three years at the rent of £ 85 per an-
+Decision:
+num provided the house was put to thor-
+(a) N is not liable because advertisement
+ough repair and the drawing rooms were
+was merely expression of an inten-
+decorated “according to present style”.
+tion and not an offer which could be
+Issue: Is there a valid contract between A
+accepted by travelling to the place of
+and B?
+intended sale.
+Decision:
+(b) N is liable for all the expenses in-
+(a) There is not valid contract because curred by H for traveling such a long
+it is a vague term, because the term distance.
+“present style” may mean one thing to (c) It is voidable at the option of H.
+A and another to B. Hence, the agree- 13. Fact: T, who could not read, took an ex-
+ment was void on the ground that the cursion ticket on the railway. On the front
+terms of offer were vague and uncer- of railway ticket was written that the com-
+tain. pany would not be liable for personal in-
+(b) There is a valid contract because there juries to passengers. T was injured by a
+is an offer from the side of A and ac- railway accident.
+ceptance from the side of B. Issue: Is the railway company liable?
+(c) It is voidable contract at the option of Decision:
+A. (a) Yes railway company is liable because
+10. Fact: A purchased a horse from B and the traveler could not read.
+promised that if the horse was lucky to (b) Railway company is not liable be-
+him, he would give Rs 50 more or he cause T was bound by the conditions
+would purchase another horse. and could not recover any damages.
+Issue: Is there a valid contract between A (c) The contract is voidable at the option
+and B? of T.
+
+14. Fact: M delivered one new saree to a asking whether his offer was accepted.
+laundry for washing. On the back of the He also added that he was ready to accept
+printed receipt it was stated that the cus- any higher price if found reasonable. The
+tomer would be entitled to recover only agent replied, “would not accept less than
+15% of the market price of the article in Rs 10,000”. D accepted this and brought a
+case of loss. The saree was lost owing to suit for specifi c performance.
+the negligence of the laundry. Issue: Is P liable for specifi c perfor-
+Issue: Is M entitled to claim the loss? mance?
+Decision: Decision:
+(a) M is entitled to claim the loss and the (a) P is liable for the specifi c performance
+laundry shop is liable. of the contract entered into D and P.
+(b) M is not entitled because the condi- (b) P is not liable because there is only
+tion was printed on the back of the offer or counter offer but no formal/
+receipt. legal offer and acceptance. Hence no
+(c) Neither (a) nor (b) valid contract, hence P not liable.
+15. Fact: A writes to B, “I offer to sell my (c) The contract is voidable at the option
+house for Rs 40,000. If I do not receive a of D.
+reply by Monday next, I shall assume that 18. Fact: A offered to sell a farm for £ 1,000,
+you have accepted the offer”. X said he would give £ 950. A refused and
+Issue: Is there a valid contract between A X then said he would give £ 1,000, and
+when A declined to adhere to his original
+and B?
+offer tried to obtain specifi c performance.
+Decision:
+Issue: Is there a valid contract between A
+(a) Yes, there is a valid contract.
+and X?
+(b) No, there is no valid contract because
+Decision:
+A made a offer but didn’t accept it.
+(a) There is no valid contract as X’s offer
+(c) Because A had made an offer so the
+to pay £ 950 is a refusal of the offer
+contract is voidable at the option of
+and a counter offer.
+A.
+(b) There is a valid contract and A is li-
+16. Fact: Harvey sent a telegram to Facey
+able for specifi c performance.
+stating “will you sell us the Estate of Bum-
+(c) It is voidable contract at the option of
+ber Hall Pen for £ 900”?
+X.
+Harvey sent another telegram to Facey
+19. Fact: P bought a steamer ticket on the face
+stating ‘We agree to buy Bumper Hall
+of which were these words only, “Dublin
+Pen for sum of £ 900 asked by you. Please
+to Whitehaven.” On the back were printed
+send us your title deeds in order that we
+certain conditions one of which excluded
+may get early possession.’
+the liability of the company for loss, injury
+But Facey did not send any reply to the
+or delay to the passenger or his luggage. P
+last telegram sent by Harvey. Hence, Har-
+had not seen the back of the ticket, nor was
+vey fi led a case against Facey claiming the
+there any indication on he face about the
+Bumber Hall Pen Estate.
+conditions on the back. P’s luggage was
+Issue: Is there valid contract between Har-
+lost on the way due to the negligence of
+vey and Facey?
+the company’s servants.
+Decision:
+Issue: Is the company liable?
+(a) Yes, there is a valid contract because
+Decision:
+Harvey made an offer for three times
+(a) Company is not liable because com-
+and Facey didn’t respond which
+pany had printed the conditions on the
+amounts to his acceptance.
+back of the ticket that company is not
+(b) There is no valid contract because
+liable for any loss, injury or delay.
+there is no acceptance of the offer.
+(b) Company is liable because it was
+(c) It is voidable contract at the option
+printed on the front side that the con-
+of Harvey because Harvey had made
+ditions are printed on the back side.
+repeated offers. (c) Company is not liable because it is the
+17. Fact: D offered to purchase a lodge owned duty of the traveller to take care of its
+by P for Rs 6,000. He wrote to P’s agent luggage.
+
+CIVIL LAW 89
+20. Fact: P deposited his bag at the clock the condition limiting the company’s
+room at a railway station and received a liability.
+ticket containing on its face, the words “see (c) It will be at the discretion of the
+back.” On the back of the ticket there was court.
+a condition that, “the company will not be 23. Fact: P and her husband hired a room at
+responsible for any package exceeding the a hotel and paid a week’s rent in advance.
+value of £ 10.” A notice to the same effect When they went up to occupy the room
+was hung up in the cloak room. P’s bag there was a notice on one of the walls dis-
+was lost and he claimed the actual value claiming the owners liability for damage,
+of the lost bag, £ 24, 10 s. The claim was loss or theft of articles in the room. A thief
+negatived and only £ 10 was awarded. entered the room due to the negligence of
+Issue: Is the railway company liable? the hotel servants.
+Decision: Issue: Is the owner of the hotel liable?
+(a) The railway company is not liable. Decision:
+(b) The railway company is liable. (a) No, he is not liable because it is clearly
+(c) Neither (a) nor (b) written on the wall that hotel authori-
+21. Fact: P purchased from D company, a ties will not be liable damage, loss or
+steamer ticket containing conditions print- theft.
+ed in the French Language. At the foot of (b) Owner of the hotel is liable since the
+the ticket, there was an intimation in red notice was not a part of the agreement
+letters that the ticket was issued subject to as it came to the knowledge of the cli-
+the conditions printed on the back. One of ent after the contract had been entered
+these conditions was that the company in- into.
+curred no liability for any damage which (c) The decision will be in the hands of
+the luggage might sustain. The vessel was client because it is a voidable contract
+wrecked by the fault of the company’s ser- at the option of the suffering party.
+vants and P’s baggage was lost. P sued D 24. Fact: D wrote to P on 28 November
+for damages and claimed that he was not 1971, offering to sell 800 tonnes of iron at
+bound the conditions being unable to read Rs 6900 per ton. On the same day P wrote
+French. to D offering to buy 800 tonnes of iron
+Issue: Is the company liable? Rs 6900 per ton. The two letters crossed
+Decision: in post and neither of them knew anything
+(a) Company is not liable because P had about the offer to the other. P contended
+reasonable notice of the conditions that there was a good contract.
+and it was his own fault if he had not Issue: What is the nature of contract and
+made himself acquainted with them. liabilities of the parties?
+(b) Company is liable because company Decision:
+had used the language which was not (a) There was no valid contract because
+easily understandable to everybody. an agreement results into a contract
+(c) Neither (a) nor (b) when there is an offer from one side
+22. Fact: T, an illiterate lady, took a ticket for and its acceptance from the other side
+a journey from a railway company. On the so no question of any liability rises.
+face of the ticket were the words, “for con- (b) It is a voidable contract at the option
+ditions see back.” One of the conditions of D because D had offered to sell the
+absolved the railway company from liabil- product.
+ity for personal injuries to passenger. (c) It is a voidable contract at the option
+Issue: Is company liable? of P because P had offered to buy the
+Decision: product.
+(a) Yes, company is liable because the 25. Fact: D sent an offer to a fi rm with whom
+lady was illiterate so she is entitled to he had accounts. P who had just taken over
+damages. the said fi rm got the letter addressed to the
+(b) Company is not liable because T old fi rm, accepted the offer and sent the
+could not recover damages for the goods. P sued for the price of the goods.
+injury received as she was bound by The court held that there was no contract
+
+since the order was to the held fi rm and the resolved to appoint P as headmaster. One
+acceptance was by the new fi rm. of the managers, in his individual capacity,
+An offer may also be made to the world informed P of the same. But there was no
+at large, as the instance by an advertisement formal communication of the resolution
+in the newspaper. In such a case only person by the board. The board later rescinded
+or persons with notice of the offer can come the resolution.
+forward and accept the offer. Issue: What is the nature of contract and
+Issue: Are the claims of P genuine? liability of the board of managers?
+Decision: Decision:
+(a) D is liable for all the claims made by (a) There is no contract as there is no
+P because D was an old customer of communication from the side of board
+the fi rm. of managers.
+(b) As there is no contract between P and (b) There is a valid contract as one of the
+D so no liability. managers had informed in his indi-
+(c) The contract is voidable at the option vidual capacity.
+of D. (c) Neither (a) nor (b)
+26. Fact: M offered to sell land to N at $ 280. 29. Fact: The manager of a railway company
+N replied accepting the offer and encloing received an offer by a letter relating to the
+$ 30 and promising to pay balance amount supply of coal; he wrote on the letter ‘ac-
+by monthly instalments of $ 50 each. cepted’ and kept it in his drawer and forget
+all about it.
+Since N accepted the offer subject to mak-
+Issue: What is the nature of contract?
+ing payments in instalments.
+Decision:
+Issue: Is there a valid contract?
+(a) Once it has been written “ACCEPT-
+Decision:
+ED”, it means there is a valid contract
+(a) It is not a valid contract because the
+and the coal company can sue the rail-
+acceptance is conditional and quali-
+way company.
+fi ed. It is a voidable contract at the op-
+(b) There is no valid contract because
+tion of M who had made an offer and
+there is no communication of the ac-
+N sent the conditional acceptance.
+ceptance.
+(b) It is a valid contract as M had made
+(c) It is a voidable contract at the option
+the offer and N accepted it.
+of the railway company.
+(c) It is a contract void abinitio.
+30. Fact: An offer was made in the follow-
+27. Fact: F offered to buy his nephew’s horse
+ing terms. “I intend to sell my house for
+for £ 30 15 s, adding, “If I hear no more,
+Rs 1,000. If you are willing to have it,
+I shall consider the horse as mine at £ 30
+write to F at his address”. Instead of writ-
+15 s.” The nephew did not reply, but told
+ing to F, the purchaser sent an agent to F
+his auctioneer not to sell the horse, as it
+and agreed to purchase.
+was sold to his uncle. But the auctioneer
+Issue: What is the nature of contract and
+sold it by mistake to a third party. F sued
+liability of the seller?
+for conversion of his property.
+Decision:
+Issue: What is the liability of nephew?
+(a) It is a valid contract because the pur-
+Decision:
+chaser has communicated his accep-
+(a) Nephew is liable as his action of tell-
+tance in person.
+ing his auctioneer not to sell the horse
+(b) It is not a valid contract because seller
+as it was sold to his uncle had resulted
+had clearly written that if the offer is
+into a valid contract.
+acceptable then the acceptance should
+(b) Nephew is not liable because the mere
+be communicated through writing.
+mental acceptance and uncommuni-
+(c) It is a contract void ab initio.
+cated acceptance does not result into
+31. Fact: A sold his business to his manager B
+contract.
+without disclosing the fact to his customer
+(c) It is a voidable contract at the option
+C, who had a running account with A, sent
+of F and to determine the liability of an order for the supply of goods to A by
+nephew is the discretion of the court. name. B received the order and executed
+28. Fact: The board of managers of a school the same. C refused to pay the price.
+
+CIVIL LAW 91
+Issue: What is the nature of contract and cause revocation of offer is complete
+liability of C? as against A when the telegram is dis-
+Decision: patched.
+(a) As there was no contract between B (b) Revocation of offer is not valid be-
+and C because C never made any of- cause it is not complete.
+fer to B and as such C was not liable (c) Neither (a) nor (b)
+to pay the price to B. 35. Fact: Jones had applied for shares of
+(b) There was a valid contract though in- Bank, on 26 October he withdrew his of-
+direct and C is liable. fer. The letter revoking the offer was re-
+(c) It is the discretion of the court to de- ceived by the company at 8.30 A.M. on
+termine the validity of contract. 27th October but before that, the bank and
+32. Fact: A landlord served a notice on the already made the allotment at 7.30 A.M.
+tenant demanding enchancement of rent. When Jones refused to take the shares of
+The tenant did not protest against it and the company, bank fi led a suit for specifi c
+continued to occupy the premises. The performance of the contract.
+conduct of the tenant amounts to accep- Issue: What is the liability of Jones?
+tance of the offer to pay the rent at a higher Decision:
+rate. (a) Mr Jones is not bound to accept the
+Issue: What is the liability of tenant? shares because offer was revoked be-
+Decision: fore the letter of allotment was actu-
+ally posted.
+(a) The tenant is liable to pay the higher
+(b) Mr Jones is liable
+rent.
+(c) It is a case of fraud by Mr Jones with
+(b) Tenant is not liable because tenant did
+the company.
+not send his acceptance of enhanced
+36. Fact: At an auction sale, A made the high-
+rent.
+est bid for B’s goods. He withdrew the bid
+(c) The tenant is liable to be evacuated.
+before the fall off the hammer. B knocked
+33. Fact: D, in an answer to enquiry as to the
+down the goods in favour of A. B sued A
+price of pig iron wrote to H, “We shall be
+for the price of goods.
+glad to supply you with 2000 tonnes of pig
+Issue: Is A liable for the price of goods?
+iron at 65s per ton”, and after further cor-
+Decision:
+respondence wrote on the 28th January,
+(a) A is liable for the price of goods as
+that the price was 65s net. He received this
+well as damages cost to B.
+letter on the 30th January and on the same
+(b) A is not liable as A’s bid was no more
+day wrote “We will take the 2000 tonnes
+than offer and he was entitled to with-
+pig iron you offer us”. The post was then
+draw the same before it was accepted.
+delayed and the acceptance was received
+(c) Neither (a) nor (b)
+six hours later than the scheduled hour.
+37. Fact: D offered to sell wool to H on
+Issue: What is the liability of D?
+Thursday and agreed to give him three
+Decision:
+days time to accept. H accepted the offer
+(a) D is not liable because he did not re-
+on Monday, but by that time D had sold
+ceive the acceptance.
+the wool.
+(b) D is liable because once the letter of
+Issue: What is the nature of contract and
+acceptance is posted, the process of
+liability?
+acceptance is complete and unquali-
+Decision:
+fi ed so D is liable.
+(a) There was a valid contract and D is
+(c) It is a contract voidable at the option
+liable
+of D.
+(b) As there was no valid contract so D is
+34. Fact: A proposes by letter, to sell a house
+not liable.
+to B at a certain price. A revokes his pro-
+(c) It is a contract voidable at the option
+posal by telegram.
+of the H.
+Issue: Whether the revocation of an offer
+38. Fact: A offers to sell his house to B for
+is valid? Rs 1,000. B replies offering to pay Rs 950.
+Decision: A refuses. Subsequently B writes accept-
+(a) Yes, revocation of offer is valid be- ing the original offer.
+
+Issue: Is the offer sustaining or lapsed? cause D who made the promise gained
+Decision: nothing in return for the promise
+(a) The offer is still sustaining and A is made. The secretary of the commit-
+liable to sell his house. tee to whom the promise was made
+(b) Once B has made a counter offer, he suffered nothing as nothing had been
+has no right to make a subsequent ac- done to carry out the repairs.
+ceptance, so there is no offer, no ac- (b) D is liable because he had promised
+ceptance, no contract and no liability (c) D is liable because the promise made
+because the offer has already lapsed. by D was duly accepted.
+(c) B can compel A for specifi c perfor- 42. Fact: X, Y and Z enter into an agreement
+mance of the contract. under which X pays Rs 4,00,000 to Y and
+39. Fact: A young boy ran away from his fa- Y agreed to build a house for Z.
+ther’s home. The father issued a pamphlet Issue: Is the contract enforceable?
+offering a reward in these terms. “Any- Decision:
+body who fi nds a trace of the boy and (a) Contract is not enforceable because Z
+brings home will get Rs 500”. P was at the is not a party to the contract.
+Dharmsala of a railway station. There he (b) Here Z is a party to the contract but
+saw a boy, overheard a part of the conver- stranger to consideration and can en-
+sation, realized that this boy was missing force the contract.
+boy and promptly took him to the railway (c) Neither (a) nor (b)
+police station, where he made a report and
+43. Fact: A lawyer gave up his practice and
+sent a telegram to the boy’s father saying
+served as manager of a land-owner at the
+that he had found his son.
+latter’s request in lieu of which the land
+Issue: Is P entitled to the reward?
+owner subsequently promised a pension.
+Decision:
+Issue: What is the nature of the contract?
+(a) Yes, P is entitled to reward because
+Decision:
+the mere performance of any condi-
+(a) There was a valid contract as there
+tion of the contract results into the
+was a good past consideration.
+entering into valid contract.
+(b) Such vague promises do not result
+(b) P is not entitled because he was not
+into a contract.
+aware of the offer.
+(c) Contract is voidable at the option of
+(c) P is not entitled because he did not
+land-owner.
+send his acceptance.
+44. Fact: P rendered services to D during his
+40. Fact: D promised to pay P a commis-
+minority at D’s request, which were con-
+sion on articles sold by him in a bazaar in
+tinued after D ceased to be a minor. After
+which he occupied a shop in consideration
+attaining majority D promised to pay an
+of P having expended money in the con-
+annuity to P for the services rendered in
+struction of such bazaar. The money had
+the past.
+not been spent by P at the request of D but
+Issue: What is the nature of contract and
+was spent by him at the desire of the Col-
+whether P can recover the money?
+lector of the District.
+Decision:
+Issue: What is the nature of contract?
+(a) It was a good contract and P can re-
+Decision:
+cover the money.
+(a) It was a valid contract and P is liable.
+(b) It was not a valid contract because the
+(b) There was no consideration and hence
+contract with the minor is void ab ini-
+no contract, no liability.
+tio.
+(c) Neither (a) nor (b)
+(c) It is voidable contract at the option of
+41. Fact: D promised Rs 500 to a fund P for
+minor.
+re-building a Mosque. Nothing had been
+45. Fact: Due to B’s negligent driving, a lady
+done to carry out repairs and reconstruc-
+was injured. She signed a release agree-
+tion. The secretary of the mosque fi led a
+suit for the recovery of Rs 500. ment with insurance company of all her
+Issue: What is the liability of D? claims for just $ 21,000. She was not held
+Decision: to be bound by the agreement due to in-
+(a) The promise was not enforceable be- adequate amount of earlier claim and in-
+
+CIVIL LAW 93
+equality of her bargaining power with pro- surable interest in the life of M. Thus
+fessional insurance company. the contract of insurance was in the
+Issue: Will she be entitled to her claim for nature of a wagering contract and thus
+subsequent damages? void.
+Decision: (b) It is a valid contract and the company
+(a) Yes, law does not debar her. is liable.
+(b) She cannot, because law of estoppel (c) Neither (a) nor (b)
+applies against her. 48. Fact: A promises to obtain for B, an
+(c) Neither (a) nor (b) employment in the public service and B
+46. Fact: A borrowed Rs 50,000 at 12 per promises to pay Rs 1,000 to A.
+cent per annum interest from B, repayable Issue: What is the nature of contract?
+on demand. B made the demand and on Decision:
+failure of A to pay back, he was about to (a) It is a valid contract.
+sue A to get back his money. A requested (b) The agreement is void as the consider-
+B to postpone the fi ling of suit and agreed ation for it is unlawful.
+to pay interest at the rate of eighteen per (c) It is a voidable contract.
+cent per annum. On refusal to pay interest
+49. An old lady, Laxmi Rani gifted her prop-
+at 18 per cent B fi led a suit.
+erty to her own daughter Ramayya, with
+Issue: Whether B will succeed in his
+the direction to pay a certain sum of mon-
+suit?
+ey annually to Chinayya, her maternal un-
+Decision:
+cle. On the same day Ramayya executed
+(a) No, he will not succeed because he
+an agreement with Chinayya agreeing to
+himself offered to pay 18% interest
+pay the amount annually. Later, Ramayya
+per annum.
+refused to honour the agreement on the
+(b) He will succeed in his suit because he
+ground that there is no consideration. Chi-
+was forced to pay 18% under undue
+nayya sued for the recovery of the annu-
+infl uence which vitiates the validity
+ity.
+of contract because one of the basic
+Issue: What is the nature of contract?
+essential features of a valid contract is
+Decision:
+that it should be entered into, with free
+(a) There was suffi cient consideration
+consent.
+i.e., the property given to her by the
+(c) It is a voidable contract so B will not
+sister of Chinayya so Ramayya was li-
+succeed.
+able to pay.
+47. Fact: On 15 January 1951 M, the de-
+(b) There was no agreement between
+ceased uncle of A made an application for
+Chinayya and Ramayya so Ramayya
+insurance for Rs 35,000. In that applica-
+is not liable.
+tion, M stated his occupation as landlord
+(c) There is no contract.
+and mill-owner. On the basis of the appli-
+50. Fact: An arrangement was made between
+cation, the company issued a policy to M
+the fathers of a groom and a bride before
+on 19 January 1951. In the policy, A was
+their marriage that each would pay a cer-
+mentioned as nominee. The fi rst two quar-
+terly premiums on the policy were paid by tain sum of money to the husband. Father
+A. M died on the night of 19th and 20th of the boy paid the promised amount but
+August 1951, and the notice of his death, the bride’s father failed to pay the amount.
+and that of the claim was sent to the com- The boy sued his father-in-law for the re-
+pany on 15 September 1951. After making covery of the promised amount of money.
+inquiries, the insurance company refused Issue: Whether the boy can recover the
+claim. A brought a suit for the recovery of money.
+Rs 35,000. Decision:
+Issue: What is the nature of contract? (a) He cannot recover the amount.
+Decision: (b) He can recover because they had en-
+(a) The policy in question was effected tered into a contract before the mar-
+by A in the name of M for his own use riage.
+and benefi t and further A had no in- (c) Neither (a) nor (b)
+
+51. Fact: A sold a large quantity of tyres to B ecuted a mortgage in his favour. He be-
+at a certain price on entering into a cov- came a major a few months later and fi led
+enant not to sell the tyres below the price a suit for the declaration that the mortgage
+mentioned in price list supplied by A. B executed by him during his minority was
+sold the tyres to C a retail dealer under a void and should be cancelled.
+contract stipulating the same covenant as Issue: Is the agreement void or valid?
+between A and B. C sold the tyres at a Decision:
+price less than the listed price. A sued C (a) The agreement is valid and the minor
+for the breach. is not entitled to the repayment of
+Issue: Can A sue C? money.
+Decision: (b) A mortgage by a minor was void and
+(a) Yes, A can because A had contract B was not entitled to repayment of
+with B and C automatically becomes money.
+a third party. (c) It is a discretion of the court.
+(b) A could not sue C as A was not a party 55. Fact: In order to pay-off the promissory
+to the contract between B and C. note and the mortgage debt of his father,
+(c) Neither (a) nor (b) the minor son and his mother sold a piece
+52. Fact: U was appointed by his father as his of land to the holders of the promissory
+successor and was put in possession of his note in satisfaction of the note and mort-
+entire property. In consideration thereof U gage debt. Later the minor brought an ac-
+agreed with his father to pay a certain sum tion to recover back the land.
+of money and to give a village to J, the Issue: Is the action for recovery of land
+illegitimate son of his father, on his attain- valid?
+ing majority. Decision:
+Issue: What is the nature of contract? (a) The action will be rejected on the
+Decision: ground that the sale of the land in
+(a) It is a valid contract. As there was a question was valid as it was done by
+concrete consideration between U and the mother for her minor son and on
+his father and if U does not fulfi ll any his behalf.
+condition then J is entitled to sue U. (b) The action for recovery of land is val-
+(b) As there is no contract between U and id and the minor will be entitled to the
+J so J has no claims against U. recovery of land.
+(c) It is a contract void ab initio because (c) It will be the discretion of the court
+consideration agreed upon is for ille- because the present proposition is not
+gitimate son which goes against the covered by the bare provisions of In-
+morality. dian Contract Act.
+53. Fact: D agreed with P’s father that he 56. Fact: A minor borrowed a sum of money
+would pay P, Rs 500 per month as kharch- executing a simple bond for it, and after
+i-pandan if she marries D’s son. The al- attaining majority executed a second bond
+lowance was stopped sometime after the in respect of the original loan and inter-
+celebration of marriage. P sued her father- est.
+in-law for Rs 1,500 as arrears of allow- Issue: What is the nature of contract?
+ance. Decision:
+Issue: Can P sue the D and was there any (a) The contract is valid because the mi-
+contract between P and D? nor had executed the second after at-
+Decision: taining majority.
+(a) Yes P can sue the D as there is a valid (b) The contract is not valid because the
+contract because D had already per- contract was the renewal of fi rst bond
+formed the conditions of contract. which was done by minor.
+(b) There is no valid contract so P cannot (c) Neither (a) nor (b)
+sue D. 57. Fact: X, a minor, insured his goods with
+(c) Neither (a) nor (b) an insurance company. The goods were
+54. Fact: “As a minor borrowed Rs 20,000 damaged. X fi led a suit for claim. The
+from B and as a security for the same ex- insurance company took the plea that the
+
+CIVIL LAW 95
+person on whose behalf the goods were in- (b) The contract is not valid because the
+sured was a minor. The court rejected the application of coercion vitiates the va-
+plea and allowed the minor to recover the lidity of contract.
+insurance money. (c) It is a quite confusing situation so it
+Issue: Will the minor be entitled to recov- will be the discretion of the court.
+er the insurance money? 60. Fact: A girl of 13, lost her husband and
+Decision: her husband’s relatives refused to have
+(a) No, he will not be entitled as he is mi- the husband’s corpse removed unless she
+nor. adopted one child of their choice. It was
+(b) He will be entitled though he was mi- held that the adoption wad not binding on
+nor at the time he insured his goods her as her consent was obtained under co-
+with the company. The contract with ercion within the meaning of Section 15
+the minor has been held to be void to since any person who obstructed a dead
+protect the interest of minor but this body from being removed would be guilty
+provision cannot be misused against of an offence under Section 297 of the In-
+the interest of minor. dian Penal Code.
+(c) It will be the discretion of the court as Issue: Is the adoption valid?
+such contracts are not covered by the Decision:
+Indian Contract Act. (a) No, the adoption is not valid as it was
+58. Fact: An illiterate woman executed a deed imposed through coercion.
+under the impression, that she was execut- (b) The adoption is valid.
+ing a deed authorizing her nephew to man-
+(c) The adoption is voidable at the option
+age her lands, while in fact it was a deed of
+of the girl.
+gift in favour of her nephew. The evidence
+61. Fact: By threat of suicide, a Hindu in-
+showed that the woman never intended to
+duced his wife and son to execute a release
+execute such a deed of gift nor was the
+in favour of his brother in respect of cer-
+deed read or explained to her.
+tain properties which they claimed as their
+Issue: Is the deed valid and is operative?
+own.
+Decision:
+Issue: Is the deed valid?
+(a) The deed is valid and operative.
+Decision:
+(b) The deed is not valid and not operative
+(a) The threat of suicide amounted to
+because any contract done under the
+coercion within section 15 and the re-
+wrong impression, misrepresentation,
+lease dead was voidable.
+mistake, undue infl uence, threat, force
+(b) The deed is valid and can be execut-
+or coercion is not a valid contract as
+ed.
+per the Section 14 of the Indian Con-
+(c) Neither (a) nor (b)
+tract Act.
+62. Fact: A railway company refuses to de-
+(c) As Indian Contract Act does not cover
+liver certain goods to the consignee, ex-
+such situations so it will be the discre-
+cept upon the payment of illegal charges
+tion of the court.
+for carriage. The consignee pays the sum
+59. Fact: A, on board an English ship on the
+charged in order to obtain the goods.
+high seas, causes B to enter into an agree-
+Issue: Are the claims of consignee main-
+ment by an act amounting to criminal in-
+tainable?
+timidation under the Indian Penal Code. A
+Decision:
+afterwards sues B for breach of contract
+(a) The claims of consignee are maintain-
+at Calcutta. A has employed coercion al-
+able and he is entitled to recover so
+though his act is not an offence by the law
+much of the charges as was illegally
+of England, and although Section 506 of
+excessive.
+the Indian Penal Code was not in force at
+(b) It is a matter of mutual understand-
+the time when or where that act was done.
+ing between the company and the
+Issue: Is the contract valid and is bound to
+consignee so the claims of consignee
+be performed?
+will not be maintainable in the court
+Decision:
+(a) The contract is valid and bound to be of law.
+performed. (c) Neither (a) nor (b)
+
+63. Fact: A, a police offi cer purchased a 66. Fact: A, a money lender, advances Rs 100
+property worth Rs 2 lakhs for Rs 20,000 to B, an agriculturist and by undue infl u-
+from B, an accused under his custody. But ence induces to B to execute a bond for
+later on B wants to cancel the sale on the Rs 200 with interest at 6 per cent per
+ground of undue infl uence. month.
+Issue: Is the contract of sale is valid? Issue: Is it a case of undue infl uence?
+Decision: Decision:
+(a) Contract of sale is valid and B will not (a) It is not a case of undue infl uence
+be entitled to claim the recovery of because it is purely and technically a
+land. business deal and the motive of busi-
+(b) A, the police offi cer is in a position to ness is to earn profi t.
+dominate the will of B and the exis- (b) It is a case of undue infl uence because
+tence of undue infl uence can be pre- it is a mere exploitation of one’s con-
+sumed so the contract is not valid and ditions and a clear cut case of induce-
+B will be entitled to recovery of land. ment of undue infl uence.
+(c) Neither (a) nor (b) (c) Neither (a) nor (b)
+64. Fact: A solicitor sold certain property to 67. Fact: A youth of 18 years of age, spend
+one of his clients. The client subsequently thrift and a drunkard, borrowed Rs 900 on
+alleged that the property was considerably a bond bearing compound interest at 2%
+overvalued and his consent was caused by per mensem.
+undue infl uence.
+Issue: Is it a case of undue infl uence?
+Issue: Is it a case of imposing undue infl u-
+Decision:
+ence and what is the nature of contract?
+(a) No, it is not a case of undue infl u-
+Decision:
+ence.
+(a) The contract is not valid since the re-
+(b) It is a case of undue infl uence.
+lationship of solicitor and client is of
+(c) It is a contract voidable at the option
+fi duciary nature, the existence of un-
+of the youth.
+due infl uence can be presumed to ex-
+68. Fact: A, a horse dealer sold a mare to B.
+ist and the client will be entitled to the
+A knew that the mare had a cracked hoof,
+recovery of property.
+which he fi lled up in such a way as to defy
+(b) It is a valid contract because it cannot
+detection. The defect was subsequently
+be presumed that such a learned so-
+discovered by B.
+licitor can resort to any illegal means.
+Issue: Is it a valid contract?
+(c) It will be the discretion of the court to
+Decision:
+decide on the basis of available evi-
+(a) Yes, it is a valid contract.
+dence and circumstances.
+(b) It is not a valid contract because the
+65. Fact: A poor Hindu widow who was in
+consent of the B has been obtained by
+dire need of money, was forced by a mon-
+fraud and misrepresentation. It can be
+ey lender to agree to pay 100% rate of in-
+avoided by B.
+terest.
+(c) It cannot be avoided by B though it is
+Issue: Is it a case of using undue infl u-
+not a valid contract.
+ence?
+69. Fact: The director of a company issued
+Decision:
+a prospectus containing false representa-
+(a) It is a case of exerting undue infl uence
+tion on the faith of which Z agreed to buy
+upon a person of mental distress. So
+some shares from the company.
+the contract is not valid and the mon-
+Issue: Can the Z avoid the contract?
+ey lender cannot plead for the specifi c
+Decision:
+performance of the contract.
+(a) Z may avoid the contract because the
+(b) The money lender can ask for the spe-
+directors are deemed to be the agents
+cifi c performance of contract as there
+of the company.
+is no indication of any undue infl uence
+because lady herself had approach the (b) Z cannot avoid the contract.
+money lender and voluntarily agreed (c) There is no contract as such so com-
+to pay 100% interest. pany is not liable.
+(c) Neither (a) nor (b) 70. Fact: A broker was asked to buy shares
+
+CIVIL LAW 97
+for client. He sold his own shares without tract of sale was signed. During this period
+disclosing this fact. the sales came down to Rs 5000 a month.
+Issue: Can client avoid the contract? A unintentionally keeps quite.
+Decision: Issue: Is there misrepresentation and B is
+(a) No, client cannot avoid the contract. entitled to rescind the contract?
+(b) The client was entitled to avoid the Decision:
+contract or affi rm it with a right to (a) There was misrepresentation and B
+claim secret profi t made by broker on was entitled to rescind the contract.
+the transaction since the relationship (b) There was no misrepresentation and
+between the broker and the client was B was not entitled to rescind the con-
+relationship of utmost faith. tract.
+(c) Neither (a) nor (b) (c) The fl uctuations in the profi ts is the
+71. Fact: A intends to sell his horse to B and matter of fact, no one can be held li-
+says, “My horse is perfectly sound”. A able for that.
+genuinely believes the horse to be sound, 74. Fact: X, a widow is entitled to certain oc-
+although he does not know that the horse cupancy rights. X remarries and believing
+has fallen ill yesterday. B there upon buys that she has lost her occupancy rights by
+the horse. reason of her second marriage, agrees to
+Issue: Is there misrepresentation on the take the land from Y, her zamindar, on an
+part of A? increased rate of rent. Both X and Y hon-
+Decision: estly believe that X has lost her occupancy
+(a) There is no misrepresentation because rights.
+it’s a business and everything is fair. Issue: What is the nature of contract?
+(b) There is misrepresentation on the part Decision:
+of A because no business can be con- (a) The contract is voidable.
+ducted which involves fraud, mispre- (b) The contract is not voidable.
+sentation, undue infl uence, force or (c) Neither (a) nor (b)
+coercion. 75. Fact: A by misrepresentation leads B er-
+(c) Neither (a) nor (b) roneously to believe that 500 maunds of
+72. Fact: A company’s prospectus contained a indigo are made annually at A’s factory.
+representation that the company had been B examines the accounts of the factory,
+authorized by a Special Act of Parlia- which show that only 400 maunds of in-
+ment to run trans by steam or mechanical digo have been made. After this, B buys
+power. The authority to use steam was, in the factory.
+fact, subject to the approval of the board Issue: Is the contract void?
+of Trade, but no mention was made of this. Decision:
+The Board refused consent and conse- (a) The contract is not voidable on ac-
+quently the company was wound up. The count of A’s misrepresentation, be-
+plaintiff having bought some shares, sued cause A had the means of discovering
+the directors for fraud. the truth with ordinary diligence.
+Issue: Are the directors liable? (b) The contract is void as it is a clear cut
+Decision: case of misrepresentation.
+(a) They are not liable because whatever (c) Neither (a) nor (b)
+they stated in their prospectus was not 76. Fact: A man and a woman made a separa-
+at all intended to misrepresent any- tion deed under which the man agreed to
+body. pay a weekly allowance to the woman un-
+(b) They are liable because misrepresen- der a mistaken assumption that they were
+tation is there whether it is intentional lawfully married.
+or unintentional. Issue: Is it a valid contract and enforce-
+(c) The plaintiff is equally liable. able in the court of law?
+73. Fact: A, before signing a contract with B Decision:
+for sale of business, correctly states that (a) Yes, it is a valid contract and enforce-
+the monthly sales are Rs 50,000 Negotia- able in the court of law.
+tions lasted for fi ve months, when the con- (b) It is a void agreement as there was a
+
+common mistake on the point of fact from B, though contrary to the belief of
+which was material to the existence of both parties at that time, A was already a
+agreement. tenant for life by inheritance of the fi shery
+(c) It is a voidable contract. and B had no title at all.
+77. Fact: There is an agreement between A Issue: Is the agreement valid?
+and B for the purchase of a certain horse. Decision:
+But the horse is dead at the time of the (a) The agreement is valid.
+contract. (b) The said agreement is void.
+Issue: What is the nature of contract? (c) The agreement is voidable.
+Decision: 82. Fact: H contracted with the N Corpora-
+(a) The contract is valid and enforceable tion to build a number of houses. In cal-
+in the court of law. culating the cost of the houses, H, by mis-
+(b) The contract is void. take deducted a particular sum twice and
+(c) The contract is voidable. submitted his estimates accordingly. The
+78. Fact: A agrees to sell to B a specifi c cargo Corporation agreed to the terms which
+of goods supposed to be on its way from were naturally lower than the actual cost.
+England to Bombay. It turned out that be- Issue: Is the agreement binding?
+fore the day of the bargain, the ship carry- Decision:
+ing the cargo had been cast away and the (a) The agreement was binding even
+goods lost. Neither party was aware of the though it was based upon erroneous
+facts. estimates.
+Issue: What is the nature of contract? (b) The agreement is void.
+Decision: (c) The agreement is voidable.
+(a) The contract is valid and A is liable. 83. Fact: A, an illiterate old man, was made to
+(b) The contract is voidable at the option put his signature on a document which was
+of B. a pronote. A thought the document to be a
+(c) The contract is void. will where his signature was required as a
+79. Fact: A agreed to buy from B, 125 bales witness. Under this presumption he signed
+of cotton “to arrive ex pearless from Bom- the document which was in fact a pronote.
+bay”. There were two ships of that name Subsequently B endorsed the pronote to C
+sailing from Bombay. One of which was who paid value for it in good faith. C sued
+in the mind of A and the other in the mind A on the pronote.
+of B. Issue: Is A liable?
+Issue: What is the nature of agreement? Decision:
+Decision: (a) A is liable because the pronote was
+(a) It is a valid agreement. signed by him.
+(b) That agreement is void. (b) A is not liable because A had not
+(c) The agreement is voidable. signed the pronote with the intention
+80. Fact: D wrote to P asking for a quotation of endorsement to C.
+of 50 rifl es. Later he telegraphed, “Send (c) Neither (a) nor (b)
+three rifl es”. The telegraph clerk by mis- 84. Fact: A fraudulent person named Blen-
+take sent the message wrongly as “Send karn by imitating the signature of a re-
+the rifl es”. P sent 50 rifl es and upon D’s spectable fi rm Blenk & Co., sent an order
+refusal to accept, fi led a suit for damages. for goods, which were duly delivered to
+Issue: What is the nature of contract? him by Lindsay. Blenkarn sold the goods
+Decision: to Cundy who acted as a bonafi de.
+(a) Contract is void even if the mistake Issue: Should Cundy returns the goods to
+was caused by the third party. Lindsay?
+(b) The contract is valid because the mis- Decision:
+take was made by the clerk who was (a) Cundy must return the goods to Lind-
+not a party to the contract. say, as although Cundy was an in-
+(c) The contract is voidable at the option nocent purchaser, he had no title to
+of D. them, the contract between Lindsay
+81. Fact: A agreed to take a lease of fi shery and Blenkarn being void.
+
+CIVIL LAW 99
+(b) Cundy is not liable, Blenkarn is li- George Bullough (a name known to P as a
+able. man of good credit). N pledged the jewels
+(c) Neither Blenkarn nor Cundy are li- with D for £ 350. P sued D for the return
+able, it is the negligence of the com- of the jewels pleading that no title passed
+pany so they should suffer. to N as he was not Sir George Bullough.
+85. Fact: Boulton had taken over the business Issue: Is the contract valid/void?
+of Brocklehurst, with whom Jones had Decision:
+been in the habit of dealing and against (a) There was no mistake as to the identi-
+whom he had a set off. Jones set an order ty of the person and hence the contract
+for goods to Brocklehurst. Boulton ex- was not void.
+ecuted the order without notifying Jones (b) The contract was void.
+of the change in the ownership of the busi- (c) The contract was voidable.
+ness. 89. Fact: A’s estate is sold for arrears of
+Issue: Is the contract valid? revenue under the provision of an Act of
+Decision: the legislature by which the defaulter is
+(a) Contract is valid and Jones is liable. prohibited from purchasing the estate. B,
+(b) Jones was not liable to pay for the upon an understanding with A becomes
+goods as the contract was void. the purchaser, and agrees to convey the
+(c) Contract is voidable. estate to A upon receiving from him the
+86. Fact: X falsely representing herself as the price which B has paid.
+wife of a well known millionaire takes a Issue: Is the agreement valid?
+ring from a jewellers shop for the approval Decision:
+of her husband. She pledges it with a pawn (a) The agreement is valid and the trans-
+broker, who is in good faith and without action is workable and seller and pur-
+notice of the fi rst transaction pays her chase are liable.
+Rs 10,000. (b) The agreement is void, as it renders
+Issue: Can the jeweller recover his ring? the transaction, in effect a purchase by
+Decision: the defaulter and would so defeat the
+(a) The jeweller could recover the ring object of the law.
+from the pawn broker as there was no (c) The agreement is voidable.
+contract between the jeweller and the 90. Fact: A asks an editor of a newspaper to
+lady. publish a defamatory article against B and
+(b) The jeweller could not recover the promises to pay Rs 4000 for the work.
+ring from the pawn broker Issue: Can the editor sue A?
+(c) The jeweller can sue the lady. Decision:
+87. Fact: S was a cinema critic, who always (a) The agreement is void as it involves
+wrote adverse criticisms about all the injury to the person of B and there-
+picture he saw. A, the owner of a theatre fore, a suit cannot be brought to re-
+advertised new picture in the theatre and cover Rs 4000 by the editor.
+gave instructions that no ticket should be (b) The agreement is valid and the edi-
+issued to S. S obtained ticket for a fi rst tor can sue A for the recovery of
+night performance through a friend. But at Rs 4000.
+the gate S was refused admission. S sued (c) B can sue A and editor both.
+for breach of contract. 91. Fact: P advanced money to D, a married
+Issue: Can S sue the theatre owner? woman to enable her to obtain a divorce
+Decision: from her husband and D agreed to marry
+(a) S can sue the theatre owner. her as soon as she obtained a divorce.
+(b) S cannot sue the theatre owner as Issue: Can P sue D for the recovery of
+there was no contract between the the- money?
+atre owner and S. Decision:
+(c) Neither (a) nor (b) (a) P can sue D for the recovery of mon-
+88. Fact: One N entered P’s shop, selected ey.
+jewellery and wrote out a cheque for (b) P was not entitled to recover back the
+£ 3000 representing himself to be Sir amount as the agreement had for its
+
+object the divorce of D from her hus- sum of Rs 2000. Miss B sued A for the
+band which is unlawful and against recovery of that sum on the ground that A
+morality and public policy. married someone else.
+(c) Neither (a) nor (b) Issue: What is the nature of the agree-
+92. Fact: A bank found that the goods in a ment?
+godown which were pledged to it against Decision:
+a loan, were either fraudulently overval- (a) Agreement is valid and B can sue A.
+ued or withdrawn in collusion with bank (b) The agreement is voidable at the op-
+offi cials. The borrower agreed to make up tion of B.
+for the defi ciency by hypothecating more (c) The agreement was in restraint of
+property. Some delay having taken place marriage and as such void.
+in the hypothecation, the bank fi led a com- 97. Fact: D agreed with P, not to carry on the
+plaint which was withdrawn after the hy- same business of dress makers on the ex-
+pothecation was completed. piry of the period of his service anywhere
+Issue: Is the agreement valid? within 800 miles of Madras.
+Decision: Issue: What is the nature of agreement?
+(a) The agreement was valid. Decision:
+(b) Agreement is voidable. (a) The agreement is valid.
+(c) Agreement is void. (b) The agreement is void.
+93. Fact: A paid B, a public servant a certain (c) The agreement is voidable.
+amount inducing him to retire from ser- 98. Fact: A contracts to sell to B the good-
+vice, thus paving the way for A to be ap- will of a business. A then sets up a similar
+pointed in his place. business close-by B’s shop and solicits
+Issue: Is the agreement valid? his customers. This is contrary to the con-
+Decision: tract.
+(a) Agreement is valid. Issue: Can B obtain an injunction to re-
+(b) The agreement is voidable. strain A from soliciting customers?
+(c) The agreement is void. Decision:
+94. Fact: A proposed the marriage of his wid- (a) B can obtain an injunction.
+ow niece to B and offered to give her gold (b) B cannot obtain an injunction.
+and jewels and land. The marriage took (c) Neither (a) nor (b)
+place, but A refused to fulfi l the rest of his 99. Fact: A agreed to become an assistant for
+promise. 3 years to B who was a doctor practising
+Issue: Is the agreement enforceable? at Zanzibar. It was agreed that during the
+Decision: term of the agreement A was not to prac-
+(a) It is enforceable as there is a valid tice on his own account in Zanzibar. At the
+agreement. end of one year, A ceased to act as B’s as-
+(b) It is not enforceable. sistant and began to practice on his own
+(c) Neither (a) nor (b) account.
+95. Fact: A promises B, the owner of a news- Issue: Can A be restrained?
+paper Rs 500 in consideration of the pub- Decision:
+lication by B, in his newspaper of false (a) The agreement was valid and A could
+statements in regard to a candidate for be restrained by an injunction from
+election. B published them. doing so.
+Issue: What is the nature of agreement? (b) A cannot be restrained.
+Decision: (c) Neither (a) nor (b)
+(a) The agreement is voidable at the op- 100. Fact: A company manufacturing special
+tion of B. yarn was offered collaboration by a for-
+(b) The agreement is valid and B can sue eign producer on the condition that the
+A. company shall maintain secrecy of all the
+(c) The agreement is void as it is against technical information and that it should
+the public policy. obtain corresponding secrecy arrange-
+96. Fact: A promised to marry none else ex- ment from its employees. One employee
+cept Miss B, and in default to pay her a was appointed for fi ve years with the con-
+
+CIVIL LAW 101
+dition that during this period he would not and B has accepted, then B is legally
+take service anywhere even if he left this bound, if he doesn’t turn up it amounts
+service. to breach of contract.
+Issue: Is the agreement valid? (b) It is a contract voidable at the option
+Decision: of A. it will be option available to A to
+(a) Agreement is valid. sue B or not to sue B.
+(b) Agreement is void. (c) No, A cannot sue B because the agree-
+(c) Agreement is voidable. ment was purely social in nature and
+101. Fact: Mohan polished Mr Ram Prasad’s there was no intention to create legal
+shoes without using aspect to do so. relationship. Agreements purely so-
+Mr Ram did not make any attempt to stop cial and domestic in nature are not
+Mohan from polishing his shoes. enforceable by law.
+Issue: Can Mohan make Mr Ram liable 104. Fact: X invited Y and this family to din-
+for payment for his services? ner on a certain night. Y accepted X’s in-
+Decision: vitation. On the date fi xed Y drove with
+(a) Mr Ram is liable to pay because he his family from Sector 14 to Industrial
+accepted Mohan’s Implied offer by Area and found his house locked. They
+not stopping him from polishing his waited upto 9.30 p.m. but the hosts did not
+shoes. turn up. They left the place and had their
+(b) Ram is not liable because the present meals in Piccadilly in Sector 17. The cost
+situation does not indicate any offer or of meal came to Rs 100.
+its acceptance. Hence no contract, no Issue: Can Y recover the amount?
+validity, no liability. Decision:
+(c) It is a vague contract, it will be discre- (a) No, Y cannot recover the amount
+tion of the court to interpret it at its from X because agreement was purely
+will. social in nature and there was no in-
+102. Fact: State whether there is any contract tention to create a legal relationship.
+in the following cases: (a) A and B agree (b) Y can recover the amount because X
+to go for hunting. (b) A and B agree to is responsible for all the botheration
+marry each other. (c) A agrees to sell some caused to Y, so X is liable.
+goods to B at a price to be fi xed by C. (d) (c) Neither (a) nor (b)
+A takes food in a restaurant. (e) A takes a 105. Fact: A agreed orally to sell his house
+seat in a local bus. to B for Rs 5,000, “Subject to contract”.
+Issue: What is the nature of contract? The next day C offered A Rs 6,000 for the
+Decision: house and A accepted this offer and sold
+(a) All the said contracts are void con- the house to C. Can B sue A for breach of
+tracts. contract? Would it make any difference to
+(b) There is valid contract in all cases ex- your answer if the agreement between A
+cept (a) because agreement to go for and B was in writing?
+hunting is a purely social agreement Issue: What is the liability of A and C?
+not intending to create legal relations. Decision:
+In (b) and (c), there is intention to cre- (a) A and C both are liable because it
+ate legal relationship whereas (d) and does not matter whether the agree-
+(e) amount to implied contracts. ment is oral or written.
+(c) In all the above statements there is no (b) An oral contract is perfectly valid ex-
+contract because the offers and accep- cept where writing, registration etc.,
+tances are very vague. is required by some statute. B cannot
+103. Fact: A invites B to dinner. B accepts the sue A for breach of contract because
+invitation but does not turn up at the din- the formalities required under the
+ner. Transfer of Property Act 1882 had
+Issue: Can A sue B for the loss he has suf- not been completed. Had this agree-
+fered? ment been in writing and registered, B
+Decision: could have sued A.
+(a) A can sue because once A has offered (c) Neither (a) nor (b)
+
+106. Fact: A, engages B for doing some work 109. Fact: A agrees to marry B. But B dies be-
+and promises to pay such remuneration as fore the marriage took place.
+shall be fi xed by a third person C. B does Issue: Is this a void agreement?
+the work. Decision:
+Issue: What will B get? (a) It is not a void agreement but a void-
+Decision: able agreement.
+(a) B will not get anything because A did (b) It is a agreement void ab initio.
+not promise to pay remuneration. (c) It is not a void agreement, but a void
+(b) C will be liable if B proves the con- contract because it was absolutely val-
+tract with C. id when entered into but subsequently
+(c) There is a contract between A and B became void.
+and A is bound to pay the remunera- 110. Fact: Romeo promised a gold necklace to
+tion as fi xed by C. If C does not fi x or Juliet at the time of their marriage. Romeo
+refuses to fi x the remuneration, then A fails to bring the necklace.
+is bound to pay the reasonable remu- Issue: Can Juliet claim the necklace?
+neration. Decision:
+107. Fact: X promises to pay Y, his wife a (a) Juliet cannot claim the necklace as
+pocket money Rs 500 per month. After 2 there is no consideration from Juliet.
+months he stops the pocket money. (b) Juliet can claim the necklace.
+Issue: Can Y sue X? (c) Neither (a) nor (b)
+Decision: 111. Fact: A, an auctioneer gives advertisement
+(a) No, because agreement between X in the newspaper wherein he mentions that
+and Y is domestic agreement which is certain furniture would be sold at Jaipur
+not intended to be enforceable at law. on a certain day. Mr B, a prospective buy-
+(b) Y can sue X because the matrimonial er of Delhi, on reading the advertisement
+is purely and technically a legal rela- reaches Jaipur on the fi xed date. But the
+tionship. The breach of any condition/ auctioneer cancels the auction sale.
+promise results into breach of contract Issue: Can B sue A, for not conducting the
+and hence amounts to liability. auction sale and can he claim damages for
+(c) It will be the duty of the court to de- loss of his time and expenses?
+duce the relevant facts and give judge- Decision:
+ment. (a) Yes, he can because once the auction-
+108. Fact: A agrees to pay Rs 50,000 to B if B eer gave an advertisement and B read
+kills C. To pay to B, A borrowes Rs 50,000 it, the contract is complete.
+from D who is also aware of the purpose (b) No, because advertisement was only
+of loan. B kills C but A refuses to pay. A an invitation to offer and not offer.
+also refuses to repay the loan to D. (c) Neither (a) nor (b)
+Issue: What is the nature of contract? 112. Fact: A offers, by a letter, to sell certain
+Decision: article to B who receives the letter the
+(a) A is liable to pay Rs 50,000 to B next day B immediately posts his letter
+though B is guilty of offence of mur- of acceptance. The same evening A posts
+der. But the agreement between A and another letter revoking his offer. A’s let-
+B is valid and hence enforceable. ter revocation and B’s letter of acceptance
+(b) The agreement between A and B is an cross in the post.
+illegal agreement because its object Issue: Is there any contract between A and
+is unlawful. Hence B cannot recover B?
+anything from A. Since main agree- Decision:
+ment between A and B is illegal the (a) No, B cannot because there is no con-
+agreement between A and D which tract as there is no receipt of offer and
+is collateral to the main agreement is acceptance by A and B.
+also void and hence D cannot recover (b) It is an agreement voidable at the op-
+anything from A. tion of B.
+(c) A is liable to pay amount to D because (c) Yes, a contract comes into existence
+D has no involvement in the offence between A and B as per Section 4 and
+of murder. Section 5 of the Indian Contract Act,
+
+CIVIL LAW 103
+because once the letter for offer and 116. Fact: A offers to sell his house to B for
+letter for acceptance are posted the Rs 5 lakhs. B says, “I accept your offer.
+contract is complete and the parties Here is Rs 2 lakhs in cash and a 3 month
+are bound and liable. promissory note for the balance.”
+113. Fact: A makes an offer to B by letter Issue: Is there any contract between A and
+wherein he mentions that acceptance can B?
+be made by B posting a letter to A. A gives Decision:
+the letter to his peon for posting the same (a) No, there is no contract between A and
+but peon who gets to post it immediately, B because acceptance is conditional.
+posts it after 7 days. In the meantime, on (b) Yes, there is contract, payment of Rs 2
+not receiving any reply from B, A sells the lakh amounts to the performance of
+goods to C. But B as soon as the receives contract and hence contract is valid.
+A letter, gives his acceptance by posting a (c) The contract is voidable at the option
+of A.
+letter.
+117. Fact: An auctioneer advertised in a news-
+Issue: What are the legal remedies avail-
+paper that a sale of offi ce furniture will
+able to B, if any?
+be held at Bangalore. Ajay, a broker of
+Decision:
+Mumbai reached Bangalore on the ap-
+(a) There is contract between A and
+pointed date and time. But the auctioneer
+B. But since A has already sold the
+withdrew all the offi ce furniture from the
+goods, B can recover damages from
+auction sale. The broker sued for his loss
+A.
+of time and expenses.
+(b) There is no contract between A and B
+Issue: Will be succeed?
+because the letter was posted after the
+Decision:
+goods were sold so B cannot sue for
+(a) The broker will succeed and for the
+damages.
+loss of time and expenses he will get
+(c) Neither (a) nor (b)
+the damages.
+114. Fact: Mr A stops a taxi and steps in to
+(b) In sale by auction, goods are sold by
+it and asks the driver to take him to cer-
+inviting bids from the prospective
+tain destination. The driver refuses on the
+buyers. The bids are offers and invi-
+ground that the trip is very short and not
+tation to people to participate in auc-
+profi table for him.
+tion sale through advertisement is not
+Issue: What can Mr A do? a proposal but merely an invitation to
+Decision: offer. Therefore, the brokers will not
+(a) A cannot do anything. succeed in claiming compensation for
+(b) Mr A can force the driver to take him loss of time and expense in reaching
+to the destination, as a contract comes Bangalore for advertised auction sale
+into existence between Mr A and taxi cancelled later on.
+driver as soon as A steps into taxi. (c) Neither (a) nor (b)
+(c) It is a contract voidable at the option 118. Fact: Mr A is a merchant of Delhi. He
+of driver. sends his son B to Mumbai with a letter
+115. Fact: An article is on display in a show- addressed to a merchant of Mumbai. B
+room with price tag of, “Rs 100”. Mr A hands over the letter to C and keeps wait-
+offers Rs 100 to the shopkeeper for the ing there. C reads the letter which contains
+article, but shopkeeper refuses to sell it. an offer from A for sale of certain quantity
+Issue: Can Mr A sue B for not selling the of rice. The letter also contains that if C
+article? accepts the offer, then he must give his
+Decision: reply to B. C sends B without any reply,
+(a) A can sue B because display of article but later decides to accept A’s offer by
+is an offer and B has accepted it for telegram. The telegram reaches A before
+the price tagged on it. B returns.
+(b) Mr A can not force the shopkeeper to Issue: Has a valid contract come into exis-
+sell the article, because display of the tence?
+article is only invitation to offer and Decision:
+not offer. (a) There is a valid contract once the C
+(c) Neither (a) nor (b) sends the telegram.
+
+(b) It is a contract voidable at the option Issue: Is A bound by his promise?
+of A. Decision:
+(c) No, But A must inform C within rea- (a) Yes, Section 25(2) is applicable, be-
+sonable time that acceptance is not cause there is a valid consideration
+made according to the prescribed and in return for the consideration B
+mode. has performed the conditions of con-
+119. Fact: Mr A tells B during conversation, tract.
+that he will give Rs 10,000 to anyone who (b) A is not bound by the promise because
+marries his daughter with his consent. B it is an oral contract.
+marries A’s daughter with A’s consent. (c) A is not bound by the promise because
+Issue: Is B entitled to recover the money the action of B is just of philanthropic
+from A? nature.
+Decision: 123. Fact: A, promises to contribute Rs 5,000
+(a) B can’t recover the money from A be- for repairs of a temple. The trustee of
+cause what A says is only a statement temple, relying on A’s promise incure cer-
+of intention and not offer. tain liabilities. A latter on does not pay the
+(b) Yes, B can recover the money because amount.
+once the offer was made and accepted Issue: Can trustee take action against A?
+it had resulted into valid contract and Decision:
+liability arises. (a) Trustee cannot take action against A
+because the mere promise by A does
+(c) Neither (a) nor (b)
+not bind him.
+120. Fact: A is in dire need of money, so sells
+(b) Yes, the trustee can take action be-
+his newly purchased car worth Rs 3 lakhs
+cause the promise by A leading to
+for Rs 50,000. Later on, he wants to set
+the trustee incurring certain liabilities
+aside the contract on the ground of inad-
+make A liable.
+equacy of consideration?
+(c) Neither (a) nor (b)
+Issue: Can he do so?
+124. Fact: A promises to contribute Rs 20,000
+Decision:
+towards National Defence Fund. He does
+(a) Yes, he can do so on the ground of in-
+not pay the promised money.
+adequacy of consideration.
+Issue: Can any legal action be taken
+(b) No, he cannot do so because there was
+against him?
+no undue infl uence and consideration
+Decision:
+was valid.
+(a) Yes, he can be sued.
+(c) It is a contract voidable at the option
+(b) Neither (a) nor (c).
+of A.
+(c) No. The mere promise by A does not
+121. Fact: When A is out of station on holiday,
+result into any contract.
+a storm damages the roof his house. B his
+125. Fact: A was badly in need of money, so
+neighbour and friend carries out the neces-
+he offered to sell his motor cycle worth
+sary repairs. On coming back, A promises
+Rs 50,000 to B for Rs 25,000. B refused
+to pay Rs 10,000 for the expenses incurred
+to buy. A further lowered the price until B
+and time spent by B.
+agreed to pay Rs 20,000. Before the deliv-
+Issue: Can B recover the amount if A does
+ery of motor cycle to B, A received anoth-
+not pay it later on?
+er attractive offer from C, for the purchase
+Decision:
+of motorcycle for Rs 30,000. A refused to
+(a) B cannot recover because there is no
+deliver the motorcycle to B arguing that
+valid contract.
+the purchase price was inadequate and
+(b) It will be the discretion of the court.
+sells it to.
+(c) Yes, B can recover the amount from
+Issue: Can B sue A for damages?
+A as per conditions being fulfi lled of
+Decision:
+Section 25(2).
+(a) Yes, because inadequacy of consider-
+122. Fact: A car breaks down on a road. A asks
+ation is no ground for avoiding a con-
+B, a passer-by, to help him tow his car to a tract.
+nearby garage. B tows the car and in return (b) No, because B was already exploiting
+A promises to B at the garage Rs 100. the situation of A.
+
+CIVIL LAW 105
+(c) It is a contract voidable at the option Issue: Can the Vakil claim Rs 1000?
+of B so A is liable. Decision:
+126. Fact: A and B are friends. B treats A dur- (a) Yes, Vakil can claim.
+ing A’s illness. B does not accept payment (b) Vakil cannot claim.
+from A for the treatment and A promises (c) It will be the discretion of the court to
+B’s son X to pay him Rs 1,000. A being decide.
+in poor circumstances in unable to pay. X 130. Fact: A promises B his nephew, a reward
+sues A for money. of Rs 500 if he refrained from smoking for
+Issue: Can X recover? two years. B does so.
+Decision: Issue: Is he entitled to the reward?
+(a) Yes, X can recover as his father B has Decision:
+already performed the conditions of (a) Yes, B is entitled to reward because
+contract for which the payment is to he has, at the desire of uncle refrained
+be made. from smoking for 2 years. This is a
+(b) X cannot recover amount from A be- valid consideration as per defi nition
+cause there is no agreement between in Section 2(d) in the form of absti-
+X and A because there is no consid- nence.
+eration. Hence, no consideration no (b) No, he is not entitled because the
+contract. promise by uncle is just an invitation
+(c) Neither (a) nor (c). to offer and does not amount into any
+127. Fact: X gives to Y Rs 300 to be given valid contract and there was no valid
+to Z. Y informs Z that he is holding the
+consideration.
+money for him. But afterwards Y refuses
+(c) It is a contract voidable at the option
+to pay the money. Z sues Y for the money.
+of uncle.
+Y contends that Z cannot sue as he was
+131. Fact: A, a Muslim lady sues her father-in-
+not a party to the contract.
+law for the arrears of allowance payable to
+Issue: Will the contention of Y be up-
+her by him, under an agreement between
+held?
+him and her own father, in consideration
+Decision:
+on marriage.
+(a) Y’s contention will not be upheld be-
+Issue: Will she succeed?
+cause X has created privity of contract
+Decision:
+by his conduct.
+(a) No
+(b) Y’s contention will be upheld because
+(b) Yes, because although she is a stranger
+he was not party to contract.
+to contract, but she can sue as contract
+(c) Neither (a) nor (b).
+was made for her benefi t.
+128. Fact: A promises to give Mr B Rs 500 as
+(c) Neither (a) nor (b)
+birthday present on B’s birthday. A fails
+132. Fact: X who is a major, performs some
+to fulfi ls this promise. Mr B wants to
+services for B, a major at B’s request. B on
+fi le a suit against A for the realization of
+attaining the age of majority, promised to
+amount.
+compensate X by giving him a promissory
+Issue: Can B sue A?
+note.
+Decision:
+Issue: Is the promissory note valid?
+(a) B cannot sue A because there is no
+Decision:
+contract, the mere promise of birth-
+(a) No, because a minor can’t ratify an act
+day present out of love and affection
+done during minority, even on attain-
+do not result into any legal agreement
+ing the age of majority.
+and hence no liability.
+(b) Yes, the promissory note is valid once
+(b) B can sue A because once the promise
+it has been ratifi ed after attaining ma-
+is made the valid contract arises.
+jority.
+(c) Neither (a) nor (b)
+(c) It will be the discretion of the court.
+129. Fact: After the Vakil had accepted the
+133. Fact: A, a minor, borrowed Rs 50,000
+case and the signed the Vakalatnama, the
+client says. ‘If you do your utmost to win from B by executing a mortgage of his
+the case. I will give you rupees one thou- property in favour of B. Subsequently, the
+sand more” The case is won. minor sued for setting aside the mortgage.
+
+Issue: Do you think that the mortgage is avoid the contract on the plea of his mi-
+valid? Can B recover the amount advanced nority. Can he do so?
+to A? Issue: What are the options available to
+Decision: L?
+(a) Minor is not competent to contract, Decision:
+so minor’s contract is void. Thus the (a) An agreement with minor is void.
+mortgage executed by A is not valid But a minor cannot defraud a person
+and B can’t recover the money lent to on the pretext of his minority. In this
+A. case, court may direct the minor to re-
+(b) The B can recover the amount once store the car to L.
+the minor will attain majority. (b) An agreement with minor is void so
+(c) It is a voidable contract at the option minor does not have any liability.
+of minor. (c) An agreement is voidable.
+134. Fact: A, aged 16, agreed to purchase 137. Fact: A, a minor who wished to become a
+a second hand motorcycle from B for professional billiards player, entered in to
+Rs 12,000. He paid Rs 2,000 as advance a contract with B, a noted billiard payer,
+and agreed to pay the balance the next day to pay him (B) a certain sum of money to
+and collect the motorcycle. When A came learn the game and play matches with him
+with the money the next day, B says that during his world tour. B spent time and
+he has changed his mind and offered to re- money in making arrangements for bil-
+turn the advance. liards matches.
+Issue: Can B do so? Issue: Is A liable to pay?
+Decision: Decision:
+(a) Yes, because the agreement with mi- (a) No, because the agreement with mi-
+nor is void. nor is void.
+(b) No, B can’t avoid the agreement sim- (b) Yes, as the agreement was for neces-
+ply because A is a minor and an agree- saries. Necessaries include education,
+ment with minor is void although A is training for trade, medical services
+a minor but law does not prevent him etc.
+from becoming a promise or benefi - (c) This agreement is voidable at the op-
+ciary. tion of B.
+(c) Neither (a) nor (b). 138. Fact: X, a minor borrowed from Y, a sum
+135. Fact: M, a minor, a under a contract of of Rs 10,000 the payment of the loan was
+sale delivered goods to the buyer. The guaranteed by Z who is major. X refuses
+buyer later on said, “I will not pay you the to pay.
+price. You are a minor and you cannot sue Issue: Can Y hold Z liable for the mon-
+me.” ey?
+Issue: Is the buyer right in saying so? Decision:
+Decision: (a) No, Y cannot hold Z liable because Z
+(a) No, because although an agreement is not party to contract.
+with or by minor is void but a minor (b) Neither (a) nor (c)
+can be a promise or benefi ciary. (c) Yes, Y can hold Z liable for the mon-
+(b) Yes, because the agreement of the ey. The rule is: If an adult stands sure-
+minor is void hence there is no agree- ty for a minor, the adult is liable to the
+ment, no liability. creditors though minor is not person-
+(c) Neither (a) nor (b). ally liable.
+136. Fact: S, a minor by fraudulently repre- 139. Fact: S, a minor agreed to take 500 shares
+senting himself to be full age, enters into of rupees ten each in a company and paid
+an agreement with L, for selling his (S’s) rupees fi ve on each share. He received no
+propertly. Under the agreement S receives dividend on the shares. While still a mi-
+the full amount of Rs 5 lakhs in advance nor he repudiated the contract and brought
+from L and uses it for purchasing a new an action (i) to recover the money he had
+car worth Rs 3 lakhs and spends the bal- paid, and (ii) for declaration that he was
+ance on a world tour. Later on, S tries to not liable for future calls.
+
+CIVIL LAW 107
+Issue: Will he succeed? (c) Yes, but only minor’s property is li-
+Decision: able.
+(a) S a minor will succeed because mi- 143. Fact: A grocer supplied certain necessar-
+nor cannot apply for shares and make ies to M, a minor makes a promissory note
+himself liable for future calls. Howev- in favour of grocer.
+er, fully paid shares can be transferred Issue: Can the grocer claim payment from
+in his name. M under the promissory note?
+(b) S will not succeed because the minor Decision:
+cannot take disadvantage of his mi- (a) Grocer can claim payment only from
+nority. M’s estate and not from minor person-
+(c) Neither (a) nor (b). ally.
+140. Fact: An infant made the following con- (b) No, the grocer cannot claim any pay-
+tracts: (i) an engagement to marry a girl, ment because agreement with the mi-
+(ii) a credit purchase of an engagement nor is void.
+ring for his fi ancee (iii) a hire-purchase (c) Neither (a) nor (b)
+contract for a set of gold clubs. He now 144. Fact: A purchased a machine from dealer,
+wishes to call off his engagement. relying on the dealer’s representation that
+Issue: Is he liable upon any of the above it was a new model. After paying the pur-
+contracts? chase price, A came to know that the ma-
+Decision: chine was not new but an old one.
+Issue: What are the legal rights of A?
+(a) He is not liable upon any of these
+Decision:
+contracts. (i) is invalid because it is
+(a) A cannot sue the dealer because the
+prohibited under Child Marriage Re-
+maxim of caveat emptor applies on
+straint Act. (2) and (3) are not neces-
+him and it debars him to sue the deal-
+saries of life. So, he is not liable upon
+er.
+any contract.
+(b) A can avoid the contract on the ground
+(b) He can be held liable for engagement
+of fraud and get the damages from the
+with minor girl.
+dealer.
+(c) Though he cannot be held liable for
+(c) Neither (a) nor (b)
+engagement with girl but he can be
+145. Fact: A advances a sum of money to
+held liable for the credit of ring and
+his son, B during his minority. When B
+the contract for higher purchase of
+becomes major, A by misusing his pa-
+gold clubs.
+rental infl uence, gets a bond from B, of
+141. Fact: M, a guardian , on behalf of a minor,
+an amount more than the amount due. B
+L entered into a contract with S for pur-
+refuses to give the amount stated in the
+chase of certain property for the benefi t of
+bond.
+L.
+Issue: Is B bound by the bond?
+Issue: Is the contract valid?
+Decision:
+Decision:
+(a) No, B is not bound by the bond. Con-
+(a) No, it is not a valid contract because
+tract is voidable at the option of B be-
+any contract with the minor or on his
+ing caused by undue infl uence.
+behalf is void.
+(b) B is bound by the bond.
+(b) Yes, provided it is within the scope of
+(c) It will be the discretion of the court to
+guardian’s authority.
+decide.
+(c) Neither (a) nor (b).
+146. Fact: L was the highest bidder at an auc-
+142. Fact: A minor broke his elbow while play-
+tion sale of a public plot. At the time of
+ing football game. He went to the doctor
+making the bid, L believed that certain
+for treatment.
+fi eld was the part of plot offered for sale.
+Issue: Does the doctor has any claim for
+Later he found out that it was not the part
+his services?
+of plot and the seller never said so.
+Decision:
+Issue: L wants to cancel the contract, can
+(a) No, because the minor does not owe he do so?
+any liability. Decision:
+(b) Neither (a) nor (c). (a) L can not cancel the contract because
+
+in this case only L is mistaken. Thus it pretext of showing them to her husband
+is a case of unilateral mistake. before buying. She later on pledges them
+(b) L can cancel as it is not a valid con- with a broker, who in good faith gives Rs 5
+tract because the contract entered into lakh to the lady. The jeweller on knowing
+was mistaken. this, fi les a suit against the broker.
+(c) Neither (a) nor (b) Issue: What will be the legal position in
+147. Fact: A, contracts with B to buy a neck- this case?
+lace, believing it to be made of very costly Decision:
+rare pearls, while in reality, the pearls are (a) The jewellers cannot get back the
+only an imitation having very little value. necklace because there is no privity of
+B knows that A is mistaken but does not contract between the jeweller and the
+disclose the fact. broker.
+Issue: Is A bound by the contract? (b) The broker does not get good title
+Decision: over the jewellery, so jeweller can get
+(a) No, A is not bound by the contract be- back the necklace from the broker.
+cause it is not a unilateral mistake. (c) The jeweller can sue the lady.
+151. Fact: A, is an illiterate old man of about
+(b) Yes, because the rule of caveat emptor
+90 yrs, physically infi rm and mentally in
+will apply.
+distress. He made a gift of his entire prop-
+(c) No, A is not bound by the contract be-
+erty in favour of B, his nearest relative
+cause the rule of caveat venditor ap-
+who was looking after him (A) and his
+plies on B.
+business.
+148. Fact: A agrees to buy certain horse from
+Issue: Can A subsequently avoid the con-
+B for Rs 10,000 and pays Rs 5,000 as ad-
+tract of gift? If so, on what ground?
+vances. It turns out that the horse was dead
+Decision:
+at the time of bargain, though neither party
+(a) No, A cannot avoid the contract of gift
+knew this fact.
+because the gift has been made volun-
+Issue: Can A recover the advance money
+tarily.
+given?
+(b) Neither (a) nor (c)
+Decision:
+(c) Yes, A can avoid the contract of gift
+(a) No, A cannot get the money back be-
+on the plea of undue infl uence, Sec-
+cause money advanced is not return-
+tion 16(2).
+able.
+152. Fact: A railway company refuses to de-
+(b) A cannot get the money back because
+liver certain goods to the consignee un-
+the rule of caveat emptor applies on
+less the consignee pays an illegal charge
+him.
+for the carriage. The consignee pays the
+(c) Yes, A can get the money paid in
+amount demanded to get the goods.
+advance because in this case there is
+Issue: Can consignee get back the
+bilateral mistake as to the subject mat-
+amount?
+ter.
+Decision:
+149. Fact: M buys a painting from N, which (a) Yes, the consignee can get his money
+both believe to be the original work of a back because coercion was applied for
+great artist. M therefore pays a high price getting illegal charges.
+for the painting but later on discover that (b) No the consignee cannot get his mon-
+it is only a modern copy of an old one. ey back because the money given for
+Issue: What can M do now? illegal purposes cannot be returned
+Decision: back.
+(a) M can do nothing because the doc- (c) Neither (a) nor (b)
+trine of caveat emptor will apply. 153. Fact: A threatens to shoot C (B’s son),
+(b) M can sue N. if B does not release him (A) from a debt
+(c) It is an agreement voidable at the op- which A owes to B. B signs necessary
+tion of M. documents and thus releases A under the
+150. Fact: A lady by falsely representing her- threat.
+self to be wife of a millionaire, obtains Issue: Can B get back his loan after-
+costly necklaces from a jeweller, on the wards?
+
+CIVIL LAW 109
+Decision: case are such that, it is the duty of the
+(a) B can get back his loan amount, as his person keeping silence to speak, the
+consent for release was obtained by silence is ‘constructive fraud’ e.g., in
+coercion. contracts of ‘utmost good faith’. Since
+(b) No, B cannot get back his loan after- the relationship between A and B is
+wards. fi duciary in nature. A is under duty to
+(c) It will be the discretion of the court. disclose all facts to B.
+154. Fact: A sells a horse to B knowing that the (c) A cannot be held liable because the
+horse is vicious. A does not disclose the rule of caveat emptor applies on B.
+nature of the horse to B. 157. Fact: X, a patient of T.B. is induced by
+Issue: Is the sale valid? Y his medical attendant to agree to pay Y
+Decision: an unreasonable sum for his professional
+(a) Yes, the sale is valid because A is un- services.
+der no obligation to disclose the na- Issue: Can Y enforce the agreement?
+ture of horse to B, the rule of ‘Caveat Decision:
+Emptor’ being applicable. (a) Yes Y can enforce the agreement be-
+(b) Neither (a) nor (c) cause it is a professional deal and Y
+(c) No sale is not valid because there has has demanded for his services to be
+been misrepresentation. rendered.
+155. Fact: A fraudulently informs B that A’s (b) This contract is voidable at the op-
+house if free from encumbrances. B there- tion of X, a T.B. patient. Y will have
+upon buys the house. The house is subject to prove that contract was not induced
+to a mortgage. by undue infl uence.
+Issue: What are the rights of B? (c) Neither (a) nor (b)
+Decision: 158. Fact: A being indebted to B, the money
+(a) B cannot recover back the money lender of his village, contracts a fresh loan
+nor can rescind the contract nor can on terms which appear to be unconscio-
+ask the seller to redeem the mortgage nable.
+because the rule of caveat emptor ap- Issue: Is the contract valid?
+plies on him. Decision:
+(b) B can either rescind the contract or he (a) The contract is valid.
+can ask for restitution and insist that (b) Contract is void.
+the contract shall be performed. B can (c) The contract is voidable if the creditor
+ask the seller to redeem the mortgage rebuts the assumption of undue infl u-
+and carry out the contract because ac- ence.
+cording to Section 17 ‘fraud’ means 159. Fact: A applies to a banker for a loan at
+and includes any act or omission as a time when there is a stringency in the
+the law specially declares to be fraud- money market. The banker refuses to
+ulent. Under section 55 of Transfer of make the loan expect at an unusually high
+Property Act, seller of immoveable rate of interest. A accepts the loan on these
+property is bound to disclose to the terms.
+buyer all material defects in the prop- Issue: Is the contract induced by undue
+erty or in seller’s title (e.g., the prop- infl uence?
+erty is mortgaged). Decision:
+(c) Neither (a) nor (b) (a) Contract is void.
+156. Fact: B, A’s daughter has just come to (b) The contract is not valid because it
+age. A sells to B a horse which A knows has been caused by undue infl uence.
+to be unsound. A says nothing to B about (c) No, the contract is not infl uenced by
+the horse’s unsoundness. undue infl uence. It is a transaction in
+Issue: Does A’s silence amount to fraud? the ordinary course of business and
+Decision: does not fall in the category of uncon-
+(a) No, mere silence is not fraud. scionable transactions.
+(b) As a rule, mere silence is not fraud. 160. Fact: An agent refused to hand over the
+However, if the circumstances of the account books of the business at the end
+
+of the term of offi ce to a new agent sent has been a tangible consideration from
+in his place unless the principal gave him both the sides.
+a release from all liabilities. The principal (c) Neither (a) nor (b)
+gave him the release in order to get the 164. Fact: A agrees to pay B Rs 10,000 if B
+books. marries C. C was already married to D at
+Issue: Is the release valid? the time of agreement.
+Decision: Issue: What will be the legal position?
+(a) The release is valid because to demand Decision:
+one’s own rights is not unlawful. (a) Agreement between A and B is void.
+(b) Neither (a) nor (c) (b) Agreement is valid.
+(c) The release deed is voidable at the (c) Agreement is voidable at the option of
+option of principal because it was B.
+obtained by employing coercion. The 165. Fact: A agrees to sell to B “100 tonnes of
+agent had threatened to detain account oil”. A deals in a wide variety of oils and
+books belonging to the principal. there is nothing to show what kind of oil
+161. Fact: A’s son had B’s name on a promis- was intended.
+Issue: Is it a contract?
+sory note. B under threat of prosecting A’s
+Decision:
+son obtains a bond from A for the amount
+(a) Yes, there is a contract because the
+of the forged note. B sues on this bond.
+mere specifi cation or non-specifi ca-
+Issue: Will he succeed?
+tion regarding the purchase of a par-
+Decision:
+ticular oil does not vitiate the validity
+(a) No, court will set aside the bond ob-
+of contract so the contract is valid and
+tained by B from A under Section 19
+enforceable.
+A. When consent of one party has been
+(b) No, there is no contract because un-
+obtained by coercion, fraud or misrep-
+certainity is involved.
+resentation, the contract is voidable at
+(c) Contract is voidable at the option of
+the option of the aggrieved party.
+B.
+(b) Yes, B will win the case.
+166. Fact: A agrees to sell a horse to B for
+(c) Neither (a) nor (b)
+Rs 10,000 if it wins a race and Rs 100 if it
+162. Fact: M an old man of poor sight endorsed
+does not. The horse wins the race but B re-
+a bill of exchange of Rs 3,000 thinking
+fuses to pay Rs 10,000 and buy the horse.
+that it was a guarantee.
+Issue: Can A compel B to buy the horse?
+Issue: Is M liable to pay the amount?
+Decision:
+Decision:
+(a) Contract is valid and hence enforce-
+(a) No, M is not liable to pay the
+able.
+amount.
+(b) Agreement between A and B is a wa-
+(b) Neither (a) nor (c)
+ger so the contract is not valid and
+(c) Yes, M is liable because ignorance of
+hence not enforceable.
+law is no excuse.
+(c) Contract is voidable.
+163. Fact: A promised to pay Rs 150 per month
+167. Fact: M promises to marry S and no one
+to his wife so long she remained away else and to pay Rs 2 lakhs in case of de-
+from him and did not object to his living fault. M marries R, S sues M for the
+in adultery. promised money but M refuses to pay.
+Issue: Is the agreement valid? Issue: What will be the legal position?
+Decision: Decision:
+(a) No, the agreement is void, because the (a) S cannot recover anything from A, be-
+consideration is such that it defeats cause the agreement between M and S
+the provisions of Hindu Law. Under was in restraint of marriage.
+Hindu Law, after marriage husband (b) S can sue because M has made a fraud
+and wife are to live together and adul- upon S.
+tery is punishable under Indian Penal (c) Neither (a) nor (b)
+Code. 168. Fact: A a debtor agrees with his money
+(b) The agreement is valid because there lender that he would not, without the mon-
+
+CIVIL LAW 111
+ey lender’s written consent, leave his job, Decision:
+or borrow money or dispose of his prop- (a) No, because it is opposed to public
+erty or change his residence. policy.
+Issue: Is the agreement valid? (b) Yes, because there is a valid consider-
+Decision: ation.
+(a) Agreement is not valid. (c) Neither (a) nor (b)
+(b) Agreement is valid. 173. Fact: A borrows Rs 50,000 from B for
+(c) Agreement is voidable. doing gambling. A subsequently does not
+169. Fact: A, a tailor, employs B as his assis- return the money.
+tant under a contract by which B aggress Issue: Can B sue A?
+not to carry on the business as a tailor Decision:
+within 6 km of A shop, on the termination (a) B can do nothing, because B knew the
+of his employment. purpose for which A took the money
+Issue: Is the contract valid? was unlawful and against the public
+Decision: policy.
+(a) The contract between A and B is not (b) B can sue A because it does not mat-
+valid being an agreement in restraint ter for which the money has been bor-
+of trade. rowed.
+(b) The contract is valid because there is (c) Neither (a) nor (b)
+no use of undue infl uence. 174. Fact: A promises B to drop a prosecution
+(c) The contract is voidable. which he has instituted against B for thef-
+170. Fact: X lends Rs 20,000 to Y to enable Y tand in return B shall restore the goods to
+to obtain divorce from her husband. Y in A.
+turn promises that she will marry X after Issue: Can A enforce this promise?
+getting the divorce. Y obtains divorce and Decision:
+refuses to marry X. (a) Yes, A can enforce this promise
+Issue: Can X sue Y? (b) No, A can’t enforce this promise be-
+Decision: cause it’s object, that is, droping a
+(a) Yes prosecution already instituted for theft
+(b) No is forbidden by law.
+(c) Neither (a) nor (b) (c) Neither (a) nor (b)
+171. Fact: Mr X, the father of a minor son, 175. Fact: A promises to look after on behalf
+agrees to transfer the guardianship of his of B, a legal manufacture of liquors and
+son in favour of Mr Y and also agrees that an illegal traffi c in other narcotic drugs. B
+he will never revoke the transfer. But after promises to pay A salary of Rs 2,000 per
+a few days, Mr X wants to get back the mensum.
+guardianship of his son and fi les a suit for Issue: Is the agreement valid?
+the same. Decision:
+Issue: What will be the legal position in (a) The agreement is void and illegal,
+this case? because a part of object is legal and
+Decision: another part is unlawful and both the
+(a) The agreement between Mr X and parts are inseparable because consid-
+Mr Y is void because it is in restraint eration of Rs 2,000 p.m. is for both
+of parental rights and thus opposed to promises. Where a legal part can-
+public policy. Thus Mr X can get back not be separated from illegal part, in
+the guardianship of his son. promise for single money, the whole
+(b) Neither (a) nor (c) agreement is illegal and void.
+(c) He cannot get back the guardianship (b) The agreement is valid because both
+of his son because he has voluntarily the functions are not unlawful and A
+transferred the guardianship. can sue B for the recovery of payment
+172. Fact: X, promises to pay Rs 5 lakhs to for lawful purposes.
+Y, if Y secures for X an employment in a (c) It will be the discretion of the court.
+public offi ce. 176. Fact: A instructs B to enter on his behalf
+Issue: Is the agreement valid? into a wagering transaction. B loses in the
+
+transaction and pays from his pocket. He Decision:
+thereafter sues A for reimbursement. (a) The agreement is vague and hence not
+Issue: Can A raise the plea of wager? enforceable.
+Decision: (b) Here, the price is capable of being
+(a) Yes, A can raise the plea of wager be- made certain. So, there is no uncer-
+cause the agreement in itself was to tainty or vagueness in terms. The
+enter into a wagering transaction. agreement is valid.
+(b) No, A cannot raise the plea of ‘wa- (c) The agreement is voidable.
+ger’. Though ‘agreements by way of 180. Fact: A aggress to sell B, “My White
+wager’ are void according to Section House” for Rs 500 or 1,000.
+30 of the Contract Act but transactions Issue: Is the agreement valid?
+collateral to the void agreements are Decision:
+valid. So, B is entitled to recover the (a) The agreement is invalid because
+amount from A. there is nothing to show as to which
+(c) Such propositions of law are not cov- of the two prices is to be paid. There
+ered under the bare provisions of law. is no certainty of prices.
+Hence it is not tenable and not en- (b) The agreement is valid.
+forceable. (c) The agreement is voidable.
+177. Fact: A machinegun manufacturer sold 181. Fact: A promises B in consideration of
+his business to a company in consideration Rs 1,000 never to marry a particular indi-
+vidual.
+of some amount of goodwill and conve-
+Issue: Is the agreement valid?
+nanted that he would not carry on a similar
+Decision:
+business for a certain time anywhere in the
+(a) No, an agreement restraining a person
+world.
+from marrying anybody or from mar-
+Issue: Is such a covenant binding upon
+rying anybody except a particular per-
+him?
+son is invalid.
+Decision:
+(b) The agreement is valid.
+(a) The covenant is not binding upon him
+(c) The agreement is voidable.
+because the restrictions are unreason-
+182. Fact: A promises B in consideration of
+able.
+Rs 1,000 never to marry throughout his
+(b) The covenant is binding because the
+life.
+restrictions imposed are the outcome
+Issue: Is the agreement valid?
+of the mutual understanding between
+Decision:
+the two parties.
+(a) The agreement is valid.
+(c) The covenant is voidable at the option
+(b) The agreement is void.
+of buyer company.
+(c) The agreement is voidable.
+178. Fact: A and B made an agreement to enter
+183. Fact: X, a shopkeeper agrees to pay Y,
+into wrestling contest in which the winner
+who is his rival in the business, a sum of
+was to be awarded the whole of the pro-
+money as compensation if Y closes his
+ceeds of the sale of tickets and the party
+business. Y closes his business.
+failing to appear on that day was to forfeit
+Issue: Is the agreement valid?
+Rs 500 to the other.
+Decision:
+Issue: Is the agreement enforceable?
+(a) The agreement is valid.
+Decision:
+(b) The agreement is voidable.
+(a) The agreement is enforceable because
+(c) The agreement is void.
+it is not a wagering agreement.
+184. Fact: A sells goodwill of his business to
+(b) Neither (a) nor (c) because the nature
+B, and agrees with him to refrain from
+of the agreement is not clear.
+carrying on a similar business within the
+(c) The agreement is not enforceable be-
+specifi ed local limits.
+cause it is a wagering agreement.
+Issue: Is the agreement valid?
+179. Fact: A agrees to sell to B, 1,000 maunds
+Decision:
+of rice at a price fi xed by C. (a) Yes, the agreement is valid.
+Issue: What is the validity of the agree- (b) The agreement is not valid.
+ment? (c) The agreement is voidable.
+
+CIVIL LAW 113
+185. Fact: Miss Rita agreed to sing at Balram’s years on condition that after the expiry of
+theatre for a period of six months begin- three years, Y is not to practice in Chan-
+ning from 1 January 1972. She further digarh on his own for a period of 5 years.
+agreed not to sing at any other theatre dur- After the fi rst three years had expired, Y in
+ing this period. breach of his agreement starts practicing
+Issue: Is the contract valid? in Chandigarh.
+Decision: Issue: Is the agreement valid?
+(a) The agreement is valid. Decision:
+(b) The agreement is voidable. (a) The agreement is valid.
+(c) The agreement is unreasonable. (b) The agreement is invalid.
+186. Fact: X, a doctor in Chandigarh engages (c) The agreement is voidable.
+Y as his assistance for a period of three
+A
+NSWERS
+1. (b) 2. (a) 3. (b) 4. (a) 5. (b) 6. (b) 7. (b) 8. (a) 9. (a) 10. (b)
+11. (b) 12. (a) 13. (b) 14. (a) 15. (b) 16. (b) 17. (b) 18. (a) 19. (b) 20. (a)
+21. (a) 22. (b) 23. (b) 24. (a) 25. (b) 26. (a) 27. (b) 28. (a) 29. (b) 30. (a)
+31. (a) 32. (a) 33. (b) 34. (a) 35. (a) 36. (b) 37. (b) 38. (b) 39. (a) 40. (b)
+41. (a) 42. (b) 43. (a) 44. (b) 45. (a) 46. (b) 47. (a) 48. (b) 49. (a) 50. (a)
+51. (b) 52. (a) 53. (a) 54. (b) 55. (a) 56. (a) 57. (b) 58. (b) 59. (b) 60. (a)
+61. (a) 62. (a) 63. (b) 64. (a) 65. (a) 66. (b) 67. (b) 68. (b) 69. (a) 70. (b)
+71. (b) 72. (a) 73. (a) 74. (b) 75. (a) 76. (b) 77. (b) 78. (c) 79. (b) 80. (a)
+81. (b) 82. (a) 83. (b) 84. (a) 85. (b) 86. (a) 87. (b) 88. (a) 89. (b) 90. (a)
+91. (b) 92. (a) 93. (c) 94. (b) 95. (b) 96. (c) 97. (b) 98. (b) 99. (a) 100. (a)
+101. (a) 102. (b) 103. (c) 104. (a) 105. (b) 106. (c) 107. (a) 108. (b) 109. (c) 110. (a)
+111. (b) 112. (c) 113. (a) 114. (c) 115. (b) 116. (a) 117. (b) 118. (c) 119. (a) 120. (b)
+121. (c) 122. (a) 123. (b) 124. (c) 125. (a) 126. (b) 127. (a) 128. (a) 129. (b) 130. (a)
+131. (b) 132. (a) 133. (a) 134. (b) 135. (a) 136. (a) 137. (b) 138. (c) 139. (a) 140. (a)
+141. (b) 142. (a) 143. (a) 144. (b) 145. (a) 146. (a) 147. (b) 148. (c) 149. (a) 150. (b)
+151. (c) 152. (a) 153. (a) 154. (a) 155. (b) 156. (b) 157. (b) 158. (c) 159. (c) 160. (c)
+161. (a) 162. (a) 163. (a) 164. (a) 165. (b) 166. (b) 167. (a) 168. (a) 169. (a) 170. (b)
+171. (a) 172. (a) 173. (a) 174. (b) 175. (a) 176. (b) 177. (a) 178. (a) 179. (b) 180. (a)
+181. (a) 182. (b) 183. (c) 184. (a) 185. (a) 186. (b)
 
 ---
 

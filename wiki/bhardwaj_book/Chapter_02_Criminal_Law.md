@@ -1,3665 +1,3661 @@
 # 📘 Chapter 2: Criminal Law
 
 > **Source**: *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (2nd Edition, 2011)  
-> **Book Pages**: Theory (p. 31–51) | MCQs (p. 52–82)
-> **CLAT Relevance**: Criminal Law — BNS era; elements of crime, general exceptions, offences against person/property
+> **Book Pages**: Theory + MCQs
+> **CLAT Relevance**: Core legal aptitude material
 
 ---
 
-## 📖 Theory Section: Criminal Law
+## 📖 Theory Section
 
-'C'h'a'p't'e'r' '2'
-'C' 'L'
-'R'I'M'I'N'A'L' 'A'W'
-'C'U'L'P'A'B'A'L'E' 'H'O'M'I'C'I'D'E' 'c'h'i'l'd' 'i'n' 't'h'e' 'm'o't'h'e'r'’'s' 'w'o'm'b' 'i's' 'n'o't' 'h'o'm'i'c'i'd'e'.' 'B'u't','
-'i't' 'm'a'y' 'a'm'o'u'n't' 't'o' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 't'o' 'c'a'u's'e' 't'h'e'
-'S'e'c't'i'o'n' '2'9'9',' 'C'u'l'p'a'b'l'e' 'H'o'm'i'c'i'd'e'.' 'W'h'o'e'v'e'r' 'd'e'a't'h' 'o'f' 'a' 'l'i'v'i'n'g' 'c'h'i'l'd',' 'i'f' 'a'n'y' 'p'a'r't' 'o'f' 't'h'a't' 'c'h'i'l'd'
-'c'a'u's'e's' 'd'e'a't'h' 'b'y' 'd'o'i'n'g' 'a'n' 'a'c't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'h'a's' 'b'e'e'n' 'b'r'o'u'g'h't' 'f'o'r't'h',' 't'h'o'u'g'h' 't'h'e' 'c'h'i'l'd' 'm'a'y' 'n'o't'
-'o'f' 'c'a'u's'i'n'g' 'd'e'a't'h',' 'o'r' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 'h'a'v'e' 'b'r'e'a't'h'e'd' 'o'r' 'b'e'e'n' 'c'o'm'p'l'e't'e'l'y' 'b'o'r'n'.'
-'s'u'c'h' 'b'o'd'i'l'y' 'i'n'j'u'r'y' 'a's' 'i's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'd'e'a't'h',' 'o'r'
-'S'e'c't'i'o'n's' '2'9'9' 'a'n'd' '3'0'0',' 'I'P'C' 'd'e'f'i' 'n'e' 'c'u'l'p'a'b'l'e'
-'w'i't'h' 't'h'e' 'k'n'o'w'l'e'd'g'e' 't'h'a't' 'h'e' 'i's' 'l'i'k'e'l'y' 'b'y' 's'u'c'h' 'a'c't'
-'h'o'm'i'c'i'd'e',' 'w'h'i'c'h' 'i's' 'o'f' 't'w'o' 't'y'p'e's':'
-'t'o' 'c'a'u's'e' 'd'e'a't'h',' 'c'o'm'm'i't's' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'u'l'p'a'b'l'e'
-'1'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'
-'h'o'm'i'c'i'd'e'.'
-'2'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o'
-'m'u'r'd'e'r'.'
-'I'l'l'u's't'r'a't'i'o'n's'
-'T'h'e' 'p'r'o'v'i's'i'o'n's' 'r'e'l'a't'i'n'g' 't'o' 'm'u'r'd'e'r' 'a'n'd' 'c'u'l'p'a'b'l'e'
-'('a')' 'A' 'l'a'y's' 's't'i'c'k's' 'a'n'd' 't'u'r'f' 'o'v'e'r' 'a' 'p'i't',' 'w'i't'h' 't'h'e'
-'h'o'm'i'c'i'd'e' 'a'r'e' 'p'r'o'b'a'b'l'y' 't'h'e' 'm'o's't' 'c'o'm'p'l'i'c'a't'e'd' 'i'n'
-'i'n't'e'n't'i'o'n' 'o'f' 't'h'e'r'e'b'y' 'c'a'u's'i'n'g' 'd'e'a't'h',' 'o'r'
-'t'h'e' 'I'P'C',' 'a'n'd' 'a'r'e' 's'o' 't'e'c'h'n'i'c'a'l' 't'h'a't' 'v'e'r'y' 'o'f't'e'n' 't'h'e'y'
-'w'i't'h' 't'h'e' 'k'n'o'w'l'e'd'g'e' 't'h'a't' 'd'e'a't'h' 'i's' 'l'i'k'e'l'y' 't'o' 'l'e'a'd' 't'o' 'c'o'n'f'u's'i'o'n'.'
-'b'e' 'c'a'u's'e'd'.' 'Z' 'b'e'l'i'e'v'i'n'g' 't'h'e' 'g'r'o'u'n'd' 't'o' 'b'e' 'A' 'm'u'r'd'e'r' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e',' 'b'u't' 'e'v'e'r'y'
-'f'i' 'r'm',' 't'r'e'a'd's' 'o'n' 'i't',' 'f'a'l'l's' 'i'n' 'a'n'd' 'i's' 'k'i'l'l'e'd'.' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't' 'm'u'r'd'e'r'.' 'C'u'l'p'a'b'l'e'
-'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 't'h'e' 'g'e'n'u's' 'a'n'd' 'm'u'r'd'e'r',' 'i't's' 's'p'e'c'i'e's'.'
-'h'o'm'i'c'i'd'e'.' 'S'e'c't'i'o'n' '2'9'9' 'd'e'f'i' 'n'e's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'
-'('b')' 'A' 'k'n'o'w's' 'Z' 't'o' 'b'e' 'b'e'h'i'n'd' 'a' 'b'u's'h'.' 'B' 'd'o'e's' 'n'o't' 's'i'm'p'l'i'c'i't'e'r'.' 'S'e'c't'i'o'n' '3'0'0' 'd'e'f'i' 'n'e's' 'm'u'r'd'e'r',' 'w'h'i'c'h'
-'k'n'o'w' 'i't'.' 'A',' 'i'n't'e'n'd'i'n'g' 't'o' 'c'a'u's'e',' 'o'r' 'k'n'o'w'i'n'g' 'i's' 'a'l's'o' 'a' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'w'i't'h' 's'o'm'e' 's'p'e'c'i'a'l'
-'i't' 't'o' 'b'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'Z'’'s' 'd'e'a't'h',' 'i'n'd'u'c'e's' 'c'h'a'r'a'c't'e'r'i's't'i'c's',' 'w'h'i'c'h' 'a'r'e' 's'e't' 'o'u't' 'i'n' 'c'l'a'u's'e's' '1'–'4'
-'B' 't'o' 'f'i' 'r'e' 'a't' 't'h'e' 'b'u's'h'.' 'B' 'f'i' 'r'e's' 'a'n'd' 'k'i'l'l's' 'Z'.' 'o'f' 'S'e'c't'i'o'n' '3'0'0',' 's'u'b'j'e'c't' 't'o' 't'h'e' 'e'x'c'e'p't'i'o'n's' 'g'i'v'e'n'
-'H'e'r'e' 'B' 'm'a'y' 'b'e' 'g'u'i'l't'y' 'o'f' 'n'o' 'o'f'f'e'n'c'e',' 'b'u't' 'i'n' 'S'e'c't'i'o'n' '3'0'0',' 't'h'e'n' 'i't' 'w'i'l'l' 'a'm'o'u'n't' 't'o' 'm'u'r'd'e'r'.'
-'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'u'l'p'a'b'l'e' 'A'l'l' 'o't'h'e'r' 'i'n's't'a'n'c'e's' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e',' 't'h'e'
-'h'o'm'i'c'i'd'e'.' 'o'n'e's' 'w'h'i'c'h' 'm'a'y' 'f'a'l'l' 'w'i't'h'i'n' 't'h'e' 'e'x'c'e'p't'i'o'n's' 't'o'
-'('b')' 'A',' 'b'y' 's'h'o'o't'i'n'g' 'a't' 'a' 'f'o'w'l' 'w'i't'h' 'i'n't'e'n't' 't'o' 'k'i'l'l' 'S'e'c't'i'o'n' '3'0'0',' 'w'i'l'l' 'a'l'l' 'b'e' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'a'n'd' 's't'e'a'l' 'i't',' 'k'i'l'l's' 'B',' 'w'h'o' 'i's' 'b'e'h'i'n'd' 'a' 'b'u's'h';' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'A' 'n'o't' 'k'n'o'w'i'n'g' 't'h'a't' 'h'e' 'w'a's' 't'h'e'r'e'.' 'H'e'r'e',' 'W'h'i'l'e' 'S'e'c't'i'o'n' '2'9'9' 'd'e'f'i' 'n'e's' '‘'c'u'l'p'a'b'l'e' 'h'o'-'
-'m'i'c'i'd'e'’',' 'i't' 'i's' 'n'o't' 'a'n' 'e'x'h'a'u's't'i'v'e' 'd'e'f'i' 'n'i't'i'o'n',' 'I't' 'i's'
-'a'l't'h'o'u'g'h' 'A' 'w'a's' 'd'o'i'n'g' 'a'n' 'u'n'l'a'w'f'u'l' 'a'c't',' 'h'e'
-'i'm'p'o'r't'a'n't' 't'o' 'r'e'm'e'm'b'e'r' 't'h'a't' 'S'e'c't'i'o'n' '3'0'0' 'a'l's'o' 'd'e'-'
-'w'a's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e',' 'a's' 'h'e'
-'f'i' 'n'e's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e',' 'b'u't' 'w'h'i'c'h' 'a'm'o'u'n't's' 't'o'
-'d'i'd' 'n'o't' 'i'n't'e'n'd' 't'o' 'k'i'l'l' 'B',' 'o'r' 't'o' 'c'a'u's'e' 'd'e'a't'h'
-'m'u'r'd'e'r'.' 'B'e'f'o'r'e' 'g'o'i'n'g' 'i'n't'o' 'f'u'r't'h'e'r' 'd'e't'a'i'l's' 'a'b'o'u't'
-'b'y' 'd'o'i'n'g' 'a'n' 'a'c't' 't'h'a't' 'h'e' 'k'n'e'w' 'w'a's' 'l'i'k'e'l'y' 't'o'
-'d'i's't'i'n'c't'i'o'n's' 'b'e't'w'e'e'n' 'S'e'c't'i'o'n' '2'9'9' 'a'n'd' 'S'e'c't'i'o'n'
-'c'a'u's'e' 'd'e'a't'h'.'
-'3'0'0',' 'I'P'C',' 'i't' 'i's' 'i'm'p'o'r't'a'n't' 't'o' 'u'n'd'e'r's't'a'n'd' 't'h'e' 's'e'c'-'
-'E'x'p'l'a'n'a't'i'o'n' '1'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'c'a'u's'e's' 'b'o'd'i'l'y' 't'i'o'n's'.'
-'i'n'j'u'r'y' 't'o' 'a'n'o't'h'e'r' 'w'h'o' 'i's' 'l'a'b'o'u'r'i'n'g' 'u'n'd'e'r' 'a' 'T'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'e' 't'h'e' 'e's's'e'n't'i'a'l' 'i'n'g'r'e'd'i'e'n't's'
-'d'i's'o'r'd'e'r',' 'd'i's'e'a's'e' 'o'r' 'b'o'd'i'l'y' 'i'n'f'i' 'r'm'i't'y',' 'a'n'd' 't'h'e'r'e'b'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e':'
-'a'c'c'e'l'e'r'a't'e's' 't'h'e' 'd'e'a't'h' 'o'f' 't'h'a't' 'o't'h'e'r',' 's'h'a'l'l' 'b'e' '('1')' 'T'h'e'r'e' 'm'u's't' 'b'e' 'a' 'd'e'a't'h' 'o'f' 'a' 'p'e'r's'o'n'
-'d'e'e'm'e'd' 't'o' 'h'a'v'e' 'c'a'u's'e'd' 'h'i's' 'd'e'a't'h'.' '('2')' 'T'h'e' 'd'e'a't'h' 's'h'o'u'l'd' 'h'a'v'e' 'b'e'e'n' 'c'a'u's'e'd' 'b'y' 't'h'e'
-'a'c't' 'o'f' 'a'n'o't'h'e'r' 'p'e'r's'o'n'
-'E'x'p'l'a'n'a't'i'o'n' '2'.' 'W'h'e'r'e' 'd'e'a't'h' 'i's' 'c'a'u's'e'd' 'b'y' 'b'o'd'i'l'y'
-'('3')' 'T'h'e' 'a'c't' 'c'a'u's'i'n'g' 'd'e'a't'h' 's'h'o'u'l'd' 'h'a'v'e' 'b'e'e'n'
-'i'n'j'u'r'y',' 't'h'e' 'p'e'r's'o'n' 'w'h'o' 'c'a'u's'e's' 's'u'c'h' 'b'o'd'i'l'y' 'i'n'j'u'r'y'
-'d'o'n'e'
-'s'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 't'o' 'h'a'v'e' 'c'a'u's'e'd' 't'h'e' 'd'e'a't'h','
-'('a')' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 'd'e'a't'h';'
-'a'l't'h'o'u'g'h' 'b'y' 'r'e's'o'r't'i'n'g' 't'o' 'p'r'o'p'e'r' 'r'e'm'e'd'i'e's' 'a'n'd'
-'o'r'
-'s'k'i'l'f'u'l' 't'r'e'a't'm'e'n't' 't'h'e' 'd'e'a't'h' 'm'i'g'h't' 'h'a'v'e' 'b'e'e'n'
-'('b')' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 's'u'c'h'
-'p'r'e'v'e'n't'e'd'.'
-'b'o'd'i'l'y' 'i'n'j'u'r'y' 'a's' 'i's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e'
-'E'x'p'l'a'n'a't'i'o'n' '3'.' 'T'h'e' 'c'a'u's'i'n'g' 'o'f' 't'h'e' 'd'e'a't'h' 'o'f' 'a' 'd'e'a't'h';' 'o'r'
-'
-'('c')' 'w'i't'h' 'k'n'o'w'l'e'd'g'e' 't'h'a't' 's'u'c'h' 'a'c't' 'i's' 'l'i'k'e'l'y' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e' 'd'e'a't'h','
-'t'o' 'c'a'u's'e' 'd'e'a't'h'.' 'o'r'
-'T'h'e' 'd'e'f'i' 'n'i't'i'o'n' 'i't's'e'l'f' 'p'r'o'v'i'd'e's' 'f'o'r' 't'h'r'e'e' 'c'i'r'-' 'F'o'u'r't'h'l'y',' 'i'f' 't'h'e' 'p'e'r's'o'n' 'c'o'm'm'i't't'i'n'g' 't'h'e'
-'c'u'm's't'a'n'c'e's',' 'w'h'e'r'e'i'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'r' 'a'b's'e'n'c'e' 'o'f' 'a'c't' 'k'n'o'w's' 't'h'a't' 'i't' 'i's' 's'o' 'i'm'm'i'n'e'n't'l'y' 'd'a'n'g'e'r'o'u's'
-'c'e'r't'a'i'n' 'f'a'c't'o'r's' 'i'n' 'c'a'u's'i'n'g' 'd'e'a't'h' 'i's' 'n'e'v'e'r't'h'e'l'e's's' 't'h'a't' 'i't' 'm'u's't',' 'i'n' 'a'l'l' 'p'r'o'b'a'b'i'l'i't'y',' 'c'a'u's'e' 'd'e'a't'h',' 'o'r'
-'t'r'e'a't'e'd' 'a's' 'c'a'u's'i'n'g' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'T'h'e's'e' 'c'i'r'-' 's'u'c'h' 'b'o'd'i'l'y' 'i'n'j'u'r'y' 'a's' 'i's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'd'e'a't'h','
-'c'u'm's't'a'n'c'e's' 'a'r'e' 'd'e'a'l't' 'w'i't'h' 'i'n' 'e'x'p'l'a'n'a't'i'o'n's' '1'–'3'.' 'a'n'd' 'c'o'm'm'i't's' 's'u'c'h' 'a'c't' 'w'i't'h'o'u't' 'a'n'y' 'e'x'c'u's'e' 'f'o'r'
-'i'n'c'u'r'r'i'n'g' 't'h'e' 'r'i's'k' 'o'f' 'c'a'u's'i'n'g' 'd'e'a't'h' 'o'r' 's'u'c'h' 'i'n'j'u'r'y'
-'E'x'p'l'a'n'a't'i'o'n' '1'.' 'P'r'o'v'i'd'e's' 'f'o'r' 'a' 's'i't'u'a't'i'o'n' 'w'h'e'r'e' 't'h'e'
-'a's' 'a'f'o'r'e's'a'i'd'.'
-'i'n'j'u'r'e'd' 'p'e'r's'o'n' 'i's' 's'u'f'f'e'r'i'n'g' 'f'r'o'm' 's'o'm'e' 'd'i's'o'r'd'e'r','
-'d'i's'e'a's'e' 'o'r' 'b'o'd'i'l'y' 'i'n'f'i' 'r'm'i't'y',' 'w'h'i'c'h' 'q'u'i'c'k'e'n'e'd' 'I'l'l'u's't'r'a't'i'o'n's'
-'h'i's' 'd'e'a't'h'.' 'T'h'e' 'f'a'c't' 'h'i's' 'd'e'a't'h' 'w'a's' 'q'u'i'c'k'e'n'e'd'
-'('a')' 'A' 's'h'o'o't's' 'Z' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'k'i'l'l'i'n'g'
-'o'r' 'h'a's't'e'n'e'd' 'b'y' 't'h'e' 'd'i's'o'r'd'e'r's' 'o'r' 'd'i's'e'a's'e' 'h'e' 'w'a's'
-'h'i'm'.' 'Z' 'd'i'e's' 'i'n' 'c'o'n's'e'q'u'e'n'c'e'.' 'A' 'c'o'm'm'i't's'
-'a'l'r'e'a'd'y' 's'u'f'f'e'r'i'n'g' 'f'r'o'm',' 'w'i'l'l' 'n'o't' 'r'e'd'u'c'e' 't'h'e' 'g'u'i'l't'
-'m'u'r'd'e'r'.'
-'o'r' 'c'u'l'p'a'b'i'l'i't'y' 'o'f' 't'h'e' 'p'e'r's'o'n' 'c'a'u's'i'n'g' 't'h'e' 'i'n'j'u'r'y'.' 'I'n'
-'('b')' 'A',' 'k'n'o'w'i'n'g' 't'h'a't' 'Z' 'i's' 'l'a'b'o'u'r'i'n'g' 'u'n'd'e'r'
-'o't'h'e'r' 'w'o'r'd's',' 't'h'e' 'p'e'r's'o'n' 'w'h'o' 'c'a'u's'e'd' 't'h'e' 'i'n'j'u'r'y' 's'u'c'h' 'a' 'd'i's'e'a's'e' 't'h'a't' 'a' 'b'l'o'w' 'i's' 'l'i'k'e'l'y' 't'o'
-'c'a'n'n'o't' 'e's'c'a'p'e' 'c'r'i'm'i'n'a'l' 'l'i'a'b'i'l'i't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'c'a'u's'e' 'h'i's' 'd'e'a't'h',' 's't'r'i'k'e's' 'h'i'm' 'w'i't'h' 't'h'e'
-'h'o'm'i'c'i'd'e' 'b'y' 's't'a't'i'n'g' 't'h'a't' 'i'f' 't'h'e' 'p'e'r's'o'n' 'i'n'j'u'r'e'd' 'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 'b'o'd'i'l'y' 'i'n'j'u'r'y'.' 'Z' 'd'i'e's'
-'d'i'd' 'n'o't' 's'u'f'f'e'r' 'f'r'o'm' 't'h'e' 's'a'i'd' 'd'i's'e'a's'e',' 'h'e' 'w'o'u'l'd' 'i'n' 'c'o'n's'e'q'u'e'n'c'e' 'o'f' 't'h'e' 'b'l'o'w'.' 'A' 'i's' 'g'u'i'l't'y'
-'n'o't' 'h'a'v'e' 'd'i'e'd'.' 'o'f' 'm'u'r'd'e'r',' 'a'l't'h'o'u'g'h' 't'h'e' 'b'l'o'w' 'm'i'g'h't' 'h'a'v'e'
-'E'x'p'l'a'n'a't'i'o'n' '2'.' 'P'r'o'v'i'd'e's' 'f'o'r' 'a' 's'i't'u'a't'i'o'n' 'w'h'e'r'e'i'n' 'b'e'e'n' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e'
-'a' 'p'e'r's'o'n' 'w'h'o' 'h'a's' 'b'e'e'n' 'i'n'j'u'r'e'd' 'c'o'u'l'd' 'h'a'v'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h' 'o'f' 'a' 'p'e'r's'o'n'
-'r'e'c'o'v'e'r'e'd' 'a'n'd' 'e's'c'a'p'e'd' 'd'e'a't'h',' 'i'f' 'h'e' 'h'a'd' 'b'e'e'n' 'i'n' 'a' 's'o'u'n'd' 's't'a't'e' 'o'f' 'h'e'a'l't'h'.' 'B'u't' 'i'f' 'A',' 'n'o't'
-'g'i'v'e'n' 'p'r'o'm'p't' 'a'n'd' 'p'r'o'p'e'r' 'm'e'd'i'c'a'l' 't'r'e'a't'm'e'n't'.' 'k'n'o'w'i'n'g' 't'h'a't' 'Z' 'i's' 'l'a'b'o'u'r'i'n'g' 'u'n'd'e'r' 'a'n'y'
-'I'n' 's'u'c'h' 's'i't'u'a't'i'o'n's' 't'o'o',' 't'h'e' 'f'a'c't' 't'h'a't' 't'h'e' 'i'n'j'u'r'e'd' 'd'i's'e'a's'e',' 'g'i'v'e's' 'h'i'm' 's'u'c'h' 'a' 'b'l'o'w' 'a's' 'w'o'u'l'd'
-'p'e'r's'o'n' 'd'i'e'd' 'b'e'c'a'u's'e' 'h'e' 'c'o'u'l'd' 'n'o't' 'a'v'a'i'l' 'o'f' 'g'o'o'd' 'n'o't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 'k'i'l'l' 'a'
-'m'e'd'i'c'a'l' 't'r'e'a't'm'e'n't',' 'c'a'n'n'o't' 'b'e' 'a' 'g'r'o'u'n'd' 'f'o'r' 'p'e'r's'o'n' 'i'n' 'a' 's'o'u'n'd' 's't'a't'e' 'o'f' 'h'e'a'l't'h'.' 'H'e'r'e' 'A','
-'n'e'g'a't'i'n'g' 'g'u'i'l't' 'o'r' 'c'u'l'p'a'b'i'l'i't'y' 'o'f' 't'h'e' 'p'e'r's'o'n' 'w'h'o' 'a'l't'h'o'u'g'h' 'h'e' 'm'a'y' 'i'n't'e'n'd' 't'o' 'c'a'u's'e' 'b'o'd'i'l'y'
-'i'n'j'u'r'y',' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r',' 'i'f' 'h'e' 'd'i'd' 'n'o't'
-'i'n'f'l' 'i'c't'e'd' 't'h'e' 'i'n'j'u'r'y' 'i'n' 't'h'e' 'f'i' 'r's't' 'p'l'a'c'e'.'
-'i'n't'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h',' 'o'r' 's'u'c'h' 'b'o'd'i'l'y' 'i'n'j'u'r'y'
-'E'x'p'l'a'n'a't'i'o'n' '3'.' 'I's' 'i'n' 'r'e's'p'e'c't' 't'o' 'a' 's'l'i'g'h't'l'y'
-'a's' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'a'u's'e' 'o'f' 'n'a't'u'r'e' 'w'o'u'l'd'
-'d'i'f'f'e'r'e'n't' 's'i't'u'a't'i'o'n'.' 'I't' 't'a'k'e's' 'i'n't'o' 'c'o'n's'i'd'e'r'a't'i'o'n'
-'c'a'u's'e' 'd'e'a't'h'.'
-'d'e'a't'h' 'c'a'u's'e'd' 't'o' 'a' 'c'h'i'l'd' 'i'n' 't'h'e' 'm'o't'h'e'r'’'s' 'w'o'm'b'.'
-'('c')' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'g'i'v'e's' 'Z' 'a' 's'w'o'r'd'-'c'u't' 'o'r'
-'T'h'e' 'l'a'w' 's't'a't'e's' 't'h'a't' 'i'f' 't'h'e' 'd'e'a't'h' 'o'f' 't'h'e' 'c'h'i'l'd'
-'c'l'u'b'-'w'o'u'n'd' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h'
-'i's' 'c'a'u's'e'd' 'w'h'e'n' 's't'i'l'l' 'i'n' 't'h'e' 'm'o't'h'e'r'’'s' 'w'o'm'b',' 'i't' 'i's'
-'o'f' 'a' 'm'a'n' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'.'
-'n'o't' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'Z' 'd'i'e's' 'i'n' 'c'o'n's'e'q'u'e'n'c'e'.' 'H'e'r'e',' 'A' 'i's' 'g'u'i'l't'y'
-'H'o'w'e'v'e'r',' 'i'f' 'a'n'y' 'p'o'r't'i'o'n' 'o'f' 't'h'e' 'c'h'i'l'd',' 'c'o'm'e's'
-'o'f' 'm'u'r'd'e'r',' 'a'l't'h'o'u'g'h' 'h'e' 'm'a'y' 'n'o't' 'h'a'v'e'
-'o'u't' 'o'f' 't'h'e' 'm'o't'h'e'r'’'s' 'w'o'm'b',' 'e'v'e'n' 'i'f' 'i't' 'i's' 'n'o't' 'f'u'l'l'y' 'i'n't'e'n'd'e'd' 't'o' 'c'a'u's'e' 'Z'’'s' 'd'e'a't'h'.'
-'b'o'r'n',' 'a'n'd' 'i'f' 'd'e'a't'h' 'i's' 'c'a'u's'e'd' 't'o' 's'u'c'h' 'c'h'i'l'd',' 't'h'e'n' 'i't' '('d')' 'A' 'w'i't'h'o'u't' 'a'n'y' 'e'x'c'u's'e's' 'f'i' 'r'e's' 'a' 'l'o'a'd'e'd' 'c'a'n'n'o'n'
-'w'o'u'l'd' 'a'm'o'u'n't' 't'o' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'i'n't'o' 'a' 'c'r'o'w'd' 'o'f' 'p'e'r's'o'n's' 'a'n'd' 'k'i'l'l's' 'o'n'e' 'o'f'
-'t'h'e'm'.' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r',' 'a'l't'h'o'u'g'h' 'h'e'
-'M'U'R'D'E'R' 'm'a'y' 'n'o't' 'h'a'v'e' 'h'a'd' 'a' 'p'r'e'm'e'd'i't'a't'e'd' 'd'e's'i'g'n'
-'t'o' 'k'i'l'l' 'a'n'y' 'p'a'r't'i'c'u'l'a'r' 'i'n'd'i'v'i'd'u'a'l'.'
-'S'e'c't'i'o'n' '3'0'0':' 'M'u'r'd'e'r'
-'E'x'c'e'p't'i'o'n' '1'.' 'W'h'e'n' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't'
-'E'x'c'e'p't' 'i'n' 't'h'e' 'c'a's'e's' 'h'e'r'e'i'n'a'f't'e'r' 'e'x'c'e'p't'e'd',' 'm'u'r'd'e'r'.'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'm'u'r'd'e'r',' 'i'f' 't'h'e' 'a'c't' 'b'y' 'w'h'i'c'h' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't' 'm'u'r'd'e'r' 'i'f' 't'h'e' 'o'f'f'e'n'd'e'r','
-'t'h'e' 'd'e'a't'h' 'i's' 'c'a'u's'e'd' 'i's' 'd'o'n'e' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'w'h'i'l's't' 'd'e'p'r'i'v'e'd' 'o'f' 't'h'e' 'p'o'w'e'r' 'o'f' 's'e'l'f'-'c'o'n't'r'o'l'
-'c'a'u's'i'n'g' 'd'e'a't'h',' 'o'r' 'b'y' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n',' 'c'a'u's'e's' 't'h'e'
-'S'e'c'o'n'd'l'y',' 'i'f' 'i't' 'i's' 'd'o'n'e' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'd'e'a't'h' 'o'f' 't'h'e' 'p'e'r's'o'n' 'w'h'o' 'g'a'v'e' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n'
-'c'a'u's'i'n'g' 's'u'c'h' 'b'o'd'i'l'y' 'i'n'j'u'r'y' 'a's' 't'h'e' 'o'f'f'e'n'd'e'r' 'k'n'o'w's' 'o'r' 'a'c'c'i'd'e'n't'.'
-'t'o' 'b'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h' 'o'f' 't'h'e' 'p'e'r's'o'n' 't'o' 'T'h'e' 'a'b'o'v'e' 'e'x'c'e'p't'i'o'n' 'i's' 's'u'b'j'e'c't' 't'o' 't'h'e'
-'w'h'o'm' 't'h'e' 'h'a'r'm' 'i's' 'c'a'u's'e'd',' 'o'r' 'f'o'l'l'o'w'i'n'g' 'p'r'o'v'i's'i'o'n's':'
-'T'h'i'r'd'l'y',' 'i'f' 'i't' 'i's' 'd'o'n'e' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'F'i'r's't'l'y',' 't'h'a't' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'i's' 'n'o't' 's'o'u'g'h't'
-'c'a'u's'i'n'g' 'b'o'd'i'l'y' 'i'n'j'u'r'y' 't'o' 'a'n'y' 'p'e'r's'o'n',' 'a'n'd' 't'h'e' 'o'r' 'v'o'l'u'n't'a'r'i'l'y' 'p'r'o'v'o'k'e'd' 'b'y' 't'h'e' 'o'f'f'e'n'd'e'r' 'a's' 'a'n'
-'b'o'd'i'l'y' 'i'n'j'u'r'y' 'i'n't'e'n'd'e'd' 't'o' 'b'e' 'i'n'f'l' 'i'c't'e'd' 'i's' 's'u'f'f'i' 'c'i'e'n't' 'e'x'c'u's'e' 'f'o'r' 'k'i'l'l'i'n'g' 'o'r' 'd'o'i'n'g' 'h'a'r'm' 't'o' 'a'n'y' 'p'e'r's'o'n'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '3'3'
-'S'e'c'o'n'd'l'y',' 't'h'a't' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'i's' 'n'o't' 'g'i'v'e'n' 'E'x'c'e'p't'i'o'n' '2'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't' 'm'u'r'd'e'r'
-'b'y' 'a'n'y't'h'i'n'g' 'd'o'n'e' 'i'n' 'o'b'e'd'i'e'n'c'e' 't'o' 't'h'e' 'l'a'w',' 'o'r' 'b'y' 'i'f' 't'h'e' 'o'f'f'e'n'd'e'r',' 'i'n' 't'h'e' 'e'x'e'r'c'i's'e' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'o'f' 't'h'e'
-'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'i'n' 't'h'e' 'l'a'w'f'u'l' 'e'x'e'r'c'i's'e' 'o'f' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 'p'e'r's'o'n' 'o'r' 'p'r'o'p'e'r't'y','
-'p'o'w'e'r's' 'o'f' 's'u'c'h' 'p'u'b'l'i'c' 's'e'r'v'a'n't'.' 'e'x'c'e'e'd's' 't'h'e' 'p'o'w'e'r' 'g'i'v'e'n' 't'o' 'h'i'm' 'b'y' 'l'a'w' 'a'n'd'
-'c'a'u's'e's' 't'h'e' 'd'e'a't'h' 'o'f' 't'h'e' 'p'e'r's'o'n' 'a'g'a'i'n's't' 'w'h'o'm'
-'T'h'i'r'd'l'y',' 't'h'a't' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'i's' 'n'o't' 'g'i'v'e'n'
-'h'e' 'i's' 'e'x'e'r'c'i's'i'n'g' 's'u'c'h' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'w'i't'h'o'u't'
-'b'y' 'a'n'y't'h'i'n'g' 'd'o'n'e' 'i'n' 't'h'e' 'l'a'w'f'u'l' 'e'x'e'r'c'i's'e' 'o'f' 't'h'e'
-'p'r'e'm'e'd'i't'a't'i'o'n',' 'a'n'd' 'w'i't'h'o'u't' 'a'n'y' 'i'n't'e'n't'i'o'n' 'o'f'
-'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.'
-'d'o'i'n'g' 'm'o'r'e' 'h'a'r'm' 't'h'a'n' 'i's' 'n'e'c'e's's'a'r'y' 'f'o'r' 't'h'e'
-'E'x'p'l'a'n'a't'i'o'n'.' 'W'h'e't'h'e'r' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'w'a's'
-'p'u'r'p'o's'e' 'o'f' 's'u'c'h' 'd'e'f'e'n'c'e'.'
-'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'e'n'o'u'g'h' 't'o' 'p'r'e'v'e'n't' 't'h'e' 'o'f'f'e'n'c'e'
-'f'r'o'm' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'i's' 'a' 'q'u'e's't'i'o'n' 'o'f' 'f'a'c't'.' 'I'l'l'u's't'r'a't'i'o'n'
-'Z' 'a't't'e'm'p't's' 't'o' 'h'o'r's'e'w'h'i'p' 'A',' 'n'o't' 'i'n' 's'u'c'h' 'a' 'm'a'n'n'e'r'
-'I'l'l'u's't'r'a't'i'o'n's'
-'a's' 't'o' 'c'a'u's'e' 'g'r'i'e'v'o'u's' 'h'u'r't' 't'o' 'A'.' 'A' 'd'r'a'w's' 'o'u't' 'a'
-'('a')' 'A',' 'u'n'd'e'r' 't'h'e' 'i'n'f'l' 'u'e'n'c'e' 'o'f' 'p'a's's'i'o'n' 'e'x'c'i't'e'd'
-'p'i's't'o'l'.' 'Z' 'p'e'r's'i's't's' 'i'n' 't'h'e' 'a's's'a'u'l't'.' 'A' 'b'e'l'i'e'v'i'n'g' 'i'n'
-'b'y' 'a' 'p'r'o'v'o'c'a't'i'o'n' 'g'i'v'e'n' 'b'y' 'Z',' 'i'n't'e'n't'i'o'n'a'l'l'y' 'g'o'o'd' 'f'a'i't'h' 't'h'a't' 'h'e' 'c'a'n' 'b'y' 'n'o' 'o't'h'e'r' 'm'e'a'n's' 'p'r'e'v'e'n't'
-'k'i'l'l's' 'Y',' 'Z'’'s' 'c'h'i'l'd'.' 'T'h'i's' 'i's' 'm'u'r'd'e'r',' 'i'n'a's'm'u'c'h' 'h'i'm's'e'l'f' 'f'r'o'm' 'b'e'i'n'g' 'h'o'r's'e'w'h'i'p'p'e'd',' 's'h'o'o't's' 'Z'
-'a's' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'w'a's' 'n'o't' 'g'i'v'e'n' 'b'y' 't'h'e' 'd'e'a'd'.' 'A' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd',' 'm'u'r'd'e'r',' 'b'u't' 'o'n'l'y'
-'c'h'i'l'd',' 'a'n'd' 't'h'e' 'd'e'a't'h' 'o'f' 't'h'e' 'c'h'i'l'd' 'w'a's' 'n'o't' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'c'a'u's'e'd' 'b'y' 'a'c'c'i'd'e'n't' 'o'r' 'm'i's'f'o'r't'u'n'e' 'i'n' 'd'o'i'n'g'
-'E'x'c'e'p't'i'o'n' '3'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't' 'm'u'r'd'e'r'
-'a'n' 'a'c't' 'c'a'u's'e'd' 'b'y' 'a' 'p'r'o'v'o'c'a't'i'o'n'.'
-'i'f' 't'h'e' 'o'f'f'e'n'd'e'r' 'b'e'i'n'g' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'o'r' 'a'i'd'i'n'g'
-'('b')' 'Y' 'g'i'v'e's' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n' 't'o'
-'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'a'c't'i'n'g' 'f'o'r' 't'h'e' 'a'd'v'a'n'c'e'm'e'n't' 'o'f'
-'A'.' 'A',' 'o'n' 't'h'i's' 'p'r'o'v'o'c'a't'i'o'n',' 'f'i' 'r'e's' 'a' 'p'i's't'o'l' 'a't'
-'p'u'b'l'i'c' 'j'u's't'i'c'e',' 'e'x'c'e'e'd's' 't'h'e' 'p'o'w'e'r's' 'g'i'v'e'n' 't'o' 'h'i'm'
-'Y',' 'n'e'i't'h'e'r' 'i'n't'e'n'd'i'n'g' 'n'o'r' 'k'n'o'w'i'n'g' 'h'i'm's'e'l'f'
-'b'y' 'l'a'w',' 'a'n'd' 'c'a'u's'e's' 'd'e'a't'h' 'b'y' 'd'o'i'n'g' 'a'n' 'a'c't' 'w'h'i'c'h'
-'t'o' 'b'e' 'l'i'k'e'l'y' 't'o' 'k'i'l'l' 'Z',' 'w'h'o' 'i's' 'n'e'a'r' 'h'i'm',' 'b'u't'
-'h'e',' 'i'n' 'g'o'o'd' 'f'a'i't'h',' 'b'e'l'i'e'v'e's' 't'o' 'b'e' 'l'a'w'f'u'l' 'a'n'd'
-'o'u't' 'o'f' 's'i'g'h't'.' 'A' 'k'i'l'l's' 'Z'.' 'H'e'r'e' 'A' 'h'a's' 'n'o't'
-'n'e'c'e's's'a'r'y' 'f'o'r' 't'h'e' 'd'u'e' 'd'i's'c'h'a'r'g'e' 'o'f' 'h'i's' 'd'u't'y' 'a's'
-'c'o'm'm'i't't'e'd' 'm'u'r'd'e'r',' 'b'u't' 'm'e'r'e'l'y' 'c'u'l'p'a'b'l'e'
-'s'u'c'h' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'a'n'd' 'w'i't'h'o'u't' 'i'l'l'-'w'i'l'l' 't'o'w'a'r'd's'
-'h'o'm'i'c'i'd'e'.' 't'h'e' 'p'e'r's'o'n' 'w'h'o's'e' 'd'e'a't'h' 'i's' 'c'a'u's'e'd'.'
-'('c')' 'A' 'i's' 'l'a'w'f'u'l'l'y' 'a'r'r'e's't'e'd' 'b'y' 'Z',' 'a' 'b'a'i'l'i'f'f'.' 'A'
-'E'x'c'e'p't'i'o'n' '4'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't' 'm'u'r'd'e'r'
-'i's' 'e'x'c'i't'e'd' 't'o' 's'u'd'd'e'n' 'a'n'd' 'v'i'o'l'e'n't' 'p'a's's'i'o'n'
-'i'f' 'i't' 'i's' 'c'o'm'm'i't't'e'd' 'w'i't'h'o'u't' 'p'r'e'm'e'd'i't'a't'i'o'n' 'i'n' 'a'
-'b'y' 't'h'e' 'a'r'r'e's't',' 'a'n'd' 'k'i'l'l's' 'Z'.' 'T'h'i's' 'i's' 'm'u'r'd'e'r','
-'s'u'd'd'e'n' 'f'i' 'g'h't' 'i'n' 't'h'e' 'h'e'a't' 'o'f' 'p'a's's'i'o'n' 'u'p'o'n' 'a' 's'u'd'd'e'n'
-'i'n'a's'm'u'c'h' 'a's' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'w'a's' 'g'i'v'e'n'
-'q'u'a'r'r'e'l' 'a'n'd' 'w'i't'h'o'u't' 't'h'e' 'o'f'f'e'n'd'e'r's' 'h'a'v'i'n'g' 't'a'k'e'n'
-'b'y' 'a',' 't'h'i'n'g' 'd'o'n'e' 'b'y' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'i'n' 't'h'e'
-'u'n'd'u'e' 'a'd'v'a'n't'a'g'e' 'o'r' 'a'c't'e'd' 'i'n' 'a' 'c'r'u'e'l' 'o'r' 'u'n'u's'u'a'l'
-'e'x'e'r'c'i's'e' 'o'f' 'h'i's' 'p'o'w'e'r's'.'
-'m'a'n'n'e'r'.'
-'('d')' 'A' 'a'p'p'e'a'r's' 'a's' 'a' 'w'i't'n'e's's' 'b'e'f'o'r'e' 'Z',' 'a'
-'E'x'p'l'a'n'a't'i'o'n'.' 'I't' 'i's' 'i'm'm'a't'e'r'i'a'l' 'i'n' 's'u'c'h' 'c'a's'e's'
-'M'a'g'i's't'r'a't'e'.' 'Z' 's'a'y's' 't'h'a't' 'h'e' 'd'o'e's' 'n'o't' 'b'e'l'i'e'v'e'
-'w'h'i'c'h' 'p'a'r't'y' 'o'f'f'e'r's' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'o'r' 'c'o'm'm'i't's'
-'a' 'w'o'r'd' 'o'f' 'A'’'s' 'd'e'p'o's'i't'i'o'n',' 'a'n'd' 't'h'a't' 'A' 'h'a's'
-'t'h'e' 'f'i' 'r's't' 'a's's'a'u'l't'.'
-'p'e'r'j'u'r'e'd' 'h'i'm's'e'l'f'.' 'A' 'i's' 'm'o'v'e'd' 't'o' 'a' 's'u'd'd'e'n'
-'E'x'c'e'p't'i'o'n' '5'.' 'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'n'o't' 'm'u'r'd'e'r'
-'p'a's's'i'o'n' 'b'y' 't'h'e's'e' 'w'o'r'd's',' 'a'n'd' 'k'i'l'l's' 'Z'.' 'T'h'i's'
-'w'h'e'n' 't'h'e' 'p'e'r's'o'n' 'w'h'o's'e' 'd'e'a't'h' 'i's' 'c'a'u's'e'd',' 'b'e'i'n'g'
-'i's' 'm'u'r'd'e'r'.'
-'a'b'o'v'e' 't'h'e' 'a'g'e' 'o'f' 'e'i'g'h't'e'e'n' 'y'e'a'r's',' 's'u'f'f'e'r's' 'd'e'a't'h' 'o'r'
-'('e')' 'A' 'a't't'e'm'p't's' 't'o' 'p'u'l'l' 'Z'’'s' 'n'o's'e'.' 'Z',' 'i'n' 't'h'e'
-'t'a'k'e's' 't'h'e' 'r'i's'k' 'o'f' 'd'e'a't'h' 'w'i't'h'o'u't' 'h'i's' 'c'o'n's'e'n't'.'
-'e'x'e'r'c'i's'e' 'o'f' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e','
-'l'a'y's' 'h'o'l'd' 'o'f' 'A' 't'o' 'p'r'e'v'e'n't' 'h'i'm' 'f'r'o'm' 'd'o'i'n'g' 'I'l'l'u's't'r'a't'i'o'n'
-'s'o'.' 'A' 'i's' 'm'o'v'e'd' 't'o' 's'u'd'd'e'n' 'a'n'd' 'v'i'o'l'e'n't'
-'A',' 'b'y' 'i'n's't'i'g'a't'i'o'n',' 'v'o'l'u'n't'a'r'i'l'y' 'c'a'u's'e's' 'Z',' 'a' 'p'e'r's'o'n'
-'p'a's's'i'o'n' 'i'n' 'c'o'n's'e'q'u'e'n'c'e',' 'a'n'd' 'k'i'l'l's' 'Z'.' 'T'h'i's'
-'u'n'd'e'r' 'e'i'g'h't'e'e'n' 'y'e'a'r's' 'o'f' 'a'g'e',' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e'.'
-'i's' 'm'u'r'd'e'r',' 'i'n'a's'm'u'c'h' 'a's' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n'
-'H'e'r'e',' 'o'n' 'a'c'c'o'u'n't' 'o'f' 'Z'’'s' 'y'o'u't'h',' 'h'e' 'w'a's' 'i'n'c'a'p'a'b'l'e'
-'w'a's' 'g'i'v'e'n' 'b'y' 'a' 't'h'i'n'g' 'd'o'n'e' 'i'n' 't'h'e' 'e'x'e'r'c'i's'e'
-'o'f' 'g'i'v'i'n'g' 'c'o'n's'e'n't' 't'o' 'h'i's' 'o'w'n' 'd'e'a't'h';' 'A' 'h'a's'
-'o'f' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.'
-'t'h'e'r'e'f'o'r'e' 'a'b'e't't'e'd' 'm'u'r'd'e'r'.'
-'('f')' 'Z' 's't'r'i'k'e's' 'B'.' 'B' 'i's' 'b'y' 't'h'i's' 'p'r'o'v'o'c'a't'i'o'n'
-'e'x'c'i't'e'd' 't'o' 'v'i'o'l'e'n't' 'r'a'g'e'.' 'A',' 'a' 'b'y's't'a'n'd'e'r',' 'S'c'o'p'e' 'o'f' 'S'e'c't'i'o'n' '3'0'0'
-'i'n't'e'n'd'i'n'g' 't'o' 't'a'k'e' 'a'd'v'a'n't'a'g'e' 'o'f' 'B'’'s' 'r'a'g'e',' 'S'e'c't'i'o'n' '3'0'0' 'd'e'f'i' 'n'e's' 'm'u'r'd'e'r' 'w'i't'h' 'r'e'f'e'r'e'n'c'e' 't'o'
-'a'n'd' 't'o' 'c'a'u's'e' 'h'i'm' 't'o' 'k'i'l'l' 'Z',' 'p'u't's' 'a' 'k'n'i'f'e' 'i'n't'o' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'd'e'f'i' 'n'e'd' 'i'n' 'S'e'c't'i'o'n' '2'9'9'.' 'I'f' 't'h'e'
-'B'’'s' 'h'a'n'd' 'f'o'r' 't'h'a't' 'p'u'r'p'o's'e'.' 'B' 'k'i'l'l's' 'Z' 'w'i't'h' 's'p'e'c'i'a'l' 'r'e'q'u'i'r'e'm'e'n't's' 'p'r'o'v'i'd'e'd' 'i'n' 'c'l'a'u's'e's' '1'–'4' 'o'f'
-'t'h'e' 'k'n'i'f'e'.' 'H'e'r'e' 'B' 'm'a'y' 'h'a'v'e' 'c'o'm'm'i't't'e'd' 'a' 'S'e'c't'i'o'n' '3'0'0' 'a'r'e' 'f'u'l'f'i' 'l'l'e'd',' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'
-'o'n'l'y' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e',' 'b'u't' 'A' 'i's' 'a' 'g'u'i'l't'y' 'w'i'l'l' 't'h'e'n' 'a'm'o'u'n't' 't'o' 'm'u'r'd'e'r',' 'p'r'o'v'i'd'e'd' 'o'f' 'c'o'u'r's'e','
-'o'f' 'm'u'r'd'e'r'.' 't'h'e' 'a'c't' 'd'o'e's' 'n'o't' 'f'a'l'l' 'w'i't'h'i'n' 'a'n'y' 'o'f' 't'h'e' 'e'x'c'e'p't'i'o'n'
-'
-'p'r'o'v'i'd'e'd' 'i'n' 'S'e'c't'i'o'n' '3'0'0'.' 'I'f' 'a'n' 'a'c't' 'w'h'i'c'h' 'f'a'l'l's' 'E'x'c'e'p't'i'o'n' '4'.'
-'w'i't'h'i'n' 'c'l'a'u's'e's' '1'–'4' 'o'f' 'S'e'c't'i'o'n' '3'0'0',' 'a'l's'o' 'f'a'l'l's' '('a')' 'A' 's'u'd'd'e'n' 'f'i' 'g'h't' 'w'i't'h'o'u't' 'p'r'e'm'e'd'i't'a't'i'o'n';'
-'w'i't'h'i'n' 'o'n'e' 'o'f' 't'h'e' 'e'x'c'e'p't'i'o'n',' 't'h'e'n' 'i't' 'w'i'l'l' 'b'e' '('b')' 'T'h'e' 'o'f'f'e'n'd'e'r' 's'h'o'u'l'd' 'n'o't' 't'a'k'e' 'u'n'd'u'e' 'a'd'-'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.' 'v'a'n't'a'g'e' 'o'r' 'a'c't' 'i'n' 'a' 'c'r'u'e'l' 'o'r' 'u'n'u's'u'a'l' 'm'a'n'-'
-'I't' 'w'o'u'l'd' 'p'r'o'b'a'b'l'y' 'h'a'v'e' 'b'e'e'n' 'm'o'r'e' 's'i'm'p'l'e' 'n'e'r'.'
-'a'n'd' 'l'e's's' 'c'o'm'p'l'i'c'a't'e'd' 'i'f' 't'h'e' 'C'o'd'e' 'h'a'd' 'f'i' 'r's't' 'd'e'-' 'E'x'p'l'a'n'a't'i'o'n'.' 'W'h'o' 's't'a'r't'e'd' 't'h'e' 'f'i' 'g'h't' 'o'r' 'q'u'a'r'r'e'l'
-'f'i' 'n'e'd' 'h'o'm'i'c'i'd'e' 'a'n'd' 't'h'e'n' 'd'e'f'i' 'n'e'd' 's'e'p'a'r'a't'e'l'y' 'c'u'l'-' 'i's' 'i'm'm'a't'e'r'i'a'l'.'
-'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'a'n'd' 'm'u'r'd'e'r'.' 'S'i'n'c'e' 's'o'm'e' 'c'l'a'u's'e's' 'E'x'c'e'p't'i'o'n' '5'.' 'D'e'a't'h' 'c'a'u's'e'd' 't'o' 'a' 'p'e'r's'o'n' 'a'b'o'v'e' '1'8'
-'i'n' 'S'e'c't'i'o'n's' '2'9'9' 'a'n'd' '3'0'0' 'o'v'e'r'l'a'p',' 'i't' 'h'a's' 'l'e'd' 't'o' 'a' 'y'e'a'r's' 'o'f' 'a'g'e' 'w'i't'h' 'h'i's' 'c'o'n's'e'n't'.'
-'l'o't' 'o'f' 'd'i's'c'u's's'i'o'n's',' 'd'e'b'a't'e's' 'a'n'd' 'd'i'f'f'e'r'e'n'c'e's'.'
-'D'e'a't'h' 'b'y' 'N'e'g'l'i'g'e'n'c'e'
-'T'h'e' 'f'o'l'l'o'w'i'n'g' 'a'r'e' 't'h'e' 'e's's'e'n't'i'a'l' 'i'n'g'r'e'd'i'e'n't's'
-'o'f' 'S'e'c't'i'o'n' '3'0'0':' 'S'e'c't'i'o'n' '3'0'4'-'A':' 'C'a'u's'i'n'g' 'd'e'a't'h' 'b'y' 'n'e'g'l'i'g'e'n'c'e'
-'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i's' 'm'u'r'd'e'r',' 'i'f' 'i't' 'i's' 'd'o'n'e' 'W'h'o'e'v'e'r' 'c'a'u's'e's' 't'h'e' 'd'e'a't'h' 'o'f' 'a'n'y' 'p'e'r's'o'n' 'b'y'
-'w'i't'h':' 'd'o'i'n'g' 'a'n'y' 'r'a's'h' 'o'r' 'n'e'g'l'i'g'e'n't' 'a'c't' 'n'o't' 'a'm'o'u'n't'i'n'g'
-'('1')' 'I'n't'e'n't'i'o'n' 't'o' 'c'a'u's'e' 'd'e'a't'h';' 't'o' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e',' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h'
-'('2')' 'I'n't'e'n't'i'o'n' 't'o' 'c'a'u's'e' 'b'o'd'i'l'y' 'i'n'j'u'r'y',' 'k'n'o'w'i'n'g' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm'
-'t'h'a't' 't'h'e' 'i'n'j'u'r'y' 'c'a'u's'e'd',' 'i's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 't'w'o' 'y'e'a'r's',' 'o'r' 'w'i't'h' 'f'i' 'n'e' 'o'r'
-'d'e'a't'h';' 'w'i't'h' 'b'o't'h'.'
-'('3')' 'I'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 'b'o'd'i'l'y' 'i'n'j'u'r'y' 's'u'f'f'i' '-' 'T'h'i's' 's'e'c't'i'o'n' 'w'a's' 'a'd'd'e'd' 'b'y' 'a'n' 'a'm'e'n'd'm'e'n't'
-'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'o'f' 't'h'e' 'C'o'd'e' '1'0'—'y'e'a'r's' 'a'f't'e'r' 't'h'e' 'I'P'C' 'w'a's' 'e'n'a'c't'e'd'.'
-'c'a'u's'e' 'd'e'a't'h';' 'I't' 'd'o'e's' 'n'o't' 'c'r'e'a't'e' 'a' 'n'e'w' 'o'f'f'e'n'c'e'.' 'T'h'i's' 's'e'c't'i'o'n' 'i's'
-'('4')' '('a')' 'k'n'o'w'l'e'd'g'e' 't'h'a't' 't'h'e' 'a'c't' 'i's' 's'o' 'i'm'm'i'n'e'n't'-' 'd'i'r'e'c't'e'd' 'a't' 'o'f'f'e'n'c'e's',' 'w'h'i'c'h' 'f'a'l'l' 'o'u't's'i'd'e' 't'h'e' 'r'a'n'g'e'
-'l'y' 'd'a'n'g'e'r'o'u's' 't'h'a't' 'i'n' 'a'l'l' 'p'r'o'b'a'b'i'l'i't'y' 'i't' 'o'f' 'S'e'c't'i'o'n's' '2'2'9' 'a'n'd' '3'0'0',' 'w'h'e'r'e' 'n'e'i't'h'e'r' 'i'n't'e'n't'i'o'n'
-'w'i'l'l' 'c'a'u's'e' 'd'e'a't'h' 'o'r' 'b'o'd'i'l'y' 'i'n'j'u'r'y' 'l'i'k'e'l'y' 'n'o'r' 'k'n'o'w'l'e'd'g'e' 't'o' 'c'a'u's'e' 'd'e'a't'h' 'i's' 'p'r'e's'e'n't'.'
-'t'o' 'c'a'u's'e' 'd'e'a't'h';' 'a'n'd' 'I'n' 'f'a'c't',' 'i'f' 't'h'i's' 's'e'c't'i'o'n' 'i's' 'a'l's'o' 't'a'k'e'n' 'i'n't'o'
-'('b')' 's'u'c'h' 'a'c't' 's'h'o'u'l'd' 'b'e' 'w'i't'h'o'u't' 'j'u's't'i'f'i' 'c'a'-' 'c'o'n's'i'd'e'r'a't'i'o'n',' 't'h'e'r'e' 'a'r'e' 't'h'r'e'e' 't'y'p'e's' 'o'f' 'h'o'm'i'c'i'd'e'
-'t'i'o'n'.' 'w'h'i'c'h' 'a'r'e' 'p'u'n'i's'h'a'b'l'e' 'u'n'd'e'r' 't'h'e' 'c'o'd'e'—'c'u'l'p'a'b'l'e'
-'C'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'w'i'l'l' 'n'o't' 'b'e' 'm'u'r'd'e'r',' 'i'f' 'h'o'm'i'c'i'd'e' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r',' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-'
-'i't' 'i's':' 'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'a'n'd' 't'h'e' 'h'o'm'i'c'i'd'e'
-'E'x'c'e'p't'i'o'n' '1'.' 'O'n' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a'-' 'b'y' 'n'e'g'l'i'g'e'n'c'e'.'
-'t'i'o'n';' 'T'h'i's' 's'e'c't'i'o'n' 'd'e'a'l's' 'w'i't'h' 'h'o'm'i'c'i'd'e' 'b'y' 'n'e'g'l'i'-'
-'E'x'p'l'a'n'a't'i'o'n':' 'g'e'n'c'e' 'a'n'd' 'c'o'v'e'r's' 't'h'a't' 'c'l'a's's' 'o'f' 'o'f'f'e'n'c'e's',' 'w'h'e'r'e'
-'('a')' 'T'h'e' 'p'r'o'v'o'c'a't'i'o'n' 's'h'o'u'l'd' 'n'o't' 'b'e' 'v'o'l'u'n't'a'r'i'l'y' 'd'e'a't'h' 'i's' 'c'a'u's'e'd' 'n'e'i't'h'e'r' 'i'n't'e'n't'i'o'n'a'l'l'y' 'n'o'r' 'w'i't'h' 't'h'e'
-'s'o'u'g'h't' 'o'r' 'd'e'l'i'b'e'r'a't'e'l'y' 'c'a'u's'e'd' 'b'y' 't'h'e' 'k'n'o'w'l'e'd'g'e' 't'h'a't' 't'h'e' 'a'c't' 'o'f' 't'h'e' 'o'f'f'e'n'd'e'r' 'i's' 'l'i'k'e'l'y'
-'a'c'c'u's'e'd';' 't'o' 'c'a'u's'e' 'd'e'a't'h',' 'b'u't' 'b'e'c'a'u's'e' 'o'f' 't'h'e' 'r'a's'h' 'n'e'g'l'i'g'e'n't'
-'('b')' 'S'h'o'u'l'd' 'n'o't' 'b'e' 'a' 'r'e's'u'l't' 'o'f' 'a'c't' 'd'o'n'e' 'b'y' 'p'u'b'l'i'c' 'a'c't' 'o'f' 't'h'e' 'o'f'f'e'n'd'e'r'.'
-'s'e'r'v'a'n't' 'o'r' 'i'n' 'o'b'e'd'i'e'n'c'e' 't'o' 'l'a'w';' 'T'h'i's' 'c'l'a'u's'e' 'l'i'm'i't's' 'i't's'e'l'f' 't'o' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'-'
-'('c')' 'N'o't' 'b'e' 'i'n' 's'e'l'f'-'d'e'f'e'n'c'e'.' 'g'e'n't' 'a'c't's' 'w'h'i'c'h' 'c'a'u's'e' 'd'e'a't'h',' 'b'u't' 'f'a'l'l's' 's'h'o'r't' 'o'f'
-'W'h'e't'h'e'r' 'a' 'p'a'r't'i'c'u'l'a'r' 'a'c't' 'i's' 'g'r'a'v'e' 'a'n'd' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'o'f' 'e'i't'h'e'r' 'd'e's'c'r'i'p't'i'o'n'.'
-'s'u'd'd'e'n' 'i's' 'a' 'q'u'e's't'i'o'n' 'o'f' 'f'a'c't'.'
-'R'a's'h' 'o'r' 'N'e'g'l'i'g'e'n't' 'A'c't'
-'E'x'c'e'p't'i'o'n' '2'.' 'I'n' 'e'x'e'r'c'i's'e' 'o'f' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e'
-'T'h'e' 'd'o'i'n'g' 'o'f' 'a' 'r'a's'h' 'o'r' 'n'e'g'l'i'g'e'n't' 'a'c't' 'w'h'i'c'h'
-'d'e'f'e'n'c'e' 'o'r' 'p'e'r's'o'n' 'o'r' 'p'r'o'p'e'r't'y';'
-'c'a'u's'e's' 'd'e'a't'h',' 'i's' 't'h'e' 'e's's'e'n'c'e' 'o'f' 't'h'i's' 's'e'c't'i'o'n'.'
-'('a')' 'A'n'd' 'w'i't'h'o'u't' 'p'r'e'm'e'd'i't'a't'i'o'n' 'a'n'd' 'w'i't'h'o'u't'
-'U'n'd'e'r' 'S'e'c't'i'o'n' '3'2',' 'I'P'C',' 't'h'e' 'a'c't' 'i'n'c'l'u'd'e's' '‘'i'l'l'e'g'a'l'
-'i'n't'e'n't'i'o'n'.'
-'o'm'i's's'i'o'n'’'.' 'T'h'e'r'e'f'o'r'e',' 'i'f' 'a'n' 'i'l'l'e'g'a'l' 'o'm'i's's'i'o'n'
-'E'x'c'e'p't'i'o'n' '3'.'
-'o'c'c'u'r's' 'a's' 'a' 'r'e's'u'l't' 'o'f' 'n'e'g'l'i'g'e'n'c'e',' 'w'h'i'c'h' 'r'e's'u'l't's' 'i'n'
-'('a')' 'A'n' 'a'c't' 'd'o'n'e' 'b'y' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'o'r' 'i'n' 'a'i'd'i'n'g'
-'d'e'a't'h',' 't'h'e'n' 't'h'i's' 's'e'c't'i'o'n' 'w'i'l'l' 'a'p'p'l'y'
-'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't';'
-'T'h'e' 't'e'r'm' '‘'n'e'g'l'i'g'e'n'c'e'’' 'a's' 'u's'e'd' 'i'n' 't'h'i's' 's'e'c'-'
-'('b')' 'A'c't'i'n'g' 'i'n' 'a'd'v'a'n'c'e'm'e'n't' 'o'f' 'p'u'b'l'i'c' 'j'u's't'i'c'e';'
-'t'i'o'n' 'd'o'e's' 'n'o't' 'm'e'a'n' 'm'e'r'e' 'c'a'r'e'l'e's's'n'e's's'.' 'T'h'e' 'r'a's'h'-'
-'('c')' 'S'u'c'h' 'a'c't' 'o'f' 't'h'e' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'i's' 'i'n' 'e'x'c'e's's'
-'n'e's's' 'o'f' 'n'e'g'l'i'g'e'n'c'e' 'm'u's't' 'b'e' 'o'f' 's'u'c'h' 'n'a't'u'r'e' 's'o' 'a's'
-'o'f' 't'h'e' 'p'o'w'e'r's' 'c'o'n'f'e'r'r'e'd' 'o'n' 'h'i'm',' 'b'u't'
-'t'o' 'b'e' 't'e'r'm'e'd' 'a's' 'a' 'c'r'i'm'i'n'a'l' 'a'c't' 'o'f' 'n'e'g'l'i'g'e'n'c'e' 'o'r'
-'e'x'e'r'c'i's'e'd' 'i'n' 'g'o'o'd' 'f'a'i't'h';'
-'r'a's'h'n'e's's'.'
-'('d')' 'A'n'd' 's'u'c'h' 'a'c't' 'i's' 'n'e'c'e's's'a'r'y' 't'o' 'd'i's'c'h'a'r'g'e'
-'S'e'c't'i'o'n' '8'0' 'o'f' 't'h'e' 'c'o'd'e' 'p'r'o'v'i'd'e's' '‘'n'o't'h'i'n'g'
-'f'a'i't'h';' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'w'h'i'c'h' 'i's' 'd'o'n'e' 'b'y' 'a'c'c'i'd'e'n't' 'o'f' 'm'i's'-'
-'('e')' 'A'n'd' 'i's' 'w'i't'h'o'u't' 'i'l'l' 'w'i'l'l'.' 'f'o'r't'u'n'e' 'a'n'd' 'w'i't'h'o'u't' 'a'n'y' 'c'r'i'm'i'n'a'l' 'k'n'o'w'l'e'd'g'e' 'o'r'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '3'5'
-'i'n't'e'n't'i'o'n' 'i'n' 't'h'e' 'd'o'i'n'g' 'o'f' 'a' 'l'a'w'f'u'l' 'a'c't' 'i'n' 'a' 'l'a'w'f'u'l' 'S'u'i'c'i'd'e'
-'m'a'n'n'e'r' 'b'y' 'a' 'l'a'w'f'u'l' 'm'e'a'n's' 'a'n'd' 'w'i't'h' 'p'r'o'p'e'r' 'c'a'r'e'
-'S'e'c't'i'o'n' '3'0'5':' 'A'b'e't'm'e'n't' 'o'f' 's'u'i'c'i'd'e' 'o'f' 'c'h'i'l'd' 'o'r'
-'a'n'd' 'c'a'u't'i'o'n'.'’' 'I't' 'i's' 'a'b's'e'n'c'e' 'o'f' 's'u'c'h' 'p'r'o'p'e'r' 'c'a'r'e'
-'i'n's'a'n'e' 'p'e'r's'o'n'
-'a'n'd' 'c'a'u't'i'o'n',' 'w'h'i'c'h' 'i's' 'r'e'q'u'i'r'e'd' 'o'f' 'a' 'r'e'a's'o'n'a'b'l'e'
-'I'f' 'a'n'y' 'p'e'r's'o'n' 'u'n'd'e'r' 'e'i'g'h't'e'e'n' 'y'e'a'r's' 'o'f' 'a'g'e',' 'a'n'y'
-'m'a'n' 'i'n' 'd'o'i'n'g' 'a'n' 'a'c't',' 'w'h'i'c'h' 'i's' 'm'a'd'e' 'p'u'n'i's'h'a'b'l'e'
-'i'n's'a'n'e' 'p'e'r's'o'n',' 'a'n'y' 'd'e'l'i'r'i'o'u's' 'p'e'r's'o'n',' 'a'n'y' 'i'd'i'o't','
-'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.'
-'o'r' 'a'n'y' 'p'e'r's'o'n' 'i'n' 'a' 's't'a't'e' 'o'f' 'i'n't'o'x'i'c'a't'i'o'n',' 'c'o'm'm'i't's'
-'I't' 'i's' 't'h'e' 'd'e'g'r'e'e' 'o'f' 'n'e'g'l'i'g'e'n'c'e',' 'w'h'i'c'h' 'r'e'-'
-'s'u'i'c'i'd'e',' 'w'h'o'e'v'e'r' 'a'b'e't's' 't'h'e' 'c'o'm'm'i's's'i'o'n' 'o'f'
-'a'l'l'y' 'd'e't'e'r'm'i'n'e's' 'w'h'e't'h'e'r' 'a' 'p'a'r't'i'c'u'l'a'r' 'a'c't' 'w'o'u'l'd'
-'s'u'c'h' 's'u'i'c'i'd'e',' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'd'e'a't'h' 'o'r'
-'a'm'o'u'n't' 't'o' 'a' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't' 'i's' 'o'f' 's'u'c'h' 'a'
-'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'l'i'f'e',' 'o'r' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'a'
-'d'e'g'r'e'e' 't'h'a't' 't'h'e' 'r'i's'k' 'r'u'n' 'b'y' 't'h'e' 'd'o'e'r' 'o'f' 't'h'e' 'a'c't' 'a's'
-'t'e'r'm' 'n'o't' 'e'x'c'e'e'd'i'n'g' 't'e'n' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l' 'a'l's'o' 'b'e'
-'d'e'f'i' 'n'e'd' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.' 'I't' 'i's' 'o'n'l'y' 'w'h'e'n' 't'h'e'
-'l'i'a'b'l'e' 't'o' 'f'i' 'n'e'.'
-'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't' 'i's' 'o'f' 's'u'c'h' 'a' 'd'e'g'r'e'e' 't'h'a't'
-'t'h'e' 'r'i's'k' 'r'u'n' 'b'y' 't'h'e' 'd'o'e'r' 'o'f' 't'h'e' 'a'c't' 'i's' 'v'e'r'y' 'h'i'g'h' 'S'e'c't'i'o'n' '3'0'6':' 'A'b'e't'm'e'n't' 'o'f' 's'u'i'c'i'd'e'
-'o'r' 'i's' 'd'o'n'e' 'w'i't'h' 's'u'c'h' 'r'e'c'k'l'e's's'n'e's's' 'a'n'd' 'w'i't'h' 't'o't'a'l' 'I'f' 'a'n'y' 'p'e'r's'o'n' 'c'o'm'm'i't's' 's'u'i'c'i'd'e',' 'w'h'o'e'v'e'r' 'a'b'e't's' 't'h'e'
-'d'i's'r'e'g'a'r'd' 'a'n'd' 'i'n'd'i'f'f'e'r'e'n'c'e' 't'o' 't'h'e' 'c'o'n's'e'q'u'e'n'c'e's' 'c'o'm'm'i's's'i'o'n' 'o'f' 's'u'c'h' 's'u'i'c'i'd'e',' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd'
-'o'f' 't'h'i's' 'a'c't',' 't'h'e' 'a'c't' 'c'a'n' 'b'e' 'c'o'n's't'i't'u't'e'd' 'a's' 'a' 'r'a's'h' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a'
-'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 't'e'n' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l'
-'N'e'g'l'i'g'e'n'c'e' 'i's' 't'h'e' 'g'r'o's's' 'a'n'd' 'c'u'l'p'a'b'l'e' 'a'l's'o' 'b'e' 'l'i'a'b'l'e' 't'o' 'f'i' 'n'e'.'
-'n'e'g'l'e'c't' 'o'r' 'f'a'i'l'u'r'e' 't'o' 'e'x'e'r'c'i's'e' 'r'e'a's'o'n'a'b'l'e' 'a'n'd' 'S'u'i'c'i'd'e' 'h'a's' 'n'o't' 'b'e'e'n' 'd'e'c'l'a'r'e'd' 'a's' 'a' 'c'r'i'm'e'
-'p'r'o'p'e'r' 'c'a'r'e',' 'a'n'd' 'p'r'e'c'a'u't'i'o'n' 't'o' 'g'u'a'r'd' 'a'g'a'i'n's't',' 'b'y' 't'h'e' 'C'o'd'e' 'o'b'v'i'o'u's'l'y' 'b'e'c'a'u's'e' 'o'n'c'e' 'a' 'p'e'r's'o'n'
-'e'i't'h'e'r' 't'o' 't'h'e' 'p'u'b'l'i'c' 'g'e'n'e'r'a'l'l'y' 'o'r' 't'o' 'a'n' 'i'n'd'i'v'i'd'u'-' 's'u'c'c'e's's'f'u'l'l'y' 'c'o'm'm'i't's' 's'u'i'c'i'd'e',' 't'h'a't' 'p'e'r's'o'n' 'i's' 'n'o'
-'a'l' 'i'n' 'p'a'r't'i'c'u'l'a'r',' 'w'h'i'c'h' 'a' 'r'e'a's'o'n'a'b'l'e' 'm'a'n' 'w'o'u'l'd' 'l'o'n'g'e'r' 'a'l'i'v'e' 't'o' 'b'e' 'p'r'o's'e'c'u't'e'd' 'a'n'd' 't'h'e' 'c'r'i'm'e'
-'h'a'v'e' 'a'd'o'p't'e'd'.' 'a'b'a't'e's' 'w'i't'h' 'h'i'm'.' 'H'o'w'e'v'e'r',' 'a'n' 'a't't'e'm'p't' 't'o' 'c'o'm'm'i't'
-'s'u'i'c'i'd'e' 'i's' 'p'u'n'i's'h'a'b'l'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'0'9' 'a'n'd' 'a'n'
-'A't't'e'm'p't' 't'o' 'C'o'm'm'i't' 'M'u'r'd'e'r' 'a'n'd'
-'a'b'e't'm'e'n't' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e' 'u'n'd'e'r' 'S'e'c't'i'o'n's' '3'0'5'
-'C'u'l'p'a'b'l'e' 'H'o'm'i'c'i'd'e'
-'a'n'd' '3'0'6',' 'I'C'.'
-'S'e'c't'i'o'n' '3'0'7':' 'A't't'e'm'p't' 't'o' 'm'u'r'd'e'r'
-'T'h'i's' 's'e'c't'i'o'n' 'i's' 'b'a's'e'd' 'o'n' 'a' 'r'e'a's'o'n'a'b'l'e' 'p'u'b'-'
-'W'h'o'e'v'e'r' 'd'o'e's' 'a'n'y' 'a'c't' 'w'i't'h' 's'u'c'h' 'i'n't'e'n't'i'o'n' 'o'r'
-'l'i'c' 'p'o'l'i'c'y' 't'o' 'p'r'e'v'e'n't' 'o't'h'e'r' 'p'e'r's'o'n's' 'i'n'v'o'l'v'e'm'e'n't','
-'k'n'o'w'l'e'd'g'e',' 'a'n'd' 'u'n'd'e'r' 's'u'c'h' 'c'i'r'c'u'm's't'a'n'c'e's' 't'h'a't','
-'i'n's't'i'g'a't'i'o'n' 'a'n'd' 'a'i'd'i'n'g' 'i'n' 't'e'r'm'i'n'a't'i'n'g' 'o'n'e'’'s' 'l'i'f'e'.'
-'i'f' 'h'e' 'b'y' 't'h'a't' 'a'c't' 'c'a'u's'e'd' 'd'e'a't'h',' 'h'e' 'w'o'u'l'd' 'b'e' 'g'u'i'l't'y'
-'I't' 't'a'k'e's' 'c'a'r'e' 'o'f' 's'i't'u'a't'i'o'n' 'a'n'd' 't'h'r'e'a't's' 'i'm'p'o's'e'd' 'b'y'
-'o'f' 'm'u'r'd'e'r',' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't'
-'d'e'a't'h' 'b'a'i't'e'r's'.'
-'o'f' 'e'i't'h'e'r' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd'
-'T'o' 'm'a'k'e' 'o'u't' 'a' 'c'a's'e' 'o'f' 'a'b'e't'm'e'n't',' 't'h'e'r'e' 'm'u's't'
-'t'o' 't'e'n' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l' 'a'l's'o' 'b'e' 'l'i'a'b'l'e' 't'o' 'f'i' 'n'e';' 'a'n'd','
-'b'e' 'i'n's't'i'g'a't'i'o'n' 'b'y' 't'h'e' 'a'c'c'u's'e'd'—'p'r'o'v'o'k'i'n'g',' 'i'n'c'i't'-'
-'h'u'r't' 'i's' 'c'a'u's'e'd' 't'o' 'a'n'y' 'p'e'r's'o'n' 'b'y' 's'u'c'h' 'a'c't',' 't'h'e'
-'i'n'g' 'o'r' 'e'n'c'o'u'r'a'g'i'n'g' 'a' 'p'e'r's'o'n' 't'o' 'd'o' 'a'n' 'a'c't'.'
-'o'f'f'e'n'd'e'r' 's'h'a'l'l' 'b'e' 'l'i'a'b'l'e' 'e'i't'h'e'r' 't'o' 'i'm'p'r'i's'o'n'm'e'n't'
-'T'h'e' 'o'f'f'e'n'c'e' 'o'f' 'a'b'e't'm'e'n't' 'm'u's't' 'c'o'n'f'i' 'r'm' 't'o'
-'f'o'r' 'l'i'f'e',' 'o'r' 't'o' 's'u'c'h' 'p'u'n'i's'h'm'e'n't' 'a's' 'i's' 'h'e'r'e'i'n'b'e'f'o'r'e'
-'t'h'e' 'd'e'f'i' 'n'i't'i'o'n' 'o'f' 't'h'e' 't'e'r'm' 'g'i'v'e'n' 'i'n' 'S'e'c't'i'o'n' '1'0'7'
-'m'e'n't'i'o'n'e'd'.'
-'i'.'e'.',' 't'o' 's'a'y',' 't'h'e'r'e' 'm'u's't' 'b'e' 'i'n's't'i'g'a't'i'o'n',' 'c'o'o'p'e'r'a'-'
-'A't't'e'm'p't's' 'b'y' 'L'i'f'e'-'C'o'n'v'i'c't's' 't'i'o'n' 'o'r' 'i'n't'e'n't'i'o'n'a'l' 'a's's'i's't'a'n'c'e' 'g'i'v'e'n' 't'o' 't'h'e' 'w'o'u'l'd'
-'b'e' 's'u'i'c'i'd'e'.' 'I't' 'i's' 'n'o't' 'n'e'c'e's's'a'r'y',' 'n'o'r' 'i'n'd'e'e'd' 'i's' 'i't'
-'W'h'e'n' 'a'n'y' 'p'e'r's'o'n' 'o'f'f'e'n'd'i'n'g' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n' 'i's'
-'a' 'p'a'r't' 'o'f' 't'h'e' 'd'e'f'i' 'n'i't'i'o'n',' 't'h'a't' 't'h'e' 's'u'i'c'i'd'e' 's'h'o'u'l'd'
-'u'n'd'e'r' 's'e'n't'e'n'c'e' 'o'f' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'l'i'f'e',' 'h'e' 'm'a'y','
-'h'a'v'e' 'b'e'e'n' 'c'o'm'm'i't't'e'd' 'i'n' 'c'o'n's'e'q'u'e'n'c'e' 'o'f' 't'h'e'
-'i'f' 'h'u'r't' 'i's' 'c'a'u's'e'd',' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'd'e'a't'h'.'
-'a'b'e't'm'e'n't'.'
-'S'c'o'p'e' 'o'f' 'S'e'c't'i'o'n' '3'0'7' 'B'u't',' 'i'n' 'o'r'd'e'r' 't'o' 'r'e'n'd'e'r' 'a' 'p'e'r's'o'n' 'l'i'a'b'l'e' 'a's' 'a'n'
-'a'b'e't't'o'r',' 'i't' 'i's' 'n'e'c'e's's'a'r'y' 't'h'a't' 't'h'e' 'a'b'e't't'o'r' 's'h'o'u'l'd' 'd'o'
-'S'e'c't'i'o'n' '3'0'7' 'p'r'o'v'i'd'e's' 't'h'a't' 't'h'e' 'd'e'f'i' 'n'i't'i'o'n' 'a's' 't'o'
-'s'o'm'e't'h'i'n'g' 'm'o'r'e' 't'h'a'n' 'r'e'm'a'i'n'i'n'g' 'a' 'm'u't'e' 's'p'e'c't'a'-'
-'w'h'a't' 'a'm'o'u'n't's' 't'o' 'a'n' 'a't't'e'm'p't' 't'o' 'c'o'm'm'i't' 'm'u'r'd'e'r'.'
-'t'o'r'.'
-'I'n' 'o'r'd'e'r' 'o'r' 'c'o'n's't'i't'u't'e' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 't'h'i's'
-'B'u't',' 's'o'm'e't'i'm'e's',' 'i't' 'i's' 'c'o'n'c'e'i'v'a'b'l'e' 't'h'a't' 'e'v'e'n'
-'s'e'c't'i'o'n',' 't'w'o' 'e'l'e'm'e'n't's' 'a'r'e' 'e's's'e'n't'i'a'l'.'
-'t'h'e' 'm'e'r'e' 'p'r'e's'e'n'c'e' 'a's' 's'p'e'c't'a't'o'r' 'm'a'y' 'e'n'c'o'u'r'a'g'e' 'a'
-'F'i'r's't',' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'r' 'k'n'o'w'l'e'd'g'e' 't'o' 'c'o'm'm'i't'
-'p'e'r's'o'n' 't'o' 'd'o' 'a' 'd'e'e'd',' 'w'h'i'c'h' 's'h'e' 'm'i'g'h't' 'o't'h'e'r'w'i's'e'
-'t'h'e' 'm'u'r'd'e'r'.'
-'r'e'f'r'a'i'n' 'f'r'o'm'.' 'I'n' 's'u'c'h' 'c'a's'e's',' 't'h'e' 'q'u'e's't'i'o'n' 'w'h'e't'h'e'r'
-'S'e'c'o'n'd',' 't'h'e' 'a'c't'u'a'l' 'a'c't' 'o'f' 't'r'y'i'n'g' 't'o' 'c'o'm'm'i't'
-'m'e'r'e' 'p'r'e's'e'n'c'e' 'a'm'o'u'n't'e'd' 't'o' 'i'n't'e'n't'i'o'n'a'l'l'y' 'a'i'd'i'n'g'
-'t'h'e' 'm'u'r'd'e'r'.' 'T'h'u's' 'i't' 'm'u's't' 'h'a'v'e' 'b'o't'h' 't'h'e' 'n'e'c'e's'-'
-'a'n'o't'h'e'r',' 'w'i'l'l' 'h'a'v'e' 't'o' 'b'e' 'd'e'c'i'd'e'd'.'
-'s'a'r'y' 'm'e'n's'r'e'a' 'a'n'd' 'a'c't'u's' 'r'e'u's'.' 'I'n' 'o't'h'e'r' 'w'o'r'd's',' 'f'o'r'
-'S'e'c't'i'o'n' '3'0'9':' 'A't't'e'm'p't' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e'
-'o'f'f'e'n'c'e's' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n',' 'a'l'l' 't'h'e' 'e'l'e'm'e'n't's' 'o'f'
-'m'u'r'd'e'r' 'e'x'i's't',' 'e'x'c'e'p't' 'f'o'r' 't'h'e' 'f'a'c't' 't'h'a't' 'd'e'a't'h' 'h'a's' 'W'h'o'e'v'e'r' 'a't't'e'm'p't's' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e' 'a'n'd' 'd'o'e's'
-'n'o't' 'o'c'c'u'r'r'e'd'.' 'a'n'y' 'a'c't' 't'o'w'a'r'd's' 't'h'e' 'c'o'm'm'i's's'i'o'n' 'o'f' 's'u'c'h' 'o'f'f'e'n'c'e','
-'
-'s'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 's'i'm'p'l'e' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'f'o'r' 'a' 'p'e'r'i'o'd' 'l'e's's' 't'h'a'n' '2'0' 'd'a'y's',' 'i't' 'w'o'u'l'd' 'b'e' 'a'n'
-'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 'o'n'e' 'y'e'a'r' 'o'r' 'w'i't'h' 'o'f'f'e'n'c'e' 'o'f' 'h'u'r't'.'
-'f'i' 'n'e',' 'o'r' 'w'i't'h' 'b'o't'h'.' 'S'e'c't'i'o'n' '3'2'1':' 'V'o'l'u'n't'a'r'i'l'y' 'C'a'u's'i'n'g' 'H'u'r't'
-'S'u'i'c'i'd'e' 'i's' 'a's' 's'u'c'h' 'n'o' 'c'r'i'm'e' 'u'n'd'e'r' 't'h'e' 'C'o'd'e'.'
-'“'W'h'o'e'v'e'r' 'd'o'e's' 'a'n'y' 'a'c't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n'
-'H'o'w'e'v'e'r',' 'a't't'e'm'p't' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e' 'i's' 'm'a'd'e'
-'t'h'e'r'e'b'y' 'c'a'u's'i'n'g' 'h'u'r't' 't'o' 'a'n'y' 'p'e'r's'o'n',' 'o'r' 'w'i't'h' 't'h'e'
-'p'u'n'i's'h'a'b'l'e' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.' 'M'e'n's' 'r'e'a' 'i's' 'o'n'e'
-'k'n'o'w'l'e'd'g'e' 't'h'a't' 'h'e' 'i's' 'l'i'k'e'l'y' 't'h'e'r'e'b'y' 't'o' 'c'a'u's'e' 'h'u'r't'
-'o'f' 't'h'e' 'e's's'e'n't'i'a'l' 'e'l'e'm'e'n't's' 'o'f' 't'h'i's' 'o'f'f'e'n'c'e'.'
-'t'o' 'a'n'y' 'p'e'r's'o'n',' 'a'n'd' 'd'o'e's' 't'h'e'r'e'b'y' 'c'a'u's'e' 'h'u'r't' 't'o'
-'S'e'c't'i'o'n' '3'1'9':' 'H'u'r't' 'a'n'y' 'p'e'r's'o'n',' 'i's' 's'a'i'd' '“'v'o'l'u'n't'a'r'i'l'y' 't'o' 'c'a'u's'e' 'h'u'r't'”'.'
-'“'W'h'o'e'v'e'r' 'c'a'u's'e's' 'b'o'd'i'l'y' 'p'a'i'n',' 'd'i's'e'a's'e' 'o'r' 'i'n'f'i' 'r'-' 'S'e'c't'i'o'n' '3'2'2':' 'V'o'l'u'n't'a'r'i'l'y' 'C'a'u's'i'n'g' 'G'r'i'e'v'o'u's'
-'m'i't'y' 't'o' 'a'n'y' 'p'e'r's'o'n' 'i's' 's'a'i'd' 't'o' 'c'a'u's'e' 'h'u'r't'”'.' 'H'u'r't'
-'T'h'e'r'e' 'i's' 'n'o't'h'i'n'g' 'i'n' 't'h'i's' 's'e'c't'i'o'n' 't'o' 's'u'g'g'e's't'
-'“'W'h'o'e'v'e'r' 'v'o'l'u'n't'a'r'i'l'y' 'c'a'u's'e's' 'h'u'r't',' 'i'f' 't'h'e' 'h'u'r't'
-'t'h'a't' 't'h'e' 'h'u'r't' 's'h'o'u'l'd' 'b'e' 'c'a'u's'e'd' 'b'y' 'd'i'r'e'c't' 'p'h'y's'i'c'a'l'
-'w'h'i'c'h' 'h'e' 'i'n't'e'n'd's' 't'o' 'c'a'u's'e' 'k'n'o'w' 'h'i'm's'e'l'f' 't'o'
-'c'o'n't'a'c't' 'b'e't'w'e'e'n' 't'h'e' 'a'c'c'u's'e'd' 'a'n'd' 't'h'e' 'v'i'c't'i'm'.' 'I't'
-'b'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'i's' 'g'r'i'e'v'o'u's' 'h'u'r't',' 'a'n'd' 'i'f' 't'h'e'
-'m'a'y' 'b'e' 'c'a'u's'e'd' 'b'y' 'a'n'y' 'm'e'a'n's' 'a'n'd' 'i'n'c'l'u'd'e's' 'n'e'r'-'
-'h'u'r't' 'w'h'i'c'h' 'h'e' 'c'a'u's'e's' 'i's' 'g'r'i'e'v'o'u's' 'h'u'r't',' 'i's' 's'a'i'd'
-'v'o'u's' 's'h'o'c'k' 'o'r' 'm'e'n't'a'l' 'd'e'r'a'n'g'e'm'e'n't'.'
-'“'v'o'l'u'n't'a'r'i'l'y' 't'o' 'c'a'u's'e' 'g'r'i'e'v'o'u's' 'h'u'r't'.'”'
-'‘'B'o'd'i'l'y' 'p'a'i'n'’',' 'e'x'c'e'p't' 's'o' 's'l'i'g'h't' 'a' 'h'a'r'm' 'o'f'
-'E'x'p'l'a'n'a't'i'o'n'.' 'A' 'p'e'r's'o'n' 'i's' 'n'o't' 's'a'i'd' 'v'o'l'u'n't'a'r'i'l'y' 't'o'
-'w'h'i'c'h' 'n'o' 'p'e'r's'o'n' 'o'f' 'o'r'd'i'n'a'r'y' 's'e'n's'e' 'o'r' 't'e'm'p'e'r'
-'c'a'u's'e' 'g'r'i'e'v'o'u's' 'h'u'r't' 'e'x'c'e'p't' 'w'h'e'n' 'h'e' 'b'o't'h' 'c'a'u's'e's'
-'w'o'u'l'd' 'c'o'm'p'l'a'i'n' 'o'f',' 'i's' 'c'o'v'e'r'e'd' 'b'y' 't'h'e' 'd'e'f'i' 'n'i't'i'o'n'
-'g'r'i'e'v'o'u's' 'h'u'r't' 'a'n'd' 'i'n't'e'n'd's' 'o'r' 'k'n'o'w's' 'h'i'm's'e'l'f' 't'o'
-'o'f' 'h'u'r't'.' 'D'r'a'g'g'i'n'g' 'b'y' 'h'a'i'r' 'i'n' 'a'g'g'r'e's's'i'v'e' 'm'a'n'n'e'r'
-'b'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 'B'u't' 'h'e' 'i's' 's'a'i'd'
-'a'n'd' 'f'i' 's't'i'n'g' 'i'n' 'c'o'u'r's'e' 'o'f' 'a't't'a'c'k' 'a'r'e' 'n'o't' 't'r'i'v'i'a'l' 'a'c't's'
-'v'o'l'u'n't'a'r'i'l'y' 't'o' 'c'a'u's'e' 'g'r'i'e'v'o'u's' 'h'u'r't',' 'i'f' 'i'n't'e'n'd'i'n'g' 'o'r'
-'a'n'd' 'c'o'n's't'i't'u't'e' 'o'f'f'e'n'c'e' 'o'f' 'c'a'u's'i'n'g' 'h'u'r't'.'
-'k'n'o'w'i'n'g' 'h'i'm's'e'l'f' 't'o' 'b'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'g'r'i'e'v'o'u's'
-'‘'I'n'f'i' 'r'm'i't'y'’' 'h'a's' 'b'e'e'n' 'd'e'f'i' 'n'e'd' 'a's' 'i'n'a'b'i'l'i't'y' 'o'f' 'h'u'r't' 'o'f' 'o'n'e' 'k'i'n'd',' 'h'e' 'a'c't'u'a'l'l'y' 'c'a'u's'e's' 'g'r'i'e'v'o'u's'
-'a'n' 'o'r'g'a'n' 't'o' 'p'e'r'f'o'r'm' 'i't's' 'n'o'r'm'a'l' 'f'u'n'c't'i'o'n' 'w'h'i'c'h' 'h'u'r't' 'o'f' 'a'n'o't'h'e'r' 'k'i'n'd'.'
-'m'a'y' 'e'i't'h'e'r' 'b'e' 't'e'm'p'o'r'a'r'y' 'o'r' 'p'e'r'm'a'n'e'n't'.' 'A' 's't'a't'e'
-'S'e'c't'i'o'n' '3'5'9':' 'K'i'd'n'a'p'p'i'n'g'
-'o'f' 't'e'm'p'o'r'a'r'y' 'i'm'p'a'i'r'm'e'n't' 'o'r' 'h'y's't'e'r'i'a' 'o'r' 't'e'r'r'o'r'
-'w'o'u'l'd' 'c'o'n's't'i't'u't'e' 'i'n'f'i' 'r'm'i't'y'.' 'K'i'd'n'a'p'p'i'n'g' 'i's' 'o'f' 't'w'o' 't'y'p'e's':' 'k'i'd'n'a'p'p'i'n'g'
-'f'r'o'm' 'I'n'd'i'a',' 'a'n'd' 'k'i'd'n'a'p'p'i'n'g' 'f'r'o'm' 'l'a'w'f'u'l'
-'S'e'c't'i'o'n' '3'2'0':' 'G'r'i'e'v'o'u's' 'H'u'r't'
-'g'u'a'r'd'i'a'n's'h'i'p'.'
-'“'T'h'e' 'f'o'l'l'o'w'i'n'g' 'k'i'n'd's' 'o'f' 'h'u'r't' 'o'n'l'y' 'a'r'e' 'd'e's'i'g'n'a't'e'd' 'T'h'e' 'l'i't'e'r'a'l' 'm'e'a'n'i'n'g' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'i's' '‘'c'h'i'l'd'
-'a's' '“'g'r'i'e'v'o'u's'”':' 's't'e'a'l'i'n'g'’'.' 'T'h'e' 't'w'o' 'f'o'r'm's' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'm'a'y'
-'F'i'r's't'—'E'm'a's'c'u'l'a't'i'o'n'.' 'o'v'e'r'l'a'p' 'e'a'c'h' 'o't'h'e'r'.'
-'S'e'c'o'n'd' '—'P'e'r'm'a'n'e'n't' 'p'r'i'v'a't'i'o'n' 'o'f' 't'h'e' 's'i'g'h't' 'o'f'
-'S'e'c't'i'o'n' '3'6'0':' 'K'i'd'n'a'p'p'i'n'g' 'f'r'o'm' 'I'n'd'i'a'
-'e'i't'h'e'r' 'e'y'e'.'
-'W'h'o'e'v'e'r' 'c'o'n'v'e'y's' 'a'n'y' 'p'e'r's'o'n' 'b'e'y'o'n'd' 't'h'e' 'l'i'm'i't's'
-'T'h'i'r'd'—'P'e'r'm'a'n'e'n't' 'p'r'i'v'a't'i'o'n' 'o'f' 't'h'e' 'h'e'a'r'i'n'g' 'o'f'
-'o'f' 'I'n'd'i'a' 'w'i't'h'o'u't' 't'h'e' 'c'o'n's'e'n't' 'o'f' 't'h'a't' 'p'e'r's'o'n',' 'o'r'
-'e'i't'h'e'r' 'e'a'r'.'
-'o'f' 's'o'm'e' 'p'e'r's'o'n' 'l'e'g'a'l'l'y' 'a'u't'h'o'r'i'z'e'd' 't'o' 'c'o'n's'e'n't'
-'F'o'u'r't'h'—'P'r'i'v'a't'i'o'n' 'o'f' 'a'n'y' 'm'e'm'b'e'r' 'o'r' 'j'o'i'n't'.'
-'o'n' 'b'e'h'a'l'f' 'o'f' 't'h'a't' 'p'e'r's'o'n',' 'i's' 's'a'i'd' 't'o' 'k'i'd'n'a'p' 't'h'a't'
-'F'i'f't'h'—'D'e's't'r'u'c't'i'o'n' 'o'r' 'p'e'r'm'a'n'e'n't' 'i'm'p'a'i'r'i'n'g' 'o'f'
-'p'e'r's'o'n' 'f'r'o'm' 'I'n'd'i'a'.'
-'t'h'e' 'p'o'w'e'r's' 'o'f' 'a'n'y' 'm'e'm'b'e'r' 'o'r' 'j'o'i'n't'.'
-'F'o'r' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n',' 'i't' 'd'o'e's'
-'S'i'x't'h'—'P'e'r'm'a'n'e'n't'l'y' 'd'i's'f'i' 'g'u'r'a't'i'o'n' 'o'f' 't'h'e' 'h'e'a'd'
-'n'o't' 'm'a't't'e'r' 't'h'a't' 't'h'e' 'v'i'c't'i'm' 'i's' 'a' 'm'a'j'o'r' 'o'r' 'm'i'n'o'r'.'
-'o'r' 'f'a'c'e'.'
-'S'e'v'e'n't'h'—'F'r'a'c't'u'r'e' 'o'r' 'd'i's'l'o'c'a't'i'o'n' 'o'f' 'a' 'b'o'n'e' 'o'r' 'S'e'c't'i'o'n' '3'6'1':' 'K'i'd'n'a'p'p'i'n'g' 'f'r'o'm' 'L'a'w'f'u'l' 'G'u'a'r'd'-'
-'t'o'o't'h'.' 'i'a'n's'h'i'p'
-'E'i'g'h't'h'—'A'n'y' 'h'u'r't' 'w'h'i'c'h' 'e'n'd'a'n'g'e'r's' 'l'i'f'e' 'o'r' 'W'h'o'e'v'e'r' 't'a'k'e's' 'o'r' 'e'n't'i'c'e's' 'a'n'y' 'm'i'n'o'r' 'u'n'd'e'r' 's'i'x't'e'e'n'
-'w'h'i'c'h' 'c'a'u's'e's' 't'h'e' 's'u'f'f'e'r'e'r' 't'o' 'b'e' 'd'u'r'i'n'g' 't'h'e' 's'p'a'c'e' 'y'e'a'r's' 'o'f' 'a'g'e' 'i'f' 'a' 'm'a'l'e',' 'o'r' 'u'n'd'e'r' 'e'i'g'h't'e'e'n' 'y'e'a'r's' 'o'f'
-'o'f' 't'w'e'n't'y' 'd'a'y's' 'i'n' 's'e'v'e'r'e' 'b'o'd'i'l'y' 'p'a'i'n',' 'o'r' 'u'n'a'b'l'e' 'a'g'e' 'i'f' 'a' 'f'e'm'a'l'e',' 'o'r' 'a'n'y' 'p'e'r's'o'n' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd','
-'t'o' 'f'o'l'l'o'w' 'h'i's' 'o'r'd'i'n'a'r'y' 'p'u'r's'u'i't's'.' 'o'u't' 'o'f' 't'h'e' 'k'e'e'p'i'n'g' 'o'f' 't'h'e' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n' 'o'f' 's'u'c'h'
-'T'h'e' 'm'e'r'e' 'f'a'c't' 't'h'a't' 't'h'e' 'i'n'j'u'r'e'd' 'r'e'm'a'i'n'e'd' 'i'n' 'm'i'n'o'r' 'o'r' 'p'e'r's'o'n' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd',' 'w'i't'h'o'u't' 't'h'e'
-'t'h'e' 'h'o's'p'i't'a'l' 'f'o'r' '2'0' 'd'a'y's' 'w'o'u'l'd' 'n'o't' 'b'e' 'e'n'o'u'g'h' 't'o' 'c'o'n's'e'n't' 'o'f' 's'u'c'h' 'g'u'a'r'd'i'a'n',' 'i's' 's'a'i'd' 't'o' 'k'i'd'n'a'p' 's'u'c'h'
-'c'o'n'c'l'u'd'e' 't'h'a't' 'h'e' 'w'a's' 'u'n'a'b'l'e' 't'o' 'f'o'l'l'o'w' 'h'i's' 'o'r'd'i'-' 'm'i'n'o'r' 'o'r' 'p'e'r's'o'n' 'f'r'o'm' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n's'h'i'p'.'
-'n'a'r'y' 'p'u'r's'u'i't's' 'd'u'r'i'n'g' 't'h'a't' 'p'e'r'i'o'd'.' 'E'x'p'l'a'n'a't'i'o'n'.' 'T'h'e' 'w'o'r'd' '“'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n'”'
-'C'o'n't'i'n'u'a'n'c'e' 'o'f' 's'e'v'e'r'e' 'b'o'd'i'l'y' 'p'a'i'n' 'f'o'r' '2'0' 'i'n' 't'h'i's' 's'e'c't'i'o'n' 'i'n'c'l'u'd'e' 'a'n'y' 'p'e'r's'o'n' 'l'a'w'f'u'l'l'y'
-'d'a'y's' 'o'r' 'd'i's'a'b'i'l'i't'y' 't'o' 'f'o'l'l'o'w' 'o'n'e'’'s' 'a'v'o'c'a't'i'o'n' 'f'o'r' 'e'n't'r'u's't'e'd' 'w'i't'h' 't'h'e' 'c'a'r'e' 'o'r' 'c'u's't'o'd'y' 'o'f' 's'u'c'h' 'm'i'n'o'r'
-'2'0' 'd'a'y's' 'c'o'n's't'i't'u't'e's' 'g'r'i'e'v'o'u's' 'h'u'r't';' 'i'f' 'i't' 'c'o'n't'i'n'u'e's' 'o'r' 'o't'h'e'r' 'p'e'r's'o'n'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '3'7'
-'E'x'c'e'p't'i'o'n'.' 'T'h'i's' 's'e'c't'i'o'n' 'd'o'e's' 'n'o't' 'e'x't'e'n'd' 't'o' 't'h'e' 'm'a'r'r'y' 'h'e'r' 'o'r' 'a'r'r'a'n'g'e' 'f'o'r' 'h'e'r' 'm'a'r'r'i'a'g'e'.'
-'a'c't' 'o'f' 'a'n'y' 'p'e'r's'o'n' 'w'h'o' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'b'e'l'i'e'v'e's' 'W'h'e'r'e' 'a' 'g'i'r'l' 'w'a's' 'u'n'w'i'l'l'i'n'g' 't'o' 'f'o'l'l'o'w' 't'h'e'
-'h'i'm's'e'l'f' 't'o' 'b'e' 't'h'e' 'f'a't'h'e'r' 'o'f' 'a'n' 'i'l'l'e'g'i't'i'm'a't'e' 'c'h'i'l'd',' 'a'c'c'u's'e'd' 'a'n'd' 'a'c'c'u's'e'd' 'c'o'm'p'e'l'l'e'd' 'h'e'r' 'b'y' 'f'o'r'c'e'
-'o'r' 'w'h'o' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'b'e'l'i'e'v'e's' 'h'i'm's'e'l'f' 't'o' 'b'e' 't'o' 'f'o'l'l'o'w',' 'h'e' 'w'o'u'l'd' 'b'e' 'g'u'i'l't'y' 'o'f' 'a'b'd'u'c't'i'o'n'.' 'B'u't'
-'e'n't'i't'l'e'd' 't'o' 't'h'e' 'l'a'w'f'u'l' 'c'u's't'o'd'y' 'o'f' 's'u'c'h' 'c'h'i'l'd',' 'w'h'e'r'e' 't'h'e' 'a'c'c'u's'e'd' 'e'n't'e'r'e'd' 'a' 'g'i'r'l'’'s' 'h'o'u's'e' 'a'n'd'
-'u'n'l'e's's' 's'u'c'h' 'a'c't' 'i's' 'c'o'm'm'i't't'e'd' 'f'o'r' 'a'n' 'i'm'm'o'r'a'l' 'o'r' 'l'i'f't'e'd' 'h'e'r' 'u'p' 'i'n' 'o'r'd'e'r' 't'o' 'c'a'r'r'y' 'h'e'r' 'a'w'a'y' 'b'u't' 'o'n'
-'u'n'l'a'w'f'u'l' 'p'u'r'p'o's'e'.' 'r'a'i's'i'n'g' 'o'f' 'a'l'a'r'm' 'b'y' 'h'e'r',' 't'h'e'y' 'd'r'o'p'p'e'd' 'h'e'r' 'a'n'd'
-'B'e's'i'd'e's' 't'h'e' 'f'o'u'r' 'e's's'e'n't'i'a'l' 'i'n'g'r'e'd'i'e'n't's' 'r'a'n' 'a'w'a'y',' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'a'b'd'u'c't'i'o'n' 'w'a's' 'n'o't' 'c'o'm'-'
-'o'f' 't'h'i's' 'o'f'f'e'n'c'e' 'm'e'n't'i'o'n'e'd' 'i'n' 'S'e'c't'i'o'n' '3'6'1',' 't'h'e' 'm'i't't'e'd' 'b'e'c'a'u's'e' 't'h'e' 'g'i'r'l' 'w'a's' 'n'o't' 'c'o'm'p'e'l'l'e'd' 't'o' 'g'o'
-'c'o'u'r't's' 'h'a'v'e' 'f'o'r'm'u'l'a't'e'd' 'c'e'r't'a'i'n' 'o't'h'e'r' 'g'u'i'd'i'n'g' 'f'r'o'm' 'h'e'r' 'p'l'a'c'e'.' 'T'h'e' 'a'c'c'u's'e'd' 'w'e'r'e' 'g'u'i'l't'y' 'o'f' 'a't'-'
-'p'r'i'n'c'i'p'l'e's':'
-'t'e'm'p't'i'n'g' 't'o' 'a'b'd'u'c't' 'u'n'd'e'r' 'S'e'c't'i'o'n's' '3'6'6' 'a'n'd' '5'1'1'.'
-'('i')' 'I'n' 't'h'e' 'c'a's'e' 'o'f' 'm'i'n'o'r' 'g'i'r'l's' 't'h'i's' 's'e'c't'i'o'n' 'i's'
-'O'n' 'b'e'i'n'g' 'p'e'r's'u'a'd'e'd' 'b'y' 't'h'e' 'a'c'c'u's'e'd' 't'h'e'
-'a't't'r'a'c't'e'd' 'i'r'r'e's'p'e'c't'i'v'e' 'o'f' 't'h'e' 'q'u'e's't'i'o'n'
-'v'i'c't'i'm' 'w'h'e'n' 'i'n's'i'd'e' 'h'i's' 'h'o'u's'e' 'a'n'd' 'c'a'm'e' 'p'r'o'p'e'r'l'y'
-'w'h'e't'h'e'r' 's'h'e' 'i's' 'm'a'r'r'i'e'd' 'o'r' 'u'n'm'a'r'r'i'e'd'.'
-'d'r'e's's'e'd' 't'o' 'a'c'c'o'm'p'a'n'y' 't'h'e' 'a'c'c'u's'e'd'.' 'T'h'i's' 'w'i'l'l' 'n'o't'
-'('i'i')' 'T'h'e' 'c'o'n's'e'n't' 'o'f' 't'h'e' 'm'i'n'o'r' 'i's' 'i'm'm'a't'e'r'i'a'l'.'
-'a'm'o'u'n't' 't'o' '‘'a'b'd'u'c't'i'o'n'’' 'w'i't'h'i'n' 't'h'e' 'm'e'a'n'i'n'g' 'o'f'
-'('i'i'i')' 'T'h'e' 'm'o't'i'v'e' 'o'r' 'i'n't'e'n't'i'o'n' 'o'f' 't'h'e' 'k'i'd'n'a'p'p'e'r'
-'S'e'c't'i'o'n' '3'6'2' 'a's' 't'h'e'r'e' 'w'a's' 'n'e'i't'h'e'r' 'f'o'r'c'e' 'n'o'r' 'd'e'-'
-'i's' 'a'l's'o' 'i'm'm'a't'e'r'i'a'l'.'
-'c'e'i't' 'w'h'i'c'h' 'c'o'm'p'e'l'l'e'd' 't'h'e' 'v'i'c't'i'm' 't'o' 'g'o' 'w'i't'h' 't'h'e'
-'('i'v')' 'I'f' 't'h'e' 'k'i'd'n'a'p'p'e'd' 'g'i'r'l' 't'u'r'n's' 'o'u't' 't'o' 'b'e' 'u'n'd'e'r'
-'a'c'c'u's'e'd'.'
-'1'8' 'y'e'a'r's' 'o'f' 'a'g'e',' 't'h'e' 'k'i'd'n'a'p'p'e'r' 'm'u's't' 't'a'k'e'
-'t'h'e' 'c'o'n's'e'q'u'e'n'c'e's',' 'e'v'e'n' 't'h'o'u'g'h' 't'h'e' 'b'o'n'a'-' 'W'h'e'r'e' 't'h'e' 'm'o't'h'e'r' 'h'a'd' 'a's's'i'g'n'e'd' 'b'y' 'a' 'w'i'l'l'
-'f'i' 'd'e' 'b'e'l'i'e'v'e'd' 'a'n'd' 'h'a'd' 'r'e'a's'o'n'a'b'l'e' 'g'r'o'u'n'd' 't'o' 'R' 't'h'e' 'g'u'a'r'd'i'a'n's'h'i'p' 'o'f' 'h'e'r' 'm'i'n'o'r' 'd'a'u'g'h't'e'r' 'a'n'd'
-'f'o'r' 'b'e'l'i'e'v'i'n'g' 't'h'a't' 's'h'e' 'w'a's' 'o'v'e'r' 'e'i'g'h't'e'e'n'.' 't'h'e' 'd'u't'y' 'o'f' 'm'a'r'r'y'i'n'g' 'h'e'r',' 'a'n'd' 'a' 'p'a'r'e'n't'a'l' 'r'e'l'a't'i'v'e'
-'('v')' 'T'h'e' 'd'e'f'e'n'c'e' 't'h'a't' 't'h'e' 'g'i'r'l' 'w'a's' 'o'f' 'e'a's'y' 'v'i'r't'u'e' 'o'f' 't'h'e' 'd'a'u'g'h't'e'r' 'r'e'm'o'v'e'd' 'h'e'r' 'b'y' 'f'r'a'u'd' 'a'n'd' 'f'o'r'c'e'
-'w'o'u'l'd' 'n'o't' 'b'e' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'm'a'k'e' 'a'c'c'u's'e'd' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 'g'e't't'i'n'g' 'h'e'r' 'm'a'r'r'i'e'd' 't'o' 'a' 'p'e'r'-'
-'n'o't' 'l'i'a'b'l'e'.' 's'o'n' 'o't'h'e'r' 't'h'a'n' 't'h'e' 'o'n'e' 's'e'l'e'c't'e'd' 'b'y' 'R',' 'i't' 'w'a's' 'h'e'l'd'
-'t'h'a't' 's'u'c'h' 'r'e'l'a't'i'v'e' 'w'a's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'a's'
-'S'e'c't'i'o'n' '3'6'2':' 'A'b'd'u'c't'i'o'n'
-'w'e'l'l' 'a's' 'a'b'd'u'c't'i'o'n'.'
-'“'W'h'o'e'v'e'r' 'b'y' 'f'o'r'c'e' 'c'o'm'p'e'l's',' 'o'r' 'b'y' 'a'n'y' 'd'e'c'e'i't'f'u'l'
-'m'e'a'n's' 'i'n'd'u'c'e's',' 'a'n'y' 'p'e'r's'o'n' 't'o' 'g'o' 'f'r'o'm' 'a'n'y' 'p'l'a'c'e','
-'D'I'S'T'I'N'C'T'I'O'N' 'B'E'T'W'E'E'N'
-'i's' 's'a'i'd' 't'o' 'a'b'd'u'c't' 't'h'a't' 'p'e'r's'o'n'.'”'
-'K'I'D'N'A'P'P'I'N'G' 'A'N'D' 'A'B'D'U'C'T'I'O'N'
-'T'h'e' 'e'x'p'r'e's's'i'o'n' '‘'d'e'c'e'i't'f'u'l' 'm'e'a'n's'’' 'i'n'c'l'u'd'e's'
-'a' 'm'i's'l'e'a'd'i'n'g' 's't'a't'e'm'e'n't'.' 'I't' 'i's' 'r'e'a'l'l'y' 's'p'e'a'k'i'n'g' 'a' 'W'h'e'r'e'a's' 'a' 'g'i'r'l' 'o'f' '1'8' 'y'e'a'r's' 'o'f' 'a'g'e' 'o'r' 'o'v'e'r' 'c'a'n'
-'m'a't't'e'r' 'o'f' 'i'n't'e'n't'i'o'n'.' 'T'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 't'h'e' 'a'c'c'u's'e'd' 'o'n'l'y' 'b'e' 'a'b'd'u'c't'e'd' 'a'n'd' 'n'o't' 'k'i'd'n'a'p'p'e'd',' 'a' 'g'i'r'l'
-'i's' 't'h'e' 'b'a's'i's' 'a'n'd' 't'h'e' 'g'r'a'v'i't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e'.' 'T'h'e' 'b'e'l'o'w' '1'8' 'y'e'a'r's' 'o'f' 'a'g'e' 'c'a'n' 'b'e' 'k'i'd'n'a'p'p'e'd' '('i'f'
-'v'o'l'i't'i'o'n',' 't'h'e' 'i'n't'e'n't'i'o'n' 'a'n'd' 't'h'e' 'c'o'n'd'u'c't' 'o'f' 't'h'e' 'u'n'd'e'r' 'a' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n')' 'a's' 'w'e'l'l' 'a's' 'a'b'd'u'c't'e'd' '('i'f'
-'w'o'm'a'n' 'd'o' 'n'o't' 'd'e't'e'r'm'i'n'e' 't'h'e' 'o'f'f'e'n'c'e'.' 'T'h'e' 'o'f'-' 'w'i't'h' 'o'r' 'w'i't'h'o'u't' 'a' 'g'u'a'r'd'i'a'n' 'a'n'd' 'u's'e' 'o'f' 'f'o'r'c'e' 'o'r'
-'f'e'n'c'e' 'o'f' 'a'b'd'u'c't'i'o'n' 'i's' 'c'o'm'p'l'e't'e' 'i'f' 't'h'e' 'a'c'c'u's'e'd' 'd'e'c'e'i't'f'u'l' 'm'e'a'n's')' 'p'r'o'v'i'd'e'd' 't'h'e' 'o't'h'e'r' 's't'a't'u't'o'r'y'
-'h'a's' 't'a'k'e'n' 't'h'e' 'w'o'm'e'n' 'a'w'a'y' 'b'y' 'd'e'c'e'i't'f'u'l' 'm'e'a'n's' 'c'o'n'd'i't'i'o'n's' 'a'r'e' 's'a't'i's'f'i' 'e'd'.' 'T'h'e' 'd'i'f'f'e'r'e'n'c'e's' 'i'n' 'd'e't'a'i'l'
-'i'n't'e'n'd'i'n'g' 't'o' 's'e'd'u'c'e' 'h'e'r' 't'o' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 't'o' 'a'r'e' 'a's' 'f'o'l'l'o'w's':'
-'K'I'D'N'A'P'P'I'N'G' 'A'B'D'U'C'T'I'O'N'
-'('F'r'o'm' 'G'u'a'r'd'i'a'n's'h'i'p')'
-'('1')' 'I't' 'i's' 'c'o'm'm'i't't'e'd' 'o'n'l'y' 'i'n' 'r'e's'p'e'c't' 'o'f' 'a' 'm'i'n'o'r' '('1')' 'I't' 'i's' 'c'o'm'm'i't't'e'd' 'i'n' 'r'e's'p'e'c't' 'o'f' 'a'n'y' 'p'e'r's'o'n' 'o'f'
-'o'r' 'a' 'p'e'r's'o'n' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd'.' 'a'n'y' 'a'g'e'.'
-'('2')' 'T'h'e' 'p'e'r's'o'n' 'k'i'd'n'a'p'p'e'd' 'i's' 'r'e'm'o'v'e'd' 'f'r'o'm' '('2')' 'N'o't' 'n'e'c'e's's'a'r'y'.' 'T'h'e' 'p'e'r's'o'n' 'a'b'd'u'c't'e'd' 'n'e'e'd' 'n'o't'
-'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n's'h'i'p'.' 'A' 'c'h'i'l'd' 'w'i't'h'o'u't' 'a' 'b'e' 'i'n' 't'h'e' 'k'e'e'p'i'n'g' 'o'f' 'a'n'y'b'o'd'y'.'
-'g'u'a'r'd'i'a'n' 'c'a'n'’'t' 'b'e' 'k'i'd'n'a'p'p'e'd'.'
-'('3')' 'T'h'e' 'm'i'n'o'r' 'o'r' 't'h'e' 'p'e'r's'o'n' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd' '('3')' 'F'o'r'c'e',' 'c'o'm'p'u'l's'i'o'n' 'o'r' 'd'e'c'e'i't'f'u'l' 'm'e'a'n's' 'a'r'e'
-'i's' 's'i'm'p'l'y' 't'a'k'e'n' 'a'w'a'y' 'o'r' 'e'n't'i'c'e'd' 't'o' 'g'o' 'w'i't'h' 'e'm'p'l'o'y'e'd'.'
-'t'h'e' 'k'i'd'n'a'p'p'e'r'.' 'T'h'e' 'm'e'a'n's' 'e'm'p'l'o'y'e'd' 'm'a'y'
-'b'e' 'i'n'n'o'c'e'n't'.'
-'('4')' 'C'o'n's'e'n't' 'o'f' 't'h'e' 'p'e'r's'o'n' 'e'n't'i'c'e'd' 'i's' '('4')' 'C'o'n's'e'n't' 'o'f' 't'h'e' 'p'e'r's'o'n' 'r'e'm'o'v'e'd',' 'i'f' 'f'r'e'e'l'y' 'a'n'd'
-'i'm'm'a't'e'r'i'a'l'.' 'v'o'l'u'n't'a'r'i'l'y' 'g'i'v'e'n' 'c'o'n'd'o'n'e's' 't'h'e' 'o'f'f'e'n'c'e'.'
-'
-'('5')' 'T'h'e' 'i'n't'e'n't' 'o'f' 't'h'e' 'o'f'f'e'n'd'e'r' 'i's' 'i'r'r'e'l'e'v'a'n't'.' '('5')' 'I't' 'i's' 'v'e'r'y' 'i'm'p'o'r't'a'n't'.' 'A'b'd'u'c't'i'o'n' 'm'u's't' 'b'e' 'w'i't'h'
-'c'e'r't'a'i'n' 'i'n't'e'n't'.'
-'('6')' 'I't' 'i's' 'n'o't' 'a' 'c'o'n't'i'n'u'i'n'g' 'o'f'f'e'n'c'e'.' 'T'h'e' '('6')' 'I't' 'i's' 'a' 'c'o'n't'i'n'u'i'n'g' 'o'f'f'e'n'c'e'.' 'A' 'p'e'r's'o'n' 'i's' 'b'e'i'n'g'
-'o'f'f'e'n'c'e' 'i's' 'c'o'm'p'l'e't'e'd' 'a's' 's'o'o'n' 'a's' 't'h'e' 'm'i'n'o'r' 'a'b'd'u'c't'e'd' 'b'o't'h' 'w'h'e'n' 's'h'e' 'i's' 'f'i' 'r's't' 't'a'k'e'n' 'f'r'o'm'
-'i's' 'r'e'm'o'v'e'd' 'f'r'o'm' 't'h'e' 'c'u's't'o'd'y' 'o'f' 'h'i's' 'o'r' 'h'e'r' 'a'n'y' 'p'l'a'c'e' 'a'n'd' 'a'l's'o' 'w'h'e'n' 's'h'e' 'i's' 'r'e'm'o'v'e'd' 'f'r'o'm'
-'g'u'a'r'd'i'a'n'.' 'o'n'e' 'p'l'a'c'e' 't'o' 'a'n'o't'h'e'r'.'
-'('7')' 'I't' 'i's' 'a' 's'u'b's't'a'n't'i'v'e' 'o'f'f'e'n'c'e',' 'p'u'n'i's'h'a'b'l'e' '('7')' 'I't' 'i's' 'a'n' 'a'u'x'i'l'i'a'r'y' 'a'c't',' 'n'o't' 'p'u'n'i's'h'a'b'l'e' 'b'y' 'i't's'e'l'f'
-'u'n'd'e'r' 'S'e'c't'i'o'n' '3'6'3',' 'I'P'C'.' 'T'h'u's',' 'k'i'd'n'a'p'p'i'n'g' 'i's' 'u'n'l'e's's' 'a'c'c'o'm'p'a'n'i'e'd' 'w'i't'h' 's'o'm'e' 'c'r'i'm'i'n'a'l'
-'p'e'r' 's'e' 'p'u'n'i's'h'a'b'l'e'.' 'i'n't'e'n't' '('s'p'e'c'i'f'i' 'e'd' 'i'n' 'S'e'c's'.' '3'6'4'-'3'6'6')'.' 'A' 'p'a'r't'i'c'u'l'a'r'
-'p'u'r'p'o's'e' 'i's' 'n'e'c'e's's'a'r'y' 't'o' 'p'u'n'i's'h' 't'h'e' 'a'c'c'u's'e'd'.'
-'S'e'c't'i'o'n' '3'7'5':' 'R'a'p'e' 'A'm'e'n'd'm'e'n't's' 'i'n' 'L'a'w' 'o'f' 'R'a'p'e'
-'S'e'c't'i'o'n' '3'7'5',' 'I'P'C' 'l'a'y's' 'd'o'w'n' 't'h'a't' 't'h'e' 's'e'x'u'a'l' 'T'h'e' 'P'a'r'l'i'a'm'e'n't' 'i'n' '1'9'8'3' 'e'x't'e'n's'i'v'e'l'y' 'a'm'e'n'd'e'd' 't'h'e'
-'i'n't'e'r'c'o'u'r's'e' 'm'u's't' 'b'e' 'u'n'd'e'r' 'c'i'r'c'u'm's't'a'n'c'e's' 'f'a'l'l'i'n'g' 'l'a'w' 'o'f' 'r'a'p'e' 's'o' 'a's' 't'o' 'm'a'k'e' 't'h'e' 'l'a'w' 'm'o'r'e' 'r'e'a'l'i's't'i'c'
-'u'n'd'e'r' 'a'n'y' 'o'f' 't'h'e' 's'i'x' 'c'l'a'u's'e's'.' 'A' 'm'a'n' 'i's' 's'a'i'd' 't'o' 'a'n'd' 't'o' 's'a'f'e'g'u'a'r'd' 't'h'e' 'r'i'g'h't's' 'o'f' 'i'n'n'o'c'e'n't' 'v'i'c't'i'm's'.'
-'c'o'm'm'i't' '‘'r'a'p'e'’' 'w'h'o' 'h'a's' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'B'e's'i'd'e's' 's'u'b's't'a'n't'i'v'e' 'l'a'w' '('I'.'P'.'C'.')',' 'p'r'o'c'e'd'u'r'a'l'
-'a' 'w'o'm'e'n':' 'p'r'o'v'i's'i'o'n's' 'u'n'd'e'r' 'E'v'i'd'e'n'c'e' 'A'c't' 'a'n'd' 'C'r'i'm'i'n'a'l'
-'('i')' 'a'g'a'i'n's't' 'h'e'r' 'w'i'l'l';' 'o'r' 'P'r'o'c'e'd'u'r'e' 'c'o'd'e' 'w'e'r'e' 'a'l's'o' 'a'd'd'e'd' 't'o' 's't'r'e'n'g't'h'e'n'
-'('i'i')' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't';' 'o'r' 't'h'e' 'l'a'w'.' 'S'o'm'e' 'o'f' 't'h'e' 'i'm'p'o'r't'a'n't' 'c'h'a'n'g'e's' 'b'r'o'u'g'h't'
-'('i'i'i')' 'w'i't'h' 'h'e'r' 'c'o'n's'e'n't' 'b'y' 'p'u't't'i'n'g' 'h'e'r' 'i'n' 'f'e'a'r' 'o'f' 'a'b'o'u't' 'b'y' 't'h'e' 'C'r'i'm'i'n'a'l' 'L'a'w' '('A'm'e'n'd'm'e'n't')' 'A'c't','
-'d'e'a't'h' 'o'r' 'o'f' 'h'u'r't';' 'o'r' '1'9'8'3' 'a'r'e':'
-'('i'v')' 'w'i't'h' 'h'e'r' 'c'o'n's'e'n't',' 'w'h'e'n' 't'h'e' 'm'a'n' 'k'n'o'w's' '('i')' 'C'o'n's'e'n't' 'o'f' 'a' 'w'o'm'a'n' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd',' 'e't'c'.'
-'t'h'a't' 'h'e' 'i's' 'n'o't' 'h'e'r' 'h'u's'b'a'n'd' 'a'n'd' 't'h'a't' 'h'e'r'
-'A' 'n'e'w' 'c'l'a'u's'e' '‘'f'i' 'f't'h'l'y'’' 'a'd'd'e'd' 't'o' 'S'e'c't'i'o'n'
-'c'o'n's'e'n't' 'i's' 'g'i'v'e'n' 'b'e'c'a'u's'e' 's'h'e' 'b'e'l'i'e'v'e's' 't'h'a't'
-'3'7'5',' 'I'P'C',' 'n'e'g'a't'i'v'e's' 't'h'e' 'c'o'n's'e'n't' 'o'f' 't'h'e'
-'h'e' 'i's' 'a'n'o't'h'e'r' 'm'a'n' 't'o' 'w'h'o'm' 's'h'e' 'i's' 'l'a'w'f'u'l'l'y'
-'w'o'm'e'n' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'o'f'
-'m'a'r'r'i'e'd';' 'o'r'
-'r'a'p'e',' 'i'f' 't'h'e' 'w'o'm'a'n' 'i's' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd',' 'o'r'
-'('v')' 'w'i't'h' 'h'e'r' 'c'o'n's'e'n't',' 'w'h'e'n',' 'a't' 't'h'e' 't'i'm'e' 'o'f'
-'i's' 'u'n'd'e'r' 't'h'e' 'i'n'f'l' 'u'e'n'c'e' 'o'f' 'i'n't'o'x'i'c'a't'i'o'n' 'a't' 't'h'e'
-'s'u'c'h' 'c'o'n's'e'n't',' 'b'y' 'r'e'a's'o'n' 'o'f' 'u'n's'o'u'n'd'n'e's's' 'o'f'
-'r'e'l'e'v'a'n't' 't'i'm'e'.'
-'m'i'n'd' 'o'r' 'i'n't'o'x'i'c'a't'i'o'n' 'o'r' 't'h'e' 'a'd'm'i'n'i's't'r'a't'i'o'n'
-'('i'i')' 'M'i'n'i'm'u'm' 'p'u'n'i's'h'm'e'n't' 'f'o'r' 'r'a'p'e':' 'S'e'c't'i'o'n'
-'b'y' 'h'i'm' 'p'e'r's'o'n'a'l'l'y' 'o'r' 't'h'r'o'u'g'h' 'a'n'o't'h'e'r' 'o'f'
-'3'7'6',' 'I'P'C' 'h'a's' 'p'r'o'v'i'd'e'd' 'f'o'r' 'a' 'm'i'n'i'm'u'm' 'o'f' '7'
-'a'n'y' 's't'u'p'e'f'y'i'n'g' 'o'r' 'u'n'w'h'o'l'e's'o'm'e' 's'u'b's't'a'n'c'e'
-'y'e'a'r's' 'o'f' 'i'm'p'r'i's'o'n'm'e'n't' 'u'n'd'e'r' 'c'l'.' '('1')' 'a'n'd' '1'0'
-'s'h'e' 'i's' 'u'n'a'b'l'e' 't'o' 'u'n'd'e'r's't'a'n'd' 't'h'e' 'n'a't'u'r'e' 'a'n'd'
-'y'e'a'r's' 'u'n'd'e'r' 'c'l'.' '('2')'.'
-'c'o'n's'e'q'u'e'n'c'e's' 'o'f' 't'h'a't' 't'o' 'w'h'i'c'h' 's'h'e' 'g'i'v'e's'
-'('i'i'i')' 'I'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'w'i'f'e' 'd'u'r'i'n'g' 'j'u'd'i'c'i'a'l'
-'c'o'n's'e'n't';' 'o'r'
-'s'e'p'a'r'a't'i'o'n' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't' 'p'r'o'h'i'b'i't'e'd':'
-'('v'i')' 'w'i't'h' 'o'r' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't' 'w'h'e'n' 's'h'e' 'i's'
-'S'e'c't'i'o'n' '3'7'6' 'A',' 'I'P'C',' 'a'd'd'e'd'.'
-'u'n'd'e'r' '1'6' 'y'e'a'r's' 'o'f' 'a'g'e'.'
-'('i'v')' 'C'u's't'o'd'i'a'l' 'r'a'p'e':' 'S'e'c't'i'o'n' '3'7'6' 'B' 't'o' 'S'e'c't'i'o'n'
-'E'x'p'l'a'n'a't'i'o'n'.' 'P'e'n'e't'r'a't'i'o'n' 'i's' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'o'n's't'i'-'
-'3'7'6'D',' 'I'P'C' 'p'r'o'v'i'd'e'd' 'f'o'r' 'a' 'n'e'w' 'c'a't'e'g'o'r'y'
-'t'u't'e' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e'.'
-'o'f' 'o'f'f'e'n'c'e',' 'k'n'o'w'n' 'a's' 'c'u's't'o'd'i'a'l' 'r'a'p'e'.' 'S'u'c'h'
-'E'x'c'e'p't'i'o'n'.' 'S'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'b'y' 'a' 'm'a'n' 'w'i't'h'
-'c'a's'e's' 'd'o' 'n'o't' 'a'm'o'u'n't' 't'o' 'r'a'p'e' 'b'e'c'a'u's'e' 't'h'e'
-'h'i's' 'o'w'n' 'w'i'f'e' 'i's' 'n'o't' 'r'a'p'e',' 'i'f' 't'h'e' 'w'i'f'e' 'i's' 'a'b'o'v'e' '1'5'
-'v'i'c't'i'm'’'s' 'c'o'n's'e'n't' 'i's' 'o'b't'a'i'n'e'd' 'u'n'd'e'r' 't'h'e'
-'y'e'a'r's' 'o'f' 'a'g'e'.'
-'c'o'm'p'e'l'l'i'n'g' 'c'i'r'c'u'm's't'a'n'c'e's'.' 'T'h'e' 'o'f'f'e'n'd'e'r's'
-'I't' 'm'a'y' 'b'e' 'n'o't'e'd' 't'h'a't' 'i'f' 't'h'e' 'w'o'm'a'n' 'i's' 'u'n'd'e'r'
-'o'c'c'u'p'y' 's'u'p'e'r'v'i's'o'r'y' 'p'o's'i't'i'o'n's' 'a'n'd' 't'a'k'e'
-'1'6' 'y'e'a'r's' 'o'f' 'a'g'e',' 'i't' 'i's' 'i'm'm'a't'e'r'i'a'l' 't'h'a't' 't'h'e' 'a'c't' 'b'e'
-'u'n'd'u'e' 'a'd'v'a'n't'a'g'e' 'o'f' 't'h'e'i'r' 'a'u't'h'o'r'i't'y'.'
-'d'o'n'e' 'w'i't'h' 'h'e'r' 'c'o'n's'e'n't' 'o'r' 'e'v'e'n' 'a't' 't'h'e' 'i'n'v'i't'a't'i'o'n'
-'('v')' 'B'u'r'd'e'n' 'o'f' 'p'r'o'o'f' 'o'f' 'i'n'n'o'c'e'n'c'e' 'o'f' 'a'c'c'u's'e'd':'
-'o'f' 'w'o'm'a'n' 'h'e'r's'e'l'f' '('o'r' 't'h'a't' 's'h'e' 'h'a'd' 's'e'x' 'e'x'p'e'r'i'-'
-'e'n'c'e' 'a'l'r'e'a'd'y')',' 'f'o'r' 't'h'e' 'p'o'l'i'c'y' 'o'f' 't'h'e' 'l'a'w' 'i's' 't'o' 'S'e'c't'i'o'n' '1'1'4'A' 'i'n's'e'r't'e'd' 'i'n' 'E'v'i'd'e'n'c'e' 'A'c't','
-'p'r'o't'e'c't' 'c'h'i'l'd'r'e'n' 'o'f' 's'u'c'h' 'i'm'm'a't'u'r'e' 'a'g'e' 'a'g'a'i'n's't' '1'8'7'2',' 'p'r'o'v'i'd'e's' 'f'o'r' 'a' 'c'o'n'c'l'u's'i'v'e' 'p'r'e's'u'm'p'-'
-'s'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e'.' 'T'h'i's' 'i's' 'a'l's'o' 'k'n'o'w'n' 'a's' '‘'s't'a't'u'-' 't'i'o'n' 'a's' 't'o' 't'h'e' 'a'b's'e'n'c'e'r' 'o'f' 'c'o'n's'e'n't' 'o'f' 't'h'e'
-'t'o'r'y' 'r'a'p'e'’'.' 'w'o'm'a'n' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'7'6' '('2')' 'v'i'z'.' 'c'u's't'o'-'
-'A' '‘'m'a'n'’' 'i's' 'd'e'f'i' 'n'e'd' 'b'y' 'S'e'c't'i'o'n' '1'0' 'o'f' 't'h'e' 'c'o'd'e' 'd'i'a'l' 'r'a'p'e',' 'r'a'p'e' 'o'n' 'p'r'e'g'n'a'n't' 'w'o'm'e'n' 'a'n'd'
-'a's' 'a' 'm'a'l'e' 'h'u'm'a'n' 'b'e'i'n'g' 'o'f' 'a'n'y' 'a'g'e'.' 'T'h'u's',' 'a' 'b'o'y' 'g'a'n'g' 'r'a'p'e'.'
-'a'b'o'v'e' '1'2' 'y'e'a'r's' 'o'f' 'a'g'e' 'i's' 'c'a'p'a'b'l'e' 'o'f' 'c'o'm'm'i't't'i'n'g' 'T'h'i's' 'h'a's' 'a't' 'l'e'a's't' 'p'a'r't'i'a'l'l'y' 'r'e'm'o'v'e'd'
-'r'a'p'e' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n',' 'w'h'e'r'e'a's' 'a' 'b'o'y' 'b'e'l'o'w' '1'2' 't'h'e' 'i'n'f'i' 'r'm'i't'y' 'f'r'o'm' 't'h'e' 'e'v'i'd'e'n'c'e' 'o'f' 'a'
-'b'u't' 'a'b'o'v'e' '7' 'y'e'a'r's' 'o'f' 'a'g'e' 'e'n'j'o'y's' 'a' 'q'u'a'l'i'f'i' 'e'd' 'i'm'-' 'v'i'c't'i'm' 'o'f' 'r'a'p'e' 't'h'a't' 'w'a's' 'h'i't'h'e'r't'o' 'u'n'j'u's't'l'y'
-'m'u'n'i't'y'.' 'a't't'a'c'h'e'd' 't'o' 'h'e'r' 't'e's't'i'm'o'n'y' 'w'i't'h'o'u't' 't'a'k'i'n'g'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '3'9'
-'n'o't'e' 'o'f' 't'h'e' 'f'a'c't' 't'h'a't' 'i'n' 'I'n'd'i'a' 'a' 'd'i's'c'l'o's'u'r'e' 'E'x'p'l'a'n'a't'i'o'n' '5'.' 'T'h'e' 'c'o'n's'e'n't' 'm'e'n't'i'o'n'e'd' 'i'n' 't'h'e'
-'o'f' 't'h'i's' 'n'a't'u'r'e' 'i's' 'l'i'k'e'l'y' 't'o' 'r'u'i'n' 't'h'e' 'p'r'o's'p'e'c't' 'd'e'f'i' 'n'i't'i'o'n' 'm'a'y' 'b'e' 'e'x'p'r'e's's' 'o'r' 'i'm'p'l'i'e'd',' 'a'n'd' 'm'a'y'
-'o'f' 't'h'e' 'g'i'r'l'’'s' 'r'e'h'a'b'i'l'i't'a't'i'o'n' 'i'n' 's'o'c'i'e't'y' 'f'o'r' 'b'e' 'g'i'v'e'n' 'e'i't'h'e'r' 'b'y' 't'h'e' 'p'e'r's'o'n' 'i'n' 'p'o's's'e's's'i'o'n',' 'o'r'
-'a'l'l' 't'i'm'e's' 't'o' 'c'o'm'e' 'a'n'd' 'u'n'l'e's's' 'h'e'r' 's't'o'r'y' 'b'y' 'a'n'y' 'p'e'r's'o'n' 'h'a'v'i'n'g' 'f'o'r' 't'h'a't' 'p'u'r'p'o's'e' 'a'u't'h'o'r'i't'y'
-'w'a's' 'p'a'i'n'f'u'l'l'y' 't'r'u'e' 's'h'e' 'w'o'u'l'd' 'n'o't' 'h'a'v'e' 'e'i't'h'e'r' 'e'x'p'r'e's's' 'o'r' 'i'm'p'l'i'e'd'.'
-'t'a'k'e'n' 's'u'c'h' 'a' 'g'r'a'v'e' 'r'i's'k' 'm'e'r'e'l'y' 't'o' 'm'a'l'i'g'n'
-'I'l'l'u's't'r'a't'i'o'n's'
-'t'h'e' 'a'c'c'u'r's'e'.' 'M'o'r'e'o'v'e'r',' 'i'n' 'c'a's'e's' 'o'f' 'r'a'p'e','
-'p'a'r't'i'c'u'l'a'r'l'y' 'c'u's't'o'd'i'a'l' 'r'a'p'e' 'i't' 'i's' 'a'l'm'o's't' '('a')' 'A' 'c'u't's' 'd'o'w'n' 'a' 't'r'e'e' 'o'n' 'Z'’'s' 'g'r'o'u'n'd',' 'w'i't'h'
-'i'm'p'o's's'i'b'l'e' 't'o' 'g'e't' 'a'n'y' 'o't'h'e'r' 'i'n'd'e'p'e'n'd'e'n't' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'd'i's'h'o'n'e's't'l'y' 't'a'k'i'n'g' 't'h'e' 't'r'e'e'
-'e'v'i'd'e'n'c'e' 't'o' 'c'o'r'r'o'b'o'r'a't'e' 't'h'e' 't'e's't'i'm'o'n'y' 'o'f' 'o'u't' 'o'f' 'Z'’'s' 'p'o's's'e's's'i'o'n' 'w'i't'h'o'u't' 'Z'’'s' 'c'o'n's'e'n't'.'
-'t'h'e' 'p'r'o's'e'c'u't'r'i'x'.' 'H'e'r'e',' 'a's' 's'o'o'n' 'a's' 'A' 'h'a's' 's'e'v'e'r'e'd' 't'h'e' 't'r'e'e' 'i'n'
-'('v'i')' 'P'r'o'h'i'b'i't'i'o'n' 'o'f' 'd'i's'c'l'o's'u'r'e' 'o'f' 'i'd'e'n't'i't'y' 'o'f' 't'h'e' 'o'r'd'e'r' 't'o' 's'u'c'h' 't'a'k'i'n'g',' 'h'e' 'h'a's' 'c'o'm'm'i't't'e'd'
-'v'i'c't'i'm' 'i'n' 'r'a'p'e' 'c'a's'e's':' 'S'e'c't'i'o'n' '2'2'8'A' '('1')',' 't'h'e'f't'.'
-'I'P'C',' 'a'd'd'e'd'.' '('b')' 'A' 'p'u't's' 'a' 'b'a'i't' 'f'o'r' 'd'o'g's' 'i'n' 'h'i's' 'p'o'c'k'e't's',' 'a'n'd'
-'('v'i'i')' 'T'r'i'a'l' 'i'n' 'c'a'm'e'r'a':' 'S'e'c't'i'o'n' '3'2'7',' 'C'r'.'P'.'C',' 'w'h'i'c'h' 't'h'u's' 'i'n'd'u'c'e's' 'Z'’'s' 'd'o'g' 't'o' 'f'o'l'l'o'w' 'i't'.' 'H'e'r'e',' 'i'f'
-'c'o'n'f'e'r's' 't'h'e' 'r'i'g'h't' 'o'f' 'a'n' 'o'p'e'n' 'c'o'u'r't' 't'r'i'a'l' 'h'a's' 'A'’'s' 'i'n't'e'n't'i'o'n' 'b'e' 'd'i's'h'o'n'e's't'l'y' 't'o' 't'a'k'e' 't'h'e'
-'b'e'e'n' 'a'm'e'n'd'e'd' 'm'a'k'i'n'g' 't'h'e' 'p'r'o'v'i's'i'o'n's' 'f'o'r' 'd'o'g' 'o'u't' 'o'f' 'Z'’'s' 'p'o's's'e's's'i'o'n' 'w'i't'h'o'u't' 'Z'’'s'
-'t'r'i'a'l' 'o'f' 'r'a'p'e' 'i'n' 'c'a'm'e'r'a' 'a'n'd' 'p'r'o'h'i'b'i't'i'o'n' 'o'f' 'c'o'n's'e'n't',' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e'f't' 'a's' 's'o'o'n' 'a's'
-'p'u'b'l'i'c'a't'i'o'n' 'o'f' 't'r'i'a'l' 'p'r'o'c'e'e'd'i'n'g's' 'i'n' 's'u'c'h' 'Z'’'s' 'd'o'g' 'h'a's' 'b'e'g'u'n' 't'o' 'f'o'l'l'o'w' 'A'.'
-'c'a's'e's' 'w'i't'h'o'u't' 't'h'e' 'p'r'i'o'r' 'a'p'p'r'o'v'a'l' 'o'f' 't'h'e' '('c')' 'A' 'm'e'e't's' 'a' 'b'u'l'l'o'c'k' 'c'a'r'r'y'i'n'g' 'a' 'b'o'x' 'o'f'
-'c'o'u'r't'.' 't'r'e'a's'u'r'e'.' 'H'e' 'd'r'i'v'e's' 't'h'e' 'b'u'l'l'o'c'k' 'i'n' 'a' 'c'e'r't'a'i'n'
-'S'e'c't'i'o'n' '2'2'8'A',' 'I'P'C',' 'a'n'd' 'S'e'c't'i'o'n' '3'2'7',' 'd'i'r'e'c't'i'o'n',' 'i'n' 'o'r'd'e'r' 't'h'a't' 'h'e' 'm'a'y' 'd'i's'h'o'n'e's't'l'y'
-'C'r'.'P'.'C'.' 'n'o't' 'o'n'l'y' 'p'r'o't'e'c't' 't'h'e' 'h'o'n'o'u'r' 'o'f' 't'a'k'e' 't'h'e' 't'r'e'a's'u'r'e'.' 'A's' 's'o'o'n' 'a's' 't'h'e' 'b'u'l'l'o'c'k'
-'s'e'x'u'a'l'l'y' 'v'i'c't'i'm'i'z'e'd' 'w'o'm'e'n' 'b'u't' 'a'l's'o' 'm'a'k'e' 'b'e'g'i'n's' 't'o' 'm'o'v'e',' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e'f't' 'o'f'
-'i't' 'p'o's's'i'b'l'e' 'f'o'r' 't'h'e'm' 't'o' 'd'e'p'o's'e' 'i'n' 'c'o'u'r't' 't'h'e' 't'r'e'a's'u'r'e'.'
-'w'i't'h'o'u't' 'a'n'y' 'f'e'a'r' 'o'f' 's'o'c'i'a'l' 'o's't'r'a'c'i's'm'.' '('d')' 'A' 'b'e'i'n'g' 'Z'’'s' 's'e'r'v'a'n't',' 'a'n'd' 'e'n't'r'u's't'e'd' 'b'y' 'Z'
-'C'h'a'r'a'c't'e'r' 'a's's'a's's'i'n'a't'i'o'n' 'o'f' 'p'r'o's'e'c'u't'r'i'x' 'w'i't'h' 't'h'e' 'c'a'r'e' 'o'f' 'Z'’'s' 'p'l'a't'e',' 'd'i's'h'o'n'e's't'l'y' 'r'u'n's'
-'p'r'o'h'i'b'i't'e'd':' 'A' '‘'p'r'o'v'i's'o' 'c'l'a'u's'e'’' 't'o' 'S'e'c't'i'o'n' '1'4'6' 'a'w'a'y' 'w'i't'h' 't'h'e' 'p'l'a't'e',' 'w'i't'h'o'u't' 'Z'’'s' 'c'o'n's'e'n't'.'
-'E'v'i'd'e'n'c'e' 'A'c't',' 'i'n's'e'r't'e'd' 'v'i'a' '2'0'0'3' 'a'm'e'n'd'm'e'n't' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e'f't'.'
-'A'c't',' 'h'a's' 'd'i's'a'l'l'o'w'e'd' 't'o' 'p'u't' 'q'u'e's't'i'o'n's' 'a'b'o'u't' '('e')' 'Z',' 'g'o'i'n'g' 'o'n' 'a' 'j'o'u'r'n'e'y',' 'e'n't'r'u's't's' 'h'i's' 'p'l'a't'e' 't'o'
-'p'r'o's'e'c'u't'r'i'x' 'c'h'a'r'a'c't'e'r' 'i'n' 'c'r'o's's'-'e'x'a'm'i'n'a't'i'o'n'.' 'A',' 't'h'e' 'k'e'e'p'e'r' 'o'f' 'a' 'w'a'r'e'h'o'u's'e',' 't'i'l'l' 'Z' 's'h'a'l'l'
-'S'e'c't'i'o'n' '3'7'8':' 'T'h'e'f't' 'r'e't'u'r'n'.' 'A' 'c'a'r'r'i'e's' 't'h'e' 'p'l'a't'e' 't'o' 'a' 'g'o'l'd's'm'i't'h'
-'a'n'd' 's'e'l'l's' 'i't'.' 'H'e'r'e',' 't'h'e' 'p'l'a't'e' 'w'a's' 'n'o't' 'i'n'
-'W'h'o'e'v'e'r',' 'i'n't'e'n'd'i'n'g' 't'o' 't'a'k'e' 'd'i's'h'o'n'e's't'l'y' 'a'n'y'
-'Z'’'s' 'p'o's's'e's's'i'o'n'.' 'I't' 'c'o'u'l'd' 'n'o't' 't'h'e'r'e'f'o'r'e' 'b'e'
-'m'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'o'u't' 'o'f' 't'h'e' 'p'o's's'e's's'i'o'n' 'o'f' 'a'n'y'
-'t'a'k'e'n' 'o'u't' 'o'f' 'Z'’'s' 'p'o's's'e's's'i'o'n',' 'a'n'd' 'A' 'h'a's'
-'p'e'r's'o'n' 'w'i't'h'o'u't' 't'h'a't' 'p'e'r's'o'n'’'s' 'c'o'n's'e'n't',' 'm'o'v'e's'
-'n'o't' 'c'o'm'm'i't't'e'd' 't'h'e'f't',' 't'h'o'u'g'h' 'h'e' 'm'a'y' 'h'a'v'e'
-'t'h'a't' 'p'r'o'p'e'r't'y' 'i'n' 'o'r'd'e'r' 't'o' 's'u'c'h' 't'a'k'i'n'g',' 'i's' 's'a'i'd' 't'o'
-'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'c'o'm'm'i't' 't'h'e'f't'.'
-'('f')' 'A' 'f'i' 'n'd's' 'a' 'r'i'n'g' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z' 'o'n' 'a' 't'a'b'l'e' 'i'n'
-'E'x'p'l'a'n'a't'i'o'n' '1'.' 'A' 't'h'i'n'g' 's'o' 'l'o'n'g' 'a's' 'i't' 'i's' 'a't't'a'c'h'e'd'
-'t'h'e' 'h'o'u's'e' 'w'h'i'c'h' 'Z' 'o'c'c'u'p'i'e's'.' 'H'e'r'e',' 't'h'e' 'r'i'n'g'
-'t'o' 't'h'e' 'e'a'r't'h',' 'n'o't' 'b'e'i'n'g' 'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y',' 'i's' 'n'o't'
-'i's' 'i'n' 'Z'’'s' 'p'o's's'e's's'i'o'n',' 'a'n'd' 'i'f' 'a' 'd'i's'h'o'n'e's't'l'y'
-'t'h'e' 's'u'b'j'e'c't' 't'o' 't'h'e'f't';' 'b'u't' 'i't' 'b'e'c'o'm'e's' 'c'a'p'a'b'l'e' 'o'f'
-'r'e'm'o'v'e'd' 'i't',' 'A' 'c'o'm'm'i't's' 't'h'e'f't'.'
-'b'e'i'n'g' 't'h'e' 's'u'b'j'e'c't' 'o'f' 't'h'e'f't' 'a's' 's'o'o'n' 'a's' 'i't' 'i's' 's'e'v'e'r'e'd'
-'('g')' 'A' 'f'i' 'n'd's' 'a' 'r'i'n'g' 'l'y'i'n'g' 'o'n' 't'h'e' 'h'i'g'h'r'o'a'd',' 'n'o't'
-'f'r'o'm' 't'h'e' 'e'a'r't'h'.'
-'i'n' 't'h'e' 'p'o's's'e's's'i'o'n' 'o'f' 'a'n'y' 'p'e'r's'o'n'.' 'A',' 'b'y'
-'E'x'p'l'a'n'a't'i'o'n' '2'.' 'A' 'm'o'v'i'n'g' 'e'f'f'e'c't'e'd' 'b'y' 't'h'e' 's'a'm'e'
-'t'a'k'i'n'g' 'i't',' 'c'o'm'm'i't's' 'n'o' 't'h'e'f't',' 't'h'o'u'g'h' 'h'e'
-'a'c't' 'w'h'i'c'h' 'e'f'f'e'c't's' 't'h'e' 's'e'v'e'r'a'n'c'e' 'm'a'y' 'b'e' 'a' 't'h'e'f't'.'
-'m'a'y' 'c'o'm'm'i't' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'o'f'
-'E'x'p'l'a'n'a't'i'o'n' '3'.' 'A' 'p'e'r's'o'n' 'i's' 's'a'i'd' 't'o' 'c'a'u's'e' 'a'
-'p'r'o'p'e'r't'y'.'
-'t'h'i'n'g' 't'o' 'm'o'v'e' 'b'y' 'r'e'm'o'v'i'n'g' 'a'n' 'o'b's't'a'c'l'e' 'w'h'i'c'h'
-'('h')' 'A' 's'e'e's' 'a' 'r'i'n'g' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z' 'l'y'i'n'g' 'o'n' 'a'
-'p'r'e'v'e'n't'e'd' 'i't' 'f'r'o'm' 'm'o'v'i'n'g' 'o'r' 'b'y' 's'e'p'a'r'a't'i'n'g' 'i't'
-'t'a'b'l'e' 'i'n' 'Z'’'s' 'h'o'u's'e'.' 'N'o't' 'v'e'n't'u'r'i'n'g' 't'o' 'm'i's'-'
-'f'r'o'm' 'a'n'y' 'o't'h'e'r' 't'h'i'n'g',' 'a's' 'w'e'l'l' 'a's' 'b'y' 'a'c't'u'a'l'l'y'
-'a'p'p'r'o'p'r'i'a't'e' 't'h'e' 'r'i'n'g' 'i'm'm'e'd'i'a't'e'l'y' 'f'o'r' 'f'e'a'r'
-'m'o'v'i'n'g' 'i't'.'
-'o'f' 's'e'a'r'c'h' 'a'n'd' 'd'e't'e'c't'i'o'n',' 'A' 'h'i'd'e's' 't'h'e' 'r'i'n'g'
-'E'x'p'l'a'n'a't'i'o'n' '4'.' 'A' 'p'e'r's'o'n',' 'w'h'o' 'b'y' 'a'n'y' 'm'e'a'n's'
-'c'a'u's'e's' 'a'n' 'a'n'i'm'a'l' 't'o' 'm'o'v'e',' 'i's' 's'a'i'd' 't'o' 'm'o'v'e' 'i'n' 'a' 'p'l'a'c'e' 'w'h'e'r'e' 'i't' 'i's' 'h'i'g'h'l'y' 'i'm'p'r'o'b'a'b'l'e'
-'t'h'a't' 'a'n'i'm'a'l',' 'a'n'd' 't'o' 'm'o'v'e' 'e'v'e'r'y't'h'i'n'g' 'w'h'i'c'h',' 'i'n' 't'h'a't' 'i't' 'w'i'l'l' 'e'v'e'r' 'b'e' 'f'o'u'n'd' 'b'y' 'Z',' 'w'i't'h' 't'h'e' 'i'n'-'
-'c'o'n's'e'q'u'e'n'c'e' 'o'f' 't'h'e' 'm'o't'i'o'n' 's'o' 'c'a'u's'e'd',' 'i's' 'c'a'u's'e'd',' 't'e'n't'i'o'n' 'o'f' 't'a'k'i'n'g' 't'h'e' 'r'i'n'g' 'f'r'o'm' 't'h'e' 'h'i'd'i'n'g'
-'i's' 'm'o'v'e'd' 'b'y' 't'h'a't' 'a'n'i'm'a'l'.' 'p'l'a'c'e' 'a'n'd' 's'e'l'l'i'n'g' 'i't' 'w'h'e'n' 't'h'e' 'l'o's's' 'i's' 'f'o'r'g'o't'-'
-'
-'t'e'n'.' 'H'e'r'e' 'A',' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'f'i' 'r's't' 'm'o'v'i'n'g' 't'h'e' 't'o' 'b'e' 'A'’'s' 'o'w'n' 'p'r'o'p'e'r't'y',' 't'a'k'e's' 't'h'a't' 'p'r'o'p'e'r't'y'
-'r'i'n'g',' 'c'o'm'm'i't's' 't'h'e'f't'.' 'o'u't' 'o'f' 'B'’'s' 'p'o's's'e's's'i'o'n'.' 'H'e'r'e',' 'a's' 'A' 'd'o'e's'
-'('i')' 'A' 'd'e'l'i'v'e'r's' 'h'i's' 'w'a't'c'h' 't'o' 'Z',' 'a' 'j'e'w'e'l'l'e'r',' 't'o' 'b'e' 'n'o't' 't'a'k'e' 'd'i's'h'o'n'e's't'l'y',' 'h'e' 'd'o'e's' 'n'o't' 'c'o'm'm'i't'
-'r'e'g'u'l'a't'e'd'.' 'Z' 'c'a'r'r'i'e's' 'i't' 't'o' 'h'i's' 's'h'o'p'.' 'A',' 'n'o't' 't'h'e'f't'.'
-'o'w'i'n'g' 't'o' 't'h'e' 'j'e'w'e'l'l'e'r' 'a'n'y' 'd'e'b't' 'f'o'r' 'w'h'i'c'h' 'S'e'c't'i'o'n' '3'8'3':' 'E'x't'o'r't'i'o'n'
-'t'h'e' 'j'e'w'e'l'l'e'r' 'm'i'g'h't' 'l'a'w'f'u'l'l'y' 'd'e't'a'i'n' 't'h'e'
-'W'h'o'e'v'e'r',' 'i'n't'e'n't'i'o'n'a'l'l'y' 'p'u't's' 'a'n'y' 'p'e'r's'o'n' 'i'n' 'f'e'a'r'
-'w'a't'c'h' 'a's' 'a' 's'e'c'u'r'i't'y',' 'e'n't'e'r's' 't'h'e' 's'h'o'p' 'o'p'e'n'l'y','
-'o'f' 'a'n'y' 'i'n'j'u'r'y' 't'o' 't'h'a't' 'p'e'r's'o'n',' 'o'r' 't'o' 'a'n'y' 'o't'h'e'r',' 'a'n'd'
-'t'a'k'e's' 'h'i's' 'w'a't'c'h' 'b'y' 'f'o'r'c'e' 'o'u't' 'o'f' 'Z'’'s' 'h'a'n'd','
-'t'h'e'r'e'b'y' 'd'i's'h'o'n'e's't'l'y' 'i'n'd'u'c'e's' 't'h'e' 'p'e'r's'o'n' 's'o' 'p'u't'
-'a'n'd' 'c'a'r'r'i'e'd' 'i't' 'a'w'a'y'.' 'H'e'r'e' 'A',' 't'h'o'u'g'h' 'h'e'
-'i'n' 'f'e'a'r' 't'o' 'd'e'l'i'v'e'r' 't'o' 'a'n'y' 'p'e'r's'o'n' 'a'n'y' 'p'r'o'p'e'r't'y' 'o'f'
-'m'a'y' 'h'a'v'e' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 't'r'e's'p'a's's' 'a'n'd'
-'v'a'l'u'a'b'l'e' 's'e'c'u'r'i't'y',' 'o'r' 'a'n'y't'h'i'n'g' 's'i'g'n'e'd' 'o'r' 's'e'a'l'e'd'
-'a's's'a'u'l't',' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 't'h'e'f't',' 'i'n'a's'm'u'c'h'
-'w'h'i'c'h' 'm'a'y' 'b'e' 'c'o'n'v'e'r't'e'd' 'i'n't'o' 'a' 'v'a'l'u'a'b'l'e' 's'e'c'u'r'i't'y','
-'a's' 'w'h'a't' 'h'e' 'd'i'd' 'w'a's' 'n'o't' 'd'o'n'e' 'd'i's'h'o'n'e's't'l'y'.'
-'c'o'm'm'i't's' '“'e'x't'o'r't'i'o'n'”'.'
-'('j')' 'I'f' 'A' 'o'w'e's' 'm'o'n'e'y' 't'o' 'Z' 'f'o'r' 'r'e'p'a'i'r'i'n'g' 't'h'e'
-'w'a't'c'h',' 'a'n'd' 'i'f' 'Z' 'r'e't'a'i'n's' 't'h'e' 'w'a't'c'h' 'l'a'w'f'u'l'l'y' 'I'l'l'u's't'r'a't'i'o'n's'
-'a's' 'a' 's'e'c'u'r'i't'y' 'f'o'r' 't'h'e' 'd'e'b't',' 'a'n'd' 'A' 't'a'k'e's'
-'('a')' 'A' 't'h'r'e'a't'e'n's' 't'o' 'p'u'b'l'i's'h' 'a' 'd'e'f'a'm'a't'o'r'y' 'l'i'b'e'l'
-'t'h'e' 'w'a't'c'h' 'o'u't' 'o'f' 'Z'’'s' 'p'o's's'e's's'i'o'n',' 'w'i't'h' 't'h'e'
-'c'o'n'c'e'r'n'i'n'g' 'Z' 'u'n'l'e's's' 'Z' 'g'i'v'e's' 'h'i'm' 'm'o'n'e'y'.'
-'i'n't'e'n't'i'o'n' 'o'f' 'd'e'p'r'i'v'i'n'g' 'Z' 'o'f' 't'h'e' 'p'r'o'p'e'r't'y' 'a's'
-'H'e' 't'h'u's' 'i'n'd'u'c'e's' 'Z' 't'o' 'g'i'v'e' 'h'i'm' 'm'o'n'e'y'.' 'A'
-'a' 's'e'c'u'r'i't'y' 'f'o'r' 'h'i's' 'd'e'b't',' 'h'e' 'c'o'm'm'i't's' 't'h'e'f't','
-'c'o'm'm'i't't'e'd' 'e'x't'o'r't'i'o'n'.'
-'i'n'a's'm'u'c'h' 'a's' 'h'e' 't'a'k'e's' 'i't' 'd'i's'h'o'n'e's't'l'y'.'
-'('b')' 'A' 't'h'r'e'a't'e'n's' 'Z' 't'h'a't' 'h'e' 'w'i'l'l' 'k'e'e'p' 'Z'’'s' 'c'h'i'l'd' 'i'n'
-'('k')' 'A'g'a'i'n',' 'i'f' 'A',' 'h'a'v'i'n'g' 'p'a'w'n'e'd' 'h'i's' 'w'a't'c'h' 't'o' 'Z','
-'w'r'o'n'g'l'f'u'l' 'c'o'n'f'i' 'n'e'm'e'n't' 'u'n'l'e's's' 'Z' 'w'i'l'l' 's'i'g'n'
-'t'a'k'e's' 'i't' 'o'u't' 'o'f' 'Z'’'s' 'p'o's's'e's's'i'o'n' 'w'i't'h'o'u't' 'Z'’'s'
-'a'n'd' 'd'e'l'i'v'e'r' 't'o' 'A' 'a' 'p'r'o'm'i's's'o'r'y' 'n'o't'e' 'b'i'n'd'i'n'g'
-'c'o'n's'e'n't',' 'n'o't' 'h'a'v'i'n'g' 'p'a'i'd' 'w'h'a't' 'h'e' 'b'o'r'r'o'w'e'd'
-'Z' 't'o' 'p'a'y' 'c'e'r't'a'i'n' 'm'o'n'e'y' 't'o' 'A'.' 'Z' 's'i'g'n's'
-'o'n' 't'h'e' 'w'a't'c'h',' 'h'e' 'c'o'm'm'i't's' 't'h'e'f't',' 't'h'o'u'g'h' 't'h'e'
-'a'n'd' 'd'e'l'i'v'e'r's' 't'h'e' 'n'o't'e'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd'
-'w'a't'c'h' 'i's' 'h'i's' 'o'w'n' 'p'r'o'p'e'r't'y' 'i'n'a's'm'u'c'h' 'a's' 'h'e'
-'e'x't'o'r't'i'o'n'.'
-'t'a'k'e's' 'i't' 'd'i's'h'o'n'e's't'l'y'.'
-'('c')' 'A' 't'h'r'e'a't'e'n's' 't'o' 's'e'n'd' 'c'l'u'b'-'m'e'n' 't'o' 'p'l'o'u'g'h'
-'('l')' 'A' 't'a'k'e's' 'a'n' 'a'r't'i'c'l'e' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z' 'o'u't' 'o'f'
-'u'p' 'Z'’'s' 'f'i' 'e'l'd' 'u'n'l'e's's' 'Z' 'w'i'l'l' 's'i'g'n' 'a'n'd' 'd'e'l'i'v'e'r'
-'Z'’'s' 'p'o's's'e's's'i'o'n',' 'w'i't'h'o'u't' 'Z'’'s' 'c'o'n's'e'n't','
-'t'o' 'B' 'a' 'b'o'n'd' 'b'i'n'd'i'n'g' 'Z' 'u'n'd'e'r' 'a' 'p'e'n'a'l't'y' 't'o'
-'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'k'e'e'p'i'n'g' 'i't' 'u'n't'i'l' 'h'e' 'd'e'l'i'v'e'r' 'c'e'r't'a'i'n' 'p'r'o'd'u'c'e' 't'o' 'B',' 'a'n'd' 't'h'e'r'e'b'y'
-'o'b't'a'i'n's' 'm'o'n'e'y' 'f'r'o'm' 'Z' 'a's' 'a' 'r'e'w'a'r'd' 'f'o'r' 'i't's' 'i'n'd'u'c'e's' 'Z' 't'o' 's'i'g'n' 'a'n'd' 'd'e'l'i'v'e'r' 't'h'e' 'b'o'n'd'.' 'A'
-'r'e's't'o'r'a't'i'o'n'.' 'H'e'r'e' 'A' 't'a'k'e's' 'd'i's'h'o'n'e's't'l'y';' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'e'x't'o'r't'i'o'n'.'
-'h'a's' 't'h'e'r'e'f'o'r'e' 'c'o'm'm'i't't'e'd' 't'h'e'f't'.' '('d')' 'A',' 'b'y' 'p'u't't'i'n'g' 'Z' 'i'n' 'f'e'a'r' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't','
-'('m')' 'A',' 'b'e'i'n'g' 'o'n' 'f'r'i'e'n'd'l'y' 't'e'r'm's' 'w'i't'h' 'Z',' 'g'o'e's' 'd'i's'h'o'n'e's't'l'y' 'i'n'd'u'c'e's' 'Z' 't'o' 's'i'g'n' 'o'r' 'a'f'f'i' 'x' 'h'i's'
-'i'n't'o' 'Z'’'s' 'l'i'b'r'a'r'y' 'i'n' 'Z'’'s' 'a'b's'e'n'c'e',' 'a'n'd' 't'a'k'e's' 's'e'a'l' 't'o' 'a' 'b'l'a'n'k' 'p'a'p'e'r' 'a'n'd' 'd'e'l'i'v'e'r' 'i't' 't'o' 'A'.'
-'a'w'a'y' 'a' 'b'o'o'k' 'w'i't'h'o'u't' 'Z'’'s' 'e'x'p'r'e's's' 'c'o'n's'e'n't' 'Z' 's'i'g'n's' 'a'n'd' 'd'e'l'i'v'e'r's' 't'h'e' 'p'a'p'e'r' 't'o' 'A'.' 'H'e'r'e','
-'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'm'e'r'e'l'y' 'o'f' 'r'e'g'a'r'd'i'n'g' 'i't',' 'a'n'd' 'a's' 't'h'e' 'p'a'p'e'r' 's'o' 's'i'g'n'e'd' 'm'a'y' 'b'e' 'c'o'n'v'e'r't'e'd'
-'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'r'e't'u'r'n'i'n'g' 'i't'.' 'H'e'r'e',' 'i't' 'i'n't'o' 'a' 'v'a'l'u'a'b'l'e' 's'e'c'u'r'i't'y',' 'A' 'h'a's' 'c'o'm'm'i't't'e'd'
-'i's' 'p'r'o'b'a'b'l'e' 't'h'a't' 'A' 'm'a'y' 'h'a'v'e' 'c'o'n'c'e'i'v'e'd' 'e'x't'o'r't'i'o'n'.'
-'t'h'a't' 'h'e' 'h'a's' 'Z'’'s' 'i'm'p'l'i'e'd' 'c'o'n's'e'n't' 't'o' 'u's'e' 'Z'’'s'
-'b'o'o'k'.' 'I'f' 't'h'i's' 'w'a's' 'A'’'s' 'i'm'p'r'e's's'i'o'n',' 'A' 'h'a's' 'C'R'I'M'I'N'A'L' 'M'I'S'A'P'P'R'O'P'R'I'A'T'I'O'N'
-'n'o't' 'c'o'm'm'i't't'e'd' 't'h'e'f't'.'
-'A'N'D' 'C'R'I'M'I'N'A'L' 'B'R'E'A'C'H' 'O'F' 'T'R'U'S'T'
-'('n')' 'A' 'a's'k's' 'c'h'a'r'i't'y' 'f'r'o'm' 'Z'’'s' 'w'i'f'e'.' 'S'h'e' 'g'i'v'e's'
-'A' 'm'o'n'e'y',' 'f'o'o'd' 'a'n'd' 'c'l'o't'h'e's',' 'w'h'i'c'h' 'A' 'S'e'c't'i'o'n' '4'0'3':' 'D'i's'h'o'n'e's't' 'M'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'o'f'
-'k'n'o'w's' 't'o' 'b'e'l'o'n'g' 't'o' 'Z',' 'h'e'r' 'h'u's'b'a'n'd'.' 'H'e'r'e' 'P'r'o'p'e'r't'y'
-'i't' 'i's' 'p'r'o'b'a'b'l'e' 't'h'a't' 'A' 'm'a'y' 'c'o'n'c'e'i'v'e' 't'h'a't' 'W'h'o'e'v'e'r' 'd'i's'h'o'n'e's't'l'y' 'm'i's'a'p'p'r'o'p'r'i'a't'e's' 'o'r' 'c'o'n'-'
-'Z'’'s' 'w'i'f'e' 'i's' 'a'u't'h'o'r'i'z'e'd' 't'o' 'g'i'v'e' 'a'w'a'y' 'a'l'm's'.' 'v'e'r't's' 't'o' 'h'i's' 'o'w'n' 'u's'e' 'a'n'y' 'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y','
-'I'f' 't'h'i's' 'w'a's' 'A'’'s' 'i'm'p'r'e's's'i'o'n',' 'A' 'h'a's' 'n'o't' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r'
-'c'o'm'm'i't't'e'd' 't'h'e'f't'.' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 't'w'o'
-'('o')' 'A' 'i's' 't'h'e' 'p'a'r'a'm'o'u'r' 'o'f' 'Z'’'s' 'w'i'f'e'.' 'S'h'e' 'g'i'v'e's' 'y'e'a'r's',' 'o'r' 'w'i't'h' 'f'i' 'n'e',' 'o'r' 'w'i't'h' 'b'o't'h'.'
-'a' 'v'a'l'u'a'b'l'e' 'p'r'o'p'e'r't'y',' 'w'h'i'c'h' 'A' 'k'n'o'w's' 't'o'
-'I'l'l'u's't'r'a't'i'o'n's'
-'b'e'l'o'n'g' 't'o' 'h'e'r' 'h'u's'b'a'n'd' 'Z',' 'a'n'd' 't'o' 'b'e' 's'u'c'h'
-'p'r'o'p'e'r't'y' 'a's' 's'h'e' 'h'a's' 'n'o't' 'a'u't'h'o'r'i't'y' 'f'r'o'm' 'Z' 't'o' '('a')' 'A' 't'a'k'e's' 'p'r'o'p'e'r't'y' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z' 'o'u't' 'o'f' 'Z'’'s'
-'g'i'v'e'.' 'I'f' 'A' 't'a'k'e's' 't'h'e' 'p'r'o'p'e'r't'y' 'd'i's'h'o'n'e's't'l'y',' 'p'o's's'e's's'i'o'n',' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'b'e'l'i'e'v'i'n'g',' 'a't' 't'h'e'
-'h'e' 'c'o'm'm'i't's' 't'h'e'f't'.' 't'i'm'e' 'w'h'e'n' 'h'e' 't'a'k'e's' 'i't',' 't'h'a't' 't'h'e' 'p'r'o'p'e'r't'y'
-'('p')' 'A',' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'b'e'l'i'e'v'i'n'g' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z' 'b'e'l'o'n'g's' 't'o' 'h'i'm's'e'l'f'.' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 't'h'e'f't';'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '4'1'
-'b'u't' 'i'f' 'A',' 'a'f't'e'r' 'd'i's'c'o'v'e'r'i'n'g' 'h'i's' 'm'i's't'a'k'e',' 'I'l'l'u's't'r'a't'i'o'n's'
-'d'i's'h'o'n'e's't'l'y' 'a'p'p'r'o'p'r'i'a't'e's' 't'h'e' 'p'r'o'p'e'r't'y' 't'o'
-'('a')' 'A' 'f'i' 'n'd's' 'a' 'r'u'p'e'e' 'o'n' 't'h'e' 'h'i'g'h'-'r'o'a'd',' 'n'o't'
-'h'i's' 'o'w'n' 'u's'e',' 'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'k'n'o'w'i'n'g' 't'o' 'w'h'o'm' 't'h'e' 'r'u'p'e'e' 'b'e'l'o'n'g's'.'
-'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.' 'A' 'p'i'c'k's' 'u'p' 't'h'e' 'r'u'p'e'e'.' 'H'e'r'e',' 'A' 'h'a's' 'n'o't'
-'('b')' 'A',' 'b'e'i'n'g' 'o'n' 'f'r'i'e'n'd'l'y' 't'e'r'm's' 'w'i't'h' 'Z',' 'g'o'e's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'd'e'f'i' 'n'e'd' 'i'n' 't'h'i's'
-'i'n't'o' 'Z'’'s' 'l'i'b'r'a'r'y',' 'i'n' 'Z'’'s' 'a'b's'e'n'c'e',' 'a'n'd' 't'a'k'e's' 's'e'c't'i'o'n'.'
-'a'w'a'y' 'a' 'b'o'o'k' 'w'i't'h'o'u't' 'Z'’'s' 'i'm'p'l'i'e'd' 'c'o'n's'e'n't' '('b')' 'A' 'f'i' 'n'd's' 'a' 'l'e't't'e'r' 'o'n' 't'h'e' 'r'o'a'd' 'c'o'n't'a'i'n'i'n'g' 'a'
-'t'o' 't'a'k'e' 't'h'e' 'b'o'o'k' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 'r'e'a'd'i'n'g' 'b'a'n'k' 'n'o't'e'.' 'F'r'o'm' 't'h'e' 'd'i'r'e'c't'i'o'n' 'a'n'd' 'c'o'n't'e'n't's'
-'i't',' 'A' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 't'h'e'f't'.' 'B'u't',' 'i'f' 'A' 'o'f' 't'h'e' 'l'e't't'e'r' 'h'e' 'l'e'a'r'n's' 't'o' 'w'h'o'm' 't'h'e' 'n'o't'e'
-'a'f't'e'r'w'a'r'd's' 's'e'l'l's' 't'h'e' 'b'o'o'k' 'f'o'r' 'h'i's' 'o'w'n' 'b'e'l'o'n'g's'.' 'H'e' 'a'p'p'r'o'p'r'i'a't'e's' 't'h'e' 'n'o't'e'.' 'H'e' 'i's'
-'b'e'n'e'f'i' 't',' 'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.'
-'t'h'i's' 's'e'c't'i'o'n'.' '('c')' 'A' 'f'i' 'n'd's' 'a' 'c'h'e'q'u'e' 'p'a'y'a'b'l'e' 't'o' 'b'e'a'r'e'r'.' 'H'e'
-'('c')' 'A' 'a'n'd' 'B',' 'b'e'i'n'g' 'j'o'i'n't' 'o'w'n'e'r's' 'o'f' 'a' 'h'o'r's'e',' 'c'a'n' 'f'o'r'm' 'n'o' 'c'o'n'j'e'c't'u'r'e' 'a's' 't'o' 't'h'e' 'p'e'r's'o'n'
-'A' 't'a'k'e's' 't'h'e' 'h'o'r's'e' 'o'u't' 'o'f' 'B'’'s' 'p'o's's'e's's'i'o'n',' 'w'h'o' 'h'a's' 'l'o's't' 't'h'e' 'c'h'e'q'u'e'.' 'B'u't' 't'h'e' 'n'a'm'e' 'o'f'
-'t'h'e' 'p'e'r's'o'n',' 'w'h'o' 'h'a's' 'd'r'a'w'n' 't'h'e' 'c'h'e'q'u'e','
-'i'n't'e'n'd'i'n'g' 't'o' 'u's'e' 'i't'.' 'H'e'r'e',' 'a's' 'A' 'h'a's' 'a' 'r'i'g'h't'
-'a'p'p'e'a'r's'.' 'A' 'k'n'o'w's' 't'h'a't' 't'h'i's' 'p'e'r's'o'n' 'c'a'n'
-'t'o' 'u's'e' 't'h'e' 'h'o'r's'e',' 'h'e' 'd'o'e's' 'n'o't' 'd'i's'h'o'n'e's't'l'y'
-'d'i'r'e'c't' 'h'i'm' 't'o' 't'h'e' 'p'e'r's'o'n' 'i'n' 'w'h'o's'e' 'f'a'v'o'u'r'
-'m'i's'a'p'p'r'o'p'r'i'a't'e' 'i't'.' 'B'u't',' 'i'f' 'A' 's'e'l'l's' 't'h'e' 'h'o'r's'e'
-'t'h'e' 'c'h'e'q'u'e' 'w'a's' 'd'r'a'w'n'.' 'A' 'a'p'p'r'o'p'r'i'a't'e's' 't'h'e'
-'a'n'd' 'a'p'p'r'o'p'r'i'a't'e's' 't'h'e' 'w'h'o'l'e' 'p'r'o'c'e'e'd's' 't'o' 'h'i's'
-'c'h'e'q'u'e' 'w'i't'h'o'u't' 'a't't'e'm'p't'i'n'g' 't'o' 'd'i's'c'o'v'e'r' 't'h'e'
-'o'w'n' 'u's'e',' 'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r'
-'o'w'n'e'r'.' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r'
-'t'h'i's' 's'e'c't'i'o'n'.'
-'t'h'i's' 's'e'c't'i'o'n'.'
-'E'x'p'l'a'n'a't'i'o'n' '1'.' 'A' 'd'i's'h'o'n'e's't' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n'
-'('d')' 'A' 's'e'e's' 'Z' 'd'r'o'p' 'h'i's' 'p'u'r's'e' 'w'i't'h' 'm'o'n'e'y' 'i'n' 'i't'.'
-'f'o'r' 'a' 't'i'm'e' 'o'n'l'y' 'i's' 'a' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'w'i't'h'i'n' 't'h'e'
-'A' 'p'i'c'k's' 'u'p' 't'h'e' 'p'u'r's'e' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f'
-'m'e'a'n'i'n'g' 'o'f' 't'h'i's' 's'e'c't'i'o'n'.'
-'r'e's't'o'r'i'n'g' 'i't' 't'o' 'Z',' 'b'u't' 'a'f't'e'r'w'a'r'd's' 'a'p'p'r'o'p'r'i'-'
-'a't'e's' 'i't' 't'o' 'h'i's' 'o'w'n' 'u's'e'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'a'n'
-'I'l'l'u's't'r'a't'i'o'n'
-'o'f'f'e'n'c'e' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.'
-'A' 'f'i' 'n'd's' 'a' 'G'o'v'e'r'n'm'e'n't' 'p'r'o'm'i's's'o'r'y' 'n'o't'e' 'b'e'l'o'n'g'i'n'g'
-'('e')' 'A' 'f'i' 'n'd's' 'a' 'p'u'r's'e' 'w'i't'h' 'm'o'n'e'y',' 'n'o't' 'k'n'o'w'i'n'g'
-'t'o' 'Z',' 'b'e'a'r'i'n'g' 'a' 'b'l'a'n'k' 'e'n'd'o'r's'e'm'e'n't'.' 'A',' 'k'n'o'w'i'n'g'
-'t'o' 'w'h'o'm' 'i't' 'b'e'l'o'n'g's';' 'h'e' 'a'f't'e'r'w'a'r'd's' 'd'i's'c'o'v'e'r'
-'t'h'a't' 't'h'e' 'n'o't'e' 'b'e'l'o'n'g's' 't'o' 'Z',' 'p'l'e'd'g'e's' 'i't' 'w'i't'h' 'a' 't'h'a't' 'i't' 'b'e'l'o'n'g's' 't'o' 'Z',' 'a'n'd' 'a'p'p'r'o'p'r'i'a't'e's' 'i't'
-'b'a'n'k'e'r' 'a's' 'a' 's'e'c'u'r'i't'y' 'f'o'r' 'a' 'l'o'a'n',' 'i'n't'e'n'd'i'n'g' 'a't' 'a' 't'o' 'h'i's' 'o'w'n' 'u's'e'.' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e'
-'f'u't'u'r'e' 't'i'm'e' 't'o' 'r'e's't'o'r'e' 'i't' 't'o' 'Z'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.'
-'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n'.' '('f')' 'A' 'f'i' 'n'd's' 'a' 'v'a'l'u'a'b'l'e' 'r'i'n'g',' 'n'o't' 'k'n'o'w'i'n'g' 't'o'
-'E'x'p'l'a'n'a't'i'o'n' '2'.' 'A' 'p'e'r's'o'n' 'w'h'o' 'f'i' 'n'd's' 'p'r'o'p'e'r't'y' 'w'h'o'm' 'i't' 'b'e'l'o'n'g's'.' 'A' 's'e'l'l's' 'i't' 'i'm'm'e'd'i'a't'e'l'y'
-'n'o't' 'i'n' 't'h'e' 'p'o's's'e's's'i'o'n' 'o'f' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n',' 'a'n'd' 'w'i't'h'o'u't' 'a't't'e'm'p't'i'n'g' 't'o' 'd'i's'c'o'v'e'r' 't'h'e' 'o'w'n'e'r'.'
-'t'a'k'e's' 's'u'c'h' 'p'r'o'p'e'r't'y' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 'p'r'o't'e'c't'i'n'g' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 't'h'i's'
-'i't' 'f'o'r',' 'o'r' 'o'f' 'r'e's't'o'r'i'n'g' 'i't' 't'o',' 't'h'e' 'o'w'n'e'r',' 'd'o'e's' 'n'o't' 's'e'c't'i'o'n'.'
-'t'a'k'e' 'o'r' 'm'i's'a'p'p'r'o'p'r'i'a't'e' 'i't' 'd'i's'h'o'n'e's't'l'y',' 'a'n'd' 'i's'
-'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n' 'o'f'f'e'n'c'e';' 'b'u't' 'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e' 'E'S'S'E'N'T'I'A'L'S' 'I'N'G'R'E'D'I'E'N'T'S' 'O'F'
-'o'f'f'e'n'c'e' 'a'b'o'v'e' 'd'e'f'i' 'n'e'd',' 'i'f' 'h'e' 'a'p'p'r'o'p'r'i'a't'e's' 'i't' 't'o' 'C'R'I'M'I'N'A'L' 'M'I'S'A'P'P'R'O'P'R'I'A'T'I'O'N'
-'h'i's' 'o'w'n' 'u's'e',' 'w'h'e'n' 'h'e' 'k'n'o'w's' 'o'r' 'h'a's' 't'h'e' 'm'e'a'n's'
-'T'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'c'o'n's'i's't's'
-'o'f' 'd'i's'c'o'v'e'r'i'n'g' 't'h'e' 'o'w'n'e'r',' 'o'r' 'b'e'f'o'r'e' 'h'e' 'h'a's' 'u's'e'd'
-'i'n' 'd'i's'h'o'n'e's't' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'o'r' 'c'o'n'v'e'r's'i'o'n' 't'o'
-'r'e'a's'o'n'a'b'l'e' 'm'e'a'n's' 't'o' 'd'i's'c'o'v'e'r' 'a'n'd' 'g'i'v'e' 'n'o't'i'c'e' 't'o'
-'h'i's' 'o'w'n' 'u's'e' 'a'n'y' 'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y'.'
-'t'h'e' 'o'w'n'e'r' 'a'n'd' 'h'a's' 'k'e'p't' 't'h'e' 'p'r'o'p'e'r't'y' 'a' 'r'e'a's'o'n'a'b'l'e'
-'I't' 't'a'k'e's' 'p'l'a'c'e' 'w'h'e'n' 't'h'e' 'p'o's's'e's's'i'o'n' 'h'a's' 'b'e'e'n'
-'t'i'm'e' 't'o' 'e'n'a'b'l'e' 't'h'e' 'o'w'n'e'r' 't'o' 'c'l'a'i'm' 'i't'.'
-'i'n'n'o'c'e'n't'l'y' 'c'o'm'e' 'b'y',' 'b'u't' 'w'h'e'r'e',' 'a' 's'u'b's'e'q'u'e'n't'
-'W'h'a't' 'a'r'e' 't'h'e' 'r'e'a's'o'n'a'b'l'e' 'm'e'a'n's' 'o'r' 'w'h'a't' 'i's'
-'c'h'a'n'g'e' 'o'f' 'i'n't'e'n't'i'o'n',' 'o'r' 'f'r'o'm' 't'h'e' 'k'n'o'w'l'e'd'g'e' 'o'f'
-'r'e'a's'o'n'a'b'l'e' 't'i'm'e' 'i'n' 's'u'c'h' 'a' 'c'a's'e' 'i's' 'a' 'q'u'e's't'i'o'n' 'o'f'
-'s'o'm'e' 'n'e'w' 'f'a'c't' 'w'i't'h' 'w'h'i'c'h' 't'h'e' 'p'a'r't'y' 'w'a's' 'n'o't'
-'f'a'c't'.'
-'p'r'e'v'i'o'u's'l'y' 'a'c'q'u'a'i'n't'e'd',' 't'h'e' 'r'e't'a'i'n'i'n'g' 'b'e'c'o'm'e's'
-'I't' 'i's' 'n'o't' 'n'e'c'e's's'a'r'y' 't'h'a't' 't'h'e' 'f'i' 'n'd'e'r' 's'h'o'u'l'd'
-'w'r'o'n'g'f'u'l' 'a'n'd' 'f'r'a'u'd'u'l'e'n't'.'
-'k'n'o'w' 'w'h'o' 'i's' 't'h'e' 'o'w'n'e'r' 'o'f' 't'h'e' 'p'r'o'p'e'r't'y',' 'o'r' 't'h'a't'
-'T'h'e' 't'w'o' 'e's's'e'n't'i'a'l' 'i'n'g'r'e'd'i'e'n't's' 'o'f' 't'h'i's' 's'e'c'-'
-'a'n'y' 'p'a'r't'i'c'u'l'a'r' 'p'e'r's'o'n' 'i's' 't'h'e' 'o'w'n'e'r' 'o'f' 'i't':' 'i't' 'i's' 't'i'o'n' 'a'r'e':'
-'s'u'f'f'i' 'c'i'e'n't' 'i'f',' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'a'p'p'r'o'p'r'i'a't'i'n'g' 'i't',' 'h'e' '('i')' 't'h'e' 'a'c'c'u's'e'd' 'm'i's'a'p'p'r'o'p'r'i'a't'e'd' 'o'r' 'c'o'n'v'e'r't'e'd'
-'d'o'e's' 'n'o't' 'b'e'l'i'e'v'e' 'i't' 't'o' 'b'e' 'h'i's' 'o'w'n' 'p'r'o'p'e'r't'y',' 'o'r' 'i'n' 't'o' 'h'i's' 'o'w'n' 'u's'e' 'a'n'o't'h'e'r'’'s' 'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y','
-'g'o'o'd' 'f'a'i't'h' 'b'e'l'i'e'v'e's' 't'h'a't' 't'h'e' 'r'e'a'l' 'o'w'n'e'r' 'c'a'n'n'o't' 'a'n'd','
-'b'e' 'f'o'u'n'd'.' '('i'i')' 't'h'e' 'a'c'c'u's'e'd' 'd'i'd' 's'o' 'd'i's'h'o'n'e's't'l'y'.'
-'
-'T'o' '‘'m'i's'a'p'p'r'o'p'r'i'a't'e'’' 'm'e'a'n's' '‘'i'm'p'r'o'p'e'r'l'y' 's'u'c'h' 't'r'u's't' 'i's' 't'o' 'b'e' 'd'i's'c'h'a'r'g'e'd',' 'o'r' 'o'f' 'a'n'y' 'l'e'g'a'l'
-'s'e't't'i'n'g' 'a'p'a'r't' 'f'o'r' 'o'n'e'’'s' 'u's'e' 't'o' 't'h'e' 'e'x'c'l'u's'i'o'n' 'o'f' 'c'o'n't'r'a'c't',' 'e'x'p'r'e's's' 'o'r' 'i'm'p'l'i'e'd',' 'w'h'i'c'h' 'h'e' 'h'a's' 'm'a'd'e'
-'t'h'e' 'o'w'n'e'r'’'.' '‘'C'o'n'v'e'r't's'’' 'm'e'a'n's' 'a'p'p'r'o'p'r'i'a't'i'o'n' 'a'n'd' 't'o'u'c'h'i'n'g' 't'h'e' 'd'i's'c'h'a'r'g'e' 'o'f' 's'u'c'h' 't'r'u's't',' 'o'r' 'w'i'l'l'f'u'l'l'y'
-'d'e'a'l'i'n'g' 'w'i't'h' 'p'r'o'p'e'r't'y' 'o'f' 'a'n'o't'h'e'r' 'w'i't'h'o'u't' 'r'i'g'h't' 's'u'f'f'e'r's' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n' 's'o' 't'o' 'd'o' 's'o',' 'c'o'm'm'i't's'
-'a's' 'i'f' 'i't' 'i's' 'h'i's' 'o'w'n' 'p'r'o'p'e'r't'y'.' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' '“'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'”'.'
-'g'u'i'l't'y' 'w'h'e'n' 'h'e' 'm'e'r'e'l'y' 'r'e't'a'i'n's' 'o'r' 'p'o's's'e's's'e's' 's'u'c'h' 'E'x'p'l'a'n'a't'i'o'n' '1'.' 'A' 'p'e'r's'o'n',' 'b'e'i'n'g' 'a'n' 'e'm'p'l'o'y'e'r','
-'p'r'o'p'e'r't'y'.' 'H'e' 'i's' 'g'u'i'l't'y' 'o'n'l'y' 'w'h'e'n' 'h'e' 'a'p'p'r'o'p'r'i'a't'e's' 'w'h'o' 'd'e'd'u'c't's' 't'h'e' 'e'm'p'l'o'y'e'e'’'s' 'c'o'n't'r'i'b'u't'i'o'n' 'f'r'o'm'
-'o'r' 'c'o'n'v'e'r't's' 't'o' 'h'i's' 'o'w'n' 'u's'e' 's'u'c'h' 'p'r'o'p'e'r't'y'.' 'F'u'r'-' 't'h'e' 'w'a'g'e's' 'p'a'y'a'b'l'e' 't'o' 't'h'e' 'e'm'p'l'o'y'e'e' 'f'o'r' 'c'r'e'd'i't'
-'t'h'e'r',' 't'h'e' 'p'r'o'p'e'r't'y' 'm'u's't' 'b'e' 'a' 'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y'.' 't'o' 'a' 'P'r'o'v'i'd'e'n't' 'F'u'n'd' 'o'r' 'F'a'm'i'l'y' 'P'e'n's'i'o'n' 'F'u'n'd'
-'A' 'm'a'n' 'i's' 's'a'i'd' 't'o' 'd'o' 'a' 't'h'i'n'g' '“'d'i's'h'o'n'e's't'l'y'”' 'e's't'a'b'l'i's'h'e'd' 'b'y' 'a'n'y' 'l'a'w' 'f'o'r' 't'h'e' 't'i'm'e' 'b'e'i'n'g' 'i'n'
-'w'h'e'n' 'h'e' 'd'o'e's' 'i't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 'f'o'r'c'e',' 's'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 't'o' 'h'a'v'e' 'b'e'e'n' 'e'n't'r'u's't'e'd'
-'w'r'o'n'g'f'u'l' 'g'a'i'n' 't'o' 'o'n'e' 'p'e'r's'o'n' 'o'r' 'w'r'o'n'g'f'u'l' 'l'o's's' 'w'i't'h' 't'h'e' 'a'm'o'u'n't' 'f'o'r' 't'h'e' 'c'o'n't'r'i'b'u't'i'o'n' 's'o' 'd'e'd'u'c't'e'd'
-'t'o' 'a'n'o't'h'e'r' 'p'e'r's'o'n'.' 'I't' 'f'o'l'l'o'w's' 't'h'a't' 'a' 'm'e'r'e' 'm'i's'a'p'-' 'b'y' 'h'i'm' 'a'n'd' 'i'f' 'h'e' 'm'a'k'e's' 'd'e'f'a'u'l't' 'i'n' 't'h'e' 'p'a'y'm'e'n't' 'o'f'
-'p'r'o'p'r'i'a't'i'o'n' 'o'r' 'c'o'n'v'e'r's'i'o'n' 't'o' 'o'n'e'’'s' 'u's'e' 'i's' 'n'o't' 's'u'f'-' 's'u'c'h' 'c'o'n't'r'i'b'u't'i'o'n' 't'o' 't'h'e' 's'a'i'd' 'F'u'n'd' 'i'n' 'v'i'o'l'a't'i'o'n' 'o'f'
-'f'i' 'c'i'e'n't' 'f'o'r' 't'h'e' 'c'o'm'p'l'e't'i'o'n' 'o'f' 'a'n' 'o'f'f'e'n'c'e',' 'b'u't' 't'h'a't' 't'h'e' 's'a'i'd' 'l'a'w',' 's'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 't'o' 'h'a'v'e' 'd'i's'h'o'n'e's't'l'y'
-'t'h'e' 'e'l'e'm'e'n't' 'o'f' 'd'i's'h'o'n'e's't'y' 'i's' 'e's's'e'n't'i'a'l',' 'a'n'd' 'd'i's'-' 'u's'e'd' 't'h'e' 'a'm'o'u'n't' 'o'f' 't'h'e' 's'a'i'd' 'c'o'n't'r'i'b'u't'i'o'n' 'i'n'
-'h'o'n'e's't'y' 'c'o'm'e's' 'i'n't'o' 'e'x'i's't'e'n'c'e' 'a's' 's'o'o'n' 'a's' 't'h'e'r'e' 'i's' 'v'i'o'l'a't'i'o'n' 'o'f' 'a' 'd'i'r'e'c't'i'o'n' 'o'f' 'l'a'w' 'a's' 'a'f'o'r'e's'a'i'd'.'
-'a'n' 'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g',' 'w'r'o'n'g'f'u'l' 'g'a'i'n' 'o'r' 'l'o's's'.' 'E'x'p'l'a'n'a't'i'o'n' '2'.' 'A' 'p'e'r's'o'n',' 'b'e'i'n'g' 'a'n' 'e'm'p'l'o'y'e'r','
-'W'h'e'r'e' 'a' 'p'e'r's'o'n' 'f'o'u'n'd' 'a' 'p'u'r's'e' 'a'n'd' 'p'u't' 'i't' 'w'h'o' 'd'e'd'u'c't's' 't'h'e' 'e'm'p'l'o'y'e'e'’'s' 'c'o'n't'r'i'b'u't'i'o'n' 'f'r'o'm'
-'i'n' 'h'i's' 'p'o'c'k'e't',' 'b'u't' 'w'a's' 'i'm'm'e'd'i'a't'e'l'y' 'a'f't'e'r'w'a'r'd's' 't'h'e' 'w'a'g'e's' 'p'a'y'a'b'l'e' 't'o' 't'h'e' 'e'm'p'l'o'y'e'e' 'f'o'r' 'c'r'e'd'i't' 't'o'
-'a'r'r'e's't'e'd',' 'h'e' 'w'a's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'-' 't'h'e' 'E'm'p'l'o'y'e'e'’'s' 'S't'a't'e' 'I'n's'u'r'a'n'c'e' 'F'u'n'd' 'h'e'l'd' 'a'n'd'
-'p'r'o'p'r'i'a't'i'o'n' 'f'o'r' 'i't' 'c'o'u'l'd' 'n'o't' 'b'e' 'a's's'u'm'e'd' 't'h'a't' 'b'y' 'a'd'm'i'n'i's't'e'r'e'd' 'b'y' 't'h'e' 'E'm'p'l'o'y'e'e'’'s' 'S't'a't'e' 'I'n's'u'r'a'n'c'e'
-'t'h'e' 'm'e'r'e' 'a'c't' 'o'f' 'p'i'c'k'i'n'g' 'u'p' 't'h'e' 'p'u'r's'e' 'o'r' 'p'u't't'i'n'g' 'i't' 'C'o'r'p'o'r'a't'i'o'n' 'e's't'a'b'l'i's'h'e'd' 'u'n'd'e'r' 't'h'e' 'E'm'p'l'o'y'e'e'’'s'
-'i'n' 'h'i's' 'p'o'c'k'e't' 'h'e' 'i'n't'e'n'd'e'd' 't'o' 'a'p'p'r'o'p'r'i'a't'e' 'i't's' 'c'o'n'-' 'S't'a't'e' 'I'n's'u'r'a'n'c'e' 'A'c't',' '1'9'4'8',' 's'h'a'l'l' 'b'e' 'd'e'e'm'e'd' 't'o'
-'t'e'n't's' 't'o' 'h'i's' 'o'w'n' 'u's'e'.' 'M'e'r'e' 'r'e't'e'n't'i'o'n' 'o'f' 'm'o'n'e'y' 'h'a'v'e' 'b'e'e'n' 'e'n't'r'u's't'e'd' 'w'i't'h' 't'h'e' 'a'm'o'u'n't' 'o'f' 't'h'e'
-'w'o'u'l'd' 'n'o't' 'w'a'r'r'a'n't' 'a' 'c'o'n'v'i'c't'i'o'n' 'u'n'd'e'r' 'S'e'c't'i'o'n' 'c'o'n't'r'i'b'u't'i'o'n' 's'o' 'd'e'd'u'c't'e'd' 'b'y' 'h'i'm' 'a'n'd' 'i'f' 'm'a'k'e's'
-'4'0'3' 'u'n'l'e's's' 't'h'e'r'e' 'i's' 'e'v'i'd'e'n'c'e' 't'h'a't' 't'h'e' 'a'c'c'u's'e'd' 'd'e'f'a'u'l't' 'i'n' 't'h'e' 'p'a'y'm'e'n't' 'o'f' 's'u'c'h' 'c'o'n't'r'i'b'u't'i'o'n' 't'o'
-'u's'e'd' 't'h'e' 'm'o'n'e'y'.' 't'h'e' 's'a'i'd' 'F'u'n'd' 'i'n' 'v'i'o'l'a't'i'o'n' 'o'f' 't'h'e' 's'a'i'd' 'A'c't',' 's'h'a'l'l' 'b'e'
-'M'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'o'r' 'c'o'n'v'e'r's'i'o'n' 'n'e'e'd' 'n'o't' 'd'e'e'm'e'd' 't'o' 'h'a'v'e' 'd'i's'h'o'n'e's't'l'y' 'u's'e'd' 't'h'e' 'a'm'o'u'n't' 'o'f'
-'b'e' 'p'e'r'm'a'n'e'n't',' 'i't' 'm'a'y' 'b'e' 'f'o'r' 'a' 't'i'm'e'.' 'T'h'e' 'a'c'c'u's'e'd',' 't'h'e' 's'a'i'd' 'c'o'n't'r'i'b'u't'i'o'n' 'i'n' 'v'i'o'l'a't'i'o'n' 'o'f' 'a' 'd'e'd'u'c't'i'o'n'
-'a' 'g'o'v'e'r'n'm'e'n't' 's'e'r'v'a'n't',' 'o'n' 'd'u't'y' 'r'e'c'e'i'v'e'd' 'c'e'r't'a'i'n' 'o'f' 'l'a'w' 'a's' 'a'f'o'r'e's'a'i'd'.'
-'m'o'n'e'y' 'i'n' 'h'i's' 'p'o's's'e's's'i'o'n' 'f'o'r' 's'e'v'e'r'a'l' 'm'o'n't'h's','
-'I'l'l'u's't'r'a't'i'o'n's'
-'b'u't' 'f'e'a'r'i'n'g' 'd'e't'e'c't'i'o'n',' 'h'a'd' 'p'a'i'd' 't'h'e'm' 'i'n't'o' 't'h'e'
-'t'r'e'a's'u'r'y',' 'm'a'k'i'n'g' 'a' 'f'a'l's'e' 'e'n't'r'y' 'a't' 't'h'e' 't'i'm'e' 'i'n' 'h'i's' '('a')' 'A',' 'b'e'i'n'g' 'e'x'e'c'u't'o'r' 't'o' 't'h'e' 'w'i'l'l' 'o'f' 'a' 'd'e'c'e'a's'e'd'
-'p'e'r's'o'n',' 'd'i's'h'o'n'e's't'l'y' 'd'i's'o'b'e'y's' 't'h'e' 'l'a'w'
-'b'o'o'k's'.' 'H'e' 'w'a's' 'h'e'l'd' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'-'
-'w'h'i'c'h' 'd'i'r'e'c't's' 'h'i'm' 't'o' 'd'i'v'i'd'e' 't'h'e' 'e'f'f'e'c't's' 'a'c'-'
-'p'r'i'a't'i'o'n'.' 'S'i'm'i'l'a'r' 'w'o'u'l'd' 'b'e' 't'h'e' 'c'a's'e' 'w'h'e'r'e' 'a' 's'e'r'-'
-'c'o'r'd'i'n'g' 't'o' 't'h'e' 'w'i'l'l' 'a'n'd' 'a'p'p'r'o'p'r'i'a't'e's' 't'h'e'm'
-'v'a'n't',' 'a'u't'h'o'r'i'z'e'd' 't'o' 'c'o'l'l'e'c't' 'm'o'n'e'y' 'o'n' 'b'e'h'a'l'f' 'o'f'
-'t'o' 'h'i's' 'o'w'n' 'u's'e'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l'
-'h'i's' 'm'a's't'e'r',' 'r'e't'a'i'n'e'd' 'm'o'n'e'y' 'o'n' 'a'c'c'o'u'n't' 'o'f' 'n'o'n'-'
-'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'p'a'y'm'e'n't' 'o'f' 'w'a'g'e's' 'b'y' 'h'i's' 'm'a's't'e'r'.'
-'('b')' 'A' 'i's' 'a' 'w'a'r'e'h'o'u's'e'-'k'e'e'p'e'r'.' 'Z',' 'g'o'i'n'g' 'o'n' 'a'
-'T'h'e' 'a'c'c'u's'e'd' 'w'o'u'l'd' 'n'o't' 'b'e' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'-'
-'j'o'u'r'n'e'y',' 'e'n't'r'u's't' 'h'i's' 'f'u'r'n'i't'u'r'e' 't'o' 'A',' 'u'n'd'e'r'
-'f'e'n'c'e',' 'w'h'e'r'e' 't'h'e'r'e' 'w'a's' 'n'o' 'i'n'f'o'r'm'a't'i'o'n' 'a's' 't'o' 't'h'e'
-'a' 'c'o'n't'r'a'c't' 't'h'a't' 'i't' 's'h'a'l'l' 'b'e' 'r'e't'u'r'n'e'd' 'o'n' 'p'a'y'-'
-'c'i'r'c'u'm's't'a'n'c'e's' 'u'n'd'e'r' 'w'h'i'c'h' 't'h'e' 't'h'i'n'g's' 'w'e'r'e' 'l'o's't'
-'m'e'n't' 'o'f' 'a' 's't'i'p'u'l'a't'e'd' 's'u'm' 'f'o'r' 'w'a'r'e'h'o'u's'e'-'
-'a'n'd' 't'h'e' 'p'r'o'b'a'b'i'l'i't'y' 'w'a's' 't'h'a't' 'p'r'o'p'e'r't'y' 'w'a's' 'a'b'a'n'-'
-'r'o'o'm'.' 'A' 'd'i's'h'o'n'e's't'l'y' 's'e'l'l's' 't'h'e' 'g'o'o'd's'.' 'A' 'h'a's'
-'d'o'n'e'd' 'b'y' 't'h'e' 'o'r'i'g'i'n'a'l'
-'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'('c')' 'A',' 'r'e's'i'd'i'n'g' 'i'n' 'C'a'l'c'u't't'a',' 'i's' 'a'g'e'n't' 'f'o'r' 'Z','
-'C'R'I'M'I'N'A'L' 'B'R'E'A'C'H' 'O'F' 'T'R'U'S'T'
-'r'e's'i'd'i'n'g' 'a't' 'D'e'l'h'i'.' 'T'h'e'r'e' 'i's' 'a'n' 'e'x'p'r'e's's' 'o'r'
-'i'm'p'l'i'e'd' 'c'o'n't'r'a'c't' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'Z' 't'h'a't' 'a'l'l'
-'S'e'c't'i'o'n' '4'0'5'.' 'C'r'i'm'i'n'a'l' 'B'r'e'a'c'h' 'o'f' 'T'r'u's't'
-'s'u'm's' 'r'e'm'i't't'e'd' 'b'y' 'Z' 't'o' 'A' 's'h'a'l'l' 'b'e' 'i'n'v'e's't'e'd'
-'W'h'o'e'v'e'r',' 'b'e'i'n'g' 'i'n' 'a'n'y' 'm'a'n'n'e'r' 'e'n't'r'u's't'e'd' 'w'i't'h' 'b'y' 'A',' 'a'c'c'o'r'd'i'n'g' 't'o' 'Z'’'s' 'd'i'r'e'c't'i'o'n'.' 'Z' 'r'e'm'i't's'
-'p'r'o'p'e'r't'y',' 'o'r' 'w'i't'h' 'a'n'y' 'd'o'm'i'n'i'o'n' 'o'v'e'r' 'p'r'o'p'e'r't'y',' 'a' 'l'a'k'h' 'o'f' 'r'u'p'e'e's' 't'o' 'A',' 'w'i't'h' 'd'i'r'e'c't'i'o'n's' 't'o'
-'d'i's'h'o'n'e's't'l'y' 'm'i's'a'p'p'r'o'p'r'i'a't'e's' 'o'r' 'c'o'n'v'e'r't's' 't'o' 'h'i's' 'A' 't'o' 'i'n'v'e's't' 't'h'e' 's'a'm'e' 'i'n' 'C'o'm'p'a'n'y'’'s' 'p'a'p'e'r'.'
-'o'w'n' 'u's'e' 't'h'a't' 'p'r'o'p'e'r't'y',' 'o'r' 'd'i's'h'o'n'e's't'l'y' 'u's'e's' 'o'r' 'A' 'd'i's'h'o'n'e's't'l'y' 'd'i's'o'b'e'y's' 't'h'e' 'd'i'r'e'c't'i'o'n's' 'a'n'd'
-'d'i's'p'o's'e's' 'o'f' 't'h'a't' 'p'r'o'p'e'r't'y' 'i'n' 'v'i'o'l'a't'i'o'n' 'o'f' 'a'n'y' 'e'm'p'l'o'y's' 't'h'e' 'm'o'n'e'y' 'i'n' 'h'i's' 'o'w'n' 'b'u's'i'n'e's's'.' 'A'
-'d'i'r'e'c't'i'o'n' 'o'f' 'l'a'w' 'p'r'e's'c'r'i'b'i'n'g' 't'h'e' 'm'o'd'e' 'i'n' 'w'h'i'c'h' 'h'a's' 'c'o'm'm'i't't'e'd' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '4'3'
-'('d')' 'B'u't' 'i'f' 'A',' 'i'n' 't'h'e' 'l'a's't' 'i'l'l'u's't'r'a't'i'o'n',' 'n'o't' 'd'i's'-' 'a'r't'i'c'l'e',' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'c'e'i'v'e's' 'Z' 'i'n't'o' 'b'e'-'
-'h'o'n'e's't'l'y' 'b'u't' 'i'n' 'g'o'o'd' 'f'a'i't'h',' 'b'e'l'i'e'v'i'n'g' 't'h'a't' 'l'i'e'v'i'n'g' 't'h'a't' 't'h'e' 'a'r't'i'c'l'e' 'c'o'r'r'e's'p'o'n'd's' 'w'i't'h'
-'i't' 'w'i'l'l' 'b'e' 'm'o'r'e' 'f'o'r' 'Z'’'s' 'a'd'v'a'n't'a'g'e' 't'o' 'h'o'l'd' 't'h'e' 's'a'm'p'l'e',' 'a'n'd' 't'h'e'r'e'b'y' 'd'i's'h'o'n'e's't'l'y' 'i'n'-'
-'s'h'a'r'e's' 'i'n' 't'h'e' 'B'a'n'k' 'o'f' 'B'e'n'g'a'l',' 'd'i's'o'b'e'y's' 'Z'’'s' 'd'u'c'e's' 'Z' 't'o' 'b'u'y' 'a'n'd' 'p'a'y' 'f'o'r' 't'h'e' 'a'r't'i'c'l'e'.' 'A'
-'d'i'r'e'c't'i'o'n's',' 'a'n'd' 'b'u'y's' 's'h'a'r'e's' 'i'n' 't'h'e' 'B'a'n'k' 'o'f' 'c'h'e'a't's'.'
-'B'e'n'g'a'l',' 'f'o'r' 'Z',' 'i'n's't'e'a'd' 'o'f' 'b'u'y'i'n'g' 'C'o'm'p'a'-' '('d')' 'A',' 'b'y' 't'e'n'd'e'r'i'n'g' 'i'n' 'p'a'y'm'e'n't' 'f'o'r' 'a'n' 'a'r't'i'c'l'e'
-'n'y'’'s' 'p'a'p'e'r',' 'h'e'r'e',' 't'h'o'u'g'h' 'Z' 's'h'o'u'l'd' 's'u'f'f'e'r' 'a' 'b'i'l'l' 'o'n' 'a' 'h'o'u's'e' 'w'i't'h' 'w'h'i'c'h' 'A' 'k'e'e'p's' 'n'o'
-'l'o's's',' 'a'n'd' 's'h'o'u'l'd' 'b'e' 'e'n't'i't'l'e'd' 't'o' 'b'r'i'n'g' 'a' 'c'i'v'i'l' 'm'o'n'e'y',' 'a'n'd' 'b'y' 'w'h'i'c'h' 'A' 'e'x'p'e'c't's' 't'h'a't' 't'h'e'
-'a'c't'i'o'n' 'a'g'a'i'n's't' 'A',' 'o'n' 'a'c'c'o'u'n't' 'o'f' 't'h'a't' 'l'o's's',' 'b'i'l'l' 'w'i'l'l' 'b'e' 'd'i's'h'o'n'o'u'r'e'd',' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'-'
-'y'e't' 'A',' 'n'o't' 'h'a'v'i'n'g' 'a'c't'e'd' 'd'i's'h'o'n'e's't'l'y',' 'h'a's' 'c'e'i'v'e's' 'Z',' 'a'n'd' 't'h'e'r'e'b'y' 'd'i's'h'o'n'e's't'l'y' 'i'n'd'u'c'e's'
-'n'o't' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.' 'Z' 't'o' 'd'e'l'i'v'e'r' 't'h'e' 'a'r't'i'c'l'e',' 'i'n't'e'n'd'i'n'g' 'n'o't' 't'o'
-'('e')' 'A',' 'a' 'r'e'v'e'n'u'e'-'o'f'f'i' 'c'e'r',' 'i's' 'e'n't'r'u's't'e'd' 'w'i't'h' 'p'u'b'-' 'p'a'y' 'f'o'r' 'i't'.' 'A' 'c'h'e'a't's'.'
-'l'i'c' 'm'o'n'e'y' 'a'n'd' 'i's' 'e'i't'h'e'r' 'd'i'r'e'c't'e'd' 'b'y' 'l'a'w',' 'o'r' '('e')' 'A',' 'b'y' 'p'l'e'a'd'i'n'g' 'a's' 'd'i'a'm'o'n'd's' 'a'r't'i'c'l'e's' 'w'h'i'c'h'
-'b'o'u'n'd' 'b'y' 'a' 'c'o'n't'r'a'c't',' 'e'x'p'r'e's's' 'o'r' 'i'm'p'l'i'e'd',' 'h'e' 'k'n'o'w's' 'a'r'e' 'n'o't' 'd'i'a'm'o'n'd's',' 'i'n't'e'n't'i'o'n'a'l'l'y'
-'w'i't'h' 't'h'e' 'G'o'v'e'r'n'm'e'n't',' 't'o' 'p'a'y' 'i'n't'o' 'a' 'c'e'r'-' 'd'e'c'e'i'v'e's' 'Z',' 'a'n'd' 't'h'e'r'e'b'y' 'd'i's'h'o'n'e's't'l'y' 'i'n'-'
-'t'a'i'n' 't'r'e'a's'u'r'y' 'a'l'l' 't'h'e' 'p'u'b'l'i'c' 'm'o'n'e'y' 'w'h'i'c'h' 'd'u'c'e's' 'Z' 't'o' 'l'e'n'd' 'm'o'n'e'y'.' 'A' 'c'h'e'a't's'.'
-'h'e' 'h'o'l'd's'.' 'A' 'd'i's'h'o'n'e's't'l'y' 'a'p'p'r'o'p'r'i'a't'e's' 't'h'e' '('f')' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'c'e'i'v'e's' 'Z' 'i'n't'o' 'a' 'b'e'l'i'e'f'
-'m'o'n'e'y'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 't'h'a't' 'A' 'm'e'a'n's' 't'o' 'r'e'p'a'y' 'a'n'y' 'm'o'n'e'y' 't'h'a't' 'Z'
-'o'f' 't'r'u's't'.' 'm'a'y' 'l'e'n'd' 't'o' 'h'i'm' 'a'n'd' 't'h'e'r'e'b'y',' 'd'i's'h'o'n'e's't'l'y'
-'('f')' 'A',' 'a' 'c'a'r'r'i'e'r',' 'i's' 'e'n't'r'u's't'e'd' 'b'y' 'Z' 'w'i't'h' 'p'r'o'p'-' 'i'n'd'u'c'e's' 'Z' 't'o' 'l'e'n'd' 'h'i'm' 'm'o'n'e'y',' 'A' 'n'o't' 'i'n'-'
-'e'r't'y' 't'o' 'b'e' 'c'a'r'r'i'e'd' 'b'y' 'l'a'n'd' 'o'r' 'b'y' 'w'a't'e'r'.' 'A' 't'e'n'd'i'n'g' 't'o' 'r'e'p'a'y' 'i't'.' 'A' 'c'h'e'a't's'.'
-'d'i's'h'o'n'e's't'l'y' 'm'i's'a'p'p'r'o'p'r'i'a't'e's' 't'h'e' 'p'r'o'p'e'r't'y'.' '('g')' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'c'e'i'v'e's' 'Z' 'i'n't'o' 'a' 'b'e'l'i'e'f'
-'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.' 't'h'a't' 'A' 'm'e'a'n's' 't'o' 'd'e'l'i'v'e'r' 't'o' 'Z' 'a' 'c'e'r't'a'i'n'
-'q'u'a'n't'i't'y' 'o'f' 'i'n'd'i'g'o' 'p'l'a'n't' 'w'h'i'c'h' 'h'e' 'd'o'e's' 'n'o't'
-'C'H'E'A'T'I'N'G' 'i'n't'e'n'd' 't'o' 'd'e'l'i'v'e'r',' 'a'n'd' 't'h'e'r'e'b'y' 'd'i's'h'o'n'e's't'l'y'
-'i'n'd'u'c'e's' 'Z' 't'o' 'a'd'v'a'n'c'e' 'm'o'n'e'y' 'u'p'o'n' 't'h'e'
-'S'e'c't'i'o'n' '4'1'5':' 'C'h'e'a't'i'n'g' 'f'a'i't'h' 'o'f' 's'u'c'h' 'd'e'l'i'v'e'r'y'.' 'A' 'c'h'e'a't's';' 'b'u't' 'i'f' 'A','
-'a't' 't'h'e' 't'i'm'e' 'o'f' 'o'b't'a'i'n'i'n'g' 't'h'e' 'm'o'n'e'y',' 'i'n't'e'n'd's'
-'W'h'o'e'v'e'r',' 'b'y' 'd'e'c'e'i'v'i'n'g' 'a'n'y' 'p'e'r's'o'n',' 'f'r'a'u'd'u'l'e'n't'l'y'
-'t'o' 'd'e'l'i'v'e'r' 't'h'e' 'i'n'd'i'g'o' 'p'l'a'n't',' 'a'n'd' 'a'f't'e'r'w'a'r'd's'
-'o'r' 'd'i's'h'o'n'e's't'l'y' 'i'n'd'u'c'e's' 't'h'e' 'p'e'r's'o'n' 's'o' 'd'e'c'e'i'v'e'd' 't'o'
-'b'r'e'a'k's' 'h'i's' 'c'o'n't'r'a'c't' 'a'n'd' 'd'o'e's' 'n'o't' 'd'e'l'i'v'e'r' 'i't','
-'d'e'l'i'v'e'r' 'a'n'y' 'p'r'o'p'e'r't'y' 't'o' 'a'n'y' 'p'e'r's'o'n',' 'o'r' 't'o' 'c'o'n's'e'n't'
-'h'e' 'd'o'e's' 'n'o't' 'c'h'e'a't',' 'b'u't' 'i's' 'l'i'a'b'l'e' 'o'n'l'y' 't'o' 'a'
-'t'h'a't' 'a'n'y' 'p'e'r's'o'n' 's'h'a'l'l' 'r'e't'a'i'n' 'a'n'y' 'p'r'o'p'e'r't'y',' 'o'r'
-'c'i'v'i'l' 'a'c't'i'o'n' 'f'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.'
-'i'n't'e'n't'i'o'n'a'l'l'y' 'i'n'd'u'c'e's' 't'h'e' 'p'e'r's'o'n' 's'o' 'd'e'c'e'i'v'e'd' 't'o'
-'('h')' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'c'e'i'v'e's' 'Z' 'i'n't'o' 'a' 'b'e'l'i'e'f'
-'d'o' 'o'r' 'o'm'i't' 't'o' 'd'o' 'a'n'y't'h'i'n'g' 'w'h'i'c'h' 'h'e' 'w'o'u'l'd' 'n'o't' 'd'o'
-'t'h'a't' 'A' 'h'a's' 'p'e'r'f'o'r'm'e'd' 'A'’'s' 'p'a'r't' 'o'f' 'a' 'c'o'n't'r'a'c't'
-'o'r' 'o'm'i't' 'i'f' 'h'e' 'w'e'r'e' 'n'o't' 's'o' 'd'e'c'e'i'v'e'd',' 'a'n'd' 'w'h'i'c'h' 'a'c't'
-'m'a'd'e' 'w'i't'h' 'Z',' 'w'h'i'c'h' 'h'e' 'h'a's' 'n'o't' 'p'e'r'f'o'r'm'e'd','
-'o'r' 'o'm'i's's'i'o'n' 'c'a'u's'e's' 'o'r' 'i's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'd'a'm'a'g'e'
-'a'n'd' 't'h'e'r'e'b'y' 'd'i's'h'o'n'e's't'l'y' 'i'n'c'l'u'd'e's' 'Z' 't'o' 'p'a'y'
-'o'r' 'h'a'r'm' 't'o' 't'h'a't' 'p'e'r's'o'n' 'i'n' 'b'o'd'y',' 'm'i'n'd',' 'r'e'p'u't'a't'i'o'n'
-'m'o'n'e'y'.' 'A' 'c'h'e'a't's'.'
-'o'r' 'p'r'o'p'e'r't'y',' 'i's' 's'a'i'd' 't'o' '“'c'h'e'a't'”'.'
-'('i')' 'A' 's'e'l'l's' 'a'n'd' 'c'o'n'v'e'y's' 'a'n' 'e's't'a't'e' 't'o' 'B'.' 'A','
-'E'x'p'l'a'n'a't'i'o'n'.' 'A' 'd'i's'h'o'n'e's't' 'c'o'n'c'e'a'l'm'e'n't' 'o'f'
-'k'n'o'w'i'n'g' 't'h'a't' 'i'n' 'c'o'n's'e'q'u'e'n'c'e' 'o'f' 's'u'c'h' 's'a'l'e'
-'f'a'c't's' 'i's' 'a' 'd'e'c'e'p't'i'o'n' 'w'i't'h'i'n' 't'h'e' 'm'e'a'n'i'n'g' 'o'f' 't'h'i's'
-'h'e' 'h'a's' 'n'o' 'r'i'g'h't' 't'o' 't'h'e' 'p'r'o'p'e'r't'y',' 's'e'l'l's' 'o'r'
-'s'e'c't'i'o'n'.'
-'m'o'r't'g'a'g'e's' 't'h'e' 's'a'm'e' 't'o' 'Z',' 'w'i't'h'o'u't' 'd'i's'c'l'o's'-'
-'I'l'l'u's't'r'a't'i'o'n's' 'i'n'g' 't'h'e' 'f'a'c't' 'o'f' 't'h'e' 'p'r'e'v'i'o'u's' 's'a'l'e' 'a'n'd' 'c'o'n'-'
-'v'e'y'a'n'c'e' 't'o' 'B',' 'a'n'd' 'r'e'c'e'i'v'e's' 't'h'e' 'p'u'r'c'h'a's'e' 'o'r'
-'('a')' 'A',' 'b'y' 'f'a'l's'e'l'y' 'p'r'e't'e'n'd'i'n'g' 't'o' 'b'e' 'i'n' 't'h'e' 'C'i'v'i'l'
-'m'o'r't'g'a'g'e' 'm'o'n'e'y' 'f'r'o'm' 'Z'.' 'A' 'c'h'e'a't's'.'
-'S'e'r'v'i'c'e',' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'c'e'i'v'e's' 'Z',' 'a'n'd' 't'h'u's'
-'d'i's'h'o'n'e's't'l'y' 'i'n'd'u'c'e's' 'Z' 't'o' 'l'e't' 'h'i'm' 'h'a'v'e' 'o'n' 'S'e'c't'i'o'n' '4'1'6':' 'C'h'e'a't'i'n'g' 'b'y' 'P'e'r's'o'n'a't'i'o'n'
-'c'r'e'd'i't' 'g'o'o'd's' 'f'o'r' 'w'h'i'c'h' 'h'e' 'd'o'e's' 'n'o't' 'm'e'a'n' 'A' 'p'e'r's'o'n' 'i's' 's'a'i'd' 't'o' '“'c'h'e'a't' 'b'y' 'p'e'r's'o'n'a't'i'o'n'”' 'i'f' 'h'e'
-'t'o' 'p'a'y'.' 'A' 'c'h'e'a't's'.' 'c'h'e'a't's' 'b'y' 'p'r'e't'e'n'd'i'n'g' 't'o' 'b'e' 's'o'm'e' 'o't'h'e'r' 'p'e'r's'o'n','
-'('b')' 'A',' 'b'y' 'p'u't't'i'n'g' 'a' 'c'o'u'n't'e'r'f'e'i't' 'm'a'r'k' 'o'n' 'a'n' 'a'r'-' 'o'r' 'b'y' 'k'n'o'w'i'n'g'l'y' 's'u'b's't'i't'u't'i'n'g' 'o'n'e' 'p'e'r's'o'n' 'f'o'r'
-'t'i'c'l'e',' 'i'n't'e'n't'i'o'n'a'l'l'y' 'd'e'c'e'i'v'e's' 'Z' 'i'n't'o' 'a' 'b'e'l'i'e'f' 'a'n'o't'h'e'r',' 'r'e'p'r'e's'e'n't'i'n'g' 't'h'a't' 'h'e' 'o'r' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n'
-'t'h'a't' 'h'i's' 'a'r't'i'c'l'e' 'w'a's' 'm'a'd'e' 'b'y' 'a' 'c'e'r't'a'i'n' 'c'e'l'e'-' 'i's' 'a' 'p'e'r's'o'n' 'o't'h'e'r' 't'h'a'n' 'h'e' 'o'r' 's'u'c'h' 'o't'h'e'r' 'p'e'r's'o'n'
-'b'r'a't'e'd' 'm'a'n'u'f'a'c't'u'r'e'r',' 'a'n'd' 't'h'u's' 'd'i's'h'o'n'e's't'l'y' 'r'e'a'l'l'y' 'i's'.'
-'i'n'd'u'c'e's' 'Z' 't'o' 'b'u'y' 'a'n'd' 'p'a'y' 'f'o'r' 't'h'e' 'a'r't'i'c'l'e'.' 'A' 'E'x'p'l'a'n'a't'i'o'n'.' 'T'h'e' 'o'f'f'e'n'c'e' 'i's' 'c'o'm'm'i't't'e'd' 'w'h'e't'h'e'r'
-'c'h'e'a't's'.' 't'h'e' 'i'n'd'i'v'i'd'u'a'l' 'p'e'r's'o'n'a't'e'd' 'i's' 'a' 'r'e'a'l' 'o'r' 'i'm'a'g'i'n'a'r'y'
-'('c')' 'A',' 'b'y' 'e'x'h'i'b'i't'i'n'g' 't'o' 'Z' 'a' 'f'a'l's'e' 's'a'm'p'l'e' 'o'f' 'a'n' 'p'e'r's'o'n'.'
-'
-'I'l'l'u's't'r'a't'i'o'n's' 'w'h'e'r'e'b'y' 't'h'e' 'd'e'c'e'i'v'e'd' 'p'e'r's'o'n' 'i's' 'd'i's'h'o'n'e's't'l'y'
-'i'n'd'u'c'e'd':'
-'('a')' 'A' 'c'h'e'a't's' 'b'y' 'p'r'e't'e'n'd'i'n'g' 't'o' 'b'e' 'a' 'c'e'r't'a'i'n' 'r'i'c'h'
-'1'.' 't'o' 'd'e'l'i'v'e'r' 'a'n'y' 'p'r'o'p'e'r't'y'
-'b'a'n'k'e'r' 'o'f' 't'h'e' 's'a'm'e' 'n'a'm'e'.' 'A' 'c'h'e'a't's' 'b'y'
-'2'.' 't'o' 'm'a'k'e',' 'a'l't'e'r' 'o'r' 'd'e's't'r'o'y'
-'p'e'r's'o'n'a't'i'o'n'.'
-'('a')' 't'h'e' 'w'h'o'l'e' 'o'r' 'a'n'y' 'p'a'r't' 'o'f' 'a' 'v'a'l'u'a'b'l'e'
-'('b')' 'A' 'c'h'e'a't's' 'b'y' 'p'r'e't'e'n'd'i'n'g' 't'o' 'b'e' 'B',' 'a' 'p'e'r's'o'n'
-'s'e'c'u'r'i't'y',' 'o'r','
-'w'h'o' 'i's' 'd'e'c'e'a's'e'd'.' 'A' 'c'h'e'a't's' 'b'y' 'p'e'r's'o'n'a't'i'o'n'.'
-'('b')' 'a'n'y't'h'i'n'g' 'w'h'i'c'h' 'i's' 's'i'g'n'e'd' 'o'r' 's'e'a'l'e'd' 'a'n'd'
-'U'n'd'e'r' 't'h'i's' 's'e'c't'i'o'n',' 'a' 'p'e'r's'o'n' 'c'o'm'm'i't's' 'c'h'e'a't'-'
-'w'h'i'c'h' 'i's' 'c'a'p'a'b'l'e' 'o'f' 'b'e'i'n'g' 'c'o'n'v'e'r't'e'd'
-'i'n'g' 'w'h'e'n' 'h'e' 'p'r'e't'e'n'd's' 't'o' 'b'e' 's'o'm'e' 'o't'h'e'r' 'p'e'r's'o'n','
-'i'n't'o' 'a' 'v'a'l'u'a'b'l'e' 's'e'c'u'r'i't'y'.'
-'r'e'a'l' 'o'r' 'i'm'a'g'i'n'a'r'y' 'e'.'g'.',' 'f'a'l's'e' 'r'e'p'r'e's'e'n't'a't'i'o'n' 'a's' 't'o'
-'T'h'e' 'd'i'f'f'e'r'e'n'c'e' 'b'e't'w'e'e'n' 'S'e'c't'i'o'n' '4'1'5' 'a'n'd'
-'c'a's't'e',' 'm'a'r'i't'a'l' 's't'a't'u's',' 'e'c'o'n'o'm'i'c' 's't'a't'u's',' 'v'o't'e'r' 'i'n'
-'S'e'c't'i'o'n' '4'2'0' 'i's' 't'h'a't' 'w'h'e'r'e' 'i'n' 'p'u'r's'u'a'n'c'e' 'o'f' 't'h'e'
-'a'n' 'e'l'e'c't'i'o'n',' 'e't'c'.' 'T'h'e' 'p'e'r's'o'n' 'm'a'y' 'p'r'e't'e'n'd' 's'o' 'b'y'
-'d'e'c'e'p't'i'o'n',' 'n'o' 'p'r'o'p'e'r't'y' 'p'a's's'e's' 'b'u't' 'i'n'd'u'c'e'm'e'n't'
-'w'o'r'd',' 'a'c't',' 's'i'g'n',' 'o'r' 'd'r'e's's'.' 'T'h'e' 'o'f'f'e'n'c'e' 'i's' 'c'o'm'm'i't'-'
-'g'e'n'e'r'a't'e'd' 'i'n' 't'h'e' 'm'i'n'd',' 't'h'e' 'o'f'f'e'n'c'e' 'c'o'm'e's' 'u'n'd'e'r'
-'t'e'd' 'p'r'o'v'i'd'e'd' 's'o'm'e' 'g'a'i'n' 'h'a's' 'a'c'c'r'u'e'd' 'o'r' 's'o'm'e' 'l'o's's'
-'S'e'c't'i'o'n' '4'1'5' '('S'i'm'p'l'e' 'c'h'e'a't'i'n'g')'.' 'B'u't' 'w'h'e'r'e',' 'i'n'
-'i's' 'i'n'c'u'r'r'e'd' 'b'y' 'e'i't'h'e'r' 'p'a'r't'y'.'
-'p'u'r's'u'a'n'c'e' 'o'f' 't'h'e' 'd'e'c'e'p't'i'o'n' 'p'r'o'p'e'r't'y' 'i's' 'd'e'l'i'v'e'r'e'd','
-'W'h'e'r'e' 't'h'e' 'a'c'c'u's'e'd' 'r'e'p'r'e's'e'n't'i'n'g' 'h'i'm's'e'l'f'
-'t'h'e' 'o'f'f'e'n'c'e' 'i's' 'p'u'n'i's'h'a'b'l'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'2'0'.'
-'t'o' 'b'e' 'B' 'a't' 'a' 'U'n'i'v'e'r's'i't'y' 'e'x'a'm'i'n'a't'i'o'n',' 'g'o't' 'a' 'h'a'l'l'-'
-'S'e'c't'i'o'n' '4'1'5' 'd'e'a'l's' 'w'i't'h' 'c'h'e'a't'i'n'g',' 'b'u't' 'S'e'c't'i'o'n'
-'t'i'c'k'e't' 'u'n'd'e'r' 't'h'e' 'e'x'a'm'i'n'e'e'’'s' 'n'a'm'e' 'a'n'd' 'w'r'o't'e' 'p'a'-'
-'4'2'0' 'd'e'a'l's' 'w'i't'h' 't'h'a't' 's'p'e'c'i'e's' 'o'f' 'c'h'e'a't'i'n'g' 'w'h'i'c'h'
-'p'e'r's' 'i'n' 'B'’'s' 'n'a'm'e',' 'i't' 'w'a's' 'h'e'l'd' 't'h'a't' 't'h'e' 'a'c'c'u's'e'd'
-'i'n'v'o'l'v'e's' 'd'e'l'i'v'e'r'y' 'o'f' 'p'r'o'p'e'r't'y' 'o'r' 'd'e's't'r'u'c't'i'o'n' 'o'f'
-'h'a'd' 'c'o'm'm'i't't'e'd' 'c'h'e'a't'i'n'g' 'b'y' 'p'e'r's'o'n'a't'i'o'n' 'a'n'd' 't'h'e'
-'v'a'l'u'a'b'l'e' 's'e'c'u'r'i't'y'.' 'P'u'n'i's'h'm'e'n't' 'f'o'r' 'o'f'f'e'n'c'e' 'u'n'd'e'r'
-'o'f'f'e'n'c'e' 'o'f' 'f'o'r'g'e'r'y'.' 'W'h'e'r'e' 'A' 'p'e'r's'o'n'a't'e'd' 'a's' 'B' 'a't'
-'S'e'c't'i'o'n' '4'1'5' 'i's' 'o'n'e' 'y'e'a'r' '('S'e'c't'i'o'n' '4'1'7')',' 'w'h'i'l'e' 'u'n'-'
-'t'h'e' 'e'x'a'm'i'n'a't'i'o'n',' 'p'a's's'e'd' 'i't' 'a'n'd' 'o'b't'a'i'n'e'd' 't'h'e' 'c'e'r'-'
-'d'e'r' 'S'e'c't'i'o'n' '4'2'0',' 'u'p' 't'o' '7' 'y'e'a'r's'’' 'i'm'p'r'i's'o'n'm'e'n't'.'
-'t'i'f'i' 'c'a't'e' 'i'n' 'B'’'s' 'n'a'm'e',' 'B' 't'h'e'r'e'u'p'o'n' 'a'p'p'l'i'e'd' 't'o' 'h'a'v'e'
-'I'n' 'e'v'e'r'y' 'c'a's'e' 'w'h'e'n' 'p'r'o'p'e'r't'y' 'i's' 'd'e'l'i'v'e'r'e'd' 'b'y'
-'h'i's' 'o'w'n' 'n'a'm'e' 'e'n't'e'r'e'd' 'i'n' 't'h'e' 'l'i's't' 'o'f' 'c'a'n'd'i'd'a't'e's'
-'a' 'p'e'r's'o'n' 'c'h'e'a't'e'd',' 't'h'e'r'e' 'm'u's't' 'a'l'w'a'y's' 'b'e' 'a' 's't'a'g'e'
-'f'o'r' 'G'o'v'e'r'n'm'e'n't' 's'e'r'v'i'c'e'.' 'I'n' 't'h'i's' 'c'a's'e',' 'A' 'i's' 'l'i'a'b'l'e'
-'w'h'e'r'e' 't'h'e' 'p'e'r's'o'n' 'm'a'k'e's' 'u'p' 'h'i's' 'm'i'n'd' 't'o' 'g'i'v'e' 't'h'e'
-'f'o'r' 'c'h'e'a't'i'n'g' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'1'6' 'a'n'd' 'B' 'i's' 'l'i'a'b'l'e'
-'p'r'o'p'e'r't'y' 'o'n' 'a'c'c'e'p't'i'n'g' 't'h'e' 'f'a'l's'e' 'r'e'p'r'e's'e'n't'a't'i'o'n'
-'f'o'r' 'a't't'e'm'p't'i'n'g' 't'o' 'c'h'e'a't' 'b'e'c'a'u's'e' 'h'e' 'h'a's' 'a'p'p'l'i'e'd' 'm'a'd'e' 't'o' 'h'i'm'.' 'I't' 'c'a'n'n'o't' 'b'e' 's'a'i'd' 't'h'a't' 'i'n' 's'u'c'h' 'c'a's'e's'
-'f'o'r' 'e'n't'e'r'i'n'g' 'h'i's' 'n'a'm'e' 'i'n' 't'h'e' 'l'i's't' 'o'f' 'c'a'n'd'i'd'a't'e's'.' 't'h'e' 'o'f'f'e'n'd'e'r' 'c'a'n' 'o'n'l'y' 'b'e' 't'r'i'e'd' 'f'o'r' 't'h'e' 's'i'm'p'l'e' 'o'f'-'
-'S'e'c'u'r'i'n'g' 'a'p'p'o'i'n't'm'e'n't's' 'f'r'o'm' 'G'o'v'e'r'n'm'e'n't' 'f'e'n'c'e' 'o'f' 'c'h'e'a't'i'n'g' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'1'7' 'a'n'd' 'c'a'n'n'o't'
-'o'f'f'i' 'c'i'a'l's' 'b'y' 'p'r'o'd'u'c'i'n'g' 'f'a'k'e' 'l'e't't'e'r's' 'f'r'o'm' 'M'i'n'i's'-' 'b'e' 't'r'i'e'd' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'2'0' 'b'e'c'a'u's'e' 't'h'e' 'p'e'r's'o'n'
-'t'e'r's' 'a'n'd' 'a'l's'o' 'b'y' 'p'o's'i'n'g' 't'o' 'b'e' 't'h'e' 'b'r'o't'h'e'r' 'o'f' 'a' 'c'h'e'a't'e'd' 'p'a'r't's' 'w'i't'h' 'h'i's' 'p'r'o'p'e'r't'y' 's'u'b's'e'q'u'e'n't' 't'o'
-'M'i'n'i's't'e'r',' 'h'a's' 'b'e'e'n' 'h'e'l'd' 't'o' 'c'o'n's't'i't'u't'e' 'a'n' 'o'f'f'e'n'c'e' 'm'a'k'i'n'g' 'u'p' 'h'i's' 'm'i'n'd' 't'o' 'd'o' 's'o'.'
-'o'f' 'c'h'e'a't'i'n'g' 'b'y' 'p'e'r's'o'n'a't'i'o'n',' 'a'n'd' 'o'f' 'f'o'r'g'e'r'y'.'
-'S'e'c't'i'o'n' '4'1'8'.' 'C'h'e'a't'i'n'g' 'w'i't'h' 'k'n'o'w'l'e'd'g'e' 'M'O'C'K' 'O'R' 'I'N'V'A'L'I'D' 'M'A'R'R'I'A'G'E'S'
-'t'h'a't' 'w'r'o'n'g'f'u'l' 'l'o's's' 'm'a'y' 'e'n's'u'e' 't'o' 'p'e'r's'o'n' 'w'h'o's'e'
-'i'n't'e'r'e's't' 'o'f'f'e'n'd'e'r' 'i's' 'b'o'u'n'd' 't'o' 'p'r'o't'e'c't'—'W'h'o'e'v'-' 'S'e'c't'i'o'n' '4'9'3'.' 'C'o'h'a'b'i't'a't'i'o'n' 'c'a'u's'e'd' 'b'y' 'a' 'm'a'n'
-'e'r' 'c'h'e'a't's' 'w'i't'h' 't'h'e' 'k'n'o'w'l'e'd'g'e' 't'h'a't' 'h'e' 'i's' 'l'i'k'e'l'y' 'd'e'c'e'i't'f'u'l'l'y' 'i'n'd'u'c'i'n'g' 'a' 'b'e'l'i'e'f' 'o'f' 'l'a'w'f'u'l' 'm'a'r'r'i'a'g'e'.'
-'t'h'e'r'e'b'y' 't'o' 'c'a'u's'e' 'w'r'o'n'g'f'u'l' 'l'o's's' 't'o' 'a' 'p'e'r's'o'n' 'E'v'e'r'y' 'm'a'n' 'w'h'o' 'b'y' 'd'e'c'e'i't' 'c'a'u's'e's' 'a'n'y' 'w'o'm'a'n'
-'w'h'o's'e' 'i'n't'e'r'e's't' 'i'n' 't'h'e' 't'r'a'n's'a'c't'i'o'n' 't'o' 'w'h'i'c'h' 't'h'e' 'w'h'o' 'i's' 'n'o't' 'l'a'w'f'u'l'l'y' 'm'a'r'r'i'e'd' 't'o' 'h'i'm' 't'o' 'b'e'l'i'e'v'e' 't'h'a't'
-'c'h'e'a't'i'n'g' 'r'e'l'a't'e's',' 'h'e' 'w'a's' 'b'o'u'n'd',' 'e'i't'h'e'r' 'b'y' 'l'a'w',' 'o'r' 's'h'e' 'i's' 'l'a'w'f'u'l'l'y' 'm'a'r'r'i'e'd' 't'o' 'h'i'm' 'a'n'd' 't'o' 'c'o'h'a'b'i't' 'o'r'
-'b'y' 'l'e'g'a'l' 'c'o'n't'r'a'c't',' 't'o' 'p'r'o't'e'c't',' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'h'a'v'e' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'h'i'm' 'i'n' 't'h'a't' 'b'e'l'i'e'f','
-'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'u'p't'o' '3' 'y'e'a'r's',' 'o'r' 'f'i' 'n'e',' 'o'r' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r'
-'w'i't'h' 'b'o't'h'.' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 't'e'n'
-'T'h'i's' 's'e'c't'i'o'n' 'd'e'a'l's' 'w'i't'h' 'c'h'e'a't'i'n'g' 'a' 'g'u'a'r'd'-' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l' 'a'l's'o' 'b'e' 'l'i'a'b'l'e' 't'o' 'f'i' 'n'e'.'
-'i'a'n',' 'a' 't'r'u's't'e'e',' 'a' 'p'l'e'a'd'e'r',' 'a'n'd' 'a'g'e'n't',' 'o'r' 'm'a'n'a'g'e'r'
-'S'e'c't'i'o'n' '4'9'6'.' 'M'a'r'r'i'a'g'e' 'c'e'r'e'm'o'n'y' 'f'r'a'u'd'u'l'e'n't'l'y'
-'o'f' 'a' 'H'i'n'd'u' 'f'a'm'i'l'y' 'o'r' 'b'y' 'd'i'r'e'c't'o'r's' 'o'r' 'm'a'n'a'g'e'r's' 'o'f'
-'g'o'n'e' 't'h'r'o'u'g'h' 'w'i't'h'o'u't' 'l'a'w'f'u'l' 'm'a'r'r'i'a'g'e'.' 'W'h'o'e'v'e'r','
-'a' 'b'a'n'k' 'i'n' 'f'r'a'u'd' 'o'f' 't'h'e' 's'h'a'r'e'h'o'l'd'e'r's' 'a'n'd' 'd'e'p'o's'i'-'
-'d'i's'h'o'n'e's't'l'y' 'o'r' 'w'i't'h' 'a' 'f'r'a'u'd'u'l'e'n't' 'i'n't'e'n't'i'o'n','
-'t'o'r's'.' 'T'h'u's',' 'w'h'e'r'e' 'a' 'f'a'l's'e' 'b'a'l'a'n'c'e' 's'h'e'e't' 'i's' 's'h'o'w'n'
-'g'o'e's' 't'h'r'o'u'g'h' 't'h'e' 'c'e'r'e'm'o'n'y' 'o'f' 'b'e'i'n'g' 'm'a'r'r'i'e'd','
-'w'i't'h' 'a'n' 'i'n't'e'n't' 't'o' 's'e'c'u'r'e' 'o'r' 'r'e'n'e'w' 't'h'e' 'd'e'p'o's'i't's' 'f'o'r' 'k'n'o'w'i'n'g' 't'h'a't' 'h'e' 'i's' 'n'o't' 't'h'e'r'e'b'y' 'l'a'w'f'u'l'l'y' 'm'a'r'r'i'e'd','
-'t'h'e' 'c'o'm'p'a'n'y',' 't'h'e' 'c'u'l'p'r'i't's' 'a'r'e' 'g'u'i'l't'y' 'u'n'd'e'r' 'S'e'c'-' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r'
-'t'i'o'n' '4'1'8'.' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o'
-'S'e'c't'i'o'n' '4'2'0':' 'C'h'e'a't'i'n'g' 'a'n'd' 'D'i's'h'o'n'e's't'l'y' 's'e'v'e'n' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l' 'a'l's'o' 'b'e' 'l'i'a'b'l'e' 't'o' 'f'i' 'n'e'.'
-'I'n'd'u'c'i'n'g' 'D'e'l'i'v'e'r'y' 'o'f' 'P'r'o'p'e'r't'y' 'S'e'c't'i'o'n' '4'9'4':' 'B'i'g'a'm'y'
-'T'h'i's' 's'e'c't'i'o'n' 'd'e'a'l's' 'w'i't'h' 'c'e'r't'a'i'n' 's'p'e'c'i'f'i' 'e'd' 'c'l'a's's'e's' 'M'a'r'r'y'i'n'g' 'a'g'a'i'n' 'd'u'r'i'n'g' 'l'i'f'e't'i'm'e' 'o'f' 'h'u's'b'a'n'd' 'o'r'
-'o'f' 'c'h'e'a't'i'n'g'.' 'I't' 'd'e'a'l's' 'w'i't'h' 't'h'e' 'c'a's'e's' 'o'f' 'c'h'e'a't'i'n'g' 'w'i'f'e'.' 'W'h'o'e'v'e'r',' 'h'a'v'i'n'g' 'a' 'h'u's'b'a'n'd' 'o'r' 'w'i'f'e' 'l'i'v'i'n'g','
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '4'5'
-'m'a'r'r'i'e's' 'i'n' 'a'n'y' 'c'a's'e' 'i'n' 'w'h'i'c'h' 's'u'c'h' 'm'a'r'r'i'a'g'e' 'i's' 'b'e'i'n'g' 't'h'e' 'h'u's'b'a'n'd' 'o'r' 't'h'e' 'r'e'l'a't'i'v'e' 'o'f' 't'h'e' 'h'u's'b'a'n'd'
-'v'o'i'd' 'b'y' 'r'e'a's'o'n' 'o'f' 'i't's' 't'a'k'i'n'g' 'p'l'a'c'e' 'd'u'r'i'n'g' 't'h'e' 'l'i'f'e' 'o'f' 'a' 'w'o'm'a'n',' 's'u'b'j'e'c't' 's'u'c'h' 'w'o'm'a'n' 't'o' 'c'r'u'e'l't'y'
-'o'f' 's'u'c'h' 'h'u's'b'a'n'd' 'o'r' 'w'i'f'e',' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 's'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'f'o'r' 'a' 't'e'r'm'
-'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r' 'd'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 't'h'r'e'e' 'y'e'a'r's' 'a'n'd' 's'h'a'l'l' 'a'l's'o'
-'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 's'e'v'e'n' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l' 'a'l's'o' 'b'e' 'l'i'a'b'l'e' 't'o' 'f'i' 'n'e'.'
-'b'e' 'l'i'a'b'l'e' 't'o' 'f'i' 'n'e'.' 'E'x'p'l'a'n'a't'i'o'n'.' 'F'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 't'h'i's' 's'e'c't'i'o'n','
-'E'x'c'e'p't'i'o'n'.' 'T'h'i's' 's'e'c't'i'o'n' 'd'o'e's' 'n'o't' 'e'x't'e'n'd' 't'o' '‘'c'r'u'e'l't'y'’' 'm'e'a'n's':' '('a')' 'a'n'y' 'w'i'l'f'u'l' 'c'o'n'd'u'c't' 'w'h'i'c'h' 'i's'
-'a'n'y' 'p'e'r's'o'n' 'w'h'o's'e' 'm'a'r'r'i'a'g'e' 'w'i't'h' 's'u'c'h' 'h'u's'b'a'n'd' 'o'f' 's'u'c'h' 'a' 'n'a't'u'r'e' 'a's' 'i's' 'l'i'k'e'l'y' 't'o' 'd'r'i'v'e' 't'h'e' 'w'o'm'a'n'
-'o'r' 'w'i'f'e' 'h'a's' 'b'e'e'n' 'd'e'c'l'a'r'e'd' 'v'o'i'd' 'b'y' 'a' 'c'o'u'r't' 'o'r' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e' 'o'r' 't'o' 'c'a'u's'e' 'g'r'a'v'e' 'i'n'j'u'r'y' 'o'r'
-'c'o'm'p'e't'e'n't' 'j'u'r'i's'd'i'c't'i'o'n',' 'n'o'r' 't'o' 'a'n'y' 'p'e'r's'o'n' 'w'h'o' 'd'a'n'g'e'r' 't'o' 'l'i'f'e',' 'l'i'm'b' 'o'r' 'h'e'a'l't'h' '('w'h'e't'h'e'r' 'm'e'n't'a'l'
-'c'o'n't'r'a'c't's' 'a' 'm'a'r'r'i'a'g'e' 'd'u'r'i'n'g' 't'h'e' 'l'i'f'e' 'o'f' 'a' 'f'r'a'm'e'r' 'o'r' 'p'h'y's'i'c'a'l')' 'o'f' 't'h'e' 'w'o'm'a'n';' 'o'r' '('b')' 'h'a'r'a's's'm'e'n't'
-'o'r' 'w'i'f'e',' 'i'f' 's'u'c'h' 'h'u's'b'a'n'd' 'o'r' 'w'i'f'e',' 'a't' 't'h'e' 't'i'm'e' 'o'f' 't'h'e' 'w'o'm'a'n' 'w'h'e'r'e' 's'u'c'h' 'h'a'r'a's's'm'e'n't' 'i's' 'w'i't'h' 'a'
-'o'f' 't'h'e' 's'u'b's'e'q'u'e'n't' 'm'a'r'r'i'a'g'e',' 's'h'a'l'l' 'h'a'v'e' 'b'e'e'n' 'v'i'e'w' 't'o' 'c'o'e'r'c'i'n'g' 'h'e'r' 'o'r' 'a'n'y' 'p'e'r's'o'n' 'r'e'l'a't'e'd' 't'o' 'h'e'r'
-'c'o'n't'i'n'u'a'l'l'y' 'a'b's'e'n't' 'f'r'o'm' 's'u'c'h' 'p'e'r's'o'n' 'f'o'r' 't'h'e' 't'o' 'm'e'e't' 'a'n'y' 'u'n'l'a'w'f'u'l' 'd'e'm'a'n'd' 'f'o'r' 'a'n'y' 'p'r'o'p'e'r't'y'
-'s'p'a'c'e' 'o'f' 's'e'v'e'n' 'y'e'a'r's',' 'a'n'd' 's'h'a'l'l' 'n'o't' 'h'a'v'e' 'b'e'e'n' 'o'r' 'v'a'l'u'a'b'l'e' 's'e'c'u'r'i't'y' 'o'r' 'i's' 'o'n' 'a'c'c'o'u'n't' 'o'f' 'f'a'i'l'u'r'e'
-'h'e'a'r'd' 'o'f' 'b'y' 's'u'c'h' 'p'e'r's'o'n' 'a's' 'b'e'i'n'g' 'a'l'i'v'e' 'w'i't'h'i'n' 'b'y' 'h'e'r' 'o'r' 'a'n'y' 'p'e'r's'o'n' 'r'e'l'a't'e'd' 't'o' 'h'e'r' 't'o' 'm'e'e't' 's'u'c'h'
-'t'h'a't' 't'i'm'e' 'p'r'o'v'i'd'e'd' 't'h'e' 'p'e'r's'o'n' 'c'o'n't'r'a'c't'i'n'g' 's'u'c'h' 'd'e'm'a'n'd'.'
-'s'u'b's'e'q'u'e'n't' 'm'a'r'r'i'a'g'e' 's'h'a'l'l',' 'b'e'f'o'r'e' 's'u'c'h' 'm'a'r'r'i'a'g'e'
-'t'a'k'e's' 'p'l'a'c'e',' 'i'n'f'o'r'm' 't'h'e' 'p'e'r's'o'n' 'w'i't'h' 'w'h'o'm' 's'u'c'h'
-'G'E'N'E'R'A'L' 'E'X'C'E'P'T'I'O'N'S'
-'m'a'r'r'i'a'g'e' 'i's' 'c'o'n't'r'a'c't'e'd' 'o'f' 't'h'e' 'r'e'a'l' 's't'a't'e' 'o'f' 'f'a'c't's' 's'o'
-'f'a'r' 'a's' 't'h'e' 's'a'm'e' 'a'r'e' 'w'i't'h'i'n' 'h'i's' 'o'r' 'h'e'r' 'k'n'o'w'l'e'd'g'e'.' 'M'i's't'a'k'e'
-'S'e'c't'i'o'n' '4'9'7':' 'A'd'u'l't'e'r'y' 'S'e'c't'i'o'n' '7'6'.' 'A'c't' 'd'o'n'e' 'b'y' 'a' 'p'e'r's'o'n' 'b'o'u'n'd',' 'o'r' 'b'y'
-'W'h'o'e'v'e'r' 'h'a's' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'a' 'p'e'r's'o'n' 'm'i's't'a'k'e' 'o'f' 'f'a'c't' 'b'e'l'i'e'v'i'n'g' 'h'i'm's'e'l'f' 'b'o'u'n'd',' 'b'y'
-'w'h'o' 'i's' 'a'n'd' 'w'h'o'm' 'h'e' 'k'n'o'w's' 'o'r' 'h'a's' 'r'e'a's'o'n' 't'o' 'l'a'w'—'
-'b'e'l'i'e'v'e' 't'o' 'b'e' 'w'i'f'e' 'o'f' 'a'n'o't'h'e'r' 'm'a'n',' 'w'i't'h'o'u't' 't'h'e' 'N'o't'h'i'n'g' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'w'h'i'c'h' 'i's' 'd'o'n'e' 'b'y' 'a' 'p'e'r's'o'n'
-'c'o'n's'e'n't' 'o'r' 'c'o'n'n'i'v'a'n'c'e' 'o'f' 't'h'a't' 'm'a'n',' 's'u'c'h' 's'e'x'u'a'l' 'w'h'o' 'i's',' 'o'r' 'w'h'o' 'b'y' 'r'e'a's'o'n' 'o'f' 'a' 'm'i's't'a'k'e' 'o'f' 'f'a'c't'
-'i'n't'e'r'c'o'u'r's'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'a'n'd' 'n'o't' 'b'y' 'r'e'a's'o'n' 'o'f' 'm'i's't'a'k'e' 'o'f' 'l'a'w',' 'i'n' 'g'o'o'd'
-'r'a'p'e',' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'a'd'u'l't'e'r'y',' 'a'n'd' 'f'a'i't'h',' 'b'e'l'i'e'v'e's' 'h'i'm's'e'l'f' 't'o' 'b'e' 'b'o'u'n'd' 'b'y' 'l'a'w' 't'o' 'd'o'
-'s'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r' 'i't'.'
-'d'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 'f'i' 'v'e'
-'I'l'l'u's't'r'a't'i'o'n's'
-'y'e'a'r's',' 'o'r' 'w'i't'h' 'f'i' 'n'e',' 'o'r' 'w'i't'h' 'b'o't'h'.' 'I'n' 's'u'c'h' 'c'a's'e' 't'h'e'
-'w'i'f'e' 's'h'a'l'l' 'n'o't' 'b'e' 'p'u'n'i's'h'a'b'l'e' 'a's' 'a'n' 'a'b'e't't'o'r'.' '('a')' 'A',' 'a' 's'o'l'd'i'e'r',' 'f'i' 'r'e's' 'o'n' 'a' 'm'o'b' 'b'y' 't'h'e' 'o'r'd'e'r' 'o'f'
-'h'i's' 's'u'p'e'r'i'o'r' 'o'f'f'i' 'c'e'r',' 'i'n' 'c'o'n'f'o'r'm'i't'y' 'w'i't'h' 't'h'e'
-'C'R'I'M'I'N'A'L' 'E'L'O'P'E'M'E'N'T'/' 'c'o'm'm'a'n'd's' 'o'f' 't'h'e' 'l'a'w'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'n'o'
-'S'E'D'U'C'T'I'O'N' 'o'f'f'e'n'c'e'.'
-'('b')' 'A',' 'a'n' 'o'f'f'i' 'c'e' 'o'f' 'a' 'C'o'u'r't' 'o'f' 'J'u's't'i'c'e',' 'b'e'i'n'g'
-'S'e'c't'i'o'n' '4'9'8'.' 'E'n't'i'c'i'n'g' 'o'r' 't'a'k'i'n'g' 'a'w'a'y' 'o'r' 'o'r'd'e'r'e'd' 'b'y' 't'h'a't' 'c'o'u'r't' 't'o' 'a'r'r'e's't' 'Y',' 'a'n'd' 'a'f't'e'r'
-'d'e't'a'i'n'i'n'g' 'w'i't'h' 'c'r'i'm'i'n'a'l' 'i'n't'e'n't' 'a' 'm'a'r'r'i'e'd' 'w'o'm'a'n'.' 'd'u'e' 'i'n'q'u'i'r'y',' 'b'e'l'i'e'v'i'n'g' 'Z' 't'o' 'b'e' 'Y',' 'a'r'r'e's't' 'Z'.'
-'W'h'o'e'v'e'r' 't'a'k'e's' 'o'r' 'e'n't'i'c'e's' 'a'w'a'y' 'a'n'y' 'w'o'm'a'n' 'w'h'o' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'n'o' 'o'f'f'e'n'c'e'.'
-'i's' 'a'n'd' 'w'h'o'm' 'h'e' 'k'n'o'w's' 'o'r' 'h'a's' 'r'e'a's'o'n' 't'o' 'b'e'l'i'e'v'e' '‘'M'i's't'a'k'e'’' 'i's' 'a' 's'l'i'p' 'm'a'd'e',' 'n'o't' 'b'y' 'd'e's'i'g'n',' 'b'u't' 'b'y'
-'t'o' 'b'e' 't'h'e' 'w'i'f'e' 'o'f' 'a'n'y' 'o't'h'e'r' 'm'a'n',' 'f'r'o'm' 't'h'a't' 'm'a'n',' 'm'i's'c'h'a'n'c'e'.' 'E'v'e'n' 'u'n'd'e'r' 'E'n'g'l'i's'h' 'c'o'm'm'o'n' 'l'a'w','
-'o'r' 'f'r'o'm' 'a'n'y' 'p'e'r's'o'n' 'h'a'v'i'n'g' 't'h'e' 'c'a'r'e' 'o'f' 'h'e'r' 'o'n' 'a'n' 'h'o'n'e's't' 'a'n'd' 'r'e'a's'o'n'a'b'l'e' 'b'e'l'i'e'f' 'i'n' 't'h'e' 'e'x'i's't'e'n'c'e'
-'b'e'h'a'l'f' 'o'f' 't'h'a't' 'm'a'n',' 'w'i't'h' 'i'n't'e'n't' 't'h'a't' 's'h'e' 'm'a'y' 'h'a'v'e' 'o'f' 'c'i'r'c'u'm's't'a'n'c'e's' 'w'h'i'c'h' 'w'o'u'l'd' 'h'a'v'e' 'm'a'd'e' 't'h'a't'
-'i'l'l'i'c'i't' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'a'n'y' 'p'e'r's'o'n' ','o'r' 'c'o'n'c'e'a'l's' 'a'c't' 'a'n' 'i'n'n'o'c'e'n't' 'a'c't',' 'h'a's' 'a'l'w'a'y's' 'b'e'e'n' 'a' 'v'a'l'i'd'
-'o'r' 'd'e't'a'i'n's' 'w'i't'h' 't'h'a't' 'a'n'y' 'i'n't'e'n't' 'a'n'y' 's'u'c'h' 'w'o'm'a'n',' 'd'e'f'e'n'c'e'.'
-'s'h'a'l'l' 'b'e' 'p'u'n'i's'h'e'd' 'w'i't'h' 'i'm'p'r'i's'o'n'm'e'n't' 'o'f' 'e'i't'h'e'r' '“'W'h'e'n' 'a' 'p'e'r's'o'n' 'i's' 'i'g'n'o'r'a'n't' 'o'f' 't'h'e' 'e'x'i's'-'
-'d'e's'c'r'i'p't'i'o'n' 'f'o'r' 'a' 't'e'r'm' 'w'h'i'c'h' 'm'a'y' 'e'x't'e'n'd' 't'o' 't'w'o' 't'e'n'c'e' 'o'f' 'r'e'l'e'v'a'n't' 'f'a'c't's',' 'o'r' 'm'i's't'a'k'e'n' 'a's' 't'o' 't'h'e'm','
-'y'e'a'r's',' 'o'r' 'w'i't'h' 'f'i' 'n'e',' 'o'r' 'w'i't'h' 'b'o't'h'.' 'h'i's' 'c'o'n'd'u'c't' 'm'a'y' 'p'r'o'd'u'c'e' 'h'a'r'm'f'u'l' 'r'e's'u'l't's' 'w'h'i'c'h'
-'h'e' 'n'e'i't'h'e'r' 'i'n't'e'n'd'e'd' 'n'o'r' 'f'o'r'e's'a'w'.' 'M'i's't'a'k'e' 'c'a'n' 'b'e'
-'C'R'U'E'L'T'Y' 'B'Y' 'H'U'S'B'A'N'D' 'O'R' 'a'd'm'i't't'e'd' 'a's' 'a' 'd'e'f'e'n'c'e' 'p'r'o'v'i'd'e'd'
-'R'E'L'A'T'I'V'E'S' 'O'F' 'H'U'S'B'A'N'D' '('1')' 't'h'a't' 't'h'e' 's't'a't'e' 'o'f' 't'h'i'n'g's' 'b'e'l'i'e'v'e'd' 't'o' 'e'x'i's't'
-'w'o'u'l'd',' 'i'f' 't'r'u'e',' 'h'a'v'e' 'j'u's't'i'f'i' 'e'd' 't'h'e' 'a'c't' 'd'o'n'e','
-'S'e'c't'i'o'n' '4'9'8'-'A'.' 'H'u's'b'a'n'd' 'o'r' 'r'e'l'a't'i'v'e' 'o'f' 'h'u's'b'a'n'd' 'a'n'd'
-'o'f' 'a' 'w'o'm'a'n' 's'u'b'j'e'c't'i'n'g' 'h'e'r' 't'o' 'c'r'u'e'l't'y'.' 'W'h'o'e'v'e'r',' '('2')' 't'h'e' 'm'i's't'a'k'e' 'm'u's't' 'b'e' 'r'e'a's'o'n'a'b'l'e',' 'a'n'd'
-'
-'('3')' 't'h'a't' 't'h'e' 'm'i's't'a'k'e' 'r'e'l'a't'e's' 't'o' 'f'a'c't' 'a'n'd' 'n'o't' 't'o' 'T'h'e' 'm'a'x'i'm' 'r'e's'p'o'n'd'e'n't' 's'u'p'e'r'i'o'r' '('‘'a'c't' 'd'o'n'e'
-'l'a'w'”'.' 'b'y' 't'h'e' 'o'r'd'e'r' 'o'f' 'a' 's'u'p'e'r'i'o'r'’')' 'h'a's' 'n'o' 'a'p'p'l'i'c'a't'i'o'n'
-'I'g'n'o'r'a'n'c'e' 'o'f' 'f'a'c't' 'i's' 'e'x'c'u's'a'b'l'e' '('I'g'n'o'r'a'n't'i'a' 'i'n' 'c'r'i'm'i'n'a'l' 'l'a'w'.' 'T'h'e' 'o'r'd'e'r' 'o'f' 'a' 's'u'p'e'r'i'o'r' 't'o' 'a'n'
-'f'a'c't'i')'.' 'I'g'n'o'r'a'n'c'e' 'i'n'c'l'u'd'e's' 'm'i's't'a'k'e',' 'b'u't' 'm'i's't'a'k'e' 'i'n'f'e'r'i'o'r' 's'e'r'v'a'n't' 't'o' 'c'o'm'm'i't' 'a'n' 'o'f'f'e'n'c'e' 'i's' 'n'o't' 'a'
-'d'o'e's' 'n'o't' 'n'e'c'e's's'a'r'i'l'y' 'i'n'c'l'u'd'e's' 'i'g'n'o'r'a'n'c'e'.' 'I'g'n'o'-' 'v'a'l'i'd' 'd'e'f'e'n'c'e'.'
-'r'a'n'c'e' 'm'e'a'n's' 'l'a'c'k' 'o'f' 'k'n'o'w'l'e'd'g'e',' 'a' 'g'e'n'e'r'a'l' 'i'n'e'r't'i'a' 'T'h'u's',' 'w'h'e'r'e' 'u'n'd'e'r' 'o'r'd'e'r' 'o'f' 't'h'e'i'r' 'n'a'i'k',' 't'h'r'e'e'
-'o'f' 'h'u'm'a'n' 'm'i'n'd'.' 'w'h'i'l'e',' 'm'i's't'a'k'e' 'i's' 'n'o't' 't'h'e' 'r'e's'u'l't' 's'e'p'o'y's' 'o'f' 'a' 'r'e'g'i'm'e'n't' 'f'i' 'r'e'd' 'a' 's'h'o't' 'a't' 'a' 'm'o'b' 'w'h'i'c'h','
-'o'f' 'f'o'o'l'h'a'r'd'i'n'e's's' 'n'o'r' 'i't' 'i's' 'c'a'u's'e'd' 'b'y' 'a'n'y' 'l'a'c'k' 'o'f' 'o't'h'e'r'w'i's'e',' 'w'a's' 'b'y' 'n'o' 'm'e'a'n's' 'v'i'o'l'e'n't',' 'i't' 'w'a's' 'h'e'l'd'
-'m'e'n't'a'l' 'a'l'e'r't'n'e's's'.' 'T'h'u's',' 'm'e'r'e' 'f'o'r'g'e't'f'u'l'n'e's's' 'i's' 'n'o't' 't'h'a't' 't'h'e'y' 'w'e'r'e' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'m'i's't'a'k'e'.' 'M'i's't'a'k'e' 'o'f' 'f'a'c't' 'i'm'p'l'i'e's' 'm'i's't'a'k'e' 'a's' 't'o' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r',' 'a'n'd' 't'h'e'y' 'w'e'r'e' 'n'o't' 'b'o'u'n'd'
-'t'r'u'e' 'i'd'e'n't'i't'i'e's' 'o'r' 'm'i's't'a'k'e' 'i'n' 's'e'n's'o'r'y' 'p'e'r'c'e'p't'i'o'n's' 't'o' 'o'b'e'y' 'a'n' 'i'l'l'e'g'a'l' 'o'r'd'e'r'.'
-'s'u'c'h' 'a's' 't'e'm'p'o'r'a'r'y' 'd'i's't'o'r't'i'o'n' 'o'f' 'i'm'a'g'i'n'a't'i'o'n'.'
-'S'e'c't'i'o'n' '7'9'.' 'A'c't' 'd'o'n'e' 'b'y' 'a' 'p'e'r's'o'n' 'j'u's't'i'f'i' 'e'd',' 'o'r'
-'I't' 'i's' 't'o' 'b'e' 'r'e'm'e'm'b'e'r'e'd' 't'h'a't' '‘'m'i's't'a'k'e' 'o'f' 'l'a'w'’'
-'b'y' 'm'i's't'a'k'e' 'o'f' 'f'a'c't' 'b'e'l'i'e'v'i'n'g' 'h'i'm's'e'l'f' 'j'u's't'i'f'i' 'e'd','
-'i's' 'n'o' 'd'e'f'e'n'c'e',' 'b'u't' '‘'m'i's't'a'k'e' 'o'f' 'f'a'c't'’' 'i's'.' 'E'v'e'r'y'b'o'd'y'
-'b'y' 'l'a'w'.'
-'i's' 'b'o'u'n'd' 't'o' 'k'n'o'w' 't'h'e' 'l'a'w' 'o'f' 't'h'e' 'l'a'n'd',' 'a'n'd' 'i'g'-'
-'n'o'r'a'n'c'e' 'o'f' 't'h'e' 'l'a'w' 'i's' 'n'o' 'e'x'c'u's'e'.' 'T'h'i's' 'i's' 'b'a's'e'd' 'N'o't'h'i'n'g' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'w'h'i'c'h' 'i's' 'd'o'n'e' 'b'y' 'a'n'y'
-'o'n' 't'h'e' 'a's's'u'm'p't'i'o'n' 't'h'a't' 'i'f' 'a' 'p'e'r's'o'n' 'e'x'e'r'c'i's'e's' 'd'u'e' 'p'e'r's'o'n' 'w'h'o' 'i's' 'j'u's't'i'f'i' 'e'd' 'b'y' 'l'a'w',' 'o'r' 'w'h'o' 'b'y' 'r'e'a's'o'n'
-'c'a'r'e' 'a'n'd' 'd'i'l'i'g'e'n'c'e' '('e'.'g'.',' 'b'y' 'c'o'n's'u'l't'i'n'g' 'a' 'l'a'w'y'e'r')',' 'o'f' 'a' 'm'i's't'a'k'e' 'o'f' 'f'a'c't' 'o'r' 'b'y' 'a' 'r'e'a's'o'n' 'o'f' 'a' 'm'i's't'a'k'e' 'o'f'
-'h'e' 'w'o'u'l'd' 'k'n'o'w' 't'h'e' 'l'a'w'.' 'l'a'w' 'i'n' 'g'o'o'd' 'f'a'i't'h',' 'b'e'l'i'e'v'e's' 'h'i'm's'e'l'f' 't'o' 'b'e' 'j'u's't'i'f'i' 'e'd'
-'H'o'w'e'v'e'r',' 't'h'e'r'e' 'm'a'y' 'a'r'i's'e' 'c'i'r'c'u'm's't'a'n'c'e's' 'b'y' 'l'a'w',' 'i'n' 'd'o'i'n'g' 'i't'.'
-'n'e'u't'r'a'l'i'z'i'n'g' 't'h'e' 'p'r'e's'u'm'p't'i'o'n' 'o'f' 'k'n'o'w'l'e'd'g'e' 'o'f'
-'I'l'l'u's't'r'a't'i'o'n'
-'l'a'w' 'i'n' 'e'v'e'r'y' 'i'n'd'i'v'i'd'u'a'l',' 'a's' 'i'n' 't'h'e' 'c'a's'e' 'o'f' 'n'e'w'l'y'
-'e'n'a'c't'e'd' 's't'a't'u't'e'.' 'A' 's'e'e's' 'Z' 'c'o'm'm'i't' 'w'h'a't' 'a'p'p'e'a'r's' 't'o' 'b'e' 'm'u'r'd'e'r'.' 'H'e'
-'A' 'm'i'x'e'd' 'q'u'e's't'i'o'n' 'o'f' 'l'a'w' 'a'n'd' 'f'a'c't' 'i's' 't'r'e'a't'e'd' 'i'n' 'g'o'o'd' 'f'a'i't'h' 's'e'i'z'e's' 'Z',' 't'o' 'h'a'n'd' 'h'i'm' 'o'v'e'r' 't'o' 't'h'e'
-'a's' 'a' 'q'u'e's't'i'o'n' 'o'f' 'f'a'c't' 'i'f' 't'h'e' 'a'c'c'u's'e'd' 'w'a's' 'm'i's'l'e'a'd' 'p'o'l'i'c'e'.' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'n'o' 'o'f'f'e'n'c'e',' 't'h'o'u'g'h' 'i't'
-'i'n't'o' 'a'n' 'e'r'r'o'r' 'o'f' 'f'a'c't' 'o'n' 'a'c'c'o'u'n't' 'o'f' 'a'n' 'e'r'r'o'r' 'o'f' 'm'a'y' 't'u'r'n' 'o'u't' 't'h'a't' 'Z' 'w'a's' 'a'c't'i'n'g' 'i'n' 's'e'l'f'-'d'e'f'e'n'c'e'.'
-'l'a'w'.' 'T'h'e' 'f'o'l'l'o'w'i'n'g' 'r'u'l'e's' 'd'e't'e'r'm'i'n'e'd' 't'h'e' 'q'u'e's'-'
-'U'n's'o'u'n'd'n'e's's' 'O'f' 'M'i'n'd'
-'t'i'o'n' 'o'f' 'j'u's't'i'f'i' 'c'a't'i'o'n' 'o'f' 'a'n' 'o'f'f'e'n'c'e' 'e'i't'h'e'r' 'd'u'e' 't'o'
-'S'e'c't'i'o'n' '8'4'.' 'A'c't' 'o'f' 'p'e'r's'o'n' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd'
-'m'i's't'a'k'e' 'o'f' 'f'a'c't' 'o'r' 'o'f' 'l'a'w':'
-'“'N'o't'h'i'n'g' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'w'h'i'c'h' 'i's' 'd'o'n'e' 'b'y' 'a'
-'('i')' 'W'h'e'n' 'a'n' 'a'c't' 'i's' 'i'n' 'i't's'e'l'f' 'p'l'a'i'n'l'y' 'c'r'i'm'i'n'a'l','
-'b'u't' 'i's' 'm'o'r'e' 's'e'v'e'r'e'l'y' 'p'u'n'i's'h'a'b'l'e' 'i'f' 'c'e'r'-' 'p'e'r's'o'n' 'w'h'o',' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'd'o'i'n'g' 'i't',' 'b'y' 'r'e'a's'o'n' 'o'f'
-'t'a'i'n' 'c'i'r'c'u'm's't'a'n'c'e's' 'e'x'i's't',' 't'h'e'n' 'i'g'n'o'r'a'n'c'e' 'u'n's'o'u'n'd'n'e's's' 'o'f' 'm'i'n'd',' 'i's' 'i'n'c'a'p'a'b'l'e' 'o'f' 'k'n'o'w'i'n'g'
-'o'f' 't'h'o's'e' 'c'i'r'c'u'm's't'a'n'c'e's' 'i's' 'n'o' 'a'n's'w'e'r' 't'o' 'a' 't'h'e' 'n'a't'u'r'e' 'o'f' 't'h'e' 'a'c't' 'o'r' 't'h'a't' 'h'e' 'i's' 'd'o'i'n'g' 'w'h'a't' 'i's'
-'c'h'a'r'g'e' 'f'o'r' 't'h'e' 'a'g'g'r'a'v'a't'e'd' 'o'f'f'e'n'c'e'.' 'e'i't'h'e'r' 'w'r'o'n'g' 'o'r' 'c'o'n't'r'a'r'y' 't'o' 'l'a'w'”'.'
-'('i'i')' 'I'f',' 'h'o'w'e'v'e'r',' 'a'n' 'a'c't' 'i's' 'p'r'i'm'a' 'f'a'c'i'e' 'i'n'n'o'c'e'n't',' 'T'h'i's' 's'e'c't'i'o'n' 'p'r'o'v'i'd'e's' 't'h'a't' 'a' 'm'a'n' 'w'h'o',' 'b'y'
-'b'u't' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'i'f' 'c'e'r't'a'i'n' 'c'i'r'c'u'm's't'a'n'c'e's' 'r'e'a's'o'n' 'o'f' 'u'n's'o'u'n'd'n'e's's' 'o'f' 'm'i'n'd',' 'p'r'e'v'e'n't'e'd' 'f'r'o'm'
-'e'x'i's't',' 't'h'e'n' 'i'g'n'o'r'a'n'c'e' 'o'f' 't'h'o's'e' 'c'i'r'c'u'm'-' 'c'o'n't'r'o'l'l'i'n'g' 'h'i's' 'o'w'n' 'c'o'n'd'u'c't' 'a'n'd' 'd'e'p'r'i'v'e'd' 'o'f' 't'h'e'
-'s't'a'n'c'e's' 'i's' 'a' 'g'o'o'd' 'd'e'f'e'n'c'e' 't'o' 't'h'e' 'c'h'a'r'g'e'.' 'p'o'w'e'r' 'o'f' 'p'a's's'i'n'g' 'a' 'r'a't'i'o'n'a'l' 'j'u'd'g'e'm'e'n't',' 'o'n' 't'h'e'
-'('i'i'i')' 'I'f' 't'h'e' 'a'c't' 'i't's'e'l'f' 'i's' 'w'r'o'n'g',' 'a'n'd' 'b'e'c'o'm'e's' 'm'a't'e'r'i'a'l' 'c'h'a'r'a'c't'e'r' 'o'f' 't'h'e' 'a'c't' 'h'e' 'm'e'a'n't' 't'o' 'd'o',' 'c'a'n'-'
-'c'r'i'm'i'n'a'l' 'u'n'd'e'r' 'c'e'r't'a'i'n' 'c'i'r'c'u'm's't'a'n'c'e's',' 't'h'e' 'n'o't' 'b'e' 'l'e'g'a'l'l'y' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 't'h'e' 'a'c't'.'
-'p'e'r's'o'n' 'w'h'o' 'c'o'm'm'i't's' 's'u'c'h' 'a' 'w'r'o'n'g'f'u'l' 'a'c't' 'T'h'e' 's'e'c't'i'o'n' 'i's' 'b'a's'e'd' 'o'n' 't'h'e' 'p'r'i'n'c'i'p'l'e' 't'h'a't'
-'c'a'n'n'o't' 'a'r'g'u'e' 't'h'a't' 'h'e' 'w'a's' 'i'g'n'o'r'a'n't' 'o'f' 't'h'e' 'a'n' 'a'c't'i'o'n' 'd'o'e's' 'n'o't' 'c'o'n's't'i't'u't'e' 'a'n' 'o'f'f'e'n'c'e' 'u'n'l'e's's'
-'f'a'c't's' 'w'h'i'c'h' 't'u'r'n'e'd' 't'h'e' 'w'r'o'n'g' 'i'n't'o' 'c'r'i'm'e'.' 'd'o'n'e' 'w'i't'h' 'a' 'g'u'i'l't'y' 'i'n't'e'n't'i'o'n'.' 'T'h'e'r'e'f'o'r'e',' 'i'n's'a'n'-'
-'('i'v')' 'T'h'e' 's't'a't'e' 'o'f' 't'h'e' 'd'e'f'e'n'd'a'n't'’'s' 'm'i'n'd' 'm'u's't' 'i't'y' 'i's' 'r'e'c'o'g'n'i'z'e'd' 'a's' 'a' 'g'e'n'e'r'a'l' 'd'e'f'e'n'c'e',' 'b'e'c'a'u's'e'
-'a'm'o'u'n't' 't'o' 'a'b's'o'l'u't'e' 'i'g'n'o'r'a'n'c'e' 'o'f' 't'h'e' 'e'x'-' 'i'n's'a'n'e' 'p'e'r's'o'n's' 'a'r'e' 'i'n'c'a'p'a'b'l'e' 'o'f' 'e'n't'e'r't'a'i'n'i'n'g' 'a'
-'i's't'e'n'c'e' 'o'f' 't'h'e' 'c'i'r'c'u'm's't'a'n'c'e's' 'w'h'i'c'h' 'a'l't'e'r' 'b'l'a'm'e' 'w'o'r't'h'y' 'i'n't'e'n't'i'o'n';' 't'h'e'y' 'd'o' 'n'o't' 'k'n'o'w' 'w'h'a't'
-'t'h'e' 'c'h'a'r'a'c't'e'r' 'o'f' 't'h'e' 'a'c't',' 'o'r' 't'o' 'a' 'b'e'l'i'e'f' 'i'n' 'i't's' 't'h'e'y' 'a'r'e' 'd'o'i'n'g'.' 'N'o' 'c'u'l'p'a'b'i'l'i't'y' 'c'a'n' 'b'e' 'f'a's't'e'n'e'd'
-'n'o'n'-'e'x'i's't'e'n'c'e'.' 'u'p'o'n' 'i'n's'a'n'e' 'p'e'r's'o'n's' 'a's' 't'h'e'y' 'h'a'v'e' 'n'o' 'f'r'e'e' 'w'i'l'l'
-'('F'u'r'i'o's'i' 'n'u'l'l'a' 'v'o'l'u'n't'a's' 'e's't')'.'
-'W'h'e'n' 'm'i's't'a'k'e' 'o'f' 'f'a'c't' 'i's' 'n'o' 'd'e'f'e'n'c'e'.' 'M'i's't'a'k'e' 'o'f'
-'T'h'e' 'w'o'r'd's' '‘'u'n's'o'u'n'd'n'e's's' 'o'f' 'm'i'n'd'’' 'i'n'c'l'u'd'e'
-'f'a'c't' 'i's' 'n'o' 'd'e'f'e'n'c'e' 'i'f' 't'h'e' 'f'a'c't' 'i't's'e'l'f' 'i's' 'i'l'l'e'g'a'l'.' 'O'n'e'
-'t'h'e's'e' 'p'e'r's'o'n's':'
-'c'a'n'n'o't' 'd'o' 'a'n' 'i'l'l'e'g'a'l' 'a'c't' 'a'n'd' 't'h'e'n' 'p'l'e'a'd' 'i'g'n'o'r'a'n'c'e'
-'i'd'i'o't' '('b'o'r'n')';'
-'o'f' 'a' 'f'a'c't'.' 'T'h'u's',' 'a' 'p'e'r's'o'n' 'c'a'n'n'o't' 'b'y' 'm'i's't'a'k'e' 'o'f'
-'o'n'e' 'm'a'd'e' 'n'o'n' 'c'o'm'p'o's' 'm'e'n't'i's' 'b'y' 'i'l'l'n'e's's'
-'f'a'c't',' 's'h'o'o't' 'X' 'a'n'd' 't'h'e'n' 'p'l'e'a'd' 'i'n' 'd'e'f'e'n'c'e' 't'h'a't' 'h'e'
-'('t'e'm'p'o'r'a'r'y' 'f'a'i'l'u'r'e')';'
-'d'i'd' 'n'o't' 'i'n't'e'n'd' 't'o' 'k'i'l'l' 'X' 'a't' 'a'l'l',' 'b'u't' 'm'i's't'a'k'e'n' 'h'i'm'
-'a' 'l'u'n'a't'i'c' 'o'r' 'a' 'm'a'd' 'm'a'n' '('m'e'n't'a'l' 'd'i's'o'r'd'e'r')';'
-'f'o'r' 'Y',' 'w'h'o'm' 'h'e' 'w'a'n't'e'd' 't'o' 'k'i'l'l'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '4'7'
-'a' 'p'e'r's'o'n' 'i'n' 'u'n'c'o'n's'c'i'o'u's' 's't'a't'e',' 'i'f' 'p'r'o'v'e'd' 'f'r'o'm' 't'h'e' 'm'e'd'i'c'a'l' 'p'o'i'n't' 'o'f' 'v'i'e'w',' 'h'e' 'c'o'u'l'd'
-'('e'.'g'.',' 's'l'e'e'p' 'w'a'l'k'i'n'g')';' 'n'o't' 'b'e' 'e'x'o'n'e'r'a't'e'd' 'u'n'd'e'r' 'S'e'c't'i'o'n' '8'4'.' 'L'e'g'a'l'
-'a'n'd' 'i'n't'o'x'i'c'a't'e'd' 'p'e'r's'o'n'.' 'i'n's'a'n'i't'y' 'r'e'c'o'g'n'i'z'e's' 'o'n'l'y' 't'h'e' 'i'm'p'a'i'r'm'e'n't'
-'o'f' 'c'o'g'n'i't'i'v'e' 'f'a'c'u'l't'i'e's' 'a'n'd' 'w'h'e'n' 'c'o'g'n'i't'i'v'e'
-'T'e's't's'/'P'r'i'n'c'i'p'l'e's' 't'o' 'd'e't'e'r'm'i'n'e' 'i'n's'a'n'i't'y' 'o'f' 'a'
-'f'a'c'u'l't'i'e's' 'a'r'e' 'n'o't' 'i'm'p'a'i'r'e'd' 'a'n'd' 'o'n'l'y' 'w'i'l'l'
-'p'e'r's'o'n'
-'a'n'd' 'e'm'o't'i'o'n's' 'a'r'e' 'a'f'f'e'c't'e'd',' 'i'n's'a'n'e' 'i'm'p'u'l's'e's'
-'('1')' 'T'h'e' 'c'r'u'c'i'a'l' 'p'o'i'n't' 'o'f' 't'i'm'e' 'f'o'r' 'd'e'c'i'd'i'n'g'
-'a'r'e' 'n'o't' 'a' 'd'e'f'e'n'c'e'.'
-'w'h'e't'h'e'r' 't'h'e' 'b'e'n'e'f'i' 't' 'o'f' 'S'e'c't'i'o'n' '8'4' 'i's' 't'o' 'b'e'
-'('8')' 'I'n's'a'n'e' 'd'e'l'u's'i'o'n's'—'A'k'i'n' 't'o' 'l'u'n'a'c'y',' 'i's' 'i'n'-'
-'g'i'v'e'n' 'o'r' 'n'o't',' 'i's' 't'h'e' 't'i'm'e' 'w'h'e'n' 't'h'e' 'o'f'f'e'n'c'e'
-'s'a'n'e' 'd'e'l'u's'i'o'n' 'w'h'i'c'h' 'i's' 'a' 'b'o'r'd'e'r'l'i'n'e' 'c'a's'e'.'
-'t'a'k'e's' 'p'l'a'c'e' '('“'w'h'o' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'd'o'i'n'g'
-'W'h'e't'h'e'r' 'a' 'p'e'r's'o'n' 'w'h'o' 'u'n'd'e'r' 'a'n' 'i'n's'a'n'e'
-'i't'”')'.' 'I't' 'm'u's't' 'b'e' 's'h'o'w'n' 't'h'a't' 't'h'e' 'a'c'c'u's'e'd'
-'d'e'l'u's'i'o'n' 'a's' 't'o' 't'h'e' 'e'x'i's't'i'n'g' 'f'a'c't's' 'c'o'm'm'i't's'
-'w'a's' 'o'f' 'u'n's'o'u'n'd' 'm'i'n'd' 'a't' 't'h'e' 't'i'm'e' 'o'f' 't'h'e'
-'a'n' 'o'f'f'e'n'c'e' 'i'n' 'c'o'n's'e'q'u'e'n'c'e' 't'h'e'r'e'o'f',' 'i's' 't'o'
-'c'o'm'm'i's's'i'o'n' 'o'f' 't'h'e' 'o'f'f'e'n'c'e'.' 'I'f' 'h'e' 'w'a's' 'n'o't'
-'b'e' 'e'x'e'c'u't'e'd',' 'd'e'p'e'n'd's' 'u'p'o'n' 't'h'e' 'n'a't'u'r'e' 'o'f'
-'i'n's'a'n'e' 'a't' 't'h'a't' 't'i'm'e' 'b'u't' 'b'e'c'a'm'e' 'i'n's'a'n'e' 'l'a't'e'r','
-'t'h'e' 'd'e'l'u's'i'o'n'.' 'I'f' 'h'e' 'l'a'b'o'u'r's' 'u'n'd'e'r' 'a' 'p'a'r't'i'a'l'
-'h'e' 'c'a'n'n'o't' 't'a'k'e' 't'h'e' 'b'e'n'e'f'i' 't' 'o'f' 'S'e'c't'i'o'n' '8'4'.'
-'d'e'l'u's'i'o'n' 'o'n'l'y',' 'a'n'd' 'i's' 'n'o't' 'i'n' 'o't'h'e'r' 'r'e's'p'e'c't's'
-'('2')' 'I'n' 'o'r'd'e'r' 't'o' 's'e'e' 'w'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'w'a's'
-'i'n's'a'n'e',' 'h'e' 'm'u's't' 'b'e' 'c'o'n's'i'd'e'r'e'd' 'i'n' 't'h'e' 's'a'm'e'
-'i'n's'a'n'e' 'a't' 't'h'e' 't'i'm'e' 'o'f' 't'h'e' 'c'o'm'm'i's's'i'o'n' 'o'f'
-'s'i't'u'a't'i'o'n' 'a's' 't'o' 'r'e's'p'o'n's'i'b'i'l'i't'y' 'a's' 'i'f' 't'h'e' 'f'a'c't's','
-'o'f'f'e'n'c'e',' 't'h'e' 's't'a't'e' 'o'f' 'h'i's' 'm'i'n'd' 'b'e'f'o'r'e' 'a'n'd'
-'w'i't'h' 'r'e's'p'e'c't' 't'o' 'w'h'i'c'h' 't'h'e' 'd'e'l'u's'i'o'n' 'e'x'i's't's','
-'a'f't'e'r' 't'h'e' 'c'o'm'm'i's's'i'o'n' 'o'f' 'o'f'f'e'n'c'e' 'i's' 'r'e'l'e'v'a'n't'.'
-'w'e'r'e' 'r'e'a'l'.' 'I'n' 'o't'h'e'r' 'w'o'r'd's',' 'h'e' 'w'i'l'l' 'b'e' 'r'e'-'
-'F'o'r' 'i'n's't'a'n'c'e',' 'e'v'i'd'e'n'c'e' 'o'f' 'p'r'e'-'m'e'd'i't'a't'i'o'n','
-'s'p'o'n's'i'b'l'e' 'f'o'r' 't'h'e' 'c'r'i'm'e' 'c'o'm'm'i't't'e'd' 'b'y' 'h'i'm'.'
-'a'n' 'a't't'e'm'p't' 't'o' 'e'v'a'd'e' 'o'r' 'r'e's'i's't' 'a'r'r'e's't' 'e't'c'.'
-'S'i'm'i'l'a'r' 'i's' 't'h'e' 'c'a's'e' 'w'i't'h' 'f'a'n'c'i'e'd' 'd'e'l'u's'i'o'n's'.'
-'('3')' 'H'i's't'o'r'y' 'o'f' 'p'r'e'v'i'o'u's' 'i'n's'a'n'i't'y' 'i'n'c'l'u'd'i'n'g' 'a'n'y'
-'E'x'a'm'p'l'e'.' 'A' 'w'a's' 's'u'f'f'e'r'i'n'g' 'u'n'd'e'r' 'a'n' 'i'n's'a'n'e'
-'m'e'd'i'c'a'l' 'h'i's't'o'r'y' 'o'f' 't'h'e' 's'a'm'e',' 't'h'e' 'b'e'h'a'v'i'o'u'r'
-'d'e'l'u's'i'o'n' 't'h'a't' 'X' 'a'n'd' 'Y' 'w'e'r'e' 'p'e'r's'e'c'u't'i'n'g'
-'o'f' 't'h'e' 'a'c'c'u's'e'd' 'o'n' 't'h'e' 'd'a'y' 'o'f' 'o'c'c'u'r'r'e'n'c'e',' 'h'i'm'.' 'H'e' 'b'o'u'g'h't' 'a' 'k'n'i'f'e' 'i'n' 'o'r'd'e'r' 't'o' 'r'e'v'e'n'g'e'
-'a'n'd' 'h'i's' 'p'o's't'-'o'c'c'u'r'r'e'n'c'e' 'b'e'h'a'v'i'o'u'r' 'a'r'e' 'a'l's'o' 'h'i'm's'e'l'f' 'o'n' 't'h'e'm',' 'a'n'd' 't'h'a't' 'v'e'r'y' 'e'v'e'n'i'n'g' 'h'e'
-'r'e'l'e'v'a'n't' 't'o' 'b'e' 't'a'k'e'n' 'i'n't'o' 'c'o'n's'i'd'e'r'a't'i'o'n'.' 'w'e'n't' 't'o' 't'h'e'i'r' 'c'l'u'b' 'a'n'd' 's't'a'b'b'e'd' 't'h'e'm' 'd'e'a'd'.'
-'('4')' 'A'b's'e'n'c'e' 'o'f' 'a'n'y' 'm'o't'i'v'e',' 'a'b's'e'n'c'e' 'o'f'
-'T'h'e' 'f'a'c't' 't'h'a't' 'h'e' 'a'c't'u'a'l'l'y' 'b'o'u'g'h't' 'a' 'k'n'i'f'e' 'a'n'd'
-'s'e'c'r'e'c'y',' 'w'a'n't' 'o'f' 'p'r'e'-'a'r'r'a'n'g'e'm'e'n't' 'a'n'd' 'w'a'n't'
-'w'e'n't' 't'o' 't'h'e' 'c'l'u'b' 'o'f' 'h'i's' 'v'i'c't'i'm's' 's'h'o'w's' 't'h'a't'
-'o'f' 'a'c'c'o'm'p'l'i'c'e's' 'a'r'e' 'a'l's'o' 'r'e'l'e'v'a'n't' 'f'a'c't'o'r's'.'
-'h'e' 'k'n'e'w' 'w'h'a't' 'h'e' 'w'a's' 'g'o'i'n'g' 't'o' 'd'o',' 'n'a'm'e'l'y','
-'H'o'w'e'v'e'r',' 't'a'k'e'n' 'a'l'o'n'e' 't'h'e's'e' 'f'a'c't'o'r's' 'w'o'u'l'd'
-'a'n' 'a'c't' 'c'o'n't'r'a'r'y' 't'o' 'l'a'w',' 'h'e' 'h'a'd' 'a'n' 'i'n't'e'n't'i'o'n'
-'n'o't' 'b'e' 's'u'f'f'i' 'c'i'e'n't'.'
-'t'o' 'k'i'l'l'.' 'T'h'u's',' 'A' 'w'o'u'l'd' 'b'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'('5')' 'W'h'a't' 'S'e'c't'i'o'n' '8'4' 'e'x'p'e'c't's' 'i's' 'a'n' 'i'n'h'e'r'e'n't' 'o'r'
-'B'u't' 't'h'i's' 'w'o'u'l'd' 'n'o't' 'b'e' 's'o' 'i'f',' 'a't' 't'h'e' 't'i'm'e' 'o'f'
-'o'r'g'a'n'i'c' 'i'n'c'a'p'a'c'i't'y' '('i'.'e'.',' 'i'n'c'a'p'a'b'i'l'i't'y')' 'a'n'd'
-'c'o'm'm'i't't'i'n'g' 't'h'e' 'a'c't',' 'A' 'i's' 's'o' 'd'e'r'a'n'g'e'd' 'a's'
-'n'o't' 'a' 'w'r'o'n'g' 'o'r' 'e'r'r'o'n'e'o'u's' 'b'e'l'i'e'f' 'w'h'i'c'h'
-'n'o't' 't'o' 'k'n'o'w' 'w'h'a't' 'h'e' 'w'a's' 'd'o'i'n'g' 'o'r' 't'h'a't' 'h'e'
-'m'a'y' 'b'e' 't'h'e' 'r'e's'u'l't' 'o'f' 'a' 'p'e'r'v'e'r't'e'd' 'i'l'l'u's'i'o'n'.'
-'w'a's' 'd'o'i'n'g' 'a'n' 'a'c't' 'c'o'n't'r'a'r'y' 't'o' 'l'a'w'.'
-'('6')' 'N'a't'u'r'a'l'l'y' 'i'm'p'a'i'r'e'd' 'c'o'g'n'i't'i'v'e' 'f'a'c'u'l't'i'e's'
-'('9')' 'D'e'l'i'r'i'u'm'—'P'e'r's'o'n's' 'w'h'o' 'a'r'e' 'o'c'c'a's'i'o'n'a'l'l'y'
-'o'f' 'm'i'n'd' 'f'o'r'm' 'a' 'g'r'o'u'n'd' 'o'f' 't'h'e' 'd'e'f'e'n'c'e' 'o'f'
-'“'p'o's's'e's's'e'd'”' 'b'y' 't'h'e' '‘'s'p'i'r'i't's'’' 'a'n'd' 't'h'o's'e'
-'u'n's'o'u'n'd'n'e's's' 'o'f' 'm'i'n'd'.' 'T'h'e' 'a'g'i't'a't'i'o'n' 'o'f'
-'w'h'o',' 'b'e'i'n'g' 'i'n' 'f'i' 't's' 'o'f' 'd'e'l'i'r'i'u'm',' 'v'e'r'y' 'o'f't'e'n'
-'m'i'n'd' '('o'r' 'u'n'c'o'u'n't'a'b'l'e' 'i'm'p'u'l's'e's')' 'd'o'e's' 'n'o't'
-'c'o'n'j'u'r'e' 'u'p' 'v'i's'i'o'n's' 'o'r' 'i'm'a'g'e's' 'a'r'e' 'g'i'v'e'n' 't'h'e'
-'n'e'c'e's's'a'r'i'l'y' 'l'e'a'd' 't'o' 'a'n' 'i'n'f'e'r'e'n'c'e' 't'h'a't' 'i't' 'h'a's'
-'b'e'n'e'f'i' 't' 'o'f' 'S'e'c't'i'o'n' '8'4'.'
-'a'f'f'e'c't'e'd' 'o'n'e'’'s' 'm'e'n't'a'l' 'c'a'p'a'c'i't'y'.' 'S'i'm'i'l'a'r'l'y','
-'H'o'w'e'v'e'r',' 'i'n' 'c'a's'e's' 'o'f' 'd'e'l'i'r'i'u'm'
-'‘'m'o'r'a'l' 'i'n's'a'n'i't'y'’' 'o'r' 'w'e'a'k'/'d'e'f'e'c't'i'v'e' 'i'n't'e'l'l'e'c't'
-'t'r'e'm'e'n's'—'a' 'k'i'n'd' 'o'f' 'm'a'd'n'e's's' 'b'r'o'u'g'h't' 'a'b'o'u't'
-'i's' 'n'o' 'd'e'f'e'n'c'e'.' 'F'u'r't'h'e'r',' 'i'n's'a'n'i't'y' 'i's' 'd'i'f'f'e'r'e'n't'
-'b'y' 'h'a'b'i't'u'a'l' 'e'x'c'e's's'i'v'e' 'l'i'q'u'o'r'/'i'l'l'n'e's's',' 'i'f' 't'h'e'
-'f'r'o'm' 'e'c'c'e'n't'r'i'c'i't'y' 'o'r' 's't'r'a'n'g'e' 'b'e'h'a'v'i'o'u'r'.'
-'p'a't'i'e'n't' 'k'n'o'w's' 'a's' 't'o' 'w'h'a't' 'h'e' 'w'a's' 'd'o'i'n'g',' 'h'e'
-'('7')' 'M'e'd'i'c'a'l'/'L'e'g'a'l' 'i'n's'a'n'i't'y'—'T'h'e' 'c'o'u'r't's' 'a'r'e'
-'w'o'u'l'd' 'b'e' 'c'r'i'm'i'n'a'l'l'y' 'l'i'a'b'l'e'.'
-'c'o'n'c'e'r'n'e'd' 'w'i't'h' 't'h'e' 'l'e'g'a'l' 'a'n'd' 'n'o't' 'w'i't'h' 't'h'e'
-'('1'0')' 'R'e'c'e'n't' 't'r'e'n'd's'—'T'h'e' 'r'i'g'h't' 'a'n'd' 'w'r'o'n'g' 't'e's't'
-'m'e'd'i'c'a'l' 'v'i'e'w' 'o'f' 't'h'e' 'q'u'e's't'i'o'n'.' 'A' 'm'a'n' 'm'a'y'
-'('i'.'e'.',' 't'h'e' 'a'c'c'u's'e'd' 's'h'o'u'l'd' 'b'e' 'i'n'c'a'p'a'b'l'e' 'o'f'
-'b'e' 's'u'f'f'e'r'i'n'g' 'f'r'o'm' 's'o'm'e' 'f'o'r'm's' 'o'f' 'i'n's'a'n'i't'y'
-'k'n'o'w'i'n'g' 'w'h'e't'h'e'r' 't'h'e' 'a'c't' 'd'o'n'e' 'b'y' 'h'i'm'
-'i'n' 't'h'e' 's'e'n's'e' 'i'n' 'w'h'i'c'h' 't'h'e' 't'e'r'm' 'i's' 'u's'e'd' 'b'y'
-'i's' 'r'i'g'h't' 'o'r' 'w'r'o'n'g')' 'n'o' 'l'o'n'g'e'r' 'd'o'm'i'n'a't'e's'
-'m'e'd'i'c'a'l' 'm'e'n' 'b'u't' 'm'a'y' 'n'o't' 'b'e' 's'u'f'f'e'r'i'n'g'
-'t'h'i's' 'b'r'a'n'c'h' 'o'f' 'c'r'i'm'i'n'a'l' 'l'a'w' 'a'n'd' 'm'e'n't'a'l'
-'f'r'o'm' 'u'n's'o'u'n'd'n'e's's' 'o'f' 'm'i'n'd' 'a's' 'i's' 'd'e's'c'r'i'b'e'd'
-'a'b'n'o'r'm'a'l'i't'y' 'f'a'l'l'i'n'g' 's'h'o'r't' 'o'f' 'c'o'm'p'l'e't'e'
-'i'n' 'S'e'c't'i'o'n' '8'4'.' 'I'f' 't'h'e' 'f'a'c't's' 'o'f' 'a' 'p'a'r't'i'c'u'l'a'r'
-'i'n's'a'n'i't'y' 'i's' 'a' 'l'i'm'i't'e'd' 'd'e'f'e'n'c'e' 'e's't'a'b'l'i's'h'i'n'g'
-'c'a's'e' 's'h'o'w' 't'h'a't' 't'h'e' 'a'c'c'u's'e'd' 'k'n'e'w' 't'h'a't' 'h'e'
-'a' 'c'l'a'i'm' 'o'f' 'd'i'm'i'n'i's'h'e'd' 'r'e's'p'o'n's'i'b'i'l'i't'y' 'u'n'd'e'r'
-'h'a'd' 'd'o'n'e' 's'o'm'e't'h'i'n'g' 'w'r'o'n'g',' 'i't' 'd'i'd' 'n'o't'
-'S'e'c't'i'o'n' '2' 'o'f' 't'h'e' 'H'o'm'i'c'i'd'e' 'A'c't' '('E'n'g'l'i's'h')','
-'m'a't't'e'r' 'h'o'w',' 't'h'o'u'g'h' 'h'e' 'm'i'g'h't' 'b'e' 'i'n's'a'n'e'
-'1'9'5'7'.'
-'
-'R'I'G'H'T' 'O'F' 'P'R'I'V'A'T'E' 'D'E'F'E'N'C'E' 'a'n'd' 's'u'c'h' 'r'i'g'h't' 'c'o'n't'i'n'u'e's' 's'o' 'l'o'n'g' 'a's' 's'u'c'h'
-'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'd'a'n'g'e'r' 't'o' 't'h'e' 'b'o'd'y'
-'S'e'c't'i'o'n' '9'6':' 'T'h'i'n'g's' 'd'o'n'e' 'i'n' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'c'o'n't'i'n'u'e's'.' 'T'h'i's' 'r'i'g'h't' 'r'e's't's' 'o'n' 't'h'e' 'g'e'n'e'r'a'l'
-'“'N'o't'h'i'n'g' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'w'h'i'c'h' 'i's' 'd'o'n'e' 'i'n' 't'h'e' 'p'r'i'n'c'i'p'l'e' 't'h'a't' 'w'h'e'r'e' 'c'r'i'm'e' 'i's' 'e'n'd'e'a'v'o'u'r'e'd'
-'e'x'e'r'c'i's'e' 'o'f' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'”'.' 't'o' 'b'e' 'c'o'm'm'i't't'e'd' 'b'y' 'f'o'r'c'e',' 'i't' 'i's' 'l'a'w'f'u'l' 't'o'
-'T'h'e' 'd'o'c't'r'i'n'e' 'o'f' '‘'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'’' 'i's' 'r'e'p'e'l' 't'h'a't' 'f'o'r'c'e' 'i'n' 's'e'l'f'-'d'e'f'e'n'c'e'.' 'T'o' 's'a'y'
-'f'o'u'n'd'e'd' 'o'n' 't'h'e' 'f'o'l'l'o'w'i'n'g' 't'e'n' 'e'x'p'e'd'i'e'n'c'i'e's':' 't'h'a't' 'a' 'p'e'r's'o'n' 'c'o'u'l'd' 'o'n'l'y' 'c'l'a'i'm' 't'h'e' 'r'i'g'h't' 't'o'
-'('i')' 'A' 'p'r'i'v'a't'e' 'c'i't'i'z'e'n' 'w'h'o's'e' 'l'i'f'e' 'i's' 't'h'r'e'a't'e'n'e'd' 'u's'e' 'f'o'r'c'e' 'a'f't'e'r' 'h'e' 'h'a'd' 's'u's't'a'i'n'e'd' 'a' 's'e'r'i'o'u's'
-'b'y' 'a' 'g'r'a'v'e' 'd'a'n'g'e'r',' 'n'e'e'd' 'n'o't' 'w'a'i't' 'f'o'r' 't'h'e' 'i'n'j'u'r'y' 'b'y' 'a'n' 'a'g'g'r'e's's'i'v'e' 'w'r'o'n'g'f'u'l' 'a's's'a'u'l't' 'i's'
-'S't'a't'e' 'a'i'd';' 'h'o'w'e'v'e'r',' 'w'h'e'r'e' 'a'i'd' 'i's' 'a'v'a'i'l'a'b'l'e',' 'a' 'c'o'm'p'l'e't'e' 'm'i's'u'n'd'e'r's't'a'n'd'i'n'g' 'o'f' 't'h'e' 'l'a'w'.'
-'i't' 'm'u's't' 'b'e' 'o'b't'a'i'n'e'd'.' '('v'i'i')' 'T'h'e' 'p'r'o't'e'c't'i'v'e' 'm'e'a's'u'r'e's' 'e'm'p'l'o'y'e'd' 'm'u's't' 'b'e'
-'('i'i')' 'T'h'e' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'i's' 'p'r'o't'e'c't'i'v'e' 'o'r' 'r'e'l'a't'i'v'e' 't'o' 't'h'e' 'd'a'n'g'e'r' 'a'h'e'a'd' 'i'.'e'.',' 'v'i'o'l'e'n'c'e'
-'p'r'e'v'e'n't'i'v'e' 'a'n'd' 'n'o't' 'p'u'n'i't'i'v'e' '('i'.'e'.',' 'n'o't' 'u's'e'd' 'm'u's't' 'b'e' 'p'r'o'p'o'r't'i'o'n'a't'e' 't'o' 't'h'e' 'i'n'j'u'r'y' 'o'r'
-'t'h'r'e'a't' 't'o' 'b'e' 'a'v'e'r't'e'd',' 'a'n'd' 'm'u's't' 'n'o't' 'e'x'c'e'e'd'
-'m'e'a'n't' 'f'o'r' 'p'u'n'i's'h'i'n'g' 't'h'e' 'a'g'g'r'e's's'o'r')';'
-'s'u'c'h' 'l'i'm'i't's';' 'h'o'w'e'v'e'r' 'i'n' 's'u'c'h' 's'i't'u'a't'i'o'n's' 'i't'
-'h'o'w'e'v'e'r',' 'p'u'n'i't'i'v'e' 'm'e'a's'u'r'e's' 'm'a'y' 'r'e's'u'l't' 'i'n'
-'c'a'n'n'o't' 'b'e' 'e'x'p'e'c't'e'd' 'o'f' 'a' 'p'e'r's'o'n' 't'o' 'm'i'n'u't'e'l'y'
-'t'h'e' 'e'x'e'r'c'i's'e' 'o'f' 't'h'e' 'd'e'f'e'n'c'e'.' 'I't' 'i's' 'n'o't' 'a' 'r'i'g'h't'
-'c'a'l'c'u'l'a't'e' 't'h'e' 'c'o'r'r'e'c't' 'p'r'o'p'o'r't'i'o'n' 'o'f' 'f'o'r'c'e' 't'o'
-'o'f' 'p'r'i'v'a't'e' '‘'o'f'f'e'n'c'e'’'.' 'T'h'e' 'r'i'g'h't' 't'o' 'p'u'n'i's'h'
-'b'e' 'u's'e'd' 'i'n' 'd'e'f'e'n'c'e'.'
-'i's' 't'h'a't' 'o'f' 'S't'a't'e'.' 'T'h'u's',' 'i'f' 'a'f't'e'r' 's'u's't'a'i'n'i'n'g' 'a'
-'(' 'v'i'i'i')' 'T'h'e' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'e'n'd's' 'w'i't'h' 't'h'e' 'n'e'c'e's's'i't'y'
-'s'e'r'i'o'u's' 'i'n'j'u'r'y' 't'h'e'r'e' 'i's' 'n'o' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f'
-'f'o'r' 'i't'.' 'T'h'u's',' 't'h'e' 'p'e'r's'o'n' 'e'x'e'r'c'i's'i'n'g' 's'u'c'h'
-'f'u'r't'h'e'r' 'd'a'n'g'e'r' 't'o' 't'h'e' 'b'o'd'y' 't'h'e'n' 'o'b'v'i'o'u's'l'y'
-'r'i'g'h't' 'n'e'e'd' 'n'o't' 'c'h'a's'e' 't'h'e' 'f'l' 'e'e'i'n'g' 'a't't'a'c'k'e'r'
-'t'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'w'o'u'l'd' 'n'o't' 'b'e'
-'a'n'd' 't'h'e'n' 'b'e'a't' 'h'i'm'.' 'S'i'm'i'l'a'r'l'y',' 'a' 'p'e'r's'o'n' 'i's'
-'a'v'a'i'l'a'b'l'e'.'
-'n'o't' 'e'n't'i't'l'e'd' 't'o' 'g'o' 't'o' 't'h'e' 'h'o'u's'e' 'o'f' 'a' 'p'e'r's'o'n'
-'('i'i'i')' 'T'h'e' 'r'i'g'h't' 'c'a'n'n'o't' 'b'e' 'a'v'a'i'l'e'd' 'o'f' 'f'o'r' 't'h'e' 's'a'k'e'
-'w'h'o' 'b'e'a't' 'h'i's' 's'o'n' 'i'n' 'o'r'd'e'r' 't'o' 'c'h'a's't'i's'e' 'h'i'm'.'
-'o'f' 's'e'l'f'-'g'r'a't'i'f'i' 'c'a't'i'o'n' 'o'r' 't'o' 's'a't'i's'f'y' 'o'n'e'’'s' 'e'g'o'
-'('i'x')' 'T'h'e' 'l'a'w' 'd'o'e's' 'n'o't' 'r'e'q'u'i'r'e' 't'h'a't' 'a' 'p'e'r's'o'n'
-'o'r' 't'o' 's'a't'i's'f'y' 'o'n'e'’'s' 'm'a'l'i'c'i'o'u's' 'o'r' 's'a'd'i's't'i'c'
-'s'h'o'u'l'd' 'n'o't' 'e'x'e'r'c'i's'e' 'h'i's' 'r'i'g'h't' 't'o' 's'e'l'f'-'
-'u'r'g'e's'.' 'T'h'e' 'a'c't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 's'h'o'u'l'd'
-'d'e'f'e'n'c'e' 'i'f' 'b'y' 'r'u'n'n'i'n'g' 'a'w'a'y' 'h'e' 'c'a'n' 'a'v'o'i'd'
-'n'o't' 'b'e' 'd'e'l'i'b'e'r'a't'e'.' 'I't' 'i's' 'a'v'a'i'l'a'b'l'e' 'o'n'l'y' 'i'n'
-'i'n'j'u'r'y' 'f'r'o'm' 'h'i's' 'a's's'a'i'l'a'n't'.'
-'c'a's'e' 'o'f' 'i'm'm'i'n'e'n't' 'p'e'r'i'l' 't'o' 't'h'o's'e' 'w'h'o' 'a'c't'
-'('x')' 'T'h'e' 'l'a'w' 'd'o'e's' 'n'o't' 'r'e'q'u'i'r'e' 't'h'a't' 'a' 'p'e'r's'o'n'
-'i'n' 'g'o'o'd' 'f'a'i't'h' 'a'n'd' 'i'n' 'n'o' 'c'a's'e' 't'h'e' 'r'i'g'h't' 'b'e'
-'p'l'a'c'e'd' 'i'n' 's'u'c'h' 'c'i'r'c'u'm's't'a'n'c'e's' 's'h'o'u'l'd'
-'c'o'n'c'e'd'e'd' 't'o' 'a' 'p'e'r's'o'n' 'w'h'o' 's't'a'g'e'-'m'a'n'a'g'e's'
-'w'e'i'g'h' 't'h'e' 'a'r'g'u'm'e'n't's' 'f'o'r' 'a'n'd' 'a'g'a'i'n's't' 'a'n'
-'a' 's'i't'u'a't'i'o'n' 'w'h'e'r'e' 'i'n' 't'h'e' 'r'i'g'h't' 'c'a'n' 'b'e' 'u's'e'd'
-'a't't'a'c'k' '‘'i'n' 'g'o'l'd'e'n' 's'c'a'l'e's'’'.'
-'a's' 'a' 's'h'i'e'l'd' 't'o' 'j'u's't'i'f'y' 'a'n' 'a'c't' 'o'f' 'a'g'g'r'e's's'i'o'n'.'
-'T'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'i's' 'n'o't' 'a'v'a'i'l'a'b'l'e' 'i'n'
-'('i'v')' 'T'h'e' 'r'i'g'h't' 'm'u's't' 'b'e' 'e'x'e'r'c'i's'e'd' 'w'h'e'n' 't'h'e'r'e'
-'t'h'e' 'f'o'l'l'o'w'i'n'g' 's'i't'u'a't'i'o'n's':'
-'i's':'
-'('i')' 'T'h'e' 'a'g'g'r'e's's'o'r's' 'c'a'n'n'o't' 'c'l'a'i'm' 't'h'e' 'r'i'g'h't' 't'o'
-'('a')' 'r'e'a'l' 'a'n'd' 'i'm'm'e'd'i'a't'e' 't'h'r'e'a't' '('n'o't' 'i'm'a'g'i'-'
-'p'r'i'v'a't'e' 'd'e'f'e'n'c'e';' 'a'n' 'a'g'g'r'e's's'o'r' 'h'i'm's'e'l'f'
-'n'a'r'y' 'a'n'd' 'r'e'm'o't'e')',' 'a'n'd' 'c'r'e'a't'e's' 'a' 'd'a'n'g'e'r' 't'o' 'h'i's' 'o'w'n' 'l'i'f'e'.'
-'('b')' 'a' 'r'e'a's'o'n'a'b'l'e' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 's'u'c'h' '('i'i')' 'T'h'e'r'e' 'c'a'n'n'o't' 'b'e' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'a'g'a'i'n's't'
-'t'h'r'e'a't'.' 'T'h'e' 't'e'r'm' '‘'r'e'a's'o'n'a'b'l'e'’' 'i'm'p'l'i'e's' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.' 'T'h'e'r'e' 'i's' 'n'o' 'r'i'g'h't' 'o'f'
-'w'h'a't' 'a'n'y' 'c'o'm'm'o'n' 'm'a'n' 'i'n' 't'h'a't' 's'i't'u'a'-' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'u'n'd'e'r' 't'h'e' 'C'o'd'e' 'a'g'a'i'n's't'
-'t'i'o'n' 'w'o'u'l'd' 'a'p'p'r'e'h'e'n'd'.' 'a'n'y' 'a'c't' 'w'h'i'c'h' 'i's' 'n'o't' 'i'n' 'i't's'e'l'f' 'a'n' 'o'f'f'e'n'c'e'
-'('v')' 'T'h'e' 'a'p'p'r'e'h'e'n's'i'o'n' 'm'u's't' 'b'e' 'r'e'a's'o'n'a'b'l'e' 'a'n'd' 'u'n'd'e'r' 'i't' '('a'n' 'a'c't' 'd'o'n'e' 'i'n' 'e'x'e'r'c'i's'e' 'o'f' 't'h'e'
-'n'o't' 'f'a'n'c'i'f'u'l'.' 'A'n'd',' 'p'r'e's'e'n't' 'a'n'd' 'i'm'm'i'n'e'n't' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'i's' 'n'o't' 'a'n' 'o'f'f'e'n'c'e')'.'
-'d'a'n'g'e'r' '('n'o't' 'r'e'm'o't'e' 'o'r' 'd'i's't'a'n't')' 's'h'o'u'l'd' 'b'e' '('i'i'i')' 'I'n' 'a' 'c'a's'e' 'w'h'e'n' 't'w'o' 'p'a'r't'i'e's' 'a'r'e' 'h'a'v'i'n'g'
-'p'r'e's'e'n't'.' 't'h'u's',' 'X' 'c'a'n'n'o't' 's'h'o'o't' 'h'i's' 'e'n'e'm'y' 'a' 'f'r'e'e' 'f'i' 'g'h't' 'w'i't'h'o'u't' 'd'i's'c'l'o's'i'n'g' 'a's' 't'o'
-'Y' 'w'h'o' 'i's' 'a't' 'a' 'g'r'e'a't' 'd'i's't'a'n'c'e',' 'e'v'e'n' 'i'f' 'Y' 'i's' 'w'h'o' 'i's' 't'h'e' 'i'n'i't'i'a'l' 'a'g'g'r'e's's'o'r',' 'i't' 'w'o'u'l'd' 'b'e'
-'a'r'm'e'd' 'w'i't'h' 'a' 's'w'o'r'd'.' 'T'h'e' 'r'e'a's'o'n' 'i's' 't'h'a't',' 'a't' 'd'a'n'g'e'r'o'u's' 'a's' 'a' 'r'u'l'e' 't'o' 'c'l'o't'h'e' 'e'i't'h'e'r' 'o'f'
-'y'e't' 'Y' 'h'a's' 'n'o't' 'a't't'a'c'k'e'd' 'X',' 'a'n'd' 't'h'e'r'e'f'o'r'e',' 't'h'e'm' 'o'r' 'h'i's' 's'y'm'p'a't'h'i'z'e'r' 'w'i't'h' 'a' 'r'i'g'h't' 'o'f'
-'i't' 'c'a'n'n'o't' 'b'e' 's'a'i'd' 't'h'a't' 'X' 'h'a's' 'a' 'p'r'e's'e'n't' 'a'n'd' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.' 'I'n' 's'u'c'h' 'a' 'c'a's'e',' 'n'o' 'r'i'g'h't' 'o'f'
-'r'e'a's'o'n'a'b'l'e' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'b'e'i'n'g' 'a't't'a'c'k'e'd' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'i's' 'a'v'a'i'l'a'b'l'e' 't'o' 'e'i't'h'e'r' 'p'a'r't'y'
-'b'y' 'X'’'s' 's'w'o'r'd'.' 'a'n'd' 'e'a'c'h' 'i'n'd'i'v'i'd'u'a'l' 'i's' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r' 'h'i's'
-'('v'i')' 'T'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'c'o'm'm'e'n'c'e's' 'o'w'n' 'a'c't's'.'
-'a's' 's'o'o'n' 'a's' 'a' 'r'e'a's'o'n'a'b'l'e' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f'
-'d'a'n'g'e'r' 't'o' 't'h'e' 'b'o'd'y' 'a'r'i's'e's' 'f'r'o'm' 'a'n' 'a't't'e'm'p't' 'B'U'R'D'E'N' 'O'F' 'P'R'O'O'F'
-'o'r' 't'h'r'e'a't' 't'o' 'c'o'm'm'i't' 't'h'e' 'o'f'f'e'n'c'e',' 't'h'o'u'g'h'
-'t'h'e' 'o'f'f'e'n'c'e' 'm'a'y' 'n'o't' 'h'a'v'e' 'b'e'e'n' 'c'o'm'm'i't't'e'd',' 'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '1'0'5' 'o'f' 't'h'e' 'I'n'd'i'a'n' 'E'v'i'd'e'n'c'e'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '4'9'
-'A'c't',' '1'8'7'2',' 't'h'e' 'b'u'r'd'e'n' 'o'f' 'p'r'o'v'i'n'g' 't'h'e' 'e'x'c'e'p't'i'o'n' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'o'r' 'i's' 'a'c't'i'n'g' 'u'n'd'e'r' 't'h'e' 'd'i'r'e'c't'i'o'n' 'o'f'
-'i's' 'o'n' 't'h'e' 'p'e'r's'o'n' 'w'h'o' 'b'e'n'e'f'i' 't's' 'f'r'o'm' 'i't' '('i'.'e'.' 'o'n' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't'.'
-'t'h'e' 'a'c'c'u's'e'd')'.' 'I't' 'i's' 'w'e'l'l' 's'e't't'l'e'd' 't'h'a't' 'e'v'e'n' 'i'f' 'a'n' 'T'h'u's',' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 't'h'e'
-'a'c'c'u's'e'd' 'd'o'e's' 'n'o't' 'p'l'e'a'd' 's'e'l'f'-'d'e'f'e'n'c'e',' 'i't' 'i's' 'o'p'e'n' 'b'o'd'y'/'p'r'o'p'e'r't'y' 'c'a'n' 'b'e' 'e'x'e'r'c'i's'e'd' 'a'g'a'i'n's't' 'a' 'p'u'b'l'i'c'
-'t'o' 't'h'e' 'C'o'u'r't' 't'o' 'c'o'n's'i'd'e'r' 's'u'c'h' 'a' 'p'l'e'a' 'i'f' 't'h'e' 's'a'm'e' 's'e'r'v'a'n't' 'o'n'l'y' 'i'n' 't'h'e' 'f'o'l'l'o'w'i'n'g' 't'h'r'e'e' 'c'a's'e's':'
-'a'r'i's'e's' 'f'r'o'm' 't'h'e' 'm'a't'e'r'i'a'l' 'o'n' 'r'e'c'o'r'd'.' '('a')' 'W'h'e'n' 't'h'e' 'a'c't' 'o'f' 't'h'e' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'r'e'a's'o'n'-'
-'a'b'l'y' 'c'a'u's'e' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'd'e'a't'h'/'g'r'i'e'v'o'u's'
-'P'R'I'V'A'T'E' 'D'E'F'E'N'C'E' 'O'F' 'T'H'E' 'B'O'D'Y' 'h'u'r't'.'
-'('b')' 'W'h'e'n' 't'h'e' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'd'o'e's' 'n'o't' 'a'c't' 'i'n'
-'S'e'c't'i'o'n' '9'7'.' '“'E'v'e'r'y' 'p'e'r's'o'n' 'h'a's' 'a' 'r'i'g'h't' '('s'u'b'j'e'c't' 't'o' 'g'o'o'd' 'f'a'i't'h' 'u'n'd'e'r' 'c'o'l'o'u'r' 'o'f' 'h'i's' 'o'f'f'i' 'c'e'.'
-'r'e's't'r'i'c't'i'o'n' 'i'n' 'S'e'c't'i'o'n' '9'9')' 't'o' 'd'e'f'e'n'd' 'h'i's' 'o'w'n' 'b'o'd'y' '('c')' 'W'h'e'n' 't'h'e' 'p'e'r's'o'n' 'e'x'e'r'c'i's'i'n'g' 't'h'e' 'r'i'g'h't' 'd'o'e's'
-'o'r' 't'h'a't' 'o'f' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n' 'a'g'a'i'n's't' 'a'n'y' 'o'f'f'e'n'c'e' 'n'o't' 'k'n'o'w' 'o'r' 'h'a'v'e' 'a'n'y' 'r'e'a's'o'n' 't'o' 'b'e'l'i'e'v'e' 't'h'a't'
-'a'f'f'e'c't'i'n'g' 't'h'e' 'h'u'm'a'n' 'b'o'd'y'”'.' 't'h'e' 'a't't'a'c'k'e'r' 'i's' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't' 'o'r' 'i's' 'a'c't'i'n'g'
-'S'e'c't'i'o'n' '9'8'.' '“'E'v'e'r'y' 'p'e'r's'o'n' 'h'a's' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'u'n'd'e'r' 't'h'e' 'd'i'r'e'c't'i'o'n' 'o'f' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't'.'
-'d'e'f'e'n'c'e' 'o'f' 't'h'e' 'b'o'd'y' 'a'g'a'i'n's't' 'a'n' 'a'c't',' 'w'h'i'c'h' 'w'o'u'l'd' 'S'e'c't'i'o'n' '9'9' 'a'l's'o' 'l'a'y's' 'd'o'w'n' 't'h'e' 'e'x't'e'n't' 't'o' 'w'h'i'c'h'
-'o't'h'e'r'w'i's'e' 'b'e' 'a' 'c'e'r't'a'i'n' 'o'f'f'e'n'c'e',' 'b'u't' 'i's' 'n'o't' 't'h'a't' 't'h'e' 'r'i'g'h't' 'm'a'y' 'b'e' 'o'b's'e'r'v'e'd'.' 'T'h'e' 'm'e'a's'u'r'e' 'o'f' 's'e'l'f'-'
-'o'f'f'e'n'c'e' 'b'y' 'r'e'a's'o'n' 'o'f' 't'h'e' 'd'o'e'r' 'b'e'i'n'g' 'o'f' 'u'n's'o'u'n'd' 'd'e'f'e'n'c'e' 'm'u's't' 'a'l'w'a'y's' 'b'e' 'p'r'o'p'o'r't'i'o'n'a't'e' 't'o' 't'h'e'
-'m'i'n'd',' 'a' 'm'i'n'o'r',' 'a'n' 'i'n't'o'x'i'c'a't'e'd' 'p'e'r's'o'n' 'o'r' 'a' 'p'e'r's'o'n' 'q'u'a'n't'u'm' 'o'f' 'f'o'r'c'e' 'u's'e'd' 'b'y' 't'h'e' 'a't't'a'c'k'e'r' 'a'n'd' 'w'h'i'c'h'
-'a'c't'i'n'g' 'u'n'd'e'r' 'm'i's'c'o'n'c'e'p't'i'o'n' 'o'f' 'f'a'c't'”'.' 'i't' 'i's' 'n'e'c'e's's'a'r'y' 't'o' 'r'e'p'e'l'.' 'T'h'e' 'e'x't'e'n't' 'o'f' 'f'o'r'c'e' 'w'h'i'c'h'
-'T'h'i's' 's'e'c't'i'o'n' 'l'a'y's' 'd'o'w'n' 't'h'a't' 'f'o'r' 't'h'e' 'p'u'r'-' 'm'a'y' 'b'e' 'u's'e'd' 'd'e'p'e'n'd's' 'u'p'o'n' 't'h'e' 'c'i'r'c'u'm's't'a'n'c'e's' 'o'f'
-'p'o's'e' 'o'f' 'e'x'e'r'c'i's'i'n'g' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e',' 'e'a'c'h' 'c'a's'e'.' 'T'h'e' 'n'a't'u'r'e' 'o'f' 't'h'e' 'a't't'a'c'k',' 't'h'e' 'd'a'n'g'e'r'
-'t'h'e' 'p'h'y's'i'c'a'l' 'o'r' 'm'e'n't'a'l' 'c'a'p'a'c'i't'y' 'o'f' 't'h'e' 'p'e'r's'o'n' 'a'p'p'r'e'h'e'n'd'e'd',' 't'h'e' 'i'm'm'i'n'e'n'c'e' 'o'f' 'd'a'n'g'e'r' 'a'n'd' 't'h'e'
-'a'g'a'i'n's't' 'w'h'o'm' 't'h'e' 'r'i'g'h't' 'i's' 'e'x'e'r'c'i's'e'd' 'i's' 'n'o' 'b'a'r'.' 'I'n' 'r'e'a'l' 'n'e'c'e's's'i't'y' 'o'f' 'i'n'f'l' 'i'c't'i'n'g' 'h'a'r'm' 'b'y' 'r'e't'a'l'i'a't'i'o'n'
-'o't'h'e'r' 'w'o'r'd's',' 't'h'e' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'o'f' 't'h'e' 'b'o'd'y' 'e'x'-' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 's'e'l'f'-'d'e'f'e'n'c'e',' 'a'r'e' 's'o'm'e' 'o'f' 't'h'e'
-'i's't's' 'a'g'a'i'n's't' 'a'l'l' 'a't't'a'c'k'e'r's'—'w'h'e't'h'e'r' 'w'i't'h' 'o'r' 'w'i't'h'-' 'i'm'p'o'r't'a'n't' 'f'a'c't'o'r's' 't'o' 'b'e' 'c'o'n's'i'd'e'r'e'd' 'i'n' 'd'e'c'i'd'i'n'g'
-'o'u't' 'm'e'n's' 'r'e'a'.' 'T'h'u's',' 'i'f' 'Z',' 'u'n'd'e'r' 't'h'e' 'i'n'f'l' 'u'e'n'c'e' 'o'f' 'w'h'e't'h'e'r' 't'h'e' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'h'a's' 'b'e'e'n' 'e'x'c'e'e'd'e'd'.'
-'m'a'd'n'e's's',' 'a't't'e'm'p't's' 't'o' 'k'i'l'l' 'A',' 'Z' 'i's' 'g'u'i'l't'y' 'o'f' 'n'o' 'S'e'c't'i'o'n' '1'0'0'.' 'W'h'e'n' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'
-'o'f'f'e'n'c'e'.' 'B'u't' 'A' 'h'a's' 't'h'e' 's'a'm'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'-' 'e'x't'e'n'd's' 't'o' 'c'a'u's'i'n'g' 'd'e'a't'h'.'
-'f'e'n'c'e' 'w'h'i'c'h' 'h'e' 'w'o'u'l'd' 'h'a'v'e' 'i'f' 'Z' 'w'e'r'e' 's'a'n'e',' 'T'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 't'h'e' 'b'o'd'y' 'e'x't'e'n'd's'
-'S'e'c't'i'o'n' '9'9' 'p'l'a'c'e's' 'f'o'u'r' 'r'e's't'r'i'c't'i'o'n's' 'o'n' 't'h'e' 'r'i'g'h't' '('s'u'b'j'e'c't' 't'o' 't'h'e' 'r'e's't'r'i'c't'i'o'n's' 'm'e'n't'i'o'n'e'd' 'i'n' 'S'e'c't'i'o'n'
-'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e':' '9'9')' 't'o' 't'h'e' 'v'o'l'u'n't'a'r'y' 'c'a'u's'i'n'g' 'o'f' 'd'e'a't'h' 'o'r' 'o'f' 'a'n'y'
-'('i')' 'T'h'e'r'e' 'i's' 'n'o' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'a'g'a'i'n's't' 'o't'h'e'r' 'h'a'r'm' 't'o' 't'h'e' 'a's's'a'i'l'a'n't' 'i'n' 'c'a's'e's' 'o'f':'
-'a'n' 'a'c't' 'w'h'i'c'h' 'd'o'e's' 'n'o't' 'r'e'a's'o'n'a'b'l'y' 'c'a'u's'e' 't'h'e' '('i')' 'a'n' 'a's's'a'u'l't' 'a's' 'm'a'y' 'r'e'a's'o'n'a'b'l'y' 'c'a'u's'e' 't'h'e'
-'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'd'e'a't'h' 'o'r' 'g'r'i'e'v'o'u's' 'h'u'r't',' 'i'f' 'a'p'p'r'e'h'e'n's'i'o'n' 't'h'a't' 'd'e'a't'h' 'w'i'l'l' 'o't'h'e'r'w'i's'e' 'b'e'
-'d'o'n'e' 'o'r' 'a't't'e'm'p't'e'd' 't'o' 'b'e' 'd'o'n'e' 'b'y' 'a' 'p'u'b'l'i'c' 't'h'e' 'c'o'n's'e'q'u'e'n'c'e' 'o'f' 's'u'c'h' 'a's's'a'u'l't'.'
-'s'e'r'v'a'n't' 'a'c't'i'n'g' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'u'n'd'e'r' 'c'o'l'o'u'r' '('i'i')' 'S'i'm'i'l'a'r'l'y',' 'i'n' 'c'a's'e' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'o'f' 'h'i's' 'o'f'f'i' 'c'e',' 't'h'o'u'g'h' 't'h'a't' 'a'c't' 'm'a'y' 'n'o't' 'b'e' '('i'i'i')' 'A'n' 'a's's'a'u'l't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'c'o'm'm'i't't'i'n'g'
-'s't'r'i'c't'l'y' 'j'u's't'i'f'i' 'a'b'l'e' 'b'y' 'l'a'w'.' 'r'a'p'e'.'
-'('i'i')' 'S'i'm'i'l'a'r'l'y',' 't'h'e'r'e' 'i's' 'n'o' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' '('i'v')' 'A'n' 'a's's'a'u'l't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'g'r'a't'i'f'y'i'n'g'
-'d'e'f'e'n'c'e',' 'w'h'e'n' 't'h'e' 'a'c't' 'i's' 'd'o'n'e' 'b'y' 't'h'e' 'u'n'n'a't'u'r'a'l' 'l'u's't'.'
-'d'i'r'e'c't'i'o'n' 'o'f' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't',' 't'h'o'u'g'h' 't'h'a't' '('v')' 'A'n' 'a's's'a'u'l't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'k'i'd'n'a'p'p'i'n'g'
-'d'i'r'e'c't'i'o'n' 'm'a'y' 'n'o't' 'b'e' 's't'r'i'c't'l'y' 'j'u's't'i'f'i' 'a'b'l'e' 'b'y' 'o'r' 'a'b'd'u'c't'i'o'n'.'
-'l'a'w'.' '('v'i')' 'A'n' 'a's's'a'u'l't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'w'r'o'n'g'f'u'l'l'y'
-'('i'i'i')' 'T'h'e'r'e' 'i's' 'n'o' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'i'n' 'c'a's'e's' 'i'n' 'c'o'n'f'i' 'n'i'n'g' 'a' 'p'e'r's'o'n' 'u'n'd'e'r' 'c'i'r'c'u'm's't'a'n'c'e's'
-'w'h'i'c'h' 't'h'e'r'e' 'i's' 't'i'm'e' 't'o' 'h'a'v'e' 'r'e'c'o'u'r's'e' 't'o' 't'h'e' 'w'h'i'c'h' 'm'a'y' 'r'e'a's'o'n'a'b'l'y' 'c'a'u's'e' 'h'i'm' 't'o'
-'p'r'o't'e'c't'i'o'n' 'o'f' 'p'u'b'l'i'c' 'a'u't'h'o'r'i't'i'e's'.' 'a'p'p'r'e'h'e'n'd' 't'h'a't' 'h'e' 'w'i'l'l' 'b'e' 'u'n'a'b'l'e' 't'o' 'h'a'v'e'
-'('i'v')' 'T'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'i'n' 'n'o' 'c'a's'e' 'r'e'c'o'u'r's'e' 't'o' 't'h'e' 'p'u'b'l'i'c' 'a'u't'h'o'r'i't'i'e's' 'f'o'r'
-'e'x't'e'n'd's' 't'o' 't'h'e' 'i'n'f'l' 'i'c't'i'n'g' 'o'f' 'm'o'r'e' 'h'a'r'm' 't'h'a'n' 'r'e'l'e'a's'e'.'
-'i't' 'i's' 'n'e'c'e's's'a'r'y' 't'o' 'i'n'f'l' 'i'c't' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 'I'n' 't'h'e' '('i')' 's'i't'u'a't'i'o'n' 'i'f' 't'h'e' 'd'e'f'e'n'd'e'r' 'b'e' 's'o'
-'d'e'f'e'n'c'e'.' 's'i't'u'a't'e'd' 't'h'a't' 'h'e' 'c'a'n'n'o't' 'e'x'e'r'c'i's'e' 't'h'e' 'r'i'g'h't' 'w'i't'h'o'u't'
-'E'x'p'l'a'n'a't'i'o'n' '1' 'a'n'd' '2'.' 'S'e'c't'i'o'n' '9'9' 'p'r'o'v'i'd'e's' 't'h'a't' 'r'i's'k' 't'o' 'h'a'r'm' 't'o' 'a'n' 'i'n'n'o'c'e'n't' 'p'e'r's'o'n' 'h'e' 'm'a'y' 'e'v'e'n'
-'p'e'r's'o'n' 'i's' 'n'o't' 'd'e'p'r'i'v'e'd' 'o'f' 't'h'e' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'r'u'n' 't'h'a't' 'r'i's'k' '('S'e'c't'i'o'n' '1'0'6')'.' 'T'h'u's',' 'i'f' 'A' 'i's' 'a't't'a'c'k'e'd'
-'a'g'a'i'n's't' 'a'n' 'a'c't' 'o'f' 'p'u'b'l'i'c' 's'e'r'v'a'n't',' 'u'n'l'e's's' 'h'e' 'k'n'o'w's' 'b'y' 'a' 'm'o'b' 'w'h'i'c'h' 'a't't'e'm'p't's' 't'o' 'm'u'r'd'e'r' 'h'i'm' 'a'n'd' 'h'e'
-'o'r' 'h'a's' 'r'e'a's'o'n' 't'o' 'b'e'l'i'e'v'e' 't'h'a't' 't'h'e' 'a't't'a'c'k'e'r' 'i's' 'a' 'c'a'n'n'o't' 'e'f'f'e'c't'u'a'l'l'y' 'e'x'e'r'c'i's'e' 'h'i's' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e'
-'
-'d'e'f'e'n'c'e' 'w'i't'h'o'u't' 'f'i' 'r'i'n'g' 'o'n' 't'h'e' 'm'o'b',' 'a'n'd' 'h'e' 'c'a'n'-' '('1')' 'A'c't's' 'a'g'a'i'n's't' 'w'h'i'c'h' 't'h'e'r'e' 'i's' 'n'o' 'r'i'g'h't' 'o'f' 'p'r'i'-'
-'n'o't' 'f'i' 'r'e' 'w'i't'h'o'u't' 'r'i's'k' 'o'f' 'h'a'r'm'i'n'g' 'y'o'u'n'g' 'c'h'i'l'd'r'e'n' 'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 'p'r'o'p'e'r't'y'
-'w'h'o' 'a'r'e' 'm'i'n'g'l'e'd' 'w'i't'h' 't'h'e' 'm'o'b',' 'A' 'c'o'm'm'i't's' 'n'o' 'S'e'c't'i'o'n' '9'9' 'l'a'y's' 'd'o'w'n' 't'h'e' 'l'i'm'i't'a't'i'o'n's' 't'o' 't'h'e' 'r'i'g'h't'
-'o'f'f'e'n'c'e' 'i'f' 'b'y' 's'o' 'f'i' 'r'i'n'g' 'h'e' 'h'a'r'm's' 't'h'e' 'c'h'i'l'd'r'e'n' '('I'l'-' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 'p'r'o'p'e'r't'y':'
-'l'u's't'r'a't'i'o'n' 't'o' 'S'e'c't'i'o'n' '1'0'6')'.' '('i')' 'T'h'e'r'e' 'i's' 'n'o' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f'
-'F'o'u'r' 'u'n'd'e'r'm'e'n't'i'o'n'e'd' 'c'a'r'd'i'n'a'l' 'c'o'n'd'i't'i'o'n's' 'p'r'o'p'e'r't'y' 'a'g'a'i'n's't' 'a'n' 'a'c't' 'w'h'i'c'h' 'd'o'e's' 'n'o't'
-'m'u's't' 'h'a'v'e' 'e'x'i's't'e'd' 'b'e'f'o'r'e' 't'h'e' 't'a'k'i'n'g' 'o'f' 't'h'e' 'l'i'f'e' 'o'f' 'r'e'a's'o'n'a'b'l'y' 'c'a'u's'e' 't'h'e' 'a'p'p'r'e'h'e'n's'i'o'n'
-'a' 'p'e'r's'o'n' 'i's' 'j'u's't'i'f'i' 'e'd' 'o'n' 't'h'e' 'p'l'e'a' 'o'f' 's'e'l'f'-'d'e'f'e'n'c'e':' 'o'f' 'd'e'a't'h'/'g'r'i'e'v'o'u's' 'h'u'r't',' 'i'f' 'd'o'n'e' 'b'y' '('o'r'
-'F'i'r's't'l'y',' 't'h'e' 'a'c'c'u's'e'd' 'm'u's't' 'b'e' 'f'r'e'e' 'f'r'o'm' 'f'a'u'l't' 'b'y' 't'h'e' 'd'i'r'e'c't'i'o'n' 'o'f')' 'a' 'p'u'b'l'i'c' 's'e'r'v'a'n't'
-'i'n' 'b'r'i'n'g'i'n'g' 'a'b'o'u't' 't'h'e' 'e'n'c'o'u'n't'e'r';' 'a'c't'i'n'g' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'u'n'd'e'r' 'c'o'l'o'u'r' 'o'f'
-'S'e'c'o'n'd'l'y',' 't'h'e'r'e' 'm'u's't' 'b'e' 'p'r'e's'e'n't' 'a'n' 'i'm'p'e'n'd'-' 'h'i's' 'o'f'f'i' 'c'e'.'
-'i'n'g' 'p'e'r'i'l' 't'o' 'l'i'f'e' 'o'r' 'o'f' 'g'r'e'a't' 'b'o'd'i'l'y' 'h'a'r'm',' 'e'i't'h'e'r' '('i'i')' 'T'h'e'r'e' 'i's' 'a'l's'o' 'n'o' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'i'n'
-'r'e'a'l' 'o'r' 's'o' 'a'p'p'a'r'e'n't' 'a's' 't'o' 'c'r'e'a't'e' 'h'o'n'e's't' 'b'e'l'i'e'f' 'o'f' 'c'a's'e's' 'i'n' 'w'h'i'c'h' 't'h'e'r'e' 'i's' 't'i'm'e' 't'o' 'h'a'v'e'
-'a'n' 'e'x'i's't'i'n'g' 'n'e'c'e's's'i't'y'.' 'r'e's'o'u'r'c'e' 't'o' 't'h'e' 'p'r'o't'e'c't'i'o'n' 'o'f' 't'h'e'
-'T'h'i'r'd'l'y',' 't'h'e'r'e' 'm'u's't' 'b'e' 'n'o' 's'a'f'e' 'o'r' 'r'e'a's'o'n'-' 'p'u'b'l'i'c' 'a'u't'h'o'r'i't'i'e's'.' 'F'u'r't'h'e'r',' 't'h'e' 'r'i'g'h't'
-'a'b'l'e' 'm'o'd'e' 'o'f' 'e's'c'a'p'e' 'b'y' 'r'e't'r'e'a't';' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'i'n' 'n'o' 'c'a's'e' 'e'x't'e'n'd's'
-'F'o'u'r't'h'l'y',' 't'h'e'r'e' 'm'u's't' 'h'a'v'e' 'b'e'e'n' 'a' 'n'e'c'e's's'i't'y' 't'o' 't'h'e' 'i'n'f'l' 'i'c't'i'n'g' 'o'f' 'm'o'r'e' 't'h'a'n' 'i't' 'i's'
-'f'o'r' 't'a'k'i'n'g' 'l'i'f'e'.' 'n'e'c'e's's'a'r'y' 't'o' 'i'n'f'l' 'i'c't' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f'
-'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '1'0'1',' 'i'n' 'o't'h'e'r' 'c'a's'e's' 'd'e'f'e'n'c'e'.'
-'t'h'a'n' 't'h'o's'e' 'm'e'n't'i'o'n'e'd' 'i'n' 'S'e'c't'i'o'n' '1'0'0',' 't'h'e' 'p'e'r's'o'n' '('2')' 'R'i'g'h't' 'w'h'e'n' 'c'o'm'm'e'n'c'e's' 'a'n'd' 'h'o'w' 'l'o'n'g' 'i't'
-'e'x'e'r'c'i's'i'n'g' 't'h'e' 'r'i'g'h't' 'm'a'y' 'c'a'u's'e' 'a'n'y' 'o't'h'e'r' 'h'a'r'm' 'c'o'n't'i'n'u'e's' '('S'e'c't'i'o'n' '1'0'5')'
-'e'x'c'e'p't' 'd'e'a't'h'.' 'T'h'e' 'r'i'g'h't' 'c'o'm'm'e'n'c'e's' 'w'h'e'n' 'a' 'r'e'a's'o'n'a'b'l'e'
-'S'e'c't'i'o'n' '1'0'2'.' 'C'o'm'm'e'n'c'e'm'e'n't' 'a'n'd' 'c'o'n't'i'n'u'-' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'd'a'n'g'e'r' 't'o' 't'h'e' 'p'r'o'p'e'r't'y'
-'a'n'c'e' 'o'f' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.' 'c'o'm'm'e'n'c'e's'.' 'T'h'e' 'r'i'g'h't' 'c'o'n't'i'n'u'e's'
-'T'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 't'h'e' 'b'o'd'y' '('i')' 'a'g'a'i'n's't' 't'h'e'f't',' 't'i'l'l' 't'h'e' 'o'f'f'e'n'd'e'r' 'h'a's'
-'c'o'm'm'e'n'c'e's' 'a's' 's'o'o'n' 'a's' 'a' 'r'e'a's'o'n'a'b'l'e' 'a'p'p'r'e'h'e'n'-' 'e'f'f'e'c't'e'd' 'h'i's' 'r'e't'r'e'a't' 'w'i't'h' 't'h'e' 'p'r'o'p'e'r't'y','
-'s'i'o'n' 'o'f' 'd'a'n'g'e'r' 't'o' 't'h'e' 'b'o'd'y' 'a'r'i's'e's' 'f'r'o'm' 'a'n' 'a't'-' 'o'r' 't'h'e' 'a's's'i's't'a'n'c'e' 'o'f' 't'h'e' 'p'u'b'l'i'c'
-'t'e'm'p't' 'o'r' 't'h'r'e'a't' 't'o' 'c'o'm'm'i't' 't'h'e' 'o'f'f'e'n'c'e' 't'h'o'u'g'h' 't'h'e' 'a'u't'h'o'r'i't'i'e's' 'i's' 'o'b't'a'i'n'e'd';' 'o'r' 't'h'e' 'p'r'o'p'e'r't'y'
-'o'f'f'e'n'c'e' 'm'a'y' 'n'o't' 'h'a'v'e' 'b'e'e'n' 'c'o'm'm'i't't'e'd';' 'a'n'd' 'i't' 'h'a's' 'b'e'e'n' 'r'e'c'o'v'e'r'e'd'.'
-'c'o'n't'i'n'u'e's' 'a's' 'l'o'n'g' 'a's' 's'u'c'h' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 'd'a'n'-' '('i'i')' 'a'g'a'i'n's't' 'r'o'b'b'e'r'y',' 'a's' 'l'o'n'g' 'a's' 't'h'e' 'o'f'f'e'n'd'e'r'
-'g'e'r' 't'o' 't'h'e' 'b'o'd'y' 'c'o'n't'i'n'u'e's'.' 'c'a'u's'e's' '('o'r' 'a't't'e'm'p't's' 't'o' 'c'a'u's'e')' 't'o' 'a'n'y'
-'p'e'r's'o'n' 'd'e'a't'h' 'o'r' 'h'u'r't' 'o'r' 'w'r'o'n'g'f'u'l'
-'r'e's't'r'a'i'n't',' 'o'r' 't'h'e' 'f'e'a'r' 'o'f' 'i'n's't'a'n't' 'd'e'a't'h'/'
-'P'R'I'V'A'T'E' 'D'E'F'E'N'C'E' 'O'F' 'P'R'O'P'E'R'T'Y'
-'h'u'r't'/'p'e'r's'o'n'a'l' 'r'e's't'r'a'i'n't' 'c'o'n't'i'n'u'e's'.'
-'('i'i'i')' 'a'g'a'i'n's't' 'c'r'i'm'i'n'a'l' 't'r'e's'p'a's's' 'o'r' 'm'i's'c'h'i'e'f','
-'A'c't's' 'a'g'a'i'n's't' 'w'h'i'c'h' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'o'f' 'p'r'o'p'e'r't'y'
-'s'o' 'l'o'n'g' 'a's' 't'h'e' 'o'f'f'e'n'd'e'r' 'c'o'n't'i'n'u'e's' 'i'n'
-'c'a'n' 'b'e' 'e'x'e'r'c'i's'e'd'.' 'E'v'e'r'y' 'p'e'r's'o'n' 'h'a's' 't'h'e' 'r'i'g'h't'
-'t'h'e' 'c'o'm'm'i's's'i'o'n' 'o'f' 's'u'c'h' 'o'f'f'e'n'c'e'
-'t'o' 'd'e'f'e'n'd' 't'h'e' 'p'r'o'p'e'r't'y' '('w'h'e't'h'e'r' 'm'o'v'a'b'l'e' 'o'r'
-'('i'v')' 'a'g'a'i'n's't' 'h'o'u's'e'-'b'r'e'a'k'i'n'g' 'b'y' 'n'i'g'h't',' 'a's'
-'i'm'm'o'v'a'b'l'e')' 'o'f' 'h'i'm's'e'l'f' 'o'r' 'o'f' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n'
-'l'o'n'g' 'a's' 't'h'e' 'h'o'u's'e'-'t'r'e's'p'a's's' 'c'o'n't'i'n'u'e's'
-'('i')' 'a'g'a'i'n's't' 't'h'e'f't',' 'r'o'b'b'e'r'y',' 'm'i's'c'h'i'e'f' 'o'r' 'c'r'i'm'i'n'a'l'
-'('t'h'u's',' 'w'h'e'r'e' 'a' 'p'e'r's'o'n' 'f'o'l'l'o'w'e'd' 'a'
-'t'r'e's'p'a's's',' 'o'r' 'a'n'y' 'a'c't' 'w'h'i'c'h' 'i's' 'a'n' 'a't't'e'm'p't' 't'o'
-'t'h'i'e'f' 'a'n'd' 'k'i'l'l'e'd' 'h'i'm' 'i'n' 't'h'e' 'o'p'e'n',' 'a'f't'e'r'
-'c'o'm'm'i't' 't'h'e'f't',' 'r'o'b'b'e'r'y',' 'e't'c'.' '('S'e'c't'i'o'n' '9'7')';'
-'h'o'u's'e'-'t'r'e's'p'a's's' 'h'a's' 'c'e'a's'e'd',' 'h'e'l'd' 't'h'a't'
-'a'n'd'
-'h'e' 'c'o'u'l'd' 'n'o't' 'p'l'e'a'd' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e'
-'('i'i')' 'a'g'a'i'n's't' 't'h'e' 'a'c't' 'o'f' 'a' 'l'u'n'a't'i'c',' 'a' 'm'i'n'o'r',' 'o'r' 'a'n'
-'d'e'f'e'n'c'e')'
-'i'n't'o'x'i'c'a't'e'd' 'p'e'r's'o'n' 'o'r' 'a' 'p'e'r's'o'n' 'a'c't'i'n'g' 'u'n'-'
-'T'h'u's',' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 't'h'e'
-'d'e'r' 'a' 'm'i's'c'o'n'c'e'p't'i'o'n' 'o'f' 'f'a'c't' '('S'e'c't'i'o'n' '9'8')'.'
-'p'r'o'p'e'r't'y' 'c'o'm'm'e'n'c'e's' 'a'n'd' 'c'o'n't'i'n'u'e's' 'a's' 'l'o'n'g' 'a's'
-'I'l'l'u's't'r'a't'i'o'n' 't'h'e' 'd'a'n'g'e'r' 'l'a's't's'.' 'T'h'e' 'e'x't'e'n't' 't'o' 'w'h'i'c'h' 't'h'e' 'e'x'e'r'c'i's'e'
-'o'f' 't'h'e' 'r'i'g'h't' 'w'i'l'l' 'b'e' 'j'u's't'i'f'i' 'e'd' 'w'i'l'l' 'd'e'p'e'n'd',' 'n'o't' 'o'n'
-'A' 'e'n't'e'r's' 'b'y' 'n'i'g'h't' 'a' 'h'o'u's'e',' 'w'h'i'c'h' 'h'e' 'i's' 'l'e'g'a'l'l'y'
-'t'h'e' 'a'c't'u'a'l' 'd'a'n'g'e'r',' 'b'u't' 'o'n' 'w'h'e't'h'e'r' 't'h'e'r'e' 'w'a's'
-'e'n't'i't'l'e'd' 't'o' 'e'n't'e'r'.' 'Z',' 'i'n' 'g'o'o'd' 'f'a'i't'h',' 't'a'k'i'n'g' 'A' 'f'o'r' 'a'
-'r'e'a's'o'n'a'b'l'e' 'a'p'p'r'e'h'e'n's'i'o'n' 'o'f' 's'u'c'h' 'd'a'n'g'e'r'.'
-'h'o'u's'e'-'b'r'e'a'k'e'r',' 'a't't'a'c'k's' 'A'.' 'H'e'r'e' 'Z',' 'b'y' 'a't't'a'c'k'i'n'g' 'A'
-'('3')' 'W'h'e'n' 't'h'e' 'r'i'g'h't' 'e'x't'e'n'd's' 't'o' 't'h'e' 'c'a'u's'i'n'g' 'o'f'
-'u'n'd'e'r' 't'h'i's' 'm'i's'c'o'n'c'e'p't'i'o'n',' 'c'o'm'm'i't's' 'n'o' 'o'f'f'e'n'c'e'.'
-'d'e'a't'h',' 'e't'c'.'
-'B'u't' 'A' 'h'a's' 't'h'e' 's'a'm'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'
-'S'e'c't'i'o'n' '1'0'3' 'e'n'u'm'e'r'a't'e's' 't'h'e' 'c'a's'e's' 'i'n' 'w'h'i'c'h'
-'a'g'a'i'n's't' 'Z',' 'w'h'i'c'h' 'h'e' 'w'o'u'l'd' 'h'a'v'e' 'i'f' 'Z' 'w'e'r'e' 'n'o't'
-'t'h'e' 'r'i'g'h't' 'e'x't'e'n'd's' 't'o' 'j'u's't'i'f'i' 'a'b'l'y' 'c'a'u's'i'n'g' 't'h'e'
-'a'c't'i'n'g' 'u'n'd'e'r' 't'h'i's' 'm'i's'c'o'n'c'e'p't'i'o'n'.'
-'d'e'a't'h' 'o'f' 't'h'e' 'w'r'o'n'g'-'d'o'e'r',' 'v'i'z'.','
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '5'1'
-'('i')' 'R'o'b'b'e'r'y',' 'n'a't'u'r'e' 'o'f' 't'h'e' 'a'c't',' 'o'r' 't'h'a't' 'h'e' 'i's' 'd'o'i'n'g' 'w'h'a't' 'i's' 'e'i'-'
-'('i'i')' 'H'o'u's'e'-'b'r'e'a'k'i'n'g' 'b'y' 'n'i'g'h't',' 't'h'e'r' 'w'r'o'n'g',' 'o'r' 'c'o'n't'r'a'r'y' 't'o' 'l'a'w':' 'p'r'o'v'i'd'e'd' 't'h'a't' 't'h'e'
-'('i'i'i')' 'M'i's'c'h'i'e'f' 'b'y' 'f'i' 'r'e' 't'o' 'a'n'y' 'b'u'i'l'd'i'n'g',' 't'e'n't',' 't'h'i'n'g' 'w'h'i'c'h' 'i'n't'o'x'i'c'a't'e'd' 'h'i'm' 'w'a's' 'a'd'm'i'n'i's't'e'r'e'd'
-'o'r' 'v'e's's'e'l' 'u's'e'd' 'a's' 'h'u'm'a'n' 'd'w'e'l'l'i'n'g' 'o'r' 'w'i't'h'o'u't' 'h'i's' 'k'n'o'w'l'e'd'g'e' 'o'r' 'a'g'a'i'n's't' 'h'i's' 'w'i'l'l'”'.'
-'a's' 'a' 'p'l'a'c'e' 'f'o'r' 't'h'e' 'c'u's't'o'd'y' 'o'f' 'p'r'o'p'e'r't'y',' 'S'e'c't'i'o'n' '8'6':' '“'I'n' 'c'a's'e's' 'w'h'e'r'e' 'a'n' 'a'c't' 'd'o'n'e' 'i's' 'n'o't'
-'('i'v')' 'T'h'e'f't',' 'm'i's'c'h'i'e'f',' 'o'r' 'h'o'u's'e'-'t'r'e's'p'a's's' 'u'n'-' 'a'n' 'o'f'f'e'n'c'e' 'u'n'l'e's's' 'd'o'n'e' 'w'i't'h' 'a' 'p'a'r't'i'c'u'l'a'r' 'k'n'o'w'l'-'
-'d'e'r' 's'u'c'h' 'c'i'r'c'u'm's't'a'n'c'e's' 'a's' 'm'a'y' 'r'e'a's'o'n'-' 'e'd'g'e' 'o'r' 'i'n't'e'n't',' 'a' 'p'e'r's'o'n',' 'w'h'o' 'd'o'e's' 't'h'e' 'a'c't' 'i'n' 'a'
-'a'b'l'y' 'c'a'u's'e' 'a'n' 'a'p'p'r'e'h'e'n's'i'o'n' 't'h'a't' 'd'e'a't'h'/' 's't'a't'e' 'o'f' 'i'n't'o'x'i'c'a't'i'o'n' 's'h'a'l'l' 'b'e' 'l'i'a'b'l'e' 't'o' 'b'e' 'd'e'a'l't'h'
-'g'r'i'e'v'o'u's' 'h'u'r't' 'w'i'l'l' 'b'e' 't'h'e' 'c'o'n's'e'q'u'e'n'c'e',' 'w'i't'h' 't'h'e' 'a'c't' 'a's' 'i'f' 'h'e' 'h'a'd' 't'h'e' 's'a'm'e' 'k'n'o'w'l'e'd'g'e' 'a's'
-'i'f' 's'u'c'h' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e' 'i's' 'n'o't' 'h'e' 'w'o'u'l'd' 'h'a'v'e' 'h'a'd' 'i'f' 'h'e' 'h'a'd' 'n'o't' 'b'e'e'n' 'i'n't'o'x'i'c'a't'-'
-'e'x'e'r'c'i's'e'd'.' 'e'd',' 'u'n'l'e's's' 't'h'e' 't'h'i'n'g' 'w'h'i'c'h' 'i'n't'o'x'i'c'a't'e'd' 'h'i'm' 'w'a's'
-'('4')' 'U'n'd'e'r' 'S'e'c't'i'o'n' '9'7',' 'e'v'e'r'y' 'p'e'r's'o'n' 'h'a's' 't'h'e' 'a'd'm'i'n'i's't'e'r'e'd' 't'o' 'h'i'm' 'w'i't'h'o'u't' 'h'i's' 'k'n'o'w'l'e'd'g'e' 'o'r'
-'r'i'g'h't' 't'o' 'd'e'f'e'n'd' 't'h'e' 'p'r'o'p'e'r't'y' 'o'f' 'h'i'm's'e'l'f' 'o'r' 'a'g'a'i'n's't' 'h'i's' 'w'i'l'l'”'.'
-'o'f' 'a'n'y' 'o't'h'e'r' 'p'e'r's'o'n' 'a'g'a'i'n's't' 't'h'e'f't'.' 'T'h'u's',' 't'h'e' 'I't' 'w'i'l'l',' 't'h'e'r'e'f'o'r'e',' 'b'e' 's'e'e'n' 't'h'a't' 'f'o'r' 'a'n' 'o'f'-'
-'t'e'n'a'n't',' 'L',' 'w'a's' 'w'i't'h'i'n' 'h'i's' 'r'i'g'h't's' 't'o' 'e'x'e'r'c'i's'e' 'f'e'n'c'e' 'c'o'm'm'i't't'e'd' 'i'n' 'c'o'n's'e'q'u'e'n'c'e' 'o'f' 'v'o'l'u'n't'a'r'y'
-'t'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.' 'B'u't' 'a's' 'J' 'w'a's' 'd'r'u'n'k'e'n'n'e's's',' 't'h'e'r'e' 'i's' 'n'o' 'e'x'c'u's'e' 'i'n' 'l'a'w'.' 'I'f' 'i't' 'w'e'r'e'
-'c'o'm'm'i't't'i'n'g' 'a' 't'h'e'f't' 'w'i't'h'o'u't' 'r'e'a's'o'n'a'b'l'y' 'o't'h'e'r'w'i's'e' 'a'n'y' 'm'u'r'd'e'r'e'r' 'w'o'u'l'd' 'f'i' 'r's't' 'g'e't' 'h'i'm's'e'l'f'
-'c'a'u's'i'n'g' 'a'n' 'a'p'p'r'e'h'e'n's'i'o'n' 't'h'a't' 'd'e'a't'h'/' 't'h'o'r'o'u'g'h'l'y' 'i'n't'o'x'i'c'a't'e'd',' 'h'a'v'e' 'e'n'o'u'g'h' 's'e'n's'e' 't'o'
-'g'r'i'e'v'o'u's' 'h'u'r't' 'w'i'l'l' 'b'e' 't'h'e' 'c'o'n's'e'q'u'e'n'c'e' 'c'o'm'm'i't' 't'h'e' 'm'u'r'd'e'r',' 'a'n'd' 't'h'e'n' 'p'l'e'a'd' 'i'n't'o'x'i'c'a't'i'o'n'
-'('S'e'c's'.' '1'0'3',' '1'0'4')',' 'L' 'h'a'd' 'n'o' 'r'i'g'h't' 't'o' 'c'a'u's'e' 'a's' 'a' 'c'o'm'p'l'e't'e' 'd'e'f'e'n'c'e'.' 'H'o'w'e'v'e'r',' 'i'f' 'a' 'p'e'r's'o'n',' 'b'y'
-'t'h'e' 'd'e'a't'h' 'o'f' 'J'.' 'm'i's't'a'k'e',' 't'a'k'e's' 's'o'm'e' 'w'r'o'n'g' 'm'e'd'i'c'i'n'e' 'a'n'd' 'g'e't' 'i'n'-'
-'A'c'c'o'r'd'i'n'g' 't'o' 'S'e'c't'i'o'n' '1'0'5',' 't'h'e' 'r'i'g'h't' 'o'f' 'p'r'i'-' 't'o'x'i'c'a't'e'd',' 'a'n'd' 't'h'e'n' 'c'o'm'm'i't's' 'a'n' 'o'f'f'e'n'c'e',' 's'u'r'e'l'y'
-'v'a't'e' 'd'e'f'e'n'c'e' 'o'f' 'p'r'o'p'e'r't'y' 'a'g'a'i'n's't' 't'h'e'f't' 'c'o'n't'i'n'u'e's' 'h'e' 'c'a'n'n'o't' 'b'e' 'm'a'd'e' 'l'i'a'b'l'e'.' 'S'i'm'i'l'a'r'l'y',' 'i'f' 'a' 'f'r'a'u'd' 'i's'
-'t'i'l'l' 't'h'e' 'o'f'f'e'n'd'e'r' 'h'a's' 'e'f'f'e'c't'e'd' 'h'i's' 'r'e't'r'e'a't' 'w'i't'h' 't'h'e' 'p'r'a'c't'i'c'e'd' 'o'n' 'h'i'm' 'w'h'e'r'e'b'y' 'h'e' 'i's' 'm'a'd'e' 't'o' 't'a'k'e' 'a'n'
-'p'r'o'p'e'r't'y' 'F'u'r't'h'e'r',' 'u'n'd'e'r' 'S'e'c't'i'o'n' '9'9',' 't'h'e'r'e' 'i's' 'n'o' 'i'n't'o'x'i'c'a'n't',' 'a'n'd' 't'h'e'n' 'h'e' 'c'o'm'm'i't's' 'a'n' 'o'f'f'e'n'c'e',' 'h'e'
-'r'i'g'h't' 't'o' 't'h'e' 'p'r'o't'e'c't'i'o'n' 'o'f' 't'h'e' 'p'u'b'l'i'c' 'a'u't'h'o'r'i't'i'e's'.' 'c'a'n'n'o't' 'b'e' 'h'e'l'd' 'l'i'a'b'l'e'.' 'S'u'c'h' 'c'a's'e's' 'a'r'e' 'n'o't' 'c'a's'e's' 'o'f'
-'W'h'e'n' 'J' 'e'n't'e'r'e'd' 'h'i's' 'h'o'u's'e',' 't'h'e'r'e' 'i's' 'r'e't'r'e'a't',' 't'h'u's' 'L' 'v'o'l'u'n't'a'r'y' 'd'r'u'n'k'e'n'n'e's's'.'
-'c'a'n'n'o't' 'e'x'e'r'c'i's'e' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'h'e'r'e'.' 'F'u'r't'h'e'r',' 'a's' 'T'e's't' 'o'f' 'd'r'u'n'k'e'n'n'e's's'—'T'h'e' 't'e's't' 't'o' 'a'p'p'l'y' 'i'n' 'c'a's'e's'
-'J'’'s' 'h'o'u's'e' 'w'a's' 'k'n'o'w'n',' 't'h'e'r'e' 'w'a's' 's'u'f'f'i' 'c'i'e'n't' 't'i'm'e' 'o'f' 'd'r'u'n'k'e'n'n'e's's' 'i's' 'n'o't' 't'h'e' 't'e's't' 'a'p'p'l'i'e'd' 'i'n' 'c'a's'e's'
-'t'o' 'i'n'f'o'r'm' 't'h'e' 'p'o'l'i'c'e'.' 'T'h'u's',' 'L'’'s' 'r'i'g'h't' 'o'f' 'd'e'f'e'n'c'e' 'o'f' 'i'n's'a'n'i't'y' 'v'i'z'.',' 'w'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'p'e'r's'o'n'
-'a'l's'o' 'c'e'a's'e's' 'h'e'r'e'.' 'k'n'e'w' 'w'h'a't' 'h'e' 'w'a's' 'd'o'i'n'g' 'w'a's' 'w'r'o'n'g' 'o'r' 'w'a's' 'a'b'l'e'
-'t'o' 'a'p'p'r'e'c'i'a't'e' 't'h'e' 'n'a't'u'r'e' 'a'n'd' 'q'u'a'l'i't'y' 'o'f' 'h'i's' 'a'c't'.'
-'I'N'T'O'X'I'C'A'T'I'O'N' 'H'o'w'e'v'e'r',' 'i'n's'a'n'i't'y' 'p'r'o'd'u'c'e'd' 'b'y' 'd'r'u'n'k'e'n'n'e's's' 'i's' 'a'
-'d'e'f'e'n'c'e' '('u'n'd'e'r' 'S'e'c't'i'o'n' '8'4')'.'
-'W'h'e'r'e'a's' 'l'u'n'a'c'y' 'i's' 'a' 'd'i's'e'a's'e' 'a'n'd' 'i's' 't'h'e'r'e'f'o'r'e' 't'o' 'T'h'e' 'c'o'r'r'e'c't' 't'e's't' 'i's' 'w'h'e't'h'e'r' 'b'y' 'r'e'a's'o'n' 'o'f'
-'b'e' 'p'i't't'e'd',' 'd'r'u'n'k'e'n'n'e's's' 'a' 'v'i'c'e' 'a'n'd' 'i's',' 't'h'e'r'e'f'o'r'e',' 'd'r'u'n'k'e'n'n'e's's',' 't'h'e' 'a'c'c'u's'e'd' 'w'a's' 'i'n'c'a'p'a'b'l'e' 'o'f'
-'t'o' 'b'e' 'c'o'n'd'e'm'n'e'd'.' 'D'r'u'n'k'e'n'n'e's's' 'i's' 'a' 's'p'e'c'i'e's' 'o'f' 'f'o'r'm'i'n'g' 'a'n' 'i'n't'e'n't'i'o'n' 'o'f' 'c'o'm'm'i't't'i'n'g' 't'h'e' 'o'f'f'e'n'c'e'.'
-'m'a'd'n'e's's' 'f'o'r' 'w'h'i'c'h' 't'h'e' 'm'a'n' 'i's' 't'o' 'b'l'a'm'e'.' 'A' 'm'a'n' 'i's' 't'a'k'e'n' 't'o' 'i'n't'e'n'd' 't'h'e' 'n'a't'u'r'a'l' 'c'o'n's'e'q'u'e'n'c'-'
-'T'h'e' 'l'a'w' 'p'r'o'n'o'u'n'c'e's' 't'h'a't' 't'h'e' 'o'b's'c'u'r'a't'i'o'n' 'e's' 'o'f' 'h'i's' 'a'c't's'.' 'T'h'i's' 'p'r'e's'u'm'p't'i'o'n' 'm'a'y' 'b'e' 'r'e'b'u't't'e'd'
-'a'n'd' 'd'i'v'e's't'm'e'n't' 'o'f' 't'h'a't' 'j'u'd'g'e'm'e'n't' 'a'n'd' 'h'u'm'a'n' 'i'n' 't'h'e' 'c'a's'e' 'o'f' 'd'r'u'n'k'e'n' 'm'a'n',' 'b'y' 's'h'o'w'i'n'g' 't'h'a't' 'h'e'
-'f'e'e'l'i'n'g' 'w'h'i'c'h' 'i'n' 'a' 's'o'b'e'r' 's't'a't'e' 'w'o'u'l'd' 'h'a'v'e' 'p'r'e'-' 'd'i'd' 'n'o't' 'k'n'o'w' 'w'h'a't' 'h'e' 'w'a's' 'd'o'i'n'g' 'w'a's' 'd'a'n'g'e'r'o'u's'
-'v'e'n't'e'd' 't'h'e' 'a'c'c'u's'e'd' 'f'r'o'm' 'o'f'f'e'n'd'i'n'g',' 's'h'a'l'l' 'n'o't',' 'o'r' 'i'n'c'a'p'a'b'l'e' 'o'f' 'f'o'r'm'i'n'g' 't'h'e' 's'p'e'c'i'f'i' 'c' 'i'n't'e'n't' 'e's'-'
-'w'h'e'n' 'p'r'o'd'u'c'e'd' 'b'y' 'h'i's' 'v'o'l'u'n't'a'r'y' 'a'c't',' 's'c'r'e'e'n' 'h'i'm' 's'e'n't'i'a'l' 't'o' 'c'o'n's't'i't'u't'e' 't'h'e' 'c'r'i'm'e'.'
-'f'r'o'm' 'p'u'n'i's'h'm'e'n't',' 'a'l't'h'o'u'g'h' 'h'e' 'm'a'y' 'n'o' 'l'o'n'g'e'r' 'S'e'c't'i'o'n' '8'6' 's'a'y's' 't'h'a't' 'a' 'p'e'r's'o'n' 'v'o'l'u'n't'a'r'i'l'y'
-'c'a'p'a'b'l'e' 'o'f' 's'e'l'f'-'r'e's't'r'a'i'n't'.' 'i'n't'o'x'i'c'a't'e'd' 'w'i'l'l' 'b'e' 'd'e'e'm'e'd' 't'o' 'h'a'v'e' 't'h'e' 's'a'm'e'
-'Q'u'i' 'p'e'c'a't' 'e'b'r'i'u's' 'l'u'a't' 's'o'b'r'i'u's':' 'L'e't' 'h'i'm' 'k'n'o'w'l'e'd'g'e' 'a's' 'h'e' 'w'o'u'l'd' 'h'a'v'e' 'h'a'd' 'i'f' 'h'e' 'h'a'd' 'n'o't'
-'w'h'o' 's'i'n's' 'w'h'e'n' 'd'r'u'n'k' 'b'e' 'p'u'n'i's'h'e'd' 'w'h'e'n' 's'o'b'e'r'.' 'I'f' 'b'e'e'n' 'i'n't'o'x'i'c'a't'e'd'.' 'T'h'e' 's'e'c't'i'o'n' 'd'o'e's' 'n'o't' 's'a'y' 't'h'a't'
-'a' 'm'a'n' 'c'h'o'o's'e's' 't'o' 'g'e't' 'd'r'u'n'k',' 'i't' 'i's' 'h'i's' 'o'w'n' 'v'o'l'u'n'-' 't'h'e' 'a'c'c'u's'e'd' 's'h'a'l'l' 'b'e' 'l'i'a'b'l'e' 't'o' 'b'e' 'd'e'a'l't' 'w'i't'h' 'a's' 'i'f'
-'t'a'r'y' 'a'c't';' 'i't' 'i's' 'v'e'r'y' 'd'i'f'f'e'r'e'n't' 'f'r'o'm' 'm'a'd'n'e's's' 'w'h'i'c'h' 'h'e' 'h'a'd' 't'h'e' 's'a'm'e' 'i'n't'e'n't'i'o'n' 'a's' 'm'i'g'h't' 'h'a'v'e' 'b'e'e'n'
-'n'o't' 'c'a'u's'e'd' 'b'y' 'a'n'y' 'a'c't' 'o'f' 't'h'e' 'p'e'r's'o'n'.' 'p'r'e's'u'm'e'd' 'i'f' 'h'e' 'h'a'd' 'n'o't' 'b'e'e'n' 'i'n't'o'x'i'c'a't'e'd'.' 'T'h'e'r'e'-'
-'N'o'w',' 's'o' 'f'a'r' 'a's' 'i'n't'o'x'i'c'a't'e'd' 'p'e'r's'o'n's' 'a'r'e' 'c'o'n'-' 'f'o'r'e',' 't'h'e'r'e' 'i's' 'n'o' 'p'r'e's'u'm'p't'i'o'n',' 'u'n'd'e'r' 'S'e'c't'i'o'n' '8'6','
-'c'e'r'n'e'd',' 'S'e'c't'i'o'n's' '8'5' 'a'n'd' '8'6' 'a'r'e' 'r'e'l'e'v'a'n't'.' 'w'i't'h' 'r'e'g'a'r'd' 't'o' 'i'n't'e'n't'i'o'n'.' 'I'n' 's'u'c'h' 'c'a's'e's',' 'h'i's' 'i'n't'e'n'-'
-'S'e'c't'i'o'n' '8'5':' '“'N'o't'h'i'n'g' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'w'h'i'c'h' 'i's' 't'i'o'n' 'w'o'u'l'd' 'h'a'v'e' 't'o' 'b'e' 'g'a't'h'e'r'e'd' 'f'r'o'm' 't'h'e' 'f'a'c't's'
-'d'o'n'e' 'b'y' 'a' 'p'e'r's'o'n' 'w'h'o',' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'd'o'i'n'g' 'i't',' 'b'y' 'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's' 'o'f' 'e'v'e'r'y' 'i'n'd'i'v'i'd'u'a'l' 'c'a's'e',' 'h'a'v'-'
-'r'e'a's'o'n' 'o'f' 'i'n't'o'x'i'c'a't'i'o'n',' 'i'n'c'a'p'a'b'l'e' 'o'f' 'k'n'o'w'i'n'g' 't'h'e' 'i'n'g' 'd'u'e' 'r'e'g'a'r'd' 't'o' 't'h'e' 'd'e'g'r'e'e' 'o'f' 'i'n't'o'x'i'c'a't'i'o'n'.'
-'
-'
+Chapter 2
+C L
+RIMINAL AW
+CULPABALE HOMICIDE child in the mother’s womb is not homicide. But,
+it may amount to culpable homicide to cause the
+Section 299, Culpable Homicide. Whoever death of a living child, if any part of that child
+causes death by doing an act with the intention has been brought forth, though the child may not
+of causing death, or with the intention of causing have breathed or been completely born.
+such bodily injury as is likely to cause death, or
+Sections 299 and 300, IPC defi ne culpable
+with the knowledge that he is likely by such act
+homicide, which is of two types:
+to cause death, commits the offence of culpable
+1. Culpable homicide amounting to murder
+homicide.
+2. Culpable homicide not amounting to
+murder.
+Illustrations
+The provisions relating to murder and culpable
+(a) A lays sticks and turf over a pit, with the
+homicide are probably the most complicated in
+intention of thereby causing death, or
+the IPC, and are so technical that very often they
+with the knowledge that death is likely to lead to confusion.
+be caused. Z believing the ground to be A murder is culpable homicide, but every
+fi rm, treads on it, falls in and is killed. culpable homicide is not murder. Culpable
+A has committed the offence of culpable homicide is the genus and murder, its species.
+homicide. Section 299 defi nes culpable homicide
+(b) A knows Z to be behind a bush. B does not simpliciter. Section 300 defi nes murder, which
+know it. A, intending to cause, or knowing is also a culpable homicide with some special
+it to be likely to cause Z’s death, induces characteristics, which are set out in clauses 1–4
+B to fi re at the bush. B fi res and kills Z. of Section 300, subject to the exceptions given
+Here B may be guilty of no offence, but in Section 300, then it will amount to murder.
+A has committed the offence of culpable All other instances of culpable homicide, the
+homicide. ones which may fall within the exceptions to
+(b) A, by shooting at a fowl with intent to kill Section 300, will all be culpable homicide not
+and steal it, kills B, who is behind a bush; amounting to murder.
+A not knowing that he was there. Here, While Section 299 defi nes ‘culpable ho-
+micide’, it is not an exhaustive defi nition, It is
+although A was doing an unlawful act, he
+important to remember that Section 300 also de-
+was not guilty of culpable homicide, as he
+fi nes culpable homicide, but which amounts to
+did not intend to kill B, or to cause death
+murder. Before going into further details about
+by doing an act that he knew was likely to
+distinctions between Section 299 and Section
+cause death.
+300, IPC, it is important to understand the sec-
+Explanation 1. A person who causes bodily tions.
+injury to another who is labouring under a The following are the essential ingredients
+disorder, disease or bodily infi rmity, and thereby of culpable homicide:
+accelerates the death of that other, shall be (1) There must be a death of a person
+deemed to have caused his death. (2) The death should have been caused by the
+act of another person
+Explanation 2. Where death is caused by bodily
+(3) The act causing death should have been
+injury, the person who causes such bodily injury
+done
+shall be deemed to have caused the death,
+(a) with the intention of causing death;
+although by resorting to proper remedies and
+or
+skilful treatment the death might have been
+(b) with the intention of causing such
+prevented.
+bodily injury as is likely to cause
+Explanation 3. The causing of the death of a death; or
+
+(c) with knowledge that such act is likely in the ordinary course of nature to cause death,
+to cause death. or
+The defi nition itself provides for three cir- Fourthly, if the person committing the
+cumstances, wherein the presence or absence of act knows that it is so imminently dangerous
+certain factors in causing death is nevertheless that it must, in all probability, cause death, or
+treated as causing culpable homicide. These cir- such bodily injury as is likely to cause death,
+cumstances are dealt with in explanations 1–3. and commits such act without any excuse for
+incurring the risk of causing death or such injury
+Explanation 1. Provides for a situation where the
+as aforesaid.
+injured person is suffering from some disorder,
+disease or bodily infi rmity, which quickened Illustrations
+his death. The fact his death was quickened
+(a) A shoots Z with the intention of killing
+or hastened by the disorders or disease he was
+him. Z dies in consequence. A commits
+already suffering from, will not reduce the guilt
+murder.
+or culpability of the person causing the injury. In
+(b) A, knowing that Z is labouring under
+other words, the person who caused the injury such a disease that a blow is likely to
+cannot escape criminal liability of culpable cause his death, strikes him with the
+homicide by stating that if the person injured intention of causing bodily injury. Z dies
+did not suffer from the said disease, he would in consequence of the blow. A is guilty
+not have died. of murder, although the blow might have
+Explanation 2. Provides for a situation wherein been suffi cient in the ordinary course
+a person who has been injured could have of nature to cause the death of a person
+recovered and escaped death, if he had been in a sound state of health. But if A, not
+given prompt and proper medical treatment. knowing that Z is labouring under any
+In such situations too, the fact that the injured disease, gives him such a blow as would
+person died because he could not avail of good not in the ordinary course of nature kill a
+medical treatment, cannot be a ground for person in a sound state of health. Here A,
+negating guilt or culpability of the person who although he may intend to cause bodily
+injury, is not guilty of murder, if he did not
+infl icted the injury in the fi rst place.
+intent to cause death, or such bodily injury
+Explanation 3. Is in respect to a slightly
+as in the ordinary cause of nature would
+different situation. It takes into consideration
+cause death.
+death caused to a child in the mother’s womb.
+(c) A intentionally gives Z a sword-cut or
+The law states that if the death of the child
+club-wound suffi cient to cause the death
+is caused when still in the mother’s womb, it is
+of a man in the ordinary course of nature.
+not culpable homicide.
+Z dies in consequence. Here, A is guilty
+However, if any portion of the child, comes
+of murder, although he may not have
+out of the mother’s womb, even if it is not fully intended to cause Z’s death.
+born, and if death is caused to such child, then it (d) A without any excuses fi res a loaded cannon
+would amount to culpable homicide. into a crowd of persons and kills one of
+them. A is guilty of murder, although he
+MURDER may not have had a premeditated design
+to kill any particular individual.
+Section 300: Murder
+Exception 1. When culpable homicide is not
+Except in the cases hereinafter excepted, murder.
+culpable homicide is murder, if the act by which Culpable homicide is not murder if the offender,
+the death is caused is done with the intention of whilst deprived of the power of self-control
+causing death, or by grave and sudden provocation, causes the
+Secondly, if it is done with the intention of death of the person who gave the provocation
+causing such bodily injury as the offender knows or accident.
+to be likely to cause the death of the person to The above exception is subject to the
+whom the harm is caused, or following provisions:
+Thirdly, if it is done with the intention of Firstly, that the provocation is not sought
+causing bodily injury to any person, and the or voluntarily provoked by the offender as an
+bodily injury intended to be infl icted is suffi cient excuse for killing or doing harm to any person.
+
+CRIMINAL LAW 33
+Secondly, that the provocation is not given Exception 2. Culpable homicide is not murder
+by anything done in obedience to the law, or by if the offender, in the exercise in good faith of the
+a public servant in the lawful exercise of the right of private defence of person or property,
+powers of such public servant. exceeds the power given to him by law and
+causes the death of the person against whom
+Thirdly, that the provocation is not given
+he is exercising such right of defence without
+by anything done in the lawful exercise of the
+premeditation, and without any intention of
+right of private defence.
+doing more harm than is necessary for the
+Explanation. Whether the provocation was
+purpose of such defence.
+grave and sudden enough to prevent the offence
+from amounting to murder is a question of fact. Illustration
+Z attempts to horsewhip A, not in such a manner
+Illustrations
+as to cause grievous hurt to A. A draws out a
+(a) A, under the infl uence of passion excited
+pistol. Z persists in the assault. A believing in
+by a provocation given by Z, intentionally good faith that he can by no other means prevent
+kills Y, Z’s child. This is murder, inasmuch himself from being horsewhipped, shoots Z
+as the provocation was not given by the dead. A has not committed, murder, but only
+child, and the death of the child was not culpable homicide.
+caused by accident or misfortune in doing
+Exception 3. Culpable homicide is not murder
+an act caused by a provocation.
+if the offender being a public servant or aiding
+(b) Y gives grave and sudden provocation to
+a public servant acting for the advancement of
+A. A, on this provocation, fi res a pistol at
+public justice, exceeds the powers given to him
+Y, neither intending nor knowing himself
+by law, and causes death by doing an act which
+to be likely to kill Z, who is near him, but
+he, in good faith, believes to be lawful and
+out of sight. A kills Z. Here A has not
+necessary for the due discharge of his duty as
+committed murder, but merely culpable
+such public servant and without ill-will towards
+homicide. the person whose death is caused.
+(c) A is lawfully arrested by Z, a bailiff. A
+Exception 4. Culpable homicide is not murder
+is excited to sudden and violent passion
+if it is committed without premeditation in a
+by the arrest, and kills Z. This is murder,
+sudden fi ght in the heat of passion upon a sudden
+inasmuch as the provocation was given
+quarrel and without the offenders having taken
+by a, thing done by a public servant in the
+undue advantage or acted in a cruel or unusual
+exercise of his powers.
+manner.
+(d) A appears as a witness before Z, a
+Explanation. It is immaterial in such cases
+Magistrate. Z says that he does not believe
+which party offers the provocation or commits
+a word of A’s deposition, and that A has
+the fi rst assault.
+perjured himself. A is moved to a sudden
+Exception 5. Culpable homicide is not murder
+passion by these words, and kills Z. This
+when the person whose death is caused, being
+is murder.
+above the age of eighteen years, suffers death or
+(e) A attempts to pull Z’s nose. Z, in the
+takes the risk of death without his consent.
+exercise of the right of private defence,
+lays hold of A to prevent him from doing Illustration
+so. A is moved to sudden and violent
+A, by instigation, voluntarily causes Z, a person
+passion in consequence, and kills Z. This
+under eighteen years of age, to commit suicide.
+is murder, inasmuch as the provocation
+Here, on account of Z’s youth, he was incapable
+was given by a thing done in the exercise
+of giving consent to his own death; A has
+of the right of private defence.
+therefore abetted murder.
+(f) Z strikes B. B is by this provocation
+excited to violent rage. A, a bystander, Scope of Section 300
+intending to take advantage of B’s rage, Section 300 defi nes murder with reference to
+and to cause him to kill Z, puts a knife into culpable homicide defi ned in Section 299. If the
+B’s hand for that purpose. B kills Z with special requirements provided in clauses 1–4 of
+the knife. Here B may have committed a Section 300 are fulfi lled, culpable homicide
+only culpable homicide, but A is a guilty will then amount to murder, provided of course,
+of murder. the act does not fall within any of the exception
+
+provided in Section 300. If an act which falls Exception 4.
+within clauses 1–4 of Section 300, also falls (a) A sudden fi ght without premeditation;
+within one of the exception, then it will be (b) The offender should not take undue ad-
+culpable homicide not amounting to murder. vantage or act in a cruel or unusual man-
+It would probably have been more simple ner.
+and less complicated if the Code had fi rst de- Explanation. Who started the fi ght or quarrel
+fi ned homicide and then defi ned separately cul- is immaterial.
+pable homicide and murder. Since some clauses Exception 5. Death caused to a person above 18
+in Sections 299 and 300 overlap, it has led to a years of age with his consent.
+lot of discussions, debates and differences.
+Death by Negligence
+The following are the essential ingredients
+of Section 300: Section 304-A: Causing death by negligence
+Culpable homicide is murder, if it is done Whoever causes the death of any person by
+with: doing any rash or negligent act not amounting
+(1) Intention to cause death; to culpable homicide, shall be punished with
+(2) Intention to cause bodily injury, knowing imprisonment of either description for a term
+that the injury caused, is likely to cause which may extend to two years, or with fi ne or
+death; with both.
+(3) Intention of causing bodily injury suffi - This section was added by an amendment
+cient in the ordinary course of nature to of the Code 10—years after the IPC was enacted.
+cause death; It does not create a new offence. This section is
+(4) (a) knowledge that the act is so imminent- directed at offences, which fall outside the range
+ly dangerous that in all probability it of Sections 229 and 300, where neither intention
+will cause death or bodily injury likely nor knowledge to cause death is present.
+to cause death; and In fact, if this section is also taken into
+(b) such act should be without justifi ca- consideration, there are three types of homicide
+tion. which are punishable under the code—culpable
+Culpable homicide will not be murder, if homicide amounting to murder, culpable homi-
+it is: cide not amounting to murder and the homicide
+Exception 1. On grave and sudden provoca- by negligence.
+tion; This section deals with homicide by negli-
+Explanation: gence and covers that class of offences, where
+(a) The provocation should not be voluntarily death is caused neither intentionally nor with the
+sought or deliberately caused by the knowledge that the act of the offender is likely
+accused; to cause death, but because of the rash negligent
+(b) Should not be a result of act done by public act of the offender.
+servant or in obedience to law; This clause limits itself to rash and negli-
+(c) Not be in self-defence. gent acts which cause death, but falls short of
+Whether a particular act is grave and culpable homicide of either description.
+sudden is a question of fact.
+Rash or Negligent Act
+Exception 2. In exercise of right of private
+The doing of a rash or negligent act which
+defence or person or property;
+causes death, is the essence of this section.
+(a) And without premeditation and without
+Under Section 32, IPC, the act includes ‘illegal
+intention.
+omission’. Therefore, if an illegal omission
+Exception 3.
+occurs as a result of negligence, which results in
+(a) An act done by public servant or in aiding
+death, then this section will apply
+a public servant;
+The term ‘negligence’ as used in this sec-
+(b) Acting in advancement of public justice;
+tion does not mean mere carelessness. The rash-
+(c) Such act of the public servant is in excess
+ness of negligence must be of such nature so as
+of the powers conferred on him, but
+to be termed as a criminal act of negligence or
+exercised in good faith;
+rashness.
+(d) And such act is necessary to discharge
+Section 80 of the code provides ‘nothing
+faith; is an offence which is done by accident of mis-
+(e) And is without ill will. fortune and without any criminal knowledge or
+
+CRIMINAL LAW 35
+intention in the doing of a lawful act in a lawful Suicide
+manner by a lawful means and with proper care
+Section 305: Abetment of suicide of child or
+and caution.’ It is absence of such proper care
+insane person
+and caution, which is required of a reasonable
+If any person under eighteen years of age, any
+man in doing an act, which is made punishable
+insane person, any delirious person, any idiot,
+under this section.
+or any person in a state of intoxication, commits
+It is the degree of negligence, which re-
+suicide, whoever abets the commission of
+ally determines whether a particular act would
+such suicide, shall be punished with death or
+amount to a rash and negligent act is of such a
+imprisonment for life, or imprisonment for a
+degree that the risk run by the doer of the act as
+term not exceeding ten years, and shall also be
+defi ned under this section. It is only when the
+liable to fi ne.
+rash and negligent act is of such a degree that
+the risk run by the doer of the act is very high Section 306: Abetment of suicide
+or is done with such recklessness and with total If any person commits suicide, whoever abets the
+disregard and indifference to the consequences commission of such suicide, shall be punished
+of this act, the act can be constituted as a rash with imprisonment of either description for a
+and negligent act under this section. term which may extend to ten years, and shall
+Negligence is the gross and culpable also be liable to fi ne.
+neglect or failure to exercise reasonable and Suicide has not been declared as a crime
+proper care, and precaution to guard against, by the Code obviously because once a person
+either to the public generally or to an individu- successfully commits suicide, that person is no
+al in particular, which a reasonable man would longer alive to be prosecuted and the crime
+have adopted. abates with him. However, an attempt to commit
+suicide is punishable under Section 309 and an
+Attempt to Commit Murder and
+abetment to commit suicide under Sections 305
+Culpable Homicide
+and 306, IC.
+Section 307: Attempt to murder
+This section is based on a reasonable pub-
+Whoever does any act with such intention or
+lic policy to prevent other persons involvement,
+knowledge, and under such circumstances that,
+instigation and aiding in terminating one’s life.
+if he by that act caused death, he would be guilty
+It takes care of situation and threats imposed by
+of murder, shall be punished with imprisonment
+death baiters.
+of either description for a term which may extend
+To make out a case of abetment, there must
+to ten years, and shall also be liable to fi ne; and,
+be instigation by the accused—provoking, incit-
+hurt is caused to any person by such act, the
+ing or encouraging a person to do an act.
+offender shall be liable either to imprisonment
+The offence of abetment must confi rm to
+for life, or to such punishment as is hereinbefore
+the defi nition of the term given in Section 107
+mentioned.
+i.e., to say, there must be instigation, coopera-
+Attempts by Life-Convicts tion or intentional assistance given to the would
+be suicide. It is not necessary, nor indeed is it
+When any person offending under this section is
+a part of the defi nition, that the suicide should
+under sentence of imprisonment for life, he may,
+have been committed in consequence of the
+if hurt is caused, be punished with death.
+abetment.
+Scope of Section 307 But, in order to render a person liable as an
+abettor, it is necessary that the abettor should do
+Section 307 provides that the defi nition as to
+something more than remaining a mute specta-
+what amounts to an attempt to commit murder.
+tor.
+In order or constitute an offence under this
+But, sometimes, it is conceivable that even
+section, two elements are essential.
+the mere presence as spectator may encourage a
+First, the intention or knowledge to commit
+person to do a deed, which she might otherwise
+the murder.
+refrain from. In such cases, the question whether
+Second, the actual act of trying to commit
+mere presence amounted to intentionally aiding
+the murder. Thus it must have both the neces-
+another, will have to be decided.
+sary mensrea and actus reus. In other words, for
+Section 309: Attempt to commit suicide
+offences under this section, all the elements of
+murder exist, except for the fact that death has Whoever attempts to commit suicide and does
+not occurred. any act towards the commission of such offence,
+
+shall be punished with simple imprisonment for for a period less than 20 days, it would be an
+a term which may extend to one year or with offence of hurt.
+fi ne, or with both. Section 321: Voluntarily Causing Hurt
+Suicide is as such no crime under the Code.
+“Whoever does any act with the intention
+However, attempt to commit suicide is made
+thereby causing hurt to any person, or with the
+punishable under this section. Mens rea is one
+knowledge that he is likely thereby to cause hurt
+of the essential elements of this offence.
+to any person, and does thereby cause hurt to
+Section 319: Hurt any person, is said “voluntarily to cause hurt”.
+“Whoever causes bodily pain, disease or infi r- Section 322: Voluntarily Causing Grievous
+mity to any person is said to cause hurt”. Hurt
+There is nothing in this section to suggest
+“Whoever voluntarily causes hurt, if the hurt
+that the hurt should be caused by direct physical
+which he intends to cause know himself to
+contact between the accused and the victim. It
+be likely to cause is grievous hurt, and if the
+may be caused by any means and includes ner-
+hurt which he causes is grievous hurt, is said
+vous shock or mental derangement.
+“voluntarily to cause grievous hurt.”
+‘Bodily pain’, except so slight a harm of
+Explanation. A person is not said voluntarily to
+which no person of ordinary sense or temper
+cause grievous hurt except when he both causes
+would complain of, is covered by the defi nition
+grievous hurt and intends or knows himself to
+of hurt. Dragging by hair in aggressive manner
+be likely to cause grievous hurt. But he is said
+and fi sting in course of attack are not trivial acts
+voluntarily to cause grievous hurt, if intending or
+and constitute offence of causing hurt.
+knowing himself to be likely to cause grievous
+‘Infi rmity’ has been defi ned as inability of hurt of one kind, he actually causes grievous
+an organ to perform its normal function which hurt of another kind.
+may either be temporary or permanent. A state
+Section 359: Kidnapping
+of temporary impairment or hysteria or terror
+would constitute infi rmity. Kidnapping is of two types: kidnapping
+from India, and kidnapping from lawful
+Section 320: Grievous Hurt
+guardianship.
+“The following kinds of hurt only are designated The literal meaning of kidnapping is ‘child
+as “grievous”: stealing’. The two forms of kidnapping may
+First—Emasculation. overlap each other.
+Second —Permanent privation of the sight of
+Section 360: Kidnapping from India
+either eye.
+Whoever conveys any person beyond the limits
+Third—Permanent privation of the hearing of
+of India without the consent of that person, or
+either ear.
+of some person legally authorized to consent
+Fourth—Privation of any member or joint.
+on behalf of that person, is said to kidnap that
+Fifth—Destruction or permanent impairing of
+person from India.
+the powers of any member or joint.
+For an offence under this section, it does
+Sixth—Permanently disfi guration of the head
+not matter that the victim is a major or minor.
+or face.
+Seventh—Fracture or dislocation of a bone or Section 361: Kidnapping from Lawful Guard-
+tooth. ianship
+Eighth—Any hurt which endangers life or Whoever takes or entices any minor under sixteen
+which causes the sufferer to be during the space years of age if a male, or under eighteen years of
+of twenty days in severe bodily pain, or unable age if a female, or any person of unsound mind,
+to follow his ordinary pursuits. out of the keeping of the lawful guardian of such
+The mere fact that the injured remained in minor or person of unsound mind, without the
+the hospital for 20 days would not be enough to consent of such guardian, is said to kidnap such
+conclude that he was unable to follow his ordi- minor or person from lawful guardianship.
+nary pursuits during that period. Explanation. The word “lawful guardian”
+Continuance of severe bodily pain for 20 in this section include any person lawfully
+days or disability to follow one’s avocation for entrusted with the care or custody of such minor
+20 days constitutes grievous hurt; if it continues or other person.
+
+CRIMINAL LAW 37
+Exception. This section does not extend to the marry her or arrange for her marriage.
+act of any person who in good faith believes Where a girl was unwilling to follow the
+himself to be the father of an illegitimate child, accused and accused compelled her by force
+or who in good faith believes himself to be to follow, he would be guilty of abduction. But
+entitled to the lawful custody of such child, where the accused entered a girl’s house and
+unless such act is committed for an immoral or lifted her up in order to carry her away but on
+unlawful purpose. raising of alarm by her, they dropped her and
+Besides the four essential ingredients ran away, the offence of abduction was not com-
+of this offence mentioned in Section 361, the mitted because the girl was not compelled to go
+courts have formulated certain other guiding from her place. The accused were guilty of at-
+principles:
+tempting to abduct under Sections 366 and 511.
+(i) In the case of minor girls this section is
+On being persuaded by the accused the
+attracted irrespective of the question
+victim when inside his house and came properly
+whether she is married or unmarried.
+dressed to accompany the accused. This will not
+(ii) The consent of the minor is immaterial.
+amount to ‘abduction’ within the meaning of
+(iii) The motive or intention of the kidnapper
+Section 362 as there was neither force nor de-
+is also immaterial.
+ceit which compelled the victim to go with the
+(iv) If the kidnapped girl turns out to be under
+accused.
+18 years of age, the kidnapper must take
+the consequences, even though the bona- Where the mother had assigned by a will
+fi de believed and had reasonable ground to R the guardianship of her minor daughter and
+for believing that she was over eighteen. the duty of marrying her, and a parental relative
+(v) The defence that the girl was of easy virtue of the daughter removed her by fraud and force
+would not be suffi cient to make accused for the purpose of getting her married to a per-
+not liable. son other than the one selected by R, it was held
+that such relative was guilty of kidnapping as
+Section 362: Abduction
+well as abduction.
+“Whoever by force compels, or by any deceitful
+means induces, any person to go from any place,
+DISTINCTION BETWEEN
+is said to abduct that person.”
+KIDNAPPING AND ABDUCTION
+The expression ‘deceitful means’ includes
+a misleading statement. It is really speaking a Whereas a girl of 18 years of age or over can
+matter of intention. The intention of the accused only be abducted and not kidnapped, a girl
+is the basis and the gravity of the offence. The below 18 years of age can be kidnapped (if
+volition, the intention and the conduct of the under a lawful guardian) as well as abducted (if
+woman do not determine the offence. The of- with or without a guardian and use of force or
+fence of abduction is complete if the accused deceitful means) provided the other statutory
+has taken the women away by deceitful means conditions are satisfi ed. The differences in detail
+intending to seduce her to sexual intercourse to are as follows:
+KIDNAPPING ABDUCTION
+(From Guardianship)
+(1) It is committed only in respect of a minor (1) It is committed in respect of any person of
+or a person of unsound mind. any age.
+(2) The person kidnapped is removed from (2) Not necessary. The person abducted need not
+lawful guardianship. A child without a be in the keeping of anybody.
+guardian can’t be kidnapped.
+(3) The minor or the person of unsound mind (3) Force, compulsion or deceitful means are
+is simply taken away or enticed to go with employed.
+the kidnapper. The means employed may
+be innocent.
+(4) Consent of the person enticed is (4) Consent of the person removed, if freely and
+immaterial. voluntarily given condones the offence.
+
+(5) The intent of the offender is irrelevant. (5) It is very important. Abduction must be with
+certain intent.
+(6) It is not a continuing offence. The (6) It is a continuing offence. A person is being
+offence is completed as soon as the minor abducted both when she is fi rst taken from
+is removed from the custody of his or her any place and also when she is removed from
+guardian. one place to another.
+(7) It is a substantive offence, punishable (7) It is an auxiliary act, not punishable by itself
+under Section 363, IPC. Thus, kidnapping is unless accompanied with some criminal
+per se punishable. intent (specifi ed in Secs. 364-366). A particular
+purpose is necessary to punish the accused.
+Section 375: Rape Amendments in Law of Rape
+Section 375, IPC lays down that the sexual The Parliament in 1983 extensively amended the
+intercourse must be under circumstances falling law of rape so as to make the law more realistic
+under any of the six clauses. A man is said to and to safeguard the rights of innocent victims.
+commit ‘rape’ who has sexual intercourse with Besides substantive law (I.P.C.), procedural
+a women: provisions under Evidence Act and Criminal
+(i) against her will; or Procedure code were also added to strengthen
+(ii) without her consent; or the law. Some of the important changes brought
+(iii) with her consent by putting her in fear of about by the Criminal Law (Amendment) Act,
+death or of hurt; or 1983 are:
+(iv) with her consent, when the man knows (i) Consent of a woman of unsound mind, etc.
+that he is not her husband and that her
+A new clause ‘fi fthly’ added to Section
+consent is given because she believes that
+375, IPC, negatives the consent of the
+he is another man to whom she is lawfully
+women for the purpose of the offence of
+married; or
+rape, if the woman is of unsound mind, or
+(v) with her consent, when, at the time of
+is under the infl uence of intoxication at the
+such consent, by reason of unsoundness of
+relevant time.
+mind or intoxication or the administration
+(ii) Minimum punishment for rape: Section
+by him personally or through another of
+376, IPC has provided for a minimum of 7
+any stupefying or unwholesome substance
+years of imprisonment under cl. (1) and 10
+she is unable to understand the nature and
+years under cl. (2).
+consequences of that to which she gives
+(iii) Intercourse with wife during judicial
+consent; or
+separation without her consent prohibited:
+(vi) with or without her consent when she is
+Section 376 A, IPC, added.
+under 16 years of age.
+(iv) Custodial rape: Section 376 B to Section
+Explanation. Penetration is suffi cient to consti-
+376D, IPC provided for a new category
+tute sexual intercourse.
+of offence, known as custodial rape. Such
+Exception. Sexual intercourse by a man with
+cases do not amount to rape because the
+his own wife is not rape, if the wife is above 15
+victim’s consent is obtained under the
+years of age.
+compelling circumstances. The offenders
+It may be noted that if the woman is under
+occupy supervisory positions and take
+16 years of age, it is immaterial that the act be
+undue advantage of their authority.
+done with her consent or even at the invitation
+(v) Burden of proof of innocence of accused:
+of woman herself (or that she had sex experi-
+ence already), for the policy of the law is to Section 114A inserted in Evidence Act,
+protect children of such immature age against 1872, provides for a conclusive presump-
+sexual intercourse. This is also known as ‘statu- tion as to the absencer of consent of the
+tory rape’. woman under Section 376 (2) viz. custo-
+A ‘man’ is defi ned by Section 10 of the code dial rape, rape on pregnant women and
+as a male human being of any age. Thus, a boy gang rape.
+above 12 years of age is capable of committing This has at least partially removed
+rape under this section, whereas a boy below 12 the infi rmity from the evidence of a
+but above 7 years of age enjoys a qualifi ed im- victim of rape that was hitherto unjustly
+munity. attached to her testimony without taking
+
+CRIMINAL LAW 39
+note of the fact that in India a disclosure Explanation 5. The consent mentioned in the
+of this nature is likely to ruin the prospect defi nition may be express or implied, and may
+of the girl’s rehabilitation in society for be given either by the person in possession, or
+all times to come and unless her story by any person having for that purpose authority
+was painfully true she would not have either express or implied.
+taken such a grave risk merely to malign
+Illustrations
+the accurse. Moreover, in cases of rape,
+particularly custodial rape it is almost (a) A cuts down a tree on Z’s ground, with
+impossible to get any other independent the intention of dishonestly taking the tree
+evidence to corroborate the testimony of out of Z’s possession without Z’s consent.
+the prosecutrix. Here, as soon as A has severed the tree in
+(vi) Prohibition of disclosure of identity of the order to such taking, he has committed
+victim in rape cases: Section 228A (1), theft.
+IPC, added. (b) A puts a bait for dogs in his pockets, and
+(vii) Trial in camera: Section 327, Cr.P.C, which thus induces Z’s dog to follow it. Here, if
+confers the right of an open court trial has A’s intention be dishonestly to take the
+been amended making the provisions for dog out of Z’s possession without Z’s
+trial of rape in camera and prohibition of consent, A has committed theft as soon as
+publication of trial proceedings in such Z’s dog has begun to follow A.
+cases without the prior approval of the (c) A meets a bullock carrying a box of
+court. treasure. He drives the bullock in a certain
+Section 228A, IPC, and Section 327, direction, in order that he may dishonestly
+Cr.P.C. not only protect the honour of take the treasure. As soon as the bullock
+sexually victimized women but also make begins to move, A has committed theft of
+it possible for them to depose in court the treasure.
+without any fear of social ostracism. (d) A being Z’s servant, and entrusted by Z
+Character assassination of prosecutrix with the care of Z’s plate, dishonestly runs
+prohibited: A ‘proviso clause’ to Section 146 away with the plate, without Z’s consent.
+Evidence Act, inserted via 2003 amendment A has committed theft.
+Act, has disallowed to put questions about (e) Z, going on a journey, entrusts his plate to
+prosecutrix character in cross-examination. A, the keeper of a warehouse, till Z shall
+Section 378: Theft return. A carries the plate to a goldsmith
+and sells it. Here, the plate was not in
+Whoever, intending to take dishonestly any
+Z’s possession. It could not therefore be
+movable property out of the possession of any
+taken out of Z’s possession, and A has
+person without that person’s consent, moves
+not committed theft, though he may have
+that property in order to such taking, is said to
+committed criminal breach of trust.
+commit theft.
+(f) A fi nds a ring belonging to Z on a table in
+Explanation 1. A thing so long as it is attached
+the house which Z occupies. Here, the ring
+to the earth, not being movable property, is not
+is in Z’s possession, and if a dishonestly
+the subject to theft; but it becomes capable of
+removed it, A commits theft.
+being the subject of theft as soon as it is severed
+(g) A fi nds a ring lying on the highroad, not
+from the earth.
+in the possession of any person. A, by
+Explanation 2. A moving effected by the same
+taking it, commits no theft, though he
+act which effects the severance may be a theft.
+may commit criminal misappropriation of
+Explanation 3. A person is said to cause a
+property.
+thing to move by removing an obstacle which
+(h) A sees a ring belonging to Z lying on a
+prevented it from moving or by separating it
+table in Z’s house. Not venturing to mis-
+from any other thing, as well as by actually
+appropriate the ring immediately for fear
+moving it.
+of search and detection, A hides the ring
+Explanation 4. A person, who by any means
+causes an animal to move, is said to move in a place where it is highly improbable
+that animal, and to move everything which, in that it will ever be found by Z, with the in-
+consequence of the motion so caused, is caused, tention of taking the ring from the hiding
+is moved by that animal. place and selling it when the loss is forgot-
+
+ten. Here A, at the time of fi rst moving the to be A’s own property, takes that property
+ring, commits theft. out of B’s possession. Here, as A does
+(i) A delivers his watch to Z, a jeweller, to be not take dishonestly, he does not commit
+regulated. Z carries it to his shop. A, not theft.
+owing to the jeweller any debt for which Section 383: Extortion
+the jeweller might lawfully detain the
+Whoever, intentionally puts any person in fear
+watch as a security, enters the shop openly,
+of any injury to that person, or to any other, and
+takes his watch by force out of Z’s hand,
+thereby dishonestly induces the person so put
+and carried it away. Here A, though he
+in fear to deliver to any person any property of
+may have committed criminal trespass and
+valuable security, or anything signed or sealed
+assault, has not committed theft, inasmuch
+which may be converted into a valuable security,
+as what he did was not done dishonestly.
+commits “extortion”.
+(j) If A owes money to Z for repairing the
+watch, and if Z retains the watch lawfully Illustrations
+as a security for the debt, and A takes
+(a) A threatens to publish a defamatory libel
+the watch out of Z’s possession, with the
+concerning Z unless Z gives him money.
+intention of depriving Z of the property as
+He thus induces Z to give him money. A
+a security for his debt, he commits theft,
+committed extortion.
+inasmuch as he takes it dishonestly.
+(b) A threatens Z that he will keep Z’s child in
+(k) Again, if A, having pawned his watch to Z,
+wronglful confi nement unless Z will sign
+takes it out of Z’s possession without Z’s
+and deliver to A a promissory note binding
+consent, not having paid what he borrowed
+Z to pay certain money to A. Z signs
+on the watch, he commits theft, though the
+and delivers the note. A has committed
+watch is his own property inasmuch as he
+extortion.
+takes it dishonestly.
+(c) A threatens to send club-men to plough
+(l) A takes an article belonging to Z out of
+up Z’s fi eld unless Z will sign and deliver
+Z’s possession, without Z’s consent,
+to B a bond binding Z under a penalty to
+with the intention of keeping it until he deliver certain produce to B, and thereby
+obtains money from Z as a reward for its induces Z to sign and deliver the bond. A
+restoration. Here A takes dishonestly; A has committed extortion.
+has therefore committed theft. (d) A, by putting Z in fear of grievous hurt,
+(m) A, being on friendly terms with Z, goes dishonestly induces Z to sign or affi x his
+into Z’s library in Z’s absence, and takes seal to a blank paper and deliver it to A.
+away a book without Z’s express consent Z signs and delivers the paper to A. Here,
+for the purpose merely of regarding it, and as the paper so signed may be converted
+with the intention of returning it. Here, it into a valuable security, A has committed
+is probable that A may have conceived extortion.
+that he has Z’s implied consent to use Z’s
+book. If this was A’s impression, A has CRIMINAL MISAPPROPRIATION
+not committed theft.
+AND CRIMINAL BREACH OF TRUST
+(n) A asks charity from Z’s wife. She gives
+A money, food and clothes, which A Section 403: Dishonest Misappropriation of
+knows to belong to Z, her husband. Here Property
+it is probable that A may conceive that Whoever dishonestly misappropriates or con-
+Z’s wife is authorized to give away alms. verts to his own use any movable property,
+If this was A’s impression, A has not shall be punished with imprisonment of either
+committed theft. description for a term which may extend to two
+(o) A is the paramour of Z’s wife. She gives years, or with fi ne, or with both.
+a valuable property, which A knows to
+Illustrations
+belong to her husband Z, and to be such
+property as she has not authority from Z to (a) A takes property belonging to Z out of Z’s
+give. If A takes the property dishonestly, possession, in good faith believing, at the
+he commits theft. time when he takes it, that the property
+(p) A, in good faith believing belonging to Z belongs to himself. A is not guilty of theft;
+
+CRIMINAL LAW 41
+but if A, after discovering his mistake, Illustrations
+dishonestly appropriates the property to
+(a) A fi nds a rupee on the high-road, not
+his own use, he is guilty of an offence knowing to whom the rupee belongs.
+under this section. A picks up the rupee. Here, A has not
+(b) A, being on friendly terms with Z, goes committed the offence defi ned in this
+into Z’s library, in Z’s absence, and takes section.
+away a book without Z’s implied consent (b) A fi nds a letter on the road containing a
+to take the book for the purpose of reading bank note. From the direction and contents
+it, A has not committed theft. But, if A of the letter he learns to whom the note
+afterwards sells the book for his own belongs. He appropriates the note. He is
+benefi t, he is guilty of an offence under guilty of an offence under this section.
+this section. (c) A fi nds a cheque payable to bearer. He
+(c) A and B, being joint owners of a horse, can form no conjecture as to the person
+A takes the horse out of B’s possession, who has lost the cheque. But the name of
+the person, who has drawn the cheque,
+intending to use it. Here, as A has a right
+appears. A knows that this person can
+to use the horse, he does not dishonestly
+direct him to the person in whose favour
+misappropriate it. But, if A sells the horse
+the cheque was drawn. A appropriates the
+and appropriates the whole proceeds to his
+cheque without attempting to discover the
+own use, he is guilty of an offence under
+owner. He is guilty of an offence under
+this section.
+this section.
+Explanation 1. A dishonest misappropriation
+(d) A sees Z drop his purse with money in it.
+for a time only is a misappropriation within the
+A picks up the purse with the intention of
+meaning of this section.
+restoring it to Z, but afterwards appropri-
+ates it to his own use. A has committed an
+Illustration
+offence under this section.
+A fi nds a Government promissory note belonging
+(e) A fi nds a purse with money, not knowing
+to Z, bearing a blank endorsement. A, knowing
+to whom it belongs; he afterwards discover
+that the note belongs to Z, pledges it with a that it belongs to Z, and appropriates it
+banker as a security for a loan, intending at a to his own use. A is guilty of an offence
+future time to restore it to Z. A has committed under this section.
+an offence under this section. (f) A fi nds a valuable ring, not knowing to
+Explanation 2. A person who fi nds property whom it belongs. A sells it immediately
+not in the possession of any other person, and without attempting to discover the owner.
+takes such property for the purpose of protecting A is guilty of an offence under this
+it for, or of restoring it to, the owner, does not section.
+take or misappropriate it dishonestly, and is
+not guilty of an offence; but he is guilty of the ESSENTIALS INGREDIENTS OF
+offence above defi ned, if he appropriates it to CRIMINAL MISAPPROPRIATION
+his own use, when he knows or has the means
+The offence of criminal misappropriation consists
+of discovering the owner, or before he has used
+in dishonest misappropriation or conversion to
+reasonable means to discover and give notice to
+his own use any movable property.
+the owner and has kept the property a reasonable
+It takes place when the possession has been
+time to enable the owner to claim it.
+innocently come by, but where, a subsequent
+What are the reasonable means or what is
+change of intention, or from the knowledge of
+reasonable time in such a case is a question of
+some new fact with which the party was not
+fact.
+previously acquainted, the retaining becomes
+It is not necessary that the fi nder should
+wrongful and fraudulent.
+know who is the owner of the property, or that
+The two essential ingredients of this sec-
+any particular person is the owner of it: it is tion are:
+suffi cient if, at the time of appropriating it, he (i) the accused misappropriated or converted
+does not believe it to be his own property, or in to his own use another’s movable property,
+good faith believes that the real owner cannot and,
+be found. (ii) the accused did so dishonestly.
+
+To ‘misappropriate’ means ‘improperly such trust is to be discharged, or of any legal
+setting apart for one’s use to the exclusion of contract, express or implied, which he has made
+the owner’. ‘Converts’ means appropriation and touching the discharge of such trust, or willfully
+dealing with property of another without right suffers any other person so to do so, commits
+as if it is his own property. The accused is not “criminal breach of trust”.
+guilty when he merely retains or possesses such Explanation 1. A person, being an employer,
+property. He is guilty only when he appropriates who deducts the employee’s contribution from
+or converts to his own use such property. Fur- the wages payable to the employee for credit
+ther, the property must be a movable property. to a Provident Fund or Family Pension Fund
+A man is said to do a thing “dishonestly” established by any law for the time being in
+when he does it with the intention of causing force, shall be deemed to have been entrusted
+wrongful gain to one person or wrongful loss with the amount for the contribution so deducted
+to another person. It follows that a mere misap- by him and if he makes default in the payment of
+propriation or conversion to one’s use is not suf- such contribution to the said Fund in violation of
+fi cient for the completion of an offence, but that the said law, shall be deemed to have dishonestly
+the element of dishonesty is essential, and dis- used the amount of the said contribution in
+honesty comes into existence as soon as there is violation of a direction of law as aforesaid.
+an intention of causing, wrongful gain or loss. Explanation 2. A person, being an employer,
+Where a person found a purse and put it who deducts the employee’s contribution from
+in his pocket, but was immediately afterwards the wages payable to the employee for credit to
+arrested, he was not guilty of criminal misap- the Employee’s State Insurance Fund held and
+propriation for it could not be assumed that by administered by the Employee’s State Insurance
+the mere act of picking up the purse or putting it Corporation established under the Employee’s
+in his pocket he intended to appropriate its con- State Insurance Act, 1948, shall be deemed to
+tents to his own use. Mere retention of money have been entrusted with the amount of the
+would not warrant a conviction under Section contribution so deducted by him and if makes
+403 unless there is evidence that the accused default in the payment of such contribution to
+used the money. the said Fund in violation of the said Act, shall be
+Misappropriation or conversion need not deemed to have dishonestly used the amount of
+be permanent, it may be for a time. The accused, the said contribution in violation of a deduction
+a government servant, on duty received certain of law as aforesaid.
+money in his possession for several months,
+Illustrations
+but fearing detection, had paid them into the
+treasury, making a false entry at the time in his (a) A, being executor to the will of a deceased
+person, dishonestly disobeys the law
+books. He was held guilty of criminal misappro-
+which directs him to divide the effects ac-
+priation. Similar would be the case where a ser-
+cording to the will and appropriates them
+vant, authorized to collect money on behalf of
+to his own use. A has committed criminal
+his master, retained money on account of non-
+breach of trust.
+payment of wages by his master.
+(b) A is a warehouse-keeper. Z, going on a
+The accused would not be guilty of the of-
+journey, entrust his furniture to A, under
+fence, where there was no information as to the
+a contract that it shall be returned on pay-
+circumstances under which the things were lost
+ment of a stipulated sum for warehouse-
+and the probability was that property was aban-
+room. A dishonestly sells the goods. A has
+doned by the original
+committed criminal breach of trust.
+(c) A, residing in Calcutta, is agent for Z,
+CRIMINAL BREACH OF TRUST
+residing at Delhi. There is an express or
+implied contract between A and Z that all
+Section 405. Criminal Breach of Trust
+sums remitted by Z to A shall be invested
+Whoever, being in any manner entrusted with by A, according to Z’s direction. Z remits
+property, or with any dominion over property, a lakh of rupees to A, with directions to
+dishonestly misappropriates or converts to his A to invest the same in Company’s paper.
+own use that property, or dishonestly uses or A dishonestly disobeys the directions and
+disposes of that property in violation of any employs the money in his own business. A
+direction of law prescribing the mode in which has committed breach of trust.
+
+CRIMINAL LAW 43
+(d) But if A, in the last illustration, not dis- article, intentionally deceives Z into be-
+honestly but in good faith, believing that lieving that the article corresponds with
+it will be more for Z’s advantage to hold the sample, and thereby dishonestly in-
+shares in the Bank of Bengal, disobeys Z’s duces Z to buy and pay for the article. A
+directions, and buys shares in the Bank of cheats.
+Bengal, for Z, instead of buying Compa- (d) A, by tendering in payment for an article
+ny’s paper, here, though Z should suffer a bill on a house with which A keeps no
+loss, and should be entitled to bring a civil money, and by which A expects that the
+action against A, on account of that loss, bill will be dishonoured, intentionally de-
+yet A, not having acted dishonestly, has ceives Z, and thereby dishonestly induces
+not committed criminal breach of trust. Z to deliver the article, intending not to
+(e) A, a revenue-offi cer, is entrusted with pub- pay for it. A cheats.
+lic money and is either directed by law, or (e) A, by pleading as diamonds articles which
+bound by a contract, express or implied, he knows are not diamonds, intentionally
+with the Government, to pay into a cer- deceives Z, and thereby dishonestly in-
+tain treasury all the public money which duces Z to lend money. A cheats.
+he holds. A dishonestly appropriates the (f) A intentionally deceives Z into a belief
+money. A has committed criminal breach that A means to repay any money that Z
+of trust. may lend to him and thereby, dishonestly
+(f) A, a carrier, is entrusted by Z with prop- induces Z to lend him money, A not in-
+erty to be carried by land or by water. A tending to repay it. A cheats.
+dishonestly misappropriates the property. (g) A intentionally deceives Z into a belief
+A has committed criminal breach of trust. that A means to deliver to Z a certain
+quantity of indigo plant which he does not
+CHEATING intend to deliver, and thereby dishonestly
+induces Z to advance money upon the
+Section 415: Cheating faith of such delivery. A cheats; but if A,
+at the time of obtaining the money, intends
+Whoever, by deceiving any person, fraudulently
+to deliver the indigo plant, and afterwards
+or dishonestly induces the person so deceived to
+breaks his contract and does not deliver it,
+deliver any property to any person, or to consent
+he does not cheat, but is liable only to a
+that any person shall retain any property, or
+civil action for breach of contract.
+intentionally induces the person so deceived to
+(h) A intentionally deceives Z into a belief
+do or omit to do anything which he would not do
+that A has performed A’s part of a contract
+or omit if he were not so deceived, and which act
+made with Z, which he has not performed,
+or omission causes or is likely to cause damage
+and thereby dishonestly includes Z to pay
+or harm to that person in body, mind, reputation
+money. A cheats.
+or property, is said to “cheat”.
+(i) A sells and conveys an estate to B. A,
+Explanation. A dishonest concealment of
+knowing that in consequence of such sale
+facts is a deception within the meaning of this
+he has no right to the property, sells or
+section.
+mortgages the same to Z, without disclos-
+Illustrations ing the fact of the previous sale and con-
+veyance to B, and receives the purchase or
+(a) A, by falsely pretending to be in the Civil
+mortgage money from Z. A cheats.
+Service, intentionally deceives Z, and thus
+dishonestly induces Z to let him have on Section 416: Cheating by Personation
+credit goods for which he does not mean A person is said to “cheat by personation” if he
+to pay. A cheats. cheats by pretending to be some other person,
+(b) A, by putting a counterfeit mark on an ar- or by knowingly substituting one person for
+ticle, intentionally deceives Z into a belief another, representing that he or any other person
+that his article was made by a certain cele- is a person other than he or such other person
+brated manufacturer, and thus dishonestly really is.
+induces Z to buy and pay for the article. A Explanation. The offence is committed whether
+cheats. the individual personated is a real or imaginary
+(c) A, by exhibiting to Z a false sample of an person.
+
+Illustrations whereby the deceived person is dishonestly
+induced:
+(a) A cheats by pretending to be a certain rich
+1. to deliver any property
+banker of the same name. A cheats by
+2. to make, alter or destroy
+personation.
+(a) the whole or any part of a valuable
+(b) A cheats by pretending to be B, a person
+security, or,
+who is deceased. A cheats by personation.
+(b) anything which is signed or sealed and
+Under this section, a person commits cheat-
+which is capable of being converted
+ing when he pretends to be some other person,
+into a valuable security.
+real or imaginary e.g., false representation as to
+The difference between Section 415 and
+caste, marital status, economic status, voter in
+Section 420 is that where in pursuance of the
+an election, etc. The person may pretend so by
+deception, no property passes but inducement
+word, act, sign, or dress. The offence is commit-
+generated in the mind, the offence comes under
+ted provided some gain has accrued or some loss
+Section 415 (Simple cheating). But where, in
+is incurred by either party.
+pursuance of the deception property is delivered,
+Where the accused representing himself
+the offence is punishable under Section 420.
+to be B at a University examination, got a hall-
+Section 415 deals with cheating, but Section
+ticket under the examinee’s name and wrote pa-
+420 deals with that species of cheating which
+pers in B’s name, it was held that the accused
+involves delivery of property or destruction of
+had committed cheating by personation and the
+valuable security. Punishment for offence under
+offence of forgery. Where A personated as B at
+Section 415 is one year (Section 417), while un-
+the examination, passed it and obtained the cer-
+der Section 420, up to 7 years’ imprisonment.
+tifi cate in B’s name, B thereupon applied to have
+In every case when property is delivered by
+his own name entered in the list of candidates
+a person cheated, there must always be a stage
+for Government service. In this case, A is liable
+where the person makes up his mind to give the
+for cheating under Section 416 and B is liable
+property on accepting the false representation
+for attempting to cheat because he has applied made to him. It cannot be said that in such cases
+for entering his name in the list of candidates. the offender can only be tried for the simple of-
+Securing appointments from Government fence of cheating under Section 417 and cannot
+offi cials by producing fake letters from Minis- be tried under Section 420 because the person
+ters and also by posing to be the brother of a cheated parts with his property subsequent to
+Minister, has been held to constitute an offence making up his mind to do so.
+of cheating by personation, and of forgery.
+Section 418. Cheating with knowledge MOCK OR INVALID MARRIAGES
+that wrongful loss may ensue to person whose
+interest offender is bound to protect—Whoev- Section 493. Cohabitation caused by a man
+er cheats with the knowledge that he is likely deceitfully inducing a belief of lawful marriage.
+thereby to cause wrongful loss to a person Every man who by deceit causes any woman
+whose interest in the transaction to which the who is not lawfully married to him to believe that
+cheating relates, he was bound, either by law, or she is lawfully married to him and to cohabit or
+by legal contract, to protect, shall be punished have sexual intercourse with him in that belief,
+with imprisonment of upto 3 years, or fi ne, or shall be punished with imprisonment of either
+with both. description for a term which may extend to ten
+This section deals with cheating a guard- years, and shall also be liable to fi ne.
+ian, a trustee, a pleader, and agent, or manager
+Section 496. Marriage ceremony fraudulently
+of a Hindu family or by directors or managers of
+gone through without lawful marriage. Whoever,
+a bank in fraud of the shareholders and deposi-
+dishonestly or with a fraudulent intention,
+tors. Thus, where a false balance sheet is shown
+goes through the ceremony of being married,
+with an intent to secure or renew the deposits for knowing that he is not thereby lawfully married,
+the company, the culprits are guilty under Sec- shall be punished with imprisonment of either
+tion 418. description for a term which may extend to
+Section 420: Cheating and Dishonestly seven years, and shall also be liable to fi ne.
+Inducing Delivery of Property Section 494: Bigamy
+This section deals with certain specifi ed classes Marrying again during lifetime of husband or
+of cheating. It deals with the cases of cheating wife. Whoever, having a husband or wife living,
+
+CRIMINAL LAW 45
+marries in any case in which such marriage is being the husband or the relative of the husband
+void by reason of its taking place during the life of a woman, subject such woman to cruelty
+of such husband or wife, shall be punished with shall be punished with imprisonment for a term
+imprisonment of either description for a term which may extend to three years and shall also
+which may extend to seven years, and shall also be liable to fi ne.
+be liable to fi ne. Explanation. For the purpose of this section,
+Exception. This section does not extend to ‘cruelty’ means: (a) any wilful conduct which is
+any person whose marriage with such husband of such a nature as is likely to drive the woman
+or wife has been declared void by a court or to commit suicide or to cause grave injury or
+competent jurisdiction, nor to any person who danger to life, limb or health (whether mental
+contracts a marriage during the life of a framer or physical) of the woman; or (b) harassment
+or wife, if such husband or wife, at the time of the woman where such harassment is with a
+of the subsequent marriage, shall have been view to coercing her or any person related to her
+continually absent from such person for the to meet any unlawful demand for any property
+space of seven years, and shall not have been or valuable security or is on account of failure
+heard of by such person as being alive within by her or any person related to her to meet such
+that time provided the person contracting such demand.
+subsequent marriage shall, before such marriage
+takes place, inform the person with whom such
+GENERAL EXCEPTIONS
+marriage is contracted of the real state of facts so
+far as the same are within his or her knowledge. Mistake
+Section 497: Adultery Section 76. Act done by a person bound, or by
+Whoever has sexual intercourse with a person mistake of fact believing himself bound, by
+who is and whom he knows or has reason to law—
+believe to be wife of another man, without the Nothing is an offence which is done by a person
+consent or connivance of that man, such sexual who is, or who by reason of a mistake of fact
+intercourse not amounting to the offence of and not by reason of mistake of law, in good
+rape, is guilty of the offence of adultery, and faith, believes himself to be bound by law to do
+shall be punished with imprisonment of either it.
+description for a term which may extend to fi ve
+Illustrations
+years, or with fi ne, or with both. In such case the
+wife shall not be punishable as an abettor. (a) A, a soldier, fi res on a mob by the order of
+his superior offi cer, in conformity with the
+CRIMINAL ELOPEMENT/ commands of the law. A has committed no
+SEDUCTION offence.
+(b) A, an offi ce of a Court of Justice, being
+Section 498. Enticing or taking away or ordered by that court to arrest Y, and after
+detaining with criminal intent a married woman. due inquiry, believing Z to be Y, arrest Z.
+Whoever takes or entices away any woman who A has committed no offence.
+is and whom he knows or has reason to believe ‘Mistake’ is a slip made, not by design, but by
+to be the wife of any other man, from that man, mischance. Even under English common law,
+or from any person having the care of her on an honest and reasonable belief in the existence
+behalf of that man, with intent that she may have of circumstances which would have made that
+illicit intercourse with any person ,or conceals act an innocent act, has always been a valid
+or detains with that any intent any such woman, defence.
+shall be punished with imprisonment of either “When a person is ignorant of the exis-
+description for a term which may extend to two tence of relevant facts, or mistaken as to them,
+years, or with fi ne, or with both. his conduct may produce harmful results which
+he neither intended nor foresaw. Mistake can be
+CRUELTY BY HUSBAND OR admitted as a defence provided
+RELATIVES OF HUSBAND (1) that the state of things believed to exist
+would, if true, have justifi ed the act done,
+Section 498-A. Husband or relative of husband and
+of a woman subjecting her to cruelty. Whoever, (2) the mistake must be reasonable, and
+
+(3) that the mistake relates to fact and not to The maxim respondent superior (‘act done
+law”. by the order of a superior’) has no application
+Ignorance of fact is excusable (Ignorantia in criminal law. The order of a superior to an
+facti). Ignorance includes mistake, but mistake inferior servant to commit an offence is not a
+does not necessarily includes ignorance. Igno- valid defence.
+rance means lack of knowledge, a general inertia Thus, where under order of their naik, three
+of human mind. while, mistake is not the result sepoys of a regiment fi red a shot at a mob which,
+of foolhardiness nor it is caused by any lack of otherwise, was by no means violent, it was held
+mental alertness. Thus, mere forgetfulness is not that they were guilty of culpable homicide not
+mistake. Mistake of fact implies mistake as to amounting to murder, and they were not bound
+true identities or mistake in sensory perceptions to obey an illegal order.
+such as temporary distortion of imagination.
+Section 79. Act done by a person justifi ed, or
+It is to be remembered that ‘mistake of law’
+by mistake of fact believing himself justifi ed,
+is no defence, but ‘mistake of fact’ is. Everybody
+by law.
+is bound to know the law of the land, and ig-
+norance of the law is no excuse. This is based Nothing is an offence which is done by any
+on the assumption that if a person exercises due person who is justifi ed by law, or who by reason
+care and diligence (e.g., by consulting a lawyer), of a mistake of fact or by a reason of a mistake of
+he would know the law. law in good faith, believes himself to be justifi ed
+However, there may arise circumstances by law, in doing it.
+neutralizing the presumption of knowledge of
+Illustration
+law in every individual, as in the case of newly
+enacted statute. A sees Z commit what appears to be murder. He
+A mixed question of law and fact is treated in good faith seizes Z, to hand him over to the
+as a question of fact if the accused was mislead police. A has committed no offence, though it
+into an error of fact on account of an error of may turn out that Z was acting in self-defence.
+law. The following rules determined the ques-
+Unsoundness Of Mind
+tion of justifi cation of an offence either due to
+Section 84. Act of person of unsound mind
+mistake of fact or of law:
+“Nothing is an offence which is done by a
+(i) When an act is in itself plainly criminal,
+but is more severely punishable if cer- person who, at the time of doing it, by reason of
+tain circumstances exist, then ignorance unsoundness of mind, is incapable of knowing
+of those circumstances is no answer to a the nature of the act or that he is doing what is
+charge for the aggravated offence. either wrong or contrary to law”.
+(ii) If, however, an act is prima facie innocent, This section provides that a man who, by
+but is an offence if certain circumstances reason of unsoundness of mind, prevented from
+exist, then ignorance of those circum- controlling his own conduct and deprived of the
+stances is a good defence to the charge. power of passing a rational judgement, on the
+(iii) If the act itself is wrong, and becomes material character of the act he meant to do, can-
+criminal under certain circumstances, the not be legally responsible for the act.
+person who commits such a wrongful act The section is based on the principle that
+cannot argue that he was ignorant of the an action does not constitute an offence unless
+facts which turned the wrong into crime. done with a guilty intention. Therefore, insan-
+(iv) The state of the defendant’s mind must ity is recognized as a general defence, because
+amount to absolute ignorance of the ex- insane persons are incapable of entertaining a
+istence of the circumstances which alter blame worthy intention; they do not know what
+the character of the act, or to a belief in its they are doing. No culpability can be fastened
+non-existence. upon insane persons as they have no free will
+(Furiosi nulla voluntas est).
+When mistake of fact is no defence. Mistake of
+The words ‘unsoundness of mind’ include
+fact is no defence if the fact itself is illegal. One
+these persons:
+cannot do an illegal act and then plead ignorance
+idiot (born);
+of a fact. Thus, a person cannot by mistake of
+one made non compos mentis by illness
+fact, shoot X and then plead in defence that he
+(temporary failure);
+did not intend to kill X at all, but mistaken him
+a lunatic or a mad man (mental disorder);
+for Y, whom he wanted to kill.
+
+CRIMINAL LAW 47
+a person in unconscious state, if proved from the medical point of view, he could
+(e.g., sleep walking); not be exonerated under Section 84. Legal
+and intoxicated person. insanity recognizes only the impairment
+of cognitive faculties and when cognitive
+Tests/Principles to determine insanity of a
+faculties are not impaired and only will
+person
+and emotions are affected, insane impulses
+(1) The crucial point of time for deciding
+are not a defence.
+whether the benefi t of Section 84 is to be
+(8) Insane delusions—Akin to lunacy, is in-
+given or not, is the time when the offence
+sane delusion which is a borderline case.
+takes place (“who at the time of doing
+Whether a person who under an insane
+it”). It must be shown that the accused
+delusion as to the existing facts commits
+was of unsound mind at the time of the
+an offence in consequence thereof, is to
+commission of the offence. If he was not
+be executed, depends upon the nature of
+insane at that time but became insane later,
+the delusion. If he labours under a partial
+he cannot take the benefi t of Section 84.
+delusion only, and is not in other respects
+(2) In order to see whether the accused was
+insane, he must be considered in the same
+insane at the time of the commission of
+situation as to responsibility as if the facts,
+offence, the state of his mind before and
+with respect to which the delusion exists,
+after the commission of offence is relevant.
+were real. In other words, he will be re-
+For instance, evidence of pre-meditation,
+sponsible for the crime committed by him.
+an attempt to evade or resist arrest etc.
+Similar is the case with fancied delusions.
+(3) History of previous insanity including any
+Example. A was suffering under an insane
+medical history of the same, the behaviour
+delusion that X and Y were persecuting
+of the accused on the day of occurrence, him. He bought a knife in order to revenge
+and his post-occurrence behaviour are also himself on them, and that very evening he
+relevant to be taken into consideration. went to their club and stabbed them dead.
+(4) Absence of any motive, absence of
+The fact that he actually bought a knife and
+secrecy, want of pre-arrangement and want
+went to the club of his victims shows that
+of accomplices are also relevant factors.
+he knew what he was going to do, namely,
+However, taken alone these factors would
+an act contrary to law, he had an intention
+not be suffi cient.
+to kill. Thus, A would be guilty of murder.
+(5) What Section 84 expects is an inherent or
+But this would not be so if, at the time of
+organic incapacity (i.e., incapability) and
+committing the act, A is so deranged as
+not a wrong or erroneous belief which
+not to know what he was doing or that he
+may be the result of a perverted illusion.
+was doing an act contrary to law.
+(6) Naturally impaired cognitive faculties
+(9) Delirium—Persons who are occasionally
+of mind form a ground of the defence of
+“possessed” by the ‘spirits’ and those
+unsoundness of mind. The agitation of
+who, being in fi ts of delirium, very often
+mind (or uncountable impulses) does not
+conjure up visions or images are given the
+necessarily lead to an inference that it has
+benefi t of Section 84.
+affected one’s mental capacity. Similarly,
+However, in cases of delirium
+‘moral insanity’ or weak/defective intellect
+tremens—a kind of madness brought about
+is no defence. Further, insanity is different
+by habitual excessive liquor/illness, if the
+from eccentricity or strange behaviour.
+patient knows as to what he was doing, he
+(7) Medical/Legal insanity—The courts are
+would be criminally liable.
+concerned with the legal and not with the
+(10) Recent trends—The right and wrong test
+medical view of the question. A man may
+(i.e., the accused should be incapable of
+be suffering from some forms of insanity
+knowing whether the act done by him
+in the sense in which the term is used by
+is right or wrong) no longer dominates
+medical men but may not be suffering
+this branch of criminal law and mental
+from unsoundness of mind as is described
+abnormality falling short of complete
+in Section 84. If the facts of a particular
+insanity is a limited defence establishing
+case show that the accused knew that he
+a claim of diminished responsibility under
+had done something wrong, it did not
+Section 2 of the Homicide Act (English),
+matter how, though he might be insane
+1957.
+
+RIGHT OF PRIVATE DEFENCE and such right continues so long as such
+apprehension of danger to the body
+Section 96: Things done in private defence continues. This right rests on the general
+“Nothing is an offence which is done in the principle that where crime is endeavoured
+exercise of the right of private defence”. to be committed by force, it is lawful to
+The doctrine of ‘right of private defence’ is repel that force in self-defence. To say
+founded on the following ten expediencies: that a person could only claim the right to
+(i) A private citizen whose life is threatened use force after he had sustained a serious
+by a grave danger, need not wait for the injury by an aggressive wrongful assault is
+State aid; however, where aid is available, a complete misunderstanding of the law.
+it must be obtained. (vii) The protective measures employed must be
+(ii) The right of defence is protective or relative to the danger ahead i.e., violence
+preventive and not punitive (i.e., not used must be proportionate to the injury or
+threat to be averted, and must not exceed
+meant for punishing the aggressor);
+such limits; however in such situations it
+however, punitive measures may result in
+cannot be expected of a person to minutely
+the exercise of the defence. It is not a right
+calculate the correct proportion of force to
+of private ‘offence’. The right to punish
+be used in defence.
+is that of State. Thus, if after sustaining a
+( viii) The right of defence ends with the necessity
+serious injury there is no apprehension of
+for it. Thus, the person exercising such
+further danger to the body then obviously
+right need not chase the fl eeing attacker
+the right of private defence would not be
+and then beat him. Similarly, a person is
+available.
+not entitled to go to the house of a person
+(iii) The right cannot be availed of for the sake
+who beat his son in order to chastise him.
+of self-gratifi cation or to satisfy one’s ego
+(ix) The law does not require that a person
+or to satisfy one’s malicious or sadistic
+should not exercise his right to self-
+urges. The act of private defence should
+defence if by running away he can avoid
+not be deliberate. It is available only in
+injury from his assailant.
+case of imminent peril to those who act
+(x) The law does not require that a person
+in good faith and in no case the right be
+placed in such circumstances should
+conceded to a person who stage-manages
+weigh the arguments for and against an
+a situation where in the right can be used
+attack ‘in golden scales’.
+as a shield to justify an act of aggression.
+The right of private defence is not available in
+(iv) The right must be exercised when there
+the following situations:
+is:
+(i) The aggressors cannot claim the right to
+(a) real and immediate threat (not imagi-
+private defence; an aggressor himself
+nary and remote), and creates a danger to his own life.
+(b) a reasonable apprehension of such (ii) There cannot be private defence against
+threat. The term ‘reasonable’ implies private defence. There is no right of
+what any common man in that situa- private defence under the Code against
+tion would apprehend. any act which is not in itself an offence
+(v) The apprehension must be reasonable and under it (an act done in exercise of the
+not fanciful. And, present and imminent right of private defence is not an offence).
+danger (not remote or distant) should be (iii) In a case when two parties are having
+present. thus, X cannot shoot his enemy a free fi ght without disclosing as to
+Y who is at a great distance, even if Y is who is the initial aggressor, it would be
+armed with a sword. The reason is that, at dangerous as a rule to clothe either of
+yet Y has not attacked X, and therefore, them or his sympathizer with a right of
+it cannot be said that X has a present and private defence. In such a case, no right of
+reasonable apprehension of being attacked private defence is available to either party
+by X’s sword. and each individual is responsible for his
+(vi) The right of private defence commences own acts.
+as soon as a reasonable apprehension of
+danger to the body arises from an attempt BURDEN OF PROOF
+or threat to commit the offence, though
+the offence may not have been committed, According to Section 105 of the Indian Evidence
+
+CRIMINAL LAW 49
+Act, 1872, the burden of proving the exception public servant or is acting under the direction of
+is on the person who benefi ts from it (i.e. on a public servant.
+the accused). It is well settled that even if an Thus, the right of private defence of the
+accused does not plead self-defence, it is open body/property can be exercised against a public
+to the Court to consider such a plea if the same servant only in the following three cases:
+arises from the material on record. (a) When the act of the public servant reason-
+ably cause apprehension of death/grievous
+PRIVATE DEFENCE OF THE BODY hurt.
+(b) When the public servant does not act in
+Section 97. “Every person has a right (subject to good faith under colour of his offi ce.
+restriction in Section 99) to defend his own body (c) When the person exercising the right does
+or that of any other person against any offence not know or have any reason to believe that
+affecting the human body”. the attacker is a public servant or is acting
+Section 98. “Every person has the right of private under the direction of a public servant.
+defence of the body against an act, which would Section 99 also lays down the extent to which
+otherwise be a certain offence, but is not that the right may be observed. The measure of self-
+offence by reason of the doer being of unsound defence must always be proportionate to the
+mind, a minor, an intoxicated person or a person quantum of force used by the attacker and which
+acting under misconception of fact”. it is necessary to repel. The extent of force which
+This section lays down that for the pur- may be used depends upon the circumstances of
+pose of exercising the right of private defence, each case. The nature of the attack, the danger
+the physical or mental capacity of the person apprehended, the imminence of danger and the
+against whom the right is exercised is no bar. In real necessity of infl icting harm by retaliation
+other words, the right of defence of the body ex- for the purpose of self-defence, are some of the
+ists against all attackers—whether with or with- important factors to be considered in deciding
+out mens rea. Thus, if Z, under the infl uence of whether the right of defence has been exceeded.
+madness, attempts to kill A, Z is guilty of no Section 100. When the right of private defence
+offence. But A has the same right of private de- extends to causing death.
+fence which he would have if Z were sane, The right of private defence of the body extends
+Section 99 places four restrictions on the right (subject to the restrictions mentioned in Section
+of private defence: 99) to the voluntary causing of death or of any
+(i) There is no right of private defence against other harm to the assailant in cases of:
+an act which does not reasonably cause the (i) an assault as may reasonably cause the
+apprehension of death or grievous hurt, if apprehension that death will otherwise be
+done or attempted to be done by a public the consequence of such assault.
+servant acting in good faith under colour (ii) Similarly, in case of grievous hurt.
+of his offi ce, though that act may not be (iii) An assault with the intention of committing
+strictly justifi able by law. rape.
+(ii) Similarly, there is no right of private (iv) An assault with the intention of gratifying
+defence, when the act is done by the unnatural lust.
+direction of a public servant, though that (v) An assault with the intention of kidnapping
+direction may not be strictly justifi able by or abduction.
+law. (vi) An assault with the intention of wrongfully
+(iii) There is no right of defence in cases in confi ning a person under circumstances
+which there is time to have recourse to the which may reasonably cause him to
+protection of public authorities. apprehend that he will be unable to have
+(iv) The right of private defence in no case recourse to the public authorities for
+extends to the infl icting of more harm than release.
+it is necessary to infl ict for the purpose of In the (i) situation if the defender be so
+defence. situated that he cannot exercise the right without
+Explanation 1 and 2. Section 99 provides that risk to harm to an innocent person he may even
+person is not deprived of the right of defence run that risk (Section 106). Thus, if A is attacked
+against an act of public servant, unless he knows by a mob which attempts to murder him and he
+or has reason to believe that the attacker is a cannot effectually exercise his right of private
+
+defence without fi ring on the mob, and he can- (1) Acts against which there is no right of pri-
+not fi re without risk of harming young children vate defence of property
+who are mingled with the mob, A commits no Section 99 lays down the limitations to the right
+offence if by so fi ring he harms the children (Il- of private defence of property:
+lustration to Section 106). (i) There is no right of private defence of
+Four undermentioned cardinal conditions property against an act which does not
+must have existed before the taking of the life of reasonably cause the apprehension
+a person is justifi ed on the plea of self-defence: of death/grievous hurt, if done by (or
+Firstly, the accused must be free from fault by the direction of) a public servant
+in bringing about the encounter; acting in good faith under colour of
+Secondly, there must be present an impend- his offi ce.
+ing peril to life or of great bodily harm, either (ii) There is also no right of private in
+real or so apparent as to create honest belief of cases in which there is time to have
+an existing necessity. resource to the protection of the
+Thirdly, there must be no safe or reason- public authorities. Further, the right
+able mode of escape by retreat; of private defence in no case extends
+Fourthly, there must have been a necessity to the infl icting of more than it is
+for taking life. necessary to infl ict for the purpose of
+According to Section 101, in other cases defence.
+than those mentioned in Section 100, the person (2) Right when commences and how long it
+exercising the right may cause any other harm continues (Section 105)
+except death. The right commences when a reasonable
+Section 102. Commencement and continu- apprehension of danger to the property
+ance of the right of private defence. commences. The right continues
+The right of private defence of the body (i) against theft, till the offender has
+commences as soon as a reasonable apprehen- effected his retreat with the property,
+sion of danger to the body arises from an at- or the assistance of the public
+tempt or threat to commit the offence though the authorities is obtained; or the property
+offence may not have been committed; and it has been recovered.
+continues as long as such apprehension of dan- (ii) against robbery, as long as the offender
+ger to the body continues. causes (or attempts to cause) to any
+person death or hurt or wrongful
+restraint, or the fear of instant death/
+PRIVATE DEFENCE OF PROPERTY
+hurt/personal restraint continues.
+(iii) against criminal trespass or mischief,
+Acts against which right of defence of property
+so long as the offender continues in
+can be exercised. Every person has the right
+the commission of such offence
+to defend the property (whether movable or
+(iv) against house-breaking by night, as
+immovable) of himself or of any other person
+long as the house-trespass continues
+(i) against theft, robbery, mischief or criminal
+(thus, where a person followed a
+trespass, or any act which is an attempt to
+thief and killed him in the open, after
+commit theft, robbery, etc. (Section 97);
+house-trespass has ceased, held that
+and
+he could not plead the right of private
+(ii) against the act of a lunatic, a minor, or an
+defence)
+intoxicated person or a person acting un-
+Thus, the right of private defence of the
+der a misconception of fact (Section 98).
+property commences and continues as long as
+Illustration the danger lasts. The extent to which the exercise
+of the right will be justifi ed will depend, not on
+A enters by night a house, which he is legally
+the actual danger, but on whether there was
+entitled to enter. Z, in good faith, taking A for a
+reasonable apprehension of such danger.
+house-breaker, attacks A. Here Z, by attacking A
+(3) When the right extends to the causing of
+under this misconception, commits no offence.
+death, etc.
+But A has the same right of private defence
+Section 103 enumerates the cases in which
+against Z, which he would have if Z were not
+the right extends to justifi ably causing the
+acting under this misconception.
+death of the wrong-doer, viz.,
+
+CRIMINAL LAW 51
+(i) Robbery, nature of the act, or that he is doing what is ei-
+(ii) House-breaking by night, ther wrong, or contrary to law: provided that the
+(iii) Mischief by fi re to any building, tent, thing which intoxicated him was administered
+or vessel used as human dwelling or without his knowledge or against his will”.
+as a place for the custody of property, Section 86: “In cases where an act done is not
+(iv) Theft, mischief, or house-trespass un- an offence unless done with a particular knowl-
+der such circumstances as may reason- edge or intent, a person, who does the act in a
+ably cause an apprehension that death/ state of intoxication shall be liable to be dealth
+grievous hurt will be the consequence, with the act as if he had the same knowledge as
+if such right of private defence is not he would have had if he had not been intoxicat-
+exercised. ed, unless the thing which intoxicated him was
+(4) Under Section 97, every person has the administered to him without his knowledge or
+right to defend the property of himself or against his will”.
+of any other person against theft. Thus, the It will, therefore, be seen that for an of-
+tenant, L, was within his rights to exercise fence committed in consequence of voluntary
+the right of private defence. But as J was drunkenness, there is no excuse in law. If it were
+committing a theft without reasonably otherwise any murderer would fi rst get himself
+causing an apprehension that death/ thoroughly intoxicated, have enough sense to
+grievous hurt will be the consequence commit the murder, and then plead intoxication
+(Secs. 103, 104), L had no right to cause as a complete defence. However, if a person, by
+the death of J. mistake, takes some wrong medicine and get in-
+According to Section 105, the right of pri- toxicated, and then commits an offence, surely
+vate defence of property against theft continues he cannot be made liable. Similarly, if a fraud is
+till the offender has effected his retreat with the practiced on him whereby he is made to take an
+property Further, under Section 99, there is no intoxicant, and then he commits an offence, he
+right to the protection of the public authorities. cannot be held liable. Such cases are not cases of
+When J entered his house, there is retreat, thus L voluntary drunkenness.
+cannot exercise right of defence here. Further, as Test of drunkenness—The test to apply in cases
+J’s house was known, there was suffi cient time of drunkenness is not the test applied in cases
+to inform the police. Thus, L’s right of defence of insanity viz., whether the accused person
+also ceases here. knew what he was doing was wrong or was able
+to appreciate the nature and quality of his act.
+INTOXICATION However, insanity produced by drunkenness is a
+defence (under Section 84).
+Whereas lunacy is a disease and is therefore to The correct test is whether by reason of
+be pitted, drunkenness a vice and is, therefore, drunkenness, the accused was incapable of
+to be condemned. Drunkenness is a species of forming an intention of committing the offence.
+madness for which the man is to blame. A man is taken to intend the natural consequenc-
+The law pronounces that the obscuration es of his acts. This presumption may be rebutted
+and divestment of that judgement and human in the case of drunken man, by showing that he
+feeling which in a sober state would have pre- did not know what he was doing was dangerous
+vented the accused from offending, shall not, or incapable of forming the specifi c intent es-
+when produced by his voluntary act, screen him sential to constitute the crime.
+from punishment, although he may no longer Section 86 says that a person voluntarily
+capable of self-restraint. intoxicated will be deemed to have the same
+Qui pecat ebrius luat sobrius: Let him knowledge as he would have had if he had not
+who sins when drunk be punished when sober. If been intoxicated. The section does not say that
+a man chooses to get drunk, it is his own volun- the accused shall be liable to be dealt with as if
+tary act; it is very different from madness which he had the same intention as might have been
+not caused by any act of the person. presumed if he had not been intoxicated. There-
+Now, so far as intoxicated persons are con- fore, there is no presumption, under Section 86,
+cerned, Sections 85 and 86 are relevant. with regard to intention. In such cases, his inten-
+Section 85: “Nothing is an offence which is tion would have to be gathered from the facts
+done by a person who, at the time of doing it, by and circumstances of every individual case, hav-
+reason of intoxication, incapable of knowing the ing due regard to the degree of intoxication.
 
 ---
 
 ## 📝 Multiple Choice Questions (MCQs)
 
-'M' '-'C' 'Q'
-'U'L'T'I'P'L'E' 'H'O'I'C'E' 'U'E'S'T'I'O'N'S'
-'C'U'L'P'A'B'L'E' 'H'O'M'I'C'I'D'E' 'A'N'D' 'I's's'u'e':' 'T'h'e' 'o'f'f'e'n'c'e' 'c'o'm'm'i't't'e'd' 'i's' 'm'u'r'd'e'r'
-'M'U'R'D'E'R' 'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('S'e'c't'i'o'n's' '2'9'9' 'a'n'd' '3'0'0')' 'D'e'c'i's'i'o'n':'
-'('a')' 'T'h'e' 'o'f'f'e'n'c'e' 'i's' 'm'u'r'd'e'r' 'a's' 't'h'e' 'f'a'c't' 'o'f'
-'t'h'e' 'c'a's'e' 's'h'o'w's' 't'h'a't' 't'h'e' 'i'n'f'l' 'i'c't'i'o'n' 'o'f'
-'1'.' 'F'a'c't's':' 'O'n'e' 'B'h'e'r'u'n' 'a'n'd' 'h'i's' 'f'a't'h'e'r' 'w'e'r'e'
-'1'9' 'i'n'j'u'r'i'e's' 'a'r'e' 's'u'f'f'i' 'c'i'e'n't' 't'h'e' 'c'a'u's'e' 'o'f'
-'o'n' 'i'n'i'm'i'c'a'l' 't'e'r'm's' 'w'i't'h' 't'h'e' 'a'p'p'e'l'l'a'n't's'.' 'O'n'
-'d'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'a'u's'e' 'o'f' 'n'a't'u'r'e'.'
-'2'9' 'J'u'n'e' '1'9'6'1',' 'B'e'h'r'u'n' 'w'a's' 'g'o'i'n'g' 't'o'w'a'r'd's'
-'('b')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'b'e'c'a'u's'e' 't'h'e'
-'h'i's' 'f'i' 'e'l'd's' 'w'h'e'n' 'h'e' 'w'a's' 'c'a'u'g'h't' 'h'o'l'd' 'o'f' 'b'y'
-'i'n't'e'n's'i'o'n' 'o'f' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'm'i's's'i'n'g'.'
-'A'n'd'a' 'a'n'd' 'R'o'p'a' '('a'p'p'e'l'l'a'n't's')'.' 'T'h'e'y' 'd'r'a'g'g'e'd'
-'('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'h'i'm' 'i'n's'i'd'e' 'a' 'h'o'u's'e' 'a'n'd' 'b'e'a't' 'h'i'm' 's'e'v'e'r'a'l'l'y'.'
-'m'i'c'i'd'e'.'
-'H'i's' 'a'r'm's' 'a'n'd' 'l'e'g's' 'w'e'r'e' 's'm'a's'h'e'd' 'a'n'd' 'm'a'n'y'
-'('d')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 's'i'm'p'l'e' 'f'i' 'g'h't'.'
-'b'r'u'i's'e's' 'a'n'd' 'l'a'c'e'r'a't'e'd' 'w'o'u'n'd's' 'w'e'r'e' 'c'a'u's'e'd'
-'3'.' 'F'a'c't's':' 'I'n' 'a' 'c'a's'e' 't'h'e'r'e' 'w'a's' 'a' 'l'o'n'g' 's't'a'n'd'i'n'g'
-'o'n' 'h'i's' 'p'e'r's'o'n'.' 'T'h'e' 'd'o'c't'o'r' 'w'h'o' 'c'o'n'd'u'c't'e'd'
-'d'i's'p'u't'e' 'b'e't'w'e'e'n' 't'h'e' 'd'e'c'e'a's'e'd' 'a'n'd' 't'h'e' 'a'p'-'
-'t'h'e' 'a'u't'o'p's'y' 'o'p'i'n'e'd' 't'h'a't' 'i'n'j'u'r'i'e's' 'a'n'd' 't'h'a't'
-'p'e'l'l'a'n't's' 'o'v'e'r' 'a' 'c'e'r't'a'i'n' 'p'i'e'c'e' 'o'f' 'l'a'n'd'.' 'O'n'
-'a'l'l' 't'h'e' 'i'n'j'u'r'i'e's' 'c'o'l'l'e'c't'i'v'e'l'y' 'w'e'r'e' 's'u'f'f'i' 'c'i'e'n't'
-'o'n'e' 'n'i'g'h't',' 't'h'e' 'a'p'p'e'l'l'a'n't's' '('N' 'a'n'd' 'R')' 'i'n' 'p'u'r'-'
-'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e'
-'s'u'a'n'c'e' 'o'f' 'a' 'c'o'n's'p'i'r'a'c'y' 't'o' 'c'o'm'm'i't' 'm'u'r'd'e'r'
-'d'e'a't'h'.'
-'o'f' 'M',' 'd'e'c'e'a's'e'd',' 's'e't' 'f'i' 'r'e' 't'o' 't'h'e' 's'i'n'g'l'e' 'r'o'o'm'
-'I's's'u'e':' 'A'r'e' 't'h'e' 'a'p'p'e'l'l'a'n't's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'
-'h'u't' 'i'n' 'w'h'i'c'h' 'h'e' 'w'a's' 's'l'e'e'p'i'n'g' 'a'f't'e'r' 'l'o'c'k'i'n'g'
-'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'t'h'e' 'd'o'o'r' 'f'r'o'm' 'o'u't's'i'd'e'.' 'W'h'e'n' 't'h'e' 's'e'r'v'a'n't's'
-'D'e'c'i's'i'o'n':'
-'o'f' 't'h'e' 'd'e'c'e'a's'e'd' 'a'n'd' 'o't'h'e'r' 'v'i'l'l'a'g'e'r's' 't'r'i'e'd'
-'('a')' 'T'h'e'y' 'a'r'e' 'n'o't' 'g'u'i'l't'y' 'b'e'c'a'u's'e' 't'h'e' 'd'o'c't'o'r'
-'t'o' 'r'e's'c'u'e' 't'h'e' 'd'e'c'e'a's'e'd' 't'h'e'y' 'w'e'r'e' 'k'e'p't' 'a't'
-'w'h'o' 'c'o'n'd'u'c't'e'd' 'a'u't'o'p's'y' 's'a'i'd' 't'h'a't' 't'h'e'
-'b'a'y' 'b'y' 't'h'e' 's'u'p'e'r'i'o'r' 'f'o'r'c'e' 'o'f' 't'h'e' 'a'c'c'u's'e'd'
-'d'e'c'e'a's'e'd' 'd'i'e't' 'o'f' 's'h'o'c'k'.'
-'a'n'd' 't'h'e'i'r' 'a's's'o'c'i'a't'e's'.' 'C'o'n's'e'q'u'e'n't'l'y',' 'd'e'a't'h'
-'('b')' 'T'h'e'y' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'o'f' 't'h'e' 'd'e'c'e'a's'e'd' 'o'c'c'u'r'r'e'd'.'
-'B'e'c'a'u's'e' 't'h'e'r'e' 'i's' 'n'o' 'i'n'd'i'c'a't'i'o'n' 'o'f' 'u's'e'
-'I's's'u'e':' 'M'u'r'd'e'r' 'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'o'f' 'l'e't'h'a'l' 'w'e'a'p'o'n'.'
-'('c')' 'T' 'h'e'y' 'a'r'e' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'D'e'c'i's'i'o'n':'
-'i'n't'e'n's'i'o'n' 'i's' 'm'i's's'i'n'g'.' '('a')' 'I' 't' 'i's' 'n'o't' 'a' 'm'u'r'd'e'r'.' 'B'e'c'a'u's'e' 't'h'e' 'f'a'c't's'
-'('d')' 'I't'’'s' 'a' 'c'l'e'a'r' 'c'u't' 'c'a's'e' 'o'f' 'm'u'r'd'e'r'.' 'B'e'-' 'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's' 'a'r'e' 'n'o't' 's'u'f'f'i' 'c'i'e'n't'.'
-'c'a'u's'e' 's'e'v'e'r'e'l'y' 'b'e'a't'i'n'g' 't'h'e' 'd'e'c'e'a's'e'd' '('b')' 'I't' 'i's' 'n'o't' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 't'o'o' 'b'e'-'
-'a'n'd' 's'm'a's'h'i'n'g' 'h'i's' 'l'e'g's' 'i's' 'c'l'e'a'r' 'c'u't' 'i'n'-' 'c'a'u's'e' 'i't' 'i's' 'n'o'w'h'e'r'e' 'e'v'i'd'e'n't' 't'h'a't' 't'h'e'
-'d'i'c'a't'i'o'n' 'o'f' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'i'n't'e'n's'i'o'n'.' 'v'e'r'y' 'a'c't'i'o'n' 'o'f' 't'h'e' 'a'c'c'u's'e'd' 't'o' 's'e't' 't'h'e'
-'h'o'u's'e' 'o'f' 't'h'e' 'd'e'c'e'a's'e'd' 'o'n' 'f'i' 'r'e',' 'r'e's'u'l't'e'd'
-'2'.' 'F'a'c't's':' 'I'n' 'a' 'c'a's'e',' 't'h'e'r'e' 'w'a's' 'b'a'd' 'b'l'o'o'd' 'b'e'-'
-'i'n' 't'o' 'h'i's' 'd'e'a't'h'.'
-'t'w'e'e'n' 't'h'e' 't'w'o' 'f'a'c't'i'o'n's' 'a'n'd' 't'h'e'y' 'w'e'r'e' 'i'n'-'
-'('c')' 'I't' 'i's' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'i'n' 't'h'e' 'p'u'r's'u'a'n'c'e'
-'v'o'l'v'e'd' 'i'n' 'n'u'm'b'e'r' 'o'f' 'i'n'c'i'd'e'n't's' 'a'n'd' 'c'r'i'm'i'-'
-'o'f' 't'h'e' 'c'o'n's'p'i'r'a'c'y' 't'o' 'c'o'm'm'i't' 'm'u'r'd'e'r'
-'n'a'l' 'p'r'o'c'e'e'd'i'n'g's'.' 'O'n' 'o'n'e' 'd'a'y',' 'd'e'c'e'a's'e'd'
-'o'f' 'M',' 't'h'e' 'a'c'c'u's'e'd' 'l'o'c'k' 't'h'e' 'd'e'c'e'a's'e'd'
-'('b'e'l'o'n'g'i'n'g' 't'o' 'o'n'e' 'f'a'c't'i'o'n')' 'w'a's' 'f'o'l'l'o'w'e'd'
-'b'y' 'm'e'm'b'e'r's' 'o'f' 'o't'h'e'r' 'f'a'c't'i'o'n'.' 'W'h'e'n' 't'h'e' 'a'n'd' 's'e't' 't'h'e' 'r'o'o'm' 'o'n' 'f'i' 'r'e' 'a'n'd' 's't'o'p' 't'h'e'
-'d'e'c'e'a's'e'd',' 'a' '5'5' 'y'e'a'r' 'o'l'd' 'm'a'n',' 't'r'i'e'd' 't'o' 'r'a'n' 's'e'r'v'a'n't's' 'a'n'd' 'v'i'l'l'a'g'e'r's' 't'o' 'c'o'm'e' 't'o' 'h'i's'
-'a'w'a'y',' 'h'e' 'w'a's' 'n'o't' 'a'l'l'o'w'e'd' 'b'y' 't'h'e' 'a'c'c'u's'e'd' 'r'e's'c'u'e'.'
-'w'h'o' 'i'n'd'i's'c'r'i'm'i'n'a't'e'l'y' 'p'o'u'n'd'e'd' 't'h'e' 'l'e'g's' 'a'n'd' '('d')' 'I't' 'w'i'l'l' 'd'e'p'e'n'd' 'o'n' 't'h'e' 'd'i's'c'r'e't'i'o'n' 'o'f' 't'h'e'
-'a'r'm's' 'o'f' 'h'i's' 'b'y' 'h'e'a'v'y' 's't'i'c'k's' 'a'n'd' 'c'o'n't'i'n'u'e'd' 'c'o'u'r't'.'
-'t'h'e' 'b'e'a't'i'n'g' 't'i'l'l' 'h'e' 'b'e'c'a'm'e' 'u'n'c'o'n's'c'i'o'u's'.' '4'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 'w'i't'h' 'i'n't'e'n't'i'o'n' 'o'f' 'k'i'l'l'-'
-'T'h'e' 'a'c'c'u's'e'd' 't'h'a'n' 'l'e'f't' 't'h'e' 's'p'o't'.' 'T'h'e' 'd'o'c't'o'r' 'i'n'g' 'A',' 'g'a'v'e' 'h'i'm' 's'o'm'e' 'p'o'i's'o'n'e'd' 'h'a'l'v'a'.' 'A'
-'f'o'u'n'd' 'a's' 'm'a'n'y' 'a's' '1'9' 'i'n'j'u'r'i'e's' 'o'u't' 'o'f' 'w'h'i'c'h' 'a't'e' 'a' 'p'o'r't'i'o'n' 'o'f' 'i't' 'a'n'd' 't'h'r'e'w' 't'h'e' 'r'e's't' 'a'w'a'y'
-'n'o' 'l'e's's' 't'h'a'n' '9' 'w'e'r'e' '('i'n't'e'r'n'a'l'l'y')' 'f'o'u'n'd' 't'o' 'a'n'd' 't'h'i's' 'w'a's' 'p'i'c'k'e'd' 'u'p' 'b'y' 'a'c'c'u's'e'd'’'s' 'b'r'o't'h'-'
-'b'e' 'g'r'i'e'v'o'u's'.' 'T'h'e' 'd'o'c't'o'r' 'g'a'v'e' 't'h'e' 'o'p'i'n'i'o'n' 'e'r' 'i'n' 'l'a'w'’'s' 'd'a'u'g'h't'e'r' '('a' 'g'i'r'l' 'o'f' '8' 'y'e'a'r's')' 'w'h'o'
-'t'h'a't' 't'h'e' 'i'n'j'u'r'i'e's' 'w'e'r'e' 'c'u'm'u'l'a't'i'v'e'l'y' 's'u'f'f'i' '-' 'a't'e' 'i't' 'a'n'd' 'a'l's'o' 'g'a'v'e' 's'o'm'e' 't'o' 'a'n'o't'h'e'r' 'c'h'i'l'd'.'
-'c'i'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'T'h'e' 't'w'o' 'c'h'i'l'd' 'd'i'e'd',' 'b'u't' 'A' 'e'v'e'n't'u'a'l'l'y' 'r'e'-'
-'o'f' 'n'a't'u'r'e'.' 'c'o'v'e'r'e'd'.' 'I't' 'w'a's' 'f'o'u'n'd' 'a's' 'a' 'f'a'c't' 't'h'a't' 't'w'o'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '5'3'
-'c'h'i'l'd' 'a't'e' 'h'a'l'v'a' 'w'i't'h'o'u't' 't'h'e' 'k'n'o'w'l'e'd'g'e' 'o'f' 'i'n'f'l' 'i'c't'e'd' 'i's' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h' 'i'n'
-'t'h'e' 'a'c'c'u's'e'd',' 'w'h'o' 'd'i'd' 'n'o't' 'i'n't'e'n'd' 't'o' 'c'a'u's'e' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'a'u's'e' 'o'f' 'n'a't'u'r'e'.'
-'t'h'e'i'r' 'd'e'a't'h'.' 'T'h'e' 'a'c'c'u's'e'd' 'w'a'n't'e'd' 't'o' 'k'i'l'l' 'A' '('b')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'o'n' 'w'h'o's'e' 'l'i'f'e' 'h'e' 'h'a'd' 'e'f'f'e'c't'e'd' 'l'a'r'g'e' 'i'n's'u'r'-' '('c')' 'I't' 'i's' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'a'n'c'e'.' '7'.' 'F'a'c't's':' 'I'n' 't'h'i's' 'c'a's'e',' 't'h'e' 'q'u'e's't'i'o'n' 'w'a's' 'w'h'e'n'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'c'o'm'm'i't't'e'd' 'o'f'-' 'd'e'a't'h' 'i's' 'c'a'u's'e'd' 'b'y' 'a' 's'i'n'g'l'e' 'b'l'o'w',' 'w'h'e't'h'e'r'
-'f'e'n'c'e' 'o'f' 'm'u'r'd'e'r' 'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'c'l'a'u's'e' 't'h'r'e'e' 'o'f' 'S'e'c't'i'o'n' '3'0'0' 'i's' 'a't't'r'a'c't'e'd'.'
-'D'e'c'i's'i'o'n':' 'I'n' 't'h'e' 'c'a's'e' 'i'n' 'q'u'e's't'i'o'n',' 't'h'e' 'a'c'c'u's'e'd' 'p'e'r'-'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'h'a's' 'c'o'm'm'i't't'e'd' 'n'e'i't'h'e'r' 's'o'n's' 'c'a'm'e' 'a'r'm'e'd' 'w'i't'h' 'd'e'a'd'l'y' 'w'e'a'p'o'n's'
-'t'h'e' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'a'n'd' 't'h'e'r'e' 'w'a's' 'a'n' 'a'l't'e'r'c'a't'i'o'n' 'a'n'd' 'e'x'c'h'a'n'g'e'
-'B'e'c'a'u's'e' 't'h'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e' 's'h'o'w' 'o'f' 'h'o't' 'w'o'r'd's' 'w'h'e'r'e'a'f't'e'r' 't'h'e' 'a'c'c'u's'e'd' 'a's'-'
-'t'h'a't' 'h'e' 'h'a's' 'n'o' 'r'e'l'a't'i'o'n' 'w'i't'h' 't'h'e' 'c'h'i'l'-' 's'a'u'l't'e'd' 'v'i'c't'i'm' 'w'i't'h' 'a' 'b'h'a'l'a' 'c'a'u's'i'n'g' 'i'n'j'u'r'y'
-'d'r'e'n' 'w'h'o' 'd'i'e'd' 'o'f' 'c'o'n's'u'm'i'n'g' 'p'o'i's'o'n'-' 'o'n' 't'h'e' 'c'h'e's't' 'r'u'p't'u'r'i'n'g' 'm'a'j'o'r' 'b'l'o'o'd' 'v'e's's'e'l's'
-'o'u's' 'h'a'l'v'a'.' 'r'e's'u'l't'i'n'g' 'i'n' 'h'e'r' 'i'n's't'a'n't'a'n'e'o'u's' 'd'e'a't'h'.'
-'('b')' 'I't' 'i's' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'h'e' 'h'a'd' 'i'n't'e'n'd'e'd' 'I's's'u'e':' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'o'r'
-'t'o' 'k'i'l'l' 'A'.' 'T'h'o'u'g'h' 'A',' 'c'o'u'l'd'n'’'t' 'b'e' 'k'i'l'l'e'd' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'b'u't' 't'h'e' 'i'n'd'i'r'e'c't' 'd'e'a't'h' 'o'f' 'c'h'i'l'd'r'e'n' 'D'e'c'i's'i'o'n':'
-'a'm'o'u'n't's' 't'o' 'k'i'l'l'i'n'g' 'w'i't'h' 'i'n't'e'n't'i'o'n'.' '('a')' 'I't' 'i's' 'n'o't' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'a' 's'i'n'g'l'e' 'b'l'o'w'
-'('c')' 'N'o' 'c'l'e'a'r' 'c'u't' 'o'f'f'e'n'c'e' 'b'e'c'a'u's'e' 't'h'e' 'f'a'c't's' 'c'a'n'’'t' 'b'e' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h'.'
-'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's' 'd'o' 'n'o't' 'g'i'v'e' 'c'l'e'a'r' '('b')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('c')' 'I't' 'i's' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'p'i'c't'u'r'e'.'
-'('d')' 'I' 't' 'i's' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'a' 's'i'n'g'l'e' 'b'l'o'w' 'c'a'n'
-'5'.' 'F'a'c't's':' 'A'b'o'u't' 'a' 'y'e'a'r' 'b'e'f'o'r'e' 't'h'e' 'd'a't'e' 'o'f' 'o'c'-'
-'b'e' 't'h'e' 'c'a'u's'e' 'o'f' 'd'e'a't'h' 'i'f' 'i't' 'i's' 'i'n'f'l' 'i'c't'e'd'
-'c'u'r'r'e'n'c'e',' 'B'a'c'h'h'a'n' 'S'i'n'g'h',' 's'o'n' 'o'f' 't'h'e' 'd'e'-'
-'w'i't'h' 'a's' 'm'u'c'h' 'f'o'r'c'e' 'a'n'd' 's'e'v'e'r'i't'y' 'w'h'i'c'h'
-'c'e'a's'e'd',' 'h'a'd' 'c'a'u's'e'd' 'a' 's'e'v'e'r'e' 'i'n'j'u'r'y' 'o'n' 't'h'e'
-'i's' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'-'
-'l'e'g' 'o'f' 'o'n'e' 'P'r'i't'a'm' 'S'i'n'g'h' 'r'e's'u'l't'i'n'g' 'i'n' 't'h'e'
-'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'.'
-'a'm'p'u't'a't'i'o'n' 'o'f' 'l'e'g' 'o'f' 'o'n'e' 'a'p'p'e'l'l'a'n't'.' 'F'a'-'
-'8'.' 'F'a'c't's':' 'D'h'i'r'a'j'j'a' 'w'a's' 'a' 'y'o'u'n'g' 'w'o'm'a'n' 'm'a'r'-'
-'t'h'e'r' 'o'f' 'P'r'i't'a'm' 'S'i'n'g'h' 'h'a'r'b'o'u'r'e'd' 'a' 'g'r'u'd'g'e'
-'r'i'e'd' 't'o' 'J'h'a'g'g'a'.' 'T'h'e'y' 'h'a'd' 'a' 's'i'x' 'm'o'n't'h's' 'o'l'd'
-'a'g'a'i'n's't' 'B'a'c'h'h'a'n' 'S'i'n'g'h' 'a'n'd' 'h'i's' 'f'a't'h'e'r'.'
-'b'a'b'y'.' 'T'h'e' 'h'u's'b'a'n'd' 'd'i'd' 'n'o't' 't'r'e'a't' 'h'i's' 'w'i'f'e'
-'O'n' 'o'n'e' 'd'a'y',' 't'h'e' 'a'p'p'e'l'l'a'n't' 'a'n'd' 'h'i's' 'a's's'o'c'i'-'
-'w'e'l'l'.' 'T'h'e' 'w'i'f'e' 'd'e's'i'r'e'd' 't'o' 'g'o' 't'o' 'v'i's'i't' 'h'e'r'
-'a't'e' 'c'a'u'g'h't' 'h'o'l'd' 'o'f' 't'h'e' 'd'e'c'e'a's'e'd' '('f'a't'h'e'r' 'o'f'
-'p'a'r'e'n't's' 'b'u't' 't'h'e' 'h'u's'b'a'n'd' 'h'a'd' 'o'b'j'e'c't'e'd' 't'o'
-'B'a'c'h'h'a'n' 'S'i'n'g'h')' 'a'n'd' 'i'n'f'l' 'i'c't'e'd' 'a's' 'm'a'n'y' 'a's'
-'i't' 'a'n'd' 'o'n' 't'h'e' 'd'a'y' 'o'f' 'o'c'c'u'r'r'e'n'c'e' 't'h'e'y' 'h'a'd'
-'1'8' 'i'n'j'u'r'i'e's' 'o'n' 't'h'e' 'a'r'm's' 'a'n'd' 'l'e'g's' 'o'f' 't'h'e' 'd'e'-'
-'q'u'a'r'r'e'l'l'e'd' 'w'i't'h' 'e'a'c'h' 'o't'h'e'r' 'a'n'd' 't'h'e' 'h'u's'-'
-'c'e'a's'e'd' 'w'i't'h' 'a' 'g'a'n'd'a's'a'.'
-'b'a'n'd' 'h'a'd' 't'h'r'e'a't'e'n'e'd' 't'o' 'b'e'a't' 'h'e'r'.' 'L'a't'e' 't'h'a't'
-'I's's'u'e':' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'o'r'
-'n'i'g'h't' 'J'a'g'g'a' 'w'o'k'e' 'u'p' 'a'n'd' 'f'o'u'n'd' 'h'i's' 'w'i'f'e'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'a'n'd' 'b'a'b'y' 'm'i's's'i'n'g'.' 'H'e' 'w'e'n't' 'o'u't' 'i'n' 'p'u'r's'u'i't'
-'D'e'c'i's'i'o'n':'
-'o'f' 't'h'e'm' 'a'n'd' 'c'l'o's'e' 't'o' 't'h'e' 'r'a'i'l'w'a'y' 'l'i'n'e' 'h'e'
-'('a')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g'
-'s'a'w' 'h'e'r' 'm'a'k'i'n'g' 'h'e'r' 'w'a'y' 'a'l'o'n'g' 't'h'e' 'p'a't'h'.'
-'t'o' 'm'u'r'd'e'r'.'
-'W'h'e'n' 's'h'e' 'h'e'a'r'd' 'h'i'm' 'c'o'm'i'n'g' 'a'f't'e'r' 'h'e'r','
-'('b')' 'I't' 'i's' 'm'u'r'd'e'r'.'
-'D'h'i'r'a'j'j'a' 't'u'r'n'e'd' 'a'r'o'u'n'd' 'i'n' 'a' 'p'a'n'i'c',' 'r'a'n' 'a'
-'('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'l'i't't'l'e' 'd'i's't'a'n'c'e',' 'a'n'd' 't'h'e'n' 'j'u'm'p'e'd' 'i'n't'o' 'a' 'w'e'l'l'
-'m'i'c'i'd'e'.'
-'w'i't'h' 't'h'e' 'b'a'b'y' 'g'i'r'l' 'i'n' 'h'e'r' 'a'r'm's'.' 'T'h'e' 'r'e's'u'l't'
-'('d')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'w'a's' 't'h'a't' 't'h'e' 'b'a'b'y' 'd'i'e'd' 'w'h'i'l'e' 't'h'e' 'w'o'm'a'n'
-'6'.' 'F'a'c't's':' 'T'h'e' 'a'p'p'e'l'l'a'n't' 'V'i'r's'a' 'S'i'n'g'h' 't'h'r'u's't' 'a'
-'w'a's' 'e'v'e'n't'u'a'l'l'y' 'r'e's'c'u'e'd'.' 'S'h'e' 'w'a's' 'c'h'a'r'g'e'd'
-'s'p'e'a'r' 'i'n' 't'h'e' 'a'b'd'o'm'e'n' 'o'f' 't'h'e' 'd'e'c'e'a's'e'd' 'w'i't'h'
-'w'i't'h' 't'h'e' 'm'u'r'd'e'r' 'o'f' 'h'e'r' 'b'a'b'y' 'a'n'd' 'w'i't'h' 'a't'-'
-'s'u'c'h' 'f'o'r'c'e' 't'h'a't' 'i't' 'p'e'n'e't'r'a't'e'd' 't'h'e' 'b'o'w'e'l's'
-'t'e'm'p't' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e'.'
-'a'n'd' 't'h'r'e'e' 'c'o'i'l's' 'o'f' 't'h'e' 'i'n't'e's't'i'n'e's' 'c'a'm'e' 'o'u't'
-'I's's'u'e':' 'T'h'e' 'w'i'f'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'o'r' 'c'u'l'-'
-'o'f' 't'h'e' 'w'o'u'n'd'.' 'T'h'e' 'd'o'c't'o'r' 'w'h'o' 'c'o'n'd'u'c't'e'd'
-'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'t'h'e' 'p'o's't' 'm'o'r't'e'm' 's'a'i'd' 't'h'a't' 't'h'e' 'i'n'j'u'r'y' 'w'a's'
-'D'e'c'i's'i'o'n':'
-'s'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y'
-'('a')' 'T'h'e' 'w'i'f'e' 'i's' 'g'u'i'l't'y' 'n'e'i't'h'e'r' 'o'f' 'm'u'r'd'e'r' 'o'r'
-'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'.'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'I's's'u'e':' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'o'r' '('b')' 'I't' 'i's' 'c'a's'e' 'o'f' 's'e'l'f'-'d'e'f'e'n's'e' 's'o' 's'h'e' 'c'a'n'’'t'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'a'n'y' 'o'f'f'e'n'c'e'.'
-'D'e'c'i's'i'o'n':' '('c')' 'S'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'('a')' 'I't' 'i's' 'a' 'c'l'e'a'r' 'c'u't' 'm'u'r'd'e'r' 'a's' 't'h'e' 'i'n'j'u'r'y' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'
-'9'.' 'F'a'c't's':' 'T'h'e' 'a'p'p'e'l'l'a'n't',' 'h'e'r' 'h'u's'b'a'n'd' 'a'n'd' 'h'e'r' '1'2'.' 'F'a'c't's':' 'A' 'p'u'l'l'e'd' 'B' 'o'u't' 'o'f' 'h'i's' 'c'l'a's's'r'o'o'm','
-'s'i's't'e'r' 'i'n' 'l'a'w' 'u's'e'd' 't'o' 'r'e's'i'd'e' 't'o'g'e't'h'e'r'.' 'T'h'e'r'e' 'g'a'v'e' 'b'l'o'w's' 'o'n' 'h'i's' 'r'i'b's' 'f'r'a'c't'u'r'i'n'g' 't'w'o' 'o'f'
-'w'e'r'e' 'c'o'n's't'a'n't' 'q'u'a'r'r'e'l's' 'b'e't'w'e'e'n' 't'h'e' 'a'p'p'e'l'-' 't'h'e'm' 'a'n'd' 'k'i'c'k'e'd' 'h'i'm' 'c'a'u's'i'n'g' 'r'u'p't'u'r'e' 'o'f'
-'l'a'n't' 'a'n'd' 'h'e'r' 's'i's't'e'r'-'i'n'-'l'a'w' 'a'n'd' 'v'e'r'y' 'o'f't'e'n' 'B'’'s' 'e'n'l'a'r'g'e'd' 's'p'l'e'e'n'.' 'A' 'w'a's' 'n'o't' 'a'w'a'r'e' 'o'f'
-'t'h'e' 'a'p'p'e'l'l'a'n't' 'w'a's' 's'l'a'p'p'e'd' 'b'y' 'h'e'r' 'h'u's'b'a'n'd' 't'h'i's' 'p'h'y's'i'c'a'l' 'i'n'f'i' 'r'm'i't'y' 'o'f' 'B'.' 'T'h'e's'e' 'i'n'j'u'r'i'e's'
-'f'o'r' 's'u'c'h' 'q'u'a'r'r'e'l'l'i'n'g'.' 'O'n'e' 'd'a'y',' 'a' 'q'u'a'r'r'e'l' 'c'u'm'u'l'a't'i'v'e'l'y' 'r'e's'u'l't'e'd' 'i'n' 'B'’'s' 'd'e'a't'h'.'
-'t'o'o'k' 'p'l'a'c'e' 'a'n'd' 'h'e'r' 's'i's't'e'r'-'i'n'-'l'a'w' 'a's'k'e'd' 'h'e'r' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'A' 'h'a's' 'c'o'm'-'
-'t'o' 'l'e'a'v'e' 't'h'e' 'h'o'u's'e'.' 'T'h'e'r'e'u'p'o'n',' 't'h'e' 'a'p'p'e'l'-' 'm'i't't'e'd'?'
-'l'a'n't' 'l'e'f't' 't'h'e' 'h'o'u's'e' 'a'n'd' 'j'u'm'p'e'd' 'i'n't'o' 'a' 'w'e'l'l' 'D'e'c'i's'i'o'n':'
-'a'l'o'n'g' 'w'i't'h' 'h'e'r' 't'h'r'e'e' 'c'h'i'l'd'r'e'n',' 'i'n' 'o'r'd'e'r' '('a')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'o'f'f'e'n'c'e' 'o'f' 'h'i's' 'm'u'r'-'
-'t'o' 'e's'c'a'p'e' 'h'a'r'a's's'm'e'n't' 'a't' 't'h'e' 'h'a'n'd's' 'o'f' 'h'e'r' 'd'e'r' 'a's' 't'h'e' 's'e'v'e'r'e' 'b'l'o'w's' 'o'n' 't'h'e' 'r'i'b's'
-'s'i's't'e'r'-'i'n'-'l'a'w'.' 'S'h'e' 's'u'r'v'i'v'e'd' 'b'u't' 't'h'e' 't'h'r'e'e' 'c'a'u's'i'n'g' 'f'r'a'c't'u'r'e' 'a'n'd' 'r'u'p't'u'r'e' 'o'f' 's'p'l'e'e'n'
-'c'h'i'l'd'r'e'n' 'd'i'e'd'.' 'a'r'e' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h' 'i'n' 'o'r'-'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'p'p'e'l'l'a'n't' 'i's' 'g'u'i'l't'y' 'o'f' 'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'.'
-'m'u'r'd'e'r' 'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'?' '('b')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'D'e'c'i's'i'o'n':' '('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'('a')' 'S'h'e' 's'h'o'u'l'd' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'o'f'f'e'n'c'e' 'o'f' 'm'i'c'i'd'e'.'
-'m'u'r'd'e'r'.' '('d')' 'T'h'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e' 's'h'o'w' 't'h'a't' 'i't' 'i's' 'a'
-'('b')' 'S'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'm'a't't'e'r' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-' '1'3'.' 'F'a'c't's':' 'X' 'g'a'v'e' 'a' 'l'a't'h'i' 'b'l'o'w' 'o'n' 'Y'’'s' 'h'e'a'd'
-'m'i'c'i'd'e'.' 'w'i't'h' 's'u'c'h' 'a' 'f'o'r'c'e' 't'h'a't' 'h'i's' 'h'e'a'd' 'w'a's' 'b'a'd'l'y'
-'1'0'.' 'F'a'c't's':' 'A',' 'a' 'p'i'c'k'p'o'c'k'e't',' 'p'u't's' 'h'i's' 'h'a'n'd' 'i'n' 'f'r'a'c't'u'r'e'd'.' 'Y' 'b'e'c'a'm'e' 'u'n'c'o'n's'c'i'o'u's' 'a'n'd' 'w'a's'
-'B'’'s' 'p'o'c'k'e't'.' 'I'n'c'i'd'e'n't'a'l'l'y' 'B' 'h'a'd' 'a' 'p'i's't'o'l' 'i'n' 'r'u's'h'e'd' 't'o' 't'h'e' 'h'o's'p'i't'a'l' 'w'h'e'r'e' 'h'e' 'd'i'e'd' 'a'f't'e'r'
-'h'i's' 'p'o'c'k'e't' 'a'n'd' 'a's' 'A' 'p'u't' 'h'i's' 'h'a'n'd' 'i'n' 't'h'e' '1'2' 'd'a'y's'.' 'T'h'e' 'p'o's't'm'o'r't'e'm' 'r'e'p'o'r't' 's'h'o'w'e'd'
-'p'o'c'k'e't',' 'i't' 't'o'u'c'h'e'd' 't'h'e' 't'r'i'g'g'e'r' 'a'n'd' 't'h'e' 'p'i's't'o'l' 't'h'a't' 'Y' 'h'a'd' 'd'i'e'd' 'b'e'c'a'u's'e' 'o'f' 's'e'p't'i'c' 'i'n'f'e'c'-'
-'w'e'n't' 'o'f'f' 'k'i'l'l'i'n'g' 'B'.' 't'i'o'n'.' 'W'h'e'n' 'X' 'i's' 'c'h'a'r'g'e'd' 'w'i't'h' 'm'u'r'd'e'r',' 'h'e'
-'I's's'u'e':' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'o'r' 'p'l'e'a'd's' 't'h'a't' 't'h'e' 'd'e'a't'h' 'w'a's' 'c'a'u's'e'd' 'b'e'c'a'u's'e'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'?' 'o'f' 's'e'p't'i'c' 'i'n'f'e'c't'i'o'n' 'a'n'd' 'n'o't' 'b'e'c'a'u's'e' 'o'f' 'h'e'a'd'
-'D'e'c'i's'i'o'n':' 'i'n'j'u'r'y'.' 'W'i'l'l' 'h'e' 's'u'c'c'e'e'd' 'i'n' 'h'i's' 'p'l'e'a'?' 'D'i's'-'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'w'h'o' 't'r'i'g'g'e'r'e'd' 'c'u's's'.'
-'t'h'e' 'p'i's't'o'l' 'a'n'd' 'k'i'l'l'e'd' 'B'.' 'I's's'u'e':' 'W'h'e't'h'e'r' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'm'i'c'i'd'e' 'o'r' 'm'u'r'd'e'r'?'
-'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'a's' 'h'e' 'd'i'd'n'’'t' 'i'n'-' 'D'e'c'i's'i'o'n':'
-'t'e'n'd' 't'o' 'k'i'l'l' 'B'.' '('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 'a' 'b'l'o'w' 'o'f'
-'('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-' 'l'a't'h'i' 'o'n' 't'h'e' 'h'e'a'd' 'i's' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'p'r'o'v'e'
-'m'i'c'i'd'e'.' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'p'i'c'k' 'p'o'c'k'e't'i'n'g'.' 't'h'e' 'i'n't'e'n's'i'o'n' 'o'f' 't'h'e' 'a'c'c'u's'e'd' 'a'n'd' 't'h'e'
-'1'1'.' 'F'a'c't's':' 'A',' 'a' 's'c'h'o'o'l' 't'e'a'c'h'e'r',' 'h'a'd' 'g'i'v'e'n' 'a' 'c'a'u's'e' 'o'f' 'd'e'a't'h'.'
-'f'e'w' 's'l'a'p's' 't'o' 'B',' 'a' 's't'u'd'e'n't',' 'w'i't'h' 'a' 'v'i'e'w' 't'o' '('b')' 'H'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'A's' 'p'o's't'
-'d'i's'c'i'p'l'i'n'i'n'g' 'h'i'm'.' 'B',' 'w'h'o' 'w'a's' 'a' 'p'a't'i'e'n't' 'o'f' 'm'o'r't'e'm' 'r'e'p'o'r't' 's'h'o'w's' 'h'e' 'd'i'e'd' 'o'f' 's'e'p't'i'
-'e'p'i'l'e'p's'y' 'f'e'l'l' 'd'o'w'n' 'a'n'd' 'b'e'c'a'm'e' 'u'n'c'o'n'-' 'i'n'f'e'c't'i'o'n'.'
-'s'c'i'o'u's'.' 'A' 'b'e'l'i'e'v'i'n'g' 'B' 't'o' 'b'e' 'd'e'a'd',' 'i'n' 'a' 'p'a'n'i'c' '('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'h'u'n'g' 'h'i'm' 't'o' 'g'i'v'e' 'a'n' 'i'm'p'r'e's's'i'o'n' 'o'f' 's'u'i'c'i'd'a'l' '('d')' 'H'e' 'i's' 'n'e'i't'h'e'r' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-'
-'d'e'a't'h'.' 'D'o'e's' 'A' 'p'o's's'e's's' 't'h'e' 'r'e'q'u'i'r'e'd' 'g'u'i'l't'y' 'c'i'd'e' 'n'o'r' 'm'u'r'd'e'r'.' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'g'r'i'e'v'-'
-'m'i'n'd' 'f'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'?' 'o'u's' 'h'u'r't'.'
-'I's's'u'e':' 'D'o'e's' 'a' 'p'o's's'e's' 't'h'e' 'r'e'q'u'i'r'e'd' 'g'u'i'l't'y' '1'4'.' 'F'a'c't's':' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'a't't'a'c'k's' 'B'.' 'W'h'i'l'e'
-'m'i'n'd' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'?' 'd'o'i'n'g' 's'o',' 'A' 'd'o'e's' 'n'o't' 'k'n'o'w' 't'h'a't' 'B' 'i's' 's'u'f'f'e'r'-'
-'D'e'c'i's'i'o'n':' 'i'n'g' 'f'r'o'm' 'a'n' 'e'n'l'a'r'g'e'd' 'a'p'p'e'n'd'i'x'.' 'T'h'e' 'b'l'o'w'
-'('a')' 'A' 'd'o'e's' 'n'o't' 'p'o's's'e's's' 't'h'e' 'r'e'q'u'i'r'e'd' 'g'u'i'l't'y' 'f'a'l'l's' 'o'n' 't'h'e' 'a'p'p'e'n'd'i'x' 'a's' 'a' 'r'e's'u'l't' 'o'f' 'w'h'i'c'h'
-'m'i'n'd' 'f'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'u'n'l'e's's' 'i't' 't'h'e' 'a'p'p'e'n'd'i'x' 'b'u'r's't's' 'a'n'd' 'B' 'd'i'e's'.' 'D'i's'c'u's's'
-'i's' 's'h'o'w'n' 't'h'a't' 'h'e' 'w'a's' 'a'w'a'r'e' 't'h'a't' 'B' 'w'a's' 'A'’'s' 'l'i'a'b'i'l'i't'y'.'
-'a'n' 'e'p'i'l'e'p't'i'c' 'p'a't'i'e'n't'.' 'I's's'u'e':' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'?'
-'('b')' 'A' 'm'u's't' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'm'u'r'd'e'r'.' 'D'e'c'i's'i'o'n':'
-'('c')' 'A' 'm'u's't' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'c'o'n's'p'i'r'a'c'y' 'o'f' '('a')' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'a't't'a'c'k's' 'B' 't'o' 'k'i'l'l' 'h'i'm'.'
-'m'u'r'd'e'r'.' 'T'h'o'u'g'h',' 't'h'e' 'b'l'o'w' 'f'a'l'l's' 'o'n' 't'h'e' 'a'p'p'e'n'-'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '5'5'
-'d'i'x' 'w'h'i'c'h' 'b'u'r's't'.' 'B'u't' 'i't' 'i's' 'n'o't' 'a' 'c'a's'e' 'o'f' '1'8'.' 'F'a'c't's':' 'A',' 'B',' 'C' 'a'n'd' 'D' 'c'a'u'g'h't' 'E' 'r'e'd' 'h'a'n'd'e'd'
-'a'c'c'i'd'e'n't'.' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.' 'w'h'i'l'e' 'd'e's't'r'o'y'i'n'g' 't'h'e'i'r' 'c'r'o'p's' 'a't' 'n'i'g'h't'.' 'T'h'e'
-'('b')' 'A's' 't'h'e' 'b'l'o'w' 'a'c'c'i'd'e'n't'a'l'l'y' 'f'a'l'l's' 'o'n' 'a'p'-' 'f'o'u'r' 'o'f' 't'h'e'm' 't'i'e'd' 'E' 't'o' 'a' 't'r'e'e' 'a'n'd' 'b'e'g'a'n'
-'p'e'n'd'i'x' 'w'h'i'c'h' 'b'u'r's't' 'r'e's'u'l't'i'n'g' 'i'n' 't'o' 'p'o'u'n'd'i'n'g' 'h'i'm' 'w'i't'h' 'k'i'c'k's' 'a'n'd' 'b'l'o'w's'.' 'I'n'
-'d'e'a't'h'.' 'S'o' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.' 'o'r'd'e'r' 't'o' 'c'o'm'p'e'l' 'h'i'm' 't'o' 's'p'e'a'k' 'o'u't' '('E' 'd'e'-'
-'('c')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'n'i'e'd' 'h'i's' 'h'a'n'd' 'i'n' 'p'r'e'v'i'o'u's' 'd'e's't'r'u'c't'i'o'n' 'o'f'
-'('d')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 's'i'm'p'l'e' 'h'u'r't'.' 'c'r'o'p's')',' 'A' 't'h'r'u's't' 'a' 'b'u'r'n'i'n'g' 'b'a'm'b'o'o' 'i'n't'o' 'h'i's'
-'1'5'.' 'F'a'c't's':' 'A' 'i'n't'e'n't'i'o'n'a'l'l'y' 'g'i'v'e's' 'B' 'a' 's'w'o'r'd' 'c'u't' 'm'o'u't'h' 'c'a'u's'i'n'g' 'e'x't'e'n's'i'v'e' 'i'n'j'u'r'i'e's'.' 'W'h'e'n' 'E'
-'s'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h' 'o'f' 'a' 'm'a'n' 'i'n' 'w'a's' 'l'a't'e'r' 't'a'k'e'n' 't'o' 't'h'e' 'h'o's'p'i't'a'l' 'h'e' 'd'i'e'd' 't'h'e'
-'t'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'.' 'B' 'd'i'e's' 'i'n' 'n'e'x't' 'd'a'y'.' 'T'h'e' 'd'o'c't'o'r' 't'e's't'i'f'i' 'e'd' 't'h'a't' 't'h'e' 'i'n'-'
-'c'o'n's'e'q'u'e'n'c'e'.' 'R'e'f'e'r' 't'o' 'r'e'l'e'v'a'n't' 'l'e'g'a'l' 'p'r'o'-' 'j'u'r'i'e's' 'w'e'r'e' 'c'u'm'u'l'a't'i'v'e'l'y' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e'
-'v'i's'i'o'n's' 'a'n'd' 't'h'e' 'd'e'c'i'd'e'd' 'c'a's'e'.' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e' 'd'e'a't'h'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'A' 'i's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'u'l'p'a'b'l'e'
-'m'i't't'e'd' 'b'y' 'A'?' 'h'o'm'i'c'i'd'e'/'m'u'r'd'e'r'.' 'D'e'c'i'd'e'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'a't' 'i's' 'l'i'a'b'i'l'i't'y' 'o'f' 'A',' 'B',' 'C' 'a'n'd' 'D'?'
-'('a')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'-' 'D'e'c'i's'i'o'n':'
-'d'e'r'.' '('a')' 'A',' 'B',' 'C' 'a'n'd' 'D' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.'
-'('b')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'u'l'-' '('b')' 'O'n'l'y' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.'
-'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' '('c')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r' 'a'n'd' 'B',' 'C' 'a'n'd' 'D'
-'('c')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'n'e'i't'h'e'r' 'c'u'l'p'a'b'l'e' 'h'o'-' 'a'r'e' 'l'i'a'b'l'e' 'f'o'r' 'a't't'e'm'p't' 't'o' 'm'u'r'd'e'r'.'
-'m'i'c'i'd'e' 'n'o'r' 'm'u'r'd'e'r'.' '('d')' 'I't' 'i's' 'n'o't' 'e'a's'y' 't'o' 'f'i' 'x' 't'h'e' 'l'i'a'b'i'l'i't'y'.'
-'1'6'.' 'F'a'c't's':' 'A' 'w'i't'h'o'u't' 'a'n'y' 'e'x'c'u's'e' 'f'i' 'r'e's' 'a' 'l'o'a'd'e'd' '1'9'.' 'F'a'c't's':' 'A' 'h'a'd' 's'o'm'e' 'p'o'l'i't'i'c'a'l' 'r'i'v'a'l'r'y' 'w'i't'h'
-'p'i's't'o'l' 'i'n't'o' 'a' 'c'r'o'w'd' 'o'f' 'p'e'r's'o'n's' 'a'n'd' 'k'i'l'l's' 'o'n'e' 'B'.' 'F'i'n'd'i'n'g' 'B' 'a'l'o'n'e' 'o'n'e' 'd'a'y',' 'A' 'w'i't'h' 'h'i's'
-'o'f' 't'h'e'm'.' 'R'e'f'e'r' 't'o' 'r'e'l'e'v'a'n't' 'l'e'g'a'l' 'p'r'o'v'i's'i'o'n's' 'f'r'i'e'n'd's' 'b'e'a't' 'h'i'm' 'w'i't'h' 'l'a't'h'i's'.' 'B' 's'u'f'f'e'r'e'd'
-'a'n'd' 't'h'e' 'd'e'c'i'd'e'd' 'c'a's'e'.' 'm'u'l't'i'p'l'e' 'f'r'a'c't'u'r'e's' 'a'n'd' 'd'i'e'd' 'd'u'e' 't'o' 'i'n't'e'r'n'a'l'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'b'l'e'e'd'i'n'g'.' 'O'n' 'b'e'i'n'g' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'm'u'r'd'e'r','
-'m'i't't'e'd'?' 'A' 'a'n'd' 'h'i's' 'f'r'i'e'n'd's' 'a'r'g'u'e'd' 't'h'a't' 't'h'e'y' 'h'a'd' 'i'n'-'
-'D'e'c'i's'i'o'n':' 't'e'n'd'e'd' 'n'o't' 't'o' 'k'i'l'l' 'b'u't' 'o'n'l'y' 't'o' 'c'a'u's'e' 'h'i'm'
-'('a')' 'A' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 'a'n'y' 'o'f'f'e'n'c'e'.' 'h'u'r't'.' 'D'e'c'i'd'e'.'
-'('b')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'d'e'r'.' 'm'i't't'e'd' 'b'y' 'A' 'a'n'd' 'h'i's' 'f'r'i'e'n'd's'?'
-'('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.' 'D'e'c'i's'i'o'n':'
-'1'7'.' 'F'a'c't's':' 'A' 'r'e'f'u's'e'd' 't'o' 'm'a'r'r'y' 'B' 'd'u'e' 't'o' 's'o'm'e' '('a')' 'A' 'a'n'd' 'h'i's' 'f'r'i'e'n'd's' 'a'r'e' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'-'
-'s'o'c'i'a'l' 'r'e'a's'o'n's'.' 'B' 'b'e'c'a'm'e' 'a'n'g'r'y' 'a'n'd' 't'h'r'e'a't'-' 'd'e'r'.'
-'e'n'e'd' 'A' 'w'i't'h' 'l'i'n'g'e'r'i'n'g' 'd'e'a't'h'.' 'O'n' 't'h'e' 'f'a't'e'f'u'l' '('b')' 'T'h'e'y' 'a'r'e' 'l'i'a'b'l'e' 'f'o'r' 'h'u'r't'.'
-'d'a'y' 'w'h'e'n' 'A' 'w'a's' 'a' 's'l'e'e'p'i'n'g' 'a'l'o'n'g' 'w'i't'h' 'h'e'r' '('c')' 'T'h'e'y' 'a'r'e' 'l'i'a'b'l'e' 'f'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'i'n'f'a'n't' 's'o'n' 'a'n'd' 'm'o't'h'e'r' 'a't' 'a' 'r'e's't' 'h'o'u's'e' 'o'n' '2'0'.' 'F'a'c't's':' 'X' 'i's' 'c'u'l't'i'v'a't'i'n'g' 'p'o's's'e's's'i'o'n' 'o'f' 'a'g'-'
-'t'h'e'i'r' 'w'a'y' 't'o' 'a' 'p'i'l'g'r'i'm'a'g'e',' 'B' 't'h'r'e'w' 'a' 'b'o't't'l'e' 'r'i'c'u'l't'u'r'a'l' 'l'a'n'd' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z'.' 'A' 's'u'i't' 'i's'
-'o'f' 'a'c'i'd' 'o'n' 't'h'e'm'.' 'A' 'g'o't' '6'0' 'p'e'r' 'c'e'n't' 'b'u'r'n' 'i'n'-' 'p'e'n'd'i'n'g' 'b'e'f'o'r'e' 't'h'e' 'c'o'u'r't' 'f'o'r' 'r'e'c'o'v'e'r'y' 'o'f'
-'j'u'r'i'e's' 'a'n'd' 'd'i'e'd' '1'2' 'd'a'y's' 'a'f't'e'r' 't'h'e' 'i'n'c'i'd'e'n't'.' 't'h'e' 's'a'i'd' 'l'a'n'd'.' 'X' 'a'l'o'n'g' 'w'i't'h' 'h'i's' 'c'l'o's'e' 'a'l'l'y'
-'T'h'e' 'm'e'd'i'c'a'l' 'r'e'p'o'r't' 'e's't'a'b'l'i's'h'e'd' 'd'e'a't'h' 'd'u'e' 'Y' 'i'n't'e'n'd'i'n'g' 't'o' 'k'i'l'l' 'Z' 't'o' 'k'e'e'p' 't'h'e' 'd'i's'p'u't'e'd'
-'t'o' 'a'c'i'd' 'b'u'r'n's'.' 'B' 'h'a's' 'b'e'e'n' 'c'h'a'r'g'e'd' 'o'f' 'm'u'r'-' 'l'a'n'd' 'i'n' 'p'o's's'e's's'i'o'n',' 'p'l'a'n' 'a'n'd' 's'e't' 'f'i' 'r'e' 't'o' 'h'i's'
-'d'e'r' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'0'0' '('3')'.' 'D'i's'c'u's's' 'a'b'o'u't' 't'h'a't'c'h'e'd' 'h'o'u's'e' 'b'y' 'l'o'c'k'i'n'g' 'i't' 'f'r'o'm' 'o'u't's'i'd'e'
-'t'h'e' 's'u'c'c'e's's' 'o'f' 'p'r'o's'e'c'u't'i'o'n' 'i'n' 't'h'i's' 'c'a's'e'.' 'j'u's't' 'b'e'f'o'r'e' 'm'i'd'n'i'g'h't' 'a'n'd' 'b'y' 'p'r'e'v'e'n't'i'n'g'
-'I's's'u'e':' 'I's' 'B' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'?' 'o't'h'e'r's' 'f'r'o'm' 'c'o'm'i'n'g' 'j'u's't' 'b'e'f'o'r'e' 'm'i'd'n'i'g'h't'
-'D'e'c'i's'i'o'n':' 'a'n'd' 'b'y' 'p'r'e'v'e'n't'i'n'g' 'o't'h'e'r's' 'f'r'o'm' 'c'o'm'i'n'g' 't'o'
-'('a')' 'B' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.' 'B'e'c'a'u's'e' 'h'i's' 'r'e's'c'u'e' 'i'n' 'r'e's'p'o'n's'e' 't'o' 'h'i's' '“'S'O'S'”' 'c'a'l'l's'
-'r'e'a's'o'n'a'b'l'e' 'm'a'n' 'o'f' 'o'r'd'i'n'a'r'y' 'p'r'u'd'e'n'c'e' 'a'm'i'd's't' 't'h'e' 'r'i's'i'n'g' 'f'i' 'r'e'.' 'Z' 'i's' 'r'o'a's't'e'd' 'a'l'i'v'e'.'
-'c'a'n' 'n'o't' 't'h'i'n'k' 'o'f' 't'h'a't' 't'h'r'o'w'i'n'g' 'a'c'i'd' 'W'h'a't' 'o'f'f'e'n'c'e' 'X' 'a'n'd' 'Y' 'a'r'e' 'g'u'i'l't'y' 'o'f'?' 'W'i'l'l'
-'o'n'e'’'s' 'f'a'c'e' 'c'a'n' 'r'e's'u'l't' 'i'n' 't'o' 'd'e'a't'h'.' 't'h'e'y' 'b'e' 'a'w'a'r'd'e'd' 't'h'e' 's'a'm'e' 'p'e'n'a'l't'y' 'a's' 'i'n' 'a'
-'('b')' 'I't' 'i's' 'a' 'c'l'e'a'r' 'c'u't' 'c'a's'e' 'o'f' 'm'u'r'd'e'r'.' 'A's' 'B' 's'i'm'i'l'a'r' 'c'a's'e' 't'a'u'g'h't' 't'o' 'y'o'u'?'
-'h'a'd' 'a'l'r'e'a'd'y' 't'h'r'e'a't'e'n'e'd' 'A' 'o'f' 'l'i'n'g'e'r'i'n'g' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'d'e'a't'h'.' 'm'i't't'e'd' 'b'y' 'X' 'a'n'd' 'Y'?'
-'('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-' 'D'e'c'i's'i'o'n':'
-'m'i'c'i'd'e'.' '('a')' 'X' 'a'n'd' 'Y' 'a'r'e' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r' 'b'e'c'a'u's'e'
-'
-'s'e't't'i'n'g' 's'o'm'e' 'o'n'e' 'o'n' 'f'i' 'r'e' 'a'n'd' 'n'o't' 'l'e't'-' 'h'a'v'i'n'g' 'e's't'r'a'n'g'e'd' 'r'e'l'a't'i'o'n's' 'w'i't'h' 'e'a'c'h' 'o't'h'e'r'
-'t'i'n'g' 'a'n'y' 'o'n'e' 't'o' 'c'o'm'e' 't'o' 'h'i's' 'r'e's'c'u'e' 'i's' 'a'n'd' 'W' 'w'a's' 'l'i'v'i'n'g' 'w'i't'h' 'h'e'r' 'p'a'r'e'n't's'.' 'H' 't'r'i'e'd'
-'s'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 'd'e'a't'h'.' 't'o' 'b'r'i'n'g' 'b'a'c'k' 'W' 'm'a'n'y' 't'i'm'e's' 'b'u't' 's'h'e' 'a'l'-'
-'('b')' 'T'h'e' 'f'a'c't's' 'a'r'e' 'n'o't' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'h'o'l'd' 'X' 'w'a'y's' 'r'e'f'u's'e'd'.' 'O'n'e' 'd'a'y' 'w'h'e'n' 'h'e' 'w'e'n't' 't'o'
-'a'n'd' 'Y' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.' 't'h'e' 'f'a't'h'e'r'-'i'n'-'l'a'w' 'h'o'u's'e',' 'h'e' 'f'o'u'n'd' 't'h'a't' 'W'
-'('c')' 'T'h'e'y' 'c'a'n' 'b'e' 'h'e'l'd' 'l'i'a'b'l'e' 'f'o'r' 'c'u'l'p'a'b'l'e' 'w'a's' 'a'l'o'n'e' 'i'n' 't'h'e' 'h'o'u's'e'.' 'H' 't'r'i'e'd' 't'o' 'm'a'k'e'
-'h'o'm'i'c'i'd'e'.' 'a'd'v'a'n'c'e's' 't'o'w'a'r'd's' 'W'.' 'B'u't' 'W' 'd'i'd' 'n'o't' 'y'i'e'l'd'
-'2'1'.' 'F'a'c't's':' 'A',' 'i'n't'e'n'd'i'n'g' 't'o' 'k'i'l'l' 'h'i's' 'w'i'f'e' 'W',' 't'o' 'H'’'s' 'a'd'v'a'n'c'e's' 'a'n'd' 't'o'l'd' 'h'i'm' 't'h'a't' 's'h'e'
-'g'a'v'e' 'h'e'r' 'a' 'p'o'i's'o'n'e'd' 'c'h'o'c'o'l'a't'e' 'w'h'i'c'h' 's'h'e' 'w'i'l'l' 's'h'o'u't' 'a'n'd' 'c'o'l'l'e'c't' 't'h'e' 'v'i'l'l'a'g'e' 'p'e'o'p'l'e'.'
-'l'e'f't' 'o'n' 't'h'e' 't'a'b'l'e' 'a'n'd' 'h'e'r's'e'l'f' 'w'e'n't' 't'o' 'a't't'e'n'd' 'T'h'e'r'e'-'u'p'o'n' 'H' 'f'o'u'n'd' 'a'n' 'i'r'o'n' 'r'o'd' 'n'e'a'r'b'y'
-'a' 't'e'l'e'p'h'o'n'e' 'c'a'l'l'.' 'M'e'a'n'w'h'i'l'e',' 't'h'e'i'r' 'c'h'i'l'd' 'C' 'a'n'd' 'g'a'v'e' 'a' 'b'l'o'w' 'o'n' 'h'e'r' 'h'e'a'd'.' 'W' 's'w'o'o'n'e'd'
-'c'a'm'e' 'i'n',' 'p'i'c'k'e'd' 'u'p',' 'a'n'd' 'a't'e' 't'h'e' 'c'h'o'c'o'l'a't'e'.' 'a'n'd' 'b'e'c'a'm'e' 'u'n'c'o'n's'c'i'o'u's'.' 'H' 't'h'o'u'g'h't' 't'h'a't'
-'A',' 'w'h'o' 'w'a's' 's't'a'n'd'i'n'g' 'n'e'a'r'b'y',' 'g'o't' 'q'u'i't'e' 'u'p'-' 'W' 'i's' 'd'e'a'd'.' 'I'n' 'o'r'd'e'r' 't'o' 'f'a'b'r'i'c'a't'e' 't'h'e' 'e'v'i'-'
-'s'e't' 'b'y' 't'h'e' 's'u'd'd'e'n' 't'u'r'n' 'o'f' 'e'v'e'n't's' 'b'u't' 'k'e'p't' 'd'e'n'c'e' 'H' 'h'a'n'g'e'd' 't'h'e' 'b'o'd'y' 'w'i't'h' 'a' 'r'o'p'e' 'o'n'
-'q'u'i'e't' 'd'u'e' 't'o' 'f'e'a'r' 'o'f' 'b'e'i'n'g' 'e'x'p'o's'e'd' 'o'f' 'h'i's' 't'h'e' 'c'e'i'l'i'n'g' 'f'a'n'.' 'T'h'e' 'p'o's't' 'm'o'r't'e'm' 'r'e'p'o'r't'
-'e'v'i'l' 'd'e's'i'g'n's' 't'o' 'k'i'l'l' 'W'.' 'C' 'd'i'e'd' 'o'f' 'p'o'i's'o'n'i'n'g' 'e's't'a'b'l'i's'h'e'd' 't'h'a't' 't'h'e' 'c'a'u's'e' 'o'f' 't'h'e' 'd'e'a't'h' 'w'a's'
-'a'n'd' 'A' 'i's' 'b'e'i'n'g' 't'r'i'e'd' 'f'o'r' 'C'’'s' 'm'u'r'd'e'r'.' 'H'o'w' 's't'r'a'n'g'u'l'a't'i'o'n' 'a'n'd' 'n'o't' 't'h'e' 'h'e'a'd'’'s' 'i'n'j'u'r'y'.'
-'w'i'l'l' 'y'o'u' 'a'r'g'u'e' 't'h'e' 'c'a's'e' 'f'o'r' 'p'r'o's'e'c'u't'i'o'n'?' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'H' 'c'o'm'm'i't't'e'd'?'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'m'i't't'e'd' 'b'y' 'A'?' 'm'i't't'e'd' 'b'y' 'H'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'A' 'c'a'n' 'n'o't' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 't'h'e' 'o'f'f'e'n'c'e' '('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'o'f' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'h'e' 'd'i'd'n'’'t' 'i'n't'e'n'd' 't'o' '('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'k'i'l'l' 'h'i's' 'c'h'i'l'd' 'C'.' '('c')' 'H'e' 'i's' 'n'e'i't'h'e'r' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-'
-'('b')' 'A' 'c'a'n' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'-' 'c'i'd'e' 'n'o'r' 'm'u'r'd'e'r'.'
-'d'e'r' 'b'e'c'a'u's'e' 'h'e' 'h'a'd' 'i'n't'e'n'd'e'd' 't'o' 'k'i'l'l' 'h'i's' '('d')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f' 'g'r'i'e'v'o'u's'
-'w'i'f'e' 'a'n'd' 'h'e' 'a'd'm'i'n'i's't'e'r'e'd' 'h'e'r' 'a' 'p'o'i's'o'n'-' 'h'u'r't' 'a'n'd' 'a't't'e'm'p't' 't'o' 'c'r'e'a't'e' 'f'a'l's'e' 'e'v'i'-'
-'o'u's' 'c'h'o'c'o'l'a't'e',' 'w'h'i'c'h' 'w'a's' 'c'o'n's'u'm'e'd' 'd'e'n'c'e' 'b'y' 'h'a'n'g'i'n'g' 'h'i's' 'w'i'f'e'.'
-'b'y' 't'h'e' 'c'h'i'l'd'.' 'A' 's't'o'o'd' 'n'e'a'r' 'b'y' 'w'h'e'n' '2'4'.' 'F'a'c't's':' 'A' 's'a'w' 'X' 'l'y'i'n'g' 'm'o't'i'o'n'l'e's's' 'o'n' 't'h'e'
-'t'h'e' 'c'h'i'l'd' 'c'o'n's'u'm'e'd' 't'h'a't' 'c'h'o'c'o'l'a't'e'.' 'b'e'd'r'o'o'm' 'f'l' 'o'o'r' 'o'f' 'h'i's' 'w'i'f'e' 'B'’'s' '1'0't'h' 'f'l' 'o'o'r'
-'T'h'e' 'm'e'r'e' 's'i'l'e'n'c'e' 'o'f' 'A',' 'i's' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'a'p'a'r't'm'e'n't'.' 'B'e'l'i'e'v'i'n'g' 'X' 't'o' 'b'e' 'd'e'a'd' 'a'n'd'
-'d'e't'e'r'm'i'n'e' 't'h'e' 'c'u'l'p'a'b'i'l'i't'y' 'o'f' 'A'.' 'f'e'a'r'i'n'g' 'h'i's' 'w'i'f'e'’'s' 'i'n'v'o'l'v'e'm'e'n't' 'i'n' 't'h'e' 'm'u'r'-'
-'('c')' 'I't'’'s' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.' 'd'e'r'.' 'A' 'p'u's'h'e'd' 'X' 'o'u't' 'o'f' 't'h'e' 'w'i'n'd'o'w' 'o'f' 't'h'e'
-'2'2'.' 'F'a'c't's':' 'M'a'l'l'i'k'a' 'w'a's' 'a'b'd'u'c't'e'd' 'a'l'o'n'g' 'w'i't'h' 'r'o'o'm' 't'o' 'g'i'v'e' 'a'n' 'i'm'p'r'e's's'i'o'n' 'o'f' 's'u'i'c'i'd'e'.' 'X'
-'h'e'r' '6' 'm'o'n't'h's' 'o'l'd' 's'o'n' 'a'n'd' 'k'e'p't' 'l'o'c'k'e'd' 'i'n' 'd'i'e'd' 'd'u'e' 't'o' 'm'u'l't'i'p'l'e' 'f'r'a'c't'u'r'e's' 'a'n'd' 's'h'o'c'k'
-'a' 'r'o'o'm'.' 'S'h'e' 's'o'm'e'h'o'w' 'm'a'n'a'g'e'd' 't'o' 'e's'c'a'p'e' 'o'n' 'a'c'c'o'u'n't' 'o'f' 't'h'e' 'f'a'l'l' 'f'r'o'm' 't'h'e' '1'0't'h' 'f'l' 'o'o'r'.'
-'w'i't'h' 'h'e'r' 's'o'n' 'b'u't' 's'o'o'n' 'f'o'u'n'd' 'h'e'r' 'a'b'd'u'c't'o'r's' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'A' 'c'o'm'-'
-'p'u'r's'u'i'n'g' 'h'e'r'.' 'I'n' 'a' 's't'a't'e' 'o'f' 'p'a'n'i'c' 's'h'e' 'r'a'n' 'm'i't't'e'd'?'
-'s'o'm'e' 'd'i's't'a'n'c'e' 'a'n'd' 't'h'e'n' 'j'u'm'p'e'd' 'i'n't'o' 'a' 'w'e'l'l' 'D'e'c'i's'i'o'n':'
-'s'o'm'e' 'd'i's't'a'n'c'e' 'a'w'a'y' 'f'r'o'm' 't'h'e' 'p'a't'h'.' 'S'h'e' '('a')' 'H'e' 'h'a's' 'c'o'm'm'i't't'e'd' 'm'u'r'd'e'r'.'
-'w'a's' 'l'a't'e'r' 'r'e's'c'u'e'd' 'b'u't' 't'h'e' 'c'h'i'l'd' 'd'i'e'd'.' 'M'a'l'-' '('b')' 'H'e' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'
-'l'i'k'a' 'i's' 'b'e'i'n'g' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'm'u'r'd'e'r'.' 'G'i'v'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'a'r'g'u'm'e'n't's' 'o'n' 'b'e'h'a'l'f' 'o'f' 'e'i't'h'e'r' 't'h'e' 'p'r'o's'e'c'u'-' '('c')' 'H'e' 'h'a's' 'n'e'i't'h'e'r' 'c'o'm'm'i't't'e'd' 'm'u'r'd'e'r' 'n'o'r'
-'t'i'o'n' 'o'r' 'd'e'f'e'n'c'e'.' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('d')' 'A' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-'
-'m'i't't'e'd'.' 'c'i'd'e' 'i'n' 't'e'r'm's' 'o'f' 'S'e'c't'i'o'n' '2'9'9',' 'a's' 'h'i's'
-'D'e'c'i's'i'o'n':' 'i'n't'e'n't'i'o'n' 'w'a's' 'd'i'r'e'c't'e'd' 't'o' 'w'h'a't' 'h'e' 'b'e'-'
-'('a')' 'M'a'l'l'i'k'a' 'c'a'n' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'o'f'f'e'n'c'e' 'l'i'e'v'e's' 't'o' 'b'e' 'a' 'l'i'f'e'l'e's's' 'b'o'd'y'.' 'A' 'i's' 'a'l's'o'
-'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 'n'o't' 'g'u'i'l't'y' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't' 'a's' 'h'e' 'h'a'd'
-'t'o' 'm'u'r'd'e'r'.' 'n'o't' 'a't't'a'c'k'e'd' 'X',' 'w'h'e'n' 'X' 'w'a's' 'a'l'i'v'e'.' 'H'e'
-'('b')' 'M'a'l'l'i'k'a' 'c'a'n' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'm'u'r'd'e'r'.' 'a't't'a'c'k'e'd' 'X' 'o'n'l'y' 'w'h'e'n' 'h'e' 'b'e'l'i'e'v'e'd' 'X'
-'('c')' 'M'a'l'l'i'k'a' 'c'a'n' 'n'e'i't'h'e'r' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 't'o' 'b'e' 'd'e'a'd'.' 'H'o'w'e'v'e'r',' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n'
-'m'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'a't't'e'm'p't' 't'o' 'c'r'e'a't'e' 'f'a'l's'e' 'e'v'i'd'e'n'c'e'.'
-'2'3'.' 'F'a'c't's':' 'H'('h'u's'b'a'n'd')' 'a'n'd' 'W'('w'i'f'e')' 'w'e'r'e' '2'5'.' 'F'a'c't's':' 'A' 'w'a's' 'f'r'i'e'n'd'l'y' 'w'i't'h' 'm'a'n'y' 'm'a'l'e'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '5'7'
-'a'n'd' 'f'e'm'a'l'e' 'c'h'i'l'd'r'e'n' 'i'n' 't'h'e' 'n'e'i'g'h'b'o'u'r'h'o'o'd'.' 'D'e'c'i's'i'o'n':'
-'O'n'e' 'd'a'y' 'A' 't'o'o'k' 'a' '5' 'y'e'a'r's' 'o'l'd' 'g'i'r'l' 'o'n' 't'h'e' '('a')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'r'i'v'e'r'b'a'n'k' 'o'n' 't'h'e' 'p'r'e't'e'x't' 'o'f' 'g'i'v'i'n'g' 'h'e'r' 'a' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'b'o'a't' 'r'i'd'e'.' 'O'n' 'r'e'a'c'h'i'n'g' 'a' 'l'o'n'e'l'y' 's'p'o't',' 'A' '('b')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'm'u'r'd'e'r'.'
-'r'a'p'e'd' 't'h'e' 'g'i'r'l' 'v'i'o'l'e'n't'l'y' 'a'n'd' 't'o' 's'i'l'e'n'c'e' 'h'e'r' '('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'm'o'l'e's't'a't'i'o'n'.'
-'A' 's't'u'f'f'e'd' 'h'e'r' 'm'o'u't'h' 'w'i't'h' 's'a'n'd'.' 'T'h'e' 'g'i'r'l' '('d')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'n'e'i't'h'e'r' 'o'f' 'm'u'r'd'e'r' 'n'o'r'
-'w'a's' 'f'o'u'n'd' 'd'e'a'd' 'n'e'x't' 'm'o'r'n'i'n'g'.' 'T'h'e' 'p'o's't' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o'r' 'm'o'l'e's't'a't'i'o'n'
-'m'o'r't'e'm' 'r'e'p'o'r't' 'r'e'v'e'a'l'e'd' 't'h'a't' 'd'e'a't'h' 'w'a's' 'd'u'e' 'b'e'c'a'u's'e' 't'h'e' 'w'o'm'a'n' 'h'a's' 't'a'k'e'n' 't'h'e' 'l'i'f't'
-'t'o' 'a's'p'h'y'x'i'a' 'c'a'u's'e'd' 'b'y' 't'h'e' 's'a'n'd' 'b'l'o'c'k'i'n'g' 'o'n' 'h'e'r' 'o'w'n' 'a'n'd' 's'h'e' 'i's' 'r'e's'p'o'n's'i'b'l'e' 'f'o'r'
-'t'h'e' 'r'e's'p'i'r'a't'o'r'y' 'o'r'g'a'n's'.' 'T'h'e' 'd'o'c't'o'r' 't'e's't'i'f'i' 'e'd' 'a'l'l' 't'h'a't' 'h'a'p'p'e'n'e'd'.'
-'t'h'a't' 't'h'e' 'i'n'j'u'r'y' 'o'f' 'f'i' 'l'l'i'n'g' 's'a'n'd' 'i'n' 't'h'e' 'm'o'u't'h' '2'8'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 'A' 'i'n'i't'i'a'l'l'y' 'a'b'u's'e'd' 't'h'e'
-'w'a's' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a'-' 'd'e'c'e'a's'e'd' 'D' 'b'y' 'h'o'l'd'i'n'g' 'h'i's' 'c'o'l'l'a'r' 'a'n'd' 'b'r'a'n'-'
-'t'u'r'e' 't'o' 'c'a'u's'e' 'd'e'a't'h'.' 'd'i's'h'i'n'g' 't'h'e' 'k'n'i'f'e'.' 'H'o'w'e'v'e'r',' 'D' 'b'r'o'u'g'h't' 'a'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' 's't'o'u't' 'a'n'd' 's't'r'o'n'g'e'r' 'm'a'n' 'w'h'o' 'o'v'e'r'p'o'w'e'r'e'd'
-'m'i't't'e'd' 'A'?' 'A' 'a'n'd' 's'a't' 'o'n' 'h'i's' 'c'h'e's't'.' 'T'h'e' 'c'o'a'c'c'u's'e'd' 'B'
-'D'e'c'i's'i'o'n':' 'a't' 'a' 't'h'e' 'c'a'l'l' 'o'f' 'A' 'i'n'f'l' 'i'c't'e'd' 'a' 'k'n'i'f'e' 'b'l'o'w' 'o'n'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f' 'r'a'p'e'.' 'D'’'s' 't'h'i'g'h'.' 'W'h'e'n' 'D' 'h'a'd' 't'o' 'r'e'l'e'a's'e' 't'h'e' 'g'r'i'p','
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f' 'r'a'p'e' 'b'u't' 'n'o'r' 'A' 'w'i't'h'o'u't' 'a'n'y' 'p'r'o'v'o'c'a't'i'o'n' 'd'e'a'l't' 'a' 'v'e'r'y' 's'e'-'
-'m'u'r'd'e'r'.' 'v'e'r'e' 'k'n'i'f'e' 'b'l'o'w' 'o'n' 't'h'e' 's't'o'm'a'c'h' 'o'f' 'D' 'w'h'o'
-'w'a's' 'u'n'a'r'm'e'd'.' 'T'h'e' 'k'n'i'f'e' 'b'l'o'w' 'c'a'u's'e'd' 's'e'v'-'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f' 'r'a'p'e' 'a'n'd'
-'e'r'a'l' 'i'n'j'u'r'i'e's' 'o'n' 't'h'e' 'v'i't'a'l' 'p'a'r't's' 'o'f' 't'h'e' 'b'o'd'y'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o'
-'o'f' 'D' 'r'e's'u'l't'i'n'g' 'i'n' 'h'i's' 'd'e'a't'h' 'i'n' 'a' 'v'e'r'y' 's'h'o'r't'
-'m'u'r'd'e'r'.'
-'t'i'm'e'.'
-'('d')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'r'a'p'e' 'a'n'd' 'm'u'r'd'e'r'.'
-'I's's'u'e':' 'W'h'e't'h'e'r' 'i't' 'i's' 'a' 'c'a's'e' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'2'6'.' 'F'a'c't's':' 'A' 'r'a'v'i's'h'e'd' 'h'i's' 'p'r'i'v'a't'e' 's'e'c'r'e't'a'r'y' 'i'n'
-'m'i'c'i'd'e' 'o'n'l'y' 'o'r' 'a' 'c'a's'e' 'o'f' 'm'u'r'd'e'r'?'
-'a' 's't'a't'e' 'o'f' 'u'n'c'o'n's'c'i'o'u's'n'e's's' 'b'y' 'a'd'm'i'n'i's't'e'r'-'
-'D'e'c'i's'i'o'n':'
-'i'n'g' 'a' 's't'r'o'n'g' 'd'o's'e' 'o'f' 'c'h'l'o'r'o'f'o'r'm'.' 'S'h'e' 'f'a'i'l'e'd'
-'('a')' 'I't'’'s' 'a' 'c'a's'e' 'o'f' 'm'u'r'd'e'r' 'a's' 'A' 'h'a'd' 'a'n' 'i'n'-'
-'t'o' 'r'e'g'a'i'n' 'h'e'r' 'c'o'n's'c'i'o'u's'n'e's's' 'a'n'd' 'd'i'e'd'.' 'T'h'e'
-'t'e'n't'i'o'n' 't'o' 'c'a'u's'e' 'm'u'r'd'e'r'o'u'r's' 'a's's'a'u'l't' 'o'n'
-'d'o'c't'o'r'’'s' 'o'p'i'n'i'o'n' 'w'a's' 't'h'a't' 'm'e'r'e' 'a'd'm'i'n'i's'-'
-'D'.'
-'t'r'a't'i'o'n' 'o'f' 'c'h'l'o'r'o'f'o'r'm' 'w'a's' 'n'o't' 's'u'f'f'i' 'c'i'e'n't'
-'('b')' 'I't' 'i's' 'n'o't' 'a' 'c'a's'e' 'o'f' 'm'u'r'd'e'r' 'a's' 'D' 'w'a's'
-'t'o' 'c'a'u's'e' 'd'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'a's'e',' 'b'u't'
-'s't'o'u't' 'a'n'd' 's't'r'o'n'g'e'r' 'a'n'd' 'h'a'd' 'o'v'e'r'p'o'w'-'
-'t'h'e' 's'h'o'c'k' 'o'f' 'f'o'r'c'i'b'l'e' 'r'a'v'i's'h'm'e'n't' 'o'n' 'a'n'
-'e'r'e'd' 'A'.' 'S'o',' 'A' 'k'i'l'l'e'd' 'h'i'm' 'i'n' 'r'i'g'h't' 'o'f'
-'u'n'c'o'n's'c'i'o'u's' 'p'e'r's'o'n' 'm'a'y' 'a't' 't'i'm'e's' 'l'e'a'd' 't'o'
-'p'r'i'v'a't'e' 'd'e'f'e'n'c'e'.'
-'i'r'r'e'v'e'r's'i'b'l'e' 'c'o'm'a'.' 'C'a'n' 'A' 'b'e' 's'u'c'c'e's's'f'u'l'l'y'
-'('c')' 'I't' 'i's' 'm'e'r'e'l'y' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.'
-'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'h'e' 'm'u'r'd'e'r'?'
-'2'9'.' 'F'a'c't's':' 'O'n'e' 'd'a'y' 'B' 'm'a'd'e' 'i'n'd'e'c'e'n't' 'r'e'm'a'r'k's'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'a'b'o'u't' 'A'’'s' 's'i's't'e'r'.' 'N'e'x't' 'd'a'y',' 'w'h'e'n' 'B' 'w'a's' 'g'o'-'
-'m'i't't'e'd' 'b'y' 'A'?'
-'i'n'g' 't'o' 'h'i's' 'o'f'f'i' 'c'e',' 'A' 'w'h'o' 'w'a's' 'h'i'd'i'n'g' 'o'n' 't'h'e'
-'D'e'c'i's'i'o'n':'
-'r'o'u't'e',' 'g'a'v'e' 't'w'o' 'b'l'o'w's' 'o'n' 'B'’'s' 'h'e'a'd' 'w'i't'h' 'a'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'h'o'c'k'e'y' 's't'i'c'k'.' 'C'o'n's'e'q'u'e'n't'l'y',' 'B' 'f'e'l'l' 'd'o'w'n'
-'('b')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'u'n'c'o'n's'c'i'o'u's' 'a'n'd' 'w'a's' 't'a'k'e'n' 't'o' 'h'o's'p'i't'a'l' 'f'o'r'
-'m'i'c'i'd'e'.'
-'t'r'e'a't'm'e'n't' 'b'u't' 'h'e' 'd'i'e'd' 't'h'e' 's'a'm'e' 'e'v'e'n'i'n'g'.'
-'('c')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'a's' 't'h'e' 'b'o'd'i'l'y'
-'A'c'c'o'r'd'i'n'g' 't'o' 'm'e'd'i'c'a'l' 'e'v'i'd'e'n'c'e' 't'h'e' 'i'n'j'u'-'
-'i'n'j'u'r'y' 'c'a'u's'e' 'i'n' 'd'e'a't'h' 'w'a's' 'n'e'i't'h'e'r' 'i'n'-'
-'r'i'e's' 'c'a'u's'e'd' 't'o' 'B' 'w'e'r'e' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e'
-'t'e'n'd'e'd' 'n'o'r' 'k'n'o'w'n'.'
-'d'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'.' 'A' 'i's'
-'2'7'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 't'r'i'e'd' 't'o' 'm'o'l'e's't' 'a'n' 'i'n'-'
-'b'e'i'n'g' 't'r'i'e'd' 'f'o'r' 'B'’'s' 'm'u'r'd'e'r'.' 'H'o'w' 'w'i'l'l' 'y'o'u'
-'n'o'c'e'n't' 'w'o'm'a'n' 'w'h'o' 't'o'o'k' 'l'i'f't' 'i'n' 'h'i's' 'v'e'h'i'c'l'e'.'
-'d'e'c'i'd'e'?'
-'S'h'e' 't'r'i'e'd' 't'o' 'c'o'm'e' 'o'u't' 'o'f' 't'h'e' 'm'o'v'i'n'g' 'v'e'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'h'i'c'l'e'.' 'T'h'e' 'a'c'c'u's'e'd' 's'p'e'e'd'e'd' 'u'p' 't'h'e' 'v'e'h'i'c'l'e'.'
-'m'i't't'e'd'?'
-'S'h'e' 'e'v'e'n't'u'a'l'l'y' 'c'a'm'e' 'o'u't' 'a'n'd' 'w'a's' 'r'u'n' 'o'v'e'r'
-'D'e'c'i's'i'o'n':'
-'b'y' 'a' 't'r'u'c'k'.' 'I't' 'w'a's' 'c'o'n't'e'n'd'e'd' 'o'n' 'b'e'h'a'l'f' 'o'f'
-'('a')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'h'e'
-'t'h'e' 'a'c'c'u's'e'd' 't'h'a't' 't'h'e'r'e' 'w'a's' 'n'o' 'i'n't'e'n't'i'o'n' 'o'f'
-'w'a's' 's't'a'n'd'i'n'g' 't'h'e'r'e' 'w'i't'h' 'f'u'l'l' 'p'r'e'p'a'r'a'-'
-'t'h'e' 'a'c'c'u's'e'd' 't'o' 'k'i'l'l' 't'h'e' 'w'o'm'a'n'.' 'I't' 'h'a'p'p'e'n'e'd' 't'i'o'n',' 'g'u'i'l't'y' 'm'i'n'd' 'a'n'd' 't'h'e' 'a'c't'i'o'n' 't'a'k'e'n'
-'a'c'c'i'd'e'n't'a'l'l'y'.' 'H'o'w' 'w'i'l'l' 'y'o'u' 'd'e'c'i'd'e'?' 'b'y' 'h'i'm',' 'a'r'e' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 't'h'e'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'd'e'a't'h' 'o'f' 'p'e'r's'o'n' 'i'n' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f'
-'m'i't't'e'd'?' 'n'a't'u'r'e'.'
-'
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'n'd' 's'e'v'e'r'e' 'd'a'm'a'g'e' 't'o' 't'h'e' 'b'r'a'i'n'.' 'B' 'w'a's'
-'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.' 't'a'k'e'n' 't'o' 't'h'e' 'h'o's'p'i't'a'l' 'w'h'e'r'e' 't'w'o' 'o'p'e'r'a't'i'o'n's'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 'w'e'r'e' 'p'e'r'f'o'r'm'e'd' 't'o' 'r'e'm'o'v'e' 'b'l'o'o'd' 'c'l'o't's'.' 'B'
-'('d')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 's'i'm'p'l'e' 'h'u'r't'.' 'd'i'e'd' 'i'n' 't'h'e' 'h'o's'p'i't'a'l' 'a' 'w'e'e'k' 'a'f't'e'r' 't'h'e' 'i'n'c'i'-'
-'3'0'.' 'F'a'c't's':' 'A'c'c'u's'e'd' 'A'-'1',' 'A'-'2' 'a'n'd' 'A'-'3' 'c'a'm'e' 'd'e'n't'.' 'T'h'e' 'd'o'c't'o'r' 'c'e'r't'i'f'i' 'e'd' 't'h'a't' 't'h'e' 'i'n'j'u'r'y'
-'a'r'm'e'd' 'w'i't'h' 'k'n'i'f'e',' 'l'a't'h'i' 'a'n'd' 'p'i's't'o'l' 't'o' 'a't't'a'c'k' 'w'a's' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'
-'t'h'e' 'd'e'c'e'a's'e'd' 'D'.' 'D' 'w'a's' 'l'o'n'e's'o'm'e'.' 'T'h'e' 'a'c'-' 't'o' 'c'a'u's'e' 'd'e'a't'h'.' 'F'o'r' 'w'h'a't' 'o'f'f'e'n'c'e' 'c'a'n' 'A' 'b'e'
-'c'u's'e'd' 's'e'v'e'r'e'l'y' 'a's's'a'u'l't'e'd' 'D' 'b'y' 'k'i'c'k's' 'a'n'd' 'p'r'o's'e'c'u't'e'd'?' 'G'i'v'e' 'r'e'a's'o'n's'.'
-'f'i' 's't' 'b'l'o'w's'.' 'T'h'e' 'd'e'a't'h' 'o'f' 'D' 'o'c'c'u'r'r'e'd' 'd'u'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'o' 's'h'o'c'k',' 'h'e'm'o'r'r'h'a'g'e' 'a'n'd' 's't'r'a'n'g'u'l'a't'i'o'n' 'm'i't't'e'd'.'
-'c'a'u's'e'd' 'b'y' 's'u'c'h' 'b'l'o'w's'.' 'W'h'a't' 'o'f'f'e'n'c'e' 't'h'e' 'D'e'c'i's'i'o'n':'
-'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f'?' 'D'e'c'i'd'e'.' '('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'m'i't't'e'd'?' '('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'd'e'r'.'
-'D'e'c'i's'i'o'n':' 'A's' 'p'e'r' 'c'l'a'u's'e' 't'h'i'r'd'l'y' 'o'f' 'S'e'c't'i'o'n' '3'0'0','
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'i'f' 't'h'e' 'i'n'j'u'r'y' 't'h'a't' 't'h'e' 'o'f'f'e'n'd'e'r' 'i'n't'e'n'd's'
-'('b')' 'I't' 'i's' 'c'a's'e' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'c'a'u's'i'n'g' 'a'n'd' 'd'o'e's' 'c'a'u's'e' 'i's' 's'u'f'f'i' 'c'i'e'n't' 't'o'
-'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.' 'T'h'e' 'a'c'c'u's'e'd' 'i'f' 'c'a'u's'e' 'd'e'a't'h' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f'
-'i'n't'e'n'd'e'd' 't'o' 'm'u'r'd'e'r' 'D' 'c'o'u'l'd' 'h'a'v'e' 'e'a's'-' 'n'a't'u'r'e',' 't'h'e' 'o'f'f'e'n'c'e' 'i's' 'm'u'r'd'e'r',' 'w'h'e't'h'e'r'
-'i'l'y' 'd'o'n'e' 's'o' 'b'y' 't'h'e'i'r' 'w'e'a'p'o'n's',' 'b'u't' 't'h'e'y' 't'h'e' 'o'f'f'e'n'd'e'r' 'i'n't'e'n'd'e'd' 'c'a'u's'i'n'g' 'd'e'a't'h'
-'m'u's't' 'b'e' 'a't't'r'i'b'u't'e'd' 'w'i't'h' 'k'n'o'w'l'e'd'g'e' 'o'r' 'n'o't' 'a'n'd' 'w'h'e't'h'e'r' 't'h'e' 'o'f'f'e'n'd'e'r' 'h'a'd'
-'t'h'a't' 'b'y' 't'h'e'i'r' 'a'c't's' 't'h'e'y' 'w'e'r'e' 'l'i'k'e'l'y' 't'o' 'a' 's'u'b'j'e'c't'i'v'e' 'k'n'o'w'l'e'd'g'e' 'o'f' 't'h'e' 'c'o'n's'e'-'
-'c'a'u's'e' 'd'e'a't'h'.' 'q'u'e'n'c'e's' 'o'r' 'n'o't'.'
-'('c')' 'T'h'e'y' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' '3'3'.' 'F'a'c't's':' 'A' 'q'u'a'r'r'e'l' 't'o'o'k' 'p'l'a'c'e' 'b'e't'w'e'e'n' 't'h'e'
-'h'u'r't'.' 'a'c'c'u's'e'd' 'p'e'r's'o'n's' 'a'n'd' 't'h'e' 'd'e'c'e'a's'e'd' 'r'e'g'a'r'd'-'
-'3'1'.' 'F'a'c't's':' 'A'c'c'u's'e'd' 'A'-'1' 'a'n'd' 'A'-'2' 'a'c't'u'a't'e'd' 'b'y' 'i'n'g' 'p'u'r'c'h'a's'e' 'o'f' 'c'i'n'e'm'a' 't'i'c'k'e't's'.' 'T'h'e' 'a'c'-'
-'g'r'o'u'p' 'm'a'l'i'c'e',' 'b'e'a't' 'a'n' 'o'l'd' 'm'a'n' 'D' '('t'h'e' 'd'e'-' 'c'u's'e'd' 'w'h'o' 'w'a's' 'a'l'r'e'a'd'y' 'a'r'm'e'd' 'w'i't'h' 'a' 'k'n'i'f'e'
-'c'e'a's'e'd')' 't'o' 'd'e'a't'h' 'b'y' 'c'a'u's'i'n'g' 'n'i'n'e' 'g'r'i'e'v'o'u's' 'i'n'f'l' 'i'c't'e'd' 'f'a't'a'l' 'i'n'j'u'r'y' '('i'n' 't'h'e' 'c'h'e's't' 'r'e'g'i'o'n','
-'h'u'r't's' 'i'n' 't'h'e' 'l'e'g's' 'a'n'd' 'a'r'm's' 'w'h'i'c'h' 'i'n'c'l'u'd'e'd' 'c'u't't'i'n'g' 't'h'e' 'a'o'r't'a' 'o'f' 'h'e'a'r't')' 'o'n' 't'h'e' 'h'e'l'p'l'e's's'
-'f'r'a'c't'u'r'e's' 'i'n' 't'h'e' 'r'i'g'h't' 't'h'u'm'b',' 'r'i'g'h't' 'f'e'm'u'r',' 'd'e'c'e'a's'e'd' 'c'a'u'g'h't' 'b'y' 't'h'e' 'o't'h'e'r' 'a'c'c'u's'e'd'.' 'T'h'e'
-'r'i'g'h't' 't'i'b'i'a',' 'r'i'g'h't' 'f'i' 'b'u'l'a',' 'l'e'f't' 't'i'b'i'a',' 'r'i'g'h't' 'p'a'-' 'd'o'c't'o'r' 'c'e'r't'i'f'i' 'e'd' 't'h'a't' 't'h'e' 'i'n'j'u'r'y' 'b'y' 'i't's'e'l'f' 'w'a's'
-'t'e'l'l'a' 'a'n'd' 'd'i's'l'o'c'a't'i'o'n' 'o'f' 'b'o'n'e's' 'a'n'd' 'j'o'i'n't's' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e'
-'i'n' 't'h'e' 'l'e'f't' 'm'i'd'd'l'e' 'f'i' 'n'g'e'r' 'a'n'd' 'r'i'g'h't' 'a'n'd' 'l'e'f't' 't'o' 'c'a'u's'e' 'd'e'a't'h'.' 'F'o'r' 'w'h'a't' 'o'f'f'e'n'c'e' 'c'a'n' 't'h'e'
-'l'i't't'l'e' 'f'i' 'n'g'e'r's'.' 'D'e'a't'h' 'o'c'c'u'r'r'e'd' 'd'u'e' 't'o' 's'h'o'c'k' 'a'c'c'u's'e'd' 'b'e' 'p'r'o's'e'c'u't'e'd'?'
-'a'n'd' 'h'e'm'o'r'r'h'a'g'e' 'r'e's'u'l't'i'n'g' 'f'r'o'm' 'm'u'l't'i'p'l'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'i'n'j'u'r'i'e's'.' 'W'h'a't' 'o'f'f'e'n'c'e' 't'h'e' 't'w'o' 'a'c'c'u's'e'd' 'm'i't't'e'd'?'
-'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'o'f'?' 'D'i's'c'u's's' 't'h'e' 's't'a't'u't'o'r'y' 'D'e'c'i's'i'o'n':'
-'p'r'o'v'i's'i'o'n' 'a'n'd' 'c'a's'e' 'l'a'w' 'o'n' 't'h'e' 'p'o'i'n't'.' '('a')' 'I't' 'i's' 'c'l'e'a'r'-'c'u't' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'd'e'r'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('b')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'m'i't't'e'd'?' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'D'e'c'i's'i'o'n':' '('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'('a')' 'T'h'e'y' 'h'a'v'e' 'c'o'm'm'i't't'e'd' 'o'f'f'e'n'c'e' 'o'f' 'm'u'r'-' '3'4'.' 'F'a'c't's':' 'A' 'a'n'd' 'B' 'b'e'l'o'n'g'e'd' 't'o' 't'h'e' 'r'i'v'a'l' 'f'a'c'-'
-'d'e'r'.' 't'i'o'n's'.' 'I'n' 'o'r'd'e'r' 't'o' 'e's't'a'b'l'i's'h' 't'h'e' 's'u'p'e'r'i'o'r'i't'y'
-'('b')' 'T'h'e'y' 'h'a'v'e' 'c'o'm'm'i't't'e'd' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-' 'o'f' 'h'i's' 'f'a'c't'i'o'n' 'A' 'd'e'c'i'd'e'd' 't'o' 'g'i'v'e' 'B' 's'o'u'n'd'
-'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.' 't'h'r'a's'h'i'n'g' 'i'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'o't'h'e'r' 's't'u'd'e'n't's'.'
-'('c')' 'T'h'e'y' 'h'a'v'e' 'c'o'm'm'i't't'e'd' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 'O'n' 'a' 'c'r'o'w'd'e'd' 'd'a'y' 'i'n' 't'h'e' 'c'o'l'l'e'g'e' 'A' 'c'o'r'-'
-'3'2'.' 'F'a'c't's':' 'A' 'w'h'o' 'w'a's' 's'p'e'e'd'i'n'g' 'p'a's't' 'a' 'p'o'l'i'c'e' 'n'e'r'e'd' 'B' 'a'l'o'n'e',' 'a'n'd' 's't'r'u'c'k' 'b'l'o'w's' 'w'i't'h' 'b'a'r'e'
-'c'h'e'c'k' 'p'o's't' 'i'n' 'h'i's' 'c'a'r' 'a'f't'e'r' 'c'o'm'm'i't't'i'n'g' 'a' 'f'i' 's't's' 'a'n'd' 'k'i'c'k'e'd' 'h'i'm' 's'e'v'e'r'a'l' 't'i'm'e's'.' 'O'n' 'B'’'s'
-'r'o'b'b'e'r'y',' 'w'a's' 'r'e'q'u'i'r'e'd' 't'o' 's't'o'p' 'b'y' 'B',' 'a' 'p'o'-' 'f'a'l'l'i'n'g' 'd'o'w'n' 'o'n' 't'h'e' 'g'r'o'u'n'd' 'A' 'm'o'u'n't'e'd' 'o'n'
-'l'i'c'e' 'o'f'f'i' 'c'e'r'.' 'W'h'i'l'e' 'B' 'w'a's' 'i'n't'e'r'r'o'g'a't'i'n'g' 'A',' 'h'i's' 'c'h'e's't' 'a'n'd' 's't'r'u'c'k' 't'h'r'e'e' 'v'i'o'l'e'n't' 'b'l'o'w's' 'o'n'
-'A' 's'u'd'd'e'n'l'y' 'g'a'v'e' 'a' 's'p'a'n'n'e'r' 'b'l'o'w' 'o'n' 'B'’'s' 't'h'e' 'f'a'c'e' 'a'n'd' 'h'e'a'd' 'r'e'g'i'o'n'.' 'T'h'e' 'b'l'o'w's' 'o'n'
-'h'e'a'd' 'm'a'i'n'l'y' 'w'i't'h' 'a' 'v'i'e'w' 't'o' 'm'a'k'i'n'g' 'g'o'o'd' 't'h'e' 'h'e'a'd' 'r'e'g'i'o'n' 'c'a'u's'e'd' 'e'x't'r'a'v'a's'a't'i'o'n's' 'o'f'
-'h'i's' 'e's'c'a'p'e'.' 'T'h'e' 's'p'a'n'n'e'r' 'b'l'o'w',' 'g'i'v'e'n' 'w'i't'h' 'b'l'o'o'd' 'i'n' 't'h'e' 'b'r'a'i'n',' 'a'n'd' 'a's' 'a' 'c'o'n's'e'q'u'e'n'c'e','
-'c'o'n's'i'd'e'r'a'b'l'e' 'f'o'r'c'e',' 'l'e'd' 't'o' 's'k'u'l'l' 'f'r'a'c't'u'r'e' 'B' 'd'i'e'd' 't'h'e' 'n'e'x't' 'd'a'y' 'i'n' 't'h'e' 'h'o's'p'i't'a'l'.' 'A' 'i's'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '5'9'
-'p'r'o's'e'c'u't'e'd' 'f'o'r' 'm'u'r'd'e'r'.' 'D'e'c'i'd'e' 'g'i'v'i'n'g' 'a'r'-' 'c'o'm'm'i't't'e'd'?' 'W'o'u'l'd' 'i't' 'm'a'k'e' 'a'n'y' 'd'i'f'f'e'r'e'n'c'e'
-'g'u'm'e'n't's' 'a'n'd' 'c'a's'e' 'l'a'w'.' 'i'f' 'A' 'd'i'e'd' 'd'u'e' 't'o' 'f'a'i'l'u'r'e' 't'o' 'g'i'v'e' 'p'r'o'm'p't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'm'e'd'i'c'a'l' 'a'i'd' 'o'r' 'd'u'e' 't'o' 'h'e'a'd' 'i'n'j'u'r'y' 'a'f't'e'r' '1'0'
-'m'i't't'e'd'?' 'd'a'y's' 'i'n' 't'h'e' 'h'o's'p'i't'a'l'?'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('a')' 'I't' 'i's' 'a' 'c'l'e'a'r' 'c'u't' 'c'a's'e' 'o'f' 'm'u'r'd'e'r'.' 'm'i't't'e'd'?'
-'('b')' 'I't' 'i's' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 'D'e'c'i's'i'o'n':'
-'t'o' 'm'u'r'd'e'r',' 'b'e'c'a'u's'e' 't'h'e' 'a'c'c'u's'e'd' 'd'i'd'n'’'t' '('a')' 'A'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'i'n't'e'n'd'e'd' 't'o' 'k'i'l'l' 'h'i'm'.' '('b')' 'A'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-'
-'('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 'c'i'd'e'.'
-'3'5'.' 'F'a'c't's':' 'P',' 'a' 'd'r'e'a'd'e'd' 't'e'r'r'o'r'i's't',' 'd'r'i'v'i'n'g' 'h'i's' '('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'w'i't'h'
-'M'e'r'c'e'd'e's',' 'w'a's' 'a'p'p'r'e'h'e'n'd'e'd' 'b'y' 'a' 'p'o'l'i'c'e' 'i'n' 't'h'e' 'm'e'a'n'i'n'g' 'o'f' 'c'l'a'u's'e' '('3')' 'o'f' 'S'e'c'-'
-'c'o'n's't'a'b'l'e' 'o'n' 'a' 't'r'a'f'f'i' 'c' 'r'e'd' 's'i'g'n'a'l'.' 'T'h'e' 'c'o'n'-' 't'i'o'n' '3'0'0',' 's'o' 'f'a'r' 'a's' 't'h'e' 'i'n'j'u'r'y' 'w'a's' 'i'n'-'
-'s't'a'b'l'e' 'a's'k'e'd' 'P' 't'o' 't'a'k'e' 't'h'e' 'c'a'r' 't'o' 'h'i's' 'l'e'f't' 't'e'n't'i'o'n'a'l' 'a'n'd' 'i't' 'w'a's' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e'
-'t'o'w'a'r'd's' 'a' 'p'e't'r'o'l' 'p'u'm'p' 'a'n'd' 't'o' 's't'o'p' 't'h'e'r'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e'
-'d'e'a't'h'.' 'I'n' 't'h'e' 'l'i'g'h't' 'o'f' 'E'x'p'l'a'n'a't'i'o'n' '('2')'
-'i'n' 't'h'e' 'p'a'r'k'i'n'g' 's'p'a'c'e'.' 'P' 'b'e'g'a'n' 't'o' 'd'o' 's'o' 'b'u't'
-'t'o' 'S'e'c't'i'o'n' '2'9'9' 'i't' 'w'o'u'l'd' 'm'a'k'e' 'n'o' 'd'i'f'-'
-'s'u'd'd'e'n'l'y' 'a'c'c'e'l'e'r'a't'e'd'.' 'T'h'e' 'c'o'n's't'a'b'l'e' 'm'a'n'-'
-'f'e'r'e'n'c'e' 'i'n' 't'h'e' 'a'n's'w'e'r' 'i'f' 'A' 'd'i'e'd' 'd'u'e' 't'o'
-'a'g'e'd' 't'o' 'c'l'i'n'g' 't'o' 't'h'e' 'd'r'i'v'e'r'’'s' 'w'i'n'd'o'w',' 'P'
-'f'a'i'l'u'r'e' 't'o' 'g'i'v'e' 'p'r'o'm'p't' 'm'e'd'i'c'a'l' 'a'i'd'.'
-'t'r'i'e'd' 't'o' 's'h'a'k'e' 'h'i'm' 'o'f'f' 'b'y' 'g'i'v'i'n'g' 'h'a'r'd' 'b'l'o'w's'
-'3'7'.' 'F'a'c't's':' 'C',' 'i'n't'e'n'd'i'n'g' 't'o' 'k'i'l'l' 'h'i's' 'w'i'f'e' 'D','
-'w'i't'h' 't'h'e' 'h'e'l'p' 'o'f' 'h'i's' 'f'i' 's't' 'b'u't' 'c'o'u'l'd' 'n'o't' 's'u'c'-'
-'i'n'j'e'c't's' 'p'o'i's'o'n' 'i'n' 'a' 'b'a'n'a'n'a' 'a'n'd' 'g'i'v'e's' 'i't' 't'o'
-'c'e'e'd' 'i'n' 't'h'r'o'w'i'n'g' 'h'i'm' 'o'f'f' 'o'n' 't'h'e' 'r'o'a'd'.' 'P'
-'h'e'r' 't'o' 'e'a't'.' 'D' 'k'e'e'p's' 't'h'e' 'p'o'i's'o'n'e'd' 'b'a'n'a'n'a'
-'t'h'e'n' 't'o'o'k' 'a' 's'p'a'n'n'e'r' 'l'y'i'n'g' 'i'n' 'h'i's' 'c'a'r' 'a'n'd'
-'o'n' 'a' 't'a'b'l'e' 't'o' 'r'e'l'i's'h' 'i't' 'a't' 'h'e'r' 'l'e'i's'u'r'e'.' 'I'm'-'
-'s't'r'u'c'k' 'a' 'v'i'o'l'e'n't' 'b'l'o'w' 'o'n' 't'h'e' 'c'o'n's't'a'b'l'e' 'f'i' 'n'-'
-'m'e'd'i'a't'e'l'y' 'a'f't'e'r' 't'h'a't',' 'L',' 'a' 'n'e'i'g'h'b'o'u'r' 'c'o'm'e's'
-'g'e'r's',' 'a'n'd' 'a's' 'c'o'n's't'a'b'l'e' 'l'o'o's'e'n'e'd' 'h'i's' 'g'r'i'p',' 'P'
-'t'o' 't'h'e'i'r' 'h'o'u's'e':' 'D' 'o'f'f'e'r's' 't'h'e' 'b'a'n'a'n'a' 't'o' 'h'i'm'.'
-'p'u's'h'e'd' 'a'n'd' 't'h'r'e'w' 'h'i'm' 'o'n' 't'h'e' 'r'o'a'd'.' 'T'h'e'r'e'
-'L' 'c'o'n's'u'm'e's' 'i't' 'a'n'd' 'd'i'e's' 'c'o'n's'e'q'u'e'n't'l'y'.' 'T'h'e'
-'w'a's' 'v'e'r'y' 'h'e'a'v'y' 't'r'a'f'f'i' 'c' 'o'n' 't'h'e' 'r'o'a'd' 'a'n'd' 't'h'e'
-'i'n'c'i'd'e'n't' 'o'c'c'u'r's' 'i'n' 'C'’'s' 'p'r'e's'e'n'c'e' 'a'n'd' 'h'e'
-'c'o'n's't'a'b'l'e' 'g'o't' 'k'i'l'l'e'd' 'b'y' 'a' 's'p'e'e'd'i'n'g' 't'r'u'c'k'.'
-'d'o'e's' 'n'o't' 'i'n't'e'r'f'e'r'e'.' 'W'h'a't' 'a'r'e' 't'h'e' 'r'e's'p'e'c't'i'v'e'
-'C'a'n' 'P' 'b'e' 's'u'c'c'e's's'f'u'l'l'y' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'h'e'
-'p'e'n'a'l' 'l'i'a'b'i'l'i't'i'e's' 'o'f' 'C' 'a'n'd' 'D'?' 'W'i'l'l' 'y'o'u'r' 'a'n'-'
-'m'u'r'd'e'r' 'o'f' 't'h'e' 'c'o'n's't'a'b'l'e'?'
-'s'w'e'r's' 'b'e' 'd'i'f'f'e'r'e'n't',' 'i'f' 'D' 'o'f'f'e'r's' 't'h'e' 'b'a'n'a'n'a'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'o' 'L' 'i'n' 'C'’'s' 'a'b's'e'n'c'e'?'
-'m'i't't'e'd'?'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'D'e'c'i's'i'o'n':'
-'m'i't't'e'd'?'
-'('a')' 'P' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'D'e'c'i's'i'o'n':'
-'('b')' 'P' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('a')' 'C' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('c')' 'P' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'h'o'm'i'c'i'd'e' 'b'y' 'r'a's'h' 'o'r'
-'('b')' 'D' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'n'e'g'l'i'g'e'n't' 'a'c't' 'b'e'c'a'u's'e' 'S'e'c't'i'o'n' '3'0'4'-'A'
-'('c')' 'C' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'C' 'h'a'd'
-'d'o'e's' 'n'o't' 'a'p'p'l'y' 'w'h'e'r'e' 't'h'e' 'd'e'a't'h' 'h'a's'
-'t'h'e' 'i'n't'e'n't'i'o'n' 't'o' 'k'i'l'l' 's'o'm'e'o'n'e' 'a'n'd' 'h'i's'
-'a'r'i's'e'n' 'f'r'o'm' 'a'n'y' 'o't'h'e'r' 's'u'p'e'r'v'e'n'i'n'g' 'a'c't'
-'a'c't'i'o'n' 'w'a's' 's'u'f'f'i' 'c'i'e'n't' 't'o' 'c'a'u's'e' 't'h'e'
-'o'r' 'i'n't'e'r'v'e'n't'i'o'n's' 'w'h'i'c'h' 'c'o'u'l'd' 'n'o't' 'h'a'v'e'
-'d'e'a't'h'.' 'D' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n'y' 'o'f'f'e'n'c'e'.'
-'b'e'e'n' 'a'n't'i'c'i'p'a't'e'd'.' 'P' 'i's',' 'h'o'w'e'v'e'r',' 'g'u'i'l't'y'
-'C'’'s' 'p'r'e's'e'n'c'e' 'o'r' 'a'b's'e'n'c'e' 'i's' 'i'm'm'a't'e'-'
-'o'f' 'c'a'u's'i'n'g' '‘'g'r'i'e'v'o'u's' 'h'u'r't'’' 'w'i't'h'i'n' 't'h'e' 'r'i'a'l'.'
-'m'e'a'n'i'n'g' 'o'f' 'S'e'c't'i'o'n' '3'2'0',' 'a's' 'h'e' 'h'a'd' 't'h'e' '3'8'.' 'F'a'c't's':' 'E'x'a'm'i'n'e' 'a's' 't'o' 'w'h'e't'h'e'r' 'a' 'p'e'r's'o'n'
-'i'n't'e'n't'i'o'n' 'o'f' 'c'a'u's'i'n'g' 's'u'c'h' 'h'u'r't'.' 'w'h'o' 'c'a'u's'e's' 'd'e'a't'h' 'o'f' 'a' 'p'r'e'g'n'a'n't' 'w'o'm'a'n'
-'3'6'.' 'F'a'c't's':' 'A',' 'a' 'p'h'y's'i'c'a'l' 't'r'a'i'n'i'n'g' 'i'n's't'r'u'c't'o'r' 'i's' 'g'u'i'l't'y' 'o'f' 'c'o'm'm'i't't'i'n'g' 'o'n'e' 'h'o'm'i'c'i'd'e' 'o'r'
-'w'a's' 'a'c't'i'n'g' 'a's' 'a' 'r'e'f'e'r'e'e' 'i'n' 'a' 'f'r'i'e'n'd'l'y' 'h'o'c'k'e'y' 't'w'o'.'
-'m'a't'c'h' 'b'e'i'n'g' 'p'l'a'y'e'd' 'b'e't'w'e'e'n' 'c'l'a's's' 'X'I' 'a'n'd' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'c'l'a's's' 'X'I'I'.' 'X',' 'a'n' 'e'x'-'s't'u'd'e'n't' 'o'f' 't'h'e' 's'c'h'o'o'l',' 'm'i't't'e'd'?'
-'a'r'r'i'v'e'd' 'o'n' 't'h'e' 'g'r'o'u'n'd' 'a'n'd' 'w'a's' 'v'e'r'y' 'a'n'x'-' 'D'e'c'i's'i'o'n':'
-'i'o'u's' 't'o' 'p'l'a'y' 't'h'e' 'g'a'm'e' 'b'u't' 'w'a's' 'n'o't' 'a'l'l'o'w'e'd' '('a')' 'A' 'p'e'r's'o'n' 'w'h'o' 'c'a'u's'e's' 't'h'e' 'd'e'a't'h' 'o'f' 'a'
-'b'y' 'A'.' 'X' 's'n'a't'c'h'e'd' 'a' 'h'o'c'k'e'y' 's't'i'c'k' 'f'r'o'm' 'a' 'p'r'e'g'n'a'n't' 'w'o'm'a'n' 'i's' 'g'u'i'l't'y' 'o'f' 'c'o'm'm'i't'-'
-'p'l'a'y'e'r' 'a'n'd' 's't'r'u'c'k' 'a' 'b'l'o'w' 'o'n' 'A'’'s' 'h'e'a'd' 'w'i't'h' 't'i'n'g' 't'w'o' 'h'o'm'i'c'i'd'e's'.'
-'c'o'n's'i'd'e'r'a'b'l'e' 'f'o'r'c'e'.' 'A' 'f'e'l'l' 'd'o'w'n' 'a'n'd' 'd'i'e'd' '('b')' 'A' 'p'e'r's'o'n' 'w'h'o' 'c'a'u's'e's' 'd'e'a't'h' 'o'f' 'a' 'p'r'e'g'-'
-'i'n's't'a'n't'a'n'e'o'u's'l'y'.' 'W'h'a't' 'o'f'f'e'n'c'e' 'h'a's' 'b'e'e'n' 'n'a'n't' 'w'o'm'a'n' 'i's' 'g'u'i'l't'y' 'o'f' 'c'o'm'm'i't't'i'n'g'
-'
-'o'n'l'y' 'o'n'e' 'h'o'm'i'c'i'd'e',' 't'h'a't' 'i's',' 'o'f' 't'h'e' 'o'f' 't'h'e' 'a'x'e'.' 'A's' 'a' 'r'e's'u'l't' 'o'f' 't'h'e' 'h'e'a'd' 'i'n'j'u'r'y',' 'B'
-'w'o'm'a'n'.' 'A's' 'p'e'r' 'E'x'p'l'a'n'a't'i'o'n' '3' 't'o' 'S'e'c'-' 'd'i'e'd'.' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'?'
-'t'i'o'n' '2'9'9' 't'h'e' 'c'a'u's'i'n'g' 'o'f' 't'h'e' 'd'e'a't'h' 'o'f' 'a' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'c'h'i'l'd' 'i'n' 't'h'e' 'm'o't'h'e'r'’'s' 'w'o'm'b' 'i's' 'n'o't' 'h'o'-' 'm'i't't'e'd'?'
-'m'i'c'i'd'e'.' 'B'u't' 'i't' 'm'a'y' 'a'm'o'u'n't' 't'o' 'c'u'l'p'a'b'l'e' 'D'e'c'i's'i'o'n':'
-'h'o'm'i'c'i'd'e' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h' 'o'f' 'a' 'l'i'v'i'n'g' '('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'c'h'i'l'd',' 'i'f' 'a'n'y' 'p'a'r't' 'o'f' 't'h'a't' 'c'h'i'l'd' 'h'a's' 'b'e'e'n' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'i'n'j'u'r'y'
-'b'r'o'u'g'h't' 'f'o'r't'h',' 't'h'o'u'g'h' 't'h'e' 'c'h'i'l'd' 'm'a'y' 'i'n'f'l' 'i'c't'e'd' 'w'a's' 'n'o't' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'-'
-'n'o't' 'h'a'v'e' 'b'r'e'a't'h'e'd' 'o'r' 'b'e'e'n' 'c'o'm'p'l'e't'e'l'y' 'n'a'r'y' 'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e' 'd'e'a't'h'.'
-'b'o'r'n'.' '('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'3'9'.' 'F'a'c't's':' 'A' 'k'i'c'k'e'd' 'h'i's' 'd'a'u'g'h't'e'r' 'a'g'e'd' 'a'b'o'u't' '('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'9' 'y'e'a'r's' 'o'n' 'h'e'r' 'b'a'c'k' 'w'i't'h' 'h'i's' 'b'a'r'e'f'o'o't'.' 'S'h'e' '4'2'.' 'F'a'c't's':' 'S',' 'a' 's'n'a'k'e' 'c'h'a'r'm'e'r',' 'w'a's' 'e'x'h'i'b'i't'i'n'g'
-'f'e'l'l' 'd'o'w'n' 'a'n'd' 'd'i'e'd' 'i'm'm'e'd'i'a't'e'l'y'?' 'W'h'a't' 'i's' 'a' 'p'o'i's'o'n'o'u's' 's'n'a'k'e' 'i'n' 'p'u'b'l'i'c' 'w'h'o's'e' 'f'a'n'g's'
-'t'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'.' 'h'e' 'k'n'e'w' 'h'a'd' 'n'o't' 'b'e'e'n' 'e'x't'r'a'c't'e'd'.' 'H'e' 'p'u't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-' 't'h'e' 's'n'a'k'e' 'o'n' 't'h'e' 'h'e'a'd' 'o'f' 'o'n'e' 'o'f' 't'h'e' 's'p'e'c'-'
-'m'i't't'e'd'?' 't'a't'o'r's',' 'w'h'o' 'w'h'i'l'e' 't'r'y'i'n'g' 't'o' 'p'u's'h' 'o'f'f' 't'h'e'
-'s'n'a'k'e' 'a'w'a'y' 'f'r'o'm' 'h'i's' 'h'e'a'd' 'w'a's' 'b'i't't'e'n' 'b'y'
-'D'e'c'i's'i'o'n':'
-'i't'.'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'m'i't't'e'd'?'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'D'e'c'i's'i'o'n':'
-'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 't'o' 'k'i'c'k'
-'('a')' 'S' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'n'o't' 'a'm'o'u'n't'i'n'g'
-'a' 'g'i'r'l' 'o'f' 't'e'n'd'e'r' 'a'g'e' 'w'i't'h' 's'u'c'h' 'f'o'r'c'e' 'a's'
-'t'o' 'm'u'r'd'e'r'.'
-'t'o' 'p'r'o'd'u'c'e' 'r'u'p't'u'r'e' 'o'f' 'a'b'd'o'm'e'n' 'i'n' 'a'
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'h'e'a'l't'h'y' 's'u'b'j'e'c't',' 'i's' 'a'n' 'a'c't' 'o'f' 's'u'c'h' 'c'h'a'r'-'
-'('c')' 'I't'’'s' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.'
-'a'c't'e'r' 't'h'a't' 'n'o' 'r'e'a's'o'n'a'b'l'e' 'm'a'n' 'c'o'u'l'd' 'b'e'
-'4'3'.' 'F'a'c't's':' 'A' 'p'l'a'c'e'd' 'a' 'b'o'm'b' 'i'n' 'a' 'm'e'd'i'c'a'l' 's't'o'r'e'
-'i'g'n'o'r'a'n't' 'o'f' 't'h'e' 'l'i'k'e'l'i'h'o'o'd' 'o'f' 'i't's' 'c'a'u's'-'
-'a'n'd' 'g'a'v'e' 't'h'e' 'p'e'o'p'l'e' 'i'n's'i'd'e' 't'h'r'e'e' 'm'i'n'u't'e's'
-'i'n'g' 'd'e'a't'h'.'
-'t'o' 'g'e't' 'o'u't' 'b'e'f'o'r'e' 't'h'e' 'b'o'm'b' 'e'x'p'l'o'd'e'd'.' 'B',' 'a'n'
-'4'0'.' 'F'a'c't's':' 'A' 'h'a'd' 'g'o'n'e' 't'o' 'h'i's' 'f'a't'h'e'r' 'i'n' 'l'a'w's'
-'a'r't'h'r'i't'i'c' 'p'a't'i'e'n't',' 'f'a'i'l'e'd' 't'o' 'e's'c'a'p'e' 'a'n'd' 'w'a's'
-'h'o'u's'e' 't'o' 'f'e't'c'h' 'h'i's' 'w'i'f'e'.' 'O'n' 'a'c'c'o'u'n't' 'o'f'
-'k'i'l'l'e'd'.' 'D'i's'c'u's's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'.'
-'s'o'm'e' 'q'u'a'r'r'e'l' 'b'e't'w'e'e'n' 'A' 'a'n'd' 'h'i's' 'b'r'o't'h'e'r'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'i'n' 'l'a'w',' 'B',' 'A' 'l'o's't' 'h'i's' 't'e'm'p'e'r' 'a'n'd' 'g'a'v'e' 'o'n'e'
-'m'i't't'e'd'?'
-'b'l'o'w' 'w'i't'h' 'a' 'k'n'i'f'e' 'o'n' 'B'’'s' 'c'h'e's't' 'w'h'i'c'h' 'r'e'-'
-'D'e'c'i's'i'o'n':'
-'s'u'l't'e'd' 'i'n' 'h'i's' 'd'e'a't'h'.' 'W'h'a't' 'i's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f'
-'('a')' 'T'h'e' 'a'c't' 'o'f' 'A' 'w'a's' 'i'm'm'i'n'e'n't'l'y' 'd'a'n'g'e'r'-'
-'A'?'
-'o'u's' 'a'c't'.' 'T'h'e'r'e'f'o'r'e',' 'A' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'c'o'm'm'i't't'i'n'g' 'm'u'r'd'e'r' 'o'f' 'B' 'u'n'd'e'r' 'c'l'a'u's'e'
-'m'i't't'e'd'?'
-'4' 'o'f' 'S'e'c't'i'o'n' '3'0'0'.'
-'D'e'c'i's'i'o'n':'
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'4'4'.' 'F'a'c't's':' 'D',' 'a' 'b'u'r'g'l'a'r',' 'b'r'e'a'k's' 'i'n't'o' 'a' 'h'o'u's'e'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'c'a'r'r'y'i'n'g' 'a'n' 'u'n'l'o'a'd'e'd' 'p'i's't'o'l' 'w'h'i'c'h' 'h'e' 'i'n'-'
-'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 'd'e'a't'h' 't'e'n'd's' 't'o' 'u's'e' 't'o' 'f'r'i'g'h't'e'n' 't'h'e' 'i'n'm'a't'e's' 'o'f' 't'h'e'
-'w'a's' 'c'a'u's'e'd' 'b'y' 'd'o'i'n'g' 'a'n' 'a'c't' 'w'i't'h' 't'h'e' 'h'o'u's'e' 's'h'o'u'l'd' 'h'e' 'b'e' 'd'e't'e'c't'e'd'.' 'T'h'e' 'o'w'n'e'r' 'o'f'
-'k'n'o'w'l'e'd'g'e' 't'h'a't' 'i't' 'w'a's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 't'h'e' 'h'o'u's'e' 'c'o'n'f'r'o'n't's' 't'h'e' 'b'u'r'g'l'a'r' 'w'h'o' 't'h'e'r'e'-'
-'d'e'a't'h'.' 'u'p'o'n' 'p'o'i'n't's' 't'h'e' 'e'm'p't'y' 'g'u'n' 'a't' 'h'i'm'.' 'T'h'e'
-'4'1'.' 'F'a'c't's':' 'A' 'a'l'o'n'g' 'w'i't'h' 'o't'h'e'r's' 'w'h'i'l'e' 'c'u't't'i'n'g' 'o'w'n'e'r' 'd'i'e's' 'o'f' 'f'r'i'g'h't'.' 'D'i's'c'u's's' 't'h'e' 'l'i'a'b'i'l'i't'y'
-'i'l'l'e'g'a'l'l'y' 'a' 'f'o'r'e's't' 't'r'e'e' 'w'e'r'e' 'a'p'p'r'e'h'e'n'd'e'd' 'o'f' 'D'.'
-'b'y' 'a' 'f'o'r'e's't' 'g'u'a'r'd',' 'B'.' 'O'n' 'b'e'i'n'g' 'r'e'b'u'k'e'd' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'a'n'd' 't'h'r'e'a't'e'n'e'd' 'b'y' 'A' 'a'n'd' 'o't'h'e'r's',' 'B' 'k'e'p't' 'm'i't't'e'd'?'
-'q'u'i'e't' 'a'n'd' 't'r'i'e'd' 't'o' 'r'e't'r'e'a't'.' 'B'u't' 'A' 'a'n'd' 'o't'h'e'r's' 'D'e'c'i's'i'o'n':'
-'c'h'a's'e'd' 'B' 'w'i't'h' 'a'x'e' 'i'n' 't'h'e'i'r' 'h'a'n'd's'.' 'A' 'g'a'v'e' '('a')' 'D' 'w'o'u'l'd' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'-'
-'a' 'b'l'o'w' 'w'i't'h' 't'h'e' 'h'a'n'd'l'e' 'o'f' 'h'i's' 'a'x'e' 'o'n' 'B'’'s' 'c'i'd'e' 'n'o't' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'b'a'c'k' 'w'h'o' 'f'e'l'l' 'd'o'w'n'.' 'A' 't'h'e'n' 'a's's'a'u'l't'e'd' 'B' 'o'n' '('b')' 'H'e' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.'
-'h'i's' 'l'e'g's' 'a'n'd' 'k'n'e'e' 'j'o'i'n't's' 'w'i't'h' 't'h'e' 'b'l'u'n't' 's'i'd'e' '('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '6'1'
-'E'X'C'E'P'T'I'O'N'S' 'T'O' 'T'H'E' 'O'F'F'E'N'C'E' 't'o' 'b'e'n'e'f'i' 't' 'o'f' 'E'x'c'e'p't'i'o'n' '1' 't'o' 'S'e'c't'i'o'n' '3'0'0'?'
-'O'F' 'M'U'R'D'E'R' 'D'e'c'i's'i'o'n':'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 'h'e' 'c'a'n'’'t' 'b'e'
-'4'5'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 'K'.' 'M'.' 'N'a'n'a'v'a't'i' 'w'a's' 'b'e'n'e'f'i' 't't'e'd' 'w'i't'h' 't'h'e' 'e'x'c'e'p't'i'o'n' 'o'f' 'g'r'a'v'e'
-'a'n' 'o'f'f'i' 'c'e'r'.' 'I'n' 't'h'e' 'y'e'a'r' '1'9'5'6',' 't'h'e' 'N'a'n'a'v'a'-' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.'
-'t'i's' 'w'e'r'e' 'i'n't'r'o'd'u'c'e'd' 't'o' 'A'h'u'j'a'.' 'G'r'a'd'u'a'l'l'y',' '('b')' 'H'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 'h'i's' 's'i't'u'a'-'
-'a' 'f'r'i'e'n'd's'h'i'p' 'd'e'v'e'l'o'p'e'd' 'b'e't'w'e'e'n' 'A'h'u'j'a' 't'i'o'n' 'i's' 'c'o'v'e'r'e'd' 'u'n'd'e'r' 't'h'e' 'e'x'c'e'p't'i'o'n' 'o'f'
-'a'n'd' 'M'r's' 'N'a'n'a'v'a't'i' 'w'h'i'c'h' 'c'u'l'm'i'n'a't'e'd' 'i'n' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.'
-'c'r'i'm'i'n'a'l' 'i'n't'i'm'a'c'y' 'b'e't'w'e'e'n' 't'h'e'm'.' 'O'n'e' 'd'a'y' '('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'M'r's' 'N'a'n'a'v'a't'i' 'c'o'n'f'e's's'e'd' 't'o' 'M'r' 'N'a'n'a'v'a't'i' 'o'f' '('d')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'h'e'r' 'i'l'l'i'c'i't' 'i'n't'i'm'a'c'y' 'w'i't'h' 'A'h'u'j'a'.' 'E'n'r'a'g'e'd' 'a't' '4'7'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'm'e'd' 't'h'e'm's'e'l'v'e's'
-'t'h'e' 'c'o'n'd'u'c't' 'o'f' 'A'h'u'j'a',' 't'h'e' 'a'p'p'e'l'l'a'n't' 'w'a'n't'e'd' 'w'i't'h' 'd'e'a'd'l'y' 'w'e'a'p'o'n's' 'a'n'd' 's'e'c'u'r'e'd' 't'h'e'm'-'
-'t'o' 's'e't't'l'e' 't'h'e' 'm'a't't'e'r' 'w'i't'h' 'A'h'u'j'a'.' 'T'h'e'r'e'a'f't'e'r',' 's'e'l'v'e's' 'o'n' 't'h'e' 't'e'r'r'a'c'e' 'o'f' 'a' 'h'o'u's'e',' 'c'o'l'l'e'c't'e'd'
-'h'e' 'd'r'o'v'e' 'h'i's' 'w'i'f'e' 'a'n'd' 't'w'o' 'c'h'i'l'd'r'e'n' 't'o' 'a' 't'h'e' 'o'p'p'o'n'e'n't's' 'b'y' 'b'e'a't' 'o'f' 'd'r'u'm' 'a'n'd' 't'h'r'e'w'
-'c'i'n'e'm'a' 'a'n'd' 'l'e'f't' 't'h'e'm' 't'h'e'r'e',' 'a'n'd' 't'h'e'n' 'w'e'n't' 'o'u't' 'a' 'c'h'a'l'l'e'n'g'e' 'o'f' 'f'i' 'g'h't'i'n'g'.' 'T'h'e'r'e'u'p'o'n'
-'t'o' 'h'i's' 's'h'i'p' 'a'n'd' 't'o'o'k' 'a' 'r'e'v'o'l'v'e'r'.' 'H'e' 't'h'e'n' 't'h'e' 'd'e'c'e'a's'e'd' 'u's'e'd' 'p'r'o'v'o'c'a't'i'v'e' 'l'a'n'g'u'a'g'e'
-'w'e'n't' 't'o' 't'h'e' 'f'l' 'a't' 'o'f' 'A'h'u'j'a' 'a'n'd' 'e'n't'e'r'e'd' 'h'i's' 'c'h'a'l'l'e'n'g'i'n'g' 't'h'e' 'a'c'c'u's'e'd' 't'o' 'c'o'm'e' 'o'u't' 'o'f'
-'b'e'd'r'o'o'm'.' 'H'e' 'c'a'l'l'e'd' 'A'h'u'j'a' 'a' 'f'i' 'l't'h'y' 's'w'i'n'e' 't'h'e' 'h'o'u's'e' 'a'n'd' 'f'i' 'g'h't'.' 'T'h'e' 'a'c'c'u's'e'd' 'd'i'd' 'a'n'd'
-'a'n'd' 'a's'k'e'd' 'h'i'm' 'w'h'e't'h'e'r' 'h'e' 'w'o'u'l'd' 'm'a'r'r'y' 'k'i'l'l'e'd' 't'h'e' 'd'e'c'e'a's'e'd'.'
-'h'i's' 'w'i'f'e' 'a'n'd' 'l'o'o'k' 'a'f't'e'r' 't'h'e' 'c'h'i'l'd'r'e'n'.' 'T'h'e' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f'
-'d'e'c'e'a's'e'd' 'r'e't'o'r't'e'd',' '“'A'm' 'I' 't'o' 'm'a'r'r'y' 'e'v'e'r'y' 'm'u'r'd'e'r'?'
-'w'o'm'a'n' 'I' 's'l'e'e'p' 'w'i't'h'”'?' 'T'h'e' 'a'c'c'u's'e'd' 'b'e'-' 'D'e'c'i's'i'o'n':'
-'c'a'm'e' 'e'n'r'a'g'e'd' 'a'n'd' 's'h'o't' 'A'h'u'j'a' 'd'e'a'd'.' '('a')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' '('b')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'m'u'r'd'e'r'?' 'm'i'c'i'd'e'.'
-'D'e'c'i's'i'o'n':' '('c')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 'a'l'l' 'f'a'c't's' 'a'n'd' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'c'i'r'c'u'm's't'a'n'c'e's' 'a'r'e' 'a'g'a'i'n's't' 'h'i'm'.' '4'8'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 'a'n'd' 't'h'e' 'd'e'c'e'a's'e'd' 'w'e'r'e'
-'('b')' 'N'o',' 'h'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'B'e'-' 'r'e'l'a't'i'v'e's'.' 'O'n' 't'h'e' 'd'a'y' 'o'f' 't'h'e' 'o'c'c'u'r'r'e'n'c'e' 'o'f'
-'c'a'u's'e' 'h'i's' 'a'c't'i'o'n' 'i's' 'c'o'v'e'r'e'd' 'u'n'd'e'r' 't'h'e' 'c'r'i'm'e',' 't'h'e' 'd'e'c'e'a's'e'd' 'a't't'e'n'd'e'd' 't'h'e' 'm'a'r'r'i'a'g'e'
-'e'x'c'e'p't'i'o'n' 't'o' 'm'u'r'd'e'r' 't'h'a't' 'i's' 'g'r'a'v'e' 'a'n'd' 'o'f' 'h'i's' 'l'a't'e' 'b'r'o't'h'e'r's' 'd'a'u'g'h't'e'r'.' 'T'h'e' 'a'c'c'u's'e'd'
-'s'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'h'a'd' 'a' 'g'r'i'e'v'a'n'c'e' 't'h'a't' 't'h'e' 'd'e'c'e'a's'e'd' 'd'i'd' 'n'o't'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'i'n'v'i't'e' 'h'i'm' 't'o' 't'h'e' 'm'a'r'r'i'a'g'e'.' 'A'f't'e'r' 't'h'e' 'm'a'r'-'
-'4'6'.' 'F'a'c't's':' 'T'h'e' 'd'e'c'e'a's'e'd' 'S'a'b'i'r' 'a'n'd' 't'h'e' 'a'c'-' 'r'i'a'g'e',' 'a'r'm'e'd' 'w'i't'h' 'a' 'g'a'n'd'h'a'l'a',' 't'h'e' 'a'c'c'u's'e'd'
-'c'u's'e'd' 'A'k'h't'a'r' 'w'e'r'e' 't'w'o' 'b'r'o't'h'e'r's' 'w'h'o' 'l'i'v'e'd' 'a'n'd' 'h'i's' 'b'r'o't'h'e'r's' 'e'm'e'r'g'e'd' 's'u'd'd'e'n'l'y'.' 'T'h'e'r'e'
-'i'n' 't'w'o' 'p'a'r't's' 'o'f' 't'h'e' 's'a'm'e' 'h'o'u's'e' 'w'h'i'l'e' 't'h'e'i'r' 'w'a's' 'a' 's'u'd'd'e'n' 'q'u'a'r'r'e'l' 'a'n'd' 't'h'e' 'a'c'c'u's'e'd' 'a's'-'
-'p'a'r'e'n't's' 'a'n'd' 'o't'h'e'r' 'b'r'o't'h'e'r's' 'l'i'v'e'd' 'a't' 's'o'm'e' 's'a'u'l't'e'd' 't'h'e' 'd'e'c'e'a's'e'd' 'w'i't'h' 't'h'e' 'b'l'u'n't' 's'i'd'e' 'o'f'
-'d'i's't'a'n'c'e' 'i'n' 't'h'e' 's'a'm'e' 's't'r'e'e't'.' 'S'a'b'i'r' 'a'n'd' 'h'i's' 't'h'e' 'g'a'n'd'h'a'l'a' 'o'n' 't'h'e' 'h'e'a'd' 'i'n' 't'h'e' 'h'e'a't' 'o'f' 't'h'e'
-'w'i'f'e' 'C'h'h'o't'i' 'w'e'r'e' 'p'e'o'p'l'e' 'o'f' 'b'a'd' 't'e'm'p'e'r' 'm'o'm'e'n't'.' 'T'h'e' 'd'o'c't'o'r' 'o'p'i'n'e'd' 't'h'a't' 't'h'e' 'h'e'a'd'
-'a'n'd' 'q'u'a'r'r'e'l's'o'm'e' 'n'a't'u'r'e'.' 'O'n'e' 'd'a'y',' 'C'h'h'o't'i' 'i'n'j'u'r'y' 'w'a's' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y' 'c'o'u'r's'e'
-'w'a's' 'q'u'a'r'r'e'l'i'n'g' 'w'i't'h' 'o't'h'e'r' 'm'e'm'b'e'r's' 'o'f' 't'h'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e' 'd'e'a't'h'.'
-'f'a'm'i'l'y' 'w'h'o' 'h'a'd' 'c'o'm'e' 't'o' 'v'i's'i't' 'A'k'h't'a'r'.' 'I'n' 't'h'e' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f'
-'m'e'a'n'w'h'i'l'e' 'S'a'b'i'r' 'c'a'm'e' 'h'o'm'e' 'a'n'd' 'a'b'u's'e'd' 'm'u'r'd'e'r'?'
-'e'v'e'r'y' 'o'n'e' 't'h'e'r'e'.' 'H'e' 'u's'e'd' 'h'i'g'h'l'y' 'o'b'j'e'c't'i'o'n'-' 'D'e'c'i's'i'o'n':'
-'a'b'l'e' 'l'a'n'g'u'a'g'e' 'a'g'a'i'n's't' 'h'i's' 'o'w'n' 'f'a't'h'e'r' 'a's' '('a')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'w'e'l'l' 'a's' 'a'g'a'i'n's't' 'A'k'h't'a'r',' 'i'n' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' '('b')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'h'i's' 't'w'o' 'o't'h'e'r' 'b'r'o't'h'e'r's',' 'm'o't'h'e'r' 'a'n'd' 'o't'h'e'r' 'm'i'c'i'd'e' 'a's' 't'h'e' 'p'r'e's'e'n't' 'c'a's'e' 'i's' 'c'o'v'e'r'e'd'
-'n'e'i'g'h'r'b'o'u'r's'.' 'A'k'h't'a'r' 'w'a's' 'p'r'o'v'o'k'e'd' 'b'y' 'b'y' 'e'x'c'e'p't'i'o'n' '4' 't'o' 'S'e'c't'i'o'n' '3'0'0'.' 'B'e'-'
-'s'u'c'h' 'v'u'l'g'a'r' 'l'a'n'g'u'a'g'e' 'b'u't' 's't'i'l'l' 'k'e'p't' 'q'u'i'e't'.' 'c'a'u's'e' 't'h'e' 'a'c'c'u's'e'd' 'a'c't'e'd' 'i'n' 't'h'e' 'h'e'a't' 'o'f'
-'S'a'b'i'r',' 't'o' 't'e'a'c'h' 'A'k'h't'a'r' 'a' 'l'e's's'o'n',' 'g'r'a'p'p'l'e'd' 'm'o'm'e'n't' 'a'n'd' 'd'i'd'n'’'t' 's't'r'i'k'e' 't'h'e' 'd'i's'e'a's'e'd'
-'h'i'm' 'a'n'd' 'i'n' 't'h'e' 'f'i' 'g'h't' 'A'k'h't'a'r' 's't'r'u'c'k' 'S'a'b'i'r' 'w'i't'h' 's'h'a'r'p' 'e'd'g'e'd' 's'i'd'e'.'
-'t'w'i'c'e' 'w'i't'h' 'h'i's' 'k'n'i'f'e'.' '('c')' 'T'h'e'y' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's'
-'I's's'u'e':' 'W'h'e't'h'e'r' 'A'k'h't'a'r' 'a'c't'e'd' 'u'n'd'e'r' 'g'r'a'v'e' 'h'u'r't' 'b'e'c'a'u's'e' 't'h'e'y' 'a's's'a'u'l't'e'd' 'w'i't'h' 'b'l'u'n't'
-'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n' 'a'n'd' 't'h'u's' 'e'n't'i't'l'e'd' 's'i'd'e'.'
-'
-'4'9'.' 'F'a'c't's':' 'S'h'e'e'l'a' 'i'n'f'o'r'm'e'd' 'h'e'r' 'f'r'i'e'n'd' 'R'o'm'a' 'f'r'i'e'n'd')' 'a'n'd' 'h'e'r' 'p'l'a'n's' 'o'f' 'i'n'i't'i'a't'i'n'g' 'd'i'v'o'r'c'e'
-'t'h'a't' 'h'e'r' 'h'u's'b'a'n'd' 'R'a'm'u' 'w'a's' 's't'a'y'i'n'g' 'i'n' 'a' 'p'r'o'c'e'e'd'i'n'g's' 'a'n'd' 'm'a'r'r'i'a'g'e' 'w'i't'h' 'h'i'm',' 't'h'e'
-'l'o'c'a'l' '5' 's't'a'r' 'h'o't'e'l'.' 'R'o'm'a' 't'o'o'k' 'h'e'r' 'c'a'r' 'a'n'd' 'h'u's'b'a'n'd' 'w'a's' 'c'o'm'p'l'e't'e'l'y' 's'h'a't't'e'r'e'd'.' 'H'e'
-'l'e'f't' 'f'o'r' 't'h'e' 'h'o't'e'l' 'w'i't'h' 'a' 'r'e'v'o'l'v'e'r'.' 'R'o'm'a' 'b'o'l't'e'd' 'h'i'm's'e'l'f' 'i'n's'i'd'e' 'a' 'r'o'o'm' 'a'n'd' 'w'e'n't'
-'m'a'd'e' 'e'n'q'u'i'r'i'e's' 'f'r'o'm' 't'h'e' 'r'e'c'e'p't'i'o'n' 'a'n'd' 'w'i't'h'o'u't' 'f'o'o'd' 'o'r' 'w'a't'e'r' 'f'o'r' 'o'v'e'r' '1'2' 'h'o'u'r's'.'
-'c'a'm'e' 't'o' 'k'n'o'w' 't'h'e' 'r'o'o'm' 'n'u'm'b'e'r' 'w'h'e'r'e' 'h'e'r' 'H'o'w'e'v'e'r',' 'h'e' 'c'o'u'l'd' 't'a'k'e' 'i't' 'n'o' 'm'o'r'e' 'w'h'e'n'
-'h'u's'b'a'n'd' 'w'a's' 's't'a'y'i'n'g'.' 'R'o'm'a' 'e'n't'e'r'e'd' 't'h'e' 'h'i's' 'f'r'i'e'n'd' 'w'a's' 'h'e'a'r'd' 'c'h'a't't'i'n'g' 'w'i't'h' 'h'i's' 'w'i'f'e'
-'r'o'o'm' 'a'n'd' 's'a'w' 'h'e'r' 'h'u's'b'a'n'd' 'i'n' 'a' 'c'o'm'p'r'o'-' 't'h'e' 's'a'm'e' 'e'v'e'n'i'n'g'.' 'H'e' 'd'a's'h'e'd' 'o'u't' 'o'f' 't'h'e'
-'m'i's'i'n'g' 'p'o's'i't'i'o'n' 'w'i't'h' 'a' 'l'a'd'y'.' 'R'o'm'a' 'b'e'c'a'm'e' 'r'o'o'm' 'h'o'l'd'i'n'g' 'a' 'k'h'u'k'a'r'i' 'a'n'd' 'c'h'a's'e'd' 'h'i'm','
-'a'n'g'r'y' 'a'n'd' 'f'i' 'r'e'd' 'a' 's'h'o't' 'a't' 'h'e'r' 'h'u's'b'a'n'd' 'f'r'o'm' 'a'n'd' 'f'i' 'n'a'l'l'y' 's't'a'b'b'i'n'g' 'h'i'm' 's'e'v'e'r'a'l' 't'i'm'e's' 'i'n'
-'h'e'r' 'r'e'v'o'l'v'e'r',' 'b'u't' 'i't' 'm'i's's'e'd' 'a'n'd' 'k'i'l'l'e'd' 't'h'e' 'c'h'e's't' 'r'e'g'i'o'n'.' 'O'n' 'h'i's' 'p'r'o's'e'c'u't'i'o'n' 'f'o'r' 'm'u'r'-'
-'l'a'd'y' 's'i't't'i'n'g' 'w'i't'h' 'R'a'm'u'.' 'R'o'm'a' 'p'l'e'a'd'e'd' 't'h'e' 'd'e'r',' 'c'a'n' 'h'e' 't'a'k'e' 't'h'e' 'p'l'e'a' 'o'f' 'a'c't'i'n'g' 'u'n'd'e'r'
-'d'e'f'e'n'c'e' 'o'f' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'?'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'m'u'r'd'e'r'?' 'm'u'r'd'e'r'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' '('a')' 'H'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'H'e' 'c'a'n' 'b'e'
-'a's' 's'h'e' 'a'c't'e'd' 'u'n'd'e'r' 's'u'd'd'e'n' 'a'n'd' 'g'r'a'v'e' 'b'e'n'e'f'i' 't'e'd' 'w'i't'h' 't'h'e' 'e'x'c'e'p't'i'o'n' 'o'f' 'g'r'a'v'e'
-'p'r'o'v'o'c'a't'i'o'n'.' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'B'e'c'a'u's'e'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'b'e'-' 'w'h'a't'e'v'e'r' 'h'e' 'd'i'd',' 'h'e' 'd'i'd' 'i'n' 'a' 's'h'o'c'k'e'd'
-'c'a'u's'e' 't'h'e' 'p'r'o'v'o'c'a't'i'o'n' 'w'a's' 'g'r'a'v'e' 'b'u't' 's't'a't'e' 'o'f' 'm'i'n'd'.'
-'n'o't' 's'u'd'd'e'n',' 'b'e'c'a'u's'e' 't'h'e' 'a'c't'i'o'n' 'o'f' 't'h'e' '('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'B'e'c'a'u's'e' 'h'e'
-'a'c'c'u's'e'd' 'w'a's' 'd'e'l'i'b'e'r'a't'e' 'a'n'd' 'p'r'e'm'e'd'i'-' 'k'i'l'l'e'd' 't'h'e' 'd'e'c'e'a's'e'd' 'o'u't' 'o'f' 'r'e't'a'l'i'a't'i'o'n'.'
-'t'a't'e'd'.' '('c')' 'H'e' 'c'a'n' 'b'e' 'a'c'q'u'i't't'e'd' 'g'i'v'i'n'g' 'h'i'm' 'a' 'b'e'n'-'
-'('c')' 'S'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'b'e'-' 'e'f'i' 't' 'o'f' 'd'o'u'b't'.'
-'c'a'u's'e' 'n'o' 'w'i'f'e' 'c'a'n' 't'o'l'e'r'a't'e' 't'h'e' 'a'd'u'l't'e'r'-' '5'2'.' 'F'a'c't's':' 'A' 'w'a's' 'v'e'r'y' 'f'o'n'd' 'o'f' 'h'i's' 'w'i'f'e',' 'B'.'
-'o'u's' 'c'h'a'r'a'c't'e'r' 'o'f' 'h'e'r' 'h'u's'b'a'n'd'.' 'H'o'w'e'v'e'r',' 'B' 'h'a'd' 'a' 'p'a'r'a'm'o'u'r',' 'C'.' 'O'n'e' 'd'a'y'
-'5'0'.' 'F'a'c't's':' 'O'n' 'A'’'s' 'r'e'a'c'h'i'n'g' 'h'o'm'e' 'a'f't'e'r' 'a' 'l'o'n'g' 'A' 's'a'w' 'B' 'i'n' 'a' 'c'o'm'p'r'o'm'i's'i'n'g' 'p'o's'i't'i'o'n' 'w'i't'h'
-'a'b's'e'n'c'e' 'h'i's' 'w'i'f'e' 'c'o'n'f'e's's'e'd' 't'h'a't' 's'h'e' 'h'a'd' 'C'.' 'A' 'c'o'n't'r'o'l'l'e'd' 'h'i's' 'e'm'o't'i'o'n's' 'a'n'd' 'd'i'd' 'n'o't'
-'d'e'v'e'l'o'p'e'd' 'i'n't'i'm'a'c'y' 'w'i't'h' 'h'i's' 'f'r'i'e'n'd' 'a'n'd' 'r'e'a'c't'.' 'H'e' 'd'e'c'i'd'e'd' 't'o' 's'e't't'l'e' 'd'o'w'n' 'w'i't'h' 'B'
-'w'a's' 'c'a'r'r'y'i'n'g' 'h'i's' 'c'h'i'l'd' 'i'n' 'h'e'r' 'w'o'm'b'.' 'A' 'w'a's' 'i'n' 'a' 'f'a'r' 'f'l' 'u'n'g' 'a'r'e'a'.' 'O'n'e' 'd'a'y' 'w'h'e'n' 'h'e' 'w'a's'
-'s'h'o'c'k'e'd' 'b'u't' 'd'i'd' 'n'o't' 'd'i's'p'l'a'y' 'a'n'y' 'e'x't'e'r'n'a'l' 'c'o'm'i'n'g' 'b'a'c'k' 'h'o'm'e' 'a't' 't'h'e' 'n'e'w' 'p'l'a'c'e' 'h'e' 's'a'w'
-'s'i'g'n's' 'o'f' 'h'i's' 's'h'o'c'k'.' 'H'o'w'e'v'e'r',' 'h'e' 'd'i'd' 'n'e'i'-' 'C' 'c'o'm'i'n'g' 'o'u't' 'o'f' 'h'i's' 'n'e'w' 'h'o'u's'e'.' 'H'e' 's'a'w' 'C'
-'t'h'e'r' 'e'a't' 'n'o'r' 'd'r'i'n'k' 'a'n'y't'h'i'n'g' 'n'o'r' 't'a'l'k'e'd' 't'o' 'w'a's' 'w'e'a'r'i'n'g' 'h'i's' 'w'a't'c'h' 'w'h'i'c'h' 'h'e' 'h'a'd' 'r'e'-'
-'a'n'y' 'o'n'e' 't'h'e'r'e'a'f't'e'r'.' 'T'h'r'e'e' 'h'o'u'r's' 'a'f't'e'r' 't'h'e' 'c'e'i'v'e'd' 'a's' 'a' 'g'i'f't' 'f'r'o'm' 'h'i's' 'w'i'f'e' 'B'.' 'A' 'i'm'm'e'-'
-'i'n'c'i'd'e'n't',' 'A' 'd'r'o'v'e' 'h'i's' 'w'i'f'e' 't'o' 'h'e'r' 'm'o't'h'e'r's' 'd'i'a't'e'l'y' 'a't't'a'c'k'e'd' 'C' 'w'i't'h' 'h'i's' 'k'n'i'f'e' 'w'h'i'c'h' 'h'e'
-'h'o'u's'e' 'a'n'd' 'l'e'f't' 'h'e'r' 't'h'e'r'e'.' 'F'r'o'm' 't'h'e'r'e' 'h'e' 'w'a's' 'c'a'r'r'y'i'n'g' 'i'n' 'h'i's' 'p'o'c'k'e't' 'a'n'd' 'c'a'u's'e'd' 'C'’'s'
-'w'e'n't' 't'o' 'h'i's' 'f'r'i'e'n'd's' 'h'o'u's'e' 'a'n'd' 'o'n' 'h'i's' 'o'p'e'n'-' 'd'e'a't'h' 'b'y' 'a't't'a'c'k'i'n'g' 'v'i't'a'l' 'p'a'r't's' 'o'f' 'C'’'s' 'b'o'd'y'.'
-'i'n'g' 't'h'e' 'd'o'o'r' 's'h'o't' 'h'i'm' 'w'i't'h'o'u't' 'a'n'y' 'a'r'g'u'-' 'O'n' 'h'i's' 'p'r'o's'e'c'u't'i'o'n' 'f'o'r' 'm'u'r'd'e'r',' 'c'a'n' 'h'e' 't'a'k'e'
-'m'e'n't'.' 'C'a'n' 'A' 's'u'c'c'e's's'f'u'l'l'y' 'p'l'e'a'd' 'g'r'a'v'e' 'a'n'd' 't'h'e' 'p'l'e'a' 'o'f' 'a'c't'i'n'g' 'u'n'd'e'r' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n'
-'s'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n' 'm'i't'i'g'a't'i'o'n'.' 'p'r'o'v'o'c'a't'i'o'n'?'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 't'h'e' 'g'u'i'l't'y'
-'m'u'r'd'e'r'?' 'o'f' 'm'u'r'd'e'r'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'b'e'-' '('a')' 'N'o',' 'h'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'B'e'-'
-'c'a'u's'e' 'h'e' 'c'a'n'’'t' 't'a'k'e' 'b'e'n'e'f'i' 't' 'o'f' 'g'r'a'v'e' 'c'a'u's'e' 't'h'e' 'c'o'n'd'u'c't' 'o'f' 'w'i'f'e' 'w'a's' 'u'n'-'
-'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n' 'b'e'c'a'u's'e' 't'h'e' 'p'a'r'd'o'n'a'b'l'e' 'a'n'd' 's'h'e' 'c'r'e'a't'e'd' 't'h'e' 's'a'm'e'
-'p'r'o'v'o'c'a't'i'o'n' 'w'a's' 'g'r'a'v'e' 'b'u't' 'n'o't' 's'u'd'-' 'c'i'r'c'u'm's't'a'n'c'e's' 't'i'm'e' 'a'n'd' 'a'g'a'i'n' 'w'h'i'c'h'
-'d'e'n'.' 'g'a'v'e' 'r'i's'e' 't'o' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'-'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-' 'c'a't'i'o'n'.' 'T'h'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e' 'a'r'e' 's'e'l'f'
-'m'i'c'i'd'e'.' 's'p'e'a'k'i'n'g' 't'r'u't'h'.'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'i'n'n'o'c'e'n't'.' '('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'5'1'.' 'F'a'c't's':' 'O'n' 'h'e'a'r'i'n'g' 'f'r'o'm' 'h'i's' 'w'i'f'e' 'a'b'o'u't' '('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'h'e'r' 'i'n't'i'm'a'c'y' 'w'i't'h' 'a'n'o't'h'e'r' 'm'a'n' '('h'i's' 'b'e's't' '5'3'.' 'F'a'c't's':' 'C' 'w'a's' 'e'n'g'a'g'e'd' 't'o' 'b'e' 'm'a'r'r'i'e'd' 'w'i't'h'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '6'3'
-'D'.' 'O'n'c'e' 'C' 's'a'w' 'D' 'f'l' 'i'r't'i'n'g' 'w'i't'h' 'G',' 'a'n'o't'h'e'r' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'g'i'r'l'.' 'C' 'i'n'q'u'i'r'e'd',' 'b'u't' 'D' 'i'g'n'o'r'e'd'.' 'C' 'b'e'c'a'm'e' 'm'u'r'd'e'r'?'
-'t'e'r'r'i'b'l'y' 'u'p's'e't'.' 'S'u's'p'e'c't'i'n'g' 'i'l'l'i'c'i't' 'l'i'a'i's'o'n' 'b'e'-' 'D'e'c'i's'i'o'n':'
-'t'w'e'e'n' 'D' 'a'n'd' 'G',' 'a' 'w'e'e'k' 'l'a't'e'r',' 'C' 'w'e'n't' 't'o' '('a')' 'B' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'B'e'c'a'u's'e' 's't'r'a'n'-'
-'D'’'s' 'f'l' 'a't'.' 'P'e'e'p'i'n'g' 't'h'r'o'u'g'h' 't'h'e' 'd'o'o'r'’'s' 'c'h'i'n'k',' 'g'u'l'a't'i'n'g' 'a'n'y' 'o'n'e' 'o'n' 's'u'c'h' 'f'l' 'i'm's'y'
-'s'h'e' 'w'a's' 's'h'o'c'k'e'd' 't'o' 's'e'e' 'D' 'a'n'd' 'G' 'i'n' 'f'l' 'a'-' 'g'r'o'u'n'd's' 'i's' 's'u'f'f'i' 'c'i'e'n't' 'e'v'i'd'e'n'c'e'.'
-'g'r'a'n't'e' 'd'e'l'i'c't'o'.' 'O'n' 'D'’'s' 'o'p'e'n'i'n'g' 't'h'e' 'd'o'o'r',' '('b')' 'B' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'C' 'i'm'm'e'd'i'a't'e'l'y' 't'o'o'k' 'o'u't' 'a' 'p'e'n'k'n'i'f'e' 'w'h'i'c'h' '('c')' 'B' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('d')' 'B' 'c'a'n' 'b'e' 'a'c'q'u'i't't'e'd' 'g'i'v'i'n'g' 'h'i'm' 'b'e'n'e'f'i' 't'
-'s'h'e' 'h'a'b'i't'u'a'l'l'y' 'u's'e'd' 't'o' 'c'a'r'r'y' 'a'l'o'n'g' 'a'n'd' 'a't'-'
-'o'f' 'd'o'u'b't'.'
-'t'a'c'k'e'd' 'h'i'm'.'
-'5'6'.' 'F'a'c't's':' 'O'n' 'l'e'a'r'n'i'n'g' 'a'b'o'u't' 'h'i's' 'w'i'f'e'’'s' 'e'x't'r'a'-'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 't'h'e' 'g'u'i'l't'y'
-'m'a'r'i't'a'l' 'a'f'f'a'i'r' 'w'i't'h' 'h'i's' 'b'e's't' 'f'r'i'e'n'd'.' 'A' 'w'e'n't'
-'o'f' 'm'u'r'd'e'r'?'
-'i'n't'o' 'a' 's't'a't'e' 'o'f' 's'h'o'c'k'.' 'H'e' 'd'i'd' 'n'o't' 'h'a'v'e' 'f'o'o'd'
-'D'e'c'i's'i'o'n':'
-'t'h'a't' 'a'f't'e'r'n'o'o'n' 'a'n'd' 'd'i'd' 'n'e'i't'h'e'r' 't'a'l'k' 't'o' 'a'n'y'-'
-'('a')' 'C' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 't'h'e' 'r'e'p'o'r't's'
-'o'n'e' 'n'o'r' 'w'a't'c'h'e'd' 'h'i's' 'f'a'v'o'u'r'i't'e' 'd'a'y' 't'i'm'e' 'T'V'
-'o'f' 't'h'e' 'd'o'c't'o'r' 's'a'y' 't'h'a't' 't'h'e' 'i'n'j'u'r'i'e's' 'i'n'-'
-'s'e'r'i'a'l'.' 'S'h'o'r't'l'y' 'a'f't'e'r' 'f'o'r'e'n'o'o'n',' 'A' 'w'a's' 's'e'e'n'
-'f'l' 'i'c't'e'd' 'w'e'r'e' 's'u'f'f'i' 'c'i'e'n't' 'i'n' 't'h'e' 'o'r'd'i'n'a'r'y'
-'o'n' 'h'i's' 'f'r'i'e'n'd's' 'f'l' 'a't',' 'w'h'e'r'e' 'h'e' 'i's' 'a'l'l'e'g'e'd' 't'o'
-'c'o'u'r's'e' 'o'f' 'n'a't'u'r'e' 't'o' 'c'a'u's'e' 't'h'e' 'd'e'a't'h'.'
-'h'a'v'e' 's'h'o't' 'h'i'm' 'd'e'a'd' 'w'i't'h'o'u't' 'u't't'e'r'i'n'g' 'a' 's'i'n'-'
-'M'o'r'e'o'v'e'r' 's'h'e' 'w'a's' 'n'o't' 'l'e'g'a'l'l'y' 'w'e'd'd'e'd'
-'g'l'e' 'w'o'r'd'.' 'A' 'i's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'h'e' 'm'u'r'd'e'r'
-'w'i'f'e'.'
-'o'f' 'B'.' 'G'i'v'e' 'a'r'g'u'm'e'n't's' 'i'n' 'A'’'s' 'd'e'f'e'n'c'e'.'
-'('b')' 'C' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'('c')' 'C' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'm'u'r'd'e'r'?'
-'('d')' 'C' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 'D'e'c'i's'i'o'n':'
-'5'4'.' 'F'a'c't's':' 'X' 'a'n'd' 'Y',' 't'w'o' 'b'r'o't'h'e'r's',' 'l'i'v'e' 's'e'p'a'-' '('a')' 'T'h'e' 'c'a's'e' 'i's' 'c'l'e'a'r' 'c'u't' 'c'a't'e'g'o'r'y' 'o'f' 'g'r'a'v'e'
-'r'a't'e'l'y'.' 'T'h'e' 'p'a'r'e'n't's' 'l'i'v'e' 'w'i't'h' 'X',' 'Y' 'o'f't'e'n' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'T'h'e' 'a'c'c'u's'e'd'
-'c'o'm'e's' 't'o' 'X'’'s' 'p'l'a'c'e' 'a'n'd' 'a'b'u's'e's' 'h'i's' 'p'a'r'e'n't's' 'c'a'n'n'o't' 'b'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'i'n' 'h'i's' 'p'r'e's'e'n'c'e'.' 'O'n'e' 'd'a'y' 'w'h'e'n' 'X'’'s' 'f'a't'h'e'r' '('b')' 'T'h'e' 'a'c'c'u's'e'd' 'c'a'n' 'b'e' 'h'e'l'd' 'g'u'i'l't'y' 'o'f' 'c'u'l'-'
-'i'n' 'l'a'w',' 'K' 'a'n'd' 'h'i's' 'f'r'i'e'n'd' 'P',' 'w'e'r'e' 'p'r'e's'e'n't'.' 'Y' 'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'B'e'c'a'u's'e' 't'h'e' 'p'r'o'v'o'c'a'-'
-'c'a'm'e' 't'h'e'r'e' 'a'n'd' 's't'a'r't'e'd' 'a'b'u's'i'n'g' 'h'i's' 'p'a'r'e'n't's'.' 't'i'o'n' 'w'a's' 'g'r'a'v'e' 'b'u't' 'n'o't' 's'u'd'd'e'n' 'a'n'd' 't'h'e'
-'X' 'w'h'o' 'h'a'd' 'n'o't' 's'a'i'd' 'a'n'y't'h'i'n'g' 't'o' 'Y' 'e'a'r'l'i'e'r',' 'a'c't'i'o'n' 'w'a's' 'd'e'l'i'b'e'r'a't'e' 'a'n'd' 'p'r'e'm'e'd'i't'a't'-'
-'g'o't' 'e'n'r'a'g'e'd' 'b'e'c'a'u's'e' 'o'f' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 'K' 'e'd'.'
-'a'n'd' 'P' 'a'n'd' 'p'i'c'k'e'd' 'u'p' 'a' 'k'n'i'f'e' 'l'y'i'n'g' 'n'e'a'r'b'y' '('c')' 'T'h'e' 'c'a's'e' 'i's' 'n'o't' 'c'o'v'e'r'e'd' 'u'n'd'e'r' 'a'n'y'
-'a'n'd' 'k'i'l'l'e'd' 'Y'.' 'X' 'i's' 'c'h'a'r'g'e'd' 'f'o'r' 'm'u'r'd'e'r'.' 'H'e' 'p'r'o'v'i's'i'o'n' 'o'f' 'm'u'r'd'e'r' 'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'p'l'e'a'd's' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n' 'i'n' 'm'i'c'i'd'e'.'
-'h'i's' 'd'e'f'e'n'c'e'.' '5'7'.' 'F'a'c't's':' 'A',' 'a'n' 'a'r'm'y' 'p'e'r's'o'n'n'e'l',' 'w'a's' 'p'o's't'e'd'
-'i'n' 'K'a'r'g'i'l',' 'a' 'n'o'n'-'f'a'm'i'l'y' 's't'a't'i'o'n' 'h'a'v'i'n'g' 'd'i'f'-'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 't'h'e' 'g'u'i'l't'y'
-'f'i' 'c'u'l't' 'c'o'n'd'i't'i'o'n's',' 'f'o'r' 't'h'e' 'l'a's't' 'o'n'e' 'y'e'a'r'.' 'N'o'w'
-'o'f' 'm'u'r'd'e'r'?'
-'s'i'n'c'e' 'n'o'r'm'a'l'i'z'a't'i'o'n' 'p'r'o'c'e's's' 'h'a'd' 's't'a'r't'e'd' 'A'
-'D'e'c'i's'i'o'n':'
-'w'a'n't'e'd' 't'o' 'g'o' 'o'n' 't'e'n' 'd'a'y's' 'l'e'a'v'e' 't'o' 'a't't'e'n'd'
-'('a')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'b'e'c'a'u's'e' 't'h'e' 'f'a'c't's'
-'h'i's' 'b'r'o't'h'e'r' 'm'a'r'r'i'a'g'e'.' 'H'e' 'p'l'e'a'd'e'd' 'f'e'r'v'e'n't'l'y'
-'o'f' 't'h'e' 'c'a's'e' 'd'o' 'n'o't' 'm'i't'i'g'a't'e' 't'h'e' 'c'u'l'p'a'-'
-'w'i't'h' 'h'i's' 's'u'p'e'r'i'o'r' 'o'f'f'i' 'c'e'r',' 'B',' 't'o' 'g'r'a'n't' 'h'i'm'
-'b'i'l'i't'y' 'o'f' 'X'.'
-'t'e'n' 'd'a'y's' 'l'e'a'v'e'.' 'B'u't' 'B' 'w'a's' 'a'd'a'm'a'n't' 'a'n'd'
-'('b')' 'X' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'B'e'c'a'u's'e' 't'h'e'
-'w'a's' 'n'o't' 'p'r'e'p'a'r'e'd' 't'o' 'g'r'a'n't' 'm'o'r'e' 't'h'a'n' 's'e'v'e'n'
-'m'i't'i'g'a't'i'n'g' 'c'i'r'c'u'm's't'a'n'c'e's' 'o'f' 't'h'e' 'c'a's'e'
-'d'a'y's' 'l'e'a'v'e'.' 'F'r'u's't'r'a't'e'd' 'b'y' 't'h'e' 'r'e'f'u's'a'l' 'A'
-'a'r'e' 'e'n'o'u'g'h' 't'o' 'e'n't'i't'l'e' 't'h'e' 'a'c'c'u's'e'd' 't'o'
-'t'o'o'k' 'o'u't' 'h'i's' 's'e'r'v'i'c'e' 'r'e'v'o'l'v'e'r' 'a'n'd' 's'h'o't' 'B' 'a't'
-'g'e't' 't'h'e' 'b'e'n'e'f'i' 't' 'o'f' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n'
-'p'o'i'n't' 'b'l'a'n'k' 'r'a'n'g'e'.' 'A' 'w'a'n't's' 'y'o'u' 't'o' 'd'e'f'e'n'd'
-'p'r'o'v'o'c'a't'i'o'n'.'
-'h'i'm'.' 'G'i'v'e' 'a'r'g'u'm'e'n't's' 'i'n' 'A'’'s' 'd'e'f'e'n'c'e'.'
-'('c')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'('d')' 'X' 'c'a'n' 'b'e' 'a'c'q'u'i't't'e'd' 'g'i'v'i'n'g' 'h'i'm' 'b'e'n'e'f'i' 't' 'm'u'r'd'e'r'?'
-'o'f' 'd'o'u'b't'.' 'D'e'c'i's'i'o'n':'
-'5'5'.' 'F'a'c't's':' 'A'’'s' 'c'a'r' 's'l'i'g'h't'l'y' 's'c'r'a't'c'h'e'd' 'B'’'s' 'c'a'r' '('a')' 'T'h'e' 'c'a's'e' 'i's' 'n'o't' 'c'o'v'e'r'e'd' 'u'n'd'e'r' 'g'r'a'v'e'
-'o'n' 'a' 'r'e'd' 'l'i'g'h't'.' 'B' 's'h'o'u't'e'd' 'a'n'd' 'g'r'a'b'b'e'd' 'A' 'b'y' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'T'h'e' 'a'c'c'u's'e'd'
-'t'h'e' 'n'e'c'k' 'a'n'd' 'a' 'f'i' 'g'h't' 'e'n's'u'e'd' 'b'e't'w'e'e'n' 't'h'e'm'.' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'M'e'r'e' 'r'e'f'u's'a'l' 'o'f'
-'I'n' 't'h'e' 'h'e'a't' 'o'f' 'p'a's's'i'o'n',' 'B' 's't'r'a'n'g'u'l'a't'e'd' 'A' 't'o' 'l'e'a'v'e' 'i's' 'n'o' 'g'r'o'u'n'd' 't'o' 'g'i'v'e' 's'o'm'e' 'o'n'e'
-'d'e'a't'h'.' 'B' 'i's' 'b'e'i'n'g' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'm'u'r'd'e'r'.' 'p'o'w'e'r' 't'o' 'k'i'l'l' 's'o'm'e'o'n'e'.'
-'
-'('b')' 'I't' 'i's' 'a' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'B'e'c'a'u's'e' 't'h'e' 'c'u's'e'd' 'p'l'e'a'd's' '‘'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a'-'
-'a'c'c'u's'e'd' 'd'i'd' 'i'n' 't'h'e' 'h'e'a't' 'o'f' 'p'a's's'i'o'n'.' 't'i'o'n'’' 'i'n' 'h'i's' 'd'e'f'e'n'c'e'.' 'P'r'o's'e'c'u't'i'o'n' 'p'l'e'a'd's' 'o'n'
-'('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-' 't'h'e' 'o't'h'e'r' 's'i'd'e' 't'h'e' 'l'a'p's'e' 'o'f' 'i'n't'e'r'v'a'l' 'b'e't'w'e'e'n'
-'m'i'c'i'd'e'.' 'a'c't' 'a'n'd' 'c'o'n's'e'q'u'e'n'c'e's'.'
-'5'8'.' 'F'a'c't's':' 'X' 'a'n'd' 'Y' 'w'e'r'e' 'h'a'p'p'i'l'y' 'm'a'r'r'i'e'd',' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'l'i'v'i'n'g' 'i'n' 'B'o'm'b'a'y'.' 'M',' 'a'n' 'o'l'd' 'c'l'a's's'm'a't'e' 'o'f' 'm'u'r'd'e'r'?'
-'Y',' 'w'a's' 't'r'a'n's'f'e'r'r'e'd' 't'o' 'B'o'm'b'a'y'.' 'H'e' 's't'a'r't'e'd' 'D'e'c'i's'i'o'n':'
-'v'i's'i't'i'n'g' 'X' 'a'n'd' 'Y' 'a't' 't'h'e'i'r' 'f'l' 'a't' 'a'n'd' 'b'e'c'a'm'e' '('a')' 'T'h'e' 'c'a's'e' 'i's' 'c'o'v'e'r'e'd' 'b'y' 'E'x'c'e'p't'i'o'n' '1' 't'o'
-'q'u'i't'e' 'f'r'i'e'n'd'l'y' 'w'i't'h' 'X' 'a'l's'o'.' 'O'n'e' 'a'f't'e'r'n'o'o'n' 'S'e'c't'i'o'n' '3'0'0' 'n'o't'w'i't'h's't'a'n'd'i'n'g' 't'h'e' 'f'a'c't'
-'X' 'q'u'i't'e' 'u'n'e'x'p'e'c't'e'd'l'y' 'c'a'm'e' 'b'a'c'k' 'f'r'o'm' 'h'i's' 'o'f' 't'i'm'e' 'g'a'p' 'b'e't'w'e'e'n' 't'h'e' 's'e'e'i'n'g' 'o'f' 't'h'e'
-'o'f'f'i' 'c'e' 'a'n'd' 't'o' 'h'i's' 'u't't'a'r' 's'h'o'c'k' 'a'n'd' 'd'i's'b'e'l'i'e'f' 'a'c't' 'o'f' 'a'd'u'l't'e'r'y' 'a'n'd' 't'h'e' 'k'i'l'l'i'n'g' 'o'f' 'B'.' 'A'
-'h'e' 'f'o'u'n'd' 'h'i's' 'w'i'f'e' 'a'n'd' 'M' 'i'n' 'a' 'c'o'm'p'r'o'-' 'h'a'v'i'n'g' 'a'c't'e'd' 'u'n'd'e'r' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n'
-'m'i's'i'n'g' 'p'o's'i't'i'o'n'.' 'H'e',' 'h'o'w'e'v'e'r',' 'c'o'n't'r'o'l'l'e'd' 'p'r'o'v'o'c'a't'i'o'n' 'w'a's' 'g'u'i'l't'y' 'u'n'd'e'r' 'S'e'c't'i'o'n'
-'h'i'm's'e'l'f' 'a'n'd' 'k'e'p't' 'h'i's' 'c'o'o'l' 'a'n'd' 'a's'k'e'd' 'M' '3'0'4'.'
-'n'e'v'e'r' 't'o' 's'a'w' 'h'i's' 'f'a'c'e' 'a'g'a'i'n' 'l'e's't' 'h'e' 'w'o'u'l'd' '('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 't'h'e'
-'k'i'l'l' 'h'i'm'.' 'A'f't'e'r' 'a'b'o'u't' 'a' 'w'e'e'k' 'X' 'l'e'f't' 'o'n' 'a' 'c'a's'e' 'i's' 'n'o't' 'c'o'v'e'r'e'd' 'u'n'd'e'r' 't'h'e' 'E'x'c'e'p'-'
-'t'o'u'r' 't'e'l'l'i'n'g' 'h'i's' 'w'i'f'e' 't'h'a't' 'h'e' 'w'o'u'l'd' 'b'e' 'b'a'c'k' 't'i'o'n' '1' 't'o' 'S'e'c't'i'o'n' '3'0'0'.'
-'a'f't'e'r' 'f'o'u'r' 'd'a'y's'.' 'H'e',' 'h'o'w'e'v'e'r',' 'r'e't'u'r'n'e'd' 't'h'e' '('c')' 'T'h'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e' 'a'r'e' 'c'o'n'f'u's'i'n'g' 's'o'
-'v'e'r'y' 'n'e'x't' 'd'a'y' 'i'n' 't'h'e' 'e'v'e'n'i'n'g' 'a'n'd' 'f'o'u'n'd' 'M' 'n'o' 'c'o'n'c'l'u's'i'o'n' 'c'a'n' 'b'e' 'd'r'a'w'n'.'
-'a'n'd' 'Y' 's'i't't'i'n'g' 't'o'g'e't'h'e'r' 'o'n' 't'h'e' 's'o'f'a' 'i'n' 't'h'e' '6'0'.' 'F'a'c't's':' 'I'n' 't'h'e' 'p'a's't',' 't'h'e'r'e' 'u's'e'd' 'b'e' 'q'u'a'r'r'e'l'
-'d'r'a'w'i'n'g' 'r'o'o'm' 'w'i't'h' 'M'’'s' 'h'a'n'd' 'a'r'o'u'n'd' 'Y'’'s' 'b'e't'w'e'e'n' 't'h'e' 'a'c'c'u's'e'd' 'A' 'a'n'd' 'h'i's' 'd'e'c'e'a's'e'd'
-'s'h'o'u'l'd'e'r'.' 'X' 's't'r'a'i'g'h't'w'a'y' 'w'e'n't' 't'o' 'h'i's' 'b'e'd'-' 'u'n'c'l'e' 'D'.' 'O'n' 't'h'e' 'd'a't'e' 'o'f' 'o'c'c'u'r'r'e'n'c'e' 'D' 'a'p'-'
-'r'o'o'm',' 't'o'o'k' 'o'u't' 'h'i's' 'p'i's't'o'l' 'f'r'o'm' 't'h'e' 'a'l'm'i'r'a'h',' 'p'r'o'a'c'h'e'd' 'A' 'd'r'u'n'k' 'a'n'd' 'a'b'u's'e'd' 'h'i'm' 'i'n' 'f'i' 'l't'h'y'
-'c'a'm'e' 'b'a'c'k' 't'o' 't'h'e' 'd'r'a'w'i'n'g' 'r'o'o'm' 'a'n'd' 's'h'o't' 'l'a'n'g'u'a'g'e' 't'h'u's',' 's'u'b'j'e'c't'i'n'g' 'A' 't'o' 'g'r'a'v'e' 'a'n'd'
-'M' 'd'e'a'd'.' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'A' 'r'e'a'c't'e'd' 'i'm'm'e'd'i'-'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'a't'e'l'y' 'w'i't'h' 'a' 's't'i'c'k' 't'h'a't' 'w'a's' 'i'n' 'h'i's' 'h'a'n'd' 'a'n'd'
-'m'u'r'd'e'r'?' 'k'i'l'l'e'd' 'D'.' 'W'h'e't'h'e'r' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'?'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'm'u'r'd'e'r'?'
-'T'h'e' 'c'a's'e' 'i's' 'c'o'v'e'r'e'd' 'b'y' 'E'x'c'e'p't'i'o'n' '1' 't'o' 'D'e'c'i's'i'o'n':'
-'S'e'c't'i'o'n' '3'0'0'.' 'T'h'e' 'm'e'n't'a'l' 'b'a'c'k'g'r'o'u'n'd' '('a')' 'T'h'e' 'c'a's'e' 'i's' 'c'o'v'e'r'e'd' 'b'y' 'E'x'c'e'p't'i'o'n' '1' 'o'r'
-'c'r'e'a't'e'd' 'b'y' 't'h'e' 'p'r'e'v'i'o'u's' 'a'c't' 'o'f' 't'h'e' 'v'i'c'-' '4' 'o'f' 'S'e'c't'i'o'n' '3'0'0'.' 'T'h'e'r'e' 'w'a's' 'n'o' 'p'r'e'p'a'-'
-'t'i'm' 'm'a'y' 'b'e' 't'a'k'e'n' 'i'n't'o' 'c'o'n's'i'd'e'r'a't'i'o'n' 'r'a't'i'o'n' 'a'n'd' 'p'r'i'o'r' 'd'e'l'i'b'e'r'a't'i'o'n'.' 'T'h'e' 'r'e'-'
-'f'o'r' 'a's'c'e'r't'a'i'n'i'n'g' 'w'h'e't'h'e'r' 't'h'e' 's'u'b's'e'-' 'a'c't'i'o'n' 'w'a's' 'a's' 's'u'd'd'e'n' 'a's' 't'h'e' 'p'r'o'v'o'c'a'-'
-'q'u'e'n't' 'a'c't' 'c'a'u's'e'd' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 't'i'o'n'.'
-'p'r'o'v'o'c'a't'i'o'n'.' '('b')' 'C'a's'e' 'i's' 'n'o't' 'c'o'v'e'r'e'd' 'b'y' 'E'x'c'e'p't'i'o'n' '1'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'o'r' '4' 'o'f' 'S'e'c't'i'o'n' '3'0'0'.' 'S'o' 't'h'e' 'a'c'c'u's'e'd' 'i's'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'m'i'c'i'd'e'.' '('c')' 'I't' 'i's' 'n'e'i't'h'e'r' 'm'u'r'd'e'r' 'n'o'r' 'c'u'l'p'a'b'l'e' 'h'o'-'
-'5'9'.' 'F'a'c't's':' 'A' 'a'n'd' 'h'i's' 'f'r'i'e'n'd' 'B' 'w'e'r'e' 's'l'e'e'p'i'n'g' 'm'i'c'i'd'e'.'
-'i'n' 'o'n'e' 'r'o'o'm' 'a'n'd' 'A'’'s' 'w'i'f'e' 'i'n' 't'h'e' 'a'd'j'o'i'n'i'n'g' '6'1'.' 'F'a'c't's':' 'B' 'h'a'd' 't'e'a's'e'd' 'A'’'s' 's'i's't'e'r'.' 'C'o'm'i'n'g' 't'o'
-'r'o'o'm'.' 'S'o'm'e't'i'm'e' 'i'n' 't'h'e' 'n'i'g'h't' 'B' 'g'o't' 'u'p' 'a'n'd' 'k'n'o'w' 'o'f' 'i't',' 'A' 't'o'o'k' 'a' 's'w'o'r'd' 'a'n'd' 'w'e'n't' 't'o' 'B'’'s'
-'w'e'n't' 'i'n't'o' 't'h'e' 'a'd'j'o'i'n'i'n'g' 'r'o'o'm' 'a'n'd' 'b'o'l't'e'd' 'r'e's'i'd'e'n'c'e'.' 'B',' 'h'i's' 'm'o't'h'e'r' 'a'n'd' 's'i's't'e'r' 'w'e'r'e'
-'t'h'e' 'd'o'o'r' 'b'e'h'i'n'd' 'h'i'm'.' 'A' 'a'l's'o' 'g'o't' 'u'p' 'a'n'd' 'p'r'e's'e'n't' 'i'n' 't'h'e' 'h'o'u's'e' 'w'h'e'n' 'A' 'r'e'a'c'h'e'd' 't'h'e'r'e'
-'p'e'e'p'i'n'g' 't'h'r'o'u'g'h' 'a' 'c'h'i'n'k' 'i'n' 't'h'e' 'd'o'o'r' 's'a'w' 'a'n'd' 's't'a'r't'e'd' 'a'b'u's'i'n'g' 't'h'e'm'.' 'H'e' 's'a'i'd' 't'h'a't' 'h'e'
-'B' 'a'n'd' 'A'’'s' 'w'i'f'e' 'h'a'v'i'n'g' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e'.' 'w'o'u'l'd' 'f'o'r'c'i'b'l'y' 't'a'k'e' 'a'w'a'y' 'B'’'s' 's'i's't'e'r'.' 'B'’'s'
-'A' 'r'e't'u'r'n'e'd' 't'o' 't'h'e' 'r'o'o'm' 'a'n'd' 'l'i'e'd' 'd'o'w'n'.' 'A'f'-' 'm'o't'h'e'r' 't'o'o'k' 'h'e'r' 'd'a'u'g'h't'e'r' 'i'n's'i'd'e' 'a' 'r'o'o'm'
-'t'e'r' 's'o'm'e't'i'm'e' 'B' 'c'a'm'e' 'o'u't' 'o'f' 't'h'a't' 'r'o'o'm' 'a'n'd' 'a'n'd' 'b'o'l't'e'd' 't'h'e' 'd'o'o'r'.' 'S'h'e' 't'h'e'n' 'w'e'n't' 'f'o'r'-'
-'s'l'e'p't' 'b'y' 't'h'e' 's'i'd'e' 'o'f' 'A'.' 'A'f't'e'r' 'a' 's'h'o'r't' 't'i'm'e',' 'w'a'r'd' 'w'i't'h' 'f'o'l'd'e'd' 'h'a'n'd's' 'a'n'd' 'r'e'q'u'e's't'e'd' 'A' 't'o'
-'w'h'e'n' 'B' 'b'e'g'a'n' 'd'o'z'i'n'g'.' 'A' 's't'a'b'b'e'd' 'h'i'm' 'p'a'r'd'o'n' 't'h'e'm'.' 'A' 'i'm'm'e'd'i'a't'e'l'y' 'g'a'v'e' 'a' 'b'l'o'w'
-'s'e'v'e'r'a'l' 't'i'm'e's' 'w'i't'h' 'a' 'k'n'i'f'e' 'a'n'd' 'k'i'l'l'e'd' 'h'i'm'.' 'o'n' 'h'e'r' 'n'e'c'k' 'w'i't'h' 't'h'e' 's'w'o'r'd' 'a'n'd' 's'h'e' 'f'e'l'l'
-'T'h'e'r'e' 'w'a's' 'n'o' 'e'v'i'd'e'n'c'e' 't'h'a't' 't'h'e' 'a'c'c'u's'e'd' 'd'o'w'n' 'a'n'd' 'd'i'e'd'.' 'A't' 't'h'i's' 'B' 's't'a'r't'e'd' 'r'u'n'n'i'n'g'
-'h'a'd' 't'o' 'g'o' 'a'n'y'w'h'e'r'e' 'i'n' 's'e'a'r'c'h' 'f'o'r' 't'h'e' 'k'n'i'f'e',' 't'o'w'a'r'd's' 't'h'e' 'f'i' 'e'l'd's'.' 'A' 'c'h'a's'e'd' 'h'i'm' 'a'b'u's'i'n'g'.'
-'w'h'i'c'h' 'a'p'p'a'r'e'n't'l'y',' 'w'a's' 'w'i't'h' 'h'i'm'.' 'T'h'e' 'a'c'-' 'W'h'e'n' 'A' 'w'a's' 's't'i'l'l' 'a'b'o'u't' '2'0' 'f'e'e't' 'f'r'o'm' 'h'i'm'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '6'5'
-'B' 'j'u'm'p'e'd' 'i'n't'o' 'a' 'w'e'l'l' 't'o' 's'a'v'e' 'h'i'm's'e'l'f'.' 'B'’'s' '6'3'.' 'F'a'c't's':' 'A',' 'w'h'o' 'w'a's' 's'e'x'u'a'l'l'y' 'i'm'p'o't'e'n't' 't'r'i'e'd'
-'h'e'a'd' 'h'i't' 'a' 'h'a'r'd' 's'u'b's't'a'n'c'e' 'i'n' 't'h'e' 'w'e'l'l' 'w'i't'h' 'i'n' 'v'a'i'n' 't'o' 'h'a'v'e' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'a'
-'t'h'e' 'r'e's'u'l't' 't'h'a't' 'h'e' 'l'o's't' 'c'o'n's'c'i'o'u's'n'e's's' 'a'n'd' 'p'r'o's't'i't'u't'e' 'P',' 'w'h'o' 'j'e'e'r'e'd' 'a't' 'h'i'm'.' 'A' 's't'a'b'b'e'd'
-'d'i'e'd' 'o'f' 'a's'p'h'y'x'i'a' 'd'u'e' 't'o' 'd'r'o'w'n'i'n'g'.' 'D'i's'c'u's's' 'P' 'w'i't'h' 'a' 'k'n'i'f'e' 'a'n'd' 'k'i'l'l'e'd' 'h'e'r'.' 'I'n' 'a' 'c'h'a'r'g'e'
-'t'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'.' 'o'f' 'm'u'r'd'e'r',' 'A' 'p'l'e'a'd's' 't'h'e' 'd'e'f'e'n'c'e' 'o'f' 'g'r'a'v'e'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'C'a'n' 'A' 's'u'c'c'e'e'd'?'
-'m'u'r'd'e'r'?' 'I'f' 'n'o't',' 's't'a't'e' 't'h'e' 'r'e'a's'o'n's'.'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f'
-'('a')' 'T'h'e' 'a'c't' 'o'f' 't'e'a's'i'n'g' 'b'y' 'B' 'o'f' 'A'’'s' 's'i's't'e'r' 'm'u'r'd'e'r'?'
-'w'a's' 'n'o't' 'o'f' 's'u'c'h' 'a' 'n'a't'u'r'e' 'w'h'e'r'e'b'y' 'i't' 'D'e'c'i's'i'o'n':'
-'c'a'n' 'b'e' 's'a'i'd' 't'h'a't' 'A' 'c'h'o'p'p'e'd' 'o'f'f' 'B'’'s' '('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 'h'e'
-'m'o't'h'e'r' 'h'e'a'd' 'u'n'd'e'r' 'g'r'a'v'e' 'a'n'd' 's'u'd'-' 'c'a'n'n'o't' 'b'e' 'b'e'n'e'f'i' 't'e'd' 'w'i't'h' 'e'x'c'e'p't'i'o'n' 'o'f'
-'d'e'n' 'p'r'o'v'o'c'a't'i'o'n'.' 'P'r'o'v'o'c'a't'i'o'n' 'e'v'e'n' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a't'i'o'n'.'
-'t'h'o'u'g'h' 's'u'd'd'e'n' 'w'a's' 'n'o't' 's'o' 'g'r'a'v'e' 'a's' 't'o' '('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'r'a'p'e'.'
-'d'e'p'r'i'v'e' 'A' 'o'f' 'h'i's' 'p'o'w'e'r' 'o'f' 's'e'l'f' 'c'o'n't'r'o'l'.' '('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'o'l'e's't'a't'i'o'n'.'
-'S'o',' 'A' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r' 'o'f' 'B'’'s'
-'m'o't'h'e'r'.' 'H'o'w'e'v'e'r',' 'B'’'s' 'd'e'a't'h' 'w'a's' 'n'o't' 'H'O'M'I'C'I'D'E' 'B'Y' 'R'A'S'H' 'O'R'
-'t'h'e' 'd'i'r'e'c't' 'r'e's'u'l't' 'o'f' 'a'n'y' 'a'c't' 'd'o'n'e' 'b'y' 't'h'e' 'N'E'G'L'I'G'E'N'T' 'A'C'T'
-'a'c'c'u's'e'd' 'i'.'e'.',' 't'h'e'r'e' 'w'a's' 'n'o' 'c'a'u's'a'l' 'c'o'n'-'
-'n'e'c't'i'o'n'.' 'A'’'s' 'c'h'a's'i'n'g' 'c'a'n'n'o't' 'b'e' 's'a'i'd' 't'o' '6'4'.' 'F'a'c't's':' 'A' 'l'e'f't' 'h'i's' 'c'a'r' 'e'n'g'i'n'e' 'r'u'n'n'i'n'g' 'o'n' 'a'
-'b'e' 't'h'e' 'c'a'u's'e' 'o'f' 'B'’'s' 'd'e'a't'h',' 's'o',' 'h'e' 'w'i'l'l' 'b'u's'y' 's't'r'e'e't' 'w'h'e'n' 'h'e' 's't'e'p'p'e'd' 'o'u't' 'f'o'r' 'a' 'm'i'n'-'
-'n'e'i't'h'e'r' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r' 'n'o'r' 'f'o'r' 'u't'e' 't'o' 'p'u'r'c'h'a's'e' 'a' 'b'o't't'l'e' 'o'f' 'w'a't'e'r' 'f'r'o'm' 'a'
-'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'B'u't' 'A' 'w'i'l'l' 'b'e' 'l'i'-' 's'h'o'p' 'o'n' 't'h'e' 's'i'd'e'.' 'W'h'i'l'e' 'h'e' 'w'a's' 'i'n' 't'h'e' 's'h'o'p','
-'a'b'l'e' 'f'o'r' 'a'b'e't'm'e'n't' 't'o' 'c'o'm'm'i't' 's'u'i'c'i'd'e'.' 's'o'm'e' 'm'i's'c'r'e'a'n't' 'r'e'l'e'a's'e'd' 't'h'e' 'h'a'n'd' 'b'r'e'a'k' 'o'f'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a'n'd' 'h'i's' 'c'a'r'.' 'T'h'e' 'c'a'r' 'b'e'i'n'g' 'o'n' 'a' 's'l'o'p'e',' 'c'r'a's'h'e'd'
-'a'b'e't'm'e'n't' 't'o' 's'u'i'c'i'd'e'.' 'i'n't'o' 'a' 'p'e'r's'o'n' 's't'a'n'd'i'n'g' 'n'e'a'r'b'y'.' 'H'e' 'd'i'e'd' 'a's'
-'('c')' 'T'h'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e' 'd'o' 'n'o't' 'd'e'r'i'v'e' 't'o' 'a' 'c'o'n's'e'q'u'e'n'c'e'.' 'C'a'n' 'A' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r'
-'a'n'y' 'd'e'c'i's'i'o'n'.' 'c'a'u's'i'n'g' 'd'e'a't'h' 'b'y' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't'?'
-'6'2'.' 'F'a'c't's':' 'H' 's'u's'p'e'c't'e'd' 'h'i's' 'w'i'f'e' 'o'f' 'i'n'f'i' 'd'e'l'i't'y'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'T'h'e'r'e'f'o'r'e' 'H' 's't'a'r't'e'd' 'k'e'e'p'i'n'g' 'w'a't'c'h' 'o'n' 'h'e'r' 'm'i't't'e'd'?'
-'m'o'v'e'm'e'n't's'.' 'O'n'e' 'd'a'y' 'H' 'f'o'u'n'd' 't'h'a't' 'h'i's' 'D'e'c'i's'i'o'n':'
-'w'i'f'e' 'd'i'd' 'n'o't' 'c'o'm'e' 'b'a'c'k' 't'o' 't'h'e' 'h'o'u's'e' 'd'u'r'-' '('a')' 'A' 'c'a'n' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 't'h'e' 'd'e'a't'h' 'b'y'
-'i'n'g' 't'h'e' 'l'a's't' 'n'i'g'h't'.' 'A't' 'a'b'o'u't' '1'1'.'0'0' 'a'.'m'.' 'n'e'x't' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't' 'a's' 'h'e' 'l'e'f't' 't'h'e' 'c'a'r'
-'d'a'y' 'w'h'e'n' 't'h'e' 'w'i'f'e' 'c'a'm'e' 'b'a'c'k' 't'o' 't'h'e' 'h'o'u's'e' 'r'u'n'n'i'n'g' 'o'n' 'a' 'b'u's'y' 's't'r'e'e't'.'
-'H' 'a's'k'e'd' 'h'e'r' 'w'h'e'r'e'a'b'o'u't's'.' 'T'h'e' 'w'i'f'e' 'g'o't' '('b')' 'A' 'c'a'n'n'o't' 'b'e' 'g'u'i'l't'y' 'o'f' 'd'e'a't'h',' 'b'e'c'a'u's'e'
-'f'u'r'i'o'u's' 'a'n'd' 's'a'i'd',' '“'H'o'w' 'l'o'n'g' 'a'r'e' 'y'o'u' 'g'o'i'n'g' 't'h'e' 'd'e'a't'h' 'w'a's' 'c'a'u's'e'd' 'b'y' 'm'i's'c'r'e'a'n't's'.'
-'t'o' 'w'a't'c'h' 'm'y' 'm'o'v'e'm'e'n't's'?' 'O'n'l'y' 't'w'o' 'd'a'y's' '('c')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.'
-'b'a'c'k' 'I' 'w'a's' 's'l'e'e'p'i'n'g' 'w'i't'h' 'Z'.' 'D'o' 'w'h'a't' 'y'o'u' '6'5'.' 'F'a'c't's':' 'X' 's't'a'r't'e'd' 'f'r'o'm' 'D'e'l'h'i' 'o'n' 'h'i's' 'c'a'r' 't'o'
-'l'i'k'e'”'.' 'A't' 't'h'i's' 'H' 'g'o't' 'e'n'r'a'g'e'd' 'a'n'd' 'p'i'c'k'e'd' 'u'p' 'g'o' 't'o' 'G'u'r'g'a'o'n',' 'a't' 'a'b'o'u't' '1'1'.'0'0' 'p'.'m'.' 'H'e'
-'a' 'l'a't'h'i' 'l'y'i'n'g' 'n'e'a'r'b'y' 'a'n'd' 'g'a'v'e' 'a' 'n'u'm'b'e'r' 'o'f' 'w'a's' 'd'r'i'v'i'n'g' 'a't' 'a' 'r'e'a's'o'n'a'b'l'e' 's'p'e'e'd' 'a'n'd'
-'b'l'o'w's' 'o'n' 't'h'e' 'h'e'a'd' 'a'n'd' 'c'h'e's't'.' 'W'i't'h'i'n' 'f'i' 'f'-' 'q'u'i't'e' 'c'a'r'e'f'u'l'l'y'.' 'B'u't' 'u'n'f'o'r't'u'n'a't'e'l'y',' 'o'n' 't'h'e'
-'t'e'e'n' 'm'i'n'u't'e's' 't'h'e' 'w'i'f'e' 'd'i'e'd'.' 'w'a'y' 'h'e' 'k'n'o'c'k'e'd' 'd'o'w'n' 't'w'o' 'c'o'o'l'i'e's' 'w'h'o'
-'H'e' 'i's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'm'u'r'd'e'r' 'u'n'd'e'r' 'S'e'c't'i'o'n' 'w'e'r'e' 'l'y'i'n'g' 'a'n'd' 's'l'e'e'p'i'n'g' 'o'n' 't'h'e' 'r'o'a'd' 'i't's'e'l'f'.'
-'3'0'2',' 'I'P'C'.' 'X' 'i's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'c'a'u's'i'n'g' 'd'e'a't'h' 'o'f' 't'h'e'
-'I's's'u'e':' 'W'h'e't'h'e'r' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 't'w'o' 'c'o'o'l'i'e's' 'b'y' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g'
-'m'u'r'd'e'r'?' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'0'4' 'A',' 'I'P'C'.' 'C'a'n' 'X' 'b'e' 'c'o'n'-'
-'D'e'c'i's'i'o'n':' 'v'i'c't'e'd'?' 'D'i's'c'u's's'.'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'a's' 'p'e'r' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'h'e' 'f'a'c't's' 'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's' 'o'f' 'c'a's'e'.' 'm'i't't'e'd'?'
-'('b')' 'H'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r' 'i't' 'i's' 'a' 'c'l'e'a'r' 'D'e'c'i's'i'o'n':'
-'c'u't' 'o'f' 'c'a's'e' 'g'r'a'v'e' 'a'n'd' 's'u'd'd'e'n' 'p'r'o'v'o'c'a'-' '('a')' 'X' 'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'-'
-'t'i'o'n'.' 'g'e'n't' 'd'r'i'v'i'n'g'.'
-'('c')' 'T'h'e' 'f'a'c't's' 'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's' 'a'r'e' 'i'n'-' '('b')' 'H'e' 'c'a'n' 'n'o't' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd'
-'c'o'n'c'l'u's'i'v'e'.' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g' 'b'e'c'a'u's'e' 't'h'e' 'f'a'c't's' 'o'f'
-'
-'t'h'e' 'c'a's'e' 'c'l'e'a'r'l'y' 's't'a't'e' 't'h'a't' 'h'e' 'w'a's' 'd'r'i'v'-' 'c'o'm'm'i't't'e'd' 'b'y' 'A'?' 'S'u'p'p'o'r't' 'y'o'u'r' 'a'n's'w'e'r'
-'i'n'g' 't'h'e' 'c'a'r' 'a't' 'a' 'r'e'a's'o'n'a'b'l'e' 's'p'e'e'd' 'a'n'd' 'w'i't'h' 'c'a's'e' 'l'a'w'.'
-'q'u'i't'e' 'c'a'r'e'f'u'l'l'y'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('c')' 'I't'’'s' 'a' 'c'l'e'a'r' 'c'u't' 'c'a's'e' 'o'f' 'm'u'r'd'e'r'.' 'm'i't't'e'd'?'
-'6'6'.' 'F'a'c't's':' 'X' 'w'h'o' 'w'a's' 'd'r'i'v'i'n'g' 'a' 'c'a'r' 'a't' 'n'i'g'h't',' 'D'e'c'i's'i'o'n':'
-'e'n't'e'r'e'd' 'a' 'r'o'a'd' 'w'h'i'c'h' 'w'a's' 'u'n'd'e'r' 'r'e'p'a'i'r's' 'a'n'd' '('a')' 'A' 'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'u'n'd'e'r' 'S'e'c't'i'o'n'
-'c'l'o's'e'd' 'f'o'r' 't'r'a'f'f'i' 'c'.' 'H'e' 'r'a'n' 'o'v'e'r' 'a'n'd' 'k'i'l'l'e'd' '3'0'4'-'A' 'f'o'r' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g'.'
-'t'w'o' 'c'o'o'l'i'e's' 'w'h'o' 'w'e'r'e' 's'l'e'e'p'i'n'g' 'o'n' 't'h'e' 'A' 's'h'o'u'l'd' 'n'o't' 'h'a'v'e' 'd'r'i'v'e'n' 't'h'e' 'b'u's' 'a't'
-'r'o'a'd' 'w'i't'h' 't'h'e'i'r' 'b'o'd'i'e's' 'c'o'm'p'l'e't'e'l'y' 'c'o'v'e'r'e'd' 's'u'c'h' 'a' 's'p'e'e'd' 't'h'a't' 'h'e' 'c'a'n'n'o't' 's't'o'p' 'i't' 'i'n'
-'u'n'd'e'r' 'd'a'r'k' 'b'l'a'n'k'e't's'.' 'X' 'i's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'i'm'e'.' 'D'r'i'v'i'n'g' 'a't' 'a' 'h'i'g'h' 's'p'e'e'd',' 'a'n'd' 't'h'a't'
-'c'a'u's'i'n'g' 'd'e'a't'h' 'o'f' 't'h'e' 't'w'o' 'c'o'o'l'i'e's' 'b'y' 'r'a's'h' 't'o'o' 'a't' 'a' 'r'o'a'd' 'c'r'o's's'i'n'g',' 's'h'o'w's' 't'h'a't' 'h'e'
-'a'n'd' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'0'4' 'a'c't'e'd' 'r'a's'h'l'y' 'a'n'd' 'n'e'g'l'i'g'e'n't'l'y'.'
-'A',' 'I'P'C'.' 'C'a'n' 'X' 'b'e' 'c'o'n'v'i'c't'e'd'?' 'D'i's'c'u's's'.' '('b')' 'A' 'c'a'n'n'o't' 'b'e' 'c'o'm'm'i't't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g'.'
-'m'i't't'e'd'?' '('c')' 'I't'’'s' 'a' 'c'a's'e' 'o'f' 'n'o'r'm'a'l' 'a'c'c'i'd'e'n't'.'
-'6'9'.' 'F'a'c't's':' 'A',' 'a'n' 'o'w'n'e'r' 'o'f' 'a' 'c'i'r'c'u's' 'c'o'm'p'a'n'y'
-'D'e'c'i's'i'o'n':'
-'w'a's' 'p'e'r'p'e't'u'a'l'l'y' 't'r'o'u'b'l'e'd' 'b'y' 't'h'e' 't'r'e's'p'a's's'-'
-'('a')' 'X' 'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'-'
-'e'r's' 'w'h'o' 'w'o'u'l'd' 'h'a'r'a's's' 't'h'e' 'l'a'd'y' 'p'e'r'f'o'r'm'-'
-'g'e'n't' 'd'r'i'v'i'n'g' 'c'a'u's'i'n'g' 'd'e'a't'h'.'
-'e'r's' 'b'y' 'p'e'e'p'i'n'g' 'i'n't'o' 't'h'e'i'r' 'd'r'e's's'i'n'g' 'r'o'o'm's'.'
-'('b')' 'H'e' 'c'a'n'n'o't' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd'
-'I'n' 'o'r'd'e'r' 't'o' 'k'e'e'p' 't'h'e' 't'r'e's'p'a's's'e'r's' 'a'w'a'y',' 'A'
-'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g' 'c'a'u's'i'n'g' 'd'e'a't'h'.'
-'d'e'c'i'd'e'd' 't'o' 'l'e'a'v'e' 't'w'o' 'c'i'r'c'u's' 'l'i'o'n's' 'i'n't'o' 't'h'e'
-'('c')' 'I't'’'s' 'a' 'c'a's'e' 'o'f' 'a'c'c'i'd'e'n't'.'
-'d'r'e's's'i'n'g' 'r'o'o'm' 'r'e'g'i'o'n'.' 'B' 'a' 't'r'e's'p'a's's'e'r' 'w'h'o'
-'6'7'.' 'F'a'c't's':' 'A',' 'a' 's'c'i'e'n't'i's't',' 'w'o'r'k'i'n'g' 'o'n' 'a' 'r'a'r'e'
-'h'a'd' 's'n'e'a'k'e'd' 'i'n't'o' 't'h'e' 'd'r'e's's'i'n'g' 'r'o'o'm' 'a'r'e'a'
-'f'u'e'l' 'p'r'o'j'e'c't' 'h'a'd' 'f'i' 'x'e'd' 'a'n' 'e'l'e'c't'r'o'n'i'c' 'd'e'v'i'c'e'
-'w'a's' 'b'a'd'l'y' 'm'a'u'l'e'd' 'a'n'd' 'k'i'l'l'e'd' 'b'y' 'o'n'e' 'o'f' 't'h'e'
-'t'h'a't' 'n'o't' 'o'n'l'y' 's'e't' 'i'n' 'm'o't'i'o'n' 'a'n' 'a'l'a'r'm',' 'b'u't'
-'c'i'r'c'u's' 'l'i'o'n's'.' 'D'i's'c'u's's' 'A'’'s' 'l'i'a'b'i'l'i't'y' 'u'n'd'e'r'
-'a'l's'o' 'r'e'l'e'a's'e'd' 'h'i'g'h' 'v'o'l't'a'g'e' 'e'l'e'c't'r'i'c' 's'h'o'c'k'
-'S'e'c't'i'o'n' '3'0'4' 'A',' 'I'P'C'.'
-'t'o' 'g'u'a'r'd' 'h'i's' 'l'a'b' 'a'g'a'i'n's't' 't'h'i'e'v'e's' 'a'n'd' 'i'n't'r'u'd'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'e'r's'.' 'B' 'w'h'o' 'h'a'd' 's'n'e'a'k'e'd' 'i'n't'o' 't'h'e' 'l'a'b' 'w'i't'h'
-'m'i't't'e'd'?'
-'a' 'v'i'e'w' 't'o' 's't'e'a'l' 't'h'e' 'f'u'e'l' 'f'o'r'm'u'l'a' 'd'i'e'd' 'o'n'
-'D'e'c'i's'i'o'n':'
-'a'c'c'o'u'n't' 'o'f' 'a'n' 'e'l'e'c't'r'i'c' 's'h'o'c'k'.' 'C'a'n' 'A' 'b'e'
-'('a')' 'A'’'s' 'a'c't' 'i's' 'r'a's'h' 'a's' 'i't' 'i's' 'r'e'c'k'l'e's's' 'd'i's'r'e'-'
-'p'r'o's'e'c'u't'e'd' 'f'o'r' 'a'n' 'o'f'f'e'n'c'e' 'u'n'd'e'r' 'S'e'c't'i'o'n'
-'g'a'r'd' 'o'f' 't'h'e' 'p'r'e's'e'n'c'e' 'o'f' 't'h'e' 't'r'e's'p'a's's'e'r's'.'
-'3'0'4'A'?'
-'T'h'e' 'c'r'i'm'i'n'a'l'i't'y' 'l'i'e's' 'i'n' 'r'u'n'n'i'n'g' 't'h'e' 'r'i's'k'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n'
-'o'f' 'd'o'i'n'g' 's'u'c'h' 'a'n' 'a'c't' 'w'i't'h' 'r'e'c'k'l'e's's'n'e's's'
-'c'o'm'm'i't't'e'd'.'
-'o'r' 'i'n'd'i'f'f'e'r'e'n'c'e' 'a's' 't'o' 'i't's' 'c'o'n's'e'q'u'e'n'c'e's'
-'D'e'c'i's'i'o'n':'
-'i'.'e'.',' 'w'i't'h'o'u't' 'b'e'l'i'e'f' 'i'n' 't'h'e' 'r'e's'u'l't' 'o'f' 's'u'c'h'
-'('a')' 'A' 'c'a'n' 'n'o't' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd'
-'d'o'i'n'g'.'
-'n'e'g'l'i'g'e'n't' 'a'c't' 'c'a'u's'i'n'g' 'd'e'a't'h'.' 'B'e'c'a'u's'e'
-'('b')' 'I't' 'i's' 'n'o't' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't'.' 'I't' 'i's' 'a'
-'B' 'w'h'o' 'h'a'd' 's'n'e'a'k'e'd' 'i'n't'o' 'l'a'b' 'w'i't'h' 'a'
-'p'r'e'c'a'u't'i'o'n'a'r'y' 'm'e'a's'u'r'e'.'
-'v'i'e'w' 's't'e'a'l' 't'h'e' 'f'o'r'm'u'l'a' 'd'i'e'd' 'b'e'c'a'u's'e' 'o'f'
-'('c')' 'N'o' 'c'o'n'c'l'u's'i'v'e' 'e'v'i'd'e'n'c'e' 's'o' 'n'o' 'c'o'n'c'l'u'-'
-'h'i's' 'o'w'n' 'c'o'm'm'i's's'i'o'n' 'o'f' 'o'f'f'e'n'c'e'.'
-'s'i'v'e' 'd'e'c'i's'i'o'n'.'
-'('b')' 'H'e' 'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'r'a's'h' 'a'n'd' 'n'e'g'-'
-'7'0'.' 'F'a'c't's':' 'X',' 'a' 'n'o't'o'r'i'o'u's' 's'm'u'g'g'l'e'r',' 'b'u'i'l't'
-'l'i'g'e'n't' 'a'c't' 'c'a'u's'i'n'g' 'd'e'a't'h'.' 'a' 's't'r'o'n'g' 'h'o'u's'e' 'f'o'r' 'h'i'm's'e'l'f' 'a'w'a'y' 'f'r'o'm'
-'('c')' 'C'a's'e' 'i's' 'i'n'c'o'n'c'l'u's'i'v'e'.' 't'h'e' 'c'i't'y'.' 'T'h'e' 'h'o'u's'e' 'w'a's' 'f'o'r't'i'f'i' 'e'd' 'b'y' 'h'i'g'h'
-'6'8'.' 'F'a'c't's':' 'A',' 'b'u's' 'd'r'i'v'e'r',' 's'e'e'i'n'g' 't'h'e' 'g'r'e'e'n' 'c'o'm'p'o'u'n'd' 'w'a'l'l' 'a'r'o'u'n'd' 't'h'e' 'h'o'u's'e' 'a'n'd' 'l'i'v'e'
-'s'i'g'n'a'l' 'a't' 'a' 'r'o'a'd' 'c'r'o's's'i'n'g',' 'r'a'i's'e'd' 't'h'e' 's'p'e'e'd' 'e'l'e'c't'r'i'c' 'w'i'r'e' 'r'a'n' 'o'n' 't'h'e' 'u'p'p'e'r' 'e'd'g'e's' 'o'f' 't'h'e'
-'o'f' 'h'i's' 'b'u's' 't'o' 'c'l'e'a'r' 't'h'e' 'c'r'o's's'i'n'g' 'b'e'f'o'r'e' 'c'o'm'p'o'u'n'd' 'w'a'l'l' 'w'h'i'c'h' 'u's'e'd' 't'o' 'b'e' 'a'c't'i'v'a't'e'd'
-'t'h'e' 'l'i'g'h't's' 't'u'r'n'e'd' 'r'e'd'.' 'H'o'w'e'v'e'r',' 't'h'e' 'l'i'g'h't's' 'd'u'r'i'n'g' 't'h'e' 'n'i'g'h't'.' 'W'e'l'l' 'l'i't' 'w'a'r'n'i'n'g' 'b'o'a'r'd's'
-'t'u'r'n'e'd' 'r'e'd' 'b'e'f'o'r'e' 'A' 'c'o'u'l'd' 'r'e'a'c'h' 't'h'e' 'c'r'o's's'-' 'w'i't'h' 'd'a'n'g'e'r' 's'i'g'n's' 'o'f' 'h'i'g'h' 'v'o'l't'a'g'e' 'w'e'r'e'
-'i'n'g' 'a'n'd' 'd'u'e' 't'o' 'h'i's' 'f'a'i'l'u'r'e' 't'o' 's't'o'p' 't'h'e' 'b'u's' 'p'l'a'c'e'd' 'a'l'l' 'a'r'o'u'n'd'.' 'Y',' 'a' 't'h'i'e'f',' 'i'n' 'o'r'd'e'r' 't'o'
-'i'n' 't'i'm'e' 'h'e' 'c'o'l'l'i'd'e'd' 'w'i't'h' 'a'n' 'a'u't'o'r'i'c'k's'h'a'w' 'c'o'm'm'i't' 't'h'e'f't' 'a't't'e'm'p't'e'd' 't'o' 's'c'a'l'e' 't'h'e' 'w'a'l'l'
-'c'o'm'i'n'g' 'o'n' 'g'r'e'e'n' 'l'i'g'h't's' 'f'r'o'm' 'r'i'g'h't' 'd'i'r'e'c'-' 'i'n' 't'h'e' 'n'i'g'h't',' 'c'a'm'e' 'i'n' 'c'o'n't'a'c't' 'w'i't'h' 't'h'e' 'w'i'r'e'
-'t'i'o'n'.' 'A's' 'a' 'r'e's'u'l't' 't'h'e' 'a'u't'o'r'i'c'k's'h'a'w' 'd'r'i'v'e'r' 'a'n'd' 'w'a's' 'e'l'e'c't'r'o'c'u't'e'd'.' 'X' 'i's' 'c'h'a'r'g'e'd' 'u'n'd'e'r'
-'d'i'e'd' 'o'n' 't'h'e' 's'p'o't' 'a'n'd' '2' 'p'a's's'e'n'g'e'r's' 'i'n' 'i't' 'g'o't' 'S'e'c't'i'o'n' '3'0'4' 'A' 'f'o'r' 'c'a'u's'i'n'g' 't'h'e' 'd'e'a't'h' 'o'f' 'Y'.'
-'s'e'r'i'o'u's'l'y' 'i'n'j'u'r'e'd'.' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'i's' 'H'o'w' 'w'i'l'l' 'y'o'u' 'd'e'c'i'd'e'?'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '6'7'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'a'l' 'a't' 'a' 's'p'e'e'd' 'o'f' '8'0' 'k'm' 'p'e'r' 'h'o'u'r' 'n'e'a'r' 'a' 'p'r'i'-'
-'m'i't't'e'd'?' 'm'a'r'y' 's'c'h'o'o'l' 'i'n' 't'h'e' 'm'e't'r'o'p'o'l'i's' 'w'h'e'r'e' 't'h'e'
-'D'e'c'i's'i'o'n':' 's'p'e'e'd' 'l'i'm'i't' 'w'a's' 'n'o't'i'f'i' 'e'd' 't'o' 'b'e' 'o'n'l'y' '3'0' 'k'm'
-'('a')' 'X' 'i's' 'n'o't' 'l'i'a'b'l'e' 'b'e'c'a'u's'e' 'h'e' 'h'a'd' 'a'l'r'e'a'd'y' 'p'e'r' 'h'o'u'r'.' 'S'u'd'd'e'n'l'y' 'a' 's'c'h'o'o'l' 'c'h'i'l'd' 't'r'i'e'd' 't'o'
-'t'a'k'e'n' 't'h'e' 'd'u'e' 'c'a'u't'i'o'n' 'p'l'a'c'i'n'g' 'w'e'l'l' 'l'i't' 'c'r'o's's' 't'h'e' 's't'r'e'e't' 'a'n'd' 't'h'e' 'd'r'i'v'e'r' 'L' 'c'o'u'l'd'n'’'t'
-'w'a'r'n'i'n'g' 'b'o'a'r'd's' 'a'n'd' 'd'a'n'g'e'r' 's'i'g'n's'.' 's't'o'p' 't'h'e' 'c'a'r',' 'a's' 't'h'e' 'b'r'a'k'e's' 'd'i'd' 'n'o't' 'w'o'r'k' 'a't'
-'('b')' 'X' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't' 't'h'e' 'c'r'u'c'i'a'l' 't'i'm'e'.' 'T'h'e' 'c'h'i'l'd' 'w'a's' 'r'u'n' 'o'v'e'r'
-'c'a'u's'i'n'g' 'd'e'a't'h'.' 'a'n'd' 'k'i'l'l'e'd'.'
-'('c')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'7'1'.' 'F'a'c't's':' 'A'c'c'u's'e'd' 'A' 'r'e'c'e'i'v'e'd' 'f'r'o'm' 'h'e'r' 'p'a'r'-' 'm'i't't'e'd'?'
-'a'm'o'u'r' 'a' 'p'a'c'k'e't' 't'o' 'a'd'm'i'n'i's't'e'r' 't'o' 'h'e'r' 'h'u's'-' 'D'e'c'i's'i'o'n':'
-'b'a'n'd' 'a's' 'a' 'c'h'a'r'm'.' 'A' 'a'd'm'i'n'i's't'e'r'e'd' 'i't',' 'a'n'd' '('a')' 'L' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'t'h'i's' 'r'e's'u'l't'e'd' 'i'n' 't'h'e' 'd'e'a't'h' 'o'f' 'h'e'r' 'h'u's'b'a'n'd'.' '('b')' 'L' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'r'a's'h'n'e's's' 'a'n'd'
-'A' 'd'i'd' 'n'o't' 'k'n'o'w' 't'h'a't' 't'h'e' 's'u'b's't'a'n'c'e' 'g'i'v'e'n' 'n'e'g'l'i'g'e'n'c'e'—'r'u'n'n'i'n'g' 'a' 'd'e'f'e'c't'i'v'e' 'c'a'r','
-'t'o' 'h'e'r' 'w'a's' 'p'o'i's'o'n'o'u's' 'u'n't'i'l' 's'h'e' 's'a'w' 'i't's' 'e'f'-' 'd'r'i'v'i'n'g' 'a't' 'a' 'h'i'g'h' 's'p'e'e'd' 'n'e'a'r' 'a' 'p'r'i'm'a'r'y'
-'f'e'c't's'.' 'D'i's'c'u's's' 'A'’'s' 'l'i'a'b'i'l'i't'y' 'u'n'd'e'r' 'S'e'c't'o'r' 's'c'h'o'o'l' 'i'n' 'd'i's'r'e'g'a'r'd' 'o'f' 't'h'e' 's'p'e'c'i'f'i' 'e'd'
-'3'0'4' 'A',' 'I'P'C'.' 's'p'e'e'd' 'l'i'm'i't'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('c')' 'L' 'i's' 'i'n'n'o'c'e'n't' 'a's' 't'h'e' 'c'a'r' 'w'a's' 'd'e'f'e'c'-'
-'m'i't't'e'd'?'
-'t'i'v'e'.'
-'D'e'c'i's'i'o'n':'
-'7'4'.' 'F'a'c't's':' 'X' 'w'a's' 'd'r'i'v'i'n'g' 'a' 't'o'u'r'i's't' 'b'u's' 'a't' 'a' 'f'a's't'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'s'p'e'e'd'.' 'W'h'e'n' 'h'e' 'w'a's' '1'0'0' 'y'a'r'd's' 'a'w'a'y' 'f'r'o'm'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'a' 't'r'a'f'f'i' 'c' 'c'r'o's's'i'n'g' 'h'e' 's'a'w' 'a' 'g'r'e'e'n' 's'i'g'n'a'l'.'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'r'a's'h'n'e's's' 'a'n'd'
-'I'n' 'a' 'b'i'd' 't'o' 'c'r'o's's' 't'h'e' 'r'o'a'd' 'h'e' 'e'n'h'a'n'c'e'd' 't'h'e'
-'n'e'g'l'i'g'e'n'c'e' 'u'n'd'e'r' '3'0'4'A'.'
-'s'p'e'e'd' 'b'u't' 'b'e'f'o'r'e' 'h'e' 'c'o'u'l'd' 'c'r'o's's' 't'h'e' 'r'o'a'd'
-'7'2'.' 'F'a'c't's':' 'X' 'h'a's' 'a'n' 'i'l'l'i'c'i't' 'i'n't'i'm'a'c'y' 'w'i't'h' 'Y','
-'t'h'e' 'g'r'e'e'n' 's'i'g'n'a'l' 't'u'r'n'e'd' 'r'e'd',' 'b'u't' 'X' 'c'o'n't'i'n'-'
-'a' 'm'a'r'r'i'e'd' 'w'o'm'a'n'.' 'X' 's'u'g'g'e's't's' 't'o' 'Y' 't'h'a't'
-'u'e'd' 't'o' 'd'r'i'v'e' 'o'n' 'a'n'd' 'h'i't' 'C',' 'a' 's'c'h'o'o'l' 'c'h'i'l'd','
-'t'h'e'y' 's'h'o'u'l'd' 'd'o' 'a'w'a'y' 'w'i't'h' 'h'e'r' 'h'u's'b'a'n'd' 'b'y'
-'o'n' 't'h'e' 'z'e'b'r'a' 'c'r'o's's'i'n'g'.' 'F'o'r' 'w'h'a't' 'o'f'f'e'n'c'e'
-'m'u'r'd'e'r'i'n'g' 'h'i'm',' 't'o' 'w'h'i'c'h' 'Y' 'd'o'e's' 'n'o't' 'g'i'v'e'
-'c'a'n' 'X' 'b'e' 'c'o'n'v'i'c't'e'd'?'
-'h'e'r' 'c'o'n's'e'n't'.' 'A'f't'e'r' 't'w'o' 'm'o'n't'h's',' 'X' 'g'i'v'e's' 'a'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'w'h'i't'e' 'c'o'l'o'u'r'e'd' 'p'o'i's'o'n' 't'o' 'Y' 's'a'y'i'n'g' 't'h'a't' 'i't'
-'m'i't't'e'd'?'
-'i's' 'a' '“'m'a'g'i'c' 'p'o'w'd'e'r'”'.' 'H'e' 'a's'k's' 'Y' 't'o' 'm'i'x' 't'h'e'
-'D'e'c'i's'i'o'n':'
-'p'o'i's'o'n' 'i'n' 'd'r'i'n'k' 's'o' 't'h'a't' 'h'e'r' 'h'u's'b'a'n'd' 'w'o'u'l'd'
-'('a')' 'I't'’'s' 'a' 'm'a't't'e'r' 'o'f' 'a'c'c'i'd'e'n't'.'
-'n'o't' 'o'b'j'e'c't' 't'o' 'Y'’'s' 'i'l'l'i'c'i't' 'r'e'l'a't'i'o'n's' 'w'i't'h' 'X'.' 'Y'
-'('b')' 'X' 'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'u'n'd'e'r' 'S'e'c't'i'o'n'
-'c'a'r'r'i'e's' 'o'u't' 't'h'e' 'i'n's't'r'u'c't'i'o'n's' 'g'i'v'e'n' 'b'y' 'X' 'a'n'd'
-'3'0'4'-'A' 'f'o'r' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'd'r'i'v'i'n'g'.'
-'h'e'r' 'h'u's'b'a'n'd' 'd'i'e's' 'c'o'n's'e'q'u'e'n't'l'y'.'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'i'n'n'o'c'e'n't' 'a's' 'h'e' 'h'a'd' 'n'o'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'k'n'o'w'l'e'd'g'e' 'o'f' 'g'r'e'e'n' 's'i'g'n'a'l'.'
-'m'i't't'e'd'?'
-'7'5'.' 'F'a'c't's':' 'T'h'e' 'r'e's'i'd'e'n't's' 'o'f' 't'h'e' 'a'd'j'o'i'n'i'n'g'
-'D'e'c'i's'i'o'n':'
-'s'l'u'm's' 'w'e'r'e' 'p'e'r's'i's't'e'n't'l'y' 'u's'i'n'g' 't'h'e' 'p'a'r'k' 'f'o'r'
-'('a')' 'T'h'e' 'p'r'o'v'i's'i'o'n's' 'o'f' 'S'e'c't'i'o'n' '3'0'4'-'A' 'a'p'-'
-'d'e'f'e'c'a't'i'o'n'.' 'O'n' 't'h'e' 'o'r'd'e'r' 'o'f' 't'h'e' 'D'.'D'.'A'.'
-'p'l'y' 't'o' 'c'a's'e' 'w'h'e'r'e' 't'h'e'r'e' 'i's' 'n'o' 'i'n't'e'n't'i'o'n'
-'C'h'a'i'r'm'a'n',' 't'h'e' 'p'a'r'k' 'w'a's' 'f'e'n'c'e'd'.' 'T'h'e' 'e'l'e'c'-'
-'t'o' 'c'a'u's'e' 'd'e'a't'h' 'a'n'd' 'n'o' 'k'n'o'w'l'e'd'g'e' 't'h'a't'
-'t'r'i'c' 'c'u'r'r'e'n't' 'w'a's' 'r'u'n' 'o'n' 't'h'e' 'w'i'r'e's' 'o'n' 't'h'e'
-'t'h'e' 'a'c't' 'd'o'n'e' 'i'n' 'a'l'l' 'p'r'o'b'a'b'i'l'i't'y' 'w'o'u'l'd'
-'t'o'p'.' 'A' 't'r'e's'p'a's's'i'n'g' 's'l'u'm'-'d'w'e'l'l'e'r' 't'o'u'c'h'e'd'
-'c'a'u's'e' 'd'e'a't'h'.' 'I'n' 't'h'e' 'p'r'e's'e'n't' 'c'a's'e',' 'l'o'o'k'-'
-'a' 'l'i'v'e' 'w'i'r'e' 'a'n'd' 'w'a's' 'e'l'e'c't'r'o'c'u't'e'd'.' 'C'a'n' 't'h'e'
-'i'n'g' 'a't' 't'h'e' 'p'a's't' 'b'e'h'a'v'i'o'u'r',' 'X' 'i't' 'w'a's' 'i'm'-'
-'C'h'a'i'r'm'a'n' 'b'e' 'h'e'l'd' 'g'u'i'l't'y' 'f'o'r' 'a'n' 'o'f'f'e'n'c'e' 'u'n'-'
-'p'e'r'a't'i'v'e' 'u'p'o'n' 'Y' 't'o' 'a's'c'e'r't'a'i'n' 'w'h'e't'h'e'r'
-'d'e'r' 'S'e'c't'i'o'n' '3'0'4'-'A'?'
-'t'h'e' 'p'o'w'd'e'r' 'w'a's' 'n'o'x'i'o'u's' 'o'r' 'n'o't'.' 'F'a'i'l'-'
-'i'n'g' 'w'h'i'c'h' 'i't' 'c'a'n' 'b'e' 's'a'i'd' 't'h'a't' 's'h'e' 'f'a'i'l'e'd' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'o' 'e'x'e'r'c'i's'e' 'r'e'a's'o'n'a'b'l'e' 'a'n'd' 'p'r'o'p'e'r' 'c'a'r'e' 'm'i't't'e'd'?'
-'a'n'd' 'h'e'n'c'e' 's'h'e' 'i's' 'l'i'a'b'l'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' 'D'e'c'i's'i'o'n':'
-'3'0'4'-'A'.' '('a')' 'T'h'e' 'c'h'a'i'r'm'a'n' 'i's' 'n'o't' 'l'i'a'b'l'e' 'a's' 'h'e' 'w'a's'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n'y' 'd'i's'c'h'a'r'g'i'n'g' 'h'i's' 'p'u'b'l'i'c' 'd'u't'i'e's'.'
-'o'f'f'e'n'c'e'.' '('b')' 'T'h'e' 'D'.'D'.'A'.' 'C'h'a'i'r'm'a'n' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e'.'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'T'h'e'r'e' 's'h'o'u'l'd' 'b'e' 'w'a'r'n'i'n'g' 'i'n' 's'o'm'e'
-'7'3'.' 'F'a'c't's':' 'L' 'w'a's' 'd'r'i'v'i'n'g' 'h'i's' 'p'r'e't't'y' 'o'l'd' 'c'a'r' 't'h'e' 'f'o'r'm' 'a'b'o'u't' 't'h'e' 'e'l'e'c't'r'i'c'a'l' 'f'e'n'c'i'n'g' 'o'f'
-'b'r'a'k'e's' 'o'f' 'w'h'i'c'h' 'h'a'd' 'b'e'c'o'm'e' 'd'y's'f'u'n'c't'i'o'n'-' 't'h'e' 'p'a'r'k'.' 'T'h'i's' 'i's' 'm'o'r'e' 's'o' 'b'e'c'a'u's'e' 't'h'e'
-'
-'s'l'u'm'-'d'w'e'l'l'e'r's' 'w'e'r'e' 'i'n' 't'h'e' 'h'a'b'i't' 'o'f' 'u's'-' 'D'e'c'i's'i'o'n':'
-'i'n'g' 't'h'e' 'p'a'r'k' 'f'o'r' 'd'e'f'e'c'a't'i'o'n'.' '('a')' 'A' 'c'a'n'n'o't' 'b'e' 'h'e'l'd' 'g'u'i'l't'y' 'b'e'c'a'u's'e' 'h'e'
-'('c')' 'I't'’'s' 'a' 'c'a's'e' 'o'f' 'j'u'd'i'c'i'a'l' 'p'r'e'r'o'g'a't'i'v'e' 'o'f' 'w'a's' 'j'u's't' 'p'e'r'f'o'r'm'i'n'g' 'h'i's' 'd'u't'y' 'o'f' 'a' 'd'o'c'-'
-'c'o'u'r's'e'.' 't'o'r'.'
-'7'6'.' 'F'a'c't's':' 'I'n' 'o'r'd'e'r' 't'o' 'p'r'e'v'e'n't' 't'h'e' 'p'l'u'c'k'i'n'g' 'o'f' '('b')' 'H'e' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.'
-'t'h'e' 'f'r'u'i't's' 'b'y' 'n'e'i'g'h'b'o'u'r's' 'c'h'i'l'd'r'e'n',' 'M'u's'h'-' '('c')' 'A' 'c'a'n' 'b'e' 'c'o'n'v'i'c't'e'd' 'u'n'd'e'r' 'S'e'c't'i'o'n'
-'e'e'r' 'g'u'a'r'd'e'd' 'h'i's' 'o'r'c'h'a'r'd' 'w'i't'h' 'a' 'l'i'v'e' 'e'l'e'c't'r'i'c' '3'0'4'-'A' 'f'o'r' 'c'a'u's'i'n'g' 'B'’'s' 'd'e'a't'h' 'b'y' 'r'a's'h'
-'w'i'r'e' 'a'n'd' 'p'u't' 'u'p' 'a' 'w'r'i't't'e'n' 'w'a'r'n'i'n'g' 'a'b'o'u't' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't'.'
-'i't' 'a't' 't'h'e' 'f'r'o'n't' 'g'a't'e'.' 'B'a'l'a',' '6' 'y'e'a'r's' 'o'l'd',' 'u'n'-' '7'9'.' 'F'a'c't's':' 'A' 'c'a'r'r'y'i'n'g' 'a' 'l'o'a'd'e'd' 'g'u'n' 's't'o'o'd' 'q'u'i'-'
-'a'w'a'r'e' 'o'f' 't'h'e' 'e'l'e'c't'r'i'c' 'w'i'r'e' 'o'r' 't'h'e' 'w'a'r'n'i'n'g',' 'e't'l'y' 'i'n' 'a' 'c'o'r'n'e'r' 'o'f' 'a' 'p'u'b'l'i'c' 'p'l'a'c'e' 'a'n'd' 'w'a's'
-'w'a's' 'k'i'l'l'e'd' 'b'y' 'e'l'e'c't'r'o'c'u't'i'o'n' 'w'h'i'l'e' 't'r'y'i'n'g' 't'o' 'w'a't'c'h'i'n'g' 'a' 'd'r'a'm'a't'i'c' 'p'e'r'f'o'r'm'a'n'c'e'.' 'O'n'e'
-'s'c'a'l'e' 't'h'e' 'w'a'l'l' 'o'f' 'o'r'c'h'a'r'd' 'f'r'o'm' 't'h'e' 'b'a'c'k'-' 'o'f' 't'h'e' 'a'c't'o'r's',' 'w'h'o' 'w'a's' 'p'l'a'y'i'n'g' 't'h'e' 'p'a'r't'
-'s'i'd'e'.' 'C'a'n' 'M'u's'h'e'e'r' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'c'a'u's'-' 'o'f' 'a' 'd'r'u'n'k'e'n' 'd'a'c'o'i't',' 't'o' 'e'n'h'a'n'c'e' 't'h'e' 'e'f'f'e'c't'
-'i'n'g' 'd'e'a't'h' 'b'y' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't'?' 'o'f' 'h'i's' 'a'c't'i'n'g' 'a'p'p'r'o'a'c'h'e'd' 'A' 'a'n'd' 'g'r'a'p'p'l'e'd'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'w'i't'h' 'h'i'm' 'a'n'd' 'i'n' 't'h'e' 'c'o'u'r's'e' 'o'f' 't'h'e' 's't'r'u'g'g'l'e's'
-'m'i't't'e'd'?' 't'h'e' 'g'u'n' 'w'e'n't' 'o'f'f' 'a'n'd' 't'h'e' 'a'c't'o'r' 'w'a's' 'k'i'l'l'e'd'.'
-'D'e'c'i's'i'o'n':' 'I's' 'A' 'g'u'i'l't'y' 'o'f' 'a' 'n'e'g'l'i'g'e'n't' 'a'c't'?'
-'('a')' 'M'u's'h'e'e'r' 'w'i'l'l' 'n'o't' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'f'e'n'c'e' 'b'e'c'a'u's'e' 'i't' 'i's' 'h'i's' 'r'i'g'h't' 't'o' 'd'e'f'e'n'd' 'm'i't't'e'd'?'
-'D'e'c'i's'i'o'n':'
-'h'i's' 'p'r'o'p'e'r't'y'.'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'n'e'g'l'i'g'e'n't' 'a'c't'.'
-'('b')' 'M'u's'h'e'e'r' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'i'n's'p'i't'e' 'o'f' 'a'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'w'r'i't't'e'n' 'w'a'r'n'i'n'g' 'a'b'o'u't' 't'h'e' 'l'i'v'e' 'e'l'e'c't'r'i'c'
-'('c')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a' 'n'e'g'l'i'g'e'n't' 'a'c't' 'o'r'
-'w'i'r'e's'.' 'B'e'c'a'u's'e' 's'u'c'h' 'a' 'w'a'r'n'i'n'g' 'w'o'u'l'd'
-'c'a'u's'i'n'g' 'd'e'a't'h' 'b'y' 'a' 'n'e'g'l'i'g'e'n't' 'a'c't'.'
-'b'e' 'i'n'e'f'f'e'c't'i'v'e' 'a'g'a'i'n's't' 't'h'e' 'c'h'i'l'd'r'e'n'.'
-'M'o'r'e'o'v'e'r',' 'h'e' 'a'd'o'p't'e'd' 'a' 'r'a't'h'e'r' 'd'r'a's't'i'c'
-'H'U'R'T' 'A'N'D' 'G'R'I'E'V'O'U'S' 'H'U'R'T'
-'m'e'a's'u'r'e'.' 'H'e' 's'h'o'u'l'd' 'h'a'v'e' 'a'd'o'p't'e'd' 'a'
-'r'e'a's'o'n'a'b'l'e' 'p'r'e'c'a'u't'i'o'n' 't'o' 's'a'v'e' 'h'i's' 'o'r'-'
-'8'0'.' 'F'a'c't's':' 'M' 'o'w'e'd' 'R's' '1'0'0'0' 't'o' 'P' 'b'u't' 'd'i'd' 'n'o't'
-'c'h'a'r'd'.'
-'p'a'y' 'b'a'c'k' 't'h'o'u'g'h' 't'h'e' 'l'a't't'e'r' 'm'a'd'e' 'd'e'm'a'n'd's'
-'('c')' 'H'e' 'm'u's't' 'b'e' 'c'h'a'r'g'e'd' 'w'i't'h' 'm'u'r'd'e'r'.'
-'s'e'v'e'r'a'l' 't'i'm'e's'.' 'P' 'l'a's't'l'y' 'm'a'd'e' 'a'n'o't'h'e'r' 'd'e'-'
-'7'7'.' 'F'a'c't's':' '‘'A'’' 't'a'k'e's' 'u'p' 'a' 'g'u'n' 'n'o't' 'k'n'o'w'i'n'g' 'i't'
-'m'a'n'd' 'b'u't' 'M' 'a's' 'u's'u'a'l' 'p'r'o'm'i's'e'd' 't'o' 'p'a'y' 'l'a't'-'
-'i's' 'l'o'a'd'e'd'.' 'P'o'i'n't's' 'i'n' 's'p'o'r't' 'a't' '‘'B'’' 'a'n'd' 'p'u'l'l's'
-'e'r' 'w'h'e'r'e'u'p'o'n' 'P' 'k'i'c'k'e'd' 'h'i'm' 't'w'i'c'e' 'o'n' 't'h'e'
-'t'h'e' 't'r'i'g'g'e'r'.' '‘'B'’' 'i's' 's'h'o't' 'd'e'a'd'.' 'C'a'n' '‘'A'’' 'b'e'
-'a'b'd'o'm'e'n' 'a'n'd' 'M' 'c'o'l'l'a'p's'e'd' 'a'n'd' 'd'i'e'd'.' 'W'h'a't'
-'c'o'n'v'i'c't'e'd' 'f'o'r' 'c'a'u's'i'n'g' 'd'e'a't'h' 'b'y' 'r'a's'h' 'a'n'd'
-'o'f'f'e'n'c'e' 'i's' 'P' 'g'u'i'l't'y' 'o'f'?'
-'n'e'g'l'i'g'e'n't' 'a'c't'?'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'m'i't't'e'd'?'
-'m'i't't'e'd'?'
-'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':'
-'('a')' 'I't' 'c'o'u'l'd' 'n'o't' 'b'e' 's'a'i'd' 't'h'a't' 'P' 'i'n't'e'n'd'e'd'
-'('a')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'm'u'r'd'e'r'.'
-'o'r' 'k'n'e'w' 't'h'a't' 'k'i'c'k'i'n'g' 'o'n' 't'h'e' 'a'b'd'o'm'e'n'
-'('b')' '‘'A'’' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'0'4'A'
-'w'a's' 'l'i'k'e'l'y' 't'o' 'e'n'd'a'n'g'e'r' 'l'i'f'e' 'a'n'd' 'c'o'n's'e'-'
-'f'o'r' 'c'a'u's'i'n'g' 'd'e'a't'h' 'b'y' 'n'e'g'l'i'g'e'n't' 'a'c't'.'
-'q'u'e'n'c'e' 'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'd'e'a't'h'.'
-'('c')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'('b')' 'P' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'7'8'.' 'F'a'c't's':' 'B' 'w'a's' 'b'r'o'u'g'h't' 'u'n'c'o'n's'c'i'o'u's' 't'o' 'a'
-'('c')' 'P' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'p'r'i'v'a't'e' 'n'u'r's'i'n'g' 'h'o'm'e'.' 'I'n' 't'h'e' 'a'b's'e'n'c'e' 'o'f'
-'('d')' 'P' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'t'h'e' 's'u'r'g'e'o'n',' 'h'i's' 'a't't'e'n'd'a'n't',' 'A',' 'e'n't'e'r'e'd' 'i't'
-'8'1'.' 'F'a'c't's':' 'A' 'c'a'u's'e's' 'a'n' 'i'n'j'u'r'y' 't'o' 'Z',' 'w'h'i'c'h' 'r'e'-'
-'a's' 'a'n' 'e'm'e'r'g'e'n'c'y' 'c'a's'e' 'a'n'd' 'o'p'e'r'a't'e'd' 'u'p'o'n'
-'s'u'l't's' 'i'n' 'h'i's' 'd'e'a't'h'.' 'I't' 'w'a's' 'n'e'v'e'r' 'i'n't'e'n'd'e'd' 'b'y'
-'t'h'e' 'B'’'s' 's't'o'm'a'c'h' 't'o' 'e'x't'r'a'c't' 'u'n'd'i'g'e's't'e'd' 'p'o'i'-'
-'A' 't'o' 'c'a'u's'e' 'h'i's' 'd'e'a't'h' 'n'o'r' 'i'n' 'n'o'r'm'a'l' 'c'o'n'd'i'-'
-'s'o'n'e'd' 'f'o'o'd'.' 'D'u'r'i'n'g' 't'h'e' 'o'p'e'r'a't'i'o'n',' 'B' 'd'i'e'd'.'
-'t'i'o'n's' 'i't' 'c'o'u'l'd' 'h'a'v'e' 'c'a'u's'e'd' 'Z'’'s' 'd'e'a't'h'.' 'W'h'a't'
-'T'h'e' 'p'o's't'm'o'r't'e'm' 'r'e'p'o'r't' 'a't't'r'i'b'u't'e'd' 't'h'e' 'B'’'s'
-'o'f'f'e'n'c'e' 'A' 'h'a's' 'c'o'm'm'i't't'e'd'?'
-'d'e'a't'h' 't'o' 'i'm'p'r'o'p'e'r' 'h'a'n'd'l'i'n'g' 'o'f' 's'u'c'h' 'c'a's'e's' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'i'n'd'e'p'e'n'd'e'n't'l'y' 'y'e't' 'h'e' 'c'a'r'r'i'e'd' 'o'n' 't'h'e' 'e'x'p'e'r'i'-' 'm'i't't'e'd'?'
-'m'e'n't' 'a's' 'B' 'n'e'e'd'e'd' 'a'n' 'i'm'm'e'd'i'a't'e' 't'r'e'a't'm'e'n't'.' 'D'e'c'i's'i'o'n':'
-'D'i's'c'u's's' 't'h'e' 'c'r'i'm'i'n'a'l' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'.' '('a')' 'T'h'e' 'o'f'f'e'n'c'e' 'c'o'm'm'i't't'e'd' 'i's' 'n'e'i't'h'e'r' 'o'f'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't' 'n'o'r' 'o'f' 'c'u'l'p'a'b'l'e'
-'m'i't't'e'd'?' 'h'o'm'i'c'i'd'e',' 'b'u't' 'o'f' 'c'a'u's'i'n'g' 's'i'm'p'l'e' 'h'u'r't'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '6'9'
-'('b')' 'T'h'e' 'o'f'f'e'n'c'e' 'c'o'm'm'i't't'e'd' 'i's' 'm'u'r'd'e'r'.' '8'5'.' 'F'a'c't's':' 'A' 'g'a'v'e' 's'e'v'e'r'e' 'b'e'a't'i'n'g' 't'o' 'B' 'o'n' 'a'
-'('c')' 'I't' 'i's' 'c'a's'e' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'h'i'g'h'w'a'y' 'a't' 'n'i'g'h't' 'a'n'd' 'l'e'f't' 'h'i'm' 'w'i't'h' 'f'r'a'c'-'
-'('d')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 't'u'r'e'd' 'l'e'g's' 'a'n'd' 'b'l'e'e'd'i'n'g'.' 'S'o'o'n' 't'h'e'r'e'a'f't'e'r'
-'8'2'.' 'F'a'c't's':' 'W'i't'h' 'a' 'v'i'e'w' 't'o' 'c'h'a's't'i's'i'n'g' 'h'e'r' 'B' 'b'e'c'a'm'e' 'u'n'c'o'n's'c'i'o'u's' 'd'u'e' 't'o' 's'u'b's't'a'n't'i'a'l'
-'d'a'u'g'h't'e'r',' 't'h'e' 'a'c'c'u's'e'd' 'g'a'v'e' 'a' 'k'i'c'k' 'o'n' 't'h'e' 'b'l'o'o'd' 'l'o's's'.' 'T'h'e' 'n'e'x't' 'm'o'r'n'i'n'g' 'B' 'w'a's' 'f'o'u'n'd'
-'b'a'c'k' 'a'n'd' 't'w'o' 's'l'a'p's' 'o'n' 't'h'e' 'f'a'c'e',' 't'h'e' 'r'e's'u'l't' 'd'e'a'd',' 'c'r'u's'h'e'd' 'b'y' 'a' 's'p'e'e'd'i'n'g' 't'r'u'c'k'/' 'f'a'l'l'i'n'g'
-'o'f' 'w'h'i'c'h' 'w'a's' 'd'e'a't'h'.' 't'r'e'e' 'o'n' 'a'c'c'o'u'n't' 'o'f' 'c'y'c'l'o'n'e'.' 'H'a's' 'A' 'c'o'm'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i's' 'a'n'y',' 'i's' 'c'a'u's'e'd' 'b'y' 'm'i't't'e'd' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'i'n' 't'e'r'm's' 'o'f' 'S'e'c'-'
-'t'h'e' 'a'c'c'u's'e'd' 'i'n' 't'h'e' 'a'b'o'v'e' 'c'a's'e'?' 't'i'o'n' '2'9'9',' 'I'P'C'?'
-'D'e'c'i's'i'o'n':' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('a')' 'I't' 'c'o'u'l'd' 'n'o't' 'b'e' 's'a'i'd' 't'h'a't' 'a'c'c'u's'e'd' 'i'n'-' 'm'i't't'e'd'?'
-'t'e'n'd'e'd' 'o'r' 'k'n'e'w' 't'h'a't' 'k'i'c'k'i'n'g' 'o'n' 't'h'e' 'D'e'c'i's'i'o'n':'
-'b'a'c'k' 'a'n'd' 's'l'a'p'p'i'n'g' 'w'e'r'e' 'l'i'k'e'l'y' 't'o' 'e'n'-' '('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'d'a'n'g'e'r' 'l'i'f'e' 'a'n'd' 'c'o'n's'e'q'u'e'n't'l'y' 'h'e' 'i's' '('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't' 'o'n'l'y'.' 'T'h'e'
-'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'h'u'r't' 'o'n'l'y'.' 'l'i'n'e' 'b'e't'w'e'e'n' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e' 'n'o't'
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r' 'a'n'd' 'g'r'i'e'v'o'u's'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'h'u'r't' 'i's' 'v'e'r'y' 't'h'i'n'.' 'I'n' 'o'n'e' 'c'a's'e' 't'h'e' 'i'n'j'u'-'
-'('d')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 'g'r'i'e'v'o'u's' 'h'u'r't'.' 'r'i'e's' 'm'u's't' 'b'e' 's'u'c'h' 'a's' 'a'r'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e'
-'8'3'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 't'h'r'e'w' 'h'i's' 'w'i'f'e' 'f'r'o'm' 'd'e'a't'h' 'a'n'd' 'i'n' 't'h'e' 'o't'h'e'r' 't'h'e'y' 'e'n'd'a'n'g'e'r'
-'t'h'e' 'w'i'n'd'o'w' 'a'b'o'u't' '6' 'f'e'e't' 'h'i'g'h',' 'b'u't' 't'h'e' 'f'a'l'l' 'l'i'f'e'.' 'A'’'s' 'a'c't' 'w'a's' 'n'o't' 't'h'e' 'd'i'r'e'c't' 'o'r' 's'o'l'e'
-'w'a's' 'b'r'o'k'e'n' 'b'y' 'a' 'w'e'a't'h'e'r' 'b'o'a'r'd' 'f'i' 'x'e'd' 'j'u's't' 'c'a'u's'e' 'o'f' 'B'’'s' 'd'e'a't'h'.'
-'b'e'l'o'w' 'i't' 'a'n'd' 'r'e's'u'l't'e'd' 'i'n' 't'h'e' 'f'r'a'c't'u'r'e' 'o'f' '('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'k'n'e'e' 'a'n'd' 'i'n' 's'e'v'e'r'a'l' 's'm'a'l'l' 'w'o'u'n'd's'.'
-'8'6'.' 'F'a'c't's':' 'I'n' 't'h'e' 'c'o'u'r's'e' 'o'f' 'a'n' 'a'l't'e'r'c'a't'i'o'n' 'b'e'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'w'e'e'n' 'A' 'a'n'd' 'B' 'o'n' 'a' 'd'a'r'k' 'n'i'g'h't',' 't'h'e' 'f'o'r'm'e'r'
-'m'i't't'e'd'?'
-'a'i'm'e'd' 'a' 'b'l'o'w' 'w'i't'h' 'h'i's' 's't'i'c'k' 'a't' 't'h'e' 'h'e'a'd' 'o'f'
-'D'e'c'i's'i'o'n':'
-'t'h'e' 'l'a't'e'r'.' 'T'o' 'w'a'r'd' 'o'f'f' 't'h'e' 'b'l'o'w',' 'B'’'s' 'w'i'f'e' 'X','
-'('a')' 'I'f' 't'h'e' 'o'f'f'e'n'd'e'r' 'i'n't'e'n'd'e'd' 'o'r' 'k'n'e'w' 'h'i'm'-'
-'w'h'o' 'h'a'd' 'a' 'c'h'i'l'd' 'o'n' 'h'e'r' 'a'r'm' 'i'n't'e'r'v'e'n'e'd' 'b'e'-'
-'s'e'l'f' 't'o' 'b'e' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'o'n'l'y' 's'i'm'p'l'e'
-'t'w'e'e'n' 't'h'e'm'.' 'T'h'e' 'b'l'o'w' 'm'i's's'e'd' 'i't's' 'a'i'm' 'a'n'd'
-'h'u'r't',' 'h'e' 'c'a'n'n'o't' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'g'r'i'e'v'-'
-'f'e'l'l' 'o'n' 't'h'e' 'c'h'i'l'd' 'h'e'a'd' 'c'a'u's'i'n'g' 's'e'v'e'r'e' 'i'n'j'u'-'
-'o'u's' 'h'u'r't' 'e'v'e'n' 'i'f' 't'h'e' 'r'e's'u'l't'a'n't' 'h'u'r't' 'w'a's'
-'r'i'e's',' 'd'u'e' 't'o' 'w'h'i'c'h' 't'h'e' 'c'h'i'l'd' 'd'i'e'd'.' 'D'i's'c'u's's'
-'g'r'i'e'v'o'u's'.' 'T'h'e' 'a'c'c'u's'e'd' 'i'n' 't'h'e' 'p'r'e's'e'n't'
-'t'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'.'
-'c'a's'e' 'c'o'u'l'd' 'n'o't' 'h'a'v'e' 'i'n't'e'n'd'e'd' 'o'r' 'k'n'e'w'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'h'a't' 'h'e' 'w'a's' 'l'i'k'e'l'y' 't'o' 'c'a'u's'e' 'g'r'i'e'v'o'u's'
-'m'i't't'e'd'?'
-'h'u'r't' '('w'h'i'c'h' 'r'e's'u'l't'e'd' 'd'u'e' 't'o' 'a' 'w'e'a't'h'e'r'
-'D'e'c'i's'i'o'n':'
-'b'o'a'r'd')'.' 'T'h'u's',' 'h'e' 'i's' 'g'u'i'l't'y' 'o'f' 's'i'm'p'l'e'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'h'u'r't' 'o'n'l'y'.'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 's'i'm'p'l'e' 'h'u'r't',' 'a's'
-'('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'g'r'i'e'v'o'u's' 'h'u'r't'.'
-'t'h'e' 'b'l'o'w',' 'i'f' 'i't' 'h'a'd' 'f'e'l'l' 'u'p'o'n' 't'h'e' 'c'o'm'-'
-'('c')' 'N'o' 'o'f'f'e'n'c'e' 'c'a'n' 'b'e' 'm'a'd'e' 'o'u't'.'
-'p'l'a'i'n'a'n't' 'w'o'u'l'd' 'h'a'v'e' 'c'a'u's'e'd' 's'i'm'p'l'e'
-'8'4'.' 'F'a'c't's':' 'A',' 'a' 'c'h'a'i'n' 's'n'a't'c'h'e'r',' 'f'o'r'c'i'b'l'y' 'p'u'l'l'e'd'
-'h'u'r't'.'
-'t'h'e' 'e'a'r' 'r'i'n'g's' 'f'r'o'm' 't'h'e' 'e'a'r's' 'o'f' 'a'n' 'o'l'd' 'l'a'd'y'.'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.'
-'B'o't'h' 't'h'e' 'e'a'r' 'l'o'b'e's' 'w'e'r'e' 't'o'r'n' 'a'n'd' 't'h'e' 'o'l'd'
-'8'7'.' 'F'a'c't's':' 'A' 's't'r'u'c'k' 'v'i'o'l'e'n't' 'b'l'o'w's' 'o'n' 't'h'e' 'h'e'a'd'
-'l'a'd'y' 's'u'f'f'e'r'e'd' 'p'a'i'n' 'a'n'd' 's'u'f'f'e'r'i'n'g' 'f'o'r' 'o'v'e'r'
-'a'n'd' 's'h'o'u'l'd'e'r's' 'o'f' 'a' 'w'o'm'a'n' 'w'h'o' 'w'a's' 'c'a'r'r'y'-'
-'t'h'r'e'e' 'w'e'e'k's'.' 'F'o'r' 'w'h'a't' 'o'f'f'e'n'c'e' 'c'a'n' 'A' 'b'e'
-'i'n'g' 'a'n' 'i'n'f'a'n't' 'c'h'i'l'd' 'i'n' 'h'e'r' 'a'r'm's'.' 'O'n'e' 'o'f' 't'h'e'
-'p'r'o's'e'c'u't'e'd'?'
-'b'l'o'w's' 'f'e'l'l' 'o'n' 't'h'e' 'c'h'i'l'd' 'a'n'd' 'k'i'l'l'e'd' 'i't' 'w'h'i'l'e'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'h'e' 'w'o'm'a'n' 'r'e'c'e'i'v'e'd' 's'i'm'p'l'e' 'i'n'j'u'r'i'e's'.' 'D'i's'-'
-'m'i't't'e'd'?'
-'c'u's's' 't'h'e' 'l'i'a'b'i'l'i't'y' 'o'f' 'A'.'
-'D'e'c'i's'i'o'n':'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('a')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'m'i't't'e'd'?'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'v'o'l'u'n't'a'r'i'l'y' 'c'a'u's'i'n'g'
-'D'e'c'i's'i'o'n':'
-'‘'g'r'i'e'v'o'u's' 'h'u'r't'’'.' 'T'h'e' 'c'a's'e' 'c'o'm'e's' 'u'n'd'e'r'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.'
-'c'l'a'u's'e' 'e'i'g'h't'h'l'y' 'o'f' 'S'e'c't'i'o'n' '3'2'0' '('‘'a'n'y'
-'('b')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'a'u's'i'n'g' 's'i'm'p'l'e' 'h'u'r't'
-'h'u'r't' 'w'h'i'c'h' 'c'a'u's'e'd' 't'h'e' 's'u'f'f'e'r'e'r' 't'o' 'b'e'
-'d'u'r'i'n'g' 't'h'e' 's'p'a'c'e' 'o'f' '2'0' 'd'a'y's' 'i'n' 's'e'v'e'r'e' 't'o' 't'h'e' 'w'o'm'a'n' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'2'3' 'b'u't'
-'b'o'd'i'l'y' 'p'a'i'n'’')' 'w'o'u'l'd' 'b'e' 'l'i'a'b'l'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'0'4'-'A'
-'('c')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't'.' 'f'o'r' 'c'a'u's'i'n'g' 'd'e'a't'h' 'o'f' 't'h'e' 'c'h'i'l'd' 'b'y' 'h'i's'
-'
-'r'a's'h' 'a'n'd' 'n'e'g'l'i'g'e'n't' 'a'c't'.' 'A' 'k'n'e'w' 't'h'a't' 'D'e'c'i's'i'o'n':'
-'t'h'e' 'w'o'm'a'n' 'w'a's' 'c'a'r'r'y'i'n'g' 't'h'e' 'c'h'i'l'd' 'i'n' '('a')' 'A' 'a'n'd' 'C' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'a'b'e't'm'e'n't' 't'o' 's'u'i'-'
-'h'e'r' 'a'r'm's' 'a'n'd' 'h'i's' 'b'l'o'w's' 'm'i'g'h't' 'h'i't' 't'h'e' 'c'i'd'e'.'
-'c'h'i'l'd'.' 'T'h'u's',' 'h'e' 'o'u'g'h't' 't'o' 'h'a'v'e' 't'a'k'e'n' '('b')' 'A' 'a'n'd' 'C' 'a'r'e' 'n'o't' 'g'u'i'l't'y' 'u'n'd'e'r' 's'e'c't'i'o'n'
-'c'a'r'e'.' '3'0'6' 'b'e'c'a'u's'e' 'i'n's't'i'g'a't'i'o'n' 'n'e'c'e's's'a'r'i'l'y'
-'('c')' 'G'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'm'i'c'i'd'e'.' 'i'n'd'i'c'a't'e's' 's'o'm'e' 'a'c't'i'v'e' 's'u'g'g'e's't'i'o'n's' 'o'r'
-'8'8'.' 'F'a'c't's':' 'T'h'e' 'w'i'f'e' 'o'f' 't'h'e' 'a'c'c'u's'e'd' 'd'i'e'd' 'i'n' 's'u'p'p'o'r't' 'a'l'l' 's't'i'm'u'l'a't'i'o'n's' 't'o' 't'h'e' 'c'o'm'-'
-'m'y's't'e'r'i'o'u's' 'c'i'r'c'u'm's't'a'n'c'e's'.' 'T'h'e'r'e' 'w'a's' 'm'i's's'i'o'n' 'o'f' 't'h'e' 'a'c't' 'i't's'e'l'f',' 'a'n'd' 'a'd'v'i'c'e'
-'h'i's't'o'r'y' 'o'f' 'h'a'r'a's's'm'e'n't' 'a'n'd' 'c'r'u'e'l't'y' 'c'a'u's'e'd' 'c'a'n' 'b'e'c'o'm'e' 'i'n's't'i'g'a't'i'o'n' 'o'n'l'y' 'i'f' 'i't' 'i's'
-'t'o' 'h'e'r' 'b'y' 't'h'e' 'i'n'-'l'a'w's' 'a'n'd' 't'h'e' 'h'u's'b'a'n'd'.' 'f'o'u'n'd' 't'h'a't' 'i't' 'w'a's' 'a'd'v'i'c'e' 'w'h'i'c'h' 'w'a's'
-'T'h'e' 'p'o's't' 'm'o'r't'e'm' 'r'e'p'o'r't' 'i'n'd'i'c'a't'e'd' 'b'y' 't'h'e' 'm'e'a'n't' 'a'c't'i'v'e'l'y' 't'o' 's'u'g'g'e's't' 'o'r' 's't'i'm'u'l'a't'e'
-'C'.'F'.'S'.'L'.' 'r'e'p'o'r't' 'f'o'u'n'd' 's'y'm'p't'o'm's' 'o'f' 'c'r'u'-' 't'h'e' 'c'o'm'm'i's's'i'o'n' 'o'f' 'a'n' 'o'f'f'e'n'c'e'.'
-'e'l't'y'.' 'T'h'e' 'a'c'c'u's'e'd' 'w'a's' 'c'h'a'r'g'e'd' 'u'n'd'e'r' 'S'e'c'-' '('c')' 'I't' 'i's' 'a'n' 'o'f'f'e'n'c'e' 'o'f' 'c'o'n's'p'i'r'a'c'y'.'
-'t'i'o'n' '3'0'4'-'B' 'a'n'd' 'S'e'c't'i'o'n' '4'9'8'-'A'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'K'I'D'N'A'P'P'I'N'G' 'A'N'D' 'A'B'D'U'C'T'I'O'N'
-'m'i't't'e'd'?'
-'9'1'.' 'F'a'c't's':' 'P',' 'a'g'e'd' '1'7' 'y'e'a'r's',' 't'h'e' 'd'a'u'g'h't'e'r' 'o'f'
-'D'e'c'i's'i'o'n':'
-'M',' 'd'e'v'e'l'o'p's' 'f'r'i'e'n'd's'h'i'p' 'w'i't'h' 'R',' 'a' 'y'o'u'n'g'
-'('a')' 'T'h'e' 'f'a'c't's' 'a'n'd' 'c'i'r'c'u'm's't'a'n'c'e's' 'p'r'o'v'e'
-'m'a'n' 'l'i'v'i'n'g' 'i'n' 'a' 'n'e'i'g'h'b'o'u'r'i'n'g' 'h'o'u's'e'.' 'S'h'e'
-'t'h'a't' 't'h'e' 'a'c'c'u's'e'd' 'a'n'd' 'h'i's' 'f'a'm'i'l'y' 'm'e'm'-'
-'w'a'n't's' 't'o' 'm'a'r'r'y' 'h'i'm'.' 'O'n' 'l'e'a'r'n'i'n'g' 't'h'i's',' 'M'
-'b'e'r's' 'w'e'r'e' 'l'i'a'b'l'e' 't'o' 'b'e' 'c'o'm'm'i't't'e'd' 'u'n'-'
-'t'a'k'e's' 'h'e'r' 'a'n'd' 'e'n't'r'u's't's' 'h'e'r' 't'o' 'S',' 'a' 'r'e'l'a't'i'v'e'
-'d'e'r' 's'e'c't'i'o'n' '3'0'4' 'B',' 'a'n'd' 's'e'c't'i'o'n' '4'9'8' 'A'.'
-'l'i'v'i'n'g' 'i'n' 'a' 'd'i'f'f'e'r'e'n't' 'p'a'r't' 'o'f' 't'h'e' 's'a'm'e' 'c'i't'y'.'
-'('b')' 'T'h'e' 'm'y's't'e'r'i'o'u's' 'c'i'r'c'u'm's't'a'n'c'e's' 's'h'o'w'
-'S'h'o'r't'l'y' 't'h'e'r'e'a'f't'e'r',' 'P' 'g'o'e's' 'o'u't' 'o'f' 'S'’'s' 'h'o'u's'e'
-'t'h'a't' 't'h'e' 'o'f'f'e'n'c'e' 'a'm'o'u'n't'i'n'g' 't'o' 'm'u'r'd'e'r'.'
-'a'n'd' 'c'a'l'l's' 'R' 'o'n' 't'h'e' 't'e'l'e'p'h'o'n'e'.' 'R' 'j'o'i'n's' 'h'e'r'
-'('c')' 'T'h'e' 'o'f'f'e'n'c'e' 'c'o'm'm'i't't'e'd' 'i's' 'c'u'l'p'a'b'l'e'
-'a'n'd' 'b'o't'h' 'g'o' 'f'r'o'm' 'p'l'a'c'e' 't'o' 'p'l'a'c'e' 'f'o'r' 's'o'm'e'
-'h'o'm'i'c'i'd'e'.'
-'d'a'y's' 'a's' 'h'u's'b'a'n'd' 'a'n'd' 'w'i'f'e' 'u'n't'i'l' 't'h'e' 'p'o'l'i'c'e'
-'8'9'.' 'F'a'c't's':' 'A',' 'a' 'm'a'r'r'i'e'd' 'w'o'm'a'n',' 'd'i'e'd' 'w'i't'h'i'n'
-'a'r'r'e's't's' 't'h'e'm' 'o'n' 'a' 'c'o'm'p'l'a'i'n't' 'o'f' 'k'i'd'n'a'p'p'i'n'g'
-'s'e'v'e'n' 'y'e'a'r's' 'o'f' 'h'e'r' 'm'a'r'r'i'a'g'e' 'i'n' 'u'n'n'a't'u'r'a'l'
-'g'i'v'e'n' 'b'y' 'M'.' 'R' 'i's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'h'e' 'o'f'-'
-'c'i'r'c'u'm's't'a'n'c'e's'.' 'T'h'e' 'd'e'a'd' 'b'o'd'y' 'w'a's' 'r'e'c'o'v'-'
-'f'e'n'c'e' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'w'i't'h' 'i'n't'e'n't' 't'o' 'c'o'n'-'
-'e'r'e'd' 'f'r'o'm' 'a' 'w'e'l'l' 'a'd'j'a'c'e'n't' 't'o' 't'h'e' 'f'a'm'i'l'y' 'o'f'
-'t'e'm'p't' 'P' 't'o' 'm'a'r'r'y'.' 'C'a'n' 'R' 'b'e' 'h'e'l'd' 'g'u'i'l't'y' 'o'f'
-'t'h'e' 'a'c'c'u's'e'd'.' 'T'h'e' 'c'a'u's'e' 'o'f' 'd'e'a't'h',' 'a's' 'p'e'r'
-'t'h'e' 'o'f'f'e'n'c'e'?'
-'p'o's't' 'm'o'r't'e'm' 'r'e'p'o'r't' 'w'a's' 'n'o't' 'd'r'o'w'n'i'n'g' 'b'u't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'s't'r'a'n'g'u'l'a't'i'o'n'.' 'T'h'e'r'e' 'w'a's' 'w'i't'n'e's's' 'a'c'c'o'u'n't'
-'m'i't't'e'd'?'
-'t'o' 't'h'e' 'e'f'f'e'c't' 't'h'a't' 's'i'n'c'e' 't'h'e' 'm'a'r'r'i'a'g'e' 't'h'e'
-'D'e'c'i's'i'o'n':'
-'g'i'r'l' 'w'a's' 'b'e'i'n'g' 't'o'r't'u'r'e'd' 'a'n'd' 'e'v'e'n' 'a's's'a'u'l't'e'd'
-'('a')' 'R' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'k'i'd'-'
-'f'o'r' 'd'o'w'r'y'.' 'S'h'e' 'w'a's' 'e'v'e'n' 'd'e's'e'r't'e'd' 'b'u't' 'w'a's'
-'n'a'p'p'i'n'g'.'
-'t'a'k'e'n' 'b'a'c'k' 'u'n'd'e'r' 't'h'e' 'p'r'e's's'u'r'e' 'o'f' 't'h'e' 'm'e'-'
-'('b')' 'R' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'i'n' 'k'i'd'n'a'p'-'
-'d'i'a't'o'r'.' 'p'i'n'g'.'
-'I's's'u'e':' 'I's' 't'h'e' 'a'c'c'u's'e'd' 'a'n'd' 'h'i's' 'f'a'm'i'l'y' 'l'i'a'b'l'e' '('c')' 'R' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f' 'c'o'n's'p'i'r'a'c'y'
-'f'o'r' 'd'o'w'r'y' 'd'e'a't'h' 'o'r' 'a'n'y' 'o't'h'e'r' 'o'f'f'e'n'c'e'?' 'a'n'd' 'b'l'a'c'k'm'a'i'l'i'n'g'.'
-'D'e'c'i's'i'o'n':' '9'2'.' 'F'a'c't's':' 'A' 'd'e'v'e'l'o'p'e'd' 'f'r'i'e'n'd's'h'i'p' 'w'i't'h' 'a'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'm'u'r'd'e'r'.' 'g'i'r'l' 'a'g'e'd' '1'7' 'y'e'a'r's'.' 'I'n' 'c'o'u'r's'e' 'o'f' 't'i'm'e' 't'h'e'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'u'n'd'e'r' 'S'e'c't'i'o'n' 'f'r'i'e'n'd's'h'i'p' 'd'e'v'e'l'o'p'e'd' 'i'n't'o' 'i'n't'i'm'a'c'y' 'a'n'd'
-'3'0'4' 'B' 'a'n'd' 's'e'c't'i'o'n' '4'9'8' 'A'.' 't'h'r'e'e' 'm'o'n't'h's' 'b'e'f'o'r'e' 'h'e'r' '1'8't'h' 'b'i'r't'h'd'a'y' 'A'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'u'l'p'a'b'l'e' 'h'o'-' 't'o'o'k' 't'h'e' 'g'i'r'l' 's'e'v'e'r'a'l' 't'i'm'e's' 't'o' 'm'o'v'i'e's' 'a'n'd'
-'m'i'c'i'd'e'.' 'p'u'b'l'i'c' 'p'a'r'k's' 'd'u'r'i'n'g' 't'h'e' 'c'o'l'l'e'g'e' 'h'o'u'r's',' 'b'u't'
-'('d')' 'T'h'e' 'a'c'c'u's'e'd' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'c'a'u's'i'n'g' 't'h'e' 'g'i'r'l' 'r'e't'u'r'n'e'd' 'h'o'm'e' 'e'v'e'r'y' 'n'i'g'h't'.' 'T'w'o'
-'g'r'i'e'v'o'u's' 'h'u'r't'.' 'w'e'e'k's' 'b'e'f'o'r'e' 'h'e'r' '1'8't'h' 'b'i'r't'h'd'a'y' 't'h'e' 'g'i'r'l'
-'9'0'.' 'F'a'c't's':' 'A' 'a'n'd' 'B' 'w'e'r'e' 'i'n' 'l'o'v'e' 'w'i't'h' 'C',' 'a' 'g'i'r'l',' 'i'n's'i's't'e'd' 't'h'a't' 't'h'e'y' 's'h'o'u'l'd' 's't'a'y' 'o'v'e'r'n'i'g'h't'.'
-'a'n'd' 'q'u'a'r'r'e'l'l'e'd' 'o'v'e'r' 'h'e'r'.' 'A',' 't'h'e' 'a'c'c'u's'e'd',' 'A' 'a'r'r'a'n'g'e'd' 'f'o'r' 't'h'e' 'g'i'r'l'’'s' 's't'a'y' 'i'n' 'h'i's' 'o'w'n'
-'a'l'o'n'g' 'w'i't'h' 'C',' 't'a'u'n't'e'd' 'B' 't'o' 'c'o'm'm'i't' 's'u'i'-' 'h'o'u's'e'.' 'N'e'x't' 'm'o'r'n'i'n'g' 'o'n' 't'h'e' 'c'o'm'p'l'a'i'n't' 'o'f'
-'c'i'd'e'.' 'T'h'e' 'f'r'u's't'r'a't'i'o'n' 't'h'u's' 'c'a'u's'e'd' 'l'e'd' 'B' 't'o' 't'h'e' 'g'i'r'l'’'s' 'f'a't'h'e'r' 'A' 'w'a's' 'a'r'r'e's't'e'd'.' 'A' 'i's' 'p'r'o's'-'
-'c'o'm'm'i't' 's'u'i'c'i'd'e'.' 'e'c'u't'e'd' 'f'o'r' 't'h'e' 'k'i'd'n'a'p'p'i'n'g' 'o'f' 't'h'e' 'g'i'r'l'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'m'i't't'e'd'?' 'm'i't't'e'd'?'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '7'1'
-'D'e'c'i's'i'o'n':' 'i'n' 'g'o'i'n'g' 't'o' 'm'e'e't' 'h'e'r' 'u'n'c'l'e' 'i'n' 'A'g'r'a' 's'h'e'
-'('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'a's' 't'h'e' 'g'i'r'l' 'v'o'l'u'n't'a'r'i'l'y' 'c'o'u'l'd' 'a'c'c'o'm'p'a'n'y' 'h'i'm'.' 'G',' 't'h'e'n',' 'a's'k'e'd' 'f'o'r'
-'l'e'f't' 'h'e'r' 'g'u'a'r'd'i'a'n'’'s' 'p'r'o't'e'c't'i'o'n' 's'o' 'i't' 'n'o't' 'h'e'r' 'p'a'r'e'n't'’'s' 'p'e'r'm'i's's'i'o'n' 'a'n'd' 't'h'e'y' 'a'l'l'o'w'e'd'.'
-'a' 'c'a's'e' 'o'f' 'k'i'd'n'a'p'p'i'n'g'.' 'O'n' 'r'e'a'c'h'i'n'g' 'A'g'r'a' 'A' 'd'r'o'p'p'e'd' 'G' 'a't' 'h'e'r' 'u'n'-'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'a's' 'h'e' 'd'e'l'i'b'-' 'c'l'e'’'s' 'h'o'u's'e' 'a'n'd' 'i'n' 't'h'e' 'e'v'e'n'i'n'g' 'p'r'o'c'e'e'd'e'd'
-'e'r'a't'e'l'y' 'd'e'v'e'l'o'p'e'd' 'i'n't'i'm'a'c'y' 'w'i't'h' 'h'e'r' 't'o' 't'a'k'e' 'h'e'r' 'b'a'c'k' 't'o' 'N'e'w' 'D'e'l'h'i'.' 'W'h'i'l'e' 's't'i'l'l'
-'t'o' 'i'n'd'u'c'e' 'h'e'r' 't'o' 'l'e'a'v'e' 'h'e'r' 'g'u'a'r'd'i'a'n'’'s' 'i'n' 'A'g'r'a',' 'A' 's'u'g'g'e's't'e'd' 't'o' 'G' 't'h'a't' 'h'e' 'w'a'n't'e'd'
-'h'o'u's'e'.' 't'o' 'm'a'r'r'y' 'h'e'r' 'a'n'd' 'k'e'e'p'i'n'g' 'i'n' 'v'i'e'w' 't'h'e' 'o'r'-'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'o'n's'p'i'r'a'c'y',' 'k'i'd'n'a'p'p'i'n'g' 't'h'o'd'o'x' 'v'i'e'w's' 'o'f' 't'h'e'i'r' 'p'a'r'e'n't's' 'i't' 'w'o'u'l'd' 'b'e'
-'a'n'd' 'o'f'f'e'n'c'e' 'o'f' 't'a'k'i'n'g' 'u'n'd'u'e' 'l'i'b'e'r't'y' 'b'e't't'e'r' 't'o' 'a'v'a'i'l' 't'h'e' 'o'p'p'o'r't'u'n'i't'y'.' 'G',' 't'h'o'u'g'h'
-'w'i't'h' 't'h'e' 'g'i'r'l'.' 'i'n'i't'i'a'l'l'y' 'r'e'l'u'c't'a'n't',' 'u'l't'i'm'a't'e'l'y' 'a'g'r'e'e'd' 't'o' 'A'’'s'
-'9'3'.' 'F'a'c't's':' 'A',' 'a' 'b'o'y' 'a'g'e'd' '1'9' 'y'e'a'r's' 'a'n'd' 'B',' 'a' 's'u'g'g'e's't'i'o'n'.' 'A'c'c'o'r'd'i'n'g'l'y',' 't'h'e'y' 'p'u'r'c'h'a's'e'd'
-'g'i'r'l' 'a'g'e'd' '1'7'½' 'y'e'a'r's',' 'a'r'e' 'c'o'n'v'e'n't' 's't'u'd'e'n't's' 's'o'm'e' 'o'r'n'a'm'e'n't's' 'a'n'd' 'w'e'd'd'i'n'g' 'd'r'e's's' 'a'n'd'
-'i'n' 'D'e'l'h'i'.' 'B'e'i'n'g' 'c'l'a's's'm'a't'e's' 't'h'e'y' 'd'e'v'e'l'o'p'e'd' 't'h'e'n' 'w'e'n't' 't'o' 'a' 't'e'm'p'l'e' 'a'n'd' 'g'o't' 'm'a'r'r'i'e'd'.'
-'f'r'i'e'n'd's'h'i'p' 'a'n'd' 'o'n' 's'e'v'e'r'a'l' 'o'c'c'a's'i'o'n's' 'A' 'a'n'd' 'T'h'e'y' 's't'a'y'e'd' 'i'n' 'A'g'r'a' 'f'o'r' 'a' 'n'i'g'h't' 'a'n'd' 'd'e'-'
-'B' 'h'a'd' 'v'i's'i't'e'd' 'r'e's't'a'u'r'a'n't's' 'a'n'd' 'm'o'v'i'e's' 'i'n' 'c'i'd'e'd' 't'o' 'g'o' 't'o' 'B'o'm'b'a'y'.' 'H'o'w'e'v'e'r',' 't'h'e' 'n'e'x't'
-'e'a'c'h' 'o't'h'e'r'’'s' 'c'o'm'p'a'n'y'.' 'O'n' 't'h'e' 'f'a't'e'f'u'l' 'd'a'y' 'd'a'y' 't'h'e'y' 'w'e'r'e' 'a'r'r'e's't'e'd'.' 'A' 'i's' 't'r'i'e'd' 'f'o'r' 'k'i'd'-'
-'A' 'i'n'v'i't'e'd' 'B' 't'o' 'h'i's' 'h'o'u's'e'.' 'B' 'r'e'a'd'i'l'y' 'a'c'c'e'p't'-' 'n'a'p'p'i'n'g' 'G'?'
-'e'd' 't'h'e' 'i'n'v'i't'a't'i'o'n' 'a'n'd' 'r'e'a'c'h'e'd' 'A'’'s' 'h'o'u's'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'i'n' 'h'e'r' 'c'a'r'.' 'B' 'a'l's'o' 'i'n's'i's't'e'd' 't'o' 's't'a'y' 'i'n' 'A'’'s' 'm'i't't'e'd'?'
-'h'o'u's'e' 'f'o'r' 't'h'e' 'n'i'g'h't'.' 'A' 'r'e'l'u'c't'a'n't'l'y' 'p'e'r'm'i't'-' 'D'e'c'i's'i'o'n':'
-'t'e'd' 'B' 't'o' 's't'a'y' 'w'i't'h' 'h'i'm'.' 'T'h'e' 'n'e'x't' 'm'o'r'n'i'n'g' '('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y'.'
-'o'n' 't'h'e' 'c'o'm'p'l'a'i'n't' 'o'f' 't'h'e' 'f'a't'h'e'r' 'o'f' 't'h'e' 'g'i'r'l' '('b')' 'A' 'i's' 'g'u'i'l't'y'.' 'I'f' 't'h'e' 'a'c'c'u's'e'd' 'h'a's' 'l'a'i'd' 'a'
-'t'h'e' 'p'o'l'i'c'e' 'r'e'c'o'v'e'r'e'd' 't'h'e' 'm'i'n'o'r' 'g'i'r'l' 'f'r'o'm' 'f'o'u'n'd'a't'i'o'n' 'b'y' 'i'n'd'u'c'e'm'e'n't',' 'a'l'l'u'r'e'-'
-'t'h'e' 'h'o'u's'e' 'o'f' 'A'.' 'm'e'n't',' 'e't'c'.',' 'a'n'd' 'i'f' 't'h'i's' 'c'a'n' 'b'e' 'c'o'n's'i'd'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'e'r'e'd' 't'o' 'h'a'v'e' 'i'n'f'l' 'u'e'n'c'e'd' 't'h'e' 'm'i'n'o'r' 'o'r'
-'m'i't't'e'd'?' 'w'e'i'g'h'e'd' 'w'i't'h' 'h'e'r' 'i'n' 'l'e'a'v'i'n'g' 'h'e'r' 'g'u'a'r'd'-'
-'D'e'c'i's'i'o'n':' 'i'a'n'’'s' 'c'u's't'o'd'y' 'o'r' 'k'e'e'p'i'n'g' 'a'n'd' 'g'o'i'n'g' 't'o'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'b'e'c'a'u's'e' 't'h'e' 'g'i'r'l' 'i's' 'b'e'l'o'w' 't'h'e' 'a'c'c'u's'e'd',' 't'h'e'n' 'i't' 'w'o'u'l'd' 'b'e' 'd'i'f'f'i' 'c'u'l't'
-'1'8' 'y'e'a'r's' 'o'f' 'a'g'e'.' 'f'o'r' 't'h'e' 'a'c'c'u's'e'd' 't'o' 'p'l'e'a'd' 't'h'a't' 't'h'e' 'm'i'n'o'r'
-'('b')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y',' 'a's' 't'h'e' 'g'i'r'l' 'v'o'l'u'n't'a'r'i'l'y' 'h'a'd' 'v'o'l'u'n't'a'r'i'l'y' 'c'o'm'e' 't'o' 'h'i'm'.'
-'l'e'f't' 'h'e'r' 'g'u'a'r'd'i'a'n'’'s' 'p'r'o't'e'c't'i'o'n'.' 'S'h'e' 'i's' '('c')' 'T'h'e' 'f'a'c't's' 'o'f' 't'h'e' 'c'a's'e' 'a'r'e' 'n'o't' 'c'l'e'a'r' 'a'n'd'
-'a'n' 'e'd'u'c'a't'e'd' 'g'i'r'l' 'o'n' 't'h'e' 'v'e'r'g'e' 'o'f' 'a't'-' 'n'o' 'c'o'n'c'l'u's'i'v'e' 'd'e'c'i's'i'o'n' 'c'a'n' 'b'e' 'g'i'v'e'n'.'
-'t'a'i'n'i'n'g' 'm'a'j'o'r'i't'y',' 'a'n'd' 'w'a's' 'c'a'p'a'b'l'e' 'o'f' '9'5'.' 'F'a'c't's':' 'X',' 'a' 'b'o'y' 'o'f' '1'5' 'y'e'a'r's' 'a's'k's' 'a' 'g'i'r'l' 'o'f'
-'k'n'o'w'i'n'g' 'w'h'a't' 'w'a's' 'g'o'o'd' 'a'n'd' 'w'h'a't' 'w'a's' '1'6' 'y'e'a'r's' 't'o' 'r'u'n' 'a'w'a'y' 'w'i't'h' 'h'i'm' 'f'o'r' 'g'e't't'i'n'g'
-'b'a'd' 'f'o'r' 'h'e'r'.' 'T'h'e'r'e' 'i's' 'n'o' 'p'r'o'm'i's'e' 'o'r' 'i'n'-' 'm'a'r'r'i'e'd'.' 'O'n' 't'h'i's' 's'u'g'g'e's't'i'o'n's' 't'h'e' 'g'i'r'l' 'r'u'n's'
-'d'u'c'e'm'e'n't' 'f'r'o'm' 't'h'e' 's'i'd'e' 'o'f' 'A'.' 'I'f' 'f'a'c't',' 'a'w'a'y' 'w'i't'h' 'X',' 'f'r'o'm' 'D'e'l'h'i' 't'o' 'M'a'd'r'a's'.' 'C'a'n'
-'h'e' 'w'a's' 'r'e'l'u'c't'a'n't' 't'o' 'l'e't' 'h'e'r' 's't'a'y' 'w'i't'h' 'X' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'k'i'd'n'a'p'p'i'n'g'?' 'D'i's'c'u's's'.'
-'h'i'm'.' 'M'e'r'e'l'y' 'a'l'l'o'w'i'n'g' 'h'e'r' 't'o' 's't'a'y' 'a't' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'h'o'u's'e' 's'i'n'c'e' 'i't' 'w'a's' 'l'a't'e' 'h'o'u'r's' 'o'f' 'n'i'g'h't' 'm'i't't'e'd'?'
-'t'h'a't' 't'o'o' 'a'f't'e'r' 'h'e'r' 'i'n's'i's't'e'n'c'e' 'd'o'e's' 'n'o't' 'D'e'c'i's'i'o'n':'
-'a'm'o'u'n't' 't'o' 't'a'k'i'n'g' 'o'r' 'e'n't'i'c'i'n'g' 'a's' 'e'n'v'i's'-' '('a')' 'X' 'i's' 'n'o't' 'g'u'i'l't'y' 'a's' 'h'e' 'i's' 'm'i'n'o'r'.'
-'a'g'e'd' 'i'n' 'S'e'c't'i'o'n' '3'6'1'.' '('b')' 'T'h'e' 'm'i'n'o'r's'h'i'p' 'o'f' 't'h'e' 'X' 'd'o'e's' 'n'o't' 'l'e'a'd'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'i'n'd'u'c'i'n'g' 'a'n'd' 'e'n't'i'c'i'n'g' 't'o' 'a'n'y' 'c'o'n'c'l'u's'i'o'n'.'
-'t'h'e' 'g'i'r'l' 'a'n'd' 'k'i'd'n'a'p'p'i'n'g'.' '('c')' 'X' 'w'i'l'l' 'b'e' 'g'u'i'l't'y' '('t'h'o'u'g'h' 't'h'e' 'c'o'u'r't' 'm'a'y'
-'9'4'.' 'F'a'c't's':' 'G',' 'a' '1'7' 'y'e'a'r's' 'a'n'd' '9' 'm'o'n't'h' 'o'l'd' 'g'i'r'l' 't'a'k'e' 'i'n't'o' 'c'o'n's'i'd'e'r'a't'i'o'n' 'h'i's' 'j'u'v'e'n'i'l'e'
-'a'n'd' 's't'u'd'e'n't' 'o'f' 'B'.'A'.' 'w'a's' 'r'e's'i'd'i'n'g' 'n'e'x't' 'd'o'o'r' 'a'g'e' 'a'n'd' 'a'w'a'r'd' 'a' 'l'e's's'e'r' 'p'u'n'i's'h'm'e'n't')'.'
-'t'o' 't'h'e' 'h'o'u's'e' 'o'f' 'A',' 'a' 'y'o'u'n'g' 'b'u's'i'n'e's's'm'a'n' 'i'n' 'T'h'e' 'w'o'r'd' '“'W'h'o'e'v'e'r'”' 'i'n' 'S'e'c't'i'o'n' '3'6'1'
-'a' 'p'o's'h' 'c'o'l'o'n'y' 'o'f' 'N'e'w' 'D'e'l'h'i' 'a'n'd' 'b'o't'h' 'h'a'd' 's'u'g'g'e's't's' 't'h'a't' 'a' '“'m'i'n'o'r'”' 'c'a'n' 'k'i'd'n'a'p'
-'b'e'c'o'm'e' 'f'r'i'e'n'd'l'y' 't'o' 'e'a'c'h' 'o't'h'e'r'.' 'G'’'s' 'u'n'c'l'e' 'a'n'o't'h'e'r' '“'m'i'n'o'r'”'.'
-'w'a's' 'd'o'i'n'g' 'b'u's'i'n'e's's' 'i'n' 'A'g'r'a'.' 'O'n'e' 'e'v'e'n'i'n'g' '9'6'.' 'F'a'c't's':' 'A' 'g'i'r'l' 'o'f' 'a'b'o'u't' '1'6' 'y'e'a'r's' 'w'a's' 'i'n' 'l'o'v'e'
-'A' 't'o'l'd' 'G' 't'h'a't' 'e'a'r'l'y' 'n'e'x't' 'm'o'r'n'i'n'g' 'h'e' 'w'a's' 'w'i't'h' 't'h'e' 'a'c'c'u's'e'd'.' 'T'h'e' 'e'v'i'd'e'n'c'e' 's'h'o'w'e'd'
-'g'o'i'n'g' 't'o' 'A'g'r'a' 'b'y' 'c'a'r' 'a'n'd' 'w'o'u'l'd' 'c'o'm'e' 'b'a'c'k' 't'h'a't' 's'h'e' 'l'e'f't' 'h'e'r' 'h'o'm'e' 'o'n' 'h'e'r' 'o'w'n' 'a'c'c'o'r'd'
-'t'h'e' 's'a'm'e' 'e'v'e'n'i'n'g',' 'a'n'd' 'i'f' 'G' 'w'a's' 'i'n't'e'r'e's't'e'd' 'a'n'd' 'j'o'i'n'e'd' 't'h'e' 'a'c'c'u's'e'd' 'f'o'r' 'g'e't't'i'n'g' 't'h'e'i'r'
-'
-'m'a'r'r'i'a'g'e' 'r'e'g'i's't'e'r'e'd' 'a'n'd' 'l'i'v'e' 'a's' 'h'u's'b'a'n'd' 'f'o'r' 's'o'm'e't'i'm'e' 'a'n'd' 'a'c'c'e'p't'e'd' 'i't'.' 'T'h'e'y' 'w'e'n't'
-'a'n'd' 'w'i'f'e'.' 't'o' 't'e'm'p'l'e' 'a'n'd' 'g'o't' 'm'a'r'r'i'e'd'.' 'X' 'i's' 't'r'i'e'd' 'f'o'r'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'k'i'd'n'a'p'p'i'n'g' 't'h'e' 'g'i'r'l'.' 'H'e' 'p'l'e'a'd's' 't'h'a't' 't'h'e' 'g'i'r'l'
-'m'i't't'e'd'?' 'h'a'd' 'a'b'a'n'd'o'n'e'd' 'h'e'r' 'g'u'a'r'd'i'a'n's'h'i'p' 'b'e'c'a'u's'e'
-'D'e'c'i's'i'o'n':' 'o'f' 'i'l'l'-'t'r'e'a't'm'e'n't' 'o'f' 'h'e'r' 'm'o't'h'e'r'.'
-'('a')' 'A'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('b')' 'A'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 's'e'd'u'c't'i'o'n' 'a'n'd' 'm'i't't'e'd'?'
-'e'l'o'p'e'm'e'n't'.' 'D'e'c'i's'i'o'n':'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'-' '('a')' 'X' 'w'i'l'l' 'n'o't' 's'u'c'c'e'e'd',' 'a's' 'G' 'h'a'd' 'n'o't'
-'p'i'n'g' 't'h'e' 'g'i'r'l'.' 'a'b'a'n'd'o'n'e'd' 'h'e'r' 'g'u'a'r'd'i'a'n's'h'i'p'.' 'I'n' 'f'a'c't','
-'9'7'.' 'F'a'c't's':' 'T'w'o' 'g'i'r'l's' 'o'f' 'a'r'o'u'n'd' '1'7' 'y'e'a'r's' 'o'f' 'X' 't'r'i'e'd' 't'o' 't'a'k'e' 'a'd'v'a'n't'a'g'e' 'o'f' 'h'e'r' 't'e'n'd'e'r'
-'a'g'e' 'w'e'r'e' 'a'l'l'e'g'e'd' 't'o' 'h'a'v'e' 'b'e'e'n' 'k'i'd'n'a'p'p'e'd' 'a'g'e' 'a'n'd' 'p'r'e'd'i'c'a'm'e'n't' 'a'n'd' 't'h'u's',' 't'h'i's' 'a'c't'
-'f'r'o'm' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n's'h'i'p'.' 'B'o't'h' 't'h'e' 'g'i'r'l's' 'a'm'o'u'n't' 't'o' '‘'e'n't'i'c'i'n'g'’' 't'h'e' 'g'i'r'l' 'o'u't' 'o'f' 't'h'e'
-'c'a't'e'g'o'r'i'c'a'l'l'y' 's't'a't'e'd' 't'h'a't' 't'h'e'y' 'h'a'd' 'g'o'n'e' 'k'e'e'p'i'n'g' 'o'f' 'h'e'r' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n' 'w'i't'h'i'n'
-'v'o'l'u'n't'a'r'i'l'y'.' 'R'a't'h'e'r' 't'h'e'y' 'h'a'd' 'p'e'r's'u'a'd'e'd' 't'h'e' 't'h'e' 'm'e'a'n'i'n'g' 'o'f' 'S'e'c't'i'o'n' '3'6'1'.' 'G'’'s' 'c'o'n'-'
-'a'c'c'u's'e'd' 't'o' 't'a'k'e' 't'h'e'm' 'f'o'r' 'a'n' 'o'u't'i'n'g'.' 's'e'n't' 'i's' 'i'm'm'a't'e'r'i'a'l'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('b')' 'X' 'i's' 'l'i'a'b'l'e' 'f'o'r' 's'e'd'u'c't'i'o'n' 'a'n'd' 'e'l'o'p'e'-'
-'m'i't't'e'd'?' 'm'e'n't'.'
-'D'e'c'i's'i'o'n':' '('c')' 'X' 'i's' 'n'o't' 'l'i'a'b'l'e'.'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g' '('d')' 'X' 'm'a'r'r'i'e'd' 't'h'e' 'g'i'r'l' 'w'i't'h' 'h'e'r' 'c'o'n's'e'n't'.'
-'b'e'c'a'u's'e' 't'h'e' 'g'i'r'l's' 'a'r'e' 'b'e'l'o'w' '1'8' 'y'e'a'r's' '1'0'0'.' 'F'a'c't's':' 'A's'h'a' 'a'g'e'd' '1'6' 'y'e'a'r's' 'a'n'd' 'a' '1'0't'h'
-'o'f' 'a'g'e'.' 'c'l'a's's' 's't'u'd'e'n't' 'i'n' 'a' 'p'u'b'l'i'c' 's'c'h'o'o'l' 'i'n' 'D'e'l'h'i','
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 's'e'd'u'c't'i'o'n' 'a'n'd' 'o'n'c'e' 't'o'l'd' 'h'e'r' 'f'r'i'e'n'd' 'R'a'j'e's'h' 'a'g'e'd' '1'6' 'y'e'a'r's'
-'e'l'o'p'e'm'e'n't'.' 'a'n'd' 'h'e'r' 'c'l'a's's' 'f'e'l'l'o'w' 't'h'a't' 'h'e'r' 'f'a't'h'e'r' 'w'a's' 'i'l'l'–'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'-' 't'r'e'a't'i'n'g' 'h'e'r' 'a'n'd' 's'u'g'g'e's't'e'd' 't'o' 'h'i'm' 't'o' 'e'l'o'p'e'
-'p'i'n'g' 't'h'e' 'g'i'r'l's'.' 't'o'g'e't'h'e'r' 'a'n'd' 'm'a'r'r'y'.' 'T'h'e'r'e'a'f't'e'r' 'R'a'j'e's'h'
-'9'8'.' 'F'a'c't's':' 'A' 'e'n't'i'c'e'd' 'a' 'm'i'n'o'r' 'g'i'r'l' 'M' 'w'i't'h'o'u't' 'm'a'd'e' 't'h'e' 'p'l'a'n' 'a'n'd' 'e'x'p'l'a'i'n'e'd' 'i't' 't'o' 'A's'h'a' 'a'n'd'
-'t'h'e' 'c'o'n's'e'n't' 'o'f' 'h'e'r' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n' 'G' 'a'n'd' 's'h'e' 'a'c'c'o'r'd'i'n'g'l'y' 'l'e'f't' 'h'e'r' 'p'a'r'e'n't'a'l' 'h'o'u's'e' 't'o'
-'k'e'p't' 'h'e'r' 'w'i't'h' 'h'i'm' 'f'o'r' 'a' 'm'o'n't'h' 'a'f't'e'r' 'w'h'i'c'h' 'j'o'i'n' 'R'a'j'e's'h'.' 'T'h'e'y' 'l'e'f't' 'f'o'r' 'C'h'a'n'd'i'g'a'r'h' 't'o'
-'h'e' 'd'e's'e'r't'e'd' 'h'e'r'.' 'W'h'i'l'e' 'M' 'w'a's' 'l'o'i't'e'r'i'n'g' 'o'n' 'g'e't' 'm'a'r'r'i'e'd' 'i'n' 'a'n' 'A'r'y'a' 'S'a'm'a'j' 't'e'm'p'l'e',' 'b'u't'
-'t'h'e' 's't'r'e'e't' 'i'm'm'e'd'i'a't'e'l'y' 't'h'e'r'e'a'f't'e'r'.' 'B' 't'o'o'k' 'w'e'r'e' 'c'a'u'g'h't' 'b'y' 't'h'e' 'p'o'l'i'c'e'.' 'I's' 'R'a'j'e's'h' 'g'u'i'l't'y'
-'h'e'r' 'w'i't'h' 'h'i'm' 'f'r'o'm' 'w'h'o's'e' 'c'u's't'o'd'y' 'M',' 'w'a's' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'A's'h'a'?'
-'l'a't'e'r' 'r'e'c'o'v'e'r'e'd' 'b'y' 't'h'e' 'p'o'l'i'c'e'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'm'i't't'e'd'?'
-'m'i't't'e'd'?' 'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':' '('a')' 'T'h'e' 'w'o'r'd' '“'W'h'o'e'v'e'r'”' 'i'n' 'S'e'c't'i'o'n' '3'6'1'
-'('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'.' 's'u'g'g'e's't's' 't'h'a't' 'a' '“'m'i'n'o'r'”' 'c'a'n' 'k'i'd'n'a'p'
-'('b')' 'B' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'.' 'a'n'o't'h'e'r' '“'m'i'n'o'r'”'.' 'A's' 'n'o't'e'd' 'a'b'o'v'e','
-'('c')' 'G' 'i's' 'g'u'i'l't'y' 'o'f' 'n'e'g'l'i'g'e'n'c'e'.' 'R'a'j'e's'h' 'w'i'l'l' 'b'e' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'
-'('d')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'f'r'o'm' 'l'a'w'f'u'l' 'A's'h'a'.'
-'g'u'a'r'd'i'a'n's'h'i'p' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'6'1'.' 'B' 'i's' '('b')' 'R'a'j'e's'h' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'
-'n'o't' 'g'u'i'l't'y' 'a's' 'h'e' 'm'e'r'e'l'y' 'g'a'v'e' 's'h'e'l't'e'r' 't'o' 'A's'h'a' 'b'e'c'a'u's'e' 'b'o't'h' 'a'r'e' 'm'i'n'o'r'.'
-'a' 'g'i'r'l' 'w'h'o' 'w'a's' 'l'o'i't'e'r'i'n'g' 'o'n' 't'h'e' 's't'r'e'e't'.' '('c')' 'T'h'e' 'c'o'u'r't' 'i't's'e'l'f' 'p'u't' 't'h'e' 'a'c't'i'o'n' 'o'f' 'm'i'-'
-'I'n' 'o't'h'e'r' 'w'o'r'd's',' 't'h'e'r'e' 'w'a's' 'n'o' 't'a'k'i'n'g' 'n'o'r' 'u'n'd'e'r' 't'h'e' 'e'x'c'e'p't'i'o'n's'.'
-'f'r'o'm' 't'h'e' 'k'e'e'p'i'n'g' 'o'f' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n'-' '1'0'1'.' 'F'a'c't's':' 'A' 'H'i'n'd'u' 'g'i'r'l' 'o'f' '1'7' 'y'e'a'r's' 's't'u'd'y'i'n'g'
-'s'h'i'p'.' 'i'n' 'X'I'I' 's't'a'n'd'a'r'd' 'u'n'd'e'r' 't'h'e' 'c'a'r'e' 'a'n'd' 'p'r'o't'e'c'-'
-'9'9'.' 'F'a'c't's':' 'G',' 'a' 'g'i'r'l' 'o'f' '1'6' 'y'e'a'r's',' '1'1' 'm'o'n't'h's' 't'i'o'n' 'o'f' 'h'e'r' 'p'a'r'e'n't's' 'w'a's' 'l'i'v'i'n'g' 'w'i't'h' 't'h'e'm'.'
-'a'n'd' '2'4' 'd'a'y's' 'l'e'f't' 'h'e'r' 'p'a'r'e'n't'a'l' 'h'o'm'e' 'f'o'r' 'h'e'r' 'S'h'e' 'w'a's' 'h'a'v'i'n'g' 'c'r'i'm'i'n'a'l' 'i'n't'i'm'a'c'y' 'w'i't'h' 'a'
-'a'u'n't'’'s' 'h'o'u's'e' 'b'e'c'a'u's'e' 'o'f' 't'h'e' 'i'l'l'-'t'r'e'a't'm'e'n't' 'o'f' 's'h'o'p'k'e'e'p'e'r' 'r'u'n'n'i'n'g' 'a' 's'h'o'p' 'n'e'a'r' 'h'e'r' 'h'o'u's'e'.'
-'h'e'r' 's't'e'p'm'o't'h'e'r' 'w'i't'h' 'a'n' 'i'n't'e'n't'i'o'n' 't'o' 'r'e't'u'r'n' 'O'n'e' 'd'a'y' 't'h'e' 'g'i'r'l' 'l'e'f't' 'h'e'r' 'h'o'u's'e' 'a'n'd' 'w'e'n't'
-'b'a'c'k' 'a'f't'e'r' 'o'n'e' 'm'o'n't'h'.' 'O'n' 't'h'e' 'w'a'y',' 's'h'e' 'm'e't' 't'o' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 'a'n'd' 'a's'k'e'd' 'h'i'm' 't'o' 't'a'k'e'
-'X',' 'a' '2'0' 'y'e'a'r' 'o'l'd' 'm'a'n' 'a'n'd' 'n'a'r'r'a't'e'd' 'h'e'r' 'w'o'e's' 'h'e'r' 'a'w'a'y' 'p'e'r'm'a'n'e'n't'l'y'.' 'T'h'e' 's'h'o'p'k'e'e'p'e'r'
-'t'o' 'h'i'm'.' 'X',' 'w'h'o' 'w'a's' 'a' 'k'i'n'd' 'm'a'n' 'o'f'f'e'r'e'd' 't'o' 't'o'o'k' 'h'e'r' 'a'w'a'y' 't'o' 's'e'v'e'r'a'l' 'p'l'a'c'e's'.' 'L'a't'e'r'
-'m'a'r'r'y' 'h'e'r'.' 'G' 't'h'o'u'g'h't' 'a'b'o'u't' 't'h'i's' 'p'r'o'p'o's'a'l' 'o'n',' 'h'e' 'w'a's' 'a'r'r'e's't'e'd' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'6'3' 'o'f'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '7'3'
-'t'h'e' 'I'n'd'i'a'n' 'P'e'n'a'l' 'C'o'd'e'.' 'S't'a't'e' 'w'i't'h' 'r'e'a's'o'n's' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'w'h'e't'h'e'r' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 'b'e' 'c'o'n'v'i'c't'e'd'.' 'm'i't't'e'd'?'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'D'e'c'i's'i'o'n':'
-'m'i't't'e'd'?' '('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'.'
-'D'e'c'i's'i'o'n':' '('b')' 'A' 'i's' 'a'c'c'u's'e'd' 'o'f' 'm'o'c'k'/'i'n'v'a'l'i'd' 'm'a'r'-'
-'('a')' 'T'h'e' 'g'i'r'l' 'l'e'f't' 'h'e'r' 'f'a't'h'e'r'’'s' 'h'o'u's'e' 'o'f' 'h'e'r' 'r'i'a'g'e'.'
-'o'w'n' 'w'i't'h'o'u't' 'a'n'y' 'k'i'n'd' 'o'f' 'i'n'd'u'c'e'm'e'n't' '('c')' 'A' 'i's' 'a'c'c'u's'e'd' 'o'f' 't'a'k'i'n'g' 'm'a'r'r'i'a'g'e'
-'f'r'o'm' 't'h'e' 's'h'o'p'k'e'e'p'e'r'.' 'S'i'n'c'e' 's'h'e' 'w'a's' 'c'e'r'e'm'o'n'y' 'i'n' 'u'n'l'a'w'f'u'l' 'm'a'n'n'e'r'.'
-'h'a'v'i'n'g' 'c'r'i'm'i'n'a'l' 'c'o'n's'p'i'r'a'c'y' 'w'i't'h' 't'h'e' '1'0'4'.' 'F'a'c't's':' 'G',' 'a' 'g'i'r'l' 'o'f' '1'7' 'y'e'a'r's',' 'w'a's' 'i'n' 'l'o'v'e'
-'s'h'o'p'k'e'e'p'e'r',' 's'h'e' 'm'i'g'h't' 'h'a'v'e' 't'h'o'u'g'h't' 'w'i't'h' 't'h'e' 'a'c'c'u's'e'd',' 'a' 'w'i'd'o'w'e'r' 'w'h'o' 'w'a'n't'e'd'
-'t'h'a't' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 'm'a'y' 'a'g'r'e'e' 't'o' 'h'e'r' 't'o' 'm'a'r'r'y' 'h'e'r'.' 'G'’'s' 'm'o't'h'e'r' 'w'a's' 'i'n' 'f'a'v'o'u'r' 'o'f'
-'s'u'g'g'e's't'i'o'n'.' 'N'o' 'a'c't'i'v'e' 'p'a'r't' 'w'a's' 'p'l'a'y'e'd' 's'u'c'h' 'm'a'r'r'i'a'g'e' 'b'u't' 't'h'e' 'f'a't'h'e'r' 'w'a's' 'n'o't'.' 'O'n'e'
-'b'y' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 'i'n' 'c'a'u's'i'n'g' 't'h'e' 'g'i'r'l' 'd'a'y' 'w'h'e'n' 't'h'e' 'f'a't'h'e'r' 'w'a's' 'o'u't' 'o'f' 't'o'w'n' 't'h'e'
-'t'o' 'l'e'a'v'e' 'h'e'r' 'g'u'a'r'd'i'a'n's'h'i'p'.' 'F'u'r't'h'e'r',' 'a'c'c'u's'e'd' 't'o'o'k' 'G' 'a'w'a'y' 'w'i't'h' 'h'e'r' 'm'o't'h'e'r'’'s'
-'w'h'e'n' 'h'e' 't'o'o'k' 'h'e'r' 'a'w'a'y' 's'h'e' 'w'a's' 'n'o' 'c'o'n's'e'n't' 's'o' 't'h'a't' 't'h'e'y' 'c'o'u'l'd' 'g'e't' 'm'a'r'r'i'e'd' 'a't'
-'a'n'o't'h'e'r' 'p'l'a'c'e'.' 'I's' 't'h'e' 'a'c'c'u's'e'd' 'g'u'i'l't'y' 'o'f' 'k'i'd'-'
-'m'o'r'e' 'i'n' 't'h'e' 'k'e'e'p'i'n'g' 'o'f' 'l'a'w'f'u'l' 'g'u'a'r'd'-'
-'n'a'p'p'i'n'g'?'
-'i'a'n's'h'i'p'.' 'T'h'u's',' 't'h'e' 's'h'o'p'k'e'e'p'e'r' 'i's' 'n'o't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'l'i'a'b'l'e' 'f'o'r' 'k'i'd'n'a'p'p'i'n'g' 'o'f' 't'h'e' 'g'i'r'l'.'
-'m'i't't'e'd'?'
-'('b')' 'T'h'e' 's'h'o'p'k'e'e'p'e'r' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'-'
-'D'e'c'i's'i'o'n':'
-'p'i'n'g'.'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'.'
-'('c')' 'T'h'e' 's'h'o'p'k'e'e'p'e'r' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l'
-'A'l't'h'o'u'g'h' 't'h'e' 'g'i'r'l'’'s' 'f'a't'h'e'r' 'w'a's' 'a'w'a'y'
-'c'o'n's'p'i'r'a'c'y',' 's'e'd'u'c't'i'o'n' 'a'n'd' 'e'l'o'p'e'm'e'n't'.'
-'o'n' 'a' 't'o'u'r',' 's'h'e' 'w'o'u'l'd' 'b'e' 's'a'i'd' 't'o' 'b'e' 's't'i'l'l'
-'1'0'2'.' 'F'a'c't's':' 'A' 'g'i'r'l',' 'a'g'e'd' '1'7' 'y'e'a'r's' 'a'n'd' '1'0'
-'u'n'd'e'r' 'l'a'w'f'u'l' 'g'u'a'r'd'i'a'n's'h'i'p' 'o'f' 'h'e'r' 'f'a'-'
-'m'o'n't'h's',' 'w'a's' 'p'a'r't'i'c'i'p'a'n't' 'i'n' 'a' 's'o'c'i'a'l' 's'e'r'v'i'c'e'
-'t'h'e'r'.'
-'c'a'm'p' 'o'f' 't'w'o' 'm'o'n't'h's' 'd'u'r'a't'i'o'n'.' 'M',' 'a' 'b'u's'i'-'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'b'i'g'a'm'y'
-'n'e's's'm'a'n',' 'w'h'o' 'h'a'd' 'b'e'c'a'm'e' 'a'c'q'u'a'i'n't'e'd' 't'o'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'a'd'u'l't'e'r'y'.'
-'t'h'e' 'g'i'r'l' 'd'u'r'i'n'g' 't'h'e' 't'r'a'i'n' 'j'o'u'r'n'e'y' '('f'r'o'm' 't'h'e'
-'('d')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 's'e'd'u'c't'i'o'n' 'a'n'd'
-'g'i'r'l'’'s' 'p'l'a'c'e' 't'o' 't'h'e' 'c'a'm'p')',' 'm'e't' 'h'e'r' 's'e'v'e'r'a'l'
-'e'l'o'p'e'm'e'n't'.'
-'t'i'm'e's' 'i'n' 't'h'e' 'c'o'u'r's'e' 'o'f' 't'h'e' 'c'a'm'p' 'a'n'd' 'a'l's'o'
-'1'0'5'.' 'F'a'c't's':' 'A' 'i's' 'a' 'm'i'n'o'r' 'w'i'f'e' 'o'f' 'B'.' 'C' 't'a'k'e's' 'h'e'r'
-'r'e'p'r'e's'e'n't'e'd' 'g'i'f't's' 't'o' 'h'e'r'.' 'O'n' 't'h'e' 'c'o'm'p'l'e't'i'o'n'
-'f'o'r'c'i'b'l'y' 'a'n'd' 'w'i't'h'o'u't' 't'h'e' 'c'o'n's'e'n't' 'o'f' 'B' 'a'n'd'
-'o'f' 't'h'e' 'c'a'm'p',' 'M' 't'o'o'k' 't'h'e' 'g'i'r'l' 't'o' 'h'i's' 'h'o'm'e'-'
-'k'e'e'p's' 'h'e'r' 'i'n' 'h'i's' 'h'o'u's'e' 'f'o'r' 't'w'o' 'm'o'n't'h's'.'
-'t'o'w'n' 'a'n'd' 'g'o't' 'm'a'r'r'i'e'd' 'w'i't'h' 'h'e'r'.' 'I's' 'M' 'g'u'i'l't'y'
-'T'h'e'r'e' 's'h'e' 'd'e'v'e'l'o'p's' 'i'n't'i'm'a'c'y' 'w'i't'h' 'Z' 'a'
-'o'f' 'k'i'd'n'a'p'p'i'n'g'?'
-'n'e'i'g'h'b'o'u'r' 'o'f' 'C' 'a'n'd' 'r'u'n's' 'a'w'a'y' 'w'i't'h' 'Z' 't'o'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'a' 'd'i's't'a'n't' 'p'l'a'c'e'.' 'H'o'w'e'v'e'r',' 'b'o't'h' 'o'f' 't'h'e'm' 'g'o't'
-'m'i't't'e'd'?'
-'a'r'r'e's't'e'd' 'o'n' 't'h'e' 'r'e'p'o'r't' 'o'f' 'B'.' 'D'i's'c'u's's' 't'h'e'
-'D'e'c'i's'i'o'n':'
-'l'i'a'b'i'l'i't'y' 'o'f' 'C' 'a'n'd' 'Z' 'i'n' 'r'e'l'a't'i'o'n' 't'o' 't'h'e' 'o'f'-'
-'('a')' 'M' 'w'o'u'l'd' 'n'o't' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'k'i'd'n'a'p'p'i'n'g'
-'f'e'n'c'e's' 'o'f' 'k'i'd'n'a'p'p'i'n'g' 'a'n'd' 'a'b'd'u'c't'i'o'n'.'
-'b'e'c'a'u's'e' 'b'y' 't'h'e' 't'i'm'e' 'o'f' 'c'o'm'p'l'e't'i'o'n'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'o'f' 't'h'e' 'c'a'm'p',' 't'h'e' 'g'i'r'l' 'h'a'd' 'b'e'c'o'm'e' '1'8'
-'m'i't't'e'd'?'
-'y'e'a'r's' 'o'l'd' 'a'n'd' 'h'a's' 't'h'u's',' 'c'e'a's'e'd' 't'o' 'b'e' 'a'
-'D'e'c'i's'i'o'n':'
-'m'i'n'o'r'.' '('a')' 'C' 'i's' 'l'i'a'b'l'e' 'f'o'r' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'a'b'd'u'c't'i'o'n'
-'('b')' 'M' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'k'i'd'n'a'p'p'i'n'g' 'o'f' 'm'i'-' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'6'2'.' 'Z' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r'
-'n'o'r'.' 'k'i'd'n'a'p'p'i'n'g' 'b'e'c'a'u's'e' 'C' 'w'a's' 'n'o't' 'l'a'w'f'u'l'
-'('c')' 'M' 'i's' 'l'i'a'b'l'e' 'f'o'r' 's'e'd'u'c't'i'o'n' 'a'n'd' 'r'a'p'e' 'o'f' 'g'u'a'r'd'i'a'n' 'o'f' 'A' 'a't' 't'h'a't' 't'i'm'e'.' 'Z' 'm'a'y' 'b'e'
-'t'h'e' 'm'i'n'o'r'.' 'l'i'a'b'l'e' 'o'n'l'y' 'w'h'e'n' 'A' 'i's' 't'a'k'e'n' 'f'o'r' 's'o'm'e'
-'1'0'3'.' 'F'a'c't's':' 'A' 'g'i'r'l' 'o'n' 'h'e'r' 'o'w'n' 'a'c'c'o'r'd' 'w'e'n't' 't'o' 'i'l'l'e'g'a'l' 'p'u'r'p'o's'e'.'
-'A'’'s' 'h'o'u's'e',' 'p'e'r's'u'a'd'e'd' 'h'i'm' 't'o' 'e'x'e'c'u't'e' 'a' '('b')' 'C' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'i'l'l'e'g'a'l' 'd'e't'e'n't'i'o'n'.'
-'m'a'r'r'i'a'g'e' 'a'g'r'e'e'm'e'n't',' 'r'e't'u'r'n'e'd' 't'o' 'h'e'r' 'f'a'-' '('c')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'n'o't' 't'a'k'i'n'g' 'c'a'r'e' 'o'f' 'h'i's'
-'t'h'e'r'’'s' 'h'o'u's'e' 'a'n'd' 't'o'l'd' 'h'i'm' 'a'b'o'u't' 't'h'e' 'a'g'r'e'e'-' 'w'i'f'e'.'
-'m'e'n't' 'a'n'd' 'h'e'r' 'f'a't'h'e'r' 'l'o'c'k'e'd' 'h'e'r' 'i'n' 'a' 'r'o'o'm'.' '('d')' 'Z' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'k'i'd'n'a'p'p'i'n'g' 'a'n'd' 'c'r'i'm'i'-'
-'A'f't'e'r' 't'h'r'e'e' 'd'a'y's' 't'h'e' 'g'i'r'l' 'f'o'r'c'e'd' 'o'p'e'n' 't'h'e' 'n'a'l' 'i'n't'i'm'a'c'y'.'
-'d'o'o'r' 'a'n'd' 'w'e'n't' 't'o' 't'h'e' 'a'c'c'u's'e'd' 'A'.' 'I's' 'A' '1'0'6'.' 'F'a'c't's':' 'X' 't'a'k'e's' 'a' 'g'i'r'l' 'o'f' '1'3' 'y'e'a'r's' 'o'f' 'a'g'e'
-'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'p'i'n'g'?' 'w'i't'h'o'u't' 'h'e'r' 'k'n'o'w'l'e'd'g'e' 't'o' 'M'u'm'b'a'i' 't'o' 's'e'n'd'
-'
-'h'e'r' 't'o' 'D'u'b'a'i' 't'o' 'h'a'n'd'o'v'e'r' 'f'o'r' 'm'a'r'r'i'a'g'e' 't'o' 'h'e'r' 'f'a't'h'e'r' 'F' 't'o' 'b'e' 't'a'k'e'n' 'a'w'a'y' 'b'y' 'r'e'l'a't'i'v'e's'
-'a' 'S'h'e'i'k'h' 'o'v'e'r' 't'h'e'r'e' 'a'n'd' 'd'i's'p'a't'c'h'e's' 'h'e'r' 't'o' 'o'f' 'h'e'r' 'e'l'd'e'r' 's'i's't'e'r' 't'o' 'h'e'r' 'h'o'm'e' 't'o' 'l'o'o'k' 'a'f't'e'r'
-'D'u'b'a'i' 'f'o'r' 't'h'e' 'a'b'o'v'e' 'p'u'r'p'o's'e'.' 'h'e'r' 'e'l'd'e'r' 's'i's't'e'r' 'f'o'r' 's'o'm'e' 't'i'm'e'.' 'A'f't'e'r' 's'o'm'e'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 't'i'm'e' 'F' 'r'e'c'e'i'v'e'd' 't'h'e' 'i'n'f'o'r'm'a't'i'o'n' 't'h'a't' 't'h'e's'e'
-'m'i't't'e'd'?' 'r'e'l'a't'i'v'e' 'h'a'v'e' 'g'o't' 'G' 'm'a'r'r'i'e'd' 't'o' 'A'.' 'F' 'l'o'd'g'e'd'
-'D'e'c'i's'i'o'n':' 'a' 'r'e'p'o'r't' 'w'i't'h' 't'h'e' 'p'o'l'i'c'e' 't'h'a't' 'h'i's' 'd'a'u'g'h't'e'r'
-'('a')' 'X' 'i's' 'n'o't' 'g'u'i'l't'y' 'b'e'c'a'u's'e' 'i't' 'm'a'y' 'b'e' 'h'i's' 'h'a's' 'b'e'e'n' 'k'i'd'n'a'p'p'e'd' 'b'y' 't'h'e' 'r'e'l'a't'i'v'e's' 'o'f'
-'b'u's'i'n'e's's'.' 'G'’'s' 'e'l'd'e'r' 's'i's't'e'r' 'a'n'd' 's'h'e' 'h'a's' 'b'e'e'n' 'f'o'r'c'e'd'
-'('b')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' '‘'k'i'd'n'a'p'p'i'n'g' 'f'r'o'm' 'I'n'd'i'a'’' 'b'y' 't'h'e'm' 't'o' 'h'a'v'e' 'i'l'l'i'c'i't' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'A'.'
-'('S'e'c't'i'o'n' '3'6'0')' 'a'n'd' '‘'k'i'd'n'a'p'p'i'n'g',' 'a'b'-' 'P'o'l'i'c'e' 'r'e'c'o'v'e'r'e'd' 'G' 'f'r'o'm' 'A'’'s' 'h'o'u's'e' 'a'f't'e'r' 'a'
-'d'u'c't'i'n'g' 'o'r' 'i'n'd'u'c'i'n'g' 'w'o'm'a'n' 't'o' 'c'o'm'p'e'l' 'm'o'n't'h'.' 'G' 'd'e'p'o's'e'd' 't'h'a't' 'A' 'h'a'd' 's'e'x'u'a'l' 'i'n't'e'r'-'
-'h'e'r' 'm'a'r'r'i'a'g'e'’'.' '('S'e'c't'i'o'n' '3'6'6')'.' 'c'o'u'r's'e' 'w'i't'h' 'h'e'r' 'm'a'n'y' 'a' 't'i'm'e's'.' 'H'o'w'e'v'e'r','
-'('c')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'i'm'm'o'r'a'l' 't'r'a'f'f'i' 'c'k'i'n'g'.' 'm'e'd'i'c'a'l' 'r'e'p'o'r't' 's't'a't'e's' 't'h'a't' 'n'o' 'i'n'j'u'r'i'e's' 'e'x'i's't'
-'o'n' 'G'’'s' 'b'o'd'y'.' 'I'n' 'a' 'c'h'a'r'g'e' 'o'f' 'r'a'p'e' 'a'g'a'i'n's't' 'A','
-'R'A'P'E' 'h'e' 'p'l'e'a'd's' 't'h'a't' 'G' 'h'a's' 'c'o'n's'e'n't'e'd' 't'o' 's'u'c'h' 'a'c't'
-'a's' 'i'n' 'i'n'd'i'c'a't'i'v'e' 'o'f' 'h'e'r' 's't'a'y'i'n'g' 'a't' 'h'i's' 'h'o'u's'e'
-'1'0'7'.' 'F'a'c't's':' 'A',' 'a' '1'5' 'y'e'a'r' 'o'l'd' 'g'i'r'l',' 'l'e'f't' 'h'e'r' 'm'o't'h'-' 'f'o'r' 'o'n'e' 'l'o'n'g' 'm'o'n't'h'.' 'C'a'n' 'A' 's'u'c'c'e'e'd'?'
-'e'r'’'s' 'h'o'u's'e' 'a'n'd' 'j'o'i'n'e'd' 't'h'e' 'a'c'c'u's'e'd' 'b'e'c'a'u's'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'h'e'r' 'm'o't'h'e'r' 'h'a's' 't'u'r'n'e'd' 'd'o'w'n' 't'h'e' 'p'r'o'p'o's'a'l' 'm'i't't'e'd'?'
-'o'f' 'h'e'r' 'm'a'r'r'i'a'g'e' 'w'i't'h' 't'h'e' 'a'c'c'u's'e'd' 'o'n' 't'h'e' 'D'e'c'i's'i'o'n':'
-'g'r'o'u'n'd' 't'h'a't' 's'h'e' 'w'a's' 't'o'o' 'y'o'u'n'g'.' 'W'h'i'l'e' 's'h'e' '('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y'.'
-'w'a's' 'w'i't'h' 't'h'e' 'a'c'c'u's'e'd' 'h'e' 'h'a'd' 's'e'x'u'a'l' 'i'n't'e'r'-' '('b')' 'A' 'c'a'n'n'o't' 's'u'c'c'e'e'd' 'b'e'c'a'u's'e' 's'e'x'u'a'l' 'i'n'-'
-'c'o'u'r's'e' 'w'i't'h' 'h'e'r' 'a'g'a'i'n's't' 'h'e'r' 'w'i'l'l'.' 't'e'r'c'o'u'r's'e' 'w'i't'h' 'a' 'g'i'r'l'/'w'o'm'a'n' 'w'i't'h' 'o'r'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't' 'w'h'e'n' 's'h'e' 'i's' 'u'n'd'e'r'
-'m'i't't'e'd'?' '1'6' 'y'e'a'r's' 'a'm'o'u'n't's' 't'o' 'r'a'p'e'.' '['S'c'.' '3'7'5',' 'c'l'.'
-'D'e'c'i's'i'o'n':' '('v'i')']'.' 'I'n' 's'u'c'h' 'a' 'c'a's'e' 'm'e'd'i'c'a'l' 'e'v'i'd'e'n'c'e'
-'('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'k'i'd'n'a'p'-' 's'h'o'w'i'n'g' 't'h'a't' 't'h'e' 'g'i'r'l' 'w'a's' 'h'a'b'i't'u'a't'e'd'
-'p'i'n'g'.' 't'o' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'a'n'd' 't'h'a't' 't'h'e'r'e'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'r'a'p'e' 'b'e'c'a'u's'e' 'w'e'r'e' 'n'o' 's'i'g'n's' 'o'f' 'r'a'p'e' 'w'o'u'l'd' 'a'l's'o' 'b'e' 'o'f'
-'s'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'a' 'w'o'm'a'n' 'w'i't'h' 'n'o' 'h'e'l'p' 'i'f' 'i'n't'e'r'c'o'u'r's'e' 'b'y' 't'h'e' 'a'c'c'u's'e'd'
-'o'r' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't' 'w'h'e'n' 's'h'e' 'i's' 'u'n'-' 'w'i't'h' 't'h'e' 'g'i'r'l' 'i's' 'p'r'o'v'e'd'.'
-'d'e'r' '1'6' 'y'e'a'r's' 'a'm'o'u'n't's' 't'o' 'r'a'p'e'.' '['S'e'c't'i'o'n' '('c')' 'F' 'i's' 'g'u'i'l't'y' 'w'h'o' 'a'l'l'o'w'e'd' 'a' 'm'i'n'o'r' 'g'i'r'l'
-'3'7'5',' 'c'l'.' '('v'i')']'.' 'o'f' '1'3' 'y'e'a'r's' 'o'f' 'a'g'e' 't'o' 'b'e' 't'a'k'e'n' 'b'y' 't'h'e'
-'('c')' 'T'h'e' 'm'o't'h'e'r' 'i's' 'a'c'c'u's'e'd' 'o'f' 'm'a'l't'r'e'a't'-' 'r'e'l'a't'i'v'e's'.'
-'m'e'n't'.' '1'1'0'.' 'F'a'c't's':' 'K'i't't'y',' 'a' 'g'i'r'l' 'o'f' '1'5' 'y'e'a'r's' 'a'n'd' '1'0'
-'1'0'8'.' 'F'a'c't's':' 'A',' 'a' '1'5' 'y'e'a'r' 'o'l'd' 'g'i'r'l',' 'h'a'v'i'n'g' 'b'e'e'n' 'm'o'n't'h's' 'w'a's' 'm'a'r'r'i'e'd' 't'o' 'G'u'd'd'u'.' 'B'e'l'i'e'v'i'n'g'
-'r'e'b'u'k'e'd' 'b'y' 'h'e'r' 'm'o't'h'e'r' 'l'e'a'v'e's' 'h'e'r' 'h'o'u's'e'.' 'G'u'd'd'u'’'s' 'i'd'e'n't'i'c'a'l' 't'w'i'n' 'C'h'u'n'n'u' 't'o' 'b'e' 'G'u'd'-'
-'A't' 'r'a'i'l'w'a'y' 's't'a't'i'o'n' 's'h'e' 'm'e't' 't'h'e' 'a'c'c'u's'e'd' 'd'u',' 'K'i't't'y' 'h'a'd' 'w'i'l'l'f'u'l' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e'
-'w'h'o' 't'a'k'e's' 'h'e'r' 't'o' 'h'i's' 'h'o'u's'e'.' 'H'e' 'p'r'o'v'i'd'e's' 'w'i't'h' 'C'h'u'n'n'u' 'w'h'o' 'k'n'e'w' 'o'f' 'h'e'r' 'm'i's't'a'k'e'n'
-'h'e'r' 'c'l'o't'h'e's',' 'm'o'n'e'y' 'a'n'd' 'o'r'n'a'm'e'n't's' 'a't' 'h'i's' 'b'e'l'i'e'f'.' 'K'i't't'y' 'r'e'a'l'i'z'e'd' 'h'e'r' 'm'i's't'a'k'e' 'l'a't'e'r'.'
-'h'o'u's'e' 'a'n'd' 'h'a's' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 't'h'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'g'i'r'l' 'w'i't'h' 'h'e'r' 'c'o'n's'e'n't'.' 'm'i't't'e'd'?'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'D'e'c'i's'i'o'n':'
-'m'i't't'e'd'?' '('a')' 'C'h'u'n'n'u' 'i's' 'i'n'n'o'c'e'n't'.'
-'D'e'c'i's'i'o'n':' '('b')' 'C'h'u'n'n'u' 'c'a'n' 'b'e' 's'u'c'c'e's's'f'u'l'l'y' 'p'r'o's'-'
-'('a')' 'T'h'e' 'm'o't'h'e'r' 'i's' 'a'c'c'u's'e'd' 'o'f' 'm'a'l't'r'e'a't'-' 'e'c'u't'e'd' 'f'o'r' 'r'a'p'e' 'o'f' 'K'i't't'y'.' 'A' 'm'a'n' 'i's' 's'a'i'd'
-'m'e'n't'.' 't'o' 'c'o'm'm'i't' '‘'r'a'p'e'’' 'w'h'o' 'h'a's' 's'e'x'u'a'l' 'i'n'-'
-'('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'r'a'p'e' 'b'e'c'a'u's'e' 't'e'r'c'o'u'r's'e' 'w'i't'h' 'a' 'w'o'm'e'n' 'w'i't'h' 'h'e'r' 'c'o'n'-'
-'s'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'a' 'w'o'm'a'n' 'w'i't'h' 's'e'n't',' 'w'h'e'n' 't'h'e' 'm'a'n' 'k'n'o'w's' 't'h'a't' 'h'e' 'i's'
-'o'r' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't' 'w'h'e'n' 's'h'e' 'i's' 'u'n'-' 'n'o't' 'h'e'r' 'h'u's'b'a'n'd' 'a'n'd' 't'h'a't' 'h'e'r' 'c'o'n's'e'n't'
-'d'e'r' '1'6' 'y'e'a'r's' 'a'm'o'u'n't's' 't'o' 'r'a'p'e'.' '['S'e'c't'i'o'n' 'i's' 'g'i'v'e'n' 'b'e'c'a'u's'e' 's'h'e' 'b'e'l'i'e'v'e's' 't'h'a't' 'h'e'
-'3'7'5',' 'c'l'.' '('v'i')']'.' 'i's' 'a'n'o't'h'e'r' 'm'a'n' 't'o' 'w'h'o'm' 's'h'e' 'i's' 'l'a'w'f'u'l'-'
-'('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y'.' 'l'y' 'm'a'r'r'i'e'd' '['S'e'c't'i'o'n' '3'7'5',' 'c'l'.' '('v'i')']'.' 'F'u'r'-'
-'1'0'9'.' 'F'a'c't's':' 'G',' 'a' '1'3' 'y'e'a'r' 'o'l'd' 'g'i'r'l',' 'w'a's' 'a'l'l'o'w'e'd' 'b'y' 't'h'e'r',' 'a' 's'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 'a' 'g'i'r'l'/'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '7'5'
-'w'o'm'a'n' 'w'i't'h' 'o'r' 'w'i't'h'o'u't' 'h'e'r' 'c'o'n's'e'n't' 'A',' 'b'y' 'a' 'c'h'a'n'g'e' 'o'f' 'm'i'n'd',' 'd'e'c'i'd'e's' 'n'o't' 't'o'
-'w'h'e'n' 's'h'e' 'i's' 'u'n'd'e'r' '1'6' 'y'e'a'r's' 'a'm'o'u'n't's' 't'a'k'e' 't'h'e' 'r'i'n'g'.' 'H'a's' 'h'e' 's't'i'l'l' 'c'o'm'm'i't't'e'd' 'a'n'y'
-'t'o' 'r'a'p'e' '['S'e'c't'i'o'n' '3'7'5',' 'c'l'.' '('v'i')']'.' 'c'r'i'm'e'?'
-'('c')' 'K'i't't'y' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'i'n'd'u'c'e'm'e'n't' 'f'o'r' 's'e'x'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'u'a'l' 'i'n't'e'r'c'o'u'r's'e'.' 'm'i't't'e'd'?'
-'1'1'1'.' 'F'a'c't's':' 'A',' 'a'l'o'n'g' 'w'i't'h' 'o't'h'e'r' 'y'o'u'n'g' 'p'e'o'p'l'e' 'D'e'c'i's'i'o'n':'
-'w'a's' 'p'a'r't'y'i'n'g' 'a't' 'a' 'f'a'r'm'h'o'u's'e'.' 'D'u'r'i'n'g' 't'h'e' '('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 't'h'e'f't' 'a's' 'h'e' 'h'a'd'
-'c'o'u'r's'e' 'o'f' 't'h'e' 'e'v'e'n'i'n'g',' 'A' 'a'n'd' 'a' 'g'i'r'l' 'a'g'e'd' 'c'h'a'n'g'e'd' 'h'i's' 'm'i'n'd'.'
-'1'7',' 'b'o't'h' 'd'r'u'n'k',' 'w'e'r'e' 'a'l'o'n'e' 'i'n' 't'h'e' 'u'p's't'a'i'r's' '('b')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'b'e'd'r'o'o'm' 'a'n'd' 'h'e' 'a's'k'e'd' 't'h'e' 'g'i'r'l' 'w'h'e't'h'e'r' 't'i'o'n'.'
-'s'h'e' 'w'i's'h'e'd' 't'o' 'l'o's'e' 'h'e'r' 'v'i'r'g'i'n'i't'y'.' 'A' 'k'n'e'w' '('c')' 'A' 'a't' 't'h'e' 't'i'm'e' 'o'f' 'f'i' 'r's't' 'm'o'v'i'n'g' 't'h'e' 'r'i'n'g'
-'t'h'a't' 'i'f' 't'h'e' 'g'i'r'l' 'h'a'd' 'b'e'e'n' 's'o'b'e'r' 's'h'e' 'w'o'u'l'd' 'c'o'm'm'i't's' 't'h'e'f't',' 'i't' 'd'o'e's' 'n'o't' 'm'a't't'e'r' 't'h'a't'
-'n'o't' 'h'a'v'e' 'a'g'r'e'e'd'.' 'S'e'x'u'a'l' 'i'n't'e'r'c'o'u'r's'e' 't'h'e'n' 'h'e' 'l'a't'e'r' 'c'h'a'n'g'e's' 'h'i's' 'm'i'n'd' '['S'e'e' 'i'l'l'u's'-'
-'t'o'o'k' 'p'l'a'c'e' 'b'r'i'e'f'l' 'y'.' 'T'h'e' 'g'i'r'l' 's'u'b's'e'q'u'e'n't'l'y' 't'r'a't'i'o'n' '('h')' 't'o' 'S'e'c't'i'o'n' '3'7'8']'.'
-'t'o'l'd' 'h'e'r' 'p'a'r'e'n't's' 'w'h'a't' 'h'a'd' 'h'a'p'p'e'n'e'd'.' 'I's' 'A' '1'1'4'.' 'F'a'c't's':' 'A',' 'a' 'w'a's'h'e'r' 'm'a'n',' 'w'a's'h'e'd' 'a' 'c'a'r'p'e't'
-'g'u'i'l't'y' 'o'f' 'r'a'p'e'?' 'o'n' 't'h'e' 'b'a'n'k' 'o'f' 'a' 'r'i'v'e'r' 'a'n'd' 'h'u'n'g' 'i't' 'u'p' 't'h'e'r'e'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'o' 'd'r'y'.' 'A' 'w'e'n't' 't'o' 'e'a't' 'h'i's' 'l'u'n'c'h' 'w'h'e'n' 'B',' 'a'
-'m'i't't'e'd'?'
-'b'o'a't'm'a'n',' 't'e'm'p't'e'd' 'b'y' 't'h'e' 'l'o'o'k' 'o'f' 't'h'e' 'c'a'r'-'
-'D'e'c'i's'i'o'n':'
-'p'e't',' 'm'o'v'e'd' 'i't' 't'o' 'f'u'r'n'i's'h' 'h'i's' 'b'o'a't' 'f'o'r' 'a' 'd'a'y'
-'('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'r'a'p'e'.'
-'a'n'd' 't'h'e'r'e'a'f't'e'r' 'r'e't'u'r'n' 'i't' 'b'a'c'k' 't'o' 'A'.' 'B'e'f'o'r'e'
-'('b')' 'T'h'e' 'g'i'r'l' 'i's' 'g'u'i'l't'y' 'o'f' 'd'r'i'n'k'i'n'g',' 'l'o'i't'e'r'i'n'g'
-'B' 'c'o'u'l'd' 'r'u'n' 'a'w'a'y' 'w'i't'h' 't'h'e' 'c'a'r'p'e't' 'h'e' 'w'a's'
-'a'n'd' 'i'n'd'u'c'i'n'g' 'A'.'
-'a'p'p'r'e'h'e'n'd'e'd' 'b'y' 'A'.'
-'('c')' 'A' 'w'a's' 'g'u'i'l't'y' 'o'f' 'r'a'p'e'.' 'H'e' 't'o'o'k' 'a'd'v'a'n'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'a'g'e' 'o'f' 't'h'e' 's't'a't'e' 'o'f' 't'h'e' 'v'i'c't'i'm' 'a's' 's'h'e'
-'m'i't't'e'd'?'
-'w'a's' 'u'n'd'e'r' 't'h'e' 'i'n'f'l' 'u'e'n'c'e' 'o'f' 'a'l'c'o'h'o'l'.'
-'D'e'c'i's'i'o'n':'
-'S'e'c't'i'o'n' '3'7'5' '('v')',' 'n'e'g'a't'i'v'e's' 't'h'e' 'c'o'n's'e'n't'
-'('a')' 'B' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'o'f' 't'h'e' 'w'o'm'e'n' 'f'o'r' 't'h'e' 'p'u'r'p'o's'e' 'o'f' 't'h'e'
-'('b')' 'N'o' 'o'f'f'e'n'c'e' 'c'a'n' 'b'e' 'm'a'd'e' 'a'g'a'i'n's't' 'B'.'
-'o'f'f'e'n'c'e' 'o'f' 'r'a'p'e',' 'i'f' 't'h'e' 'w'o'm'a'n' 'i's' 'o'f' 'u'n'-'
-'('c')' 'B' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'s'o'u'n'd' 'm'i'n'd',' 'o'r' 'i's' 'u'n'd'e'r' 't'h'e' 'i'n'f'l' 'u'e'n'c'e'
-'1'1'5'.' 'F'a'c't's':' 'X' 't'o'o'k' 'a'w'a'y' 'Y'’'s' 'p'u'r's'e' 'f'r'o'm' 'h'i's'
-'o'f' 'i'n't'o'x'i'c'a't'i'o'n' 'a't' 't'h'e' 'r'e'l'e'v'a'n't' 't'i'm'e'.'
-'p'o'c'k'e't' 'w'h'i'l'e' 'h'e' 'w'a's' 'a's'l'e'e'p'.' 'O'n' 'g'e't't'i'n'g' 'u'p'
-'1'1'2'.' 'F'a'c't's':' 'A' 'b'e'f'r'i'e'n'd'e'd' 'a' 'g'i'r'l' 'a'g'e'd' '1'7' 'a'n'd' 'o'f'-'
-'Y' 'f'o'u'n'd' 't'h'e' 'p'u'r's'e' 'i'n' 'X'’'s' 'h'a'n'd'.' 'H'e' 'a's'k'e'd'
-'f'e'r'e'd' 'h'e'r' 'm'o'n'e'y' 'a'n'd' 'd'r'i'n'k's'.' 'S'h'e' 'a'n'd' 's'e'v'-'
-'X' 't'o' 'r'e't'u'r'n' 'i't' 't'o' 'h'i'm',' 'w'h'e'r'e' 'u'p'o'n' 'X' 'c'u'r's'e'd'
-'e'r'a'l' 'o'f' 'h'e'r' 'f'r'i'e'n'd's' 'w'e'n't' 't'o' 'A'’'s' 'h'o'u's'e'.' 'A'
-'h'i'm' 'a'n'd' 't'h'r'e'a't'e'n'e'd' 'h'i'm' 'w'i't'h' 'd'i'r'e' 'c'o'n's'e'-'
-'p'o'r'n'o'g'r'a'p'h'i'c' 'v'i'd'e'o'-'t'a'p'e' 'w'a's' 'p'l'a'y'e'd' 'o'n' 'a'
-'q'u'e'n'c'e's' 'i'f' 'h'e' 'a't't'e'm'p't'e'd' 't'o' 't'a'k'e' 't'h'e' 'p'u'r's'e'
-'T'.'V'.' 's'e't'.' 'A' 't'h'e'n' 'h'a'd' 'i'n't'e'r'c'o'u'r's'e' 'w'i't'h' 't'h'e'
-'o'r' 't'o' 'i'n'f'o'r'm' 't'h'e' 'p'o'l'i'c'e'.' 'Y' 's't'r'u'c'k' 'b'y' 'X'’'s'
-'g'i'r'l' 'i'n' 'a' 's'e'p'a'r'a't'e' 'r'o'o'm',' 't'h'e' 'g'i'r'l' 'b'e'i'n'g' 'u'n'-'
-'f'e'a'r' 'k'e'p't' 'q'u'i'e't'.' 'H'o'w'e'v'e'r',' 's'o'm'e' 'b'y's't'a'n'd'e'r's'
-'d'e'r' 't'h'e' 'i'n'f'l' 'u'e'n'c'e' 'o'f' 'a'l'c'o'h'o'l' 'a'n'd' 'v'i'd'e'o'.' 'I's'
-'r'e'p'o'r't'e'd' 't'h'e' 'm'a't't'e'r' 't'o' 't'h'e' 'p'o'l'i'c'e'.'
-'A' 'g'u'i'l't'y' 'o'f' 'r'a'p'e'?'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'m'i't't'e'd'?'
-'m'i't't'e'd'?'
-'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':'
-'('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'r'a'p'e' 'b'e'c'a'u's'e' 't'h'e' 'g'i'r'l' '('a')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'i'n't'i'm'i'd'a't'i'o'n'.'
-'h'a'd' 'g'o'n'e' 'w'i'l'l'i'n'g'l'y'.' '('b')' 'X' 'i's' 'n'o't' 'g'u'i'l't'y' 'b'e'c'a'u's'e' 'm'e'r'e' 'b'e'i'n'g' 't'h'e'
-'('b')' 'T'h'e' 'g'i'r'l' 'i's' 'g'u'i'l't'y' 'o'f' 'i'n'd'u'c'i'n'g' 't'h'e' 'a'c'-' 'p'u'r's'e' 't'o' 'b'e' 'i'n' 't'h'e' 'h'a'n'd's' 'o'f' 'X' 'd'o'e's' 'n'o't'
-'c'u's'e'd' 't'h'r'o'u'g'h' 'p'o'r'n'o'g'r'a'p'h'i'c' 'm'o'v'i'e's'.' 'a'm'o'u'n't' 't'o' 't'h'e'f't'.'
-'('c')' 'A' 'w'a's' 'g'u'i'l't'y' 'o'f' 'r'a'p'e'.' '('c')' 'X' 'c'a'n' 'b'e' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 't'h'e' 'o'f'f'e'n'c'e' 'o'f'
-'c'o'm'm'i't't'i'n'g' 't'h'e'f't'.'
-'1'1'6'.' 'F'a'c't's':' 'A' 'g'i'v'e's' 'a'n' 'e'x'p'e'n's'i'v'e' 's'u'i't' 'l'e'n'g't'h'
-'T'H'E'F'T' 'A'N'D' 'E'X'T'O'R'T'I'O'N'
-'t'o' 't'h'e' 't'a'i'l'o'r' 'f'o'r' 's't'i't'c'h'i'n'g'.' 'T'h'e' 't'a'i'l'o'r' 'f'a'i'l'e'd'
-'1'1'3'.' 'F'a'c't's':' 'A' 'f'i' 'n'd's' 'a' 'r'i'n'g' 'b'e'l'o'n'g'i'n'g' 't'o' 'Z' 'o'n' 't'o' 'g'i'v'e' 't'h'e' 's'u'i't' 'e'v'e'n' 't'w'o' 'w'e'e'k's' 'a'f't'e'r' 't'h'e'
-'a' 't'a'b'l'e' 'i'n' 't'h'e' 'l'a't't'e'r'’'s' 'h'o'u's'e' 'a'n'd' 'p'u't's' 't'h'e' 'a'p'p'o'i'n't'e'd' 'd'a't'e'.' 'O'n' 'h'i's' 'f'o'u'r't'h' 'v'i's'i't' 't'o' 't'h'e'
-'s'a'm'e' 'u'n'd'e'r' 't'h'e' 'c'a'r'p'e't' 't'h'e'r'e' 'w'i't'h' 't'h'e' 'i'n't'e'n'-' 't'a'i'l'o'r'’'s' 's'h'o'p' 'A' 'f'o'r'c'i'b'l'y' 'r'e'm'o'v'e'd' 't'h'e' 'u'n'c'u't'
-'t'i'o'n' 'o'f' 't'a'k'i'n'g' 'i't' 'a'f't'e'r'w'a'r'd's'.' 'T'h'e' 'r'i'n'g' 's't'i'l'l' 's'u'i't' 'l'e'n'g't'h' 'f'r'o'm' 't'h'e' 'a'l'm'i'r'a'h',' 'd'e's'p'i't'e' 'l'o't' 'o'f'
-'l'i'e's' 'i'n' 't'h'e' 'h'o'u's'e' 'o'f' 'Z' 'u'n'd'e't'e'c't'e'd'.' 'L'a't'e'r',' 'r'e's'i's't'a'n'c'e' 'f'r'o'm' 't'h'e' 's'h'o'p' 'a's's'i's't'a'n't's'.'
-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'w'a's' 'n'o't' 'c'o'm'm'i't't'e'd',' 'b'u't' 'A' 'w'a's' 'g'u'i'l't'y'
-'m'i't't'e'd'?' 'o'f' 'a'b'e't'm'e'n't' 'o'f' 't'h'e'f't'.'
-'D'e'c'i's'i'o'n':' '('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'('a')' 'm'a'y' 'h'a'v'e' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 't'r'e's'-' '('c')' 'A' 'i's' 'i'n'n'o'c'e'n't'.'
-'p'a's's' 'a'n'd' 'a's's'a'u'l't',' 'b'u't' 'n'o't' 't'h'e'f't' 'a's' 'w'h'a't' '('d')' 'B' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'h'e' 'd'i'd' 'w'a's' 'n'o't' 'd'o'n'e' 'd'i's'h'o'n'e's't'l'y'.' 'S'e'e' '1'2'0'.' 'F'a'c't's':' 'A',' 'a' 'g'o'v'e'r'n'm'e'n't' 'e'm'p'l'o'y'e'e' 'i'n' 't'h'e'
-'i'l'l'u's't'r'a't'i'o'n' '('i')' 't'o' 'S'e'c't'i'o'n' '3'7'8'.' 'P'o's't' 'O'f'f'i' 'c'e' 'D'e'p'a'r't'm'e'n't',' 'w'h'i'l'e' 'a's's'i's't'i'n'g' 'i'n'
-'('b')' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.' 't'h'e' 's'o'r't'i'n'g' 'o'f' 'l'e't't'e'r's',' 's'e'c'r'e't'e'd' 't'w'o' 'l'e't't'e'r's'
-'('c')' 'i's' 'n'o't' 'c'o'm'm'i't't'e'd' 'a'n'y' 'o'f'f'e'n'c'e' 'a's' 's'u'i't' 'w'i't'h' 't'h'e' 'i'n't'e'n't'i'o'n' 'o'f' 'h'a'n'd'l'i'n'g' 't'h'e'm' 't'o' 't'h'e'
-'l'e'n'g't'h' 'b'e'l'o'n'g'e'd' 't'o' 'h'i'm'.' 'd'e'l'i'v'e'r'y' 'p'e'o'n' 'a'n'd' 's'h'a'r'i'n'g' 'w'i't'h' 'h'i'm' 'c'e'r'-'
-'1'1'7'.' 'F'a'c't's':' 'X' 'h'a'd' 'g'i'v'e'n' 'h'i's' 'w'a't'c'h' 'f'o'r' 'r'e'p'a'i'r's' 't'o' 't'a'i'n' 'm'o'n'e'y' 'p'a'y'a'b'l'e' 'u'p'o'n' 't'h'e'm'.'
-'Y',' 'w'h'o' 'h'a'd' 'p'r'o'm'i's'e'd' 't'o' 'd'o' 't'h'e' 'j'o'b' 'w'i't'h'i'n' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'a' 'w'e'e'k'.' 'A'f't'e'r' '1'5' 'd'a'y's',' 'w'h'e'n' 'X' 'v'i's'i't'e'd' 'Y'’'s' 'm'i't't'e'd'?'
-'s'h'o'p',' 'h'e' 'f'o'u'n'd' 'h'i's' 'w'a't'c'h' 's't'i'l'l' 'k'e'p't' 'u'n'-' 'D'e'c'i's'i'o'n':'
-'r'e'p'a'i'r'e'd'.' 'H'e' 't'o'o'k' 't'h'e' 'w'a't'c'h' 'f'r'o'm' 't'h'e' 's'h'e'l'f' '('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't' 'a'n'd' 'o'f' 'a'n' 'a't't'e'm'p't'
-'a'n'd' 'c'a'm'e' 'b'a'c'k' 'w'i't'h'o'u't' 't'e'l'l'i'n'g' 'a'n'y't'h'i'n'g' 't'o' 't'o' 'c'o'm'm'i't' 'd'i's'h'o'n'e's't' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n'
-'Y'.' 'o'f' 'p'r'o'p'e'r't'y'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'd'e'r'e'l'i'c't'i'o'n' 'o'f' 'd'u't'y'.'
-'m'i't't'e'd'?' '('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'o'n's'p'i'r'a'c'y'.'
-'D'e'c'i's'i'o'n':' '('d')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'i'n'v'a'd'i'n'g' 't'h'e' 'p'r'i'v'a'c'y' 'o'f'
-'t'h'e' 'p'e'r's'o'n' 't'o' 'w'h'o'm' 't'h'e' 'l'e't't'e'r's' 'r'e'l'a't'-'
-'('a')' 'Y'e's',' 'X' 'c'o'm'm'i't's' 't'h'e'f't' 't'h'o'u'g'h' 't'h'e'
-'e'd'.'
-'w'a't'c'h' 'i's' 'h'i's' 'o'w'n' 'p'r'o'p'e'r't'y' 'b'u't' 'h'e' 't'a'k'e's'
-'1'2'1'.' 'F'a'c't's':' 'A',' 'a't' 'a' 'r'a'i'l'w'a'y' 's't'a't'i'o'n',' 'i'n's'e'r't's'
-'i't' 'd'i's'h'o'n'e's't'l'y'.' 'S'e'e' 'i'l'l'u's't'r'a't'i'o'n' '('k')' 't'o'
-'c'o'u'n't'e'r'f'e'i't' 'c'o'i'n's' 'i'n't'o' 'a'n' 'a'u't'o'm'a't'i'c' 'm'a'-'
-'S'e'c't'i'o'n' '3'7'8'.'
-'c'h'i'n'e' 'a'n'd' 'c'a'u's'e's' 'i't' 't'o' 'e'j'e'c't' 'r'a'i'l'w'a'y' 't'i'c'k'e't's'
-'('b')' 'X' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'w'h'i'c'h' 'A' 'a'n'd' 'h'i's' 'f'r'i'e'n'd's' 'B',' 'C' 'a'n'd' 'D' 'm'a'k'e'
-'('c')' 'Y' 'i's' 'g'u'i'l't'y' 'o'f' 'n'e'g'l'i'g'e'n'c'e' 'a'n'd' 'c'a'n' 'b'e'
-'u's'e' 'o'f'.'
-'p'r'o's'e'c'u't'e'd' 'i'n' 't'h'e' 'c'o'n's'u'm'e'r' 'p'r'o't'e'c't'i'o'n'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'a'c't' 'f'o'r' 't'h'e' 'd'e'f'i' 'c'i'e'n'c'y' 'o'f' 's'e'r'v'i'c'e's'.'
-'m'i't't'e'd'?'
-'1'1'8'.' 'F'a'c't's':' 'A' 'g'a'v'e' 'h'i's' 't'a'p'e' 'r'e'c'o'r'd'e'r' 't'o' 'B' 'f'o'r'
-'D'e'c'i's'i'o'n':'
-'r'e'p'a'i'r's' 'w'h'o' 'p'r'o'm'i's'e's' 't'o' 'c'a'r'r'y' 'o'u't' 't'h'e' 'r'e'-'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'C'r'i'm'i'n'a'l' 'M'i's'a'p'p'r'o'p'r'i'a'-'
-'p'a'i'r's' 'w'i't'h'i'n' 't'w'o' 'd'a'y's'.' 'T'h'e' 'r'e'p'a'i'r' 'c'h'a'r'g'e's'
-'t'i'o'n'.' 'B',' 'C' 'a'n'd' 'D' 'a'r'e' 'n'o't' 'l'i'a'b'l'e'.'
-'w'e'r'e' 's'e't't'l'e'd' 'a't' 'R's' '3'0'0'.' 'B' 'c'o'm'p'l'e't'e'd' 't'h'e'
-'('b')' 'A' 'w'i'l'l' 'b'e' 'g'u'i'l't'y' 'o'f' 't'h'e'f't';' 'B',' 'C' 'a'n'd' 'D'
-'r'e'p'a'i'r's' 'w'i't'h'i'n' 't'i'm'e',' 's'a't'i's'f'a'c't'o'r'i'l'y'.' 'A' 'w'i't'h'
-'w'o'u'l'd' 'b'e' 'l'i'a'b'l'e' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'1'1','
-'n'o' 'i'n't'e'n't'i'o'n' 't'o' 'p'a'y' 't'o'o'k' 'a'w'a'y' 't'h'e' 't'a'p'e' 'r'e'-'
-'I'P'C' 'f'o'r' 'r'e'c'e'i'v'i'n'g' 's't'o'l'e'n' 'p'r'o'p'e'r't'y' 'a's'
-'c'o'r'd'e'r' 'f'r'o'm' 'B'’'s' 's'h'o'p' 'i'n' 'h'i's' 'a'b's'e'n'c'e'.'
-'t'h'e'y' 'h'a'd' 'u's'e'd' 't'h'e' 't'i'c'k'e't's'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('c')' 'A',' 'B',' 'C' 'a'n'd' 'D' 'a'r'e' 'i'n'n'o'c'e'n't'.' 'R'a'i'l'w'a'y'
-'m'i't't'e'd'?'
-'a'u't'h'o'r'i't'i'e's' 'a'r'e' 'l'i'a'b'l'e' 'f'o'r' 'n'e'g'l'i'g'e'n'c'e'.'
-'D'e'c'i's'i'o'n':'
-'1'2'2'.' 'F'a'c't's':' 'A' 'i'n't'e'n'd'i'n'g' 't'o' 'c'a'u's'e' 'a' 't'h'e'f't' 't'o' 'b'e'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'c'o'm'm'i't't'e'd',' 'i'n's't'i'g'a't'e's' 'B' 't'o' 't'a'k'e' 'p'r'o'p'e'r't'y'
-'('b')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.'
-'b'e'l'o'n'g'i'n'g' 't'o' 'J' 'o'u't' 'o'f' 'J'’'s' 'p'o's's'e's's'i'o'n'.' 'A'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'i'n'd'u'c'e's' 'B' 't'o' 'b'e'l'i'e'v'e' 't'h'a't' 't'h'e' 'p'r'o'p'e'r't'y' 'b'e'-'
-'t'i'o'n'.'
-'l'o'n'g's' 't'o' 'A'.' 'B' 't'a'k'e's' 't'h'e' 'p'r'o'p'e'r't'y' 'o'u't' 'o'f' 'J'’'s'
-'('d')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'h'e'a't'i'n'g'.'
-'p'o's's'e's's'i'o'n' 'i'n' 'g'o'o'd' 'f'a'i't'h' 'b'e'l'i'e'v'i'n'g' 'i't' 't'o' 'b'e'
-'1'1'9'.' 'F'a'c't's':' 'A' 's'o'u'g'h't' 't'h'e' 'a'i'd' 'o'f' 'B' 'w'i't'h' 't'h'e' 'i'n'-'
-'A'’'s' 'p'r'o'p'e'r't'y'.'
-'t'e'n't'i'o'n' 'o'f' 'c'o'm'm'i't't'i'n'g' 'a' 't'h'e'f't' 'o'f' 't'h'e' 'p'r'o'p'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'e'r't'y' 'o'f' 'B'’'s' 'm'a's't'e'r'.' 'B',' 'w'i't'h' 't'h'e' 'k'n'o'w'l'e'd'g'e'
-'m'i't't'e'd'?'
-'a'n'd' 'c'o'n's'e'n't' 'o'f' 'h'i's' 'm'a's't'e'r',' 'a'n'd' 'f'o'r' 't'h'e' 'p'u'r'-'
-'D'e'c'i's'i'o'n':'
-'p'o's'e' 'o'f' 'p'r'o'c'u'r'i'n'g' 'A'’'s' 'p'u'n'i's'h'm'e'n't',' 'a'i'd'e'd'
-'('a')' 'B' 'i's' 'l'i'a'b'l'e' 'o'f' 't'h'e'f't'.'
-'A' 'i'n' 'c'a'r'r'y'i'n'g' 'o'u't' 'h'i's' 'o'b'j'e'c't'.'
-'('b')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'a'b'e't't'i'n'g' 't'h'e'f't'.' 'B' 'w'i'l'l' 'n'o't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'b'e' 'g'u'i'l't'y' 'b'e'c'a'u's'e' 'h'e' 'l'a'c'k's' 'd'i's'h'o'n'e's't'
-'m'i't't'e'd'?'
-'i'n't'e'n't'i'o'n' 't'o' 't'a'k'e' 'a'n'o't'h'e'r'’'s' 'p'r'o'p'e'r't'y'.'
-'D'e'c'i's'i'o'n':' '('c')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.' 'B'u't' 'B'
-'('a')' 'A's' 't'h'e' 'p'r'o'p'e'r't'y' 'r'e'm'o'v'e'd' 'w'a's' 's'o' 't'a'k'e'n' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'w'i't'h' 't'h'e' 'o'w'n'e'r'’'s' 'k'n'o'w'l'e'd'g'e',' 't'h'e'f't' 't'i'o'n'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '7'7'
-'1'2'3'.' 'F'a'c't's':' 'A' 'i'n't'e'n'd'i'n'g' 't'o' 'c'o'm'm'i't' 't'h'e'f't' 'e'n't'e'r's' 'a' 'c'r'i'm'i'n'a'l' 'c'h'a'r'g'e',' 'a'n'd' 'd'i's'h'o'n'e's't'l'y' 'i'n'-'
-'B'’'s' 'h'o'u's'e' 'a't' 'n'i'g'h't' 'a'n'd' 'r'e'm'o'v'e's' 'f'r'o'm' 'o'n'e' 'd'u'c'e's' 'Y' 't'o' 'd'e'l'i'v'e'r' 'm'o'n'e'y'.'
-'o'f' 't'h'e' 'r'o'o'm's' 'a' 'h'e'a'v'y' 'b'o'x' 't'o' 't'h'e' 'c'o'u'r't'y'a'r'd' '1'2'7'.' 'F'a'c't's':' 'A' 'r'e'f'u's'e'd' 't'o' 'r'e'g'i's't'e'r' 't'h'e' 'm'a'r'r'i'a'g'e'
-'w'h'e'r'e' 'h'e' 'o'p'e'n's' 'i't'.' 'H'e' 'd'o'e's' 'n'o't' 'f'i' 'n'd' 'i'n' 't'h'e' 'o'f' 'B' 'a'n'd' 'C'.' 'C' 'r'e'f'u's'e'd' 't'o' 'e'n't'e'r' 't'h'e'i'r' 'm'a'r'-'
-'b'o'x' 'a'n'y't'h'i'n'g' 'w'o'r't'h' 't'a'k'i'n'g' 'a'n'd' 'l'e'a'v'i'n'g' 'i't' 'r'i'a'g'e' 'i'n' 't'h'e' 'r'e'g'i's't'e'r' 'u'n'l'e's's' 'h'e' 'w'a's' 'p'a'i'd'
-'t'h'e'r'e',' 'g'o'e's' 'a'w'a'y'.' 'R's' '5'0'.' 'B' 'p'a'i'd' 't'h'e' 'm'o'n'e'y'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'m'i't't'e'd'?' 'm'i't't'e'd'?'
-'D'e'c'i's'i'o'n':' 'D'e'c'i's'i'o'n':'
-'('a')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.' '('a')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'-'
-'('b')' 'A' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'a't't'e'm'p't'i'n'g' 't'h'e'f't'.' 'p'r'i'a't'i'o'n'.'
-'H'e' 'w'i'l'l' 'a'l's'o' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'h'o'u's'e' 't'r'e's'-' '('b')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'r'e'd't'a'p'i's'm'.'
-'p'a's's' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'4'2',' 'I'P'C'.' '('c')' 'A' 'c'a'n'n'o't' 'b'e' 'c'o'n'v'i'c't'e'd' 'f'o'r' 'e'x't'o'r't'i'o'n','
-'('c')' 'B' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'n'e'g'l'i'g'e'n'c'e'.' 'a's' 't'h'e'r'e' 'i's' 'n'o' '‘'f'e'a'r' 'o'f' 'i'n'j'u'r'y'’',' 'a'n' 'e's'-'
-'1'2'4'.' 'F'a'c't's':' 'A' 'w'i't'h' 'a' 'd'i's'h'o'n'e's't' 'i'n't'e'n't'i'o'n' 't'o' 's'e'n't'i'a'l' 'r'e'q'u'i'r'e'm'e'n't' 'o'f' 'e'x't'o'r't'i'o'n' 'u'n'd'e'r'
-'s't'e'a'l' 'e'n't'e'r's' 'h'i's' 'h'a'n'd' 'i'n' 'B'’'s' 'p'o'c'k'e't' 'a't' 'a' 'f'a'i'r'.' 'S'e'c't'i'o'n' '3'8'3'.' 'T'h'e' '‘'f'e'a'r'’' 'm'u's't' 'b'e' 'o'f'
-'B'u't' 'B'’'s' 'p'o'c'k'e't' 'w'a's' 'e'm'p't'y' 'a'n'd' 'A' 'c'o'u'l'd' 'n'o't'
-'s'u'c'h' 'a' 'n'a't'u'r'e' 'a'n'd' 'e'x't'e'n't' 'a's' 't'o' 'u'n's'e't't'l'e'
-'s't'e'a'l' 'a'n'y't'h'i'n'g'.'
-'t'h'e' 'm'i'n'd' 'o'f' 't'h'e' 'p'e'r's'o'n' 'o'n' 'w'h'o'm' 'i't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'o'p'e'r'a't'e's' 'a'n'd' 't'a'k'e's' 'a'w'a'y' 'f'r'o'm' 'h'i's' 'a'c't's'
-'m'i't't'e'd'?'
-'t'h'a't' 'e'l'e'm'e'n't' 'o'f' 'f'r'e'e' 'v'o'l'u'n't'a'r'y' 'a'c't'i'o'n'
-'D'e'c'i's'i'o'n':'
-'w'h'i'c'h' 'a'l'o'n'e' 'c'o'n's't'i't'u't'e's' 'c'o'n's'e'n't'.' 'A' 'i's','
-'('a')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 't'h'e'f't'.'
-'h'o'w'e'v'e'r',' 'g'u'i'l't'y' 'o'f' '‘'i'l'l'e'g'a'l' 'g'r'a't'i'f'i' 'c'a'-'
-'('b')' 'A' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'a't't'e'm'p't'i'n'g' 't'h'e'f't'.'
-'t'i'o'n'’'.'
-'('c')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.'
-'1'2'8'.' 'F'a'c't's':' 'P',' 'a' 'p'o'l'i'c'e' 'o'f'f'i' 'c'e'r',' 'a'r'r'e's't'e'd' 'B' 'a'n'd'
-'1'2'5'.' 'F'a'c't's':' 'A' 'g'a'v'e' 'h'i's' 'w'a't'c'h' 'f'o'r' 'r'e'p'a'i'r' 't'o' 'B'.'
-'r'e'f'u's'e'd' 't'o' 'a'c'c'e'p't' 'b'a'i'l' 'u'n't'i'l' 'R's' '5'0'0' 'w'a's'
-'A' 'd'i's'p'u't'e' 'o'c'c'u'r'r'e'd' 'b'e't'w'e'e'n' 't'h'e' 't'w'o' 'o'v'e'r'
-'p'a'i'd' 'a'n'd' 'r'e'l'e'a's'e'd' 'h'i'm' 'o'n'l'y' 'w'h'e'n' 't'h'e'
-'t'h'e' 'e'x't'r'a' 'p'a'r't's' 'r'e'p'l'a'c'e'd' 'b'y' 'B',' 'w'h'i'c'h' 'w'e'r'e'
-'a'm'o'u'n't' 'd'e'm'a'n'd'e'd' 'w'a's' 'p'a'i'd'.'
-'n'o't' 'i'n'c'l'u'd'e'd' 'i'n' 't'h'e' 'e'a'r'l'i'e'r' 'e's't'i'm'a't'e'.' 'B' 'w'a's'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'u'n'w'i'l'l'i'n'g' 't'o' 'd'e'l'i'v'e'r' 't'h'e' 'w'a't'c'h' 'u'n'l'e's's' 'e'x'-'
-'m'i't't'e'd'?'
-'t'r'a' 'p'a'y'm'e'n't' 'w'a's' 'm'a'd'e'.' 'I'n' 't'h'e' 'c'o'u'r's'e' 'o'f'
-'D'e'c'i's'i'o'n':'
-'h'e'a't'e'd' 'a'r'g'u'm'e'n't' 'A' 't'o'o'k' 'o'u't' 'a' 'k'n'i'f'e',' 's'e'e'-'
-'('a')' 'P' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r't'i'o'n'.'
-'i'n'g' 'w'h'i'c'h' 'B' 'd'i'd' 'n'o't' 'o'b'j'e'c't' 't'o' 't'h'e' 'w'a't'c'h'
-'('b')' 'P' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'm'i's'u's'e' 'o'f' 'h'i's' 'p'o's'i't'i'o'n'.'
-'b'e'i'n'g' 'd'e'l'i'v'e'r'e'd' 'w'i't'h'o'u't' 'e'x'c'e's's' 'c'h'a'r'g'e's'.'
-'('c')' 'P' 'i's' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r't'i'o'n'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'1'2'9'.' 'F'a'c't's':' 'A' 's'e'v'e'r'e'd' 't'h'e' 's't'r'i'n'g's' 'o'f' 'W'’'s'
-'m'i't't'e'd'?'
-'n'e'c'k'l'a'c'e' 'w'h'i'l'e' 's'h'e' 'w'a's' 't'r'y'i'n'g' 't'o' 'b'o'a'r'd'
-'D'e'c'i's'i'o'n':'
-'a' 'c'r'o'w'd'e'd' 'b'u's'.' 'T'h'e' 'n'e'c'k'l'a'c'e' 'i'n's't'e'a'd' 'o'f'
-'('a')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.' 'B'e'-'
-'f'a'l'l'i'n'g' 'd'o'w'n' 'g'o't' 'l'o'd'g'e'd' 'i'n' 'W'’'s' 'c'l'o't'h'e's'.'
-'c'a'u's'e' 't'h'e' 'w'a't'c'h' 'b'e'l'o'n'g' 't'o' 'h'i'm' 'a'n'd' 'h'e'
-'W'h'e't'h'e'r' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 't'h'e'f't'?'
-'t'o'o'k' 'i't' 'a'w'a'y'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('b')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'e'x't'o'r'-'
-'m'i't't'e'd'?'
-'t'i'o'n'.'
-'('c')' 'B' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'h'e'a't'i'n'g'.' 'D'e'c'i's'i'o'n':'
-'1'2'6'.' 'F'a'c't's':' 'X' 's'a'w' 'Y' 'r'e'm'o'v'i'n'g' 'a' '‘'S't'e'r'e'o'’' 'f'r'o'm' '('a')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'a't't'e'm'p't' 't'o' 't'h'e'f't'.'
-'a' 'c'a'r' 'p'a'r'k'e'd' 'i'n' 'K'a'm'l'a' 'N'a'g'a'r'.' 'X' 'd'e'm'a'n'd's' '('b')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.'
-'R's' '2'0'0' 'f'r'o'm' 'Y',' 'g'i'v'i'n'g' 'h'i'm' 'a' 't'h'r'e'a't' 't'h'a't' 'i'f' '('c')' 'W' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'n'e'g'l'i'g'e'n'c'e'.'
-'h'e' 'd'i'd'n'’'t' 'g'i'v'e' 't'h'e' 'm'o'n'e'y',' 'h'e' 'w'o'u'l'd' 'i'n'f'o'r'm' '1'3'0'.' 'F'a'c't's':' 'A',' 'a' 'r'a'g'-'p'i'c'k'e'r',' 'c'o'l'l'e'c't's' 'p'l'a's't'i'c'
-'t'h'e' 'p'o'l'i'c'e'.' 'Y' 'g'a'v'e' 't'h'e' 'm'o'n'e'y'.' 'b'a'g's',' 'm'e't'a'l' 'p'i'e'c'e's' 'a'n'd' 's'c'r'a'p's' 'f'r'o'm' 't'h'e'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'g'a'r'b'a'g'e' 'h'e'a'p's' 'a'n'd' 'a'r'e'a's' 'a'd'j'o'i'n'i'n'g' 'f'a'c'-'
-'m'i't't'e'd'?' 't'o'r'i'e's'.' 'T'h'e' 'C'i't'y' 'D'e'v'e'l'o'p'm'e'n't' 'A'u't'h'o'r'i't'y'
-'D'e'c'i's'i'o'n':' 'l'o'd'g'e's' 'a' 'c'o'm'p'l'a'i'n't' 'o'f' 't'h'e'f't' 'o'f' 'm'o'v'e'a'b'l'e'
-'('a')' 'X' 'i's' 'n'o't' 'c'o'm'm'i't't'e'd' 'a'n'y' 'o'f'f'e'n'c'e'.' 'p'r'o'p'e'r't'i'e's' 'f'r'o'm' 'd'i'f'f'e'r'e'n't' 'p'a'r't's' 'o'f' 't'h'e' 'c'i't'y'
-'('b')' 'Y' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.' 'a'g'a'i'n's't' 'A'.'
-'('c')' 'X' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'e'x't'o'r'-' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'i'o'n'.' 'A's' 'h'e' 'p'u't's' 'Y' 'i'n' 'f'e'a'r' 'o'f' 'i'n'j'u'r'y' 'i'.'e'.',' 'm'i't't'e'd'?'
-'
-'D'e'c'i's'i'o'n':' 'm'o'v'a'b'l'e' 'p'r'o'p'e'r't'y' 'f'r'o'm' 'o'n'e' 'p'l'a'c'e' 't'o'
-'('a')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.' 'a'n'o't'h'e'r' 'p'l'a'c'e' 'a'm'o'u'n't's' 't'o' 't'h'e'f't'.'
-'('b')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 't'h'e'f't'.' '('c')' 'X' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'e'x't'o'r'-'
-'('c')' 'C'i't'y' 'd'e'v'e'l'o'p'm'e'n't' 'a'u't'h'o'r'i't'y' 'w'i'l'l' 'n'o't' 't'i'o'n'.' 'S'h'e' 'm'i'g'h't' 'h'a'v'e' 'c'o'n'c'e'a'l'e'd' 't'h'e'
-'s'u'c'c'e'e'd' 'i'n' 't'h'e'i'r' 'c'o'm'p'l'a'i'n't'.' 'n'e'c'k'l'a'c'e' 't'o' 'b'l'a'c'k'm'a'i'l' 'Y'.'
-'1'3'1'.' 'F'a'c't's':' 'A' 'g'r'o'u'p' 'o'f' 's'p'i'r'i't'e'd' 'y'o'u'n'g' 'p'e'r's'o'n's',' '1'3'3'.' 'F'a'c't's':' 'X' 't'h'r'e'a't'e'n's' 'Z' 't'h'a't' 'h'e' 'w'i'l'l' 'k'e'e'p' 'Z'’'s'
-'o'p'p'o's'e'd' 't'o' 'a'n'i'm'a'l' 's'l'a'u'g'h't'e'r',' 'i's's'u'e' 'a' 's't'e'r'n' 'c'h'i'l'd' 'i'n' 'w'r'o'n'g'f'u'l' 'c'o'n'f'i' 'n'e'm'e'n't' 'u'n'l'e's's' 'Z'
-'w'a'r'n'i'n'g' 'l'e't't'e'r' 't'o' 'a'l'l' 't'h'e' 'b'u't'c'h'e'r's' 'i'n' 't'h'e' 'a'g'r'e'e's' 't'o' 'l'e'a'v'e' 't'h'e' 'v'i'l'l'a'g'e' 'p'e'r'm'a'n'e'n't'l'y'
-'t'o'w'n' 't'o' 'e'i't'h'e'r' 'f'r'e'e' 'a'l'l' 't'h'e' 'a'n'i'm'a'l's' 'd'e't'a'i'n'e'd' 'a'n'd' 'd'o'n'a't'e' 'h'i's' 'e'n't'i'r'e' 'p'r'o'p'e'r't'y' 't'o' 'a' 'v'i'l'l'a'g'e'
-'f'o'r' 's'l'a'u'g'h't'e'r' 'w'i't'h'i'n' '2'4' 'h'o'u'r's' 'o'r' 'f'a'c'e' 'd'i'r'e' 't'e'm'p'l'e'.' 'Z' 'i'n' 'o'r'd'e'r' 't'o' 'a'v'o'i'd' 'e'v'i'l' 'c'o'n's'e'-'
-'c'o'n's'e'q'u'e'n'c'e's'.' 'S'c'a'r'e'd' 'b'y' 't'h'e' 'w'a'r'n'i'n'g' 't'h'e' 'q'u'e'n'c'e's' 'o'f' 't'h'e' 't'h'r'e'a't' 'a'g'r'e'e's' 't'o' 'd'o' 's'o'.'
-'b'u't'c'h'e'r's' 'f'r'e'e' 't'h'e' 'a'n'i'm'a'l's'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'm'i't't'e'd'?'
-'m'i't't'e'd'?' 'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':' '('a')' 'T'h'e'r'e' 'i's' 'n'o' 'e'x't'o'r't'i'o'n',' 'a's' 't'h'e'r'e' 'i's' 'n'o'
-'('a')' 'T'h'e' 'y'o'u'n'g' 'p'e'r's'o'n's' 'c'a'n' 'b'e' 'p'r'o's'e'c'u't'e'd' 'd'e'l'i'v'e'r'y' 'o'f' 'p'r'o'p'e'r't'y' 'b'y' 'Z' 't'o' 'X'.' 'H'o'w'-'
-'f'o'r' '‘'C'r'i'm'i'n'a'l' 'I'n't'i'm'i'd'a't'i'o'n'’' '('S'e'c't'i'o'n' 'e'v'e'r',' 'X' 'i's' 'g'u'i'l't'y' 'u'n'd'e'r' 'S'e'c't'i'o'n' '3'8'5'
-'5'0'3',' 'I'P'C')'.' 'A'c'c'o'r'd'i'n'g' 't'o' 't'h'i's' 's'e'c't'i'o'n'.' 'w'h'i'c'h' 'p'u'n'i's'h'e's' 't'h'e' 'v'e'r'y' 'a'c't' 'o'f' 'p'u't't'i'n'g'
-'“'W'h'o'e'v'e'r' 't'h'r'e'a't'e'n's' 'a'n'o't'h'e'r' 'w'i't'h' 'a'n'y' 'o'r' 't'h'e' 'a't't'e'm'p't'i'n'g' 't'o' 'p'u't' 'a'n'y' 'p'e'r's'o'n' 'i'n'
-'i'n'j'u'r'y' 't'o' 'h'i's' 'p'e'r's'o'n',' 'r'e'p'u't'a't'i'o'n' 'o'r' 'f'e'a'r' 'o'f' 'a'n'y' 'i'n'j'u'r'y' 'f'o'r' 't'h'e' 'a'b'o'v'e' 'p'u'r'-'
-'p'r'o'p'e'r't'y',' 'w'i't'h' 'i'n't'e'n't' 't'o' 'c'a'u's'e' 'a'l'a'r'm' 'p'o's'e'.'
-'t'o' 't'h'a't' 'p'e'r's'o'n',' 'o'r' 't'o' 'c'a'u's'e' 't'h'a't' 'p'e'r'-' '('b')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r't'i'o'n'.'
-'s'o'n' 't'o' 'd'o' 'a'n'y' 'a'c't' 'w'h'i'c'h' 'h'e' 'i's' 'n'o't' 'l'e'-' '('c')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'i'n't'i'm'i'd'a't'i'o'n'.'
-'g'a'l'l'y' 'b'o'u'n'd' 't'o' 'd'o' 's'o',' 'a's' 't'h'e' 'm'e'a'n's' 'o'f' '1'3'4'.' 'F'a'c't's':' 'A' 'o'b't'a'i'n's' 'p'r'o'p'e'r't'y' 'f'r'o'm' 'B' 'b'y' 's'a'y'-'
-'a'v'o'i'd'i'n'g' 't'h'e' 'e'x'e'c'u't'i'o'n' 'o'f' 's'u'c'h' 't'h'r'e'a't',' 'i'n'g',' '“'Y'o'u'r' 'c'h'i'l'd' 'i's' 'i'n' 't'h'e' 'h'a'n'd's' 'o'f' 'm'y'
-'c'o'm'm'i't's' 'c'r'i'm'i'n'a'l' 'i'n't'i'm'i'd'a't'i'o'n'”'.' 'T'h'e' 'g'a'n'g' 'a'n'd' 'w'i'l'l' 'b'e' 'k'i'l'l'e'd' 'u'n'l'e's's' 'y'o'u' 's'e'n'd' 'u's'
-'y'o'u'n'g' 'p'e'r's'o'n's' 'a'r'e' 'n'o't' 'g'u'i'l't'y' 'o'f' '‘'e'x'-' 'R's' '5','0'0'0'.'”'
-'t'o'r't'i'o'n'’',' 'a's' 't'h'e'r'e' 'c'a'n' 'b'e' 'n'o' 'e'x't'o'r't'i'o'n' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'u'n'l'e's's' 'a' 'p'e'r's'o'n' 'i's' 'b'y' 't'h'r'e'a't' 'o'f' 'i'n'j'u'r'y' 'm'i't't'e'd'?'
-'i'n'd'u'c'e'd' 't'o' 'd'e'l'i'v'e'r' 'a'n'y' 'p'r'o'p'e'r't'y' 't'o' 't'h'e' 'D'e'c'i's'i'o'n':'
-'c'u'l'p'r'i't'.' '('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r't'i'o'n'.'
-'('b')' 'T'h'e' 'y'o'u'n'g' 'p'e'r's'o'n' 'a'r'e' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r'-' '('b')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r't'i'o'n'.'
-'t'i'o'n'.' '('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'r'o'b'b'e'r'y'.'
-'('c')' 'T'h'e'y' 'a'r'e' 'i'n'n'o'c'e'n't' 'p'e'o'p'l'e'.' 'T'h'e'y' 'a'r'e' '1'3'5'.' 'F'a'c't's':' 'T'h'e' 'a'c'c'u's'e'd' 'h'u's'b'a'n'd' 't'o'o'k' 'h'i's' 'w'i'f'e'
-'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e' 'b'e'c'a'u's'e' 't'o' 'a' 'f'o'r'e's't' 'a'n'd' 'o'b't'a'i'n'e'd' 'h'e'r' 'o'r'n'a'm'e'n't's' 'u'n'-'
-'t'h'e'y' 'a'r'e' 'd'o'i'n'g' 's'o'c'i'a'l' 's'e'r'v'i'c'e'.' 'd'e'r' 't'h'r'e'a't's' 't'o' 'k'i'l'l' 'h'e'r'.' 'T'h'e' 'o'r'n'a'm'e'n't's' 'w'e'r'e'
-'1'3'2'.' 'F'a'c't's':' 'X',' 'a'n' 'e'l'd'e'r'l'y' 'w'o'm'a'n',' 'w'a's' 'e'm'p'l'o'y'e'd' 's'u'b's'e'q'u'e'n't'l'y' 'r'e'c'o'v'e'r'e'd' 'f'r'o'm' 'h'i'm'.'
-'a's' 'm'a'i'd' 's'e'r'v'a'n't' 'b'y' 'Y',' 'a' 'y'o'u'n'g' 'w'o'm'a'n'.' 'Y' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'w'a's' 'v'e'r'y' 'n'e'g'l'i'g'e'n't' 'a'n'd' 'n'e'v'e'r' 'b'o't'h'e'r'e'd' 'm'i't't'e'd'?'
-'a'b'o'u't' 'h'e'r' 'v'a'l'u'a'b'l'e's'.' 'X' 'b'e'i'n'g' 'h'o'n'e's't' 'a'n'd' 'D'e'c'i's'i'o'n':'
-'s'i'n'c'e'r'e' 'a'd'v'i's'e'd' 'Y' 't'o' 'k'e'e'p' 'v'a'l'u'a'b'l'e's' 'u'n'd'e'r' '('a')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'o'f'
-'l'o'c'k' 'a'n'd' 'k'e'y'.' 'O'n'e' 'd'a'y' 'X' 'f'i' 'n'd'i'n'g' 'Y'’'s' 'g'o'l'd' 'e'x't'o'r't'i'o'n',' 'n'o't' 'r'o'b'b'e'r'y'.'
-'n'e'c'k'l'a'c'e' 'o'n' 't'h'e' 't'a'b'l'e' 'i'n' 'a'n' 'o'p'e'n' 'v'e'r'a'n'd'a'h' '('b')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'g'u'i'l't'y' 'o'f' 'o'f'f'e'n'c'e' 'o'f'
-'r'e'm'o'v'e'd' 't'h'e' 'n'e'c'k'l'a'c'e' 's't'e'a'l't'h'i'l'y' 'a'n'd' 'c'o'n'-' 'r'o'b'b'e'r'y'.'
-'c'e'a'l'e'd' 't'h'e' 's'a'm'e' 'i'n' 't'h'e' 'c'o'w's'h'e'd' 't'o' 't'e'a'c'h' 'Y' '('c')' 'T'h'e' 'a'c'c'u's'e'd' 'i's' 'n'o't' 'g'u'i'l't'y',' 'b'e'c'a'u's'e' 'h'e'
-'a' 'l'e's's'o'n' 'o'r' 't'o' 'c'a'u's'e' 'h'e'r' 'a' 'l'i't't'l'e' 'a'n'x'i'e't'y'.' 'i's' 't'h'e' 'h'u's'b'a'n'd' 'a'n'd' 'h'e' 'h'a's' 'e'q'u'a'l' 'r'i'g'h't'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'o'v'e'r' 't'h'e' 'o'r'n'a'm'e'n't's'.'
-'m'i't't'e'd'?' '1'3'6'.' 'F'a'c't's':' 'X',' 'a' 'v'i'l'l'a'g'e'r' 'r'u's'h'e'd' 't'o' 't'h'e' 'f'i' 'e'l'd'
-'D'e'c'i's'i'o'n':' 'w'h'e'r'e' 'v'i'c't'i'm's' 'o'f' 'a'n' 'a'i'r'-'c'r'a's'h' 'w'e'r'e' 'l'y'i'n'g'
-'('a')' 'X' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'd'e'a'd'.' 'X' 'r'e'm'o'v'e'd' 'g'o'l'd' 'b'i's'c'u'i't's' 'a'n'd' 'd'i'a'-'
-'t'h'e'f't' 'a's' 't'h'e'r'e' 'w'a's' 'n'o' 'd'i's'h'o'n'e's't' 'i'n't'e'n'-' 'm'o'n'd' 'r'i'n'g' 'f'r'o'm' 't'h'e' 'p'o'c'k'e't' 'o'f' 'a' 'd'e'a'd' 'p'e'r'-'
-'t'i'o'n' 'o'n' 'X'’'s' 'p'a'r't'.' 's'o'n'.'
-'('b')' 'X' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 't'h'e'f't'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'B'e'c'a'u's'e' 't'h'e' 'm'e'r'e' 'm'o'v'i'n'g' 'o'f' 'a'n'y' 'm'i't't'e'd'?'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '7'9'
-'D'e'c'i's'i'o'n':' '('c')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'h'e'a't'-'
-'('a')' 'X' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e'f't'.' 'i'n'g'.'
-'('b')' 'R'e'm'o'v'i'n'g' 'o'r'n'a'm'e'n't's' 'f'r'o'm' 'a' 'd'e'a'd' '1'4'0'.' 'F'a'c't's':' 'A' 'b'o'r'r'o'w'e'd' 'a' 'b'i'c'y'c'l'e' 'f'r'o'm' 'h'i's'
-'b'o'd'y' 'c'a'n'n'o't' 'b'e' 't'a'k'i'n'g' 'p'r'o'p'e'r't'y' 'o'u't' 'f'r'i'e'n'd',' 'B',' 'p'r'o'm'i's'i'n'g' 't'o' 'r'e't'u'r'n' 't'h'e' 's'a'm'e'
-'o'f' 'p'o's's'e's's'i'o'n' 'o'f' 'a' 'p'e'r's'o'n' 'a'n'd' 't'h'u's' 'n'o't' 'w'i't'h'i'n' 'a' 'p'e'r'i'o'd' 'o'f' 't'w'o' 'o'r' 't'h'r'e'e' 'd'a'y's'.' 'H'e'
-'a' 't'h'e'f't',' 'b'u't' 'i't' 'i's' 'a' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'-' 'f'a'i'l'e'd' 't'o' 'f'u'l'f'i' 'l'l' 't'h'e' 'p'r'o'm'i's'e',' 'd'i's'p'o's'e'd' 'o'f'
-'p'r'i'a't'i'o'n' 'u'n'd'e'r' 'S'e'c't'i'o'n' '4'0'4'.' 't'h'e' 'b'i'c'y'c'l'e' 'a'n'd' 'a'p'p'r'o'p'r'i'a't'e'd' 't'h'e' 'p'r'o'c'e'e'd's'
-'('c')' 'X' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n'y' 'o'f'f'e'n'c'e'.' 't'o' 'h'i's' 'o'w'n' 'u's'e'.'
-'1'3'7'.' 'F'a'c't's':' 'A' 'f'i' 'n'd's' 'B'’'s' 'b'r'i'e'f'c'a's'e' 'a'n'd' 'w'r'i't'e's' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'t'o' 'h'i'm' 't'h'a't' 'h'e' 'w'i'l'l' 'g'i'v'e' 'i't' 'o'n' 'p'a'y'm'e'n't' 'o'f' 'm'i't't'e'd'?'
-'R's' '5'0'0'.' 'B' 'p'a'y's' 'R's' '5'0'0'.' 'I's' 'A' 'g'u'i'l't'y' 'o'f' 'e'x'-' 'D'e'c'i's'i'o'n':'
-'t'o'r't'i'o'n'?' '('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 't'i'o'n'.'
-'m'i't't'e'd'?' '('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'D'e'c'i's'i'o'n':' '('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'h'e'a't'i'n'g'.'
-'('a')' 'A' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'a'n'y' 'o'f'f'e'n'c'e'.' '1'4'1'.' 'F'a'c't's':' 'X' 'f'i' 'n'd's' 'a' 'b'r'i'e'f' 'c'a's'e' 'a't' 't'h'e' 'r'a'i'l'w'a'y'
-'('b')' 'A' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'e'x't'o'r't'i'o'n'.' 'I'f' 'B' 's't'a't'i'o'n'.' 'A'f't'e'r' 't'r'y'i'n'g' 'h'a'r'd' 't'o' 'f'i' 'n'd' 't'h'e' 'o'w'n'-'
-'d'o'e's' 'n'o't' 'p'a'y' 't'h'e'n' 'A' 'w'i'l'l' 'b'e' 'l'i'a'b'l'e' 'f'o'r' 'e'r',' 'h'e' 'b'r'o'u'g'h't' 't'h'e' 'b'r'i'e'f' 'c'a's'e' 't'o' 'h'i's' 'h'o'u's'e'.'
-'a't't'e'm'p't' 't'o' 'c'o'm'm'i't' 'e'x't'o'r't'i'o'n' 'a'n'd' 'a'l's'o' 'W'h'e'n' 'o'p'e'n'e'd',' 'h'e' 'f'o'u'n'd' 'R's' '2'5'0'0'0' 'c'a's'h'
-'f'o'r' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'i'f' 'h'e' 'i'n' 'i't' 'w'i't'h' 'n'o' 'i'n'd'i'c'a't'i'o'n' 'a's' 't'o' 'w'h'o'm' 'i't' 'b'e'-'
-'d'o'e's' 'n'o't' 'r'e't'u'r'n' 't'h'e' 'b'r'i'e'f'c'a's'e'.' 'l'o'n'g'e'd'.' 'H'e' 'n'o't'i'f'i' 'e'd' 'i'n' '‘'l'o's't' 'a'n'd' 'f'o'u'n'd'’' 'c'o'l'-'
-'('c')' 'A' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-' 'u'm'n' 'o'f' 'a'l'l' 't'h'e' 'l'e'a'd'i'n'g' 'E'n'g'l'i's'h' 'd'a'i'l'i'e's' 'o'f'
-'t'i'o'n'.' 't'h'e' 'c'i't'y' 'a's'k'i'n'g' 't'h'e' 'o'w'n'e'r' 'o'f' 't'h'e' '‘'l'o's't'’' 'b'r'i'e'f'
-'c'a's'e' 't'o' 'c'o'l'l'e'c't' 'i't' 'f'r'o'm' 'X'.' 'A'f't'e'r' 'w'a'i't'i'n'g' 'f'o'r'
-'C'R'I'M'I'N'A'L' 'M'I'S'A'P'P'R'O'P'R'I'A'T'I'O'N' 'a'b'o'u't' 'o'n'e' 'm'o'n't'h',' 'M' 'u't'i'l'i'z'e'd' 't'h'e' 'm'o'n'e'y' 'i'n'
-'A'N'D' 'B'R'E'A'C'H' 'O'F' 'T'R'U'S'T' 'p'u'r'c'h'a's'i'n'g' 'a' 's'c'o'o't'e'r'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'1'3'8'.' 'F'a'c't's':' 'A',' 'i'n' 'g'o'o'd' 'f'a'i't'h',' 'b'e'l'i'e'v'i'n'g' 't'o' 'b'e' 'h'i's' 'm'i't't'e'd'?'
-'o'w'n' 'b'a'g' 't'a'k'e's' 't'h'e' 'b'a'g' 'w'h'i'c'h' 'i'n'd'e'e'd' 'b'e'-' 'D'e'c'i's'i'o'n':'
-'l'o'n'g's' 't'o' 'Z'.' 'L'a't'e'r',' 'A' 'd'i's'c'o'v'e'r's' 't'h'e' 't'r'u't'h' 'b'u't' '('a')' 'X' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'r'i'm'i'-'
-'n'e'v'e'r't'h'e'l'e's's' 'k'e'e'p's' 'i't' 'a'n'd' 'd'o'e's' 'n'o't' 'r'e't'u'r'n' 'i't' 'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n'.'
-'t'o' 't'h'e' 'o'w'n'e'r'.' '('b')' 'N'o' 'c'o'n'c'l'u's'i'v'e' 'd'e'c'i's'i'o'n' 'c'a'n' 'b'e' 'd'r'a'w'n'.'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' '('c')' 'X' 'h'a's'n'’'t' 'c'o'm'm'i't't'e'd' 'a'n'y' 'o'f'f'e'n'c'e',' 'a's' 'h'e'
-'m'i't't'e'd'?' 'd'i'd'n'’'t' 't'a'k'e' 'o'r' 'm'i's'a'p'p'r'o'p'r'i'a't'e'd' 'p'r'o'p'-'
-'D'e'c'i's'i'o'n':' 'e'r't'y' 'd'i's'h'o'n'e's't'l'y' 'a'n'd' 'u's'e'd' 'r'e'a's'o'n'a'b'l'e'
-'('a')' 'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n'y' 'o'f'f'e'n'c'e'.' 'm'e'a'n's' 't'o' 'd'i's'c'o'v'e'r' 't'h'e' 'o'w'n'e'r'.'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'r'i'm'i'n'a'l' '1'4'2'.' 'F'a'c't's':' 'A',' 'a' 'r'a'i'l'w'a'y' 'r'e's'e'r'v'a't'i'o'n' 'c'l'e'r'k','
-'m'i's'a'p'p'r'o'p'r'i'a't'i'o'n',' 'a's' 'h'e' 'a'c't'e'd' 'd'i's'h'o'n'-' 'o'p'e'n'l'y' 'd'e'c'l'a'r'e'd' 't'h'a't' 'h'e' 'w'i'l'l' 'e'n't'e'r't'a'i'n' 't'h'e'
-'e's't'l'y' 'i'n' 'r'e't'a'i'n'i'n'g' 't'h'e' 'b'a'g'.' 'S'e'e' 'i'l'l'u's't'r'a'-' 'r'e's'e'r'v'a't'i'o'n' 'f'o'r'm's' 'o'f' 'o'n'l'y' 't'h'o's'e' 'p'a's's'e'n'g'e'r's'
-'t'i'o'n' '('a')' 'o'f' 'S'e'c't'i'o'n' '4'0'3'.' 'w'h'o' 'a'r'e' 'w'i'l'l'i'n'g' 't'o' 'g'i'v'e' 'a'n' 'a'd'd'i't'i'o'n'a'l' 's'u'm'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'a't't'e'm'p't' 't'o' 't'h'e'f't'.' 'o'f' 'R's' '2'5' 'p'e'r' 't'i'c'k'e't' 'a's' 'a' 'p'r'e'm'i'u'm'.' 'A' 's'e'l'l's'
-'1'3'9'.' 'A' 'i's' 'a' 'w'a'r'e'h'o'u's'e' 'k'e'e'p'e'r'.' 'Z',' 'g'o'i'n'g' 'o'n' 'a' '1'0'0' 't'i'c'k'e't's' 'a'n'd' 'd'e'p'o's'i't's' 't'h'e' 't'o't'a'l' 't'i'c'k'e't'
-'j'o'u'r'n'e'y',' 'e'n't'r'u's't's' 'h'i's' 'r'a'r'e' 'f'u'r'n'i't'u'r'e' 't'o' 'A' 'a'm'o'u'n't' 'i'n' 'r'a'i'l'w'a'y' 't'r'e'a's'u'r'y',' 'b'u't' 'p'o'c'k'e't's'
-'u'n'd'e'r' 'c'o'n't'r'a'c't' 't'h'a't' 'i't' 's'h'a'l'l' 'b'e' 'r'e't'u'r'n'e'd' 'o'n' 't'h'e' 's'u'm' 'o'f' 'R's' '2'5'0'0' 't'h'a't' 'h'e' 'h'a's' 'c'o'l'l'e'c't'e'd'
-'p'a'y'm'e'n't' 'o'f' 's't'i'p'u'l'a't'e'd' 's'u'm' 'o'f' 'm'o'n'e'y'.' 'A' 'f'r'o'm' 't'h'e' 'p'a's's'e'n'g'e'r's' 'a's' 'p'r'e'm'i'u'm'.'
-'d'i's'h'o'n'e's't'l'y' 's'e'l'l's' 't'h'e' 'f'u'r'n'i't'u'r'e'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'm'i't't'e'd'?'
-'m'i't't'e'd'?' 'D'e'c'i's'i'o'n':'
-'D'e'c'i's'i'o'n':' '('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'('a')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 't'h'e' 'o'f'f'e'n'c'e' 'o'f' 'c'r'i'm'i'-' '('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n'.' 't'i'o'n'.'
-'('b')' 'A' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' '('c')' 'H'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f'
-'t'r'u's't'.' 'S'e'e' 'i'l'l'u's't'r'a't'i'o'n' '('b')' 'o'f' 'S'e'c't'i'o'n' 't'r'u's't'.' 'A's' 't'h'e' 'p'r'e'm'i'u'm' 'w'a's' 'i'n't'e'n'd'e'd' 't'o'
-'4'5'.' 'b'e' 'p'a'i'd' 't'o' 'A' 'a's' 'h'i's' 'o'w'n' 'p'e'r's'o'n'a'l' 'p'r'o'f'i' 't'
-'
-'t'h'e'r'e' 'c'o'u'l'd' 'b'e' 'n'o' 'q'u'e's't'i'o'n' 'o'f' 'e'n't'r'u's't'-' 'w'i't'h' 't'h'e' 'f'e'e's' 'a'n' 'a'd'd'i't'i'o'n'a'l' 'a'm'o'u'n't' 'o'f' 'R's' '5'0'
-'m'e'n't' 'i'n' 's'u'c'h' 'p'a'y'm'e'n't'.' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'f'o'r' 't'h'e' 'N'e'w' 'B'u'i'l'd'i'n'g' 'F'u'n'd'.' 'S'i'n'c'e' 't'h'e'r'e' 'i's'
-'r'e'c'e'i'v'i'n'g' 'i'l'l'e'g'a'l' 'g'r'a't'i'f'i' 'c'a't'i'o'n'.' 'n'o' 'm'e'n't'i'o'n' 'o'f' 's'u'c'h' 'f'u'n'd' 'i'n' 't'h'e' 'p'r'o's'p'e'c't'u's'
-'1'4'3'.' 'F'a'c't's':' 'A' 'r'a'i'l'w'a'y' 'b'o'o'k'i'n'g' 'c'l'e'r'k' 'h'a'd' 'i'n' 'a'd'-' 't'h'e' 's't'u'd'e'n't's' 'p'a'y' 'R's' '5'0' 'r'e'l'u'c't'a'n't'l'y' 'a'n'd' 'u'n'-'
-'d'i't'i'o'n' 't'o' 's'e'l'l'i'n'g' 't'i'c'k'e't's',' 'p'r'o'v'i'd'e'd' 'f'o'r' 's'a'l'e' 'd'e'r' 'c'o'n'f'u's'i'o'n'.' 'H'o'w'e'v'e'r',' 'a'f't'e'r' 'c'o'l'l'e'c't'i'o'n'
-'o'f' '“'t'r'a'v'e'l' 'p'a'c'k's'”' 'c'o'n't'a'i'n'i'n'g' 's'o'a'p',' 'o'i'l',' 'o'f' 't'h'e' 'f'u'n'd' 't'h'e' 'c'a's'h'i'e'r' 'd'i'v'e'r't's' 'p'a'r't' 'o'f' 'i't' 'f'o'r'
-'c'o'm'b',' 'e't'c'.' 'f'o'r' 't'h'e' 'b'e'n'e'f'i' 't' 'o'f' 'p'a's's'e'n'g'e'r's',' 't'h'e' 'c'o'n's't'r'u'c't'i'o'n' 'o'f' 'h'i's' 'o'w'n' 'h'o'u's'e',' 'w'h'i'c'h'
-'p'u'r'e'l'y' 'a's' 'a' 'p'e'r's'o'n'a'l' 'b'u's'i'n'e's's'.' 'T'h'e' 'r'a'i'l'w'a'y' 'a'l's'o' 'h'a's' 'a' 't'e'm'p'l'e',' 'v'i's'i't'e'd' 'b'y' 't'h'e' 's't'u'd'e'n't's'
-'a'u'd'i't' 't'e'a'm' 'w'h'i'l'e' 'c'h'e'c'k'i'n'g' 't'h'e' 'a'c'c'o'u'n't's' 'd'u'r'i'n'g' 't'h'e' 'e'x'a'm'i'n'a't'i'o'n' 'd'a'y's'.'
-'p'r'e'p'a'r'e'd' 'b'y' 't'h'e' 'c'l'e'r'k' 'f'o'u'n'd' 't'h'e' 'c'o'l'l'e'c't'i'o'n's' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'u'n'd'e'r' 't'h'r'e'e' 'h'e'a'd's':' '('i')' 'R's' '3','4'5','7'6'5',' 't'h'e' 's'a'l'e' 'm'i't't'e'd'?'
-'p'r'o'c'e'e'd's' 'o'f' '2'0'0' 't'i'c'k'e't's';' '('i'i')' 'R's' '5'5'7',' 't'h'e' 'D'e'c'i's'i'o'n':'
-'e'x'c'e's's' 'a'm'o'u'n't' 'p'a'i'd' 'b'y' 't'h'e' 'c'u's't'o'm'e'r's' 'b'y' '('a')' 'T'h'e' 'c'a's'h'i'e'r' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'm'i's'-'
-'m'i's't'a'k'e';' 'a'n'd' '('i'i'i')' 'R's' '1','5'0'0',' 't'h'e' 's'a'l'e' 'p'r'o'-' 'a'p'p'r'o'p'r'i'a't'i'o'n'.'
-'c'e'e'd' 'o'f' '3'0' 't'r'a'v'e'l' 'p'a'c'k's'.' 'T'h'e' 'c'l'e'r'k' 'h'a'd' 'o'n'l'y' '('b')' 'H'e' 'i's' 'g'u'i'l't'y' 'o'f' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'.'
-'d'e'p'o's'i't'e'd' 't'h'e' 'a'm'o'u'n't' 'u'n'd'e'r' 'h'e'a'd' '('i')' 'a'n'd' '('c')' 'H'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n'y' 'o'f'f'e'n'c'e'.'
-'h'a's' 'p'o'c'k'e't'e'd' 't'h'e' 'r'e's't'.' '1'4'6'.' 'F'a'c't's':' 'C'e'r't'a'i'n' 's'u'm' 'o'f' 'm'o'n'e'y' 'i's' 'd'e'p'o's'i't'e'd'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'i'n' 't'h'e' 'l'i'b'r'a'r'y' 'c'a's'h' 'b'o'x' 'b'y' 't'h'e' 's't'u'd'e'n't's' 'a's'
-'m'i't't'e'd'?' 'l'a't'e' 'f'e'e' 'f'o'r' 't'h'e' 'b'o'o'k's' 'k'e'p't' 'b'e'y'o'n'd' 't'h'e' 'p'r'e'-'
-'D'e'c'i's'i'o'n':' 's'c'r'i'b'e'd' 't'i'm'e'.' 'S'i'n'c'e' 'n'o' 'r'e'c'e'i'p't' 'i's' 'i's's'u'e'd' 't'o'
-'('a')' 'T'h'e' 'c'l'e'r'k' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 'a'n'y' 'o'f'-' 't'h'e' 's't'u'd'e'n't's' 'f'o'r' 'u'n'a's'c'e'r't'a'i'n'e'd' 'a'm'o'u'n't' 'i'n'
-'f'e'n'c'e'.' 't'h'e' 'c'a's'h' 'b'o'x',' 'L'i'b'r'a'r'i'a'n' 'A' 'd'e'c'i'd'e's' 't'o' 'u't'i'-'
-'('b')' 'N'o' 'c'o'n'c'l'u's'i'v'e' 'd'e'c'i's'i'o'n' 'c'a'n' 'b'e' 'd'r'a'w'n'.' 'l'i'z'e' 't'h'e' 'c'o'l'l'e'c't'i'o'n' 'f'o'r' 'u'n'a'u't'h'o'r'i'z'e'd' 'b'e'a'u'-'
-'('c')' 'T'h'e' 'c'l'e'r'k' 'h'a's' 'c'o'm'm'i't't'e'd' 'a' 'c'r'i'm'i'n'a'l' 't'i'f'i' 'c'a't'i'o'n' 'o'f' 't'h'e' 'g'a'r'd'e'n' 'a'n'd' 'h'i's' 'p'e'r's'o'n'a'l'
-'b'r'e'a'c'h' 'o'f' 't'r'u's't' 'i'n' 'r'e's'p'e'c't' 'o'f' 'a'm'o'u'n't' 'e'x'p'e'n's'e's'.'
-'u'n'd'e'r' 'h'e'a'd' '('i'i')',' 'a's' 'h'e' 'r'e'c'e'i'v'e'd' 't'h'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'m'o'n'e'y' 'o'n' 'b'e'h'a'l'f' 'o'f' 'o'r' 'a's' 'a'n' 'a'g'e'n't' 'o'f' 'm'i't't'e'd'?'
-'t'h'e' 'G'o'v'e'r'n'm'e'n't'.' 'I'f' 'h'e' 'h'a'd' 'r'e'c'e'i'v'e'd' 'D'e'c'i's'i'o'n':'
-'t'h'e' 'm'o'n'e'y' 'o'n' 'h'i's' 'o'w'n' 'b'e'h'a'l'f' '('e'.'g'.',' '('a')' 'A's' 'A' 'd'i's'h'o'n'e's't'l'y' 'm'i's'a'p'p'r'o'p'r'i'a't'e'd' 't'h'e'
-'b'y' 'w'a'y' 'o'f' 'i'l'l'e'g'a'l' 'g'r'a't'i'f'i' 'c'a't'i'o'n')',' 't'h'e'n' 'p'r'o'p'e'r't'y' 't'h'a't' 'w'a's' 'e'n't'r'u's't'e'd' 't'o' 'h'i'm',' 's'o'
-'h'e' 'w'o'u'l'd'n'’'t' 'h'a'v'e' 'b'e'e'n' 's'o' 'g'u'i'l't'y'.' 'T'h'a't' 'h'e' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'd'i's'h'o'n'e's't' 'm'i's'a'p'p'r'o'-'
-'i's' 'w'h'y' 'h'e' 'i's' 'n'o't' 'g'u'i'l't'y' 'i'n' 'r'e's'p'e'c't' 'o'f' 'p'r'i'a't'i'o'n'.'
-'a'm'o'u'n't' 'u'n'd'e'r' 'h'e'a'd' '('i'i'i')'.' '('b')' 'H'e' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f'
-'1'4'4'.' 'F'a'c't's':' 'X',' 'a' 'p'a'r'c'e'l' 'c'l'e'r'k' 'a't' 'a' 'r'a'i'l'w'a'y' 's't'a'-' 't'r'u's't'.'
-'t'i'o'n',' 'w'a's' 'a's'k'e'd' 't'o' 'd'e's't'r'o'y' 'a' 'w'a'g'o'n'l'o'a'd' '('c')' 'H'e' 'd'i'd'n'’'t' 'c'o'm'm'i't' 'a'n'y' 'o'f'f'e'n'c'e' 'a's' 'h'e'
-'o'f' 'a'p'p'l'e's' 'w'h'i'c'h' 'h'a'd' 'g'o'n'e' 'r'o't't'e'n' 'a'n'd' 'd'e'-' 'm'a'd'e' 't'h'e' 'b'e's't' 'p'o's's'i'b'l'e' 'u's'e' 'o'f' 'm'o'n'e'y'.'
-'c'l'a'r'e'd' 'u'n'f'i' 't' 'f'o'r' 'h'u'm'a'n' 'c'o'n's'u'm'p't'i'o'n'.' 'H'e' '1'4'7'.' 'F'a'c't's':' 'A' 'w'e'i'g'h'i'n'g' 'c'l'e'r'k' 'a't' 'a' 's'u'g'a'r' 'm'i'l'l'
-'t'o'o'k' 't'h'o's'e' 'a'p'p'l'e's' 't'o' 't'h'e' '‘'m'a'n'd'i'’' 'a'n'd' 'a'u'c'-' 'w'a's' 'f'o'u'n'd' 't'o' 'b'e' 'i'n'v'o'l'v'e'd' 'i'n' 't'h'e' 'f'o'l'l'o'w'i'n'g'
-'t'i'o'n'e'd' 't'h'e'm' 'f'o'r' 'R's' '1'0'0'0' 'a'n'd' 'p'o'c'k'e't'e'd' 't'h'e' 'm'a'l'p'r'a'c't'i'c'e's':' '('i')' 'R'e'c'e'i'v'i'n'g' 'a' 'p'r'e'm'i'u'm' 'f'o'r'
-'a'm'o'u'n't'.' 'o'u't' 'o'f' 't'u'r'n' 's'u'g'a'r'c'a'n'e' 'd'e'l'i'v'e'r'y' 'f'a'c'i'l'i't'y';' '('i'i')'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'O'v'e'r'w'e'i'g'h'i'n'g' 's'u'g'a'r'c'a'n'e' 'a'n'd' 't'h'u's' 'c'a'u's'i'n'g'
-'m'i't't'e'd'?' 'a' 'l'o's's' 't'o' 't'h'e' 'c'o'm'p'a'n'y';' 'a'n'd' '('i'i'i')' 'C'o'l'l'e'c't'i'o'n'
-'D'e'c'i's'i'o'n':' 'f'r'o'm' 't'h'e' 'v'i'l'l'a'g'e's' 'r'o'a'd' 'c'e's's' 't'o' 'b'e' 'd'e'p'o's'i't'e'd'
-'('a')' 'X' 'h'a's' 'n'o't' 'c'o'm'm'i't't'e'd' 'a'n'y' 'o'f'f'e'n'c'e'.' 'w'i't'h' 't'h'e' 'g'o'v'e'r'n'm'e'n't'.'
-'B'e'c'a'u's'e' 'h'e' 'w'a's' 'a's'k'e'd' 't'o' 'd'e's't'r'o'y' 't'h'e' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'a'p'p'l'e's' 'a'n'd' 'h'e' 'a'u'c't'i'o'n'e'd' 't'h'e'm' 'u's'i'n'g' 'm'i't't'e'd'?'
-'h'i's' 'w'i's'd'o'm'.' 'D'e'c'i's'i'o'n':'
-'('b')' 'X' 'h'a's' 'c'o'm'm'i't't'e'd' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' '('a')' 'T'h'e' 'c'l'e'r'k' 'i's' 'n'o't' 'l'i'a'b'l'e' 'f'o'r' 'c'r'i'm'i'n'a'l'
-'t'r'u's't'.' 'b'r'e'a'c'h' 'o'f' 't'r'u's't' 'i'n' 'r'e's'p'e'c't' 'o'f' '('i')' 'i'n' 'r'e'-'
-'('c')' 'X' 'm'i's'a'p'p'r'o'p'r'i'a't'e'd' 't'h'e' 'p'r'o'p'e'r't'y' 'e'n'-' 's'p'e'c't' 'o'f' '('i'i')' 'a'n'd' '('i'i'i')'.' 'B'e'c'a'u's'e' 'i'n' '('i')','
-'t'r'u's't'e'd' 't'o' 'h'i'm' 'a'n'd' 'a'c't'e'd' 'i'n' 'v'i'o'l'a't'i'o'n' 'h'e' 'r'e'c'e'i'v'e'd' 'm'o'n'e'y' 'o'n' 'h'i's' 'o'w'n' 'b'e'h'a'l'f','
-'o'f' 'l'e'g'a'l' 'd'i'r'e'c't'i'o'n' 'p'r'e's'c'r'i'b'i'n'g' 't'h'e' 'm'o'd'e' 'w'h'i'l'e' 'i'n' '('i'i')' 'a'n'd' '('i'i'i')' 'h'e' 'h'a's' 'p'u't' 't'h'e'
-'i'n' 'w'h'i'c'h' 't'r'u's't' 'i's' 't'o' 'b'e' 'd'i's'c'h'a'r'g'e'd'.' 'c'o'm'p'a'n'y' 'i'n' 'l'o's's' 'a'n'd' 'r'e'c'e'i'v'e'd' 'm'o'n'e'y'
-'1'4'5'.' 'F'a'c't's':' 'A',' 't'h'e' 's'c'h'o'o'l' 'c'a's'h'i'e'r',' 'c'o'l'l'e'c't's' 'a'l'o'n'g' 'o'n' 'b'e'h'a'l'f' 'o'f' 't'h'e' 'c'o'm'p'a'n'y'.'
-'
-'C'R'I'M'I'N'A'L' 'L'A'W' '8'1'
-'('b')' 'T'h'e' 'c'l'e'r'k' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'c'r'i'm'i'n'a'l' 'm'i's'a'p'-' 'p'o's's'e's's'i'o'n' 'h'a's' 'b'e'e'n' 'h'a'n'd'e'd' 'o'v'e'r'.'
-'p'r'o'p'r'i'a't'i'o'n'.' 'T'h'e' 'e'x'p'r'e's's'i'o'n' '‘'e'n't'r'u's't'm'e'n't'’' 'c'a'r'r'i'e'd'
-'('c')' 'T'h'e' 's'u'g'a'r' 'm'i'l'l' 'i's' 'l'i'a'b'l'e' 'f'o'r' 'n'e'g'l'i'-' 'w'i't'h' 'i't' 't'h'e' 'i'm'p'l'i'c'a't'i'o'n' 't'h'a't' 't'h'e' 'p'e'r's'o'n'
-'g'e'n'c'e'.' 'h'a'n'd'i'n'g' 'o'v'e'r' 'a'n'y' 'p'r'o'p'e'r't'y' 't'o' 'a'n'o't'h'e'r','
-'1'4'8'.' 'F'a'c't's':' 'A' 'l'o's't' 'h'i's' 'b'r'i'e'f'c'a's'e' 'c'o'n't'a'i'n'i'n'g' 'c'o'n't'i'n'u'e's' 't'o' 'b'e' 'i't's' 'o'w'n'e'r'.' 'T'h'u's',' 't'h'e'
-'v'a'l'u'a'b'l'e's'.' 'X',' 'a' 'f'r'i'e'n'd' 'o'f' 'A' 'i'n'f'o'r'm'e'd' 'h'i'm' 'j'e'w'e'l'l'e'r',' 'b'y' 'a'p'p'r'o'p'r'i'a't'i'n'g' 't'h'e' 'g'o'l'd' 't'o'
-'t'h'a't' 'h'i's' 'b'r'i'e'f'c'a's'e' 'w'a's' 's'e'e'n' 'l'y'i'n'g' 'i'n' 'Y'’'s' 'h'i'm's'e'l'f',' 'i's' 'g'u'i'l't'y' 'o'f' 'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f'
-'s'h'o'p'.' 'T'h'e'r'e'u'p'o'n' 'A' 'r'e'a'c'h'e'd' 'Y'’'s' 's'h'o'p' 'a'n'd' 't'r'u's't'.' 'I'f' 't'h'e' 'j'e'w'e'l'l'e'r' 'h'a's' 'r'e't'u'r'n'e'd' 't'h'e'
-'f'i' 'n'd'i'n'g' 'h'i's' 'b'r'i'e'f'c'a's'e' 'l'y'i'n'g' 't'h'e'r'e' 'p'u'l'l'e'd' 'o'u't' 'g'o'l'd' 'b'u't' 'h'a'd' 'f'a'i'l'e'd' 't'o' 'm'a'k'e' 't'h'e' 'r'i'n'g','
-'h'i's' 'r'e'v'o'l'v'e'r' 'a'n'd' 'a's'k'e'd' 'Y' 't'o' 'h'a'n'd' 'o'v'e'r' 't'h'e' 't'h'e'n' 'i't' 'w'o'u'l'd' 'h'a'v'e' 'b'e'e'n' 'a' 'c'a's'e' 'o'f' 'a'
-'b'r'i'e'f'c'a's'e' 't'o' 'h'i'm'.' 'U'n'd'e'r' 't'h'e' 'f'e'a'r' 'o'f' 'i'n'j'u'-' 's'i'm'p'l'e' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.'
-'r'y',' 'Y' 'g'a'v'e' 't'h'e' 'b'r'i'e'f'c'a's'e' 't'o' 'A'.' 'H'o'w'e'v'e'r',' '('b')' 'I't' 'i's' 'a' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.'
-'o'n' 'r'e'a'c'h'i'n'g' 'h'o'm'e' 'h'e' 'd'i's'c'o'v'e'r'e'd' 't'h'a't' 't'h'e' '('c')' 'I't' 'i's' 'n'o' 'o'f'f'e'n'c'e' 'b'e'c'a'u's'e' 't'h'e'r'e' 'w'a's' 'n'o'
-'b'r'i'e'f'c'a's'e' 'd'i'd' 'n'o't' 'b'e'l'o'n'g' 't'o' 'h'i'm' 'b'u't' 'd'e'c'i'd'-' 'c'o'n't'r'a'c't' 'a'n'd' 't'h'e'r'e' 'w'a's' 'n'o' 't'r'u's't' 's'o' 'i't' 'i's'
-'e'd' 't'o' 'r'e't'a'i'n' 'i't'.' 'n'o't' 'b'r'e'a'c'h' 'o'f' 't'r'u's't' 'o'r' 'b'r'e'a'c'h' 'o'f' 'c'o'n'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 't'r'a'c't'.'
-'m'i't't'e'd'?' '1'5'0'.' 'F'a'c't's':' 'Z' 'f'o'u'n'd' 'a' 'w'a'l'l'e't' 'a't' 'a' 'p'l'a'c'e' 'c'o'n'-'
-'D'e'c'i's'i'o'n':' 't'a'i'n'i'n'g' 'a' 'v'i's'i't'i'n'g' 'c'a'r'd' 's'h'o'w'i'n'g' 't'h'e' 'n'a'm'e'
-'('a')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' '‘'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'-' 'a'n'd' 'a'd'd'r'e's's' 'o'f' 't'h'e' 'o'w'n'e'r' 'o'f' 't'h'e' 'w'a'l'l'e't','
-'p'r'i'a't'i'o'n'’' 'o'f' 'p'r'o'p'e'r't'y' 'b'e'c'a'u's'e' 'a'f't'e'r' 'R's' '2','0'0'0' 'a'n'd' 'p'o's't'a'l' 's't'a'm'p's' 'w'o'r't'h' 'R's' '1'0'.'
-'d'i's'c'o'v'e'r'i'n'g' 't'h'e' 'm'i's't'a'k'e' 'h'e' 'i'n's't'e'a'd' 'o'f' 'Z' 't'h'r'e'w' 'a'w'a'y' 't'h'e' 'c'a'r'd',' 'u's'e'd' 't'h'e' 's't'a'm'p's'
-'r'e't'u'r'n'i'n'g' 't'h'e' 'b'r'i'e'f'c'a's'e' 't'o' 'Y',' 'd'e'c'i'd'e'd' 'a'n'd' 'd'e'l'i'v'e'r'e'd' 't'h'e' 'w'a'l'l'e't' 't'o' 'h'i's' 'f'r'i'e'n'd' 'R','
-'t'o' 'r'e't'a'i'n' 'i't'.' 'T'h'e' 'r'e't'a'i'n'i'n'g' 'b'y' 'A',' 't'h'u's',' 'f'o'r' 's'a'f'e' 'c'u's't'o'd'y'.' 'R' 'l'a't'e'r' 't'o'o'k' 'o'u't' 'R's' '7'0'0'
-'h'a's' 'b'e'c'o'm'e' 'w'r'o'n'g'f'u'l' 'a'n'd' 'f'r'a'u'd'u'l'e'n't'.' 'f'r'o'm' 't'h'e' 'w'a'l'l'e't' 't'o' 'd'e'p'o's'i't' 'h'i's' 'e'x'a'm'i'n'a't'i'o'n'
-'A' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' '‘'e'x't'o'r't'i'o'n'’' 'b'e'c'a'u's'e' 'f'e'e'.' 'O'n' 'r'e'c'e'i'p't' 'o'f' 'a' 'm'o'n'e'y' 'o'r'd'e'r' 'f'r'o'm' 'h'i's'
-'w'h'e'n' 'h'e' 't'h'r'e'a't'e'n'e'd' 'Y',' 't'h'e'r'e' 'w'a's' 'n'o' 'f'a't'h'e'r' 'R' 'p'u't' 'b'a'c'k' 't'h'e' 'a'm'o'u'n't' 'o'f' 'R's' '7'0'0' 'i'n'
-'d'i's'h'o'n'e's't' 'i'n'd'u'c'e'm'e'n't' 'o'n' 'A'’'s' 'p'a'r't' 'a's' 't'h'e' 'w'a'l'l'e't' 'a'n'd' 'r'e't'u'r'n'e'd' 'i't' 't'o' 'Z'.'
-'h'e' 'b'e'l'i'e'v'e'd' 'b'r'i'e'f'c'a's'e' 't'o' 'b'e' 'h'i's' 'o'w'n'.' 'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-'
-'('b')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'e'x't'o'r't'i'o'n'.' 'm'i't't'e'd'?'
-'('c')' 'A' 'i's' 'g'u'i'l't'y' 'o'f' 'r'o'b'b'e'r'y'.' 'D'e'c'i's'i'o'n':'
-'1'4'9'.' 'F'a'c't's':' 'A' 'c'u's't'o'm'e'r' 'w'e'n't' 't'o' 't'h'e' 's'h'o'p' 'o'f' 'a' '('a')' 'Z' 'i's' 'g'u'i'l't'y' 'o'f' '‘'c'r'i'm'i'n'a'l' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'j'e'w'e'l'l'e'r' 'a'n'd' 'h'a'n'd'e'd' 'o'v'e'r' 'g'o'l'd' 'f'o'r' 'm'a'n'u'-' 't'i'o'n'’';' 'f'r'o'm' 't'h'e' 'v'i's'i't'i'n'g' 'c'a'r'd' 'h'e' 'k'n'e'w'
-'f'a'c't'u'r'i'n'g' 'a' 'g'o'l'd' 'r'i'n'g' 'f'o'r' 'h'i's' 'w'i'f'e' 'a'n'd' 'a' 't'h'a't' 't'h'e' 'p'r'o'p'e'r't'y' 'b'e'l'o'n'g'e'd' 't'o' 'w'h'o'm'
-'w'e'e'k'’'s' 't'i'm'e' 'w'a's' 'f'i' 'x'e'd' 'f'o'r' 'd'e'l'i'v'e'r'y'.' 'A'f't'e'r' 'a'n'd' 'd'e's'p'i't'e' 'i't's' 'l'e'g'a'l' 'o'w'n'e'r' 'b'e'i'n'g'
-'t'h'e' 'e'x'p'i'r'y' 'o'f' 'o'n'e' 'w'e'e'k' 't'h'e' 'j'e'w'e'l'l'e'r' 'r'e'-' 'k'n'o'w'n' 'h'e' 'm'i's'u's'e'd' 't'h'e' 'p'r'o'p'e'r't'y'.'
-'f'u's'e'd' 't'o' 'd'e'l'i'v'e'r' 't'h'e' 'r'i'n'g' 'a's' 'w'e'l'l' 'a's' 'g'o'l'd'.' 'R' 'i's' 'g'u'i'l't'y' 'o'f' '‘'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f'
-'T'h'e' 'j'e'w'e'l'l'e'r' 'w'a's' 'p'r'o's'e'c'u't'e'd' 'f'o'r' 'c'r'i'm'i'n'a'l' 't'r'u's't'’',' 'a's' 'a' 'b'r'e'a'c'h' 'o'f' 't'r'u's't' 'i'n'v'o'l'v'e's'
-'b'r'e'a'c'h' 'o'f' 't'r'u's't'.' 'T'h'e' 'j'e'w'e'l'l'e'r' 'a'r'g'u'e'd' 't'h'a't' 'i't' 'm'i's'a'p'p'r'o'p'r'i'a't'i'o'n' 'a'n'd' 'm'i's'a'p'p'r'o'p'r'i'a'-'
-'i's' 'a' 'b'r'e'a'c'h' 'o'f' 'c'o'n't'r'a'c't'.' 'D'e'c'i'd'e'.' 't'i'o'n' 'o'r' 'c'o'n'v'e'r's'i'o'n' 'n'e'e'd' 'n'o't' 'b'e' 'p'e'r'-'
-'I's's'u'e':' 'W'h'a't' 'o'f'f'e'n'c'e',' 'i'f' 'a'n'y',' 'h'a's' 'b'e'e'n' 'c'o'm'-' 'm'a'n'e'n't'l'y',' 'i't' 'm'a'y' 'e'v'e'n' 'b'e' 'f'o'r' 'a' 't'i'm'e'
-'m'i't't'e'd'?' 'o'n'l'y'.' '('E'x'p'l'a'n'a't'i'o'n' '1' 't'o' 'S'e'c't'i'o'n' '4'0'3','
-'D'e'c'i's'i'o'n':' 'a'n'd' 'i'l'l'u's't'r'a't'i'o'n' 't'o' 'i't')'.' 'F'u'r't'h'e'r',' 'w'h'e'r'e'
-'('a')' 'I't' 'i's' 'a' 'c'a's'e' 'o'f' '‘'c'r'i'm'i'n'a'l' 'b'r'e'a'c'h' 'o'f' 't'r'u's't'’' 'e'm'b'e'z'z'l'e'm'e'n't' 'b'y' 't'h'e' 'a'c'c'u's'e'd' 'i's' 'e's'-'
-'a'n'd' 'n'o't' 'a' 's'i'm'p'l'e' 'c'a's'e' 'o'f' 'a' 'b'r'e'a'c'h' 'o'f' 't'a'b'l'i's'h'e'd',' 't'h'e' 'f'a'c't' 't'h'a't' 'h'e' 'r'e'f'u'n'd'e'd' 't'h'e'
-'c'o'n't'r'a'c't'.' 'T'h'e' 'e'x'p'r'e's's'i'o'n' '‘'e'n't'r'u's't'm'e'n't'’' 'a'm'o'u'n't' 'w'h'e'n' 'h'i's' 'd'i's'h'o'n'e's't' 'a'c't' 'c'a'm'e'
-'i'n'c'l'u'd'e's' 'a'l'l' 'c'a's'e's' 'i'n' 'w'h'i'c'h' 'p'r'o'p'e'r't'y' 'i's' 't'o' 'b'e' 'd'i's'c'o'v'e'r'e'd',' 'd'o'e's' 'n'o't' 'a'b's'o'l'v'e'
-'v'o'l'u'n't'a'r'i'l'y' 'h'a'n'd'e'd' 'o'v'e'r' 'f'o'r' 'a' 's'p'e'c'i'f'i' 'c' 'h'i'm' 'o'f' 't'h'e' 'o'f'f'e'n'c'e' 'c'o'm'm'i't't'e'd' 'b'y' 'h'i'm'.'
-'p'u'r'p'o's'e' 'a'n'd' 'i's' 'd'i's'h'o'n'e's't'l'y' 'd'i's'p'o's'e'd' '('b')' 'Z' 'i's' 'n'o't' 'g'u'i'l't'y' 'o'f' 'a'n'y' 'o'f'f'e'n'c'e'.'
-'o'f' 'c'o'n't'r'a'r'y' 't'o' 't'h'e' 't'e'r'm's' 'o'n' 'w'h'i'c'h' '('c')' 'Z' 'i's' 'g'u'i'l't'y' 'o'f' 'n'e'g'l'i'g'e'n'c'e'.'
-'
-'A'
-'N'S'W'E'R'S'
-'1'.' '('d')' '2'.' '('a')' '3'.' '('c')' '4'.' '('b')' '5'.' '('a')' '6'.' '('a')' '7'.' '('d')' '8'.' '('c')' '9'.' '('a')' '1'0'.' '('c')'
-'1'1'.' '('a')' '1'2'.' '('a')' '1'3'.' '('a')' '1'4'.' '('a')' '1'5'.' '('a')' '1'6'.' '('b')' '1'7'.' '('b')' '1'8'.' '('c')' '1'9'.' '('a')' '2'0'.' '('a')'
-'2'1'.' '('b')' '2'2'.' '('a')' '2'3'.' '('d')' '2'4'.' '('d')' '2'5'.' '('d')' '2'6'.' '('c')' '2'7'.' '('a')' '2'8'.' '('a')' '2'9'.' '('a')' '3'0'.' '('b')'
-'3'1'.' '('a')' '3'2'.' '('c')' '3'3'.' '('a')' '3'4'.' '('b')' '3'5'.' '('c')' '3'6'.' '('c')' '3'7'.' '('c')' '3'8'.' '('b')' '3'9'.' '('c')' '4'0'.' '('c')'
-'4'1'.' '('a')' '4'2'.' '('a')' '4'3'.' '('a')' '4'4'.' '('a')' '4'5'.' '('b')' '4'6'.' '('b')' '4'7'.' '('a')' '4'8'.' '('b')' '4'9'.' '('b')' '5'0'.' '('a')'
-'5'1'.' '('a')' '5'2'.' '('a')' '5'3'.' '('a')' '5'4'.' '('b')' '5'5'.' '('a')' '5'6'.' '('b')' '5'7'.' '('a')' '5'8'.' '('a')' '5'9'.' '('a')' '6'0'.' '('a')'
-'6'1'.' '('a')' '6'2'.' '('b')' '6'3'.' '('a')' '6'4'.' '('a')' '6'5'.' '('b')' '6'6'.' '('a')' '6'7'.' '('a')' '6'8'.' '('a')' '6'9'.' '('a')' '7'0'.' '('a')'
-'7'1'.' '('c')' '7'2'.' '('a')' '7'3'.' '('b')' '7'4'.' '('b')' '7'5'.' '('b')' '7'6'.' '('b')' '7'7'.' '('b')' '7'8'.' '('c')' '7'9'.' '('c')' '8'0'.' '('a')'
-'8'1'.' '('a')' '8'2'.' '('a')' '8'3'.' '('a')' '8'4'.' '('b')' '8'5'.' '('b')' '8'6'.' '('b')' '8'7'.' '('b')' '8'8'.' '('a')' '8'9'.' '('b')' '9'0'.' '('b')'
-'9'1'.' '('a')' '9'2'.' '('a')' '9'3'.' '('b')' '9'4'.' '('b')' '9'5'.' '('c')' '9'6'.' '('c')' '9'7'.' '('c')' '9'8'.' '('d')' '9'9'.' '('a')' '1'0'0'.' '('a')'
-'1'0'1'.' '('a')' '1'0'2'.' '('a')' '1'0'3'.' '('a')' '1'0'4'.' '('a')' '1'0'5'.' '('a')' '1'0'6'.' '('b')' '1'0'7'.' '('b')' '1'0'8'.' '('b')' '1'0'9'.' '('b')' '1'1'0'.' '('b')'
-'1'1'1'.' '('c')' '1'1'2'.' '('c')' '1'1'3'.' '('c')' '1'1'4'.' '('c')' '1'1'5'.' '('c')' '1'1'6'.' '('a')' '1'1'7'.' '('a')' '1'1'8'.' '('a')' '1'1'9'.' '('a')' '1'2'0'.' '('a')'
-'1'2'1'.' '('b')' '1'2'2'.' '('b')' '1'2'3'.' '('b')' '1'2'4'.' '('b')' '1'2'5'.' '('b')' '1'2'6'.' '('c')' '1'2'7'.' '('c')' '1'2'8'.' '('c')' '1'2'9'.' '('a')' '1'3'0'.' '('a')'
-'1'3'1'.' '('a')' '1'3'2'.' '('a')' '1'3'3'.' '('a')' '1'3'4'.' '('a')' '1'3'5'.' '('a')' '1'3'6'.' '('b')' '1'3'7'.' '('b')' '1'3'8'.' '('b')' '1'3'9'.' '('b')' '1'4'0'.' '('b')'
-'1'4'1'.' '('c')' '1'4'2'.' '('c')' '1'4'3'.' '('c')' '1'4'4'.' '('c')' '1'4'5'.' '('a')' '1'4'6'.' '('a')' '1'4'7'.' '('a')' '1'4'8'.' '('a')' '1'4'9'.' '('a')' '1'5'0'.' '('a')'
-'
-'
+M -C Q
+ULTIPLE HOICE UESTIONS
+CULPABLE HOMICIDE AND Issue: The offence committed is murder
+MURDER or culpable homicide.
+(Sections 299 and 300) Decision:
+(a) The offence is murder as the fact of
+the case shows that the infl iction of
+1. Facts: One Bherun and his father were
+19 injuries are suffi cient the cause of
+on inimical terms with the appellants. On
+death in the ordinary cause of nature.
+29 June 1961, Behrun was going towards
+(b) It is culpable homicide. because the
+his fi elds when he was caught hold of by
+intension of the accused is missing.
+Anda and Ropa (appellants). They dragged
+(c) It is neither murder nor culpable ho-
+him inside a house and beat him severally.
+micide.
+His arms and legs were smashed and many
+(d) It is a case of simple fi ght.
+bruises and lacerated wounds were caused
+3. Facts: In a case there was a long standing
+on his person. The doctor who conducted
+dispute between the deceased and the ap-
+the autopsy opined that injuries and that
+pellants over a certain piece of land. On
+all the injuries collectively were suffi cient
+one night, the appellants (N and R) in pur-
+in the ordinary course of nature to cause
+suance of a conspiracy to commit murder
+death.
+of M, deceased, set fi re to the single room
+Issue: Are the appellants guilty of murder
+hut in which he was sleeping after locking
+or culpable homicide.
+the door from outside. When the servants
+Decision:
+of the deceased and other villagers tried
+(a) They are not guilty because the doctor
+to rescue the deceased they were kept at
+who conducted autopsy said that the
+bay by the superior force of the accused
+deceased diet of shock.
+and their associates. Consequently, death
+(b) They are guilty of culpable homicide.
+of the deceased occurred.
+Because there is no indication of use
+Issue: Murder or culpable homicide.
+of lethal weapon.
+(c) T hey are not guilty of murder because Decision:
+intension is missing. (a) I t is not a murder. Because the facts
+(d) It’s a clear cut case of murder. Be- and circumstances are not suffi cient.
+cause severely beating the deceased (b) It is not culpable homicide too be-
+and smashing his legs is clear cut in- cause it is nowhere evident that the
+dication of the presence of intension. very action of the accused to set the
+house of the deceased on fi re, resulted
+2. Facts: In a case, there was bad blood be-
+in to his death.
+tween the two factions and they were in-
+(c) It is murder because in the pursuance
+volved in number of incidents and crimi-
+of the conspiracy to commit murder
+nal proceedings. On one day, deceased
+of M, the accused lock the deceased
+(belonging to one faction) was followed
+by members of other faction. When the and set the room on fi re and stop the
+deceased, a 55 year old man, tried to ran servants and villagers to come to his
+away, he was not allowed by the accused rescue.
+who indiscriminately pounded the legs and (d) It will depend on the discretion of the
+arms of his by heavy sticks and continued court.
+the beating till he became unconscious. 4. Facts: The accused with intention of kill-
+The accused than left the spot. The doctor ing A, gave him some poisoned halva. A
+found as many as 19 injuries out of which ate a portion of it and threw the rest away
+no less than 9 were (internally) found to and this was picked up by accused’s broth-
+be grievous. The doctor gave the opinion er in law’s daughter (a girl of 8 years) who
+that the injuries were cumulatively suffi - ate it and also gave some to another child.
+cient to cause death in the ordinary course The two child died, but A eventually re-
+of nature. covered. It was found as a fact that two
+
+CRIMINAL LAW 53
+child ate halva without the knowledge of infl icted is suffi cient to cause death in
+the accused, who did not intend to cause the ordinary cause of nature.
+their death. The accused wanted to kill A (b) It is culpable homicide.
+on whose life he had effected large insur- (c) It is grievous hurt.
+ance. 7. Facts: In this case, the question was when
+Issue: Whether the accused committed of- death is caused by a single blow, whether
+fence of murder or culpable homicide. clause three of Section 300 is attracted.
+Decision: In the case in question, the accused per-
+(a) The accused has committed neither sons came armed with deadly weapons
+the murder nor culpable homicide. and there was an altercation and exchange
+Because the facts of the case show of hot words whereafter the accused as-
+that he has no relation with the chil- saulted victim with a bhala causing injury
+dren who died of consuming poison- on the chest rupturing major blood vessels
+ous halva. resulting in her instantaneous death.
+(b) It is murder because he had intended Issue: The accused are guilty of murder or
+to kill A. Though A, couldn’t be killed culpable homicide.
+but the indirect death of children Decision:
+amounts to killing with intention. (a) It is not murder because a single blow
+(c) No clear cut offence because the facts can’t be suffi cient to cause death.
+and circumstances do not give clear (b) It is culpable homicide.
+(c) It is grievous hurt.
+picture.
+(d) I t is murder because a single blow can
+5. Facts: About a year before the date of oc-
+be the cause of death if it is infl icted
+currence, Bachhan Singh, son of the de-
+with as much force and severity which
+ceased, had caused a severe injury on the
+is suffi cient to cause death in the ordi-
+leg of one Pritam Singh resulting in the
+nary course of nature.
+amputation of leg of one appellant. Fa-
+8. Facts: Dhirajja was a young woman mar-
+ther of Pritam Singh harboured a grudge
+ried to Jhagga. They had a six months old
+against Bachhan Singh and his father.
+baby. The husband did not treat his wife
+On one day, the appellant and his associ-
+well. The wife desired to go to visit her
+ate caught hold of the deceased (father of
+parents but the husband had objected to
+Bachhan Singh) and infl icted as many as
+it and on the day of occurrence they had
+18 injuries on the arms and legs of the de-
+quarrelled with each other and the hus-
+ceased with a gandasa.
+band had threatened to beat her. Late that
+Issue: The accused are guilty of murder or
+night Jagga woke up and found his wife
+culpable homicide.
+and baby missing. He went out in pursuit
+Decision:
+of them and close to the railway line he
+(a) It is culpable homicide not amounting
+saw her making her way along the path.
+to murder.
+When she heard him coming after her,
+(b) It is murder.
+Dhirajja turned around in a panic, ran a
+(c) It is neither murder nor culpable ho-
+little distance, and then jumped into a well
+micide.
+with the baby girl in her arms. The result
+(d) It is a case of grievous hurt.
+was that the baby died while the woman
+6. Facts: The appellant Virsa Singh thrust a
+was eventually rescued. She was charged
+spear in the abdomen of the deceased with
+with the murder of her baby and with at-
+such force that it penetrated the bowels
+tempt to commit suicide.
+and three coils of the intestines came out
+Issue: The wife is guilty of murder or cul-
+of the wound. The doctor who conducted
+pable homicide.
+the post mortem said that the injury was
+Decision:
+suffi cient to cause death in the ordinary
+(a) The wife is guilty neither of murder or
+course of nature.
+culpable homicide.
+Issue: The accused are guilty of murder or (b) It is case of self-defense so she can’t
+culpable homicide. be charged with any offence.
+Decision: (c) She is guilty of culpable homicide not
+(a) It is a clear cut murder as the injury amounting to murder.
+
+9. Facts: The appellant, her husband and her 12. Facts: A pulled B out of his classroom,
+sister in law used to reside together. There gave blows on his ribs fracturing two of
+were constant quarrels between the appel- them and kicked him causing rupture of
+lant and her sister-in-law and very often B’s enlarged spleen. A was not aware of
+the appellant was slapped by her husband this physical infi rmity of B. These injuries
+for such quarrelling. One day, a quarrel cumulatively resulted in B’s death.
+took place and her sister-in-law asked her Issue: What offence, if any, A has com-
+to leave the house. Thereupon, the appel- mitted?
+lant left the house and jumped into a well Decision:
+along with her three children, in order (a) A has committed offence of his mur-
+to escape harassment at the hands of her der as the severe blows on the ribs
+sister-in-law. She survived but the three causing fracture and rupture of spleen
+children died. are suffi cient to cause the death in or-
+Issue: Whether the appellant is guilty of dinary course of nature.
+murder or culpable homicide? (b) It is culpable homicide.
+Decision: (c) It is neither murder nor culpable ho-
+(a) She should be charged with offence of micide.
+murder. (d) The facts of the case show that it is a
+(b) She is guilty of culpable homicide. matter of grievous hurt.
+(c) It is neither murder nor culpable ho- 13. Facts: X gave a lathi blow on Y’s head
+micide. with such a force that his head was badly
+10. Facts: A, a pickpocket, puts his hand in fractured. Y became unconscious and was
+B’s pocket. Incidentally B had a pistol in rushed to the hospital where he died after
+his pocket and as A put his hand in the 12 days. The postmortem report showed
+pocket, it touched the trigger and the pistol that Y had died because of septic infec-
+went off killing B. tion. When X is charged with murder, he
+Issue: The accused is guilty of murder or pleads that the death was caused because
+culpable homicide? of septic infection and not because of head
+Decision: injury. Will he succeed in his plea? Dis-
+(a) A is guilty of murder who triggered cuss.
+the pistol and killed B. Issue: Whether X is guilty of culpable ho-
+(b) A is guilty of culpable homicide not micide or murder?
+amounting to murder as he didn’t in- Decision:
+tend to kill B. (a) He is guilty of murder as a blow of
+(c) It is neither murder nor culpable ho- lathi on the head is suffi cient to prove
+micide. A is guilty of pick pocketing. the intension of the accused and the
+11. Facts: A, a school teacher, had given a cause of death.
+few slaps to B, a student, with a view to (b) He is not guilty of murder. As post
+disciplining him. B, who was a patient of mortem report shows he died of septi
+epilepsy fell down and became uncon- infection.
+scious. A believing B to be dead, in a panic (c) He is guilty of culpable homicide.
+hung him to give an impression of suicidal (d) He is neither guilty of culpable homi-
+death. Does A possess the required guilty cide nor murder. He is guilty of griev-
+mind for culpable homicide? ous hurt.
+Issue: Does a posses the required guilty 14. Facts: A intentionally attacks B. While
+mind of culpable homicide? doing so, A does not know that B is suffer-
+Decision: ing from an enlarged appendix. The blow
+(a) A does not possess the required guilty falls on the appendix as a result of which
+mind for culpable homicide unless it the appendix bursts and B dies. Discuss
+is shown that he was aware that B was A’s liability.
+an epileptic patient. Issue: What is the liability of A?
+(b) A must be charged with murder. Decision:
+(c) A must be charged with conspiracy of (a) A intentionally attacks B to kill him.
+murder. Though, the blow falls on the appen-
+
+CRIMINAL LAW 55
+dix which burst. But it is not a case of 18. Facts: A, B, C and D caught E red handed
+accident. A is liable for murder. while destroying their crops at night. The
+(b) As the blow accidentally falls on ap- four of them tied E to a tree and began
+pendix which burst resulting in to pounding him with kicks and blows. In
+death. So A is not liable for murder. order to compel him to speak out (E de-
+(c) A is liable for culpable homicide. nied his hand in previous destruction of
+(d) A is liable for simple hurt. crops), A thrust a burning bamboo into his
+15. Facts: A intentionally gives B a sword cut mouth causing extensive injuries. When E
+suffi cient to cause the death of a man in was later taken to the hospital he died the
+the ordinary course of nature. B dies in next day. The doctor testifi ed that the in-
+consequence. Refer to relevant legal pro- juries were cumulatively suffi cient in the
+visions and the decided case. ordinary course of nature to cause death.
+Issue: What offence, if any has been com- A is prosecuted for the offence of culpable
+mitted by A? homicide/murder. Decide.
+Decision: Issue: What is liability of A, B, C and D?
+(a) A has committed the offence of mur- Decision:
+der. (a) A, B, C and D liable for murder.
+(b) A has committed the offence of cul- (b) Only A is liable for murder.
+pable homicide. (c) A is liable for murder and B, C and D
+(c) A has committed neither culpable ho- are liable for attempt to murder.
+micide nor murder. (d) It is not easy to fi x the liability.
+16. Facts: A without any excuse fi res a loaded 19. Facts: A had some political rivalry with
+pistol into a crowd of persons and kills one B. Finding B alone one day, A with his
+of them. Refer to relevant legal provisions friends beat him with lathis. B suffered
+and the decided case. multiple fractures and died due to internal
+Issue: What offence, if any, has been com- bleeding. On being prosecuted for murder,
+mitted? A and his friends argued that they had in-
+Decision: tended not to kill but only to cause him
+(a) A has not committed any offence. hurt. Decide.
+(b) A has committed the offence of mur- Issue: What offence, if any has been com-
+der. mitted by A and his friends?
+(c) It is a case of accident. Decision:
+17. Facts: A refused to marry B due to some (a) A and his friends are liable for mur-
+social reasons. B became angry and threat- der.
+ened A with lingering death. On the fateful (b) They are liable for hurt.
+day when A was a sleeping along with her (c) They are liable for culpable homicide.
+infant son and mother at a rest house on 20. Facts: X is cultivating possession of ag-
+their way to a pilgrimage, B threw a bottle ricultural land belonging to Z. A suit is
+of acid on them. A got 60 per cent burn in- pending before the court for recovery of
+juries and died 12 days after the incident. the said land. X along with his close ally
+The medical report established death due Y intending to kill Z to keep the disputed
+to acid burns. B has been charged of mur- land in possession, plan and set fi re to his
+der under Section 300 (3). Discuss about thatched house by locking it from outside
+the success of prosecution in this case. just before midnight and by preventing
+Issue: Is B liable for murder? others from coming just before midnight
+Decision: and by preventing others from coming to
+(a) B is not liable for murder. Because his rescue in response to his “SOS” calls
+reasonable man of ordinary prudence amidst the rising fi re. Z is roasted alive.
+can not think of that throwing acid What offence X and Y are guilty of? Will
+one’s face can result in to death. they be awarded the same penalty as in a
+(b) It is a clear cut case of murder. As B similar case taught to you?
+had already threatened A of lingering Issue: What offence, if any has been com-
+death. mitted by X and Y?
+(c) It is neither murder nor culpable ho- Decision:
+micide. (a) X and Y are liable for murder because
+
+setting some one on fi re and not let- having estranged relations with each other
+ting any one to come to his rescue is and W was living with her parents. H tried
+suffi cient to cause death. to bring back W many times but she al-
+(b) The facts are not suffi cient to hold X ways refused. One day when he went to
+and Y liable for murder. the father-in-law house, he found that W
+(c) They can be held liable for culpable was alone in the house. H tried to make
+homicide. advances towards W. But W did not yield
+21. Facts: A, intending to kill his wife W, to H’s advances and told him that she
+gave her a poisoned chocolate which she will shout and collect the village people.
+left on the table and herself went to attend There-upon H found an iron rod nearby
+a telephone call. Meanwhile, their child C and gave a blow on her head. W swooned
+came in, picked up, and ate the chocolate. and became unconscious. H thought that
+A, who was standing nearby, got quite up- W is dead. In order to fabricate the evi-
+set by the sudden turn of events but kept dence H hanged the body with a rope on
+quiet due to fear of being exposed of his the ceiling fan. The post mortem report
+evil designs to kill W. C died of poisoning established that the cause of the death was
+and A is being tried for C’s murder. How strangulation and not the head’s injury.
+will you argue the case for prosecution? What offence, if any, has H committed?
+Issue: What offence, if any has been com- Issue: What offence, if any has been com-
+mitted by A? mitted by H?
+Decision: Decision:
+(a) A can not be charged with the offence (a) He is guilty of murder.
+of murder because he didn’t intend to (b) He is guilty of culpable homicide.
+kill his child C. (c) He is neither guilty of culpable homi-
+(b) A can be charged with offence of mur- cide nor murder.
+der because he had intended to kill his (d) He is guilty of offence of grievous
+wife and he administered her a poison- hurt and attempt to create false evi-
+ous chocolate, which was consumed dence by hanging his wife.
+by the child. A stood near by when 24. Facts: A saw X lying motionless on the
+the child consumed that chocolate. bedroom fl oor of his wife B’s 10th fl oor
+The mere silence of A, is suffi cient to apartment. Believing X to be dead and
+determine the culpability of A. fearing his wife’s involvement in the mur-
+(c) It’s a case of accident. der. A pushed X out of the window of the
+22. Facts: Mallika was abducted along with room to give an impression of suicide. X
+her 6 months old son and kept locked in died due to multiple fractures and shock
+a room. She somehow managed to escape on account of the fall from the 10th fl oor.
+with her son but soon found her abductors Issue: What offence, if any, has A com-
+pursuing her. In a state of panic she ran mitted?
+some distance and then jumped into a well Decision:
+some distance away from the path. She (a) He has committed murder.
+was later rescued but the child died. Mal- (b) He has committed culpable homicide
+lika is being prosecuted for murder. Give not amounting to murder.
+arguments on behalf of either the prosecu- (c) He has neither committed murder nor
+tion or defence. culpable homicide.
+Issue: What offence, if any has been com- (d) A has not committed culpable homi-
+mitted. cide in terms of Section 299, as his
+Decision: intention was directed to what he be-
+(a) Mallika can be charged with offence lieves to be a lifeless body. A is also
+of culpable homicide not amounting not guilty of grievous hurt as he had
+to murder. not attacked X, when X was alive. He
+(b) Mallika can be charged with murder. attacked X only when he believed X
+(c) Mallika can neither be charged with to be dead. However, A is guilty of an
+murder nor culpable homicide. attempt to create false evidence.
+23. Facts: H(husband) and W(wife) were 25. Facts: A was friendly with many male
+
+CRIMINAL LAW 57
+and female children in the neighbourhood. Decision:
+One day A took a 5 years old girl on the (a) It is a case of culpable homicide not
+riverbank on the pretext of giving her a amounting to murder.
+boat ride. On reaching a lonely spot, A (b) It is a case of murder.
+raped the girl violently and to silence her (c) It is a case of molestation.
+A stuffed her mouth with sand. The girl (d) It is a case of neither of murder nor
+was found dead next morning. The post culpable homicide nor molestation
+mortem report revealed that death was due because the woman has taken the lift
+to asphyxia caused by the sand blocking on her own and she is responsible for
+the respiratory organs. The doctor testifi ed all that happened.
+that the injury of fi lling sand in the mouth 28. Facts: The accused A initially abused the
+was suffi cient in the ordinary course of na- deceased D by holding his collar and bran-
+ture to cause death. dishing the knife. However, D brought a
+Issue: What offence, if any has been com- stout and stronger man who overpowered
+mitted A? A and sat on his chest. The coaccused B
+Decision: at a the call of A infl icted a knife blow on
+(a) He is guilty of offence of rape. D’s thigh. When D had to release the grip,
+(b) He is guilty of offence of rape but nor A without any provocation dealt a very se-
+murder. vere knife blow on the stomach of D who
+was unarmed. The knife blow caused sev-
+(c) He is guilty of offence of rape and
+eral injuries on the vital parts of the body
+culpable homicide not amounting to
+of D resulting in his death in a very short
+murder.
+time.
+(d) He is guilty of rape and murder.
+Issue: Whether it is a case of culpable ho-
+26. Facts: A ravished his private secretary in
+micide only or a case of murder?
+a state of unconsciousness by administer-
+Decision:
+ing a strong dose of chloroform. She failed
+(a) It’s a case of murder as A had an in-
+to regain her consciousness and died. The
+tention to cause murderours assault on
+doctor’s opinion was that mere adminis-
+D.
+tration of chloroform was not suffi cient
+(b) It is not a case of murder as D was
+to cause death in the ordinary case, but
+stout and stronger and had overpow-
+the shock of forcible ravishment on an
+ered A. So, A killed him in right of
+unconscious person may at times lead to
+private defence.
+irreversible coma. Can A be successfully
+(c) It is merely a case of accident.
+prosecuted for the murder?
+29. Facts: One day B made indecent remarks
+Issue: What offence, if any has been com-
+about A’s sister. Next day, when B was go-
+mitted by A?
+ing to his offi ce, A who was hiding on the
+Decision:
+route, gave two blows on B’s head with a
+(a) He is guilty of murder.
+hockey stick. Consequently, B fell down
+(b) It is neither murder nor culpable ho-
+unconscious and was taken to hospital for
+micide.
+treatment but he died the same evening.
+(c) It is culpable homicide as the bodily
+According to medical evidence the inju-
+injury cause in death was neither in-
+ries caused to B were suffi cient to cause
+tended nor known.
+death in the ordinary course of nature. A is
+27. Facts: The accused tried to molest an in-
+being tried for B’s murder. How will you
+nocent woman who took lift in his vehicle.
+decide?
+She tried to come out of the moving ve-
+Issue: What offence, if any has been com-
+hicle. The accused speeded up the vehicle.
+mitted?
+She eventually came out and was run over
+Decision:
+by a truck. It was contended on behalf of
+(a) A has committed murder because he
+the accused that there was no intention of
+was standing there with full prepara-
+the accused to kill the woman. It happened tion, guilty mind and the action taken
+accidentally. How will you decide? by him, are suffi cient to cause the
+Issue: What offence, if any has been com- death of person in ordinary course of
+mitted? nature.
+
+(b) He is guilty of culpable homicide not and severe damage to the brain. B was
+amounting to murder. taken to the hospital where two operations
+(c) He is guilty of causing grievous hurt. were performed to remove blood clots. B
+(d) He is guilty of causing simple hurt. died in the hospital a week after the inci-
+30. Facts: Accused A-1, A-2 and A-3 came dent. The doctor certifi ed that the injury
+armed with knife, lathi and pistol to attack was suffi cient in ordinary course of nature
+the deceased D. D was lonesome. The ac- to cause death. For what offence can A be
+cused severely assaulted D by kicks and prosecuted? Give reasons.
+fi st blows. The death of D occurred due Issue: What offence, if any has been com-
+to shock, hemorrhage and strangulation mitted.
+caused by such blows. What offence the Decision:
+accused are guilty of? Decide. (a) The accused is not guilty of murder.
+Issue: What offence, if any has been com- (b) He is guilty of causing grievous hurt.
+mitted? (c) A is guilty of the offence of murder.
+Decision: As per clause thirdly of Section 300,
+(a) The accused are guilty of murder. if the injury that the offender intends
+(b) It is case of culpable homicide not causing and does cause is suffi cient to
+amounting to murder. The accused if cause death in the ordinary course of
+intended to murder D could have eas- nature, the offence is murder, whether
+ily done so by their weapons, but they the offender intended causing death
+must be attributed with knowledge or not and whether the offender had
+that by their acts they were likely to a subjective knowledge of the conse-
+cause death. quences or not.
+(c) They are guilty of causing grievous 33. Facts: A quarrel took place between the
+hurt. accused persons and the deceased regard-
+31. Facts: Accused A-1 and A-2 actuated by ing purchase of cinema tickets. The ac-
+group malice, beat an old man D (the de- cused who was already armed with a knife
+ceased) to death by causing nine grievous infl icted fatal injury (in the chest region,
+hurts in the legs and arms which included cutting the aorta of heart) on the helpless
+fractures in the right thumb, right femur, deceased caught by the other accused. The
+right tibia, right fi bula, left tibia, right pa- doctor certifi ed that the injury by itself was
+tella and dislocation of bones and joints suffi cient in the ordinary course of nature
+in the left middle fi nger and right and left to cause death. For what offence can the
+little fi ngers. Death occurred due to shock accused be prosecuted?
+and hemorrhage resulting from multiple Issue: What offence, if any has been com-
+injuries. What offence the two accused mitted?
+can be convicted of? Discuss the statutory Decision:
+provision and case law on the point. (a) It is clear-cut offence of murder.
+Issue: What offence, if any has been com- (b) It is a case of culpable homicide not
+mitted? amounting to murder.
+Decision: (c) It is a case of causing grievous hurt.
+(a) They have committed offence of mur- 34. Facts: A and B belonged to the rival fac-
+der. tions. In order to establish the superiority
+(b) They have committed culpable homi- of his faction A decided to give B sound
+cide not amounting to murder. thrashing in the presence of other students.
+(c) They have committed grievous hurt. On a crowded day in the college A cor-
+32. Facts: A who was speeding past a police nered B alone, and struck blows with bare
+check post in his car after committing a fi sts and kicked him several times. On B’s
+robbery, was required to stop by B, a po- falling down on the ground A mounted on
+lice offi cer. While B was interrogating A, his chest and struck three violent blows on
+A suddenly gave a spanner blow on B’s the face and head region. The blows on
+head mainly with a view to making good the head region caused extravasations of
+his escape. The spanner blow, given with blood in the brain, and as a consequence,
+considerable force, led to skull fracture B died the next day in the hospital. A is
+
+CRIMINAL LAW 59
+prosecuted for murder. Decide giving ar- committed? Would it make any difference
+guments and case law. if A died due to failure to give prompt
+Issue: What offence, if any has been com- medical aid or due to head injury after 10
+mitted? days in the hospital?
+Decision: Issue: What offence, if any has been com-
+(a) It is a clear cut case of murder. mitted?
+(b) It is culpable homicide not amounting Decision:
+to murder, because the accused didn’t (a) Accused is not guilty of murder.
+intended to kill him. (b) Accused is guilty of culpable homi-
+(c) It is a case of grievous hurt. cide.
+35. Facts: P, a dreaded terrorist, driving his (c) The accused is guilty of murder with
+Mercedes, was apprehended by a police in the meaning of clause (3) of Sec-
+constable on a traffi c red signal. The con- tion 300, so far as the injury was in-
+stable asked P to take the car to his left tentional and it was suffi cient in the
+towards a petrol pump and to stop there ordinary course of nature to cause
+death. In the light of Explanation (2)
+in the parking space. P began to do so but
+to Section 299 it would make no dif-
+suddenly accelerated. The constable man-
+ference in the answer if A died due to
+aged to cling to the driver’s window, P
+failure to give prompt medical aid.
+tried to shake him off by giving hard blows
+37. Facts: C, intending to kill his wife D,
+with the help of his fi st but could not suc-
+injects poison in a banana and gives it to
+ceed in throwing him off on the road. P
+her to eat. D keeps the poisoned banana
+then took a spanner lying in his car and
+on a table to relish it at her leisure. Im-
+struck a violent blow on the constable fi n-
+mediately after that, L, a neighbour comes
+gers, and as constable loosened his grip, P
+to their house: D offers the banana to him.
+pushed and threw him on the road. There
+L consumes it and dies consequently. The
+was very heavy traffi c on the road and the
+incident occurs in C’s presence and he
+constable got killed by a speeding truck.
+does not interfere. What are the respective
+Can P be successfully prosecuted for the
+penal liabilities of C and D? Will your an-
+murder of the constable?
+swers be different, if D offers the banana
+Issue: What offence, if any has been com-
+to L in C’s absence?
+mitted?
+Issue: What offence, if any has been com-
+Decision:
+mitted?
+(a) P is guilty of murder.
+Decision:
+(b) P is guilty of culpable homicide.
+(a) C is guilty of culpable homicide.
+(c) P is not guilty of homicide by rash or
+(b) D is guilty of murder.
+negligent act because Section 304-A
+(c) C is guilty of murder because C had
+does not apply where the death has
+the intention to kill someone and his
+arisen from any other supervening act
+action was suffi cient to cause the
+or interventions which could not have
+death. D is not guilty of any offence.
+been anticipated. P is, however, guilty
+C’s presence or absence is immate-
+of causing ‘grievous hurt’ within the rial.
+meaning of Section 320, as he had the 38. Facts: Examine as to whether a person
+intention of causing such hurt. who causes death of a pregnant woman
+36. Facts: A, a physical training instructor is guilty of committing one homicide or
+was acting as a referee in a friendly hockey two.
+match being played between class XI and Issue: What offence, if any has been com-
+class XII. X, an ex-student of the school, mitted?
+arrived on the ground and was very anx- Decision:
+ious to play the game but was not allowed (a) A person who causes the death of a
+by A. X snatched a hockey stick from a pregnant woman is guilty of commit-
+player and struck a blow on A’s head with ting two homicides.
+considerable force. A fell down and died (b) A person who causes death of a preg-
+instantaneously. What offence has been nant woman is guilty of committing
+
+only one homicide, that is, of the of the axe. As a result of the head injury, B
+woman. As per Explanation 3 to Sec- died. What is the liability of A?
+tion 299 the causing of the death of a Issue: What offence, if any has been com-
+child in the mother’s womb is not ho- mitted?
+micide. But it may amount to culpable Decision:
+homicide to cause the death of a living (a) A is guilty of culpable homicide not
+child, if any part of that child has been amounting to murder because injury
+brought forth, though the child may infl icted was not suffi cient in the ordi-
+not have breathed or been completely nary course of nature to cause death.
+born. (b) A is guilty of murder.
+39. Facts: A kicked his daughter aged about (c) A is guilty of causing grievous hurt.
+9 years on her back with his barefoot. She 42. Facts: S, a snake charmer, was exhibiting
+fell down and died immediately? What is a poisonous snake in public whose fangs
+the liability of A. he knew had not been extracted. He put
+Issue: What offence, if any has been com- the snake on the head of one of the spec-
+mitted? tators, who while trying to push off the
+snake away from his head was bitten by
+Decision:
+it.
+(a) He is guilty of murder.
+Issue: What offence, if any has been com-
+(b) He is guilty of causing grievous hurt.
+mitted?
+(c) A is guilty of culpable homicide not
+Decision:
+amounting to murder because to kick
+(a) S is guilty of culpable not amounting
+a girl of tender age with such force as
+to murder.
+to produce rupture of abdomen in a
+(b) He is guilty of murder.
+healthy subject, is an act of such char-
+(c) It’s a case of accident.
+acter that no reasonable man could be
+43. Facts: A placed a bomb in a medical store
+ignorant of the likelihood of its caus-
+and gave the people inside three minutes
+ing death.
+to get out before the bomb exploded. B, an
+40. Facts: A had gone to his father in laws
+arthritic patient, failed to escape and was
+house to fetch his wife. On account of
+killed. Discuss the liability of A.
+some quarrel between A and his brother
+Issue: What offence, if any has been com-
+in law, B, A lost his temper and gave one
+mitted?
+blow with a knife on B’s chest which re-
+Decision:
+sulted in his death. What is the liability of
+(a) The act of A was imminently danger-
+A?
+ous act. Therefore, A will be liable for
+Issue: What offence, if any has been com-
+committing murder of B under clause
+mitted?
+4 of Section 300.
+Decision:
+(b) He is guilty of culpable homicide.
+(a) A is guilty of murder.
+(c) He is guilty of causing grievous hurt.
+(b) A is guilty of grievous hurt.
+44. Facts: D, a burglar, breaks into a house
+(c) A is guilty of culpable homicide not
+carrying an unloaded pistol which he in-
+amounting to murder because death tends to use to frighten the inmates of the
+was caused by doing an act with the house should he be detected. The owner of
+knowledge that it was likely to cause the house confronts the burglar who there-
+death. upon points the empty gun at him. The
+41. Facts: A along with others while cutting owner dies of fright. Discuss the liability
+illegally a forest tree were apprehended of D.
+by a forest guard, B. On being rebuked Issue: What offence, if any has been com-
+and threatened by A and others, B kept mitted?
+quiet and tried to retreat. But A and others Decision:
+chased B with axe in their hands. A gave (a) D would be liable for culpable homi-
+a blow with the handle of his axe on B’s cide not amounting to murder.
+back who fell down. A then assaulted B on (b) He will be liable for murder.
+his legs and knee joints with the blunt side (c) It is a case of accident.
+
+CRIMINAL LAW 61
+EXCEPTIONS TO THE OFFENCE to benefi t of Exception 1 to Section 300?
+OF MURDER Decision:
+(a) He is guilty of murder as he can’t be
+45. Facts: The accused K. M. Nanavati was benefi tted with the exception of grave
+an offi cer. In the year 1956, the Nanava- and sudden provocation.
+tis were introduced to Ahuja. Gradually, (b) He is not guilty of murder as his situa-
+a friendship developed between Ahuja tion is covered under the exception of
+and Mrs Nanavati which culminated in grave and sudden provocation.
+criminal intimacy between them. One day (c) He is guilty of culpable homicide.
+Mrs Nanavati confessed to Mr Nanavati of (d) He is guilty of causing grievous hurt.
+her illicit intimacy with Ahuja. Enraged at 47. Facts: The accused armed themselves
+the conduct of Ahuja, the appellant wanted with deadly weapons and secured them-
+to settle the matter with Ahuja. Thereafter, selves on the terrace of a house, collected
+he drove his wife and two children to a the opponents by beat of drum and threw
+cinema and left them there, and then went out a challenge of fi ghting. Thereupon
+to his ship and took a revolver. He then the deceased used provocative language
+went to the fl at of Ahuja and entered his challenging the accused to come out of
+bedroom. He called Ahuja a fi lthy swine the house and fi ght. The accused did and
+and asked him whether he would marry killed the deceased.
+his wife and look after the children. The Issue: Whether the accused are guilty of
+deceased retorted, “Am I to marry every murder?
+woman I sleep with”? The accused be- Decision:
+came enraged and shot Ahuja dead. (a) The accused are guilty of murder.
+Issue: Whether the accused is guilty of (b) The accused are guilty of culpable ho-
+murder? micide.
+Decision: (c) The accused are guilty of causing
+(a) He is guilty of murder as all facts and grievous hurt.
+circumstances are against him. 48. Facts: The accused and the deceased were
+(b) No, he is not guilty of murder. Be- relatives. On the day of the occurrence of
+cause his action is covered under the crime, the deceased attended the marriage
+exception to murder that is grave and of his late brothers daughter. The accused
+sudden provocation. had a grievance that the deceased did not
+(c) He is guilty of culpable homicide. invite him to the marriage. After the mar-
+46. Facts: The deceased Sabir and the ac- riage, armed with a gandhala, the accused
+cused Akhtar were two brothers who lived and his brothers emerged suddenly. There
+in two parts of the same house while their was a sudden quarrel and the accused as-
+parents and other brothers lived at some saulted the deceased with the blunt side of
+distance in the same street. Sabir and his the gandhala on the head in the heat of the
+wife Chhoti were people of bad temper moment. The doctor opined that the head
+and quarrelsome nature. One day, Chhoti injury was suffi cient in the ordinary course
+was quarreling with other members of the of nature to cause death.
+family who had come to visit Akhtar. In the Issue: Whether the accused are guilty of
+meanwhile Sabir came home and abused murder?
+every one there. He used highly objection- Decision:
+able language against his own father as (a) The accused are guilty of murder.
+well as against Akhtar, in the presence of (b) The accused are guilty of culpable ho-
+his two other brothers, mother and other micide as the present case is covered
+neighrbours. Akhtar was provoked by by exception 4 to Section 300. Be-
+such vulgar language but still kept quiet. cause the accused acted in the heat of
+Sabir, to teach Akhtar a lesson, grappled moment and didn’t strike the diseased
+him and in the fi ght Akhtar struck Sabir with sharp edged side.
+twice with his knife. (c) They are guilty of causing grievous
+Issue: Whether Akhtar acted under grave hurt because they assaulted with blunt
+and sudden provocation and thus entitled side.
+
+49. Facts: Sheela informed her friend Roma friend) and her plans of initiating divorce
+that her husband Ramu was staying in a proceedings and marriage with him, the
+local 5 star hotel. Roma took her car and husband was completely shattered. He
+left for the hotel with a revolver. Roma bolted himself inside a room and went
+made enquiries from the reception and without food or water for over 12 hours.
+came to know the room number where her However, he could take it no more when
+husband was staying. Roma entered the his friend was heard chatting with his wife
+room and saw her husband in a compro- the same evening. He dashed out of the
+mising position with a lady. Roma became room holding a khukari and chased him,
+angry and fi red a shot at her husband from and fi nally stabbing him several times in
+her revolver, but it missed and killed the chest region. On his prosecution for mur-
+lady sitting with Ramu. Roma pleaded the der, can he take the plea of acting under
+defence of grave and sudden provocation. grave and sudden provocation?
+Issue: Whether the accused is guilty of Issue: Whether the accused is guilty of
+murder? murder?
+Decision: Decision:
+(a) The accused is not guilty of murder (a) He is not guilty of murder. He can be
+as she acted under sudden and grave benefi ted with the exception of grave
+provocation. and sudden provocation. Because
+(b) The accused is guilty of murder be- whatever he did, he did in a shocked
+cause the provocation was grave but state of mind.
+not sudden, because the action of the (b) He is guilty of murder. Because he
+accused was deliberate and premedi- killed the deceased out of retaliation.
+tated. (c) He can be acquitted giving him a ben-
+(c) She is guilty of culpable homicide be- efi t of doubt.
+cause no wife can tolerate the adulter- 52. Facts: A was very fond of his wife, B.
+ous character of her husband. However, B had a paramour, C. One day
+50. Facts: On A’s reaching home after a long A saw B in a compromising position with
+absence his wife confessed that she had C. A controlled his emotions and did not
+developed intimacy with his friend and react. He decided to settle down with B
+was carrying his child in her womb. A was in a far fl ung area. One day when he was
+shocked but did not display any external coming back home at the new place he saw
+signs of his shock. However, he did nei- C coming out of his new house. He saw C
+ther eat nor drink anything nor talked to was wearing his watch which he had re-
+any one thereafter. Three hours after the ceived as a gift from his wife B. A imme-
+incident, A drove his wife to her mothers diately attacked C with his knife which he
+house and left her there. From there he was carrying in his pocket and caused C’s
+went to his friends house and on his open- death by attacking vital parts of C’s body.
+ing the door shot him without any argu- On his prosecution for murder, can he take
+ment. Can A successfully plead grave and the plea of acting under grave and sudden
+sudden provocation mitigation. provocation?
+Issue: Whether the accused is guilty of Issue: Whether the accused is the guilty
+murder? of murder?
+Decision: Decision:
+(a) The accused is guilty of murder be- (a) No, he is not guilty of murder. Be-
+cause he can’t take benefi t of grave cause the conduct of wife was un-
+and sudden provocation because the pardonable and she created the same
+provocation was grave but not sud- circumstances time and again which
+den. gave rise to grave and sudden provo-
+(b) The accused is guilty of culpable ho- cation. The facts of the case are self
+micide. speaking truth.
+(c) The accused is innocent. (b) He is guilty of murder.
+51. Facts: On hearing from his wife about (c) He is guilty of culpable homicide.
+her intimacy with another man (his best 53. Facts: C was engaged to be married with
+
+CRIMINAL LAW 63
+D. Once C saw D fl irting with G, another Issue: Whether the accused is guilty of
+girl. C inquired, but D ignored. C became murder?
+terribly upset. Suspecting illicit liaison be- Decision:
+tween D and G, a week later, C went to (a) B is guilty of murder. Because stran-
+D’s fl at. Peeping through the door’s chink, gulating any one on such fl imsy
+she was shocked to see D and G in fl a- grounds is suffi cient evidence.
+grante delicto. On D’s opening the door, (b) B is not guilty of murder.
+C immediately took out a penknife which (c) B is guilty of culpable homicide.
+(d) B can be acquitted giving him benefi t
+she habitually used to carry along and at-
+of doubt.
+tacked him.
+56. Facts: On learning about his wife’s extra-
+Issue: Whether the accused is the guilty
+marital affair with his best friend. A went
+of murder?
+into a state of shock. He did not have food
+Decision:
+that afternoon and did neither talk to any-
+(a) C is guilty of murder as the reports
+one nor watched his favourite day time TV
+of the doctor say that the injuries in-
+serial. Shortly after forenoon, A was seen
+fl icted were suffi cient in the ordinary
+on his friends fl at, where he is alleged to
+course of nature to cause the death.
+have shot him dead without uttering a sin-
+Moreover she was not legally wedded
+gle word. A is prosecuted for the murder
+wife.
+of B. Give arguments in A’s defence.
+(b) C is not guilty of murder.
+Issue: Whether the accused is guilty of
+(c) C is guilty of culpable homicide. murder?
+(d) C is guilty of causing grievous hurt. Decision:
+54. Facts: X and Y, two brothers, live sepa- (a) The case is clear cut category of grave
+rately. The parents live with X, Y often and sudden provocation. The accused
+comes to X’s place and abuses his parents cannot be guilty of murder.
+in his presence. One day when X’s father (b) The accused can be held guilty of cul-
+in law, K and his friend P, were present. Y pable homicide. Because the provoca-
+came there and started abusing his parents. tion was grave but not sudden and the
+X who had not said anything to Y earlier, action was deliberate and premeditat-
+got enraged because of the presence of K ed.
+and P and picked up a knife lying nearby (c) The case is not covered under any
+and killed Y. X is charged for murder. He provision of murder or culpable ho-
+pleads grave and sudden provocation in micide.
+his defence. 57. Facts: A, an army personnel, was posted
+in Kargil, a non-family station having dif-
+Issue: Whether the accused is the guilty
+fi cult conditions, for the last one year. Now
+of murder?
+since normalization process had started A
+Decision:
+wanted to go on ten days leave to attend
+(a) X is guilty of murder because the facts
+his brother marriage. He pleaded fervently
+of the case do not mitigate the culpa-
+with his superior offi cer, B, to grant him
+bility of X.
+ten days leave. But B was adamant and
+(b) X is not guilty of murder. Because the
+was not prepared to grant more than seven
+mitigating circumstances of the case
+days leave. Frustrated by the refusal A
+are enough to entitle the accused to
+took out his service revolver and shot B at
+get the benefi t of grave and sudden
+point blank range. A wants you to defend
+provocation.
+him. Give arguments in A’s defence.
+(c) X is guilty of culpable homicide.
+Issue: Whether the accused is guilty of
+(d) X can be acquitted giving him benefi t murder?
+of doubt. Decision:
+55. Facts: A’s car slightly scratched B’s car (a) The case is not covered under grave
+on a red light. B shouted and grabbed A by and sudden provocation. The accused
+the neck and a fi ght ensued between them. is guilty of murder. Mere refusal of
+In the heat of passion, B strangulated A to leave is no ground to give some one
+death. B is being prosecuted for murder. power to kill someone.
+
+(b) It is a culpable homicide. Because the cused pleads ‘grave and sudden provoca-
+accused did in the heat of passion. tion’ in his defence. Prosecution pleads on
+(c) It is neither murder nor culpable ho- the other side the lapse of interval between
+micide. act and consequences.
+58. Facts: X and Y were happily married, Issue: Whether the accused is guilty of
+living in Bombay. M, an old classmate of murder?
+Y, was transferred to Bombay. He started Decision:
+visiting X and Y at their fl at and became (a) The case is covered by Exception 1 to
+quite friendly with X also. One afternoon Section 300 notwithstanding the fact
+X quite unexpectedly came back from his of time gap between the seeing of the
+offi ce and to his uttar shock and disbelief act of adultery and the killing of B. A
+he found his wife and M in a compro- having acted under grave and sudden
+mising position. He, however, controlled provocation was guilty under Section
+himself and kept his cool and asked M 304.
+never to saw his face again lest he would (b) The accused is guilty of murder as the
+kill him. After about a week X left on a case is not covered under the Excep-
+tour telling his wife that he would be back tion 1 to Section 300.
+after four days. He, however, returned the (c) The facts of the case are confusing so
+very next day in the evening and found M no conclusion can be drawn.
+and Y sitting together on the sofa in the 60. Facts: In the past, there used be quarrel
+drawing room with M’s hand around Y’s between the accused A and his deceased
+shoulder. X straightway went to his bed- uncle D. On the date of occurrence D ap-
+room, took out his pistol from the almirah, proached A drunk and abused him in fi lthy
+came back to the drawing room and shot language thus, subjecting A to grave and
+M dead. sudden provocation. A reacted immedi-
+Issue: Whether the accused is guilty of ately with a stick that was in his hand and
+murder? killed D. Whether A is guilty of murder?
+Decision: Issue: Whether the accused is guilty of
+(a) The accused is not guilty of murder. murder?
+The case is covered by Exception 1 to Decision:
+Section 300. The mental background (a) The case is covered by Exception 1 or
+created by the previous act of the vic- 4 of Section 300. There was no prepa-
+tim may be taken into consideration ration and prior deliberation. The re-
+for ascertaining whether the subse- action was as sudden as the provoca-
+quent act caused grave and sudden tion.
+provocation. (b) Case is not covered by Exception 1
+(b) The accused is guilty of murder. or 4 of Section 300. So the accused is
+(c) The accused is guilty of culpable ho- guilty of murder.
+micide. (c) It is neither murder nor culpable ho-
+59. Facts: A and his friend B were sleeping micide.
+in one room and A’s wife in the adjoining 61. Facts: B had teased A’s sister. Coming to
+room. Sometime in the night B got up and know of it, A took a sword and went to B’s
+went into the adjoining room and bolted residence. B, his mother and sister were
+the door behind him. A also got up and present in the house when A reached there
+peeping through a chink in the door saw and started abusing them. He said that he
+B and A’s wife having sexual intercourse. would forcibly take away B’s sister. B’s
+A returned to the room and lied down. Af- mother took her daughter inside a room
+ter sometime B came out of that room and and bolted the door. She then went for-
+slept by the side of A. After a short time, ward with folded hands and requested A to
+when B began dozing. A stabbed him pardon them. A immediately gave a blow
+several times with a knife and killed him. on her neck with the sword and she fell
+There was no evidence that the accused down and died. At this B started running
+had to go anywhere in search for the knife, towards the fi elds. A chased him abusing.
+which apparently, was with him. The ac- When A was still about 20 feet from him.
+
+CRIMINAL LAW 65
+B jumped into a well to save himself. B’s 63. Facts: A, who was sexually impotent tried
+head hit a hard substance in the well with in vain to have sexual intercourse with a
+the result that he lost consciousness and prostitute P, who jeered at him. A stabbed
+died of asphyxia due to drowning. Discuss P with a knife and killed her. In a charge
+the liability of A. of murder, A pleads the defence of grave
+Issue: Whether the accused is guilty of and sudden provocation. Can A succeed?
+murder? If not, state the reasons.
+Decision: Issue: Whether the accused is guilty of
+(a) The act of teasing by B of A’s sister murder?
+was not of such a nature whereby it Decision:
+can be said that A chopped off B’s (a) The accused is guilty of murder as he
+mother head under grave and sud- cannot be benefi ted with exception of
+den provocation. Provocation even grave and sudden provocation.
+though sudden was not so grave as to (b) The accused is guilty of rape.
+deprive A of his power of self control. (c) The accused is guilty of molestation.
+So, A will be liable for murder of B’s
+mother. However, B’s death was not HOMICIDE BY RASH OR
+the direct result of any act done by the NEGLIGENT ACT
+accused i.e., there was no causal con-
+nection. A’s chasing cannot be said to 64. Facts: A left his car engine running on a
+be the cause of B’s death, so, he will busy street when he stepped out for a min-
+neither be liable for murder nor for ute to purchase a bottle of water from a
+culpable homicide. But A will be li- shop on the side. While he was in the shop,
+able for abetment to commit suicide. some miscreant released the hand break of
+(b) The accused is guilty of murder and his car. The car being on a slope, crashed
+abetment to suicide. into a person standing nearby. He died as
+(c) The facts of the case do not derive to a consequence. Can A be convicted for
+any decision. causing death by rash and negligent act?
+62. Facts: H suspected his wife of infi delity. Issue: What offence, if any, has been com-
+Therefore H started keeping watch on her mitted?
+movements. One day H found that his Decision:
+wife did not come back to the house dur- (a) A can be charged with the death by
+ing the last night. At about 11.00 a.m. next rash and negligent act as he left the car
+day when the wife came back to the house running on a busy street.
+H asked her whereabouts. The wife got (b) A cannot be guilty of death, because
+furious and said, “How long are you going the death was caused by miscreants.
+to watch my movements? Only two days (c) It is a case of accident.
+back I was sleeping with Z. Do what you 65. Facts: X started from Delhi on his car to
+like”. At this H got enraged and picked up go to Gurgaon, at about 11.00 p.m. He
+a lathi lying nearby and gave a number of was driving at a reasonable speed and
+blows on the head and chest. Within fi f- quite carefully. But unfortunately, on the
+teen minutes the wife died. way he knocked down two coolies who
+He is prosecuted for murder under Section were lying and sleeping on the road itself.
+302, IPC. X is prosecuted for causing death of the
+Issue: Whether the accused is guilty of two coolies by rash and negligent driving
+murder? under Section 304 A, IPC. Can X be con-
+Decision: victed? Discuss.
+(a) The accused is guilty of murder as per Issue: What offence, if any, has been com-
+the facts and circumstances of case. mitted?
+(b) He is not guilty of murder it is a clear Decision:
+cut of case grave and sudden provoca- (a) X can be convicted for rash and negli-
+tion. gent driving.
+(c) The facts and circumstances are in- (b) He can not be convicted for rash and
+conclusive. negligent driving because the facts of
+
+the case clearly state that he was driv- committed by A? Support your answer
+ing the car at a reasonable speed and with case law.
+quite carefully. Issue: What offence, if any, has been com-
+(c) It’s a clear cut case of murder. mitted?
+66. Facts: X who was driving a car at night, Decision:
+entered a road which was under repairs and (a) A can be convicted under Section
+closed for traffi c. He ran over and killed 304-A for rash and negligent driving.
+two coolies who were sleeping on the A should not have driven the bus at
+road with their bodies completely covered such a speed that he cannot stop it in
+under dark blankets. X is prosecuted for time. Driving at a high speed, and that
+causing death of the two coolies by rash too at a road crossing, shows that he
+and negligent driving under Section 304 acted rashly and negligently.
+A, IPC. Can X be convicted? Discuss. (b) A cannot be committed for rash and
+Issue: What offence, if any, has been com- negligent driving.
+mitted? (c) It’s a case of normal accident.
+69. Facts: A, an owner of a circus company
+Decision:
+was perpetually troubled by the trespass-
+(a) X can be convicted for rash and negli-
+ers who would harass the lady perform-
+gent driving causing death.
+ers by peeping into their dressing rooms.
+(b) He cannot be convicted for rash and
+In order to keep the trespassers away, A
+negligent driving causing death.
+decided to leave two circus lions into the
+(c) It’s a case of accident.
+dressing room region. B a trespasser who
+67. Facts: A, a scientist, working on a rare
+had sneaked into the dressing room area
+fuel project had fi xed an electronic device
+was badly mauled and killed by one of the
+that not only set in motion an alarm, but
+circus lions. Discuss A’s liability under
+also released high voltage electric shock
+Section 304 A, IPC.
+to guard his lab against thieves and intrud-
+Issue: What offence, if any, has been com-
+ers. B who had sneaked into the lab with
+mitted?
+a view to steal the fuel formula died on
+Decision:
+account of an electric shock. Can A be
+(a) A’s act is rash as it is reckless disre-
+prosecuted for an offence under Section
+gard of the presence of the trespassers.
+304A?
+The criminality lies in running the risk
+Issue: What offence, if any, has been
+of doing such an act with recklessness
+committed.
+or indifference as to its consequences
+Decision:
+i.e., without belief in the result of such
+(a) A can not be convicted for rash and
+doing.
+negligent act causing death. Because
+(b) It is not rash and negligent act. It is a
+B who had sneaked into lab with a
+precautionary measure.
+view steal the formula died because of
+(c) No conclusive evidence so no conclu-
+his own commission of offence.
+sive decision.
+(b) He can be convicted for rash and neg-
+70. Facts: X, a notorious smuggler, built
+ligent act causing death. a strong house for himself away from
+(c) Case is inconclusive. the city. The house was fortifi ed by high
+68. Facts: A, bus driver, seeing the green compound wall around the house and live
+signal at a road crossing, raised the speed electric wire ran on the upper edges of the
+of his bus to clear the crossing before compound wall which used to be activated
+the lights turned red. However, the lights during the night. Well lit warning boards
+turned red before A could reach the cross- with danger signs of high voltage were
+ing and due to his failure to stop the bus placed all around. Y, a thief, in order to
+in time he collided with an autorickshaw commit theft attempted to scale the wall
+coming on green lights from right direc- in the night, came in contact with the wire
+tion. As a result the autorickshaw driver and was electrocuted. X is charged under
+died on the spot and 2 passengers in it got Section 304 A for causing the death of Y.
+seriously injured. What offence, if any, is How will you decide?
+
+CRIMINAL LAW 67
+Issue: What offence, if any, has been com- al at a speed of 80 km per hour near a pri-
+mitted? mary school in the metropolis where the
+Decision: speed limit was notifi ed to be only 30 km
+(a) X is not liable because he had already per hour. Suddenly a school child tried to
+taken the due caution placing well lit cross the street and the driver L couldn’t
+warning boards and danger signs. stop the car, as the brakes did not work at
+(b) X is liable for rash and negligent act the crucial time. The child was run over
+causing death. and killed.
+(c) X is guilty of murder. Issue: What offence, if any, has been com-
+71. Facts: Accused A received from her par- mitted?
+amour a packet to administer to her hus- Decision:
+band as a charm. A administered it, and (a) L is guilty of murder.
+this resulted in the death of her husband. (b) L is guilty of criminal rashness and
+A did not know that the substance given negligence—running a defective car,
+to her was poisonous until she saw its ef- driving at a high speed near a primary
+fects. Discuss A’s liability under Sector school in disregard of the specifi ed
+304 A, IPC. speed limit.
+Issue: What offence, if any, has been com- (c) L is innocent as the car was defec-
+mitted?
+tive.
+Decision:
+74. Facts: X was driving a tourist bus at a fast
+(a) A is guilty of murder.
+speed. When he was 100 yards away from
+(b) A is guilty of culpable homicide.
+a traffi c crossing he saw a green signal.
+(c) A is guilty of criminal rashness and
+In a bid to cross the road he enhanced the
+negligence under 304A.
+speed but before he could cross the road
+72. Facts: X has an illicit intimacy with Y,
+the green signal turned red, but X contin-
+a married woman. X suggests to Y that
+ued to drive on and hit C, a school child,
+they should do away with her husband by
+on the zebra crossing. For what offence
+murdering him, to which Y does not give
+can X be convicted?
+her consent. After two months, X gives a
+Issue: What offence, if any, has been com-
+white coloured poison to Y saying that it
+mitted?
+is a “magic powder”. He asks Y to mix the
+Decision:
+poison in drink so that her husband would
+(a) It’s a matter of accident.
+not object to Y’s illicit relations with X. Y
+(b) X can be convicted under Section
+carries out the instructions given by X and
+304-A for rash and negligent driving.
+her husband dies consequently.
+(c) The accused is innocent as he had no
+Issue: What offence, if any, has been com-
+knowledge of green signal.
+mitted?
+75. Facts: The residents of the adjoining
+Decision:
+slums were persistently using the park for
+(a) The provisions of Section 304-A ap-
+defecation. On the order of the D.D.A.
+ply to case where there is no intention
+Chairman, the park was fenced. The elec-
+to cause death and no knowledge that
+tric current was run on the wires on the
+the act done in all probability would
+top. A trespassing slum-dweller touched
+cause death. In the present case, look-
+a live wire and was electrocuted. Can the
+ing at the past behaviour, X it was im-
+Chairman be held guilty for an offence un-
+perative upon Y to ascertain whether
+der Section 304-A?
+the powder was noxious or not. Fail-
+ing which it can be said that she failed Issue: What offence, if any, has been com-
+to exercise reasonable and proper care mitted?
+and hence she is liable under Section Decision:
+304-A. (a) The chairman is not liable as he was
+(b) The accused is not guilty of any discharging his public duties.
+offence. (b) The D.D.A. Chairman will be liable.
+(c) The accused is guilty of murder. There should be warning in some
+73. Facts: L was driving his pretty old car the form about the electrical fencing of
+brakes of which had become dysfunction- the park. This is more so because the
+
+slum-dwellers were in the habit of us- Decision:
+ing the park for defecation. (a) A cannot be held guilty because he
+(c) It’s a case of judicial prerogative of was just performing his duty of a doc-
+course. tor.
+76. Facts: In order to prevent the plucking of (b) He is liable for murder.
+the fruits by neighbours children, Mush- (c) A can be convicted under Section
+eer guarded his orchard with a live electric 304-A for causing B’s death by rash
+wire and put up a written warning about and negligent act.
+it at the front gate. Bala, 6 years old, un- 79. Facts: A carrying a loaded gun stood qui-
+aware of the electric wire or the warning, etly in a corner of a public place and was
+was killed by electrocution while trying to watching a dramatic performance. One
+scale the wall of orchard from the back- of the actors, who was playing the part
+side. Can Musheer be convicted for caus- of a drunken dacoit, to enhance the effect
+ing death by rash and negligent act? of his acting approached A and grappled
+Issue: What offence, if any, has been com- with him and in the course of the struggles
+mitted? the gun went off and the actor was killed.
+Decision: Is A guilty of a negligent act?
+(a) Musheer will not be liable for any of- Issue: What offence, if any, has been com-
+fence because it is his right to defend mitted?
+Decision:
+his property.
+(a) A is guilty of negligent act.
+(b) Musheer will be liable inspite of a
+(b) A is guilty of murder.
+written warning about the live electric
+(c) A is not guilty of a negligent act or
+wires. Because such a warning would
+causing death by a negligent act.
+be ineffective against the children.
+Moreover, he adopted a rather drastic
+HURT AND GRIEVOUS HURT
+measure. He should have adopted a
+reasonable precaution to save his or-
+80. Facts: M owed Rs 1000 to P but did not
+chard.
+pay back though the latter made demands
+(c) He must be charged with murder.
+several times. P lastly made another de-
+77. Facts: ‘A’ takes up a gun not knowing it
+mand but M as usual promised to pay lat-
+is loaded. Points in sport at ‘B’ and pulls
+er whereupon P kicked him twice on the
+the trigger. ‘B’ is shot dead. Can ‘A’ be
+abdomen and M collapsed and died. What
+convicted for causing death by rash and
+offence is P guilty of?
+negligent act?
+Issue: What offence, if any, has been com-
+Issue: What offence, if any, has been com-
+mitted?
+mitted?
+Decision:
+Decision:
+(a) It could not be said that P intended
+(a) A is liable for murder.
+or knew that kicking on the abdomen
+(b) ‘A’ will be liable under Section 304A
+was likely to endanger life and conse-
+for causing death by negligent act.
+quence he is guilty of causing death.
+(c) A is liable for culpable homicide.
+(b) P is guilty of murder.
+78. Facts: B was brought unconscious to a
+(c) P is guilty of culpable homicide.
+private nursing home. In the absence of
+(d) P is guilty of causing grievous hurt.
+the surgeon, his attendant, A, entered it
+81. Facts: A causes an injury to Z, which re-
+as an emergency case and operated upon
+sults in his death. It was never intended by
+the B’s stomach to extract undigested poi-
+A to cause his death nor in normal condi-
+soned food. During the operation, B died.
+tions it could have caused Z’s death. What
+The postmortem report attributed the B’s
+offence A has committed?
+death to improper handling of such cases Issue: What offence, if any, has been com-
+independently yet he carried on the experi- mitted?
+ment as B needed an immediate treatment. Decision:
+Discuss the criminal liability of A. (a) The offence committed is neither of
+Issue: What offence, if any, has been com- causing grievous hurt nor of culpable
+mitted? homicide, but of causing simple hurt.
+
+CRIMINAL LAW 69
+(b) The offence committed is murder. 85. Facts: A gave severe beating to B on a
+(c) It is case of culpable homicide. highway at night and left him with frac-
+(d) It is a case of causing grievous hurt. tured legs and bleeding. Soon thereafter
+82. Facts: With a view to chastising her B became unconscious due to substantial
+daughter, the accused gave a kick on the blood loss. The next morning B was found
+back and two slaps on the face, the result dead, crushed by a speeding truck/ falling
+of which was death. tree on account of cyclone. Has A com-
+Issue: What offence, is any, is caused by mitted culpable homicide in terms of Sec-
+the accused in the above case? tion 299, IPC?
+Decision: Issue: What offence, if any, has been com-
+(a) It could not be said that accused in- mitted?
+tended or knew that kicking on the Decision:
+back and slapping were likely to en- (a) He is guilty of murder.
+danger life and consequently he is (b) A is guilty of grievous hurt only. The
+guilty of causing hurt only. line between culpable homicide not
+(b) He is guilty of murder. amounting to murder and grievous
+(c) He is guilty of culpable homicide. hurt is very thin. In one case the inju-
+(d) He is guilty of causing grievous hurt. ries must be such as are likely to cause
+83. Facts: The accused threw his wife from death and in the other they endanger
+the window about 6 feet high, but the fall life. A’s act was not the direct or sole
+was broken by a weather board fi xed just cause of B’s death.
+below it and resulted in the fracture of (c) He is guilty of culpable homicide.
+knee and in several small wounds.
+86. Facts: In the course of an altercation be-
+Issue: What offence, if any, has been com-
+tween A and B on a dark night, the former
+mitted?
+aimed a blow with his stick at the head of
+Decision:
+the later. To ward off the blow, B’s wife X,
+(a) If the offender intended or knew him-
+who had a child on her arm intervened be-
+self to be likely to cause only simple
+tween them. The blow missed its aim and
+hurt, he cannot be convicted for griev-
+fell on the child head causing severe inju-
+ous hurt even if the resultant hurt was
+ries, due to which the child died. Discuss
+grievous. The accused in the present
+the liability of A.
+case could not have intended or knew
+Issue: What offence, if any, has been com-
+that he was likely to cause grievous
+mitted?
+hurt (which resulted due to a weather
+Decision:
+board). Thus, he is guilty of simple
+(a) He is guilty of murder.
+hurt only.
+(b) A is guilty of causing simple hurt, as
+(b) He is guilty of grievous hurt.
+the blow, if it had fell upon the com-
+(c) No offence can be made out.
+plainant would have caused simple
+84. Facts: A, a chain snatcher, forcibly pulled
+hurt.
+the ear rings from the ears of an old lady.
+(c) He is guilty of culpable homicide.
+Both the ear lobes were torn and the old
+87. Facts: A struck violent blows on the head
+lady suffered pain and suffering for over
+and shoulders of a woman who was carry-
+three weeks. For what offence can A be
+ing an infant child in her arms. One of the
+prosecuted?
+blows fell on the child and killed it while
+Issue: What offence, if any, has been com-
+the woman received simple injuries. Dis-
+mitted?
+cuss the liability of A.
+Decision:
+Issue: What offence, if any, has been com-
+(a) He is guilty of theft.
+mitted?
+(b) A is guilty of voluntarily causing
+Decision:
+‘grievous hurt’. The case comes under
+(a) The accused is guilty of murder.
+clause eighthly of Section 320 (‘any
+(b) A is liable for causing simple hurt
+hurt which caused the sufferer to be
+during the space of 20 days in severe to the woman under Section 323 but
+bodily pain’) would be liable under Section 304-A
+(c) He is guilty of rash and negligent. for causing death of the child by his
+
+rash and negligent act. A knew that Decision:
+the woman was carrying the child in (a) A and C are guilty of abetment to sui-
+her arms and his blows might hit the cide.
+child. Thus, he ought to have taken (b) A and C are not guilty under section
+care. 306 because instigation necessarily
+(c) Guilty of culpable homicide. indicates some active suggestions or
+88. Facts: The wife of the accused died in support all stimulations to the com-
+mysterious circumstances. There was mission of the act itself, and advice
+history of harassment and cruelty caused can become instigation only if it is
+to her by the in-laws and the husband. found that it was advice which was
+The post mortem report indicated by the meant actively to suggest or stimulate
+C.F.S.L. report found symptoms of cru- the commission of an offence.
+elty. The accused was charged under Sec- (c) It is an offence of conspiracy.
+tion 304-B and Section 498-A.
+Issue: What offence, if any, has been com- KIDNAPPING AND ABDUCTION
+mitted?
+91. Facts: P, aged 17 years, the daughter of
+Decision:
+M, develops friendship with R, a young
+(a) The facts and circumstances prove
+man living in a neighbouring house. She
+that the accused and his family mem-
+wants to marry him. On learning this, M
+bers were liable to be committed un-
+takes her and entrusts her to S, a relative
+der section 304 B, and section 498 A.
+living in a different part of the same city.
+(b) The mysterious circumstances show
+Shortly thereafter, P goes out of S’s house
+that the offence amounting to murder.
+and calls R on the telephone. R joins her
+(c) The offence committed is culpable
+and both go from place to place for some
+homicide.
+days as husband and wife until the police
+89. Facts: A, a married woman, died within
+arrests them on a complaint of kidnapping
+seven years of her marriage in unnatural
+given by M. R is prosecuted for the of-
+circumstances. The dead body was recov-
+fence of kidnapping with intent to con-
+ered from a well adjacent to the family of
+tempt P to marry. Can R be held guilty of
+the accused. The cause of death, as per
+the offence?
+post mortem report was not drowning but
+Issue: What offence, if any, has been com-
+strangulation. There was witness account
+mitted?
+to the effect that since the marriage the
+Decision:
+girl was being tortured and even assaulted
+(a) R is not guilty of the offence of kid-
+for dowry. She was even deserted but was
+napping.
+taken back under the pressure of the me-
+(b) R is guilty of the offence in kidnap-
+diator. ping.
+Issue: Is the accused and his family liable (c) R is guilty of offence of conspiracy
+for dowry death or any other offence? and blackmailing.
+Decision: 92. Facts: A developed friendship with a
+(a) The accused are guilty of murder. girl aged 17 years. In course of time the
+(b) The accused are guilty under Section friendship developed into intimacy and
+304 B and section 498 A. three months before her 18th birthday A
+(c) The accused are guilty of culpable ho- took the girl several times to movies and
+micide. public parks during the college hours, but
+(d) The accused are guilty of causing the girl returned home every night. Two
+grievous hurt. weeks before her 18th birthday the girl
+90. Facts: A and B were in love with C, a girl, insisted that they should stay overnight.
+and quarrelled over her. A, the accused, A arranged for the girl’s stay in his own
+along with C, taunted B to commit sui- house. Next morning on the complaint of
+cide. The frustration thus caused led B to the girl’s father A was arrested. A is pros-
+commit suicide. ecuted for the kidnapping of the girl.
+Issue: What offence, if any, has been com- Issue: What offence, if any, has been com-
+mitted? mitted?
+
+CRIMINAL LAW 71
+Decision: in going to meet her uncle in Agra she
+(a) A is not guilty as the girl voluntarily could accompany him. G, then, asked for
+left her guardian’s protection so it not her parent’s permission and they allowed.
+a case of kidnapping. On reaching Agra A dropped G at her un-
+(b) A is guilty of kidnapping as he delib- cle’s house and in the evening proceeded
+erately developed intimacy with her to take her back to New Delhi. While still
+to induce her to leave her guardian’s in Agra, A suggested to G that he wanted
+house. to marry her and keeping in view the or-
+(c) A is guilty of conspiracy, kidnapping thodox views of their parents it would be
+and offence of taking undue liberty better to avail the opportunity. G, though
+with the girl. initially reluctant, ultimately agreed to A’s
+93. Facts: A, a boy aged 19 years and B, a suggestion. Accordingly, they purchased
+girl aged 17½ years, are convent students some ornaments and wedding dress and
+in Delhi. Being classmates they developed then went to a temple and got married.
+friendship and on several occasions A and They stayed in Agra for a night and de-
+B had visited restaurants and movies in cided to go to Bombay. However, the next
+each other’s company. On the fateful day day they were arrested. A is tried for kid-
+A invited B to his house. B readily accept- napping G?
+ed the invitation and reached A’s house Issue: What offence, if any, has been com-
+in her car. B also insisted to stay in A’s mitted?
+house for the night. A reluctantly permit- Decision:
+ted B to stay with him. The next morning (a) A is not guilty.
+on the complaint of the father of the girl (b) A is guilty. If the accused has laid a
+the police recovered the minor girl from foundation by inducement, allure-
+the house of A. ment, etc., and if this can be consid-
+Issue: What offence, if any, has been com- ered to have infl uenced the minor or
+mitted? weighed with her in leaving her guard-
+Decision: ian’s custody or keeping and going to
+(a) A is guilty because the girl is below the accused, then it would be diffi cult
+18 years of age. for the accused to plead that the minor
+(b) A is not guilty, as the girl voluntarily had voluntarily come to him.
+left her guardian’s protection. She is (c) The facts of the case are not clear and
+an educated girl on the verge of at- no conclusive decision can be given.
+taining majority, and was capable of 95. Facts: X, a boy of 15 years asks a girl of
+knowing what was good and what was 16 years to run away with him for getting
+bad for her. There is no promise or in- married. On this suggestions the girl runs
+ducement from the side of A. If fact, away with X, from Delhi to Madras. Can
+he was reluctant to let her stay with X be convicted for kidnapping? Discuss.
+him. Merely allowing her to stay at Issue: What offence, if any, has been com-
+house since it was late hours of night mitted?
+that too after her insistence does not Decision:
+amount to taking or enticing as envis- (a) X is not guilty as he is minor.
+aged in Section 361. (b) The minorship of the X does not lead
+(c) A is guilty of inducing and enticing to any conclusion.
+the girl and kidnapping. (c) X will be guilty (though the court may
+94. Facts: G, a 17 years and 9 month old girl take into consideration his juvenile
+and student of B.A. was residing next door age and award a lesser punishment).
+to the house of A, a young businessman in The word “Whoever” in Section 361
+a posh colony of New Delhi and both had suggests that a “minor” can kidnap
+become friendly to each other. G’s uncle another “minor”.
+was doing business in Agra. One evening 96. Facts: A girl of about 16 years was in love
+A told G that early next morning he was with the accused. The evidence showed
+going to Agra by car and would come back that she left her home on her own accord
+the same evening, and if G was interested and joined the accused for getting their
+
+marriage registered and live as husband for sometime and accepted it. They went
+and wife. to temple and got married. X is tried for
+Issue: What offence, if any, has been com- kidnapping the girl. He pleads that the girl
+mitted? had abandoned her guardianship because
+Decision: of ill-treatment of her mother.
+(a) Accused is guilty of kidnapping. Issue: What offence, if any, has been com-
+(b) Accused is guilty of seduction and mitted?
+elopement. Decision:
+(c) The accused is not guilty of kidnap- (a) X will not succeed, as G had not
+ping the girl. abandoned her guardianship. In fact,
+97. Facts: Two girls of around 17 years of X tried to take advantage of her tender
+age were alleged to have been kidnapped age and predicament and thus, this act
+from lawful guardianship. Both the girls amount to ‘enticing’ the girl out of the
+categorically stated that they had gone keeping of her lawful guardian within
+voluntarily. Rather they had persuaded the the meaning of Section 361. G’s con-
+accused to take them for an outing. sent is immaterial.
+Issue: What offence, if any, has been com- (b) X is liable for seduction and elope-
+mitted? ment.
+Decision: (c) X is not liable.
+(a) The accused is guilty of kidnapping (d) X married the girl with her consent.
+because the girls are below 18 years 100. Facts: Asha aged 16 years and a 10th
+of age. class student in a public school in Delhi,
+(b) The accused is guilty of seduction and once told her friend Rajesh aged 16 years
+elopement. and her class fellow that her father was ill–
+(c) The accused is not guilty of kidnap- treating her and suggested to him to elope
+ping the girls. together and marry. Thereafter Rajesh
+98. Facts: A enticed a minor girl M without made the plan and explained it to Asha and
+the consent of her lawful guardian G and she accordingly left her parental house to
+kept her with him for a month after which join Rajesh. They left for Chandigarh to
+he deserted her. While M was loitering on get married in an Arya Samaj temple, but
+the street immediately thereafter. B took were caught by the police. Is Rajesh guilty
+her with him from whose custody M, was of kidnapping Asha?
+later recovered by the police. Issue: What offence, if any, has been com-
+Issue: What offence, if any, has been com- mitted?
+mitted? Decision:
+Decision: (a) The word “Whoever” in Section 361
+(a) A is not guilty of kidnapping. suggests that a “minor” can kidnap
+(b) B is guilty of kidnapping. another “minor”. As noted above,
+(c) G is guilty of negligence. Rajesh will be guilty of kidnapping
+(d) A is guilty of kidnapping from lawful Asha.
+guardianship under Section 361. B is (b) Rajesh is not guilty of kidnapping
+not guilty as he merely gave shelter to Asha because both are minor.
+a girl who was loitering on the street. (c) The court itself put the action of mi-
+In other words, there was no taking nor under the exceptions.
+from the keeping of lawful guardian- 101. Facts: A Hindu girl of 17 years studying
+ship. in XII standard under the care and protec-
+99. Facts: G, a girl of 16 years, 11 months tion of her parents was living with them.
+and 24 days left her parental home for her She was having criminal intimacy with a
+aunt’s house because of the ill-treatment of shopkeeper running a shop near her house.
+her stepmother with an intention to return One day the girl left her house and went
+back after one month. On the way, she met to the shopkeeper and asked him to take
+X, a 20 year old man and narrated her woes her away permanently. The shopkeeper
+to him. X, who was a kind man offered to took her away to several places. Later
+marry her. G thought about this proposal on, he was arrested under Section 363 of
+
+CRIMINAL LAW 73
+the Indian Penal Code. State with reasons Issue: What offence, if any, has been com-
+whether the shopkeeper be convicted. mitted?
+Issue: What offence, if any, has been com- Decision:
+mitted? (a) A is not guilty of kidnapping.
+Decision: (b) A is accused of mock/invalid mar-
+(a) The girl left her father’s house of her riage.
+own without any kind of inducement (c) A is accused of taking marriage
+from the shopkeeper. Since she was ceremony in unlawful manner.
+having criminal conspiracy with the 104. Facts: G, a girl of 17 years, was in love
+shopkeeper, she might have thought with the accused, a widower who wanted
+that the shopkeeper may agree to her to marry her. G’s mother was in favour of
+suggestion. No active part was played such marriage but the father was not. One
+by the shopkeeper in causing the girl day when the father was out of town the
+to leave her guardianship. Further, accused took G away with her mother’s
+when he took her away she was no consent so that they could get married at
+another place. Is the accused guilty of kid-
+more in the keeping of lawful guard-
+napping?
+ianship. Thus, the shopkeeper is not
+Issue: What offence, if any, has been com-
+liable for kidnapping of the girl.
+mitted?
+(b) The shopkeeper is guilty of kidnap-
+Decision:
+ping.
+(a) The accused is guilty of kidnapping.
+(c) The shopkeeper is guilty of criminal
+Although the girl’s father was away
+conspiracy, seduction and elopement.
+on a tour, she would be said to be still
+102. Facts: A girl, aged 17 years and 10
+under lawful guardianship of her fa-
+months, was participant in a social service
+ther.
+camp of two months duration. M, a busi-
+(b) The accused is guilty of bigamy
+nessman, who had became acquainted to
+(c) The accused is guilty of adultery.
+the girl during the train journey (from the
+(d) The accused is guilty of seduction and
+girl’s place to the camp), met her several
+elopement.
+times in the course of the camp and also
+105. Facts: A is a minor wife of B. C takes her
+represented gifts to her. On the completion
+forcibly and without the consent of B and
+of the camp, M took the girl to his home-
+keeps her in his house for two months.
+town and got married with her. Is M guilty
+There she develops intimacy with Z a
+of kidnapping?
+neighbour of C and runs away with Z to
+Issue: What offence, if any, has been com-
+a distant place. However, both of them got
+mitted?
+arrested on the report of B. Discuss the
+Decision:
+liability of C and Z in relation to the of-
+(a) M would not be liable for kidnapping
+fences of kidnapping and abduction.
+because by the time of completion
+Issue: What offence, if any, has been com-
+of the camp, the girl had become 18
+mitted?
+years old and has thus, ceased to be a
+Decision:
+minor. (a) C is liable for the offence of abduction
+(b) M will be liable for kidnapping of mi- under Section 362. Z is not liable for
+nor. kidnapping because C was not lawful
+(c) M is liable for seduction and rape of guardian of A at that time. Z may be
+the minor. liable only when A is taken for some
+103. Facts: A girl on her own accord went to illegal purpose.
+A’s house, persuaded him to execute a (b) C is liable for illegal detention.
+marriage agreement, returned to her fa- (c) A is liable for not taking care of his
+ther’s house and told him about the agree- wife.
+ment and her father locked her in a room. (d) Z is liable for kidnapping and crimi-
+After three days the girl forced open the nal intimacy.
+door and went to the accused A. Is A 106. Facts: X takes a girl of 13 years of age
+guilty of kidnapping? without her knowledge to Mumbai to send
+
+her to Dubai to handover for marriage to her father F to be taken away by relatives
+a Sheikh over there and dispatches her to of her elder sister to her home to look after
+Dubai for the above purpose. her elder sister for some time. After some
+Issue: What offence, if any, has been com- time F received the information that these
+mitted? relative have got G married to A. F lodged
+Decision: a report with the police that his daughter
+(a) X is not guilty because it may be his has been kidnapped by the relatives of
+business. G’s elder sister and she has been forced
+(b) X is guilty of ‘kidnapping from India’ by them to have illicit intercourse with A.
+(Section 360) and ‘kidnapping, ab- Police recovered G from A’s house after a
+ducting or inducing woman to compel month. G deposed that A had sexual inter-
+her marriage’. (Section 366). course with her many a times. However,
+(c) X is guilty of immoral traffi cking. medical report states that no injuries exist
+on G’s body. In a charge of rape against A,
+RAPE he pleads that G has consented to such act
+as in indicative of her staying at his house
+107. Facts: A, a 15 year old girl, left her moth- for one long month. Can A succeed?
+er’s house and joined the accused because Issue: What offence, if any, has been com-
+her mother has turned down the proposal mitted?
+of her marriage with the accused on the Decision:
+ground that she was too young. While she (a) A is not guilty.
+was with the accused he had sexual inter- (b) A cannot succeed because sexual in-
+course with her against her will. tercourse with a girl/woman with or
+Issue: What offence, if any, has been com- without her consent when she is under
+mitted? 16 years amounts to rape. [Sc. 375, cl.
+Decision: (vi)]. In such a case medical evidence
+(a) The accused is not guilty of kidnap- showing that the girl was habituated
+ping. to sexual intercourse and that there
+(b) The accused is guilty of rape because were no signs of rape would also be of
+sexual intercourse with a woman with no help if intercourse by the accused
+or without her consent when she is un- with the girl is proved.
+der 16 years amounts to rape. [Section (c) F is guilty who allowed a minor girl
+375, cl. (vi)]. of 13 years of age to be taken by the
+(c) The mother is accused of maltreat- relatives.
+ment. 110. Facts: Kitty, a girl of 15 years and 10
+108. Facts: A, a 15 year old girl, having been months was married to Guddu. Believing
+rebuked by her mother leaves her house. Guddu’s identical twin Chunnu to be Gud-
+At railway station she met the accused du, Kitty had willful sexual intercourse
+who takes her to his house. He provides with Chunnu who knew of her mistaken
+her clothes, money and ornaments at his belief. Kitty realized her mistake later.
+house and has sexual intercourse with the Issue: What offence, if any, has been com-
+girl with her consent. mitted?
+Issue: What offence, if any, has been com- Decision:
+mitted? (a) Chunnu is innocent.
+Decision: (b) Chunnu can be successfully pros-
+(a) The mother is accused of maltreat- ecuted for rape of Kitty. A man is said
+ment. to commit ‘rape’ who has sexual in-
+(b) The accused is guilty of rape because tercourse with a women with her con-
+sexual intercourse with a woman with sent, when the man knows that he is
+or without her consent when she is un- not her husband and that her consent
+der 16 years amounts to rape. [Section is given because she believes that he
+375, cl. (vi)]. is another man to whom she is lawful-
+(c) The accused is not guilty. ly married [Section 375, cl. (vi)]. Fur-
+109. Facts: G, a 13 year old girl, was allowed by ther, a sexual intercourse with a girl/
+
+CRIMINAL LAW 75
+woman with or without her consent A, by a change of mind, decides not to
+when she is under 16 years amounts take the ring. Has he still committed any
+to rape [Section 375, cl. (vi)]. crime?
+(c) Kitty is liable for inducement for sex- Issue: What offence, if any, has been com-
+ual intercourse. mitted?
+111. Facts: A, along with other young people Decision:
+was partying at a farmhouse. During the (a) A is not guilty of theft as he had
+course of the evening, A and a girl aged changed his mind.
+17, both drunk, were alone in the upstairs (b) It is a case of criminal misappropria-
+bedroom and he asked the girl whether tion.
+she wished to lose her virginity. A knew (c) A at the time of fi rst moving the ring
+that if the girl had been sober she would commits theft, it does not matter that
+not have agreed. Sexual intercourse then he later changes his mind [See illus-
+took place briefl y. The girl subsequently tration (h) to Section 378].
+told her parents what had happened. Is A 114. Facts: A, a washer man, washed a carpet
+guilty of rape? on the bank of a river and hung it up there
+Issue: What offence, if any, has been com-
+to dry. A went to eat his lunch when B, a
+mitted?
+boatman, tempted by the look of the car-
+Decision:
+pet, moved it to furnish his boat for a day
+(a) A is not guilty of rape.
+and thereafter return it back to A. Before
+(b) The girl is guilty of drinking, loitering
+B could run away with the carpet he was
+and inducing A.
+apprehended by A.
+(c) A was guilty of rape. He took advan-
+Issue: What offence, if any, has been com-
+tage of the state of the victim as she
+mitted?
+was under the infl uence of alcohol.
+Decision:
+Section 375 (v), negatives the consent
+(a) B is not guilty of theft.
+of the women for the purpose of the
+(b) No offence can be made against B.
+offence of rape, if the woman is of un-
+(c) B is guilty of theft.
+sound mind, or is under the infl uence
+115. Facts: X took away Y’s purse from his
+of intoxication at the relevant time.
+pocket while he was asleep. On getting up
+112. Facts: A befriended a girl aged 17 and of-
+Y found the purse in X’s hand. He asked
+fered her money and drinks. She and sev-
+X to return it to him, where upon X cursed
+eral of her friends went to A’s house. A
+him and threatened him with dire conse-
+pornographic video-tape was played on a
+quences if he attempted to take the purse
+T.V. set. A then had intercourse with the
+or to inform the police. Y struck by X’s
+girl in a separate room, the girl being un-
+fear kept quiet. However, some bystanders
+der the infl uence of alcohol and video. Is
+reported the matter to the police.
+A guilty of rape?
+Issue: What offence, if any, has been com-
+Issue: What offence, if any, has been com-
+mitted?
+mitted?
+Decision:
+Decision:
+(a) A is not guilty of rape because the girl (a) X is guilty of criminal intimidation.
+had gone willingly. (b) X is not guilty because mere being the
+(b) The girl is guilty of inducing the ac- purse to be in the hands of X does not
+cused through pornographic movies. amount to theft.
+(c) A was guilty of rape. (c) X can be prosecuted for the offence of
+committing theft.
+116. Facts: A gives an expensive suit length
+THEFT AND EXTORTION
+to the tailor for stitching. The tailor failed
+113. Facts: A fi nds a ring belonging to Z on to give the suit even two weeks after the
+a table in the latter’s house and puts the appointed date. On his fourth visit to the
+same under the carpet there with the inten- tailor’s shop A forcibly removed the uncut
+tion of taking it afterwards. The ring still suit length from the almirah, despite lot of
+lies in the house of Z undetected. Later, resistance from the shop assistants.
+
+Issue: What offence, if any, has been com- was not committed, but A was guilty
+mitted? of abetment of theft.
+Decision: (b) A is guilty of theft.
+(a) may have committed criminal tres- (c) A is innocent.
+pass and assault, but not theft as what (d) B is guilty of theft.
+he did was not done dishonestly. See 120. Facts: A, a government employee in the
+illustration (i) to Section 378. Post Offi ce Department, while assisting in
+(b) is guilty of theft. the sorting of letters, secreted two letters
+(c) is not committed any offence as suit with the intention of handling them to the
+length belonged to him. delivery peon and sharing with him cer-
+117. Facts: X had given his watch for repairs to tain money payable upon them.
+Y, who had promised to do the job within Issue: What offence, if any, has been com-
+a week. After 15 days, when X visited Y’s mitted?
+shop, he found his watch still kept un- Decision:
+repaired. He took the watch from the shelf (a) A is guilty of theft and of an attempt
+and came back without telling anything to to commit dishonest misappropriation
+Y. of property.
+Issue: What offence, if any, has been com- (b) A is guilty of dereliction of duty.
+mitted? (c) A is guilty of conspiracy.
+Decision: (d) A is guilty of invading the privacy of
+the person to whom the letters relat-
+(a) Yes, X commits theft though the
+ed.
+watch is his own property but he takes
+121. Facts: A, at a railway station, inserts
+it dishonestly. See illustration (k) to
+counterfeit coins into an automatic ma-
+Section 378.
+chine and causes it to eject railway tickets
+(b) X is not guilty of theft.
+which A and his friends B, C and D make
+(c) Y is guilty of negligence and can be
+use of.
+prosecuted in the consumer protection
+Issue: What offence, if any, has been com-
+act for the defi ciency of services.
+mitted?
+118. Facts: A gave his tape recorder to B for
+Decision:
+repairs who promises to carry out the re-
+(a) A is guilty of Criminal Misappropria-
+pairs within two days. The repair charges
+tion. B, C and D are not liable.
+were settled at Rs 300. B completed the
+(b) A will be guilty of theft; B, C and D
+repairs within time, satisfactorily. A with
+would be liable under Section 411,
+no intention to pay took away the tape re-
+IPC for receiving stolen property as
+corder from B’s shop in his absence.
+they had used the tickets.
+Issue: What offence, if any, has been com-
+(c) A, B, C and D are innocent. Railway
+mitted?
+authorities are liable for negligence.
+Decision:
+122. Facts: A intending to cause a theft to be
+(a) A is guilty of theft.
+committed, instigates B to take property
+(b) A is not guilty of theft.
+belonging to J out of J’s possession. A
+(c) A is guilty of criminal misappropria-
+induces B to believe that the property be-
+tion.
+longs to A. B takes the property out of J’s
+(d) A is guilty of cheating.
+possession in good faith believing it to be
+119. Facts: A sought the aid of B with the in-
+A’s property.
+tention of committing a theft of the prop-
+Issue: What offence, if any, has been com-
+erty of B’s master. B, with the knowledge
+mitted?
+and consent of his master, and for the pur-
+Decision:
+pose of procuring A’s punishment, aided
+(a) B is liable of theft.
+A in carrying out his object.
+(b) A is liable for abetting theft. B will not
+Issue: What offence, if any, has been com-
+be guilty because he lacks dishonest
+mitted?
+intention to take another’s property.
+Decision: (c) A is not liable for any offence. But B
+(a) As the property removed was so taken is liable for criminal misappropria-
+with the owner’s knowledge, theft tion.
+
+CRIMINAL LAW 77
+123. Facts: A intending to commit theft enters a criminal charge, and dishonestly in-
+B’s house at night and removes from one duces Y to deliver money.
+of the rooms a heavy box to the courtyard 127. Facts: A refused to register the marriage
+where he opens it. He does not fi nd in the of B and C. C refused to enter their mar-
+box anything worth taking and leaving it riage in the register unless he was paid
+there, goes away. Rs 50. B paid the money.
+Issue: What offence, if any, has been com- Issue: What offence, if any, has been com-
+mitted? mitted?
+Decision: Decision:
+(a) A is not liable for any offence. (a) A has committed criminal misappro-
+(b) A will be liable for attempting theft. priation.
+He will also be liable for house tres- (b) A is liable for redtapism.
+pass under Section 442, IPC. (c) A cannot be convicted for extortion,
+(c) B is liable for negligence. as there is no ‘fear of injury’, an es-
+124. Facts: A with a dishonest intention to sential requirement of extortion under
+steal enters his hand in B’s pocket at a fair. Section 383. The ‘fear’ must be of
+But B’s pocket was empty and A could not
+such a nature and extent as to unsettle
+steal anything.
+the mind of the person on whom it
+Issue: What offence, if any, has been com-
+operates and takes away from his acts
+mitted?
+that element of free voluntary action
+Decision:
+which alone constitutes consent. A is,
+(a) A is liable for theft.
+however, guilty of ‘illegal gratifi ca-
+(b) A will be liable for attempting theft.
+tion’.
+(c) A is not liable for any offence.
+128. Facts: P, a police offi cer, arrested B and
+125. Facts: A gave his watch for repair to B.
+refused to accept bail until Rs 500 was
+A dispute occurred between the two over
+paid and released him only when the
+the extra parts replaced by B, which were
+amount demanded was paid.
+not included in the earlier estimate. B was
+Issue: What offence, if any, has been com-
+unwilling to deliver the watch unless ex-
+mitted?
+tra payment was made. In the course of
+Decision:
+heated argument A took out a knife, see-
+(a) P is not guilty of extortion.
+ing which B did not object to the watch
+(b) P is liable for misuse of his position.
+being delivered without excess charges.
+(c) P is guilty of extortion.
+Issue: What offence, if any, has been com-
+129. Facts: A severed the strings of W’s
+mitted?
+necklace while she was trying to board
+Decision:
+a crowded bus. The necklace instead of
+(a) A is not liable for any offence. Be-
+falling down got lodged in W’s clothes.
+cause the watch belong to him and he
+Whether A has committed the theft?
+took it away.
+Issue: What offence, if any, has been com-
+(b) A has committed the offence of extor-
+mitted?
+tion.
+(c) B is liable for cheating. Decision:
+126. Facts: X saw Y removing a ‘Stereo’ from (a) A is liable for attempt to theft.
+a car parked in Kamla Nagar. X demands (b) A is not liable for any offence.
+Rs 200 from Y, giving him a threat that if (c) W is liable for negligence.
+he didn’t give the money, he would inform 130. Facts: A, a rag-picker, collects plastic
+the police. Y gave the money. bags, metal pieces and scraps from the
+Issue: What offence, if any, has been com- garbage heaps and areas adjoining fac-
+mitted? tories. The City Development Authority
+Decision: lodges a complaint of theft of moveable
+(a) X is not committed any offence. properties from different parts of the city
+(b) Y is guilty of theft. against A.
+(c) X has committed the offence of extor- Issue: What offence, if any, has been com-
+tion. As he puts Y in fear of injury i.e., mitted?
+
+Decision: movable property from one place to
+(a) A is not liable for any offence. another place amounts to theft.
+(b) A is liable for theft. (c) X has committed the offence of extor-
+(c) City development authority will not tion. She might have concealed the
+succeed in their complaint. necklace to blackmail Y.
+131. Facts: A group of spirited young persons, 133. Facts: X threatens Z that he will keep Z’s
+opposed to animal slaughter, issue a stern child in wrongful confi nement unless Z
+warning letter to all the butchers in the agrees to leave the village permanently
+town to either free all the animals detained and donate his entire property to a village
+for slaughter within 24 hours or face dire temple. Z in order to avoid evil conse-
+consequences. Scared by the warning the quences of the threat agrees to do so.
+butchers free the animals. Issue: What offence, if any, has been com-
+Issue: What offence, if any, has been com- mitted?
+mitted? Decision:
+Decision: (a) There is no extortion, as there is no
+(a) The young persons can be prosecuted delivery of property by Z to X. How-
+for ‘Criminal Intimidation’ (Section ever, X is guilty under Section 385
+503, IPC). According to this section. which punishes the very act of putting
+“Whoever threatens another with any or the attempting to put any person in
+injury to his person, reputation or fear of any injury for the above pur-
+property, with intent to cause alarm pose.
+to that person, or to cause that per- (b) X is guilty of extortion.
+son to do any act which he is not le- (c) X is guilty of criminal intimidation.
+gally bound to do so, as the means of 134. Facts: A obtains property from B by say-
+avoiding the execution of such threat, ing, “Your child is in the hands of my
+commits criminal intimidation”. The gang and will be killed unless you send us
+young persons are not guilty of ‘ex- Rs 5,000.”
+tortion’, as there can be no extortion Issue: What offence, if any, has been com-
+unless a person is by threat of injury mitted?
+induced to deliver any property to the Decision:
+culprit. (a) A is guilty of extortion.
+(b) The young person are guilty of extor- (b) A is not guilty of extortion.
+tion. (c) A is guilty of robbery.
+(c) They are innocent people. They are 135. Facts: The accused husband took his wife
+not liable for any offence because to a forest and obtained her ornaments un-
+they are doing social service. der threats to kill her. The ornaments were
+132. Facts: X, an elderly woman, was employed subsequently recovered from him.
+as maid servant by Y, a young woman. Y Issue: What offence, if any, has been com-
+was very negligent and never bothered mitted?
+about her valuables. X being honest and Decision:
+sincere advised Y to keep valuables under (a) The accused is guilty of the offence of
+lock and key. One day X fi nding Y’s gold extortion, not robbery.
+necklace on the table in an open verandah (b) The accused is guilty of offence of
+removed the necklace stealthily and con- robbery.
+cealed the same in the cowshed to teach Y (c) The accused is not guilty, because he
+a lesson or to cause her a little anxiety. is the husband and he has equal right
+Issue: What offence, if any, has been com- over the ornaments.
+mitted? 136. Facts: X, a villager rushed to the fi eld
+Decision: where victims of an air-crash were lying
+(a) X has not committed the offence of dead. X removed gold biscuits and dia-
+theft as there was no dishonest inten- mond ring from the pocket of a dead per-
+tion on X’s part. son.
+(b) X has committed the offence of theft. Issue: What offence, if any, has been com-
+Because the mere moving of any mitted?
+
+CRIMINAL LAW 79
+Decision: (c) A has committed the offence of cheat-
+(a) X is guilty of theft. ing.
+(b) Removing ornaments from a dead 140. Facts: A borrowed a bicycle from his
+body cannot be taking property out friend, B, promising to return the same
+of possession of a person and thus not within a period of two or three days. He
+a theft, but it is a criminal misappro- failed to fulfi ll the promise, disposed of
+priation under Section 404. the bicycle and appropriated the proceeds
+(c) X is not guilty of any offence. to his own use.
+137. Facts: A fi nds B’s briefcase and writes Issue: What offence, if any, has been com-
+to him that he will give it on payment of mitted?
+Rs 500. B pays Rs 500. Is A guilty of ex- Decision:
+tortion? (a) A is guilty of criminal misappropria-
+Issue: What offence, if any, has been com- tion.
+mitted? (b) A is guilty of criminal breach of trust.
+Decision: (c) A is guilty of cheating.
+(a) A is not liable for any offence. 141. Facts: X fi nds a brief case at the railway
+(b) A will be liable for extortion. If B station. After trying hard to fi nd the own-
+does not pay then A will be liable for er, he brought the brief case to his house.
+attempt to commit extortion and also When opened, he found Rs 25000 cash
+for criminal misappropriation if he in it with no indication as to whom it be-
+does not return the briefcase. longed. He notifi ed in ‘lost and found’ col-
+(c) A is liable for criminal misappropria- umn of all the leading English dailies of
+tion. the city asking the owner of the ‘lost’ brief
+case to collect it from X. After waiting for
+CRIMINAL MISAPPROPRIATION about one month, M utilized the money in
+AND BREACH OF TRUST purchasing a scooter.
+Issue: What offence, if any, has been com-
+138. Facts: A, in good faith, believing to be his mitted?
+own bag takes the bag which indeed be- Decision:
+longs to Z. Later, A discovers the truth but (a) X has committed the offence of crimi-
+nevertheless keeps it and does not return it nal misappropriation.
+to the owner. (b) No conclusive decision can be drawn.
+Issue: What offence, if any, has been com- (c) X hasn’t committed any offence, as he
+mitted? didn’t take or misappropriated prop-
+Decision: erty dishonestly and used reasonable
+(a) A is not guilty of any offence. means to discover the owner.
+(b) A is guilty of the offence of criminal 142. Facts: A, a railway reservation clerk,
+misappropriation, as he acted dishon- openly declared that he will entertain the
+estly in retaining the bag. See illustra- reservation forms of only those passengers
+tion (a) of Section 403. who are willing to give an additional sum
+(c) A is guilty of attempt to theft. of Rs 25 per ticket as a premium. A sells
+139. A is a warehouse keeper. Z, going on a 100 tickets and deposits the total ticket
+journey, entrusts his rare furniture to A amount in railway treasury, but pockets
+under contract that it shall be returned on the sum of Rs 2500 that he has collected
+payment of stipulated sum of money. A from the passengers as premium.
+dishonestly sells the furniture. Issue: What offence, if any, has been com-
+Issue: What offence, if any, has been com- mitted?
+mitted? Decision:
+Decision: (a) A is guilty of criminal breach of trust.
+(a) A has committed the offence of crimi- (b) A is guilty of criminal misappropria-
+nal misappropriation. tion.
+(b) A has committed criminal breach of (c) He is not guilty of criminal breach of
+trust. See illustration (b) of Section trust. As the premium was intended to
+45. be paid to A as his own personal profi t
+
+there could be no question of entrust- with the fees an additional amount of Rs 50
+ment in such payment. A is guilty of for the New Building Fund. Since there is
+receiving illegal gratifi cation. no mention of such fund in the prospectus
+143. Facts: A railway booking clerk had in ad- the students pay Rs 50 reluctantly and un-
+dition to selling tickets, provided for sale der confusion. However, after collection
+of “travel packs” containing soap, oil, of the fund the cashier diverts part of it for
+comb, etc. for the benefi t of passengers, the construction of his own house, which
+purely as a personal business. The railway also has a temple, visited by the students
+audit team while checking the accounts during the examination days.
+prepared by the clerk found the collections Issue: What offence, if any, has been com-
+under three heads: (i) Rs 3,45,765, the sale mitted?
+proceeds of 200 tickets; (ii) Rs 557, the Decision:
+excess amount paid by the customers by (a) The cashier is guilty of criminal mis-
+mistake; and (iii) Rs 1,500, the sale pro- appropriation.
+ceed of 30 travel packs. The clerk had only (b) He is guilty of breach of trust.
+deposited the amount under head (i) and (c) He is not guilty of any offence.
+has pocketed the rest. 146. Facts: Certain sum of money is deposited
+Issue: What offence, if any, has been com- in the library cash box by the students as
+mitted? late fee for the books kept beyond the pre-
+Decision: scribed time. Since no receipt is issued to
+(a) The clerk has not committed any of- the students for unascertained amount in
+fence. the cash box, Librarian A decides to uti-
+(b) No conclusive decision can be drawn. lize the collection for unauthorized beau-
+(c) The clerk has committed a criminal tifi cation of the garden and his personal
+breach of trust in respect of amount expenses.
+under head (ii), as he received the Issue: What offence, if any, has been com-
+money on behalf of or as an agent of mitted?
+the Government. If he had received Decision:
+the money on his own behalf (e.g., (a) As A dishonestly misappropriated the
+by way of illegal gratifi cation), then property that was entrusted to him, so
+he wouldn’t have been so guilty. That he is liable for dishonest misappro-
+is why he is not guilty in respect of priation.
+amount under head (iii). (b) He is liable for criminal breach of
+144. Facts: X, a parcel clerk at a railway sta- trust.
+tion, was asked to destroy a wagonload (c) He didn’t commit any offence as he
+of apples which had gone rotten and de- made the best possible use of money.
+clared unfi t for human consumption. He 147. Facts: A weighing clerk at a sugar mill
+took those apples to the ‘mandi’ and auc- was found to be involved in the following
+tioned them for Rs 1000 and pocketed the malpractices: (i) Receiving a premium for
+amount. out of turn sugarcane delivery facility; (ii)
+Issue: What offence, if any, has been com- Overweighing sugarcane and thus causing
+mitted? a loss to the company; and (iii) Collection
+Decision: from the villages road cess to be deposited
+(a) X has not committed any offence. with the government.
+Because he was asked to destroy the Issue: What offence, if any, has been com-
+apples and he auctioned them using mitted?
+his wisdom. Decision:
+(b) X has committed criminal breach of (a) The clerk is not liable for criminal
+trust. breach of trust in respect of (i) in re-
+(c) X misappropriated the property en- spect of (ii) and (iii). Because in (i),
+trusted to him and acted in violation he received money on his own behalf,
+of legal direction prescribing the mode while in (ii) and (iii) he has put the
+in which trust is to be discharged. company in loss and received money
+145. Facts: A, the school cashier, collects along on behalf of the company.
+
+CRIMINAL LAW 81
+(b) The clerk is liable for criminal misap- possession has been handed over.
+propriation. The expression ‘entrustment’ carried
+(c) The sugar mill is liable for negli- with it the implication that the person
+gence. handing over any property to another,
+148. Facts: A lost his briefcase containing continues to be its owner. Thus, the
+valuables. X, a friend of A informed him jeweller, by appropriating the gold to
+that his briefcase was seen lying in Y’s himself, is guilty of criminal breach of
+shop. Thereupon A reached Y’s shop and trust. If the jeweller has returned the
+fi nding his briefcase lying there pulled out gold but had failed to make the ring,
+his revolver and asked Y to hand over the then it would have been a case of a
+briefcase to him. Under the fear of inju- simple breach of contract.
+ry, Y gave the briefcase to A. However, (b) It is a breach of contract.
+on reaching home he discovered that the (c) It is no offence because there was no
+briefcase did not belong to him but decid- contract and there was no trust so it is
+ed to retain it. not breach of trust or breach of con-
+Issue: What offence, if any, has been com- tract.
+mitted? 150. Facts: Z found a wallet at a place con-
+Decision: taining a visiting card showing the name
+(a) A is guilty of ‘criminal misappro- and address of the owner of the wallet,
+priation’ of property because after Rs 2,000 and postal stamps worth Rs 10.
+discovering the mistake he instead of Z threw away the card, used the stamps
+returning the briefcase to Y, decided and delivered the wallet to his friend R,
+to retain it. The retaining by A, thus, for safe custody. R later took out Rs 700
+has become wrongful and fraudulent. from the wallet to deposit his examination
+A is not guilty of ‘extortion’ because fee. On receipt of a money order from his
+when he threatened Y, there was no father R put back the amount of Rs 700 in
+dishonest inducement on A’s part as the wallet and returned it to Z.
+he believed briefcase to be his own. Issue: What offence, if any, has been com-
+(b) A is guilty of extortion. mitted?
+(c) A is guilty of robbery. Decision:
+149. Facts: A customer went to the shop of a (a) Z is guilty of ‘criminal misappropria-
+jeweller and handed over gold for manu- tion’; from the visiting card he knew
+facturing a gold ring for his wife and a that the property belonged to whom
+week’s time was fi xed for delivery. After and despite its legal owner being
+the expiry of one week the jeweller re- known he misused the property.
+fused to deliver the ring as well as gold. R is guilty of ‘criminal breach of
+The jeweller was prosecuted for criminal trust’, as a breach of trust involves
+breach of trust. The jeweller argued that it misappropriation and misappropria-
+is a breach of contract. Decide. tion or conversion need not be per-
+Issue: What offence, if any, has been com- manently, it may even be for a time
+mitted? only. (Explanation 1 to Section 403,
+Decision: and illustration to it). Further, where
+(a) It is a case of ‘criminal breach of trust’ embezzlement by the accused is es-
+and not a simple case of a breach of tablished, the fact that he refunded the
+contract. The expression ‘entrustment’ amount when his dishonest act came
+includes all cases in which property is to be discovered, does not absolve
+voluntarily handed over for a specifi c him of the offence committed by him.
+purpose and is dishonestly disposed (b) Z is not guilty of any offence.
+of contrary to the terms on which (c) Z is guilty of negligence.
+
+A
+NSWERS
+1. (d) 2. (a) 3. (c) 4. (b) 5. (a) 6. (a) 7. (d) 8. (c) 9. (a) 10. (c)
+11. (a) 12. (a) 13. (a) 14. (a) 15. (a) 16. (b) 17. (b) 18. (c) 19. (a) 20. (a)
+21. (b) 22. (a) 23. (d) 24. (d) 25. (d) 26. (c) 27. (a) 28. (a) 29. (a) 30. (b)
+31. (a) 32. (c) 33. (a) 34. (b) 35. (c) 36. (c) 37. (c) 38. (b) 39. (c) 40. (c)
+41. (a) 42. (a) 43. (a) 44. (a) 45. (b) 46. (b) 47. (a) 48. (b) 49. (b) 50. (a)
+51. (a) 52. (a) 53. (a) 54. (b) 55. (a) 56. (b) 57. (a) 58. (a) 59. (a) 60. (a)
+61. (a) 62. (b) 63. (a) 64. (a) 65. (b) 66. (a) 67. (a) 68. (a) 69. (a) 70. (a)
+71. (c) 72. (a) 73. (b) 74. (b) 75. (b) 76. (b) 77. (b) 78. (c) 79. (c) 80. (a)
+81. (a) 82. (a) 83. (a) 84. (b) 85. (b) 86. (b) 87. (b) 88. (a) 89. (b) 90. (b)
+91. (a) 92. (a) 93. (b) 94. (b) 95. (c) 96. (c) 97. (c) 98. (d) 99. (a) 100. (a)
+101. (a) 102. (a) 103. (a) 104. (a) 105. (a) 106. (b) 107. (b) 108. (b) 109. (b) 110. (b)
+111. (c) 112. (c) 113. (c) 114. (c) 115. (c) 116. (a) 117. (a) 118. (a) 119. (a) 120. (a)
+121. (b) 122. (b) 123. (b) 124. (b) 125. (b) 126. (c) 127. (c) 128. (c) 129. (a) 130. (a)
+131. (a) 132. (a) 133. (a) 134. (a) 135. (a) 136. (b) 137. (b) 138. (b) 139. (b) 140. (b)
+141. (c) 142. (c) 143. (c) 144. (c) 145. (a) 146. (a) 147. (a) 148. (a) 149. (a) 150. (a)
 
 ---
 
