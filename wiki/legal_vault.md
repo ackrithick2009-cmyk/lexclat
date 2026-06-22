@@ -154,6 +154,7 @@ Complete chapters from *Legal Aptitude and Legal Reasoning* by A.P. Bhardwaj (Pe
 - [Chapter 2: Criminal Law](./bhardwaj_book/Chapter_02_Criminal_Law.md)
 - [Chapter 3: Civil Law](./bhardwaj_book/Chapter_03_Civil_Law.md)
 - [Chapter 4: Constitutional Law](./bhardwaj_book/Chapter_04_Constitutional_Law.md)
+- [Chapter 5: Mock Tests](./bhardwaj_book/Chapter_05_Mock_Tests.md)
 
 ## 8. Detailed Chapter Vault
 
