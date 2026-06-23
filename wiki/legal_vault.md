@@ -146,7 +146,18 @@ For rapid exam revision, each highest-yield topic is broken into a standalone ca
 - [💊 Constitutional Law — Golden Triangle & Basic Structure](./capsules/capsule_constitutional_golden_triangle.md)
 - [💊 Law of Torts — Negligence, Defamation, Liability](./capsules/capsule_law_of_torts.md)
 
-## 7. Detailed Chapter Vault
+## 7. Chapter Modules
+
+Full study modules with theory and practice questions:
+
+- [Chapter 1: Legal Terms and Maxims](./bhardwaj_book/Chapter_01_Legal_Terms_and_Maxims.md)
+- [Chapter 2: Criminal Law](./bhardwaj_book/Chapter_02_Criminal_Law.md)
+- [Chapter 3: Civil Law](./bhardwaj_book/Chapter_03_Civil_Law.md)
+- [Chapter 4: Constitutional Law](./bhardwaj_book/Chapter_04_Constitutional_Law.md)
+- [Chapter 5: Mock Tests](./bhardwaj_book/Chapter_05_Mock_Tests.md)
+- [Chapter 6: Previous Years' Papers](./bhardwaj_book/Chapter_06_Previous_Years_Papers.md)
+
+## 8. Detailed Chapter Vault
 
 The following chapters contain high-readability passages and deep-dive analysis extracted from bulk study materials.
 
