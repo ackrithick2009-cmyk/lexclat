@@ -35,7 +35,7 @@ import { ScrollArea } from '@/components/ui/scroll-area';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { toast } from 'sonner';
 import stripePromise from '@/src/lib/stripe';
-import { auth, db, loginWithGoogle, logout, handleFirestoreError, OperationType } from '@/src/lib/firebase';
+import { auth, db, loginWithGoogle, logout, handleRedirectResult, handleFirestoreError, OperationType } from '@/src/lib/firebase';
 import { onAuthStateChanged, User as FirebaseUser } from 'firebase/auth';
 import { 
   doc, 
@@ -63,6 +63,7 @@ const DailyCurrentAffairs = React.lazy(() => import('./components/DailyCurrentAf
 const DataIngestor = React.lazy(() => import('./components/DataIngestor'));
 const WikiMaster = React.lazy(() => import('./components/WikiMaster'));
 const LearningHub = React.lazy(() => import('./components/LearningHub'));
+const GamificationDashboard = React.lazy(() => import('./components/GamificationDashboard'));
 
 import { analytics, initializeUserAnalytics } from '@/src/lib/analytics';
 import { initializeGamification, calculateStreak, addXP } from '@/src/lib/gamification';
@@ -73,6 +74,7 @@ type View = 'LANDING' | 'DASHBOARD' | 'PRACTICE' | 'MOCKS' | 'PLANNER' | 'TUTOR'
 interface UserProfile {
   email: string;
   displayName: string;
+  photoURL?: string;
   isPremium: boolean;
   createdAt: any;
   updatedAt: any;
@@ -426,6 +428,11 @@ export default function App() {
   const [userLevel, setUserLevel] = useState(0);
   const [showUpiModal, setShowUpiModal] = useState(false);
   const [unlockedAchievements, setUnlockedAchievements] = useState<string[]>([]);
+  const [totalQuestions, setTotalQuestions] = useState(0);
+  const [totalCorrect, setTotalCorrect] = useState(0);
+  const [totalStudyMinutes, setTotalStudyMinutes] = useState(0);
+  const [totalMocks, setTotalMocks] = useState(0);
+  const [bestMockScore, setBestMockScore] = useState(0);
 
   const handleCheckout = async () => {
     if (!user) {
@@ -476,6 +483,11 @@ export default function App() {
     
     let unsubProfile: (() => void) | undefined;
 
+    // Handle Google redirect sign-in result (for mobile / popup-blocked browsers)
+    handleRedirectResult().then(() => {
+      // Redirect result handled, auth state will update
+    }).catch(err => console.warn('Redirect result error:', err));
+
     const unsubAuth = onAuthStateChanged(auth, async (u) => {
       setUser(u);
       if (!u) {
@@ -496,6 +508,25 @@ export default function App() {
           }
         } catch (err) {
           console.warn('Analytics init error:', err);
+        }
+        
+        // Fetch gamification stats
+        try {
+          const gamificationRef = doc(db, 'users', u.uid, 'gamification', 'summary');
+          const gamificationSnap = await getDoc(gamificationRef);
+          if (gamificationSnap.exists()) {
+            const gData = gamificationSnap.data();
+            setPoints(gData.xp || 0);
+            setUserLevel(gData.level || 0);
+            setTotalQuestions(gData.totalQuestionsAnswered || 0);
+            setTotalCorrect(gData.totalQuestionsCorrect || 0);
+            setTotalStudyMinutes(gData.totalStudyMinutes || 0);
+            setTotalMocks(gData.totalMocksCompleted || 0);
+            setBestMockScore(gData.bestMockScore || 0);
+            setUnlockedAchievements((gData.achievements || []).map((a: any) => a.id));
+          }
+        } catch (err) {
+          console.warn('Gamification fetch error:', err);
         }
         
         // Listen to user profile
@@ -553,45 +584,26 @@ export default function App() {
   const renderContent = () => {
     switch(view) {
       case 'DASHBOARD': return (
-        <div className="pt-28 px-4 sm:px-6 max-w-4xl mx-auto pb-20">
-          <h1 className="text-3xl font-serif font-semibold text-foreground mb-2">
-            Welcome, {profile?.displayName?.split(' ')[0] || 'Aspirant'}
-          </h1>
-          <p className="text-muted-foreground mb-10">Pick up where you left off.</p>
-          <div className="grid sm:grid-cols-2 gap-4">
-            {[
-              { title: 'Learning Hub', desc: 'Structured CLAT modules', view: 'LEARN', icon: <BookOpen size={22} /> },
-              { title: 'Study Material', desc: 'Guides and notes', view: 'WIKI', icon: <FileText size={22} /> },
-              { title: 'Mock Tests', desc: 'Full exam simulations', view: 'MOCKS', icon: <Trophy size={22} /> },
-              { title: 'Current Affairs', desc: 'Daily GK updates', view: 'DAILY', icon: <Newspaper size={22} /> },
-            ].map((card) => (
-              <button
-                key={card.title}
-                onClick={() => setView(card.view as View)}
-                className="text-left p-6 bg-white border border-border rounded-xl hover:border-primary hover:shadow-md transition-all group"
-              >
-                <div className="text-primary mb-3">{card.icon}</div>
-                <h3 className="font-semibold text-foreground group-hover:text-primary">{card.title}</h3>
-                <p className="text-sm text-muted-foreground mt-1">{card.desc}</p>
-              </button>
-            ))}
-          </div>
-          {streak > 0 && (
-            <p className="mt-8 text-sm text-muted-foreground">
-              Study streak: <span className="font-semibold text-accent">{streak} days</span>
-            </p>
-          )}
-          {!profile?.isPremium && (
-            <div className="mt-10 p-6 bg-primary rounded-xl text-white flex flex-col sm:flex-row items-center justify-between gap-4">
-              <div>
-                <h3 className="font-semibold">Upgrade to Premium</h3>
-                <p className="text-sm text-blue-100 mt-1">Unlimited mocks, AI tutor, and analytics.</p>
-              </div>
-              <button onClick={handleCheckout} className="bg-accent text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-red-700 shrink-0">
-                Upgrade
-              </button>
-            </div>
-          )}
+        <div className="pt-28 px-4 sm:px-6 max-w-6xl mx-auto pb-20">
+          <GamificationDashboard
+            userXp={xp}
+            userLevel={userLevel}
+            currentStreak={streak}
+            longestStreak={streak}
+            unlockedAchievementIds={unlockedAchievements}
+            totalQuestions={totalQuestions}
+            totalCorrect={totalCorrect}
+            totalStudyMinutes={totalStudyMinutes}
+            totalMocks={totalMocks}
+            bestMockScore={bestMockScore}
+            userName={profile?.displayName || 'Aspirant'}
+            userPhoto={profile?.photoURL}
+            onViewAchievements={() => setView('ACHIEVEMENTS')}
+            onStartPractice={() => setView('PRACTICE')}
+            onStartMock={() => setView('MOCKS')}
+            onOpenPlanner={() => setView('PLANNER')}
+            onOpenTutor={() => setView('TUTOR')}
+          />
         </div>
       );
       case 'PRACTICE': return <div className="pt-32 px-4 md:px-6"><AdaptivePractice /></div>;
